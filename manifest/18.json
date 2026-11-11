@@ -29,23 +29,6 @@
 "w": 1067
 }
 ],
-"lesni-materska-skola-lesokruh-118068": [
-{
-"alt": "",
-"barva": "#99897a",
-"dh": "79bb77aab3e48b8d",
-"h": 900,
-"jistota": 0.829,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBP/EACYQAAIBAwIEBwAAAAAAAAAAAAECEQADEgQhBRMxMhQiJDNhkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAABAFEREv/aAAwDAQACEQMRAD8AUu3OHoSsvIGUQelc6X9KrBk5gIMrRxbUO5UXQsdMVAP2a3C/t6hyJkzvRhkjjJePx7WIB37aqLYaqfatP8jy/lVXls4X/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.lesokruh.cz/zazemi2/",
-"typ": "les",
-"url": "https://33e51c72f4.clvaw-cdnwnd.com/9424115300ff2b16195ce28ed4248d87/200002684-1028410286/IMG_20240315_150528%20%282%29.jpeg?ph=33e51c72f4",
-"w": 1200
-}
-],
 "materska-skola-brno-603080": [
 {
 "alt": "",
@@ -358,19 +341,6 @@
 "typ": "zahrada",
 "url": "https://msvelehrad.cz/wp-content/uploads/2024/11/Velehrad-25.webp",
 "w": 1200
-},
-{
-"alt": "",
-"barva": "#a2917c",
-"dh": "6747474747a7070f",
-"h": 901,
-"jistota": 1.0,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://msvelehrad.cz/fotogalerie/",
-"typ": "hygiena",
-"url": "https://msvelehrad.cz/wp-content/uploads/2024/11/Velehrad-23.webp",
-"w": 1200
 }
 ],
 "materska-skola-velka-bites-616441": [
@@ -469,19 +439,6 @@
 "stranka": "https://www.msvelrybka.cz/",
 "typ": "interier",
 "url": "https://www.msvelrybka.cz/images/prostory/Velrybka%20(3).jpg",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#a0a7ab",
-"dh": "6f6ed6f5c5b4393d",
-"h": 795,
-"jistota": 1.0,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://www.msvelrybka.cz/",
-"typ": "hygiena",
-"url": "https://www.msvelrybka.cz/images/prostory/Velrybka%20(6).jpg",
 "w": 1200
 }
 ],
@@ -794,19 +751,6 @@
 "w": 1200
 },
 {
-"alt": "jídelna",
-"barva": "#837e74",
-"dh": "ffb7d78bca30ccc8",
-"h": 900,
-"jistota": 1.0,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://zscejc.cz/jidelna-foto/",
-"typ": "interier",
-"url": "https://zscejc.cz/wp-content/uploads/2026/09/jidelna.jpg",
-"w": 1200
-},
-{
 "alt": "",
 "barva": "#835d35",
 "dh": "f072f3d34d8f6b41",
@@ -987,23 +931,6 @@
 "w": 1200
 }
 ],
-"zakladni-skola-a-materska-skola-loucovice-531984": [
-{
-"alt": "",
-"barva": "#4b513e",
-"dh": "efdd9b5ac90f5de9",
-"h": 809,
-"jistota": 0.739,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAQP/xAAkEAABBAIBAgcAAAAAAAAAAAABAAIDEQQhMQUSEyJBYXKB4f/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAECA1EREiH/2gAMAwEAAhEDEQA/ADSdWypHgOGMSTVAI+TlZYncyQ+GB6MA39oMlRdxaG+Q71zQ/VhlfMQ0uIBANE37qFkdYaNo6vnmJtxkv5KQpj2uGuRfKkZWx4f/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.zsloucovice.cz/skolni-jidelna/fotogalerie/",
-"typ": "budova",
-"url": "https://www.zsloucovice.cz/data/headerfooter/header_images/dji0655cc23srgb.jpg",
-"w": 1200
-}
-],
 "zakladni-skola-a-materska-skola-ludvikovice-561484": [
 {
 "alt": "Školka Koťata",
@@ -1047,36 +974,6 @@
 "w": 1024
 }
 ],
-"zakladni-skola-a-materska-skola-smidary-581370": [
-{
-"alt": "IMG_5351",
-"barva": "#8a7f6f",
-"dh": "006c1ccc6c0c03a0",
-"h": 1200,
-"jistota": 0.998,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAQIG/8QAJRAAAgEDAwMFAQAAAAAAAAAAAQIDABESBCExIlFhEzNBY3GB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AGTCqgYSLvxes5NEozFx3FLjVNE0bQpE6GMdBFgD8kDvWmq1kc7Q+mcTYZqDbe3FjSqW9n1mGIxC28iilknbH2R/TaijSMaPppljADrcdxzVaIQ6lFMbBsDcbXKn8NQn2kNqA7R9aMVYcEGxqbVLpgkn1t5K70VPjleWGN3YlmW5PFFJNg3/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://zssmidary.cz/galerie/",
-"typ": "interier",
-"url": "https://zssmidary.cz/wp-content/uploads/2025/09/IMG_5351-scaled.jpeg",
-"w": 900
-},
-{
-"alt": "e346e1cb-b37d-4020-a470-0a77f70cd2b4",
-"barva": "#7e7364",
-"dh": "195bda232d1e3f1f",
-"h": 1200,
-"jistota": 0.997,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://zssmidary.cz/galerie/",
-"typ": "interier",
-"url": "https://zssmidary.cz/wp-content/uploads/2025/09/e346e1cb-b37d-4020-a470-0a77f70cd2b4.jpeg",
-"w": 900
-}
-],
 "zakladni-skola-a-materska-skola-teleci-800775": [
 {
 "alt": "",
@@ -1118,19 +1015,6 @@
 "typ": "budova",
 "url": "http://www.zsteleci.cz/wp-content/uploads/2021/08/foto-zs-teleci-budova-skoly-1-1.jpeg",
 "w": 1200
-},
-{
-"alt": "",
-"barva": "#73687a",
-"dh": "a7cbd3d2cedad355",
-"h": 800,
-"jistota": 1.0,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://www.zsteleci.cz/jidelna/fotogalerie-jidelna/",
-"typ": "interier",
-"url": "http://www.zsteleci.cz/wp-content/uploads/2021/08/foto-zs-teleci-10.jpeg",
-"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-trebenice-565104": [
@@ -1165,19 +1049,6 @@
 "typ": "budova",
 "url": "https://zskomna.cz/wp-content/uploads/2020/03/komna-skola.png",
 "w": 1200
-},
-{
-"alt": "trojfotka1.jpg",
-"barva": "#868175",
-"dh": "67e48498ba9ee46a",
-"h": 814,
-"jistota": 0.677,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://zskomna.cz",
-"typ": "budova",
-"url": "https://zskomna.cz/wp-content/uploads/2025/03/trojfotka1.jpg.jpg",
-"w": 1024
 }
 ],
 "zs-a-ms-na-statku-121441": [
@@ -1207,19 +1078,6 @@
 "stranka": "https://www.zsdrahelcice.cz/ms/o-skolce/",
 "typ": "zahrada",
 "url": "https://www.zsdrahelcice.cz/ms/wp-content/uploads/sites/2/2025/09/Zahrada-z-okna.jpg",
-"w": 1000
-},
-{
-"alt": "",
-"barva": "#987862",
-"dh": "cc8c949484848c9c",
-"h": 667,
-"jistota": 0.981,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.zsdrahelcice.cz/ms/o-skolce/",
-"typ": "budova",
-"url": "https://www.zsdrahelcice.cz/ms/wp-content/uploads/sites/2/2025/09/IMG_9653-1.jpg",
 "w": 1000
 },
 {

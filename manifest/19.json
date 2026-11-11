@@ -242,19 +242,6 @@
 "typ": "budova",
 "url": "https://www.busanovice.cz/data/headerfooter/header_images/animace1.jpg",
 "w": 786
-},
-{
-"alt": "",
-"barva": "#78785a",
-"dh": "80c3808c616b5b4f",
-"h": 480,
-"jistota": 0.642,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.busanovice.cz/fotogalerie/fotogalerie-materska-skola/tvorive-packy-411cs.html",
-"typ": "les",
-"url": "https://www.busanovice.cz/data/headerfooter/header_images/animace2.jpg",
-"w": 786
 }
 ],
 "materska-skola-citice-545861": [
@@ -480,78 +467,7 @@
 "w": 1200
 }
 ],
-"materska-skola-pacerice-564823": [
-{
-"alt": "MŠ Paceřice",
-"barva": "#e0e3cd",
-"dh": "65a879c8d6dcd87c",
-"h": 587,
-"jistota": 0.976,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACEQAAICAAUFAAAAAAAAAAAAAAECAAMREhMhMQQFFGKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECEv/aAAwDAQACEQMRAD8A2F1zLZkUbkEgxd+t0WXWuQeuXc/Y+4BG4BkHuNVfl1HTTEvzgJN16lB65RbqtFqZ14MIUACpcABCUE//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.mspacerice.cz/",
-"typ": "budova",
-"url": "https://www.mspacerice.cz/image.php?oid=11985187&nid=21470",
-"w": 1200
-},
-{
-"alt": "Pacerice_vizualizace_1.jpg",
-"barva": "#768866",
-"dh": "e1b55bc3d5866339",
-"h": 631,
-"jistota": 0.992,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.mspacerice.cz/projekt-upravy-skolni-zahrady-ctyri-elementy",
-"typ": "zahrada",
-"url": "https://www.mspacerice.cz/image.php?nid=21470&oid=13142825&width=1200&height=631",
-"w": 1200
-},
-{
-"alt": "Úprava_vstupu_do_MŠ_Stránka_01.jpg",
-"barva": "#a19f97",
-"dh": "4ee2d252d488e0f0",
-"h": 848,
-"jistota": 0.696,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.mspacerice.cz/projekt-obnoveni-predniho-vstupu-do-budovy-ms",
-"typ": "budova",
-"url": "https://www.mspacerice.cz/image.php?nid=21470&oid=13142621&width=1200&height=848",
-"w": 1200
-},
-{
-"alt": "Pacerice_vizualizace_2.jpg",
-"barva": "#748064",
-"dh": "59c7e7e6d86d2447",
-"h": 631,
-"jistota": 0.575,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://www.mspacerice.cz/projekt-upravy-skolni-zahrady-ctyri-elementy",
-"typ": "zahrada",
-"url": "https://www.mspacerice.cz/image.php?nid=21470&oid=13142830&width=1200&height=631",
-"w": 1200
-}
-],
 "materska-skola-pardubice-polabiny-584760": [
-{
-"alt": "20240529_102648",
-"barva": "#979292",
-"dh": "4016d69439312323",
-"h": 900,
-"jistota": 0.927,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIAA8AFAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEAAX/xAAnEAACAgIABQIHAAAAAAAAAAABAgMRAAQFEhMhURQxMlJhcZGhov/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEAAwAAAAAAAAAAAAAAAAABERIx/9oADAMBAAIRAxEAPwB3poF2xr8skpAt2X4U8XhV3tfoStHrLz3Uam2seT4+2M0FGrwzclWrA5bAqyB7/k4KCCIDqOpZkV2uz2rsO1/TEhwxOJasMUY2UYSFQx6aCv2cszdqEvKB8qKv8jLJmt6x/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.ms-mladych.cz/superhrdinove-aneb-legendy-v-pardubicich",
-"typ": "budova",
-"url": "https://www.ms-mladych.cz/cache/galleryBeauty/galleryLBox/20240529-102648.jpg",
-"w": 1200
-},
 {
 "alt": "20240529_104148",
 "barva": "#a3a7a8",
@@ -696,19 +612,6 @@
 "stranka": "https://www.ms-slunicko.com/predstavujeme-ms/",
 "typ": "budova",
 "url": "https://www.ms-slunicko.com/wp-content/uploads/2021/06/ms-slunicko-1-1.jpg",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#87693b",
-"dh": "d6b7e76686031b1e",
-"h": 576,
-"jistota": 0.949,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.ms-slunicko.com/fotogalerie/",
-"typ": "zahrada",
-"url": "https://www.ms-slunicko.com/wp-content/gallery/2021_09_27_zahrada/011_2021_09_27_zahrada.jpg",
 "w": 1200
 },
 {
@@ -864,19 +767,6 @@
 "stranka": "https://www.skolkaupotucku.cz/",
 "typ": "les",
 "url": "https://www.skolkaupotucku.cz/assets/skolka/skolka-11.jpg",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#6b6d6b",
-"dh": "2567268ccca7a383",
-"h": 900,
-"jistota": 0.94,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://www.skolkaupotucku.cz/",
-"typ": "budova",
-"url": "https://www.skolkaupotucku.cz/assets/skolka/skolka-04.jpg",
 "w": 1200
 }
 ],
@@ -1158,19 +1048,6 @@
 "w": 1200
 },
 {
-"alt": "Základní škola",
-"barva": "#826e53",
-"dh": "bcb9b1c994f6628c",
-"h": 900,
-"jistota": 1.0,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.zs-pardubicky.cz/",
-"typ": "interier",
-"url": "https://www.zs-pardubicky.cz/wp-content/uploads/2021/09/IMG_0488-scaled-e1631704580818.jpg",
-"w": 1200
-},
-{
 "alt": "Mateřská škola",
 "barva": "#8b898b",
 "dh": "4d1f01651b39350f",
@@ -1186,21 +1063,6 @@
 ],
 "zakladni-skola-a-materska-skola-rudoltice-590221": [
 {
-"alt": "",
-"barva": "#777a5c",
-"dh": "9ed5e93f26672f67",
-"h": 675,
-"jistota": 0.971,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EACUQAAICAQMCBwEAAAAAAAAAAAECAxEAEhQhBEEiIzFhcYHB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAASERAhL/2gAMAwEAAhEDEQA/AEjDzRGbcCEVqAYX8isTbCVFdXV0YDUSCCaPY9v5lURVhSgPGDq9/XIvLIOlgIc3bD6B4zP7lC5RJOmk1mok03x5g/cMx91MzMzPZJ5JAwyy4WC6f//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.zsrudoltice.cz",
-"typ": "zahrada",
-"url": "https://static.wixstatic.com/media/24282f_91d9c468423f488699e15d9fae36d753~mv2.jpg",
-"w": 1200
-},
-{
 "alt": "IMG_8874.jpeg",
 "barva": "#c9c4aa",
 "dh": "1c3c1c14540e1a72",
@@ -1212,23 +1074,6 @@
 "typ": "hygiena",
 "url": "https://static.wixstatic.com/media/24282f_63d8f16f6f764c46990bbc765a706fe1~mv2.jpeg",
 "w": 1200
-}
-],
-"zakladni-skola-a-materska-skola-sanov-614219": [
-{
-"alt": "og",
-"barva": "#9b7459",
-"dh": "6d2d999b2b3b25ca",
-"h": 540,
-"jistota": 1.0,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAEKgD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDAAQRBRIhMSIyUWFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AGV1u3KSwiNmGSS/G1c9ZrHfajHdXEUawCPEgbIYEH8oKLXZre2lhYJIWPqAxn796ynUJTMkvgCvQC8YoLimSilQdi8l7E7kq2B81UFuzztFVDwRMn//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.zssanov.cz/https-www-zssanov-cz-o-nas-o-nas/stravovani/",
-"typ": "interier",
-"url": "http://www.zssanov.cz/wp-content/uploads/300282_251907404843839_5189188_n.jpg",
-"w": 720
 }
 ],
 "zakladni-skola-a-materska-skola-sazavka-580390": [
@@ -1246,63 +1091,9 @@
 "typ": "budova",
 "url": "https://www.zssazavka.cz/files/img/1573213945_dsc04545.jpg",
 "w": 1200
-},
-{
-"alt": "20190901",
-"barva": "#868078",
-"dh": "7c3868672968286a",
-"h": 900,
-"jistota": 1.0,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.zssazavka.cz/fotogalerie1/?id=5",
-"typ": "interier",
-"url": "https://www.zssazavka.cz/files/img/1569575748_20190901_142451.jpg",
-"w": 1200
-},
-{
-"alt": "dsc04544.jpg",
-"barva": "#74726e",
-"dh": "23686fc38f8e2d79",
-"h": 800,
-"jistota": 0.998,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.zssazavka.cz/fotogalerie1/?id=5",
-"typ": "budova",
-"url": "https://www.zssazavka.cz/files/img/1573213923_dsc04544.jpg",
-"w": 1200
-},
-{
-"alt": "20190901",
-"barva": "#88807a",
-"dh": "d0a0cbc0c0e4fcd8",
-"h": 900,
-"jistota": 0.999,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://www.zssazavka.cz/fotogalerie1/?id=5",
-"typ": "interier",
-"url": "https://www.zssazavka.cz/files/img/1569575707_20190901_142320.jpg",
-"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-strelice-603900": [
-{
-"alt": "",
-"barva": "#9b967c",
-"dh": "5b63b80c24969d1c",
-"h": 900,
-"jistota": 1.0,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAkEAACAgIABAcAAAAAAAAAAAABAgMRAAQSITFBFCIjUXGBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQEBAQADAAAAAAAAAAAAAAABAAISEzH/2gAMAwEAAhEDEQA/ALwakDvGmurxOBUbA2By7i+nM4zU0fAZAsqyWFaOx06+XMtf1NgEk8F3Q7DJ2Wg04kMruqgkfpPt85k4Ne1Ck7FqvNEsgZVDCwDd1hisI3xEvh91TFVpxgg19YYunMcm/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.skolastrelice.cz/fotogalerie-zs-a-ms-strelice/",
-"typ": "budova",
-"url": "https://www.skolastrelice.cz/wp-content/uploads/2025/08/IMG_5853-EDIT-scaled-1.jpg",
-"w": 1200
-},
 {
 "alt": "",
 "barva": "#9d8b6a",
@@ -1314,19 +1105,6 @@
 "stranka": "https://www.skolastrelice.cz/fotogalerie-zs-a-ms-strelice/",
 "typ": "interier",
 "url": "https://www.skolastrelice.cz/wp-content/uploads/2024/08/DM45494-1.jpg",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#797a66",
-"dh": "9e0d2e1e65271ff5",
-"h": 900,
-"jistota": 0.995,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.skolastrelice.cz/fotogalerie-zs-a-ms-strelice/",
-"typ": "zahrada",
-"url": "https://www.skolastrelice.cz/wp-content/uploads/2026/09/IMG_3929.jpg",
 "w": 1200
 },
 {
@@ -1401,19 +1179,6 @@
 "typ": "interier",
 "url": "https://www.zskopce.cz/data_slider/16123607023.jpg",
 "w": 1200
-},
-{
-"alt": "",
-"barva": "#6f624d",
-"dh": "060040410a0a0b03",
-"h": 450,
-"jistota": 0.955,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.zskopce.cz/",
-"typ": "interier",
-"url": "https://www.zskopce.cz/img/slide_home/headline-1024-a-min.jpg?v=1.0",
-"w": 1024
 }
 ],
 "zakladni-skola-a-materska-skola-zborovice-609886": [
