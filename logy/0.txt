@@ -1,0 +1,9 @@
+[21:36:47] Část 1/1: webů 5, hotovo 0, zbývá 5
+[21:36:49] https://www.mshornibecva.cz: nedostupné nebo zakázané
+[21:36:50] https://www.zstrinec.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[21:37:02] https://www.ms-pittera.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 1 fotek ke kontrole
+[21:37:23] https://www.skolkaveltrusy.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 7 fotek ke kontrole
+[21:37:44] https://zsdolboj.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 91 obrázků, 27 fotek ke kontrole
+[21:37:58] tříděno 0/35
+[21:38:00] Dávka 1: hotovo 5/5, se fotkami 2; {'ok': 7, 'lide': 1, 'jine': 26, 'sablona': 0}
+[21:38:00] Konec: školek s fotkami 2; {'ok': 7, 'lide': 1, 'jine': 26, 'sablona': 0}

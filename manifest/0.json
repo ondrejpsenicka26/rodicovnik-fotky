@@ -1,0 +1,101 @@
+{
+"materska-skola-veltrusy-513820": [
+{
+"alt": "Mateřská škola Veltrusy",
+"barva": "#b4b3a1",
+"dh": "9f9dbc9c90fc0351",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAgEAACAQMFAQEAAAAAAAAAAAABAgMABBEFEhMhMVHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACAxESIf/aAAwDAQACEQMRAD8AtDVOW6YqWQEAqT5Sri7kldhzSEAjw9U428bDtc5+mstdNsZZiklrGcdg+UOO4z84t6tzm1jZUaSeUMy5xux+0VZXTowoCbQo6ClA2B8GaKUWkL//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkaveltrusy.cz/tridy",
+"typ": "budova",
+"url": "https://www.skolkaveltrusy.cz/image.php?oid=12514288&nid=21565",
+"w": 1200
+},
+{
+"alt": "Mateřská škola Veltrusy, okres Mělník",
+"barva": "#c4af91",
+"dh": "a3a62c6c333337b7",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkaveltrusy.cz/zabicky",
+"typ": "interier",
+"url": "https://www.skolkaveltrusy.cz/image.php?oid=12514289&nid=21565",
+"w": 1200
+},
+{
+"alt": "Mateřská škola Veltrusy, okres Mělník",
+"barva": "#b09681",
+"dh": "33b97de6cc897971",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkaveltrusy.cz/motylci",
+"typ": "interier",
+"url": "https://www.skolkaveltrusy.cz/image.php?oid=12514290&nid=21565",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-dolni-bojanovice-606861": [
+{
+"alt": "",
+"barva": "#6b6c5c",
+"dh": "3777777712c63339",
+"h": 800,
+"jistota": 0.922,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAjEAACAgIABQUAAAAAAAAAAAABAgMRAAQFEiExkQYTUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/ANTepp10oI4CrSiIe40q9S3x3xXLxHiG9oSw7OwjBm56K/ljsMjqxRulupJ+6y5IjRiJQxk9QFN+bzPqiEa6WxNbKObrV3hjptKIEgc3nDK2Hj//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsdolboj.cz/ms/",
+"typ": "budova",
+"url": "https://zsdolboj.cz/wp-content/uploads/A0c1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#89663e",
+"dh": "0343231b46476762",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsdolboj.cz/ms/",
+"typ": "interier",
+"url": "https://zsdolboj.cz/wp-content/uploads/A58a.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7e7a5b",
+"dh": "8b82408482c8c687",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsdolboj.cz/ms/",
+"typ": "zahrada",
+"url": "https://zsdolboj.cz/wp-content/uploads/A58b.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#998a7e",
+"dh": "051c1d4c140e0731",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zsdolboj.cz/skolni-jidelna/",
+"typ": "interier",
+"url": "https://zsdolboj.cz/wp-content/uploads/A98a.jpg",
+"w": 1200
+}
+]
+}
