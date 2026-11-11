@@ -519,32 +519,6 @@
 },
 {
 "alt": "",
-"barva": "#837d68",
-"dh": "1c05b50d4600080c",
-"h": 900,
-"jistota": 0.999,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.mspysely.cz/o-skole/aktualne/kalendar-akci/ekoprogram-ozivle-zivly-1setkani-vetrnik-ms-na-pradle-zo-trida-1261_390cs.html",
-"typ": "interier",
-"url": "https://www.mspysely.cz/data/headerfooter/header_images/ms-pysely-8foto.jpg",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#6e7f5b",
-"dh": "5dc98d8e5ec1ace7",
-"h": 900,
-"jistota": 0.999,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.mspysely.cz/o-skole/aktualne/kalendar-akci/ekoprogram-ozivle-zivly-1setkani-vetrnik-ms-na-pradle-zo-trida-1261_390cs.html",
-"typ": "zahrada",
-"url": "https://www.mspysely.cz/data/headerfooter/header_images/ms-pysely-5foto.jpg",
-"w": 1200
-},
-{
-"alt": "",
 "barva": "#747a6a",
 "dh": "66632965c9e13d0e",
 "h": 900,
@@ -769,23 +743,6 @@
 "stranka": "https://www.skolkaupotucku.cz/",
 "typ": "les",
 "url": "https://www.skolkaupotucku.cz/assets/skolka/skolka-11.jpg",
-"w": 1200
-}
-],
-"ss-zs-a-ms-pro-sluchove-postizene-022602": [
-{
-"alt": "20261008_094015",
-"barva": "#786b60",
-"dh": "92d62c7ccbd2cb4e",
-"h": 900,
-"jistota": 0.905,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EACIQAAICAQQBBQAAAAAAAAAAAAEDAhEABBITIYEFIlGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGhEAAwADAQAAAAAAAAAAAAAAAAERAhIhUf/aAAwDAQACEQMRAD8AzNgDeWXCmND2cZIP3iIWreYanV3O7MVj8xLtI1zxKU7iSATLs+O8paxmnZJi3ckZDuwQY1kVvpcWPEMSZLWBFzvnsi/PWGTp9RbOG7jjRPVyN1hjaCLw/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.sluch-ol.cz/galerie/rijen-v-ms",
-"typ": "zahrada",
-"url": "https://www.sluch-ol.cz/comokliuop/uploads/2026/11/20261008_094015.jpg",
 "w": 1200
 }
 ],

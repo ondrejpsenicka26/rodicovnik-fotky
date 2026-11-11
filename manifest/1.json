@@ -1126,26 +1126,13 @@
 "zakladni-skola-a-materska-skola-zajecov-511035": [
 {
 "alt": "",
-"barva": "#7c716a",
-"dh": "613dc1256d851b8f",
-"h": 600,
-"jistota": 1.0,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEBRESMRNBUXGBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwQhQXH/2gAMAwEAAhEDEQA/AEEsJpF5JGSvv1Wq4ecgEgDfyam3zXldUBJJTehtV/aakvpUUE26sB68zQ11vkVRJz7jHNC4UkHY31RVpstyfZhUfdFIyHA2JGtT2f/Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://zajecov.cz/foto-zs-a-ms/",
-"typ": "budova",
-"url": "https://zajecov.cz/fotky/166/DSCN0143.JPG",
-"w": 800
-},
-{
-"alt": "",
 "barva": "#6a5e57",
 "dh": "3be50747c50dc799",
 "h": 600,
 "jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBf/EACAQAAICAQUAAwAAAAAAAAAAAAECAxEABBITITEFMmL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABoRAAMBAAMAAAAAAAAAAAAAAAABAgMRMUH/2gAMAwEAAhEDEQA/AMQ0BIBZkS/LOWHxKcJkaYCruh1nN4Y3a2VmP6YnKnXKG42nm3Ka+xrI71fTEpheDU6Vop3RYZZFHjBejjErb5CzDcT6TjEtbS4C4k//2Q==",
 "ms": true,
+"nahled": "3-nahled.webp",
 "soubor": "3.webp",
 "stranka": "https://zajecov.cz/foto-zs-a-ms/",
 "typ": "budova",

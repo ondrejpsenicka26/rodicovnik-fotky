@@ -856,26 +856,13 @@
 "zakladni-skola-a-materska-skola-jesenice-u-sedlcan-000328": [
 {
 "alt": "",
-"barva": "#817c53",
-"dh": "0fd1343e9d6b3376",
-"h": 799,
-"jistota": 0.919,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAMEAP/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEERIhMQUTM0GB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBEgIxUf/aAAwDAQACEQMRAD8AWKzct8xjYYJ9bYz+0F2biBCz3DyHcrrsxznqpxfyrGATtgHk1OPJzqNydtR0euazW4J4rQr3EYPMcgP2Gl1rVGxW4YvKuW6yDitVeQs//9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.zs-jesenice.cz/materska-skola/fotogalerie-ms/2026-2027/",
-"typ": "budova",
-"url": "https://www.zs-jesenice.cz/data/headerfooter/header_images/zaberzs4.jpg",
-"w": 1200
-},
-{
-"alt": "",
 "barva": "#838754",
 "dh": "f3938fc69f364b0b",
 "h": 480,
 "jistota": 0.819,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACUQAAIBBAAEBwAAAAAAAAAAAAECAwAEESEFEhNBFCIjUWFxkv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8AIbSS4ug0XTeMIAFlzhsa96d044LaQwcPQFlJGCCrDud7pPD2bli8x1EmN/dVZ2Jc5J0Bj4rC9RRoJi+tnZUA98JRVu8hj8S3pp+RRV+Cw//Z",
 "ms": true,
+"nahled": "2-nahled.webp",
 "soubor": "2.webp",
 "stranka": "https://www.zs-jesenice.cz/materska-skola/fotogalerie-ms/2026-2027/",
 "typ": "zahrada",
