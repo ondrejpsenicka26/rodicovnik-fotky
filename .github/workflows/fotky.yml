@@ -1,0 +1,84 @@
+# Stáhne a roztřídí fotky školek z jejich webů (viz scripts/fotky.py).
+# Běží ve více částech zároveň; každá část zpracuje svůj díl webů z cile.json
+# a výsledky rovnou uloží do větve main (GitHub Pages je zveřejní).
+# Spouští se ručně (Actions → Fotky školek → Run workflow). Přerušený běh stačí
+# spustit znovu – hotové weby se přeskočí.
+name: Fotky školek
+
+on:
+  workflow_dispatch:
+    inputs:
+      casti:
+        description: "Na kolik částí běh rozdělit"
+        default: "20"
+      filtr:
+        description: "Jen weby obsahující tento text (test, prázdné = vše)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fotky
+  cancel-in-progress: false
+
+jobs:
+  priprava:
+    runs-on: ubuntu-latest
+    outputs:
+      casti: ${{ steps.c.outputs.casti }}
+      pocet: ${{ steps.c.outputs.pocet }}
+    steps:
+      - id: c
+        run: |
+          N="${{ inputs.casti || '20' }}"
+          echo "pocet=$N" >> "$GITHUB_OUTPUT"
+          echo "casti=$(python3 -c "import json;print(json.dumps(list(range($N))))")" >> "$GITHUB_OUTPUT"
+
+  fotky:
+    needs: priprava
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        cast: ${{ fromJson(needs.priprava.outputs.casti) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # fotky samotné nestahujeme, stačí skripty, cíle a seznamy hotových webů
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            manifest
+            hotovo
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Knihovny (CPU)
+        run: |
+          pip install -q torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install -q ultralytics open_clip_torch pillow
+      - name: Stáhnout a roztřídit fotky
+        env:
+          SHARD: ${{ matrix.cast }}
+          SHARDS: ${{ needs.priprava.outputs.pocet }}
+          LIMIT_MIN: "290"
+        run: python3 scripts/fotky.py ${{ inputs.filtr }}
+      - name: Uložit do větve main
+        if: always()
+        env:
+          SHARD: ${{ matrix.cast }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          for f in fotky "manifest/$SHARD.json" "hotovo/$SHARD.json" "logy/$SHARD.txt"; do
+            [ -e "$f" ] && git add --sparse "$f"
+          done
+          git commit -q -m "Fotky: část $SHARD ($(date -u +%Y-%m-%dT%H:%MZ))" || { echo "Nic nového"; exit 0; }
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            git pull --rebase -q && git push -q && exit 0
+            sleep $((RANDOM % 30 + 5))
+          done
+          exit 1
