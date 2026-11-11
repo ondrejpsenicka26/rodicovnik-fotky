@@ -2,7 +2,7 @@
 
 Hlavní stahování používá YOLO11s (práh 0,15). Tady jede větší model YOLO11x ve vyšším
 rozlišení s nižším prahem a navíc na zvětšených výřezech (malé postavy v pozadí).
-Výsledek: kontrola.json {"fotky/<slug>/<n>.webp": nejvyšší jistota osoby}. Fotky
+Výsledek: kontrola/<část>.json {"fotky/<slug>/<n>.webp": nejvyšší jistota osoby}. Fotky
 s jistotou ≥ 0,10 pak člověk prohlédne a sporné vyřadí.
 """
 
@@ -13,9 +13,11 @@ import os
 from PIL import Image
 from ultralytics import YOLO
 
+CAST = int(os.environ.get("CAST", "0"))
+CASTI = int(os.environ.get("CASTI", "1"))
 model = YOLO("yolo11x.pt")
 vysledek = {}
-soubory = [f for f in sorted(glob.glob("fotky/*/*.webp")) if "nahled" not in f]
+soubory = [f for f in sorted(glob.glob("fotky/*/*.webp")) if "nahled" not in f][CAST::CASTI]
 print("Fotek:", len(soubory), flush=True)
 for i, f in enumerate(soubory):
     im = Image.open(f).convert("RGB")
@@ -35,5 +37,6 @@ for i, f in enumerate(soubory):
         vysledek[f] = round(nejvic, 3)
     if i % 100 == 0:
         print(f"{i}/{len(soubory)}, podezřelých {len(vysledek)}", flush=True)
-json.dump(vysledek, open("kontrola.json", "w"), indent=0, sort_keys=True)
+os.makedirs("kontrola", exist_ok=True)
+json.dump(vysledek, open(f"kontrola/{CAST}.json", "w"), indent=0, sort_keys=True)
 print("Hotovo, podezřelých:", len(vysledek))
