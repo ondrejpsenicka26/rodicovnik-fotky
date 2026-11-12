@@ -226,6 +226,62 @@
 "w": 1200
 }
 ],
+"materska-skola-jablicko-velke-prilepy-517086": [
+{
+"alt": "",
+"barva": "#dad9c7",
+"dh": "0843cdc0f3e08892",
+"h": 512,
+"jistota": 0.669,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBv/EACAQAAEDBAIDAAAAAAAAAAAAAAEAAgMEBRESITEicYH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQEh/9oADAMBAAIRAxEAPwDS3G4PjeI6ckOafI459JxXMzB2wEBHWwzlXnspLPtKcTbctqQR8QqQhVdD/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msjablickovelkeprilepy.cz/o-skole/tridy/",
+"typ": "budova",
+"url": "https://www.msjablickovelkeprilepy.cz/data/headerfooter/header_images/msjablickosvicebnisalvizualizace_1.png",
+"w": 1132
+},
+{
+"alt": "",
+"barva": "#926962",
+"dh": "434b47471b2fb7b3",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msjablickovelkeprilepy.cz/o-skole/tridy/",
+"typ": "interier",
+"url": "https://www.msjablickovelkeprilepy.cz/data/headerfooter/header_images/dsc4648.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#898d6d",
+"dh": "6ceaded6e7e6d51b",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msjablickovelkeprilepy.cz/o-skole/tridy/",
+"typ": "zahrada",
+"url": "https://www.msjablickovelkeprilepy.cz/data/headerfooter/header_images/dsc4613.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b48360",
+"dh": "1112665723191101",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msjablickovelkeprilepy.cz/o-skole/tridy/",
+"typ": "interier",
+"url": "https://www.msjablickovelkeprilepy.cz/data/headerfooter/header_images/dsc4662.JPG",
+"w": 1200
+}
+],
 "materska-skola-jaromerice-nad-rokytnou-611201": [
 {
 "alt": "og",
@@ -279,6 +335,36 @@
 "stranka": "https://www.ms-jaromerice.cz/prirodni-zahrada/",
 "typ": "les",
 "url": "https://www.ms-jaromerice.cz/wp-content/uploads/2024/10/DSC00361-scaled.jpg",
+"w": 1200
+}
+],
+"materska-skola-kladno-511380": [
+{
+"alt": "Mateřská škola Moskevská 3082, KLADNO",
+"barva": "#819790",
+"dh": "fde8fd99193c3202",
+"h": 667,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAIhAAAgAGAgIDAAAAAAAAAAAAAQIAAwQFERIhQRNhMVHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAgExAwQRE//aAAwDAQACEQMRAD8AqybtR1U0pKZ8AkblCFJHuB1FwVqpBLYaBgAc8NEW3VMyUQinOzFs/X7EVUoEnIHZ25+PXcDZ2iycIo5rhJDsFQsAcbADmNB1t2FA878dkCNE52n7Yean/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-moskevska.cz/nahrat-jidelnicek/",
+"typ": "budova",
+"url": "https://www.ms-moskevska.cz/wp-content/uploads/2020/06/IMG_4649-1.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#687f5a",
+"dh": "c54351c681c90c11",
+"h": 800,
+"jistota": 0.888,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-moskevska.cz/galerie_skolky/",
+"typ": "les",
+"url": "https://www.ms-moskevska.cz/wp-content/uploads/2016/09/photo-gallery/imported_from_media_libray/IMG_5120-scaled.jpg?bwg=1624887723",
 "w": 1200
 }
 ],
@@ -450,6 +536,49 @@
 "w": 1200
 }
 ],
+"materska-skola-ostrava-dubina-144706": [
+{
+"alt": "Sedmikráska a Pampeliška",
+"barva": "#728659",
+"dh": "5e5939704e9ba3e4",
+"h": 1040,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUEA//EACIQAAICAQQBBQAAAAAAAAAAAAECAAMRBBIhMUEFUVJh8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAL/xAAgEQACAQEJAAAAAAAAAAAAAAAAAgEDBBESFEFRYYHw/9oADAMBAAIRAxEAPwDaubqa2Vk2jJyeyOsTgGLXhCAEzgtMKajZSKlA2r4PMHUOvNW1G+WM/upBXqJFyscvKNoWbNC6kAOo49okyr1jW1IFW84H0IjmbTx7oMNLYmOxXOIDkjxEQJjceIiJgP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.sedmikraskaapampeliska.cz/",
+"typ": "budova",
+"url": "https://www.sedmikraskaapampeliska.cz/image.php?oid=11324081&nid=21366",
+"w": 1040
+},
+{
+"alt": "IMG_9760.jpg",
+"barva": "#958463",
+"dh": "8c66e7c78f3b3b9f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.sedmikraskaapampeliska.cz/tridy-gavlase",
+"typ": "interier",
+"url": "https://www.sedmikraskaapampeliska.cz/file.php?nid=21366&oid=13193099",
+"w": 1200
+},
+{
+"alt": "att.SdT86KYwZYvZlx4kYCtYZaQjqwij2e_XSn95XytGrW8.jpg",
+"barva": "#937b66",
+"dh": "24c43331e0520f0d",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.sedmikraskaapampeliska.cz/tridy-gavlase",
+"typ": "interier",
+"url": "https://www.sedmikraskaapampeliska.cz/image.php?nid=21366&oid=13193276",
+"w": 1200
+}
+],
 "materska-skola-pomnenka-030136": [
 {
 "alt": "15",
@@ -534,6 +663,23 @@
 "typ": "interier",
 "url": "https://www.msrajhradice.cz/wp-content/uploads/2024/09/trida3-2.jpg",
 "w": 900
+}
+],
+"materska-skola-rybi-625288": [
+{
+"alt": "Mateřská škola Rybí",
+"barva": "#a99275",
+"dh": "3716c6dfc7cbcf16",
+"h": 881,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAVABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAnEAACAgIABQIHAAAAAAAAAAABAgADBBESEyEiUTGBBRUyYZHR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAaEQEBAAIDAAAAAAAAAAAAAAAAAQISAxFB/9oADAMBAAIRAxEAPwDo/OsnGflZVbDwT3A+/rK8jLpuxbACws3v2kfilwGcSqUOBoqW+odf4yd1SW7LJy3J6Hex6fuRnJel8sJ4470ixuIqpPkxLbazU/CTs/YRHZLVrpwKcoLbaGLnwxAmtwFGtt29BsxE5raUVU6Hc35iImQ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msrybi.cz/",
+"typ": "budova",
+"url": "https://www.msrybi.cz/image.php?oid=12017755&nid=21560",
+"w": 839
 }
 ],
 "materska-skola-sobotovice-120887": [
@@ -692,6 +838,23 @@
 "typ": "interier",
 "url": "https://www.zsdlouhaves.cz/resizer/resizer.aspx?w=960&img=/zsdlouhaves/user/foto/20220107_123227.jpg",
 "w": 960
+}
+],
+"zakladni-skola-a-materska-skola-jarov-068397": [
+{
+"alt": "",
+"barva": "#72766f",
+"dh": "373737771f3f0f0f",
+"h": 788,
+"jistota": 0.961,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQb/xAAiEAACAQMEAgMAAAAAAAAAAAABAhEAAwQFEiExEyJBUXH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFR/9oADAMBAAIRAxEAPwBuiZ2ecRsjzve8swhaSDPzNY2pZ9jDZcpri3JYgshI74k1H0HMu4pKWz6O4JX8qnrl/bZhV5bkkms6rOOZv5DPedg4EmSAvE0Ugsdx67+qKQ//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsjarov.cz/o-skole/zs-jarov-jidelna-2/",
+"typ": "zahrada",
+"url": "https://i0.wp.com/www.zsjarov.cz/wp-content/uploads/2023/09/zs-jarov-jidelna-2.jpg?ssl=1",
+"w": 1181
 }
 ],
 "zakladni-skola-a-materska-skola-lazne-kynzvart-541271": [
