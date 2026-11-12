@@ -373,6 +373,23 @@
 "w": 1200
 }
 ],
+"materska-skola-klubicko-585324": [
+{
+"alt": "Zahrada",
+"barva": "#787b6b",
+"dh": "8b879c3c4926e6d3",
+"h": 892,
+"jistota": 0.916,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAATABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAkEAACAwABAwMFAAAAAAAAAAABAgADESEFEzEEEiIUMlFxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAdEQACAQQDAAAAAAAAAAAAAAAAAQIDERIxExQh/9oADAMBAAIRAxEAPwCXfP1TD2YgP3ZnH5lHreo+lrCXYe8QVSzOVGy0dJurX5XU1c6Q9hP8MHoFVihrHR8OkUg+P2TF2JPYccVpmMUfA9fYyz5bZ5JJ8xNtOiVWoCHVAOMZhoiZ5xHYjdUguQZwWG8ylHZbbPaxAG4N4ERKqJKXhJx3YnSdJ5JiIkDP/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msgrusova.cz/",
+"typ": "zahrada",
+"url": "https://msgrusova.cz/wp-content/uploads/2025/08/zahrada-sklolka1.webp",
+"w": 920
+}
+],
 "materska-skola-klubicko-629615": [
 {
 "alt": "",
@@ -588,6 +605,53 @@
 "w": 902
 }
 ],
+"materska-skola-slatinany-582368": [
+{
+"alt": "",
+"barva": "#a0896e",
+"dh": "9c65aeeee50f2c7e",
+"h": 575,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAgX/xAAjEAACAgECBgMAAAAAAAAAAAABAgMRABIhBAUTIjFhQVJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwH/xAAaEQACAwEBAAAAAAAAAAAAAAACEQABIQNB/9oADAMBAAIRAxEAPwBck8LI/TezqGkofnDywxsoLWb+x850U4eGIVHGq/gwPMlA0MBut168Ydh64wDqh5ZY7Xq0prYL3CryzXL+/go2YAk3vXs5YV8gG0pE9qf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msslatinany.cz/o-skole/tridy/pohadkova-trida/",
+"typ": "interier",
+"url": "https://www.msslatinany.cz/data/editor/186cs_4_big.jpg?gcm_date=1659264421",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#8b7863",
+"dh": "2bbe3f5e770d1f9b",
+"h": 575,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msslatinany.cz/o-skole/tridy/pohadkova-trida/",
+"typ": "interier",
+"url": "https://www.msslatinany.cz/data/editor/186cs_2_big.jpg?gcm_date=1659264267",
+"w": 1024
+}
+],
+"materska-skola-slunicko-053369": [
+{
+"alt": "skolka.jpg",
+"barva": "#8b8f71",
+"dh": "13230397974f6f0f",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAEDAwIFBQAAAAAAAAAAAAECAxEABAUSEwYhMVGRIzNBcaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhMh/9oADAMBAAIRAxEAPwBOFy7uPKkBCdb0ST8wO1biOJk6CShJjqQYH7WVb46yd0+iA53Vznx0qu4x9qwyNthASeSpEz5rFZ8qCpkbmWbW6tW4oSZgKFFLNnaz7CR9Cip2iP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.slunicko-milevsko.cz/prostredi",
+"typ": "budova",
+"url": "https://www.slunicko-milevsko.cz/file.php?nid=14560&oid=4877600",
+"w": 800
+}
+],
 "materska-skola-suchy-600561": [
 {
 "alt": "",
@@ -603,6 +667,49 @@
 "typ": "budova",
 "url": "http://mssuchy.cz/wp-content/uploads/2021/03/DSC_0123_panorama.jpg",
 "w": 1200
+}
+],
+"materska-skola-v-jemnici-611228": [
+{
+"alt": "Třída Klubíčko",
+"barva": "#5a594e",
+"dh": "011505617c0e0200",
+"h": 600,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAUAAgb/xAAfEAABBAICAwAAAAAAAAAAAAABAAIDEQQhBRIiMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AB4Jo4Oj5WEtsGqTeFyuM6OTo+Npc++rjWqAXNxyALZbHJ7bR+jSmTCb5HKMuTbXCg0DxNhSJ3W5HKR0v//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msjemnice.cz/o-skole/tridy-foto/category/166-klubicko",
+"typ": "interier",
+"url": "https://www.msjemnice.cz/images/phocagallery/Tridy/Klubicko/thumbs/phoca_thumb_l_2329b745-bfc5-424f-8454-f2d2e42ddec4.jpeg",
+"w": 800
+},
+{
+"alt": "Chodníky",
+"barva": "#63766d",
+"dh": "806f6c707adf1130",
+"h": 768,
+"jistota": 0.746,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msjemnice.cz/o-skole/tridy-foto/category/598-ms-chodniky",
+"typ": "zahrada",
+"url": "https://www.msjemnice.cz/images/phocagallery/Tridy/MS-chodniky/thumbs/phoca_thumb_l_9ce41870-2048-4c03-8547-8c72d07f2073.jpg",
+"w": 1024
+},
+{
+"alt": "Třída Klubíčko",
+"barva": "#b1ad88",
+"dh": "c0f05010d0e98101",
+"h": 600,
+"jistota": 0.977,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msjemnice.cz/o-skole/tridy-foto/category/166-klubicko",
+"typ": "interier",
+"url": "https://www.msjemnice.cz/images/phocagallery/Tridy/Klubicko/thumbs/phoca_thumb_l_82b65733-14fa-44ce-ade2-4d7ae9c7ebdf.jpeg",
+"w": 800
 }
 ],
 "materska-skola-velka-bites-615819": [
