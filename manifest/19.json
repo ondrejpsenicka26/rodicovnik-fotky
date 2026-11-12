@@ -85,6 +85,62 @@
 "w": 1200
 }
 ],
+"materska-skola-a-zakladni-skola-bartlova-503662": [
+{
+"alt": "",
+"barva": "#7c7c63",
+"dh": "5c7c761b0b0b7919",
+"h": 861,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwQF/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDEQAEBSIGEiETMVFhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABoRAAICAwAAAAAAAAAAAAAAAAABAhEDEhP/2gAMAwEAAhEDEQA/ANO27xEujigaUM6Cu9+N+fjJT7kZGCesFY3xU+4xdikV1pVNfZy1JWaUAhQRYBo/uZ5NpRpMUkjvQ9QaZIlWZH71FNQuzhi66qGuzy5ecMOsiaP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolabartlova.cz/ms-litvinovska/nase-skolka/o-nas/",
+"typ": "budova",
+"url": "https://skolabartlova.cz/wp-content/uploads/2025/09/IMG_4961-1-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#94665a",
+"dh": "6563e3a9ab8f8ba3",
+"h": 801,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolabartlova.cz/ms-litvinovska/nase-skolka/o-nas/",
+"typ": "interier",
+"url": "https://skolabartlova.cz/wp-content/uploads/2026/04/IMG_9874-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#606353",
+"dh": "320e0e010c0e131f",
+"h": 833,
+"jistota": 0.977,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolabartlova.cz/ms-litvinovska/nase-skolka/o-nas/",
+"typ": "budova",
+"url": "https://skolabartlova.cz/wp-content/uploads/2025/09/IMG_4971-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#84745f",
+"dh": "ff5a5258de07cf9f",
+"h": 865,
+"jistota": 0.996,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolabartlova.cz/ms-litvinovska/nase-skolka/o-nas/",
+"typ": "interier",
+"url": "https://skolabartlova.cz/wp-content/uploads/2025/09/IMG_5074-scaled.jpg",
+"w": 1200
+}
+],
 "materska-skola-a-zakladni-skola-slatinice-627311": [
 {
 "alt": "8",
@@ -375,6 +431,23 @@
 "typ": "budova",
 "url": "https://www.skolkakomenskeho.cz/wp-content/uploads/2026/01/2.jpg",
 "w": 1200
+}
+],
+"materska-skola-motylek-564271": [
+{
+"alt": "",
+"barva": "#717a51",
+"dh": "1d98580d160b8f8b",
+"h": 1200,
+"jistota": 0.993,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYC/8QAJRAAAgEEAQQBBQAAAAAAAAAAAQIDAAQRIRIFIjFBEyMyU3GB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERID/9oADAMBAAIRAxEAPwCD0W/Nrd/UU/DLhTv7W9GrmbqiJcvEAoKsV7s63rwKzlnbTBu8AJyyDy8/rFWDxhW5x6YeT5znzmsZ9eWp0DSNTFZySxJIDGA4BAyaKpIOs3sqEwzYRTxA4gaH8opnugcSQ4ZmibsIXIA16FNN1L+VjUEHefdd5Oq5zbLCTOts7oYDJli2eR90Um5YpLhTgYopuW8RMP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msmotylek.eu/fotogalerie",
+"typ": "zahrada",
+"url": "https://msmotylek.eu/storage/6/1b54f936-28f5-4e27-bbd6-4cc0bdce1685.png",
+"w": 900
 }
 ],
 "materska-skola-na-kopecku-568454": [
@@ -743,6 +816,49 @@
 "stranka": "https://www.skolkaupotucku.cz/",
 "typ": "les",
 "url": "https://www.skolkaupotucku.cz/assets/skolka/skolka-11.jpg",
+"w": 1200
+}
+],
+"materska-skola-vysni-lhoty-622645": [
+{
+"alt": "",
+"barva": "#908b81",
+"dh": "032f4bc5d31b130f",
+"h": 718,
+"jistota": 0.895,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAjEAACAgIBAgcAAAAAAAAAAAABAgMRACESBDEUIkFRYZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAFxEBAQEBAAAAAAAAAAAAAAAAABMBEv/aAAwDAQACEQMRAD8An4fp4yiqCb2TYH1jYjh46NBT5gy7N+/xmfAULUIkHE9yMtPGNiwQWbF5lfCmXlijSQrHGpUeoXv+4YcI5NiMCtYYbYvD/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msvysni.cz/fotogalerie/nase-skolka-2",
+"typ": "budova",
+"url": "https://www.msvysni.cz/images/foto-skolka/DSC_5704_5_6_Vibrant_1.jpg",
+"w": 1077
+},
+{
+"alt": "",
+"barva": "#a4887e",
+"dh": "0716ce4e4d39eb71",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msvysni.cz/fotogalerie/nase-skolka-2",
+"typ": "interier",
+"url": "https://www.msvysni.cz/images/foto-skolka/24Z_5743.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a28677",
+"dh": "453094c48f2f4727",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msvysni.cz/fotogalerie/nase-skolka-2",
+"typ": "interier",
+"url": "https://www.msvysni.cz/images/foto-skolka/24Z_5748.jpg",
 "w": 1200
 }
 ],
