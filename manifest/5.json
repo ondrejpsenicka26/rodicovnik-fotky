@@ -1,4 +1,90 @@
 {
+"detska-skupina-slunicko-1-ds01524": [
+{
+"alt": "Prostory školičky – pohled na policový systém s hračkami",
+"barva": "#b29c83",
+"dh": "696f6c0c0d2c2430",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACMQAAIBAgYCAwAAAAAAAAAAAAECAwARBAUSEyEiMUFRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhIR/9oADAMBAAIRAxEAPwC3HmWH2BGjuGub3X35peMxxSOJodDG4HY2Bv5qNhcrEsBO843CT9VoGWsYirYgkRrx1+P2pqqM5Y6l90VYZZrNvhNWo27AceqKWsqBVvEpNhckDniilDP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ostrovskeslunicko.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/64073743bca1cf0b4d13baa1/6409f7083cb86f6e0c754dc1_prostory_slunicko_5.jpg",
+"w": 1200
+},
+{
+"alt": "Prostor školičky, kde děti jí svačinky",
+"barva": "#b0a18e",
+"dh": "c444d2a8edc7cdfd",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ostrovskeslunicko.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/64073743bca1cf0b4d13baa1/6409f7074e032af039f68f45_prostory_slunicko_6.jpg",
+"w": 1200
+}
+],
+"eko-ms-dobriv-545136": [
+{
+"alt": "",
+"barva": "#808953",
+"dh": "bc164373cb4fcfec",
+"h": 900,
+"jistota": 0.857,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACMQAAIBAwIHAQAAAAAAAAAAAAECAwAEIQURBhIiMUJRYXH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAGREBAAIDAAAAAAAAAAAAAAAAAAESERNR/9oADAMBAAIRAxEAPwCtNevbfqmkRg2+CRSDqCXBdnmkV98Uu5tYsLIA+PylyxoyBVHJ9AzWTZkWhfFxC8CBGVZSPKTvRWKdPdjusiEeytFVeek//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ekomsdobriv.cz/fotoalbum1.php?album=20150727",
+"typ": "zahrada",
+"url": "https://www.ekomsdobriv.cz/galleries/20150727/DSC06803.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#787c4f",
+"dh": "24c0d0d0d0920e00",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ekomsdobriv.cz/fotoalbum1.php?album=20150727",
+"typ": "les",
+"url": "https://www.ekomsdobriv.cz/galleries/20150727/DSC06814.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#72755e",
+"dh": "182366c3b98e7c63",
+"h": 900,
+"jistota": 0.72,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ekomsdobriv.cz/fotoalbum1.php?album=20150727",
+"typ": "zahrada",
+"url": "https://www.ekomsdobriv.cz/galleries/20150727/DSC06810.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b774a",
+"dh": "1c18a0c0f11b6f7c",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.ekomsdobriv.cz/fotoalbum1.php?album=20150727",
+"typ": "les",
+"url": "https://www.ekomsdobriv.cz/galleries/20150727/DSC06809.JPG",
+"w": 1200
+}
+],
 "krestanska-zakladni-skola-a-materska-skola-litomerice-043963": [
 {
 "alt": "FB_IMG_1706782825362.jpg",
@@ -292,6 +378,62 @@
 "stranka": "https://modraskolka.cz/",
 "typ": "interier",
 "url": "https://modraskolka.cz/wp-content/uploads/2024/02/DSC_2850.jpg",
+"w": 1200
+}
+],
+"materska-skola-klubicko-053342": [
+{
+"alt": "",
+"barva": "#5b593d",
+"dh": "376ed92a4e83a3da",
+"h": 817,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAJBAAAgEEAAUFAAAAAAAAAAAAAQIDAAQRIQYSIjFREyNBYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAf/EABsRAQEAAQUAAAAAAAAAAAAAAAEAAgMREiIx/9oADAMBAAIRAxEAPwBFxxRJLEFiX09ZJByf3sKypbuUsOYLGrZJdjk480O9t2tWDrKeRz0jHb6xRnnkjJEgVs+PmhO5y9rPtXikRmk9zqOGOtVVmR3XKuMHe9VUTpqyGRtf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msklubickomilevsko.cz/o-skolce/",
+"typ": "budova",
+"url": "https://www.msklubickomilevsko.cz/wp-content/uploads/2024/09/ms-klubicko03-1.jpg",
+"w": 1200
+},
+{
+"alt": "Hisilicon Balong",
+"barva": "#626a6a",
+"dh": "88cdc3d3c3838701",
+"h": 674,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msklubickomilevsko.cz/o-skolce/",
+"typ": "interier",
+"url": "https://www.msklubickomilevsko.cz/wp-content/uploads/2024/09/ms-klubicko27.jpg",
+"w": 1200
+},
+{
+"alt": "OLYMPUS DIGITAL CAMERA",
+"barva": "#566161",
+"dh": "766edc3e327a1f9f",
+"h": 900,
+"jistota": 0.992,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msklubickomilevsko.cz/o-skolce/",
+"typ": "zahrada",
+"url": "https://www.msklubickomilevsko.cz/wp-content/uploads/2024/09/ms-klubicko41.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#59625c",
+"dh": "1b19f9d97876d7f3",
+"h": 800,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msklubickomilevsko.cz/o-skolce/",
+"typ": "budova",
+"url": "https://www.msklubickomilevsko.cz/wp-content/uploads/2024/09/ms-klubicko17.jpg",
 "w": 1200
 }
 ],
@@ -673,6 +815,36 @@
 "w": 900
 }
 ],
+"materska-skola-uherske-hradiste-279865": [
+{
+"alt": "",
+"barva": "#6f6556",
+"dh": "8b468d939d170707",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAiEAACAgEEAQUAAAAAAAAAAAABAgADEQQSITETMlGRscH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABFh/9oADAMBAAIRAxEAPwBFVHmNY9Q9sRkKHU7GTI7yfyKUaatNpLMdstt01FijcGLDok8iZijW40tZVXXaFDWOccsc9wme+ndXIWzj4+oRWA7f/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mspodsvahy.cz/zabky/trida-zabky/",
+"typ": "interier",
+"url": "https://www.mspodsvahy.cz/wp-content/uploads/20260901_154718.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#868075",
+"dh": "270f8f0d9d870f07",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mspodsvahy.cz/zabky/trida-zabky/",
+"typ": "interier",
+"url": "https://www.mspodsvahy.cz/wp-content/uploads/20260901_154410.jpg",
+"w": 1200
+}
+],
 "materska-skola-zvonecek-514036": [
 {
 "alt": "",
@@ -730,6 +902,23 @@
 "stranka": "https://www.msduhovysvet.cz/tridy/",
 "typ": "interier",
 "url": "https://www.msduhovysvet.cz/wp-content/uploads/2026/06/IMG_0949.jpeg",
+"w": 1200
+}
+],
+"ms-klanovice-503590": [
+{
+"alt": "",
+"barva": "#807a6f",
+"dh": "e80467274dcfdb33",
+"h": 900,
+"jistota": 0.943,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDAv/EAB8QAAICAQQDAAAAAAAAAAAAAAECABEDEyExYXGSwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERIVH/2gAMAwEAAhEDEQA/AJthcrYys3Ww+TWiFF6jA1XIuMgECuIi9jqrkKBZxsMj+0JIPXJvzCNKjr//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://photos.google.com/share/AF1QipOI4oRq2zLQB9_zCKYrDBUnfinDsYGUu1HKvI21wILNs8De80_HzAP5riFWRBo54g?key=UXlkR2FBQzdCSFQ0SVM4S0lVZVZyTUpFVUp3UmJB",
+"typ": "zahrada",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczP-MeN7XFFUllZYd4n5aqNj2Jt1xFPefd4FKak-q8aID0xbSMQVuvMs94AQEQyr8Fzdj7oVWjKFrc4Lpc3VTPwbz4wI4GcEBB2Wj8yPmC9bKNxgL5Fv=w1600-h1600",
 "w": 1200
 }
 ],
