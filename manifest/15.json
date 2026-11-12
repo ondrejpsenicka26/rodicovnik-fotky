@@ -42,6 +42,23 @@
 "w": 800
 }
 ],
+"cirkevni-materska-skola-laura-000915": [
+{
+"alt": "",
+"barva": "#786f63",
+"dh": "494949cc0b9a1446",
+"h": 900,
+"jistota": 0.773,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEFAv/EACEQAQACAgEDBQAAAAAAAAAAAAECAwARBBIiQRMhUXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwB231PFKQeomu81fyaZc2q/peiJ7jH7yQXJqSCL4x+voV/MnUGuxnRYyn2d0l06NYZErlGyOz58mGIcv//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.cmslaura.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://5b5b056dc2.clvaw-cdnwnd.com/477291a1db8e138acedd20a2cb6e4174/200004159-73a9573a98/20250709_092752.jpg",
+"w": 1200
+}
+],
 "materska-skola-a-zakladni-skola-vedrovice-614634": [
 {
 "alt": "",
@@ -185,6 +202,49 @@
 "typ": "interier",
 "url": "http://msceska.cz/fotky/68/20260831_094405.jpg",
 "w": 1024
+}
+],
+"materska-skola-chlumcany-544458": [
+{
+"alt": "",
+"barva": "#696961",
+"dh": "938bc1c1515b5b7a",
+"h": 550,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIAEQMEEiFBBRMUIjPB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/ADnK/q48iMpvaOR1ZuJ0+vRrQld3aq35MlecQPdAwD/Y57NXDV3Ib5sBdaPbD4FATQvnmUNjw4ytlZQ0X//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mschlumcany.cz/",
+"typ": "budova",
+"url": "http://www.mschlumcany.cz/wp-content/uploads/2012/10/foto2.png",
+"w": 1030
+},
+{
+"alt": "",
+"barva": "#966f53",
+"dh": "87c959d1d9ce87c1",
+"h": 550,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mschlumcany.cz/",
+"typ": "interier",
+"url": "http://www.mschlumcany.cz/wp-content/uploads/2012/10/foto3.png",
+"w": 1030
+},
+{
+"alt": "",
+"barva": "#7b7b64",
+"dh": "c362c4cd6766f434",
+"h": 550,
+"jistota": 0.995,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mschlumcany.cz/",
+"typ": "zahrada",
+"url": "http://www.mschlumcany.cz/wp-content/uploads/2012/10/foto1.png",
+"w": 1030
 }
 ],
 "materska-skola-cvrcek-041031": [
@@ -975,6 +1035,36 @@
 "typ": "les",
 "url": "https://www.zstgmdrasov.cz/images/images/319/z2s2evtm47c23bkb69a0.png",
 "w": 1200
+}
+],
+"zs-a-ms-emy-destinnove-064057": [
+{
+"alt": "Mateřská škola / hlavní budova",
+"barva": "#959388",
+"dh": "331878a80d1e0301",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGA//EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAREiEEBSIxFFFiofD/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhEx/9oADAMBAAIRAxEAPwB9ZosXCSRMUI7Qd2NbwrflPG5CKBcHIWP4VN8KNY967j4O6eXpvqWLScucEm/kGoNKzo55Uo6ZxG275H3yFFS79OmibHIS/LIr9UVcX//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsemydestinnove.cz/stranky/prohlidka-skoly",
+"typ": "interier",
+"url": "https://www.zsemydestinnove.cz/files/document/777/1491827002_original.jpg",
+"w": 800
+},
+{
+"alt": "Mateřská škola / budova Českomalínská",
+"barva": "#88785a",
+"dh": "59fc1c10554f0307",
+"h": 532,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsemydestinnove.cz/stranky/prohlidka-skoly",
+"typ": "interier",
+"url": "https://www.zsemydestinnove.cz/files/document/793/1491827134_original.jpg",
+"w": 800
 }
 ],
 "zs-a-ms-krizany-zibridice-564173": [
