@@ -1,0 +1,56 @@
+# Fotky budov školek z Wikimedia Commons (scripts/commons.py) pro školky bez vlastní fotky.
+# Spouští se změnou výběru zdroje/commons-vyber.json nebo ručně. Po doběhnutí se sama pustí
+# „Kontrola fotek“ (lidé na fotkách) a nové fotky pak ještě prohlédne člověk.
+name: Fotky z Commons
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "zdroje/commons-vyber.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fotky
+  cancel-in-progress: false
+
+jobs:
+  commons:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        cast: [0, 1]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            zdroje
+            manifest
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow
+      - name: Stažení
+        env:
+          CAST: ${{ matrix.cast }}
+          CASTI: "2"
+        run: python3 scripts/commons.py
+      - name: Uložit do větve main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add --sparse fotky "manifest/commons-${{ matrix.cast }}.json"
+          git commit -q -m "Fotky z Commons, část ${{ matrix.cast }} ($(date -u +%Y-%m-%dT%H:%MZ))" || { echo "Nic nového"; exit 0; }
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            git pull --rebase -q && git push -q && exit 0
+            sleep $((RANDOM % 30 + 5))
+          done
+          exit 1
