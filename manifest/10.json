@@ -625,6 +625,109 @@
 "w": 1200
 }
 ],
+"materska-skola-kovalovice-604132": [
+{
+"alt": "",
+"barva": "#8f8d6e",
+"dh": "397777333626ebf7",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAiEAACAgIBAwUAAAAAAAAAAAABAgMRABIhBDFhE0GBkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhITFEH/2gAMAwEAAhEDEQA/AOlFIwiVdNuOSGq7+MneJClrAFcXTE2P3nJFnmhTRWQmzRez385husJj1YgKeG4J5+8n2E+iqoXL08jvs+rE++4OGK6d2gj9OGaRVB7CsMMsBuj/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskovalovice.cz/",
+"typ": "budova",
+"url": "https://mskovalovice.cz/wp-content/uploads/2026/01/Budova-MS-jaro.webp",
+"w": 1200
+}
+],
+"materska-skola-krechor-512279": [
+{
+"alt": "",
+"barva": "#68735a",
+"dh": "c9c1c9cac9693f31",
+"h": 480,
+"jistota": 0.988,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADAAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAiEAACAgIBBAMBAAAAAAAAAAABAgMRAAQhBRITQSIxUmH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAQEAAwAAAAAAAAAAAAAAAAABAxET/9oADAMBAAIRAxEAPwBTrG5tNsQKnljViByeAbomxmkW/uRupEkTPXFr/PXOP9irHQUVX1WKp8lDUAQPQrITNRqI3VJptnb8k8USuVFgcYZXl1Y5n73Zya/Rwx6QP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mskrechor.cz/fotogalerie-1/skolni-rok-2026-2027/ukazka-vycviku-dravcu-na-zahrade-ms-1441cs.html",
+"typ": "budova",
+"url": "https://www.mskrechor.cz/data/headerfooter/header_images/img1-8.jpg",
+"w": 825
+},
+{
+"alt": "MŠ Křečhoř",
+"barva": "#81725e",
+"dh": "4dc4cd8c13336303",
+"h": 509,
+"jistota": 0.99,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mskrechor.cz/fotogalerie-1/skolni-rok-2026-2027/ukazka-vycviku-dravcu-na-zahrade-ms-1441cs.html",
+"typ": "interier",
+"url": "https://www.mskrechor.cz/skins/mskrechor.cz_lego2/images/bg.jpg",
+"w": 1200
+}
+],
+"materska-skola-maly-strom-079267": [
+{
+"alt": "",
+"barva": "#786b4f",
+"dh": "3162c739a9fd6968",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACcQAAIBAgQEBwAAAAAAAAAAAAECAwAEERIhMQUTQWEGFCIyM1Fy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEBAQADAAAAAAAAAAAAAAABAAIDESH/2gAMAwEAAhEDEQA/AGJOPXMiMlnZcs9JJnHp75RS9reXUSRol3I0j5jhKBIp137VL8wBmKpgWAxIZgdNutZm5Yn5JtfqQ1B2sxyVl/FcvD25F9bNPL7s8ZCgg7aYUVCkCTNnYs36Ymimcnkei//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://malystrom.cz/fotogalerie/nase-skolka/",
+"typ": "budova",
+"url": "https://malystrom.cz/wp-content/uploads/2023/10/soukroma-materska-skola-brno-maly-strom-skolka-zahrada-07.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#89726b",
+"dh": "d1e1f3d2c3c3c341",
+"h": 674,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://malystrom.cz/fotogalerie/nase-skolka/",
+"typ": "interier",
+"url": "https://malystrom.cz/wp-content/uploads/2023/10/soukroma-materska-skola-brno-maly-strom-skolka-interier-02.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#695c3d",
+"dh": "07231600211c9da0",
+"h": 801,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://malystrom.cz/fotogalerie/nase-skolka/",
+"typ": "zahrada",
+"url": "https://malystrom.cz/wp-content/uploads/2023/10/soukroma-materska-skola-brno-maly-strom-skolka-zahrada-01.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#868280",
+"dh": "18273b5a6313311f",
+"h": 900,
+"jistota": 0.992,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://malystrom.cz/fotogalerie/nase-skolka/",
+"typ": "budova",
+"url": "https://malystrom.cz/wp-content/uploads/2023/10/soukroma-materska-skola-brno-maly-strom-skolka-zahrada-02.jpg",
+"w": 1200
+}
+],
 "materska-skola-milcice-105365": [
 {
 "alt": "",
@@ -679,6 +782,23 @@
 "typ": "les",
 "url": "https://www.msmilcice.cz/wp-content/uploads/2022/05/IMG_4806.jpg",
 "w": 1200
+}
+],
+"materska-skola-rousinov-613638": [
+{
+"alt": "",
+"barva": "#627f81",
+"dh": "2031baacadc96da2",
+"h": 480,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACQAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAkEAABBAADCQAAAAAAAAAAAAABAAIDEQQSITEzNEFxcnOBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEQMEFP/aAAwDAQACEQMRAD8AyjmDDMJILZlAbQzXqnIRBkMcTnB22zQb7Uy7t/RXguGm8Y+qa2cjsmoJiOLazQwzHtcKQseQQj1TDSP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msrousinov.cz/tridy/",
+"typ": "budova",
+"url": "https://www.msrousinov.cz/data/headerfooter/header_images/img1.jpg",
+"w": 1070
 }
 ],
 "materska-skola-slavicin-606739": [
@@ -829,6 +949,23 @@
 "typ": "budova",
 "url": "https://www.ms-valkerice.cz/uploads/galerie/img-20260604-wa0003-e4d6ee5a.jpg",
 "w": 900
+}
+],
+"materska-skola-vchynice-565595": [
+{
+"alt": "",
+"barva": "#d0be78",
+"dh": "86078796d7b38a87",
+"h": 533,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACIQAAEEAAYDAQAAAAAAAAAAAAIAAQMRBBITITEyM1Fygf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhFBIf/aAAwDAQACEQMRAD8AqxlpYjKRNJlF2Kq5Ts2O1oHj0srFtfpKN5y+k6/T8Wem8LutJgiZXTcPWzoWS90I0JQ4f//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msvchynice.cz/jidelna/",
+"typ": "interier",
+"url": "https://32c67e45d3.clvaw-cdnwnd.com/bb896d282c5f1dce566f5fd3198d47db/200000010-b3cbdb3cc0/vod-5.jpg?ph=32c67e45d3",
+"w": 1200
 }
 ],
 "materska-skola-zakladni-skola-a-prs-107431": [
@@ -1447,6 +1584,49 @@
 "typ": "budova",
 "url": "https://www.zsliptal.cz/data/headerfooter/header_images/foto-skola.JPG",
 "w": 1200
+}
+],
+"zs-a-ms-pri-fn-bulovka-000757": [
+{
+"alt": "",
+"barva": "#7a8277",
+"dh": "1050e6b4b2ea0ce7",
+"h": 980,
+"jistota": 0.858,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAlEAACAgEEAQMFAAAAAAAAAAABAgMEABESITEFE0FhIlFxwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwCiXxdCnXYvXlkO5Q26TT78+2Qr16YeaVY1WMzhUiZdwUaDUanN9iOVhN6IWZWIIHbKB8fzM/oiszRWox9TGVBqGBw1OXXa8TZgtV3dayRgSFQAB7afGMxUp0pwlGUAs7Np1pyR+sY9HECNp44y2CNLsyR2FDbuA/TL+DjGZxdcny0XoWhGsjkKvZPJ5PeMYyqH/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolabulovka.cz/galerie",
+"typ": "budova",
+"url": "https://www.skolabulovka.cz/gallery/34/642542aa5f5c84.45481678.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#a09d60",
+"dh": "ed6d1d8e8c8ccd5c",
+"h": 1000,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolabulovka.cz/galerie",
+"typ": "interier",
+"url": "https://www.skolabulovka.cz/gallery/39/67063e6e614f09.28466486.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#8f843d",
+"dh": "82969ee91b186d67",
+"h": 1000,
+"jistota": 0.94,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolabulovka.cz/galerie",
+"typ": "interier",
+"url": "https://www.skolabulovka.cz/gallery/39/67063e014d5fa1.46126904.jpeg",
+"w": 1000
 }
 ],
 "zs-ss-a-ms-v-obore-132991": [
