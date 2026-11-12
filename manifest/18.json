@@ -141,6 +141,62 @@
 "w": 800
 }
 ],
+"materska-skola-hlinsko-200867": [
+{
+"alt": "zadní vchod s cestou od silnice",
+"barva": "#86856e",
+"dh": "24010b66a834e1f3",
+"h": 675,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACUQAAICAgADCQAAAAAAAAAAAAECAwQAEQUSIQYiMUFRgZGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABcRAQEBAQAAAAAAAAAAAAAAAAARASH/2gAMAwEAAhEDEQA/AFimWvVJE0rIiglFI0fv8zTH2kqhUKT77uzG4Pj6c3ll5aVZh1hT4yVOrAqM4iXmB0CRvWZZSjLb4nxh5AyiGFSvRVO+mGNeUGf2wxdSP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msbudovatelu.cz/",
+"typ": "budova",
+"url": "https://www.msbudovatelu.cz/wp-content/uploads/2021/09/14-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#958169",
+"dh": "ddd9da9305cd8b81",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msbudovatelu.cz/",
+"typ": "interier",
+"url": "https://www.msbudovatelu.cz/wp-content/uploads/2021/09/10-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "pohled na zahradu s novým hřištěm a pískovišti",
+"barva": "#636d5c",
+"dh": "5a5a9eb6f61ee3cd",
+"h": 675,
+"jistota": 0.995,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msbudovatelu.cz/",
+"typ": "zahrada",
+"url": "https://www.msbudovatelu.cz/wp-content/uploads/2021/09/6-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "pohled ze zadní strany mateřeské školy",
+"barva": "#63717b",
+"dh": "46266f4f2f1b2647",
+"h": 675,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msbudovatelu.cz/",
+"typ": "budova",
+"url": "https://www.msbudovatelu.cz/wp-content/uploads/2021/09/2-scaled.jpg",
+"w": 1200
+}
+],
 "materska-skola-j-a-komenskeho-583496": [
 {
 "alt": "",
@@ -199,6 +255,36 @@
 "typ": "zahrada",
 "url": "https://www.mskamenacek.cz/sites/default/files/styles/wide/public/galerie/176331667_283175356740464_7621094955395018228_n.jpg?itok=GL9cbIoD",
 "w": 960
+}
+],
+"materska-skola-klubicko-100060": [
+{
+"alt": "Obec Plavsko",
+"barva": "#938955",
+"dh": "e1a1b1218ec6e6e6",
+"h": 625,
+"jistota": 0.957,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAQABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAjEAACAQMCBwEAAAAAAAAAAAABAgMABBEFEhMhIjFRYXGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhEDMVH/2gAMAwEAAhEDEQA/AA6jeX0sy7WSMZBWIjm37zx6qxpfGQpxImhZW75HV4zS7+1ggdmhZGWRg4JzliD6qGAl04z9Ay21due481keVOPClDtRthPdGRjEzEDcwfbk/KKzrJdQMGYVGzJwQMg0Uk62wo//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msbosen.cz/",
+"typ": "budova",
+"url": "https://www.msbosen.cz/image.php?oid=12592212&nid=21543",
+"w": 784
+},
+{
+"alt": "Bylinková spirála a venkovní posezení v zahradě školky s výhledem na pole v pozadí, doplněná ovocnými stromy.",
+"barva": "#8d8e58",
+"dh": "3e3e1f7a71101d1f",
+"h": 533,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msbosen.cz/",
+"typ": "zahrada",
+"url": "https://www.msbosen.cz/image.php?oid=12435244&nid=21543",
+"w": 800
 }
 ],
 "materska-skola-ostrava-bartovice-630851": [
@@ -311,6 +397,36 @@
 "typ": "zahrada",
 "url": "https://www.msutenisu.cz/wp-content/uploads/2026/09/Exterier-1.png",
 "w": 1200
+}
+],
+"materska-skola-sobotka-583020": [
+{
+"alt": "",
+"barva": "#7b90a7",
+"dh": "c0ccf253d3d9dddd",
+"h": 600,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAkEAACAQQBAgcAAAAAAAAAAAABAgMABAURQRMxBhIhIlFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EAB4RAAICAAcAAAAAAAAAAAAAAAACAREDBBMUIVFh/9oADAMBAAIRAxEAPwBgwMWAHdiAPs1tbY2SeWWNmWNo/QhuSewqfc5g284aaHposysCfdoDjQ+TSdz4uvIMhLJarEFdlZgV3vXA32pnzDXShLhRXJXaHpsUchWB0QSNiiuWy+Sju8pPcQAhJSG0eD5Rsfu6KtxPRml6f//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mssobotka.cz/",
+"typ": "budova",
+"url": "https://www.mssobotka.cz/wp-content/uploads/2014/06/ms-sobotka-1.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#82919d",
+"dh": "bf13139b62cbec6c",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mssobotka.cz/",
+"typ": "interier",
+"url": "https://www.mssobotka.cz/wp-content/uploads/2014/06/ms-sobotka-3.jpg",
+"w": 800
 }
 ],
 "materska-skola-velehrad-612852": [
