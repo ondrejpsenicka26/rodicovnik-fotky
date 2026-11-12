@@ -216,19 +216,6 @@
 "typ": "interier",
 "url": "http://www.mspostorna.cz/wp-content/uploads/2025/09/motylci-DSC_3215-scaled.jpg",
 "w": 1200
-},
-{
-"alt": "",
-"barva": "#808f80",
-"dh": "1f9e9ec76f1d9f1f",
-"h": 801,
-"jistota": 1.0,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "http://www.mspostorna.cz/o-materske-skole/nase-tridy/",
-"typ": "hygiena",
-"url": "http://www.mspostorna.cz/wp-content/uploads/2025/09/kyticky-DSC_3143-scaled.jpg",
-"w": 1200
 }
 ],
 "materska-skola-hermanuv-mestec-581990": [
@@ -288,36 +275,6 @@
 "stranka": "https://www.msholubova.cz/o-nas/",
 "typ": "zahrada",
 "url": "https://d2c3c3cd1c.clvaw-cdnwnd.com/6b0a5cf473e3cf58d5f7b1381943bc2a/200000167-3a7823b733/DSC_5622.JPG?ph=d2c3c3cd1c",
-"w": 1200
-}
-],
-"materska-skola-hradec-kralove-580934": [
-{
-"alt": "",
-"barva": "#554e40",
-"dh": "9adb24702438a893",
-"h": 753,
-"jistota": 1.0,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAIhAAAQMDAwUAAAAAAAAAAAAAAgABEQQGEgMhYRMxcZHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQISQVH/2gAMAwEAAhEDEQA/AKiuqryfU6ekxRE4/VnG5qoKo6oQBjMWF3x2duEmyJ9niH4UYl0FT6LKOie6q2e4N4FCQZFx6Qjqicrw/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.mstrebechovicka.cz/tridy/1-trida-slunecnice/informace-o-1-tride/",
-"typ": "interier",
-"url": "https://www.mstrebechovicka.cz/wp-content/uploads/2023/09/1695908798714.jpg",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#5a4e38",
-"dh": "b37164f0c82b21dc",
-"h": 827,
-"jistota": 1.0,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.mstrebechovicka.cz/tridy/1-trida-slunecnice/informace-o-1-tride/",
-"typ": "interier",
-"url": "https://www.mstrebechovicka.cz/wp-content/uploads/2023/09/1695908974999.jpg",
 "w": 1200
 }
 ],

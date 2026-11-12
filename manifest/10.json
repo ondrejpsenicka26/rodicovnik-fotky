@@ -951,23 +951,6 @@
 "w": 900
 }
 ],
-"materska-skola-vchynice-565595": [
-{
-"alt": "",
-"barva": "#d0be78",
-"dh": "86078796d7b38a87",
-"h": 533,
-"jistota": 0.998,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACIQAAEEAAYDAQAAAAAAAAAAAAIAAQMRBBITITEyM1Fygf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhFBIf/aAAwDAQACEQMRAD8AqxlpYjKRNJlF2Kq5Ts2O1oHj0srFtfpKN5y+k6/T8Wem8LutJgiZXTcPWzoWS90I0JQ4f//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.msvchynice.cz/jidelna/",
-"typ": "interier",
-"url": "https://32c67e45d3.clvaw-cdnwnd.com/bb896d282c5f1dce566f5fd3198d47db/200000010-b3cbdb3cc0/vod-5.jpg?ph=32c67e45d3",
-"w": 1200
-}
-],
 "materska-skola-zakladni-skola-a-prs-107431": [
 {
 "alt": "",
@@ -1584,49 +1567,6 @@
 "typ": "budova",
 "url": "https://www.zsliptal.cz/data/headerfooter/header_images/foto-skola.JPG",
 "w": 1200
-}
-],
-"zs-a-ms-pri-fn-bulovka-000757": [
-{
-"alt": "",
-"barva": "#7a8277",
-"dh": "1050e6b4b2ea0ce7",
-"h": 980,
-"jistota": 0.858,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAlEAACAgEEAQMFAAAAAAAAAAABAgMEABESITEFE0FhIlFxwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwCiXxdCnXYvXlkO5Q26TT78+2Qr16YeaVY1WMzhUiZdwUaDUanN9iOVhN6IWZWIIHbKB8fzM/oiszRWox9TGVBqGBw1OXXa8TZgtV3dayRgSFQAB7afGMxUp0pwlGUAs7Np1pyR+sY9HECNp44y2CNLsyR2FDbuA/TL+DjGZxdcny0XoWhGsjkKvZPJ5PeMYyqH/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.skolabulovka.cz/galerie",
-"typ": "budova",
-"url": "https://www.skolabulovka.cz/gallery/34/642542aa5f5c84.45481678.jpeg",
-"w": 1000
-},
-{
-"alt": "",
-"barva": "#a09d60",
-"dh": "ed6d1d8e8c8ccd5c",
-"h": 1000,
-"jistota": 0.997,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.skolabulovka.cz/galerie",
-"typ": "interier",
-"url": "https://www.skolabulovka.cz/gallery/39/67063e6e614f09.28466486.jpeg",
-"w": 1000
-},
-{
-"alt": "",
-"barva": "#8f843d",
-"dh": "82969ee91b186d67",
-"h": 1000,
-"jistota": 0.94,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.skolabulovka.cz/galerie",
-"typ": "interier",
-"url": "https://www.skolabulovka.cz/gallery/39/67063e014d5fa1.46126904.jpeg",
-"w": 1000
 }
 ],
 "zs-ss-a-ms-v-obore-132991": [

@@ -16,36 +16,6 @@
 "w": 1200
 }
 ],
-"detska-skupina-sam-sebou-ds01164": [
-{
-"alt": "20 - Hydroizolace",
-"barva": "#7a7064",
-"dh": "76b4ac24e414b3b1",
-"h": 900,
-"jistota": 0.749,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMABBEhUQUSEzFxFEFhscH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABwRAQABBAMAAAAAAAAAAAAAAAEAAhETIRIxQf/aAAwDAQACEQMRAD8Ae5uIBb3jozAJl4lbUFdt6nXMzxxKyLG4ebpjU9sfddHpmLFeYMAO7DIB2xWcVsbiOLrkKXclOT200Pmhiv3FkPJV4dw2KS3JI05sDPgfuaKaC5ksYlheXONQwTORufmikU0hskeTsn//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://sam-sebou.cz/fotogalerie/jak-jsme-budovali-zazemi/",
-"typ": "interier",
-"url": "https://sam-sebou.cz/wp-content/uploads/2020/02/20-Hydroizolace.jpg",
-"w": 1200
-},
-{
-"alt": "40 - Malujeme",
-"barva": "#82786c",
-"dh": "c832e6e1a2b23234",
-"h": 900,
-"jistota": 0.659,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://sam-sebou.cz/fotogalerie/jak-jsme-budovali-zazemi/",
-"typ": "interier",
-"url": "https://sam-sebou.cz/wp-content/uploads/2020/05/40-Malujeme.jpg",
-"w": 1200
-}
-],
 "lesni-materska-skola-broucci-142911": [
 {
 "alt": "LK Broučci Kladno - nové zázemí",
@@ -296,19 +266,6 @@
 "stranka": "https://www.gazskraliky.cz/",
 "typ": "budova",
 "url": "https://www.gazskraliky.cz/image.php?oid=6612201&nid=8929",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#55839b",
-"dh": "3d23070d1d19391f",
-"h": 900,
-"jistota": 0.693,
-"ms": false,
-"soubor": "2.webp",
-"stranka": "https://www.gazskraliky.cz/",
-"typ": "zahrada",
-"url": "https://www.gazskraliky.cz/image.php?oid=6612200&nid=8929",
 "w": 1200
 }
 ],
@@ -876,19 +833,6 @@
 "stranka": "https://www.petrklic.net/",
 "typ": "budova",
 "url": "https://www.petrklic.net/image.php?oid=12213834&nid=21325",
-"w": 1200
-},
-{
-"alt": "Soukromá mateřská škola a základní škola Petrklíč",
-"barva": "#c1ad95",
-"dh": "222636063632321e",
-"h": 675,
-"jistota": 0.955,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.petrklic.net/",
-"typ": "interier",
-"url": "https://www.petrklic.net/image.php?oid=12213690&nid=21325",
 "w": 1200
 },
 {

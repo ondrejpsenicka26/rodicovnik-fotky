@@ -71,7 +71,7 @@
 "ms": true,
 "soubor": "2.webp",
 "stranka": "https://www.kamaradidodeste.cz/",
-"typ": "hygiena",
+"typ": "interier",
 "url": "https://cdn.prod.website-files.com/6436ab273881efb4516bd45f/648837139978b2afdceeeae5_DSC05590.jpg",
 "w": 800
 }
@@ -417,19 +417,6 @@
 "stranka": "https://www.msnadrazi-ck.cz/cz/zelena-trida/",
 "typ": "interier",
 "url": "https://www.msnadrazi-ck.cz/img/2026091801b.jpg",
-"w": 1200
-},
-{
-"alt": "Zelená třída v MŠ Za Nádražím Český Krumlov (8/10)",
-"barva": "#aeb0b2",
-"dh": "1939313930321a32",
-"h": 800,
-"jistota": 1.0,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.msnadrazi-ck.cz/cz/zelena-trida/",
-"typ": "hygiena",
-"url": "https://www.msnadrazi-ck.cz/img/2026091810b.jpg",
 "w": 1200
 }
 ],

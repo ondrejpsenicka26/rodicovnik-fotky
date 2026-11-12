@@ -61,44 +61,18 @@
 ],
 "materska-skola-adamov-530775": [
 {
-"alt": "lr-20260817165347-dpps.jpg - Den otevřených dveří MŠ",
-"barva": "#a49383",
-"dh": "135366313dbcdb9b",
-"h": 533,
-"jistota": 0.896,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIAA0AFAMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAABAUDBv/EACMQAAICAgECBwAAAAAAAAAAAAECAxEABCEFMRITMkFxgdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECUf/aAAwDAQACEQMRAD8Aq6+zBJFcfJBJPI7Zmer60IILKpPYvwD94om0z7SxhQtxlrHziG8iNMsUieJJL96KkC7H5h60xFlSlPZ6pEstEm6Ho5GGc7NM3mYZlfSiP//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.adamovcb.eu/fotogalerie/den-otevrenych-dveri-ms1/",
-"typ": "interier",
-"url": "https://www.adamovcb.eu/www/obecadamov/fs/wrs-galerie/den-otevrenych-dveri-ms/lr-20260817165347-dpps.jpg",
-"w": 800
-},
-{
 "alt": "lr-20260817165336-dpps.jpg - Den otevřených dveří MŠ",
 "barva": "#8f7766",
 "dh": "1919393c39386421",
 "h": 533,
 "jistota": 0.865,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACEQAAICAgIBBQAAAAAAAAAAAAECAAMEERIhIjE0QVKS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwBnESl8dbFB8l5AGLNe4t9r1r7jcm05Fq4ZWuwp0Na+O5qY62ENYzs3ryLHcG5NUL7ceR6EJIZmDHzf9GETSMv/2Q==",
 "ms": true,
+"nahled": "2-nahled.webp",
 "soubor": "2.webp",
 "stranka": "https://www.adamovcb.eu/fotogalerie/den-otevrenych-dveri-ms1/",
 "typ": "interier",
 "url": "https://www.adamovcb.eu/www/obecadamov/fs/wrs-galerie/den-otevrenych-dveri-ms/lr-20260817165336-dpps.jpg",
-"w": 800
-},
-{
-"alt": "lr-20260817165238-dpps.jpg - Den otevřených dveří MŠ",
-"barva": "#99a292",
-"dh": "5fcfb2444c5c3737",
-"h": 533,
-"jistota": 1.0,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.adamovcb.eu/fotogalerie/den-otevrenych-dveri-ms1/",
-"typ": "hygiena",
-"url": "https://www.adamovcb.eu/www/obecadamov/fs/wrs-galerie/den-otevrenych-dveri-ms/lr-20260817165238-dpps.jpg",
 "w": 800
 }
 ],
@@ -837,19 +811,6 @@
 },
 {
 "alt": "",
-"barva": "#71615b",
-"dh": "a083c386859cdcc6",
-"h": 1200,
-"jistota": 0.942,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://msvparkurakovnik.cz/",
-"typ": "interier",
-"url": "https://msvparkurakovnik.cz/wp-content/uploads/2025/11/chodba.jpg",
-"w": 900
-},
-{
-"alt": "",
 "barva": "#938a84",
 "dh": "2b889137800f934b",
 "h": 1200,
@@ -859,19 +820,6 @@
 "stranka": "https://msvparkurakovnik.cz/",
 "typ": "zahrada",
 "url": "https://msvparkurakovnik.cz/wp-content/uploads/2025/11/hriste-1.jpg",
-"w": 900
-},
-{
-"alt": "",
-"barva": "#92827d",
-"dh": "0809079e9c0f1f1f",
-"h": 1200,
-"jistota": 0.829,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://msvparkurakovnik.cz/",
-"typ": "interier",
-"url": "https://msvparkurakovnik.cz/wp-content/uploads/2025/11/vstupni-chodba.jpg",
 "w": 900
 }
 ],
@@ -1156,62 +1104,6 @@
 "typ": "interier",
 "url": "https://skola.obecbolehost.cz/file.php?nid=10979&oid=6467851",
 "w": 1023
-}
-],
-"zakladni-skola-a-materska-skola-dolakova-006136": [
-{
-"alt": "",
-"barva": "#b69a70",
-"dh": "3f15074cc8d80223",
-"h": 533,
-"jistota": 0.837,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAEBv/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEERITIQUxBkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDERL/2gAMAwEAAhEDEQA/ANVtf3MDCAzRnZ9Qp7H7SL8J1iNyrXD+kGQSK5aIbnlckvtnPrukrHVZjMQTIqkhs95qPE6p6ZVWJpbFX8TOxyB1VRo+TXiDXWM4+yKqfqQuKP/Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://zsdolakova.cz/fotogalerie/",
-"typ": "budova",
-"url": "https://zsdolakova.cz/wp-content/uploads/2020/02/img_5705.jpg",
-"w": 800
-},
-{
-"alt": "",
-"barva": "#837f75",
-"dh": "b6b4d633696d4ccc",
-"h": 768,
-"jistota": 1.0,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://zsdolakova.cz/fotogalerie/",
-"typ": "interier",
-"url": "https://zsdolakova.cz/wp-content/uploads/2019/12/jidelna-10.jpg",
-"w": 1024
-},
-{
-"alt": "",
-"barva": "#817b7e",
-"dh": "9ff3b31dced34323",
-"h": 768,
-"jistota": 1.0,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://zsdolakova.cz/fotogalerie/",
-"typ": "interier",
-"url": "https://zsdolakova.cz/wp-content/uploads/2019/12/jidelna-9.jpg",
-"w": 1024
-},
-{
-"alt": "",
-"barva": "#817e6d",
-"dh": "f99990f3b3a3c7c5",
-"h": 900,
-"jistota": 0.933,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://zsdolakova.cz/fotogalerie/",
-"typ": "hygiena",
-"url": "https://zsdolakova.cz/wp-content/uploads/2019/12/kuchynka-6.jpg",
-"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-kladno-511339": [

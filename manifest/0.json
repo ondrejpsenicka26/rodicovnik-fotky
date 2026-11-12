@@ -162,19 +162,6 @@
 "w": 900
 },
 {
-"alt": "Fotografie ze školky",
-"barva": "#d6cfc0",
-"dh": "9a98d899980a0101",
-"h": 900,
-"jistota": 0.973,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.emilia.cz/",
-"typ": "interier",
-"url": "https://www.emilia.cz/storage/website_photos/10/21f393947d32f02aa1c26708559cfc1e.jpeg",
-"w": 1200
-},
-{
 "alt": "Zahrada školky s hřištěm",
 "barva": "#8b9961",
 "dh": "006464c5567f0210",
@@ -199,36 +186,6 @@
 "typ": "interier",
 "url": "https://www.emilia.cz/storage/website_photos/12/928c2ced7bdfa1f1fd90f0685c3a9704.jpeg",
 "w": 900
-}
-],
-"happy-point-materska-skola-089831": [
-{
-"alt": "_edited.jpg",
-"barva": "#e1a465",
-"dh": "ab99bad6cb59cdc9",
-"h": 801,
-"jistota": 1.0,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAhEAACAQIGAwAAAAAAAAAAAAABAgADERITITEyURQiQf/EABYBAQEBAAAAAAAAAAAAAAAAAAAEBf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A6xrKKjEA+2m0Zj4r4WtbjaUqsadVQu3UnMJbQAazOXnlKOSsDEzqNia5HzuIy0f/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.happypoint.cz/pricing-plans/list",
-"typ": "interier",
-"url": "https://static.wixstatic.com/media/dc3391_a23ddf71620e4fdca807869d384627c2~mv2.jpg",
-"w": 1200
-},
-{
-"alt": "Nursery Room_edited_edited.jpg",
-"barva": "#ecb066",
-"dh": "2f2d2d2f2c041373",
-"h": 800,
-"jistota": 0.993,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.happypoint.cz/",
-"typ": "interier",
-"url": "https://static.wixstatic.com/media/dc3391_431f67f432694bfdad0f27f6bffb1bc2~mv2.jpg",
-"w": 1200
 }
 ],
 "inskolka-034151": [
@@ -581,23 +538,6 @@
 "typ": "budova",
 "url": "https://www.mshoromerice.cz/sites/default/files/komenskeho-999.jpg",
 "w": 1024
-}
-],
-"materska-skola-kastanek-navsi-622653": [
-{
-"alt": "Uspávání broučků na školní zahradě",
-"barva": "#826a55",
-"dh": "8d9d8f4d6fb29f1b",
-"h": 1200,
-"jistota": 0.76,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EACkQAAICAQIEBAcAAAAAAAAAAAECAxEABCEFEjFBEzJCUQYiYXKB0eH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEQEhQf/aAAwDAQACEQMRAD8ApOCO0fEkLHYgg4/8TyPJLp4kvZWY/Uk/zHF0RjAkTqD5u2SeJ6OOSPTstNIYwXIN0bwr2k8jJkMTveGXbcOBJor+cM3UjRLCrSrG1gN0oWSO14h0xjPKwAY+m/MfYZIiUcgO90d7N506hJ40UfKxFg7+/wCsDdKr/CHqhJOGTIRXife3XfvhkurMf//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.msnavsi.cz/fotogalerie/uspavani-broucku-na-skolni-zahrade",
-"typ": "les",
-"url": "https://www.msnavsi.cz/sites/default/files/fotogalerie/whatsapp_image_2026-11-09_at_23.07.49_1.jpeg",
-"w": 900
 }
 ],
 "materska-skola-kraslice-545934": [
@@ -1028,19 +968,6 @@
 "typ": "interier",
 "url": "https://www.msrevnice.cz/wp-content/uploads/photo-gallery/ostatni/tridy/motylci/IMG_0334.jpg?bwg=1646076702",
 "w": 1024
-},
-{
-"alt": "",
-"barva": "#ab937d",
-"dh": "b2b6b66cdb9b1b1d",
-"h": 1024,
-"jistota": 1.0,
-"ms": true,
-"soubor": "3.webp",
-"stranka": "https://www.msrevnice.cz/tridy/zabky/",
-"typ": "hygiena",
-"url": "https://www.msrevnice.cz/wp-content/uploads/photo-gallery/ostatni/tridy/zabky/IMG_0405.jpg?bwg=1646076779",
-"w": 768
 }
 ],
 "materska-skola-sedletin-vesela-148382": [

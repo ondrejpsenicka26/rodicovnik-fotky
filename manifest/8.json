@@ -17,19 +17,6 @@
 },
 {
 "alt": "",
-"barva": "#767056",
-"dh": "0f97c6d7c6991818",
-"h": 675,
-"jistota": 0.998,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.donbosco.cz/index.php/budoucnost-skoly/stavba-nove-skoly/",
-"typ": "interier",
-"url": "https://www.donbosco.cz/wp-content/uploads/2025/11/240612_SVLU_8-Foto-1.jpg",
-"w": 1200
-},
-{
-"alt": "",
 "barva": "#75828d",
 "dh": "f3cb35f81bd5e331",
 "h": 675,
@@ -39,19 +26,6 @@
 "stranka": "https://www.donbosco.cz/index.php/budoucnost-skoly/stavba-nove-skoly/",
 "typ": "budova",
 "url": "https://www.donbosco.cz/wp-content/uploads/2025/11/CZSL-DB-zadni-strana-budova.jpg",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#a2a2a3",
-"dh": "74343262636949cc",
-"h": 675,
-"jistota": 0.649,
-"ms": true,
-"soubor": "4.webp",
-"stranka": "https://www.donbosco.cz/index.php/budoucnost-skoly/stavba-nove-skoly/",
-"typ": "interier",
-"url": "https://www.donbosco.cz/wp-content/uploads/2025/11/240612_SVLU_64-Photo-1.jpg",
 "w": 1200
 }
 ],
@@ -312,23 +286,6 @@
 "w": 1200
 }
 ],
-"materska-skola-little-flow-019167": [
-{
-"alt": "Budova kampusu FLOW na Balabence",
-"barva": "#8f9090",
-"dh": "089040612363479e",
-"h": 675,
-"jistota": 0.88,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGAgX/xAAgEAACAQQCAwEAAAAAAAAAAAABAhEAAwQhBRIxMlFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDERIT/9oADAMBAAIRAxEAPwByDBs47ZAuJ2Ueh3P5qn8TlYeTcRXIVtwJJAFchFBIBUQB4is3XZLTlT1gajVHSQ6IqX5zibLtba7BUwYUxRUWFBUMRJIkn7RU3axwj//Z",
-"ms": false,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.skolaflow.cz/druhy-stupen",
-"typ": "budova",
-"url": "https://www.skolaflow.cz/images/nase-skola/Balabenka-Office-Building.jpg",
-"w": 1200
-}
-],
 "materska-skola-ostrava-petrkovice-629887": [
 {
 "alt": "",
@@ -572,36 +529,6 @@
 "typ": "interier",
 "url": "https://www.skolkaveltrusy.cz/image.php?oid=12514290&nid=21565",
 "w": 1200
-}
-],
-"materska-skola-vybiralova-761434": [
-{
-"alt": "Budova Vybíralova 969",
-"barva": "#a1989a",
-"dh": "3820257b393d8c9b",
-"h": 497,
-"jistota": 0.965,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAjEAACAQQBAwUAAAAAAAAAAAABAhEAAwQSIQUTMRVRcZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQEBAQADAAAAAAAAAAAAAAABAAIRUWH/2gAMAwEAAhEDEQA/AKeH0/HbBDGzZJk86LXC83TcS81u9iK7qQRIWCD9fFZj5DAhZOjvrHEjj3pfLAy8lVUdptJJ8z4NHSlcgLMeo4UkJ0myQDHOv5RUd7jd1wwQkGJAiiqZ9nJ1f//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.msvybiralova968.cz/o-skolce/virtualni-prohlidka/",
-"typ": "budova",
-"url": "https://www.msvybiralova968.cz/data/editor/1330cs_2.png?gcm_date=1684154218",
-"w": 765
-},
-{
-"alt": "Budova Vybíralova 967",
-"barva": "#91908c",
-"dh": "493f7f7a7e2e7762",
-"h": 497,
-"jistota": 0.924,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.msvybiralova968.cz/o-skolce/virtualni-prohlidka/",
-"typ": "budova",
-"url": "https://www.msvybiralova968.cz/data/editor/1330cs_3.png?gcm_date=1684154237",
-"w": 765
 }
 ],
 "materska-skola-vysoke-nad-jizerou-586444": [
@@ -958,36 +885,6 @@
 "typ": "interier",
 "url": "https://www.skolalitohor.cz/custom/img/slider/3.jpg",
 "w": 809
-}
-],
-"zakladni-skola-a-materska-skola-mendiku-501279": [
-{
-"alt": "Oprava povrchu dětského hřiště MŠ Mendíků",
-"barva": "#828162",
-"dh": "2c8c9e276733194d",
-"h": 540,
-"jistota": 0.878,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIAAkAFAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABAIFBv/EACMQAAEEAAUFAQAAAAAAAAAAAAEAAgMEERITITMkMXGhsfH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQEh/9oADAMBAAIRAxEAPwAolsMT5DdZK94x0s2Df1TnkisDSf087Ttm29rPRcavb/CPDfix3hpU3LsRLBMCBt3QlZ+UoSq//9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.zsmendiku.cz/fotogalerie-fotografie/13574",
-"typ": "zahrada",
-"url": "https://www.zsmendiku.cz/fotografie/13574/1000098499_fotografie.jpg",
-"w": 1200
-},
-{
-"alt": "Oprava povrchu dětského hřiště MŠ Mendíků",
-"barva": "#827b74",
-"dh": "a3b40e232120011f",
-"h": 540,
-"jistota": 0.642,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.zsmendiku.cz/fotogalerie-fotografie/13574",
-"typ": "zahrada",
-"url": "https://www.zsmendiku.cz/fotografie/13574/1000098473_fotografie.jpg",
-"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-pteni-610612": [

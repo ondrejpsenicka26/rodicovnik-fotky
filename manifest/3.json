@@ -229,26 +229,13 @@
 "materska-skola-jablicko-velke-prilepy-517086": [
 {
 "alt": "",
-"barva": "#dad9c7",
-"dh": "0843cdc0f3e08892",
-"h": 512,
-"jistota": 0.669,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBv/EACAQAAEDBAIDAAAAAAAAAAAAAAEAAgMEBRESITEicYH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQEh/9oADAMBAAIRAxEAPwDS3G4PjeI6ckOafI459JxXMzB2wEBHWwzlXnspLPtKcTbctqQR8QqQhVdD/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://www.msjablickovelkeprilepy.cz/o-skole/tridy/",
-"typ": "budova",
-"url": "https://www.msjablickovelkeprilepy.cz/data/headerfooter/header_images/msjablickosvicebnisalvizualizace_1.png",
-"w": 1132
-},
-{
-"alt": "",
 "barva": "#926962",
 "dh": "434b47471b2fb7b3",
 "h": 800,
 "jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAjEAACAQMEAQUAAAAAAAAAAAABAgMABBESEzFBISJRcYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECERITUWH/2gAMAwEAAhEDEQA/AEWs+9GhiDFOGOSMH9qzHdQJHIRCokVV5byc5yfmuRtZzAXUDUhQkKeqaL2WWPS+CAuM9kdZoKFGhyTjbN19dxyXTMDAo6XbX0j2oqG5Os8fYooYvpNvh//Z",
 "ms": true,
+"nahled": "2-nahled.webp",
 "soubor": "2.webp",
 "stranka": "https://www.msjablickovelkeprilepy.cz/o-skole/tridy/",
 "typ": "interier",

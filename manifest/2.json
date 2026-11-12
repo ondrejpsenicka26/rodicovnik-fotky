@@ -76,19 +76,6 @@
 "w": 1200
 },
 {
-"alt": "Dětská skupina 2–3 roky",
-"barva": "#7b8151",
-"dh": "1811292026cc8e9e",
-"h": 640,
-"jistota": 0.987,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://questoschool.cz/fotogalerie/",
-"typ": "zahrada",
-"url": "https://questoschool.cz/wp-content/uploads/2026/07/DSC_0358.jpg",
-"w": 1200
-},
-{
 "alt": "Novinky v naší přírodní zahradě - Mateřská škola a Základní škola Questo",
 "barva": "#837d7a",
 "dh": "3333330dcdcccb3e",
@@ -549,23 +536,6 @@
 "w": 887
 }
 ],
-"materska-skola-letcu-503581": [
-{
-"alt": "",
-"barva": "#bdc0b5",
-"dh": "d8fcfcf69ca8982c",
-"h": 1200,
-"jistota": 0.857,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAcABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgECBP/EACQQAAIBBAICAQUAAAAAAAAAAAECAwAEBRESMRMhQRQjUYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGREBAAIDAAAAAAAAAAAAAAAAAAExEiFB/9oADAMBAAIRAxEAPwCxZS+a3kKvyVNjiQN79Unu83Okw8Mw4tvYZfnr1TDI3tgt5IGuGWQeiBvsfFK76XHtBKyFZZADrf5o76yLpaMXKZsdBKTsuuyaK1xC8cVajr7YPe6KTXE+HT6mV1kK8m2AqD1+yawcRGzgtK5I6PjX+U6oIB7G6OEJFbRCG3SMEniNbPdFS0Uk/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://msletcu.cz/cinnost-ms/denik-jak-se-promenuje-nase-zahrada/",
-"typ": "zahrada",
-"url": "https://msletcu.cz/app/uploads/2022/08/13.jpg",
-"w": 849
-}
-],
 "materska-skola-libochovany-000159": [
 {
 "alt": "",
@@ -640,19 +610,6 @@
 "stranka": "https://www.msmajnj.cz/",
 "typ": "budova",
 "url": "https://ca109f89a9.clvaw-cdnwnd.com/a6137d269a1da381eb591c6b2ac2ce8d/200003954-6ed0c6ed0e/M%C5%A0%20K.%20%C4%8Capka.jpeg?ph=ca109f89a9",
-"w": 1200
-},
-{
-"alt": "",
-"barva": "#cfa270",
-"dh": "2747cf6a5f0d2c16",
-"h": 800,
-"jistota": 0.965,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://www.msmajnj.cz/zapis-do-ms/",
-"typ": "interier",
-"url": "https://ca109f89a9.clvaw-cdnwnd.com/a6137d269a1da381eb591c6b2ac2ce8d/200003816-5934659348/co%20v%C3%A1m%20nab%C3%ADz%C3%ADme.png?ph=ca109f89a9",
 "w": 1200
 },
 {
