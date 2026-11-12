@@ -403,6 +403,66 @@
 "w": 1200
 }
 ],
+"materska-skola-satov-615240": [
+{
+"alt": "MŠ Šatov",
+"barva": "#7c7c79",
+"dh": "6068668ecfcfcf97",
+"h": 573,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAACBgQF/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDAAQRBTFREiETFUFicZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAaEQACAgMAAAAAAAAAAAAAAAAAARESAjFB/9oADAMBAAIRAxEAPwDRJqavEYllwSRscUyXNzEMpczL8yZ/a4d3cguqqnQVbq7AYI4p21P2Pz3kPOal10OFopbXU5DGfHuAGz6hdqKl/MiNo/tiaKXxJJ//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mssatov.cz/ms-satov/prostredi-skoly/",
+"typ": "budova",
+"url": "https://www.mssatov.cz/data/editor/108cs_2.jpg?gcm_date=1743441890",
+"w": 765
+}
+],
+"materska-skola-zahradka-sezimovo-usti-535360": [
+{
+"alt": "motylci",
+"barva": "#7e715c",
+"dh": "82a68646872524c6",
+"h": 864,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBAAREiEFEyIxI1Hw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGREAAwADAAAAAAAAAAAAAAAAAAECERIT/9oADAMBAAIRAxEAPwDAlxlYtt3AjgaesYrWoYunuzu3dIJB09fucBjmhU+asz86ZvdmWgqhym079RgqlIjWRrplujJUDWJ0WQsdQ5598ZYJFVq24lm+TyH3plm9C0P/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mszahradkasu.cz/index.php/tridy/4-trida-motylci",
+"typ": "interier",
+"url": "https://www.mszahradkasu.cz/images/obrazky/tridy/4/web%20015.jpg",
+"w": 1152
+},
+{
+"alt": "web 014",
+"barva": "#8c8061",
+"dh": "33b3fc68de263238",
+"h": 864,
+"jistota": 0.991,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mszahradkasu.cz/index.php/tridy/4-trida-motylci",
+"typ": "interier",
+"url": "https://www.mszahradkasu.cz/images/obrazky/tridy/4/web%20014.jpg",
+"w": 1152
+},
+{
+"alt": "web 033",
+"barva": "#88857b",
+"dh": "64d2c24aca99c185",
+"h": 864,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mszahradkasu.cz/index.php/tridy/1-trida-berusky",
+"typ": "hygiena",
+"url": "https://www.mszahradkasu.cz/images/tridy/1/web_033.jpg",
+"w": 1152
+}
+],
 "ms-lukov-605813": [
 {
 "alt": "",
@@ -718,6 +778,49 @@
 "typ": "interier",
 "url": "https://www.zsvtelno.cz/data/multipage/editor/editor-24-101-cs_2_big.jpg?gcm_date=1773564780",
 "w": 1024
+}
+],
+"zakladni-skola-a-materska-skola-namesti-svobody-006560": [
+{
+"alt": "",
+"barva": "#7f7146",
+"dh": "e1676347c1ce4e72",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAgME/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQACAxExBAUhIhJRYXGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEgMEEVGR/9oADAMBAAIRAxEAPwDTrd323UQlrA4yF1W4cZyqmNhDOtEewkUjorD5ImP55BGVOTeYA2otOyL5F2PWEGzCTar6Xja4HB8byPxCQR7w4t7ss/aFnpn7EtA//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zs-ns2.cz/o_skole/pronajmy-prostoru/",
+"typ": "interier",
+"url": "https://www.zs-ns2.cz/soubory/clanky/0042_pronajmy-prostoru/fotky/mala-ucebna-nova_1696248030.jpg",
+"w": 1067
+},
+{
+"alt": "",
+"barva": "#6c6758",
+"dh": "a4b0d81c645d360e",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zs-ns2.cz/o_skole/pronajmy-prostoru/",
+"typ": "interier",
+"url": "https://www.zs-ns2.cz/soubory/clanky/0042_pronajmy-prostoru/fotky/stredni-ucebna-1_1696248122.jpg",
+"w": 1067
+},
+{
+"alt": "",
+"barva": "#736a5e",
+"dh": "da932e2e6e5b131b",
+"h": 800,
+"jistota": 0.56,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zs-ns2.cz/o_skole/pronajmy-prostoru/",
+"typ": "hygiena",
+"url": "https://www.zs-ns2.cz/soubory/clanky/0042_pronajmy-prostoru/fotky/zrcadlova-telocvicna-5_1696426801.jpg",
+"w": 1067
 }
 ],
 "zakladni-skola-a-materska-skola-nehvizdy-013132": [
