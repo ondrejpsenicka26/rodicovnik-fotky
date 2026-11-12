@@ -1,11 +1,15 @@
 # Stáhne a roztřídí fotky školek z jejich webů (viz scripts/fotky.py).
 # Běží ve více částech zároveň; každá část zpracuje svůj díl webů z cile.json
 # a výsledky rovnou uloží do větve main (GitHub Pages je zveřejní).
-# Spouští se ručně (Actions → Fotky školek → Run workflow). Přerušený běh stačí
-# spustit znovu – hotové weby se přeskočí.
+# Spouští se změnou cile.json (nové weby) nebo ručně (Actions → Fotky školek → Run workflow).
+# Přerušený běh stačí spustit znovu – hotové weby se přeskočí.
 name: Fotky školek
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "cile.json"
   workflow_dispatch:
     inputs:
       casti:
