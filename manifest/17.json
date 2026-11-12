@@ -46,6 +46,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-kamaradi-do-deste-ds01752": [
+{
+"alt": "",
+"barva": "#a09c7d",
+"dh": "c484d4707a5b4d09",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACEQAAICAgEEAwAAAAAAAAAAAAECAwQAERIFITFRQmGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRIQMx/9oADAMBAAIRAxEAPwBuOwJRFMuuDL3H3gbKXAa6uokAD8fJIyPUvPBDHFxVhH7HnH6nUZDaUxxxozdiwXZ1kZcr8dCpJGmW5CUXbfEYZEmgR5SVLp7CNofmGW0MP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kamaradidodeste.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/6436ab273881efb4516bd45f/648837131e053a4ef9208390_DSC05635.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#bdb7a5",
+"dh": "19191b19baf07d39",
+"h": 1200,
+"jistota": 0.773,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.kamaradidodeste.cz/",
+"typ": "hygiena",
+"url": "https://cdn.prod.website-files.com/6436ab273881efb4516bd45f/648837139978b2afdceeeae5_DSC05590.jpg",
+"w": 800
+}
+],
 "detsky-domov-materska-skola-a-sj-266395": [
 {
 "alt": "",
@@ -218,6 +248,49 @@
 "w": 1100
 }
 ],
+"materska-skola-brno-601516": [
+{
+"alt": "",
+"barva": "#8b8885",
+"dh": "05c0c6cbb5b40000",
+"h": 899,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACEQAQABBAEEAwAAAAAAAAAAAAECAAMEERIhMUGBE1HR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAABFhcRL/2gAMAwEAAhEDEQA/AGs+LjXNYvKLHuj45a69fVMmRdNRbgqoEkl5fyoRm5Ml5XXaaUiDRbAHc7jt27uPerDrQW8+xIfntFuYpo7J90VFC35Je5LRWObM0//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskamenna.webnode.cz/o-skolce/",
+"typ": "budova",
+"url": "https://6b1b40924a.cbaul-cdnwnd.com/4e985a39cf9540de3c7ee327b241a01b/200000107-92e6092e64/IMG_0181%5B1%5D.PNG?ph=6b1b40924a",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#898076",
+"dh": "fdfae6ebb1f2f0e6",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskamenna.webnode.cz/",
+"typ": "zahrada",
+"url": "https://6b1b40924a.cbaul-cdnwnd.com/4e985a39cf9540de3c7ee327b241a01b/200000181-7e0967e098/IMG_7584.jpeg?ph=6b1b40924a",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7f8966",
+"dh": "7ae4a5351ce08c12",
+"h": 943,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mskamenna.webnode.cz/o-skolce/",
+"typ": "zahrada",
+"url": "https://6b1b40924a.cbaul-cdnwnd.com/4e985a39cf9540de3c7ee327b241a01b/200000186-6be2f6be31/IMG_4490-9.jpeg?ph=6b1b40924a",
+"w": 1200
+}
+],
 "materska-skola-bystrice-510481": [
 {
 "alt": "",
@@ -315,6 +388,66 @@
 "typ": "zahrada",
 "url": "https://www.msjak.cz/web/image/15480/IMG_20250630_080418_resized_20250630_084217543.jpg",
 "w": 1000
+}
+],
+"materska-skola-cesky-krumlov-531623": [
+{
+"alt": "",
+"barva": "#9a9684",
+"dh": "03078151736b4f64",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERITIQUxYRQiUXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AKjG0IDO6qvySOKqgkBZ11cp38VkSR+mtMg61BzpI4P3T2uDLZvKqiPICYQn9qWdTxj4Y28c73sZSNIOc+KKz5OgmdYpxeypvIJCoHAJ74ooPNdDGf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnadrazi-ck.cz/cz/zelena-trida/",
+"typ": "interier",
+"url": "https://www.msnadrazi-ck.cz/img/2026091800b.jpg?a",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c3beb4",
+"dh": "d1cec6642c3c7459",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnadrazi-ck.cz/cz/zelena-trida/",
+"typ": "interier",
+"url": "https://www.msnadrazi-ck.cz/img/2026091801b.jpg",
+"w": 1200
+},
+{
+"alt": "Zelená třída v MŠ Za Nádražím Český Krumlov (8/10)",
+"barva": "#aeb0b2",
+"dh": "1939313930321a32",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnadrazi-ck.cz/cz/zelena-trida/",
+"typ": "hygiena",
+"url": "https://www.msnadrazi-ck.cz/img/2026091810b.jpg",
+"w": 1200
+}
+],
+"materska-skola-cesky-krumlov-531631": [
+{
+"alt": "Třída Rybiček",
+"barva": "#7e6d55",
+"dh": "4f2e6e6ca68e2f6f",
+"h": 663,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAjEAABBAEDBAMAAAAAAAAAAAACAQMEEQASEyEFIkFhMVGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAiES/9oADAMBAAIRAxEAPwCIz4qRXGQaFyRSUqLa3fjFzZj4oTiRyaFFvS4XI8fuOjiLHQtxkAByr1oKX9/OVJUl59lN1wj7fPvB8jIrnkmNKaJtd6kO8MziREMk94YhiJ32/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mszasoudem.webnode.cz/fotogalerie2/",
+"typ": "interier",
+"url": "https://b05cd06bc7.cbaul-cdnwnd.com/bd51ba2ae4d6d182506e4279b574a65e/200000076-947b59573d/44202350_359165984825589_8001119340499828736_n.jpg?ph=b05cd06bc7",
+"w": 1200
 }
 ],
 "materska-skola-hlavenec-007657": [
@@ -605,6 +738,62 @@
 "w": 1200
 }
 ],
+"materska-skola-maxik-139651": [
+{
+"alt": "",
+"barva": "#708270",
+"dh": "b0f01b2d2cb20103",
+"h": 609,
+"jistota": 0.991,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAjEAABAgUDBQAAAAAAAAAAAAABAAIDBBESITEyQRMiUXGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAQUBAQAAAAAAAAAAAAAAAAIDEhRRAUH/2gAMAwEAAhEDEQA/AMy82xzXmatc7UWdtfA5TRHki2GRDiXHeK7fWM8LkN1CcNAsbDnPSIpwtExQmnSc2uKggj6hRNJznkoSy7ognD//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msmaxik.cz/o-nas/",
+"typ": "budova",
+"url": "https://msmaxik.cz/wp-content/uploads/2023/12/BG-banner-cropped.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#82824f",
+"dh": "e79f9a250d5bcb8c",
+"h": 675,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msmaxik.cz/o-nas/",
+"typ": "interier",
+"url": "https://msmaxik.cz/wp-content/uploads/2023/12/G_1.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#787e78",
+"dh": "f9dbd9c8cb381809",
+"h": 768,
+"jistota": 0.996,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msmaxik.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://msmaxik.cz/wp-content/uploads/2023/12/e0f4045e-ad43-445b-afa8-c00c66e18ec2.webp",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#68808f",
+"dh": "f0f4f04fb2328d24",
+"h": 900,
+"jistota": 0.99,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msmaxik.cz/o-nas/",
+"typ": "budova",
+"url": "https://msmaxik.cz/wp-content/uploads/2023/12/Bu_1.jpeg",
+"w": 1200
+}
+],
 "materska-skola-mochov-516420": [
 {
 "alt": "",
@@ -684,6 +873,62 @@
 "typ": "zahrada",
 "url": "https://www.zbuch.cz/data/editor/347cs_1.jpg?gcm_date=1702381605",
 "w": 765
+}
+],
+"materska-skola-prerov-631415": [
+{
+"alt": "IMG_9139",
+"barva": "#c59d5e",
+"dh": "c1e4c6121a5b4a1b",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABA//EACAQAAICAgIDAQEAAAAAAAAAAAECAxEABAUTEiExQVH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAX/xAAcEQACAQUBAAAAAAAAAAAAAAAAAgEDERITQTH/2gAMAwEAAhEDEQA/AFDuxbLqEv2R6IrO0G2jM0SX2ILIrBeNVdiTqYEFPYcGj/MybYOryEghBVwviWv7+/MzUbC+PS1qUz6ORcik6eaE1dZYEeQ2Y6FxGxd9Qyxdr8D1Kf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskomenskehoprerov.estranky.cz/fotoalbum/prostory-skolky/",
+"typ": "interier",
+"url": "https://mskomenskehoprerov.estranky.cz/img/original/1470/img_9139.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_7507",
+"barva": "#937c60",
+"dh": "e173379b00043e1e",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskomenskehoprerov.estranky.cz/fotoalbum/prostory-skolky/",
+"typ": "zahrada",
+"url": "https://mskomenskehoprerov.estranky.cz/img/original/1458/img_7507.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_7514",
+"barva": "#a09779",
+"dh": "d02521329bcb6a69",
+"h": 800,
+"jistota": 0.781,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mskomenskehoprerov.estranky.cz/fotoalbum/prostory-skolky/",
+"typ": "les",
+"url": "https://mskomenskehoprerov.estranky.cz/img/original/1464/img_7514.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_9141",
+"barva": "#b0996a",
+"dh": "69c988e87878ae3a",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mskomenskehoprerov.estranky.cz/fotoalbum/prostory-skolky/",
+"typ": "interier",
+"url": "https://mskomenskehoprerov.estranky.cz/img/original/1472/img_9141.jpg",
+"w": 1200
 }
 ],
 "materska-skola-sazava-589478": [
