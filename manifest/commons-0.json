@@ -1,27 +1,4 @@
 {
-"1-materska-skola-nova-paka-582937": [
-{
-"alt": "commons",
-"barva": "#6e817d",
-"dh": "ccf42c6a662e1f87",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACcQAAIBAwIDCQAAAAAAAAAAAAEDAgAEERIhBRMxFBUiQVFhcYHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMSIRH/2gAMAwEAAhEDEQA/ANL4rZSsee/CmiYgVCW5z5/FMdoi+MjbYmpfVjSRHb0HX7qPbwWGhU1xZGQ31DNNNsV3GkamRAJIjqyKFdNrjM1TD3qH0cesZqBzoxtiQ/KKj9z8vwxece8aKWpFZP/Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kola_Br%C3%A1na_na_He%C5%99manick%C3%A9_ulici_v_Nov%C3%A9_Pace.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Mate%C5%99sk%C3%A1_%C5%A1kola_Br%C3%A1na_na_He%C5%99manick%C3%A9_ulici_v_Nov%C3%A9_Pace.jpg/960px-Mate%C5%99sk%C3%A1_%C5%A1kola_Br%C3%A1na_na_He%C5%99manick%C3%A9_ulici_v_Nov%C3%A9_Pace.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kola_Br%C3%A1na_na_He%C5%99manick%C3%A9_ulici_v_Nov%C3%A9_Pace.jpg"
-}
-}
-],
 "2-materska-skola-breznice-000085": [
 {
 "alt": "commons",
@@ -65,29 +42,6 @@
 "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kola_Br%C3%A1na_na_He%C5%99manick%C3%A9_ulici_v_Nov%C3%A9_Pace.jpg"
-}
-}
-],
-"cirkevni-materska-skola-u-sv-josefa-020790": [
-{
-"alt": "commons",
-"barva": "#6d6c73",
-"dh": "9fdd263a3db9b9bc",
-"h": 807,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQREiExBSJBE1FhcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAMBAQAAAAAAAAAAAAAAAAACERIx/9oADAMBAAIRAxEAPwBCO0J72AAA41Yz+Viv5rGKT03J1rv2NkHbig3v7qKaRlmcO4IJBrBPI7ylmYktzv596rbW0MrOCqL0mRna4iuNRbYRyBQBgeCPuqisFgDqI+BVU0Yf/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:%C4%8CBu,_Na_Sadech_19_(01).jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%C4%8CBu%2C_Na_Sadech_19_%2801%29.jpg/960px-%C4%8CBu%2C_Na_Sadech_19_%2801%29.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:%C4%8CBu,_Na_Sadech_19_(01).jpg"
 }
 }
 ],
@@ -634,32 +588,13 @@
 "materska-skola-ctyrlistek-pardubice-585171": [
 {
 "alt": "commons",
-"barva": "#88847e",
-"dh": "116eda9ac6469201",
-"h": 484,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEC/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIAAxESQRMhIjFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAQADAAAAAAAAAAAAAAAAABEBITH/2gAMAwEAAhEDEQA/ANlquRsUx10sfhioamDsrgsF7UA8n3aIguiiUc+JeU3feoiJPPTf/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:%C4%8Cty%C5%99l%C3%ADstek_kindergarten,_Pardubice.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%C4%8Cty%C5%99l%C3%ADstek_kindergarten%2C_Pardubice.jpg/960px-%C4%8Cty%C5%99l%C3%ADstek_kindergarten%2C_Pardubice.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:%C4%8Cty%C5%99l%C3%ADstek_kindergarten,_Pardubice.jpg"
-}
-},
-{
-"alt": "commons",
 "barva": "#72757a",
 "dh": "310c14303aea3e0f",
 "h": 800,
 "jistota": 1,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAhEAACAgEEAgMAAAAAAAAAAAABAgMRAAQFEiExgTJR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAHBEAAwABBQAAAAAAAAAAAAAAAAECUQMREhMh/9oADAMBAAIRAxEAPwCTaVkBYyMIwSOnHkY77gwsCNQRZvlYrLiqN8kU+sx9NGwNqOxXrFXSWyYcJfrRxh1JkiVuAN/R/MMdEEQ4p4vDKWteQ65wf//Z",
 "ms": true,
+"nahled": "2-nahled.webp",
 "soubor": "2.webp",
 "stranka": "https://commons.wikimedia.org/wiki/File:N%C3%A1rodn%C3%ADch_hrdin%C5%AF_street,_kindergarten,_Pardubice.jpg",
 "typ": "budova",
@@ -719,29 +654,6 @@
 }
 }
 ],
-"materska-skola-duha-pardubice-popkovice-a-stare-civice-584778": [
-{
-"alt": "commons",
-"barva": "#778375",
-"dh": "0727371b5f3f8f1c",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGAgT/xAAhEAACAQQCAgMAAAAAAAAAAAABAhEAAwQSBSEGQTGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABsRAAIBBQAAAAAAAAAAAAAAAAABAgMREhNB/9oADAMBAAIRAxEAPwDpxeWyNFD44M/DkEd1jP5p0S5ZazYlkPe8gfX5TkUkdu1IycHHeS9sEn2DFZVSfWGojrkbmKKqG8fxWM7OJ9Cim5Ys/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Star%C3%A9_%C4%8C%C3%ADvice_mate%C5%99sk%C3%A1_%C5%A1kola.JPG",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Star%C3%A9_%C4%8C%C3%ADvice_mate%C5%99sk%C3%A1_%C5%A1kola.JPG/960px-Star%C3%A9_%C4%8C%C3%ADvice_mate%C5%99sk%C3%A1_%C5%A1kola.JPG",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Star%C3%A9_%C4%8C%C3%ADvice_mate%C5%99sk%C3%A1_%C5%A1kola.JPG"
-}
-}
-],
 "materska-skola-dvur-kralove-nad-labem-588978": [
 {
 "alt": "commons",
@@ -781,29 +693,6 @@
 "licence_url": "https://creativecommons.org/licenses/by/3.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kolka_-_panoramio_-_Tom%C3%A1%C5%A1_Pet%C5%99%C3%ADk.jpg"
-}
-}
-],
-"materska-skola-hermanek-026155": [
-{
-"alt": "commons",
-"barva": "#4d4a40",
-"dh": "8383232313c5848c",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYBBAX/xAAiEAACAgEDBAMAAAAAAAAAAAABAgMRAAQSMQUhIlETFKH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECESFR/9oADAMBAAIRAxEAPwBfjndnMgZiT3q83um6sSxGMrKXAN1VAe8WRGA/ixFGwKy4jvCpZHIJHI7YnLgVuk63f9qTb5C+Rx+4YF/kO57J94ZlZbSP/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Kobylisy,_Rajmonova_4,_Kr%C3%A1lovsk%C3%A1_mate%C5%99sk%C3%A1_%C5%A1kola.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Kobylisy%2C_Rajmonova_4%2C_Kr%C3%A1lovsk%C3%A1_mate%C5%99sk%C3%A1_%C5%A1kola.jpg/960px-Kobylisy%2C_Rajmonova_4%2C_Kr%C3%A1lovsk%C3%A1_mate%C5%99sk%C3%A1_%C5%A1kola.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY 4.0",
-"licence_url": "https://creativecommons.org/licenses/by/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Kobylisy,_Rajmonova_4,_Kr%C3%A1lovsk%C3%A1_mate%C5%99sk%C3%A1_%C5%A1kola.jpg"
 }
 }
 ],
@@ -983,29 +872,6 @@
 }
 }
 ],
-"materska-skola-jerice-582759": [
-{
-"alt": "commons",
-"barva": "#94918b",
-"dh": "0e0b765ccc1e0311",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAC/8QAJBAAAgICAAQHAAAAAAAAAAAAAQIAAxEhBAUGEhMiMUJRgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AUr6ipSlGt7gzDY7T5Zm7qqpE3w9jbwMEbHzBEdsepm/EGcMin6ktq4ao59RdSrsShb2lCcfglBxhdKoAlG0x/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Je%C5%99ice_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Je%C5%99ice_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG/960px-Je%C5%99ice_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Je%C5%99ice_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG"
-}
-}
-],
 "materska-skola-jizerka-565111": [
 {
 "alt": "commons",
@@ -1163,29 +1029,6 @@
 }
 }
 ],
-"materska-skola-krejpskeho-300774": [
-{
-"alt": "commons",
-"barva": "#606665",
-"dh": "c6cc91a693253e1f",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACMQAAICAQQBBQEAAAAAAAAAAAECAwQABRESITETQVFhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwBKa/Y1G6psCURoDxVV2YD53xmfVJrlda9iFY4mA9ThG3M7eCfbEROx8sx/TmG4yDo95GQwFZo6rHHAY+MqKjEKFYL19jbzhkI35d+yP5hjsnt//9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Praha_Chodov_Krejpskeho_10_MS.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Praha_Chodov_Krejpskeho_10_MS.jpg/960px-Praha_Chodov_Krejpskeho_10_MS.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Praha_Chodov_Krejpskeho_10_MS.jpg"
-}
-}
-],
 "materska-skola-kromeriz-020819": [
 {
 "alt": "commons",
@@ -1271,29 +1114,6 @@
 "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Praha_Prosek_Kytlicka_17_MS.jpg"
-}
-}
-],
-"materska-skola-laurinka-514583": [
-{
-"alt": "commons",
-"barva": "#7b7a5d",
-"dh": "01032fcd1e1b91d1",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIAAwQRBQYSYSExQVGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACURL/2gAMAwEAAhEDEQA/ANKnuoUlxWtyzn1w8D9kn3eirkWjZ7qCcfTvyvseIwXuWbmCAPqYu9ckTk3WdUub6/auqlVYDCj467hK9W64vgZIhL3qFL//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Mlada_Boleslav_Smilovskeho_543_MS.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mlada_Boleslav_Smilovskeho_543_MS.jpg/960px-Mlada_Boleslav_Smilovskeho_543_MS.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Mlada_Boleslav_Smilovskeho_543_MS.jpg"
 }
 }
 ],
@@ -1458,29 +1278,6 @@
 }
 }
 ],
-"materska-skola-milotice-nad-opavou-620618": [
-{
-"alt": "commons",
-"barva": "#7c6e66",
-"dh": "1f6f677f3f0f9f9f",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACUQAAIBBAEBCQAAAAAAAAAAAAECAwAEBRESEyEiQUNRcaHh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERIh/9oADAMBAAIRAxEAPwC0mejkxqSKQLh02UUb4n94VIyuYkvbNY5UZe3vaXQPzUlYjEeEc0yrreg31Sbgynz5T7tUVerClMr0yXDDrMSSN0UqVeT7Zix9TRQkPR//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Milotice_nad_Opavou,_mate%C5%99sk%C3%A1_%C5%A1kola.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Milotice_nad_Opavou%2C_mate%C5%99sk%C3%A1_%C5%A1kola.jpg/960px-Milotice_nad_Opavou%2C_mate%C5%99sk%C3%A1_%C5%A1kola.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Milotice_nad_Opavou,_mate%C5%99sk%C3%A1_%C5%A1kola.jpg"
-}
-}
-],
 "materska-skola-mlada-boleslav-514656": [
 {
 "alt": "commons",
@@ -1501,29 +1298,6 @@
 "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Mlada_Boleslav_Smilovskeho_543_MS.jpg"
-}
-}
-],
-"materska-skola-mnichovice-516519": [
-{
-"alt": "commons",
-"barva": "#79806e",
-"dh": "08008d8b8b4d4d47",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAYFB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAFEgQGESEiMVFD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBEiEx/9oADAMBAAIRAxEAPwBYb1o7fPLHBonYN+gPLke+xVBLue3xui8ysXXLgRnoVz9dTAuJ5KE9kqtaMvE+niaGMKUXHyJJIrDlcDSlk3pb1chUmcfQAKVDyZ5+DYD4BSi5M//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Mnichovice,_M%C5%A0.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Mnichovice%2C_M%C5%A0.jpg/960px-Mnichovice%2C_M%C5%A0.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY 4.0",
-"licence_url": "https://creativecommons.org/licenses/by/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Mnichovice,_M%C5%A0.jpg"
 }
 }
 ],
@@ -1796,29 +1570,6 @@
 "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Hostovice_mate%C5%99sk%C3%A1_%C5%A1kola.JPG"
-}
-}
-],
-"materska-skola-plana-nad-luznici-535335": [
-{
-"alt": "commons",
-"barva": "#535e43",
-"dh": "80959fbbdbbfbdb4",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAiEAACAQMEAwEBAAAAAAAAAAABAgMABBEFEhMhIkFRcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRIjFR/9oADAMBAAIRAxEAPwDFsLOK51Aid40jyS2W9YPY/tWIpOPY0UiuxAL7AfE/DTWWoiWeRpuIp1sKx4x+Uk2ptL2it0PLJ7FZW9EpCzazcK+0zSJj1tNFQtK7HPEhz9NFNKXAYn//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Plan%C3%A1_nad_Lu%C5%BEnic%C3%AD_-_M%C5%A0.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Plan%C3%A1_nad_Lu%C5%BEnic%C3%AD_-_M%C5%A0.jpg/960px-Plan%C3%A1_nad_Lu%C5%BEnic%C3%AD_-_M%C5%A0.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Plan%C3%A1_nad_Lu%C5%BEnic%C3%AD_-_M%C5%A0.jpg"
 }
 }
 ],
@@ -2208,32 +1959,13 @@
 "materska-skola-slunicko-102886": [
 {
 "alt": "commons",
-"barva": "#6e6d6a",
-"dh": "0620280808081908",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACEQAAICAgIBBQAAAAAAAAAAAAECAxEABBIxIQUyQXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECERITIUH/2gAMAwEAAhEDEQA/AFHoWzCuq0cvMuX4oOVAWDZr7rHRnSFlEjD2cqb56vJPQKjYUMpIJ6BrzlHLp896OSSQsqqDxqvy8zslDqYqMlTQ+VZEUBI40HZBF+cMxDf43cd2b7wy7W+2MUvD/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Brno-Bystrc,_%C5%A0toura%C4%8Dova_(5109b).jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Brno-Bystrc%2C_%C5%A0toura%C4%8Dova_%285109b%29.jpg/960px-Brno-Bystrc%2C_%C5%A0toura%C4%8Dova_%285109b%29.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Brno-Bystrc,_%C5%A0toura%C4%8Dova_(5109b).jpg"
-}
-},
-{
-"alt": "commons",
 "barva": "#7c8593",
 "dh": "31c92f2b331d0f6f",
 "h": 800,
 "jistota": 1,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECBAUG/8QAIRAAAgICAgMAAwAAAAAAAAAAAQIDEQAEBRIhQVEiMXH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDEmET/9oADAMBAAIRAxEAPwBQaEc8RdGHg1WXotTWhCGDZUMPydSVamA9j9+8xuP3G1uPEiDx2sr9P3J7PItIoZoksA2eosn7dXjee2FY5Q97m5NfclhHY9Gq0Ao/y8M57Z35ZtiSWSmd2tifZwzPS+FpPT//2Q==",
 "ms": true,
+"nahled": "2-nahled.webp",
 "soubor": "2.webp",
 "stranka": "https://commons.wikimedia.org/wiki/File:Brno-Bystrc,_%C5%A0toura%C4%8Dova_23,_mate%C5%99sk%C3%A1_%C5%A1kola_(5107b).jpg",
 "typ": "budova",
@@ -2405,29 +2137,6 @@
 "licence_url": "https://creativecommons.org/licenses/by/3.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:St%C5%99%C3%AD%C5%BEovice_(KM),_M%C5%A0.jpg"
-}
-}
-],
-"materska-skola-trebnouseves-026945": [
-{
-"alt": "commons",
-"barva": "#82827a",
-"dh": "293919493f131e0e",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBA//EACIQAAICAgEDBQAAAAAAAAAAAAECAAMEEQUTFCEiMUFRYf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAwDAQACEQMRAD8AcRy3QxqUtxhZWK/U6HZ39anW3mF73HZa3GOoY2gqCfzWpNWdDwJrMRM1plU/O4AYh8fJJHyFAESLwfcAxC9UP//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:T%C5%99ebnou%C5%A1eves_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/T%C5%99ebnou%C5%A1eves_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG/960px-T%C5%99ebnou%C5%A1eves_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:T%C5%99ebnou%C5%A1eves_mate%C5%99sk%C3%A1_%C5%A1kolka.JPG"
 }
 }
 ],
@@ -2650,29 +2359,6 @@
 "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Tupec,_M%C5%A0.jpg"
-}
-}
-],
-"materska-skola-vrane-nad-vltavou-517159": [
-{
-"alt": "commons",
-"barva": "#6e776d",
-"dh": "8b83c76507871f3f",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACMQAAEDBAEFAQEAAAAAAAAAAAECAxEABAUSIQYTIkGBMXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAMBAQEAAAAAAAAAAAAAAAABEVEhMf/aAAwDAQACEQMRAD8AhNpeYeaeR3AD5J1HMezWyx3U6Bj5umXS4hIjRM7j1/PtRLfp56QV3ISACAEiePtMOY64ba7abqUARGoqYl4HcF8rmbleQdMuM/nhueBHFFJv2Fw26RqlU8zNFEWjD//Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Vrane_Brezovska_830_MS.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vrane_Brezovska_830_MS.jpg/960px-Vrane_Brezovska_830_MS.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Vrane_Brezovska_830_MS.jpg"
 }
 }
 ],
@@ -3257,32 +2943,13 @@
 "zakladni-skola-a-materska-skola-destna-532697": [
 {
 "alt": "commons",
-"barva": "#8a8983",
-"dh": "011b186b6e726345",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGAv/EACMQAAICAgEDBQEAAAAAAAAAAAECBBEAAwUGEzESFCEyM2H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/xAAYEQEBAAMAAAAAAAAAAAAAAAAAAQIRE//aAAwDAQACEQMRAD8A3ElCG6yKB7Zuia/mNtHUyd0e5VU1V9lsm8h3l7XARmNHH/H8dGWOjvrDuRfqOFyMh43VHHub1vsI8fmcMlZsZdEgprZlQD4F+MMz6LT/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:De%C5%A1tn%C3%A1,_mate%C5%99sk%C3%A1_%C5%A1kola_(2).jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/De%C5%A1tn%C3%A1%2C_mate%C5%99sk%C3%A1_%C5%A1kola_%282%29.jpg/960px-De%C5%A1tn%C3%A1%2C_mate%C5%99sk%C3%A1_%C5%A1kola_%282%29.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:De%C5%A1tn%C3%A1,_mate%C5%99sk%C3%A1_%C5%A1kola_(2).jpg"
-}
-},
-{
-"alt": "commons",
 "barva": "#888988",
 "dh": "ba76eedec7070707",
 "h": 800,
 "jistota": 1,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACMQAAEDAgcAAwAAAAAAAAAAAAEAAhEDEgQFExQhMUEiUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A0Wa5rpgUsMabr2zqSCAOuAodRxMuJLnO7cTJKztDE1KTxdD+fQn98/Tm0fqEcaW2iY4QpW/IJ+Hv2haof//Z",
 "ms": true,
+"nahled": "2-nahled.webp",
 "soubor": "2.webp",
 "stranka": "https://commons.wikimedia.org/wiki/File:De%C5%A1tn%C3%A1,_mate%C5%99sk%C3%A1_%C5%A1kola_(1).jpg",
 "typ": "budova",
@@ -3445,29 +3112,6 @@
 }
 }
 ],
-"zakladni-skola-a-materska-skola-dvorce-620171": [
-{
-"alt": "commons",
-"barva": "#676e54",
-"dh": "13160e0e2e7676dc",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAG/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIAAwQREgUhMQYiYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECA//aAAwDAQACEQMRAD8AB6eayi6q5lLVLsH3d1X6mjyuqY9VDsjcmA2o8AmZ4pXoKRA5NlYUoSxJ8SWejDQrGybbKFOi3yO0oJUXiN7/AA6lFEP/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Dvorce_(okres_Brunt%C3%A1l),_mate%C5%99sk%C3%A1_%C5%A1kolka.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Dvorce_%28okres_Brunt%C3%A1l%29%2C_mate%C5%99sk%C3%A1_%C5%A1kolka.jpg/960px-Dvorce_%28okres_Brunt%C3%A1l%29%2C_mate%C5%99sk%C3%A1_%C5%A1kolka.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Dvorce_(okres_Brunt%C3%A1l),_mate%C5%99sk%C3%A1_%C5%A1kolka.jpg"
-}
-}
-],
 "zakladni-skola-a-materska-skola-habry-580098": [
 {
 "alt": "commons",
@@ -3583,52 +3227,6 @@
 }
 }
 ],
-"zakladni-skola-a-materska-skola-kratonohy-581159": [
-{
-"alt": "commons",
-"barva": "#787d76",
-"dh": "9f871e9a9f0f070f",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAiEAACAgEDBAMAAAAAAAAAAAABAgADMQQGEQUSIVKBkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8A2jcbP1VdVfU3KKUCIfBj+pbvZ6Hro05rLLwHZsGQ1Kowij4jTjA+pLpHPfcF1rd9tx7j6+B+QlZI5wIQkf/Z",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Kratonohy_mate%C5%99sk%C3%A1_%C5%A1kola.JPG",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kratonohy_mate%C5%99sk%C3%A1_%C5%A1kola.JPG/960px-Kratonohy_mate%C5%99sk%C3%A1_%C5%A1kola.JPG",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Kratonohy_mate%C5%99sk%C3%A1_%C5%A1kola.JPG"
-}
-}
-],
-"zakladni-skola-a-materska-skola-krtiny-600242": [
-{
-"alt": "commons",
-"barva": "#808784",
-"dh": "38d8532390c58bff",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIDBBEhMQUGsRITQpGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREBAAIDAAAAAAAAAAAAAAAAAAIhERJR/9oADAMBAAIRAxEAPwCqLtLZGtcIWAE2LXSgHwtDsDX3IjjOrWmF/Cik4Gmkk9RLm4AIZjQ2mR8TS08Ra0SZ2S7JVtIYOPaWtNhS1H2ELiVvJ+xVyRiO1j8Tj9QtX0U//9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:ZS_a_MS_Krtiny.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/ZS_a_MS_Krtiny.jpg/960px-ZS_a_MS_Krtiny.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:ZS_a_MS_Krtiny.jpg"
-}
-}
-],
 "zakladni-skola-a-materska-skola-lenora-534622": [
 {
 "alt": "commons",
@@ -3737,52 +3335,6 @@
 "licence_url": "https://creativecommons.org/licenses/by/4.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Lubn%C3%A1_(RA),_%C4%8Dp._204,_mate%C5%99sk%C3%A1_%C5%A1kola.jpg"
-}
-}
-],
-"zakladni-skola-a-materska-skola-mistrovice-589559": [
-{
-"alt": "commons",
-"barva": "#7a898b",
-"dh": "3d3c9c9cbcad337e",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAF/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDABESBAUhMUEGE1FhceHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAxNRcf/aAAwDAQACEQMRAD8A2vKQTNFblFyY9hR3xBuAgkiELDFo7n16/VaqxsYpSkhV3Xlmu37pReXc9QrYMsD4DEF4VPF/eraU/AKuKE+mWLWRCSMgjoTbi9u1VDpty1Mrgs4FhYBVCgD4FVaq98Dkun//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Overview_of_Kindergarten_in_L%C3%AD%C5%A1nice,_%C3%9Ast%C3%AD_nad_Orlic%C3%AD_District.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Overview_of_Kindergarten_in_L%C3%AD%C5%A1nice%2C_%C3%9Ast%C3%AD_nad_Orlic%C3%AD_District.jpg/960px-Overview_of_Kindergarten_in_L%C3%AD%C5%A1nice%2C_%C3%9Ast%C3%AD_nad_Orlic%C3%AD_District.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Overview_of_Kindergarten_in_L%C3%AD%C5%A1nice,_%C3%9Ast%C3%AD_nad_Orlic%C3%AD_District.jpg"
-}
-}
-],
-"zakladni-skola-a-materska-skola-olomouc-901269": [
-{
-"alt": "commons",
-"barva": "#6f7066",
-"dh": "0d8c4c4c19928107",
-"h": 798,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQD/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBEFEiEUMZEiQWFxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhITQf/aAAwDAQACEQMRAD8ADtrdmkRlG7BydpGR5+qXuYJGCLbnc5IyFYE1WemRzkPvKfC5H7SsOnQQg8F899xzmoU3wahw6eJQt3KscwHqU+3iqlBbQJwsKAd+BVWmswoj/9k=",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Z%C3%A1kladn%C3%AD_a_mate%C5%99sk%C3%A1_%C5%A1kola,_%C4%8Cenov%C3%ADr,_Olomouc.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Z%C3%A1kladn%C3%AD_a_mate%C5%99sk%C3%A1_%C5%A1kola%2C_%C4%8Cenov%C3%ADr%2C_Olomouc.jpg/960px-Z%C3%A1kladn%C3%AD_a_mate%C5%99sk%C3%A1_%C5%A1kola%2C_%C4%8Cenov%C3%ADr%2C_Olomouc.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1kladn%C3%AD_a_mate%C5%99sk%C3%A1_%C5%A1kola,_%C4%8Cenov%C3%ADr,_Olomouc.jpg"
 }
 }
 ],
@@ -3968,25 +3520,6 @@
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Praha_Hrncire_U_skolky_1023_MS.jpg"
 }
-},
-{
-"alt": "commons",
-"barva": "#4c5f7c",
-"dh": "75391319197f5b5b",
-"h": 774,
-"jistota": 1,
-"ms": true,
-"soubor": "2.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:U_%C5%A1kolky_street,_east_part_II,_Praha.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/U_%C5%A1kolky_street%2C_east_part_II%2C_Praha.jpg/960px-U_%C5%A1kolky_street%2C_east_part_II%2C_Praha.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:U_%C5%A1kolky_street,_east_part_II,_Praha.jpg"
-}
 }
 ],
 "zakladni-skola-a-materska-skola-sehradice-606364": [
@@ -4127,29 +3660,6 @@
 }
 }
 ],
-"zakladni-skola-a-materska-skola-trnava-611732": [
-{
-"alt": "commons",
-"barva": "#68747c",
-"dh": "02000219090e1987",
-"h": 800,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMHBf/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwAFEQQGEiFBIjFhcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8ATtu7ww6dotY7YBBTrPXmt6G/WxpVj5SKW9iydftTzPBsDxTSxKjJJ+DV7UZFBl3Da9OwTk0npBzGAR9UVO80UF//2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Overview_of_kindergarten_Mate%C5%99sk%C3%A1_%C5%A1kola_Trnava_in_Trnava,_T%C5%99eb%C3%AD%C4%8D_District.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Overview_of_kindergarten_Mate%C5%99sk%C3%A1_%C5%A1kola_Trnava_in_Trnava%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg/960px-Overview_of_kindergarten_Mate%C5%99sk%C3%A1_%C5%A1kola_Trnava_in_Trnava%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Overview_of_kindergarten_Mate%C5%99sk%C3%A1_%C5%A1kola_Trnava_in_Trnava,_T%C5%99eb%C3%AD%C4%8D_District.jpg"
-}
-}
-],
 "zakladni-skola-a-materska-skola-u-parkanu-006276": [
 {
 "alt": "commons",
@@ -4222,32 +3732,13 @@
 "zakladni-skola-a-materska-skola-vsetin-042401": [
 {
 "alt": "commons",
-"barva": "#57676e",
-"dh": "fe7b4f4ea667e387",
-"h": 900,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIEBQb/xAAhEAABBAICAgMAAAAAAAAAAAABAgMEEQAhEhMFMSJRof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAETAlH/2gAMAwEAAhEDEQA/AFY8g04lpLhT2KNK4nSfdY0p1lhVqcSQAbCSDvWZ9a46yW47Ruqs6Kv3WWTcQmNbrfEEbHMnHbSROSGMxxalGPG7UA0FA+8MhGNFsj56+lHDBbfRSyf/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kola_a_jesle_(Vset%C3%ADn),_%C5%BDerot%C3%ADnova_1537,_Vset%C3%ADn_-_zadn%C3%AD_strana,_celek.JPG",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Mate%C5%99sk%C3%A1_%C5%A1kola_a_jesle_%28Vset%C3%ADn%29%2C_%C5%BDerot%C3%ADnova_1537%2C_Vset%C3%ADn_-_zadn%C3%AD_strana%2C_celek.JPG/960px-Mate%C5%99sk%C3%A1_%C5%A1kola_a_jesle_%28Vset%C3%ADn%29%2C_%C5%BDerot%C3%ADnova_1537%2C_Vset%C3%ADn_-_zadn%C3%AD_strana%2C_celek.JPG",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 3.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kola_a_jesle_(Vset%C3%ADn),_%C5%BDerot%C3%ADnova_1537,_Vset%C3%ADn_-_zadn%C3%AD_strana,_celek.JPG"
-}
-},
-{
-"alt": "commons",
 "barva": "#65727b",
 "dh": "00c836676785c0cf",
 "h": 900,
 "jistota": 1,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EACMQAAICAgEEAgMAAAAAAAAAAAECAwQAERIFIUFREyJhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAIDAQAAAAAAAAAAAAAAAAACAQMTFP/aAAwDAQACEQMRAD8AzHLDJUNkEiINx2ffrHQKstf5gQqciv23485MbpMgjWKO6GjB2E0QAfeMWo9KMB7vBA221yO/xldDSRFKjH6rWhIWQOGI32Gx+8MnWZqE7gz3ZmdVC7WPt/cMdnDJT//Z",
 "ms": true,
+"nahled": "2-nahled.webp",
 "soubor": "2.webp",
 "stranka": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kola_a_jesle_(Vset%C3%ADn),_%C5%BDerot%C3%ADnova_1537,_Vset%C3%ADn_-_p%C5%99edn%C3%AD_strana.JPG",
 "typ": "budova",
@@ -4258,29 +3749,6 @@
 "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Mate%C5%99sk%C3%A1_%C5%A1kola_a_jesle_(Vset%C3%ADn),_%C5%BDerot%C3%ADnova_1537,_Vset%C3%ADn_-_p%C5%99edn%C3%AD_strana.JPG"
-}
-}
-],
-"zakladni-skola-a-materska-skola-wolfram-501023": [
-{
-"alt": "commons",
-"barva": "#7d7872",
-"dh": "e3a72f032b8b878b",
-"h": 833,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAJBAAAgEDBAAHAAAAAAAAAAAAAQIRAAMEBRIhMQYTImGhseH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABkRAAIDAQAAAAAAAAAAAAAAAAABERJBIf/aAAwDAQACEQMRAD8AYniHzVlsMD2Nz8p6a7kOipipZtMx7jcfmuSx9cQDxMGpDIl1XVAtxRww7FHXoqFha/qusNffZkXYUxwygfdFZSF3GJ5M90UVZSf/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Palmetov%C3%A1_street,_kindergarten,_Praha.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Palmetov%C3%A1_street%2C_kindergarten%2C_Praha.jpg/960px-Palmetov%C3%A1_street%2C_kindergarten%2C_Praha.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY-SA 4.0",
-"licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Palmetov%C3%A1_street,_kindergarten,_Praha.jpg"
 }
 }
 ],
@@ -4304,29 +3772,6 @@
 "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
 "nazev": "Wikimedia Commons",
 "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1l%C5%A1%C3%AD_-_%C5%A1kolka.jpg"
-}
-}
-],
-"zakladni-skola-a-materska-skola-zlechov-612968": [
-{
-"alt": "commons",
-"barva": "#606b4a",
-"dh": "ececf2ee6f2d0603",
-"h": 898,
-"jistota": 1,
-"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAiEAACAgEEAQUAAAAAAAAAAAABAgADEQQFEiEiMUFRYqH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGhEBAAEFAAAAAAAAAAAAAAAAABIBESExYf/aAAwDAQACEQMRAD8Az7zcLtRYw8gSSCq4GMxfaj8VZq+IwD36tn3jVAbEKDoH8EmzRpcMuSx+3cx3kol9OrAqAxiEufbaeR5VKT8gmEm3BCr/2Q==",
-"ms": true,
-"nahled": "1-nahled.webp",
-"soubor": "1.webp",
-"stranka": "https://commons.wikimedia.org/wiki/File:Zlechov,_M%C5%A0,_vjezd.jpg",
-"typ": "budova",
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Zlechov%2C_M%C5%A0%2C_vjezd.jpg/960px-Zlechov%2C_M%C5%A0%2C_vjezd.jpg",
-"w": 1200,
-"zdroj": {
-"licence": "CC BY 4.0",
-"licence_url": "https://creativecommons.org/licenses/by/4.0",
-"nazev": "Wikimedia Commons",
-"url": "https://commons.wikimedia.org/wiki/File:Zlechov,_M%C5%A0,_vjezd.jpg"
 }
 }
 ],
