@@ -16,6 +16,105 @@
 "w": 1200
 }
 ],
+"materska-skola-beruska-564408": [
+{
+"alt": "og",
+"barva": "#847a6c",
+"dh": "121a2f249c426273",
+"h": 897,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAiEAACAgICAAcAAAAAAAAAAAABAgMRAAQSIRQiMTJBcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwCOnNAsIcljIijy30T85rbb0KLjktj2kV+YqplKyQnjMvowNVlnKfYVvFNyNULN1g3opIaptpGCqRwlb6Ldk4YnMar12fs4ZmJ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-beruska.cz/fotogalerie/trida-sovicky",
+"typ": "interier",
+"url": "http://www.ms-beruska.cz/image.php?oid=11978656",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#6a7f62",
+"dh": "f46cdcda8c6c7c34",
+"h": 900,
+"jistota": 0.702,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-beruska.cz/fotogalerie/nase-skolka",
+"typ": "zahrada",
+"url": "http://www.ms-beruska.cz/image.php?oid=12186141",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7f684c",
+"dh": "ffed6db22f9ae367",
+"h": 897,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-beruska.cz/fotogalerie/trida-motylci",
+"typ": "interier",
+"url": "http://www.ms-beruska.cz/image.php?oid=11978147",
+"w": 1200
+}
+],
+"materska-skola-blansko-600064": [
+{
+"alt": "",
+"barva": "#7f755b",
+"dh": "824a46662648a101",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAUAA//EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAREiEEEyIxI0FxscH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIREiH/2gAMAwEAAhEDEQA/ADIFUIsgmGVt4kaB+jTcGCxKVQKbX878UDAzTMUiRWLDfaBf5pfi5t6cspU2tig/aybpoUuSgeXjceJI8WBXLu9r7tVWks0ULBB1DioGm8VUe880rpH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msrodkovskeho.cz/tridy/kotatka/",
+"typ": "budova",
+"url": "https://www.msrodkovskeho.cz/wp-content/NyL2xjfH6b/trida-kotatka/trida-kotatka-rodkovskeho-2b-08.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9c7656",
+"dh": "0d948444d8df674e",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msrodkovskeho.cz/tridy/jezecci/",
+"typ": "interier",
+"url": "https://www.msrodkovskeho.cz/wp-content/NyL2xjfH6b/trida-jezecci/trida-jezecci-rodkovskeho-2a-05.JPG",
+"w": 1200
+},
+{
+"alt": "Hlavní budova - Rodkovského 2a - kmen",
+"barva": "#7c745e",
+"dh": "26165e7f767be192",
+"h": 600,
+"jistota": 0.841,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msrodkovskeho.cz/charakteristika-materska-skola-rodkovskeho-blansko/hlavni-budova-materske-skoly-2a/",
+"typ": "zahrada",
+"url": "https://www.msrodkovskeho.cz/wp-content/uploads/rodkovskeho-2a-02.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#73685a",
+"dh": "53d98fe4f80e31a3",
+"h": 900,
+"jistota": 0.994,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msrodkovskeho.cz/tridy/slunicka/",
+"typ": "budova",
+"url": "https://www.msrodkovskeho.cz/wp-content/NyL2xjfH6b/trida-slunicka/trida-slunicka-rodkovskeho-2a-08.jpg",
+"w": 1200
+}
+],
 "materska-skola-brno-602270": [
 {
 "alt": "Třída Beránků",
@@ -72,6 +171,36 @@
 "w": 800
 }
 ],
+"materska-skola-brno-603063": [
+{
+"alt": "",
+"barva": "#807c7d",
+"dh": "cdb5710f64d4940f",
+"h": 612,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADAAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAfEAACAgICAwEAAAAAAAAAAAABAgMRAAQSMRNBYSH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A1nnk2JPJsuGeqHI9fABmM5iZCZ5rUPYo9fMQUcg37YyW14ynErYu+/eRidtJJZeUbkCvTVhjbvDHQ//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.hnevkovskeho.cz/index.php/fotogalerie/category/1-skolka-a-okoli",
+"typ": "budova",
+"url": "https://www.hnevkovskeho.cz/images/phocagallery/SKOLKA/thumbs/phoca_thumb_l_skolka_07.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#80838f",
+"dh": "f3f0dceee63772f8",
+"h": 768,
+"jistota": 0.994,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.hnevkovskeho.cz/index.php/fotogalerie/category/1-skolka-a-okoli",
+"typ": "budova",
+"url": "https://www.hnevkovskeho.cz/images/phocagallery/SKOLKA/thumbs/phoca_thumb_l_skolka_02.jpg",
+"w": 1024
+}
+],
 "materska-skola-chrast-544938": [
 {
 "alt": "",
@@ -112,6 +241,118 @@
 "stranka": "https://www.mschrast.cz/rekonstrukce-ms/",
 "typ": "zahrada",
 "url": "https://7b3d6d3228.clvaw-cdnwnd.com/a7af899ad09e2c811dba1ec5cb5ffe5e/200000057-c319dc413b/zahrada_1x.jpg",
+"w": 1200
+}
+],
+"materska-skola-chrestova-ivancice-603322": [
+{
+"alt": "",
+"barva": "#797673",
+"dh": "59981a9a193b3ac2",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACUQAAIBBAECBwEAAAAAAAAAAAECAwAEESESMVEiQWFygZHR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAIBAxESE1EU/9oADAMBAAIRAxEAPwB4cPLxcAe44/vioXTEXLFGHQDKjXTtS2c8dmgUxBm3h8+L8qUkxllLmUAnsnn90NWlnyuK01VcbGiOUsp5KMg41qisZi57a4kz6KKKv1z0jSvD/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mschrestova.cz/o-nas/",
+"typ": "budova",
+"url": "https://www.mschrestova.cz/wp-content/uploads/2023/01/20230111_095821-1-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7b8460",
+"dh": "a1a1e198c82863cd",
+"h": 600,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mschrestova.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://www.mschrestova.cz/wp-content/uploads/2023/01/110911173347.jpeg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#736b66",
+"dh": "3ce6f8bc3ce9863d",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mschrestova.cz/o-nas/",
+"typ": "budova",
+"url": "https://www.mschrestova.cz/wp-content/uploads/2023/01/20230111_130538-1-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#656346",
+"dh": "e1cade5870e23730",
+"h": 600,
+"jistota": 0.981,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mschrestova.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://www.mschrestova.cz/wp-content/uploads/2023/01/110911173424.jpeg",
+"w": 800
+}
+],
+"materska-skola-kyticka-000824": [
+{
+"alt": "",
+"barva": "#76706d",
+"dh": "434f728c8c348c42",
+"h": 746,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgMG/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDAAQRBRITFSEiMWFRcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARESIVH/2gAMAwEAAhEDEQA/ALDVLvIUyEbG3FiowfR9VM2v3kYGHVicjsjHSua5tcEElY+vkEHH7W8VwblSXRBtJPbkZNZylXHDyJprxeNLeXKMx8KcUUuhnZYwoAwPnP3RRZ0//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mskyticka.com/index.php/nase-skolka-zvenku",
+"typ": "budova",
+"url": "https://www.mskyticka.com/images/gallery/exterier/20210615_131245.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#4a6127",
+"dh": "9182c189a20368c8",
+"h": 900,
+"jistota": 0.99,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mskyticka.com/index.php/nase-skolka-zvenku",
+"typ": "zahrada",
+"url": "https://www.mskyticka.com/images/gallery/exterier/20210615_131733.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7d7458",
+"dh": "210314b363b21f13",
+"h": 900,
+"jistota": 0.769,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mskyticka.com/index.php/nase-skolka-zvenku",
+"typ": "les",
+"url": "https://www.mskyticka.com/images/gallery/exterier/20210615_132502.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#828872",
+"dh": "182ca58d2d84fe0f",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mskyticka.com/index.php/nase-skolka-zvenku",
+"typ": "budova",
+"url": "https://www.mskyticka.com/images/gallery/exterier/20210615_130537.jpg",
 "w": 1200
 }
 ],
