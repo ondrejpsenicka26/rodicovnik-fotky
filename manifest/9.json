@@ -265,6 +265,62 @@
 "w": 1200
 }
 ],
+"materska-skola-olomouc-627019": [
+{
+"alt": "",
+"barva": "#5d605a",
+"dh": "0d1eb42d05396e70",
+"h": 1000,
+"jistota": 0.962,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYBBP/EACcQAAIBAwQABQUAAAAAAAAAAAECAwARIQQFEjEGE0FxwRQiIzJR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABsRAQACAgMAAAAAAAAAAAAAAAABESFBMWHw/9oADAMBAAIRAxEAPwBT4WcJuYYtx4RuzEjFrVodXvCrGj6WKSUJgSEWBPzWW2eWWBpxEhvIhjOL4PdMSZVhRHZVTsL6d5+asSU9ku77gzBvqo4eSg8AALXFFLJ2lEn4JIeFh+3d7Zooe4chjlhj8xQCzYAZse9SMjRn7J5CPeq/Sp6VFk1KK4up7Fcd4S9LkbVSLyQlh/eIopggCggAWBIAorddrT//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msjilova.cz/",
+"typ": "budova",
+"url": "https://www.msjilova.cz/public/storage/thumb_full_1914_IMG_0516.webp",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#8a704d",
+"dh": "0f032383c6470109",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msjilova.cz/",
+"typ": "interier",
+"url": "https://www.msjilova.cz/public/storage/thumb_full_IMG_1515.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5b6850",
+"dh": "39b89445d5cda3a0",
+"h": 1000,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msjilova.cz/",
+"typ": "zahrada",
+"url": "https://www.msjilova.cz/public/storage/thumb_full_4954_IMG_0514.webp",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#70765a",
+"dh": "e6791b2c04021000",
+"h": 1000,
+"jistota": 0.695,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msjilova.cz/",
+"typ": "budova",
+"url": "https://www.msjilova.cz/public/storage/thumb_full_1730_IMG_0508.webp",
+"w": 750
+}
+],
 "materska-skola-ostrava-630354": [
 {
 "alt": "",
