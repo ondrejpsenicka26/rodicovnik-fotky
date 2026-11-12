@@ -63,6 +63,92 @@
 "w": 1200
 }
 ],
+"materska-skola-bila-622831": [
+{
+"alt": "",
+"barva": "#8a6a3f",
+"dh": "2bad25179327270d",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQREhMhMSKRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAQQDAAAAAAAAAAAAAAAAAQIDERIhE0Hw/9oADAMBAAIRAxEAPwA8LIwdVIYsoIHJ+UgMdtAqqCo0nwLDseqzLGVhKduEO56OcYrRuJZrOBd23EbTDIZWz+1lVBp3XtF+SLQWbTIwI4wMdZqobyurkajxVRUpLVhnF9n/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkabila.cz/fotoalbum",
+"typ": "interier",
+"url": "https://www.skolkabila.cz/userFiles/2_2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8d6e45",
+"dh": "93b39b3377535f5f",
+"h": 900,
+"jistota": 0.994,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkabila.cz/fotoalbum",
+"typ": "interier",
+"url": "https://www.skolkabila.cz/userFiles/1_2.jpg",
+"w": 1200
+}
+],
+"materska-skola-cerna-hora-600129": [
+{
+"alt": "",
+"barva": "#688189",
+"dh": "816303c3230bdbe1",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEESEiYRIUQoGR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABoRAAICAwAAAAAAAAAAAAAAAAARASICMVH/2gAMAwEAAhEDEQA/AJYr60IzJFJEeuQ/a0bS6snVsiRsAkccZqEQWya9OnzumJKiaWNVHQpLJMFYvQ2S6HnpFx21FJMin2L9UVW6aoP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mscernahora.cz/skolka/fotogalerie/",
+"typ": "budova",
+"url": "https://mscernahora.cz/wp-content/uploads/2025/01/skolka-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#918169",
+"dh": "279f9b874652f387",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mscernahora.cz/tridy/medvidci/",
+"typ": "interier",
+"url": "https://mscernahora.cz/wp-content/uploads/2025/09/Obrazek-WhatsApp-2025-08-29-v-14.18.23_ba77a6f3.jpg",
+"w": 1200
+},
+{
+"alt": "Vítáme vás po létě",
+"barva": "#686f6e",
+"dh": "efccd87c5e72710d",
+"h": 750,
+"jistota": 0.966,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mscernahora.cz/",
+"typ": "les",
+"url": "https://mscernahora.cz/wp-content/uploads/2026/08/IMG_9323.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#97755f",
+"dh": "61687435e1030703",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mscernahora.cz/tridy/medvidci/",
+"typ": "interier",
+"url": "https://mscernahora.cz/wp-content/uploads/2025/09/Obrazek-WhatsApp-2025-08-29-v-14.18.24_0621f275.jpg",
+"w": 1200
+}
+],
 "materska-skola-ceske-budejovice-077069": [
 {
 "alt": "",
@@ -117,6 +203,36 @@
 "typ": "hygiena",
 "url": "https://www.msvetrna.cz/storage/app/uploads/public/69d/f61/1f1/69df611f1bc88196549120.jpeg",
 "w": 900
+}
+],
+"materska-skola-frantiskovy-lazne-546779": [
+{
+"alt": "Img 1485",
+"barva": "#767767",
+"dh": "3bb6b637337cc4f0",
+"h": 803,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQREiFBYRMxFCOh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEAAQUAAAAAAAAAAAAAAAAAIQEREjFR/9oADAMBAAIRAxEAPwBG1ZbYSi3YKGJLDHVANARb3U6MrNrVUkxxg8e6RuUuolIVoxCFH2MNx1gUcqM2fj3DKeNKAD9qJ0ca8ZCIlx5pWVjvgISBVTkC6ogWZwecH33VRAs//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msfrantiskovylazne.cz/galeries/143",
+"typ": "zahrada",
+"url": "https://www.msfrantiskovylazne.cz/data/galery_images/items/513/full/IMG_1485.JPEG?1729452161",
+"w": 1070
+},
+{
+"alt": "Img 20221013 113728",
+"barva": "#90786e",
+"dh": "6468d7a43e023885",
+"h": 801,
+"jistota": 0.994,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msfrantiskovylazne.cz/galeries/101",
+"typ": "zahrada",
+"url": "https://www.msfrantiskovylazne.cz/data/galery_images/items/373/full/IMG_20221013_113728.jpg?1667827242",
+"w": 1070
 }
 ],
 "materska-skola-harmonie-neratovice-513714": [
@@ -272,6 +388,53 @@
 "typ": "interier",
 "url": "https://skolkaorlicek.cz/wp-content/themes/orlicek/assets/images/trida-2.jpg",
 "w": 900
+}
+],
+"materska-skola-sokolov-545781": [
+{
+"alt": "",
+"barva": "#98968a",
+"dh": "de96868fcf0f170b",
+"h": 1000,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAXABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUGBP/EACgQAAEDAwMCBgMAAAAAAAAAAAEAAgMEBRESEyIhMRQyQVFxgZHh8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGhEAAwADAQAAAAAAAAAAAAAAAAERAgMSIf/aAAwDAQACEQMRAD8A0cV7invLKSIgxlhy4jHPvj8ZXVdajwtummBw5rTp+T2WCpK10dwhmjAc7caeXYnP7V2/3OpdR7ckMQaZNOWOJPQfCG+EhQtVwirqCOWSVjZRxkB6ch/A/aLCb0jCQxzmjPYHCJnTEvTg3YVLZsxyamRncbktf6g49OqqVtS6ohfHWB8jPM0B+NPt9oiQ8TR0Z50Ueo6RkH3RERlU/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.nejskolka.cz/o-nas/",
+"typ": "budova",
+"url": "https://9831c85bc3.clvaw-cdnwnd.com/5920f55cf8ee2aa5f312dece818cc206/202169342-ebacdebacf/IMG_20210302_115914.jpg",
+"w": 864
+},
+{
+"alt": "",
+"barva": "#ac8d68",
+"dh": "3323b9020c2c1c08",
+"h": 562,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.nejskolka.cz/tridy/",
+"typ": "interier",
+"url": "https://9831c85bc3.clvaw-cdnwnd.com/5920f55cf8ee2aa5f312dece818cc206/202169341-54c6d54c6f/IMG_20210302_120710.jpg",
+"w": 1000
+}
+],
+"materska-skola-stepnicna-503387": [
+{
+"alt": "og",
+"barva": "#a782ce",
+"dh": "38c3cd8ccccc6d63",
+"h": 518,
+"jistota": 0.558,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwQF/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQACAxEhUQQywQUSMTSC/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSEyFh/9oADAMBAAIRAxEAPwC0wy7hI4t82ZZT6gTp2MMMZeXNrYd2KcppPo/HCyR7AlTySmunVGjdoX65scIXaQkcvhex/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msstepnicna.cz/",
+"typ": "budova",
+"url": "https://msstepnicna.cz/media/home-hero.jpg",
+"w": 1200
 }
 ],
 "materska-skola-usti-nad-labem-569264": [
