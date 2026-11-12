@@ -1,0 +1,56 @@
+# Průzkum volných zdrojů pro školky bez fotky (scripts/zdroje.py):
+# weby v OpenStreetMap, fotky na Wikimedia Commons a ukázka leteckých snímků ČÚZK.
+# Spouští se ručně nebo změnou seznamu školek / ukázky ve složce zdroje/.
+name: Zdroje pro školky bez fotky
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "zdroje/bez-fotek.json"
+      - "zdroje/ukazka.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zdroje
+  cancel-in-progress: true
+
+jobs:
+  zdroje:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        co: [osm, letecke, commons]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            zdroje
+            ukazka
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow
+      - name: Průzkum
+        run: python3 scripts/zdroje.py ${{ matrix.co }} 2>&1 | tee "zdroje/log-${{ matrix.co }}.txt"
+      - name: Uložit do větve main
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          for f in zdroje ukazka; do
+            [ -e "$f" ] && git add --sparse "$f"
+          done
+          git commit -q -m "Zdroje: ${{ matrix.co }} ($(date -u +%Y-%m-%dT%H:%MZ))" || { echo "Nic nového"; exit 0; }
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            git pull --rebase -q && git push -q && exit 0
+            sleep $((RANDOM % 30 + 5))
+          done
+          exit 1
