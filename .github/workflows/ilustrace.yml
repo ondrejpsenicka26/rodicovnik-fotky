@@ -1,0 +1,47 @@
+# Ilustrační fotky pro web (scripts/ilustrace.py): stáhne dočasné odkazy na export z Canvy
+# zapsané v ilustrace/zdroje.json a uloží zmenšené fotky do ilustrace/.
+name: Ilustrační fotky
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "ilustrace/zdroje.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ilustrace
+  cancel-in-progress: false
+
+jobs:
+  ilustrace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            ilustrace
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow
+      - name: Stažení
+        run: python3 scripts/ilustrace.py
+      - name: Uložit do větve main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add --sparse ilustrace
+          git commit -q -m "Ilustrační fotky ($(date -u +%Y-%m-%dT%H:%MZ))" || { echo "Nic nového"; exit 0; }
+          for i in 1 2 3 4 5; do
+            git pull --rebase -q && git push -q && exit 0
+            sleep $((RANDOM % 20 + 5))
+          done
+          exit 1
