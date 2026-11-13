@@ -1,0 +1,38 @@
+{
+ "cirkevni-skolky": {
+  "barva": "#947f6d",
+  "h": 1205,
+  "puvodni": [
+   2336,
+   1760
+  ],
+  "w": 1600
+ },
+ "detske-skupiny": {
+  "barva": "#98816a",
+  "h": 1205,
+  "puvodni": [
+   2336,
+   1760
+  ],
+  "w": 1600
+ },
+ "soukrome-skolky": {
+  "barva": "#a89480",
+  "h": 1205,
+  "puvodni": [
+   2336,
+   1760
+  ],
+  "w": 1600
+ },
+ "statni-skolky": {
+  "barva": "#7d664d",
+  "h": 1205,
+  "puvodni": [
+   2336,
+   1760
+  ],
+  "w": 1600
+ }
+}
