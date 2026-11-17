@@ -4,7 +4,7 @@ name: Kontrola fotek
 
 on:
   workflow_run:
-    workflows: ["Fotky školek", "Fotky z Commons"]
+    workflows: ["Fotky školek", "Fotky školek – 2. kolo", "Fotky z Commons"]
     types: [completed]
   workflow_dispatch:
 

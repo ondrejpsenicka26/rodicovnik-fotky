@@ -40,9 +40,11 @@ from PIL import Image, ImageOps
 SHARD = int(os.environ.get("SHARD", "0"))
 SHARDS = int(os.environ.get("SHARDS", "1"))
 LIMIT_S = float(os.environ.get("LIMIT_MIN", "300")) * 60
+# Další kola: FOTKY_KOLO="-2" čte cile-2.json a píše do manifest-2/, hotovo-2/, logy-2/
+KOLO = os.environ.get("FOTKY_KOLO", "")
 START = time.time()
 UA = "RodicovnikBot/1.0 (+https://github.com/ondrejpsenicka26/rodicovnik-fotky; prehled skolek v CR)"
-MAX_STRANEK = 8  # 1. úroveň webu
+MAX_STRANEK = int(os.environ.get("MAX_STRANEK", "8"))  # 1. úroveň webu
 MAX_ALB = 8  # alba na webu školky
 MAX_EXT_ALB = 4  # alba na Rajčeti / Zoneramě
 MAX_KANDIDATU = 45
@@ -125,6 +127,10 @@ STRANKY = (
     "budov", "areal", "prohlidk", "vybaven", "about", "gallery", "nase-skolka", "skolka", "zazemi", "herna", "album",
 )
 NE_STRANKY = ("aktualit", "novink", "blog", "kontakt", "jidelnic", "dokument", "gdpr", "cookie", "kariera")
+# stránky části o školce, kde fotky prostor nebývají (2. kolo)
+NE_STRANKY_MS = ("zapis", "prijima", "uredni", "deska", "harmonogram", "akce", "kalendar", "platb", "skolne",
+                 "stravn", "skolska-rada", "skolni-rad", "provozni-rad", "rad-skol", "vyrocni", "inspekc", "dotac",
+                 "projekt", "poradn")
 ALBA_ANO = (
     "zahrad", "prostor", "trid", "interier", "budov", "rekonstruk", "oprav", "nova-", "nove-", "novy-", "herna",
     "lozni", "jideln", "umyvar", "satn", "otevren", "dod", "areal", "hrist", "prohlid", "vybaven", "stavb",
@@ -159,6 +165,19 @@ def skore_stranky(href, text):
     for k in STRANKY:
         if k in h or k.replace("-", " ") in t:
             s += 5 if k in ("galeri", "foto", "prostor", "zahrad", "trid", "interier", "budov", "zazemi") else 2
+    return s
+
+
+def skore_ms(href, text):
+    """Body pro stránku o mateřské škole / lesní školce (jen pokud nejde o vyřazený typ stránky)."""
+    h = cesta_url(href)
+    if any(k in h for k in NE_STRANKY + NE_STRANKY_MS):
+        return 0
+    s = 0
+    if MS_KONTEXT.search(h + " " + bez_diakritiky(text)):
+        s += 3
+    if re.search(r"(?<![a-z])lesn|zahrad|domec|jurt|maringot", h + " " + bez_diakritiky(text)):
+        s += 3
     return s
 
 
@@ -295,6 +314,10 @@ def projdi(origin, slug, jen_ms=False):
         if h2 != urllib.parse.urlparse(final).netloc.replace("www.", ""):
             continue
         sk = skore_stranky(u, txt)
+        if sk > 0 or KOLO:
+            # 2. kolo: i stránky části webu o školce bez slov typu „galerie“ v adrese
+            # (např. /lesni-ms-idea/ u spojené ZŠ a MŠ, kde je galerie zahrady a domečku)
+            sk += skore_ms(u, txt)
         if sk > 0:
             kand[u] = max(kand.get(u, 0), sk)
     for u, sk in sorted(kand.items(), key=lambda x: -x[1])[:MAX_STRANEK]:
@@ -584,22 +607,22 @@ def main():
     import shutil
     import zlib
 
-    cile = nacti_json("cile.json", {})
+    cile = nacti_json(f"cile{KOLO}.json", {})
     only = sys.argv[1:]
     if only:
         cile = {o: c for o, c in cile.items() if any(x in o for x in only)}
     cile = {o: c for o, c in cile.items() if zlib.crc32(o.encode()) % SHARDS == SHARD}
-    os.makedirs("manifest", exist_ok=True)
-    os.makedirs("hotovo", exist_ok=True)
-    manifest = nacti_json(f"manifest/{SHARD}.json", {})
-    hotovo = set(nacti_json(f"hotovo/{SHARD}.json", []))
+    os.makedirs(f"manifest{KOLO}", exist_ok=True)
+    os.makedirs(f"hotovo{KOLO}", exist_ok=True)
+    manifest = nacti_json(f"manifest{KOLO}/{SHARD}.json", {})
+    hotovo = set(nacti_json(f"hotovo{KOLO}/{SHARD}.json", []))
     zbyva = [(o, c) for o, c in sorted(cile.items()) if o not in hotovo]
     log(f"Část {SHARD + 1}/{SHARDS}: webů {len(cile)}, hotovo {len(hotovo)}, zbývá {len(zbyva)}")
     statistika = {"ok": 0, "lide": 0, "jine": 0, "sablona": 0}
 
     def uloz():
-        json.dump(manifest, open(f"manifest/{SHARD}.json", "w"), ensure_ascii=False, indent=0, sort_keys=True)
-        json.dump(sorted(hotovo), open(f"hotovo/{SHARD}.json", "w"), ensure_ascii=False, indent=0)
+        json.dump(manifest, open(f"manifest{KOLO}/{SHARD}.json", "w"), ensure_ascii=False, indent=0, sort_keys=True)
+        json.dump(sorted(hotovo), open(f"hotovo{KOLO}/{SHARD}.json", "w"), ensure_ascii=False, indent=0)
 
     for zacatek in range(0, len(zbyva), DAVKA):
         if time.time() - START > LIMIT_S:
@@ -621,8 +644,8 @@ def main():
         log(f"Dávka {zacatek // DAVKA + 1}: hotovo {len(hotovo)}/{len(cile)}, se fotkami {len(manifest)}; {statistika}")
     uloz()
     log(f"Konec: školek s fotkami {len(manifest)}; {statistika}")
-    os.makedirs("logy", exist_ok=True)
-    open(f"logy/{SHARD}.txt", "w").write("\n".join(LOG[-3000:]))
+    os.makedirs(f"logy{KOLO}", exist_ok=True)
+    open(f"logy{KOLO}/{SHARD}.txt", "w").write("\n".join(LOG[-3000:]))
 
 
 if __name__ == "__main__":
