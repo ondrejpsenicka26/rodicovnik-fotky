@@ -1,117 +1,62 @@
-[21:38:11] Část 14/20: webů 105, hotovo 0, zbývá 105
-[21:38:13] http://www.poddzbansko.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:38:13] http://www.ms-hlubcicka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:38:14] http://www.zsnorska.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:38:17] http://www.msrezkova.cz: nedostupné nebo zakázané
-[21:38:18] https://klubhrosici.cz: nedostupné nebo zakázané
-[21:38:24] https://ms7.plzen-edu.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 0 fotek ke kontrole
-[21:38:25] https://genius-school.cz/genius-strasnice: 3 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 13 fotek ke kontrole
-[21:38:32] https://msnovyprerov.cz: nedostupné nebo zakázané
-[21:38:34] http://www.mskohoutova.cz: 5 stránek (galerie mimo web: 1 ['mskohoutova.rajce.idnes.cz'], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[21:38:38] https://ms.kojetin.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 2 fotek ke kontrole
-[21:38:40] https://detskeskupiny.avcr.cz/cs/pro-rodice/pluto-dioda: 10 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 0 fotek ke kontrole
-[21:38:41] http://msborsice.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 15 fotek ke kontrole
-[21:38:43] https://sites.google.com: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:38:51] https://pipan.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 1 fotek ke kontrole
-[21:38:59] https://msharmonie.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 711 obrázků, 45 fotek ke kontrole
-[21:39:05] https://jahoda.cz/zarizeni/skolka-jesle-andel: 14 stránek (galerie mimo web: 0 [], alb: 0), 353 obrázků, 41 fotek ke kontrole
-[21:39:13] https://mojeskolicka.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 815 obrázků, 44 fotek ke kontrole
-[21:39:14] https://playwisely.cz/msplaywisely: 5 stránek (galerie mimo web: 0 [], alb: 0), 80 obrázků, 23 fotek ke kontrole
-[21:39:14] https://ms-slunickokladno.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 1344 obrázků, 9 fotek ke kontrole
-[21:39:15] https://neurazy.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:39:27] https://msazskm.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 403 obrázků, 30 fotek ke kontrole
-[21:39:28] https://msvetrnik.ricany.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 191 obrázků, 34 fotek ke kontrole
-[21:39:34] http://www.obec-vyprachtice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 110 obrázků, 25 fotek ke kontrole
-[21:42:47] https://msprokopka.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 2240 obrázků, 42 fotek ke kontrole
-[21:42:59] tříděno 0/324
-[21:43:31] Dávka 1: hotovo 24/105, se fotkami 2; {'ok': 4, 'lide': 45, 'jine': 267, 'sablona': 0}
-[21:43:35] https://www.adventureschool.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:43:35] https://stankova.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:43:36] https://www.boleradice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:43:37] https://www.kejzlice.cz: nedostupné nebo zakázané
-[21:43:40] https://www.chlumec.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:43:41] https://slunicka.com: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:43:43] https://www.knezeves.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:43:44] https://www.edin.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
-[21:43:48] https://skolkalada.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 11 fotek ke kontrole
-[21:43:55] https://www.ftn.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
-[21:43:56] https://skolazari.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 8 fotek ke kontrole
-[21:43:59] https://www.kanka.info: 28 stránek (galerie mimo web: 6 ['photos.app.goo.gl'], alb: 0), 2 obrázků, 2 fotek ke kontrole
-[21:44:00] https://skoladetrichov.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 1 fotek ke kontrole
-[21:44:03] https://www.mskvitekbystre.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 0 fotek ke kontrole
-[21:44:09] https://www.dlouhaloucka.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 2 fotek ke kontrole
-[21:44:16] https://www.msbachmacska.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 61 obrázků, 0 fotek ke kontrole
-[21:44:22] https://www.18mskladno.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 484 obrázků, 0 fotek ke kontrole
-[21:44:24] https://www.mskonicek.cz: 12 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 0), 24 obrázků, 2 fotek ke kontrole
-[21:44:32] https://www.ms-sedlcany.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 13 fotek ke kontrole
-[21:44:44] https://www.msliptan.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 975 obrázků, 45 fotek ke kontrole
-[21:44:45] https://www.kosare.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 165 obrázků, 18 fotek ke kontrole
-[21:45:02] https://www.msbiskupice.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 497 obrázků, 18 fotek ke kontrole
-[21:45:15] https://www.malaskola.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 134 obrázků, 38 fotek ke kontrole
-[21:45:19] https://www.hornitresnovec.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
-[21:45:22] tříděno 0/163
-[21:45:31] Dávka 2: hotovo 48/105, se fotkami 4; {'ok': 6, 'lide': 53, 'jine': 420, 'sablona': 0}
-[21:45:38] https://www.nej.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:45:41] https://www.mssluknovska.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[21:45:45] https://www.prosenickalhota.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
-[21:45:50] https://www.msresovska.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:46:03] https://www.neratov.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
-[21:46:03] https://www.skola-jirice.cz: nedostupné nebo zakázané
-[21:46:07] https://www.msoptiky.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 0 fotek ke kontrole
-[21:46:12] https://www.msmv.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 250 obrázků, 0 fotek ke kontrole
-[21:46:16] https://www.msnelahozeves.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 416 obrázků, 4 fotek ke kontrole
-[21:46:17] https://www.skoladobravoda.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 6 fotek ke kontrole
-[21:46:23] https://www.skolastarhill.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[21:46:23] https://www.msnovomestska.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 6 fotek ke kontrole
-[21:46:23] https://www.rovensko.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 104 obrázků, 6 fotek ke kontrole
-[21:46:24] https://www.mszitenice.cz: 17 stránek (galerie mimo web: 17 ['photos.app.goo.gl'], alb: 0), 17 obrázků, 1 fotek ke kontrole
-[21:46:24] https://www.nezabylice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 125 obrázků, 0 fotek ke kontrole
-[21:46:26] https://www.potec.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 85 obrázků, 0 fotek ke kontrole
-[21:46:31] https://www.msvenkov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 445 obrázků, 5 fotek ke kontrole
-[21:46:34] https://www.santoska.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 191 obrázků, 17 fotek ke kontrole
-[21:46:46] https://www.skolaterlicko.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 1 fotek ke kontrole
-[21:46:51] https://www.skola-hradistko.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 269 obrázků, 3 fotek ke kontrole
-[21:46:56] https://www.skolkasedmikraska.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 51 obrázků, 0 fotek ke kontrole
-[21:46:58] https://www.skolasojovice.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 206 obrázků, 2 fotek ke kontrole
-[21:47:11] https://www.specialniskolyznojmo.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 82 obrázků, 36 fotek ke kontrole
-[21:47:17] https://www.skolastrahovice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 209 obrázků, 2 fotek ke kontrole
-[21:47:19] tříděno 0/93
-[21:47:22] Dávka 3: hotovo 72/105, se fotkami 4; {'ok': 6, 'lide': 57, 'jine': 509, 'sablona': 0}
-[21:47:26] https://www.stibrova.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[21:47:30] https://www.srdickoliberec.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 2 fotek ke kontrole
-[21:47:35] https://www.zs-troubsko.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 2 fotek ke kontrole
-[21:47:51] https://www.zsms-cernikovice.cz: 4 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 10 obrázků, 1 fotek ke kontrole
-[21:48:00] https://www.zsdobkovice.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 411 obrázků, 0 fotek ke kontrole
-[21:48:04] https://www.zsmalecov.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
-[21:48:05] https://www.specmt.com: 4 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 4 fotek ke kontrole
-[21:48:16] https://www.zschrlice.cz: 7 stránek (galerie mimo web: 10 ['photos.app.goo.gl', 'photos.google.com'], alb: 0), 26 obrázků, 12 fotek ke kontrole
-[21:48:17] https://www.sportikbaby.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 311 obrázků, 0 fotek ke kontrole
-[21:48:29] https://www.zshornimostenice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 474 obrázků, 39 fotek ke kontrole
-[21:48:30] https://www.zsms-turkmenska.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 155 obrázků, 0 fotek ke kontrole
-[21:48:31] https://www.zsdoubrava.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 313 obrázků, 10 fotek ke kontrole
-[21:48:35] https://www.zslibechov.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 593 obrázků, 3 fotek ke kontrole
-[21:48:38] https://www.zsmiretice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 544 obrázků, 0 fotek ke kontrole
-[21:48:40] https://www.zsohrobec.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 8 fotek ke kontrole
-[21:48:41] https://www.zscernovice.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 390 obrázků, 19 fotek ke kontrole
-[21:48:51] https://www.zsmschodouny.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 149 obrázků, 0 fotek ke kontrole
-[21:48:54] https://www.zsohrada.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 49 obrázků, 0 fotek ke kontrole
-[21:49:11] https://www.zsrynarec.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 244 obrázků, 38 fotek ke kontrole
-[21:49:11] https://www.zsobratan.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 113 obrázků, 0 fotek ke kontrole
-[21:49:19] https://www.zsspytihnev.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 388 obrázků, 0 fotek ke kontrole
-[21:49:26] https://www.zs-hornisucha.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 1118 obrázků, 45 fotek ke kontrole
-[21:49:34] https://www.zsprovodovsonov.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 481 obrázků, 19 fotek ke kontrole
-[21:50:11] https://www.zsmspartutovice.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 10 fotek ke kontrole
-[21:50:14] tříděno 0/212
-[21:50:25] Dávka 4: hotovo 96/105, se fotkami 4; {'ok': 6, 'lide': 63, 'jine': 715, 'sablona': 0}
-[21:51:17] https://www.zsvsemina.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 316 obrázků, 0 fotek ke kontrole
-[21:51:23] https://www.zsvisnova.cz: 16 stránek (galerie mimo web: 1 ['www.rajce.idnes.cz'], alb: 1), 166 obrázků, 0 fotek ke kontrole
-[21:51:29] https://zstrojanovice.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 1795 obrázků, 36 fotek ke kontrole
-[21:51:32] https://zsmszdarky.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 191 obrázků, 42 fotek ke kontrole
-[21:51:46] https://zsostravice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 291 obrázků, 30 fotek ke kontrole
-[21:51:50] https://zskrestova.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 838 obrázků, 26 fotek ke kontrole
-[21:52:21] https://www.zsvisnove.eu: 9 stránek (galerie mimo web: 0 [], alb: 0), 128 obrázků, 25 fotek ke kontrole
-[21:53:58] https://zsbartosovice.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 10 fotek ke kontrole
-[21:54:15] https://zsmspisecna.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 561 obrázků, 41 fotek ke kontrole
-[21:54:16] tříděno 0/210
-[21:54:31] Dávka 5: hotovo 105/105, se fotkami 5; {'ok': 8, 'lide': 79, 'jine': 907, 'sablona': 0}
-[21:54:31] Konec: školek s fotkami 5; {'ok': 8, 'lide': 79, 'jine': 907, 'sablona': 0}
+[23:08:38] Část 14/20: webů 159, hotovo 105, zbývá 54
+[23:08:54] http://www.cachovice.cz/zakladni-skola: 10 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[23:08:57] http://www.ms-rohoznik.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 7 fotek ke kontrole
+[23:08:57] http://www.ms-stranecka-zhor.webnode.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 0 fotek ke kontrole
+[23:09:01] http://msbublinka.webnode.cz: 4 stránek (galerie mimo web: 1 ['msbublinka.rajce.idnes.cz'], alb: 1), 16 obrázků, 13 fotek ke kontrole
+[23:09:06] http://www.liciborice.cz/materska-skola: 13 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 0 fotek ke kontrole
+[23:09:09] http://www.materskaskola-trebovle.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 12 fotek ke kontrole
+[23:09:31] http://www.msletadylko.cz: 10 stránek (galerie mimo web: 1 ['letadylko.rajce.idnes.cz'], alb: 0), 19 obrázků, 9 fotek ke kontrole
+[23:09:37] http://www.msknl.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 1 fotek ke kontrole
+[23:09:37] http://www.msdavle.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 10 fotek ke kontrole
+[23:09:47] http://www.mspetrovice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 0 fotek ke kontrole
+[23:09:48] http://www.msklapalka.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 20 fotek ke kontrole
+[23:09:48] http://www.komarov-ou.cz/materska-skola: 33 stránek (galerie mimo web: 18 ['www.zonerama.com'], alb: 0), 167 obrázků, 3 fotek ke kontrole
+[23:09:49] http://www.msjirny.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 176 obrázků, 45 fotek ke kontrole
+[23:10:09] http://www.mslucni.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 22 fotek ke kontrole
+[23:10:14] http://www.ms-zvidalek.cz: 4 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 26 obrázků, 8 fotek ke kontrole
+[23:10:15] http://ms.ponikla.cz: nedostupné nebo zakázané
+[23:10:16] http://www.mscitov.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 307 obrázků, 14 fotek ke kontrole
+[23:10:20] http://www.mszelena.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 9 fotek ke kontrole
+[23:10:20] http://www.msdlazov.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 62 obrázků, 6 fotek ke kontrole
+[23:10:28] http://www.msoskorinek.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 22 fotek ke kontrole
+[23:10:34] http://ms-knapovec.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 475 obrázků, 3 fotek ke kontrole
+[23:10:44] http://www.mszehusice.cz: 20 stránek (galerie mimo web: 1 ['duhovakulickazahusice.rajce.idnes.cz'], alb: 0), 372 obrázků, 2 fotek ke kontrole
+[23:10:58] http://www.msdolnizalezly.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 14 fotek ke kontrole
+[23:11:02] http://www.mspozarni.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 100 obrázků, 34 fotek ke kontrole
+[23:11:16] tříděno 0/254
+[23:11:37] Dávka 1: hotovo 129/159, se fotkami 13; {'ok': 16, 'lide': 9, 'jine': 209, 'sablona': 0}
+[23:11:59] http://www.zsamsmaletin.cz: 5 stránek (galerie mimo web: 1 ['zsamsmaletin.rajce.idnes.cz'], alb: 0), 5 obrázků, 0 fotek ke kontrole
+[23:12:02] http://www.zschvalenice.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 2 fotek ke kontrole
+[23:12:08] http://www.veselymracek.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 0 fotek ke kontrole
+[23:12:09] http://www.zshalenkovice.cz: nedostupné nebo zakázané
+[23:12:11] http://www.skolamirov.wbs.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
+[23:12:13] http://www.mszlosyn.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 8 fotek ke kontrole
+[23:12:20] http://www.skolanebuzely.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 19 fotek ke kontrole
+[23:12:31] https://cvrcekpysely.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
+[23:12:38] http://zsdolnibecva.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 5 fotek ke kontrole
+[23:12:39] http://www.veseleskolky.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 74 obrázků, 43 fotek ke kontrole
+[23:12:42] http://www.tisova.eu/materska-skola: 31 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 0), 58 obrázků, 1 fotek ke kontrole
+[23:12:47] https://msklubicko-praha13.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
+[23:12:49] https://cestin.cz/obec-7/detska-skupina-dc-polipsy: 3 stránek (galerie mimo web: 0 [], alb: 0), 52 obrázků, 13 fotek ke kontrole
+[23:12:51] http://www.suchonice.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 385 obrázků, 22 fotek ke kontrole
+[23:13:02] http://www.zsdamnikov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 3 fotek ke kontrole
+[23:13:05] http://www.zsbnkarlov.cz: 16 stránek (galerie mimo web: 4 ['alba.rajce.idnes.cz', 'mskarlov.rajce.idnes.cz', 'zsbnkarlov.rajce.idnes.cz'], alb: 1), 88 obrázků, 41 fotek ke kontrole
+[23:13:07] http://www.zskrasnepole.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 440 obrázků, 9 fotek ke kontrole
+[23:13:14] http://www.mszsvyskov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 797 obrázků, 28 fotek ke kontrole
+[23:13:17] http://www.zsmsnovaves.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 201 obrázků, 0 fotek ke kontrole
+[23:13:22] http://www.skolasopotnice.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 114 obrázků, 39 fotek ke kontrole
+[23:13:31] https://mc-pidi-midi.cz/detska-skupina: 14 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 9 fotek ke kontrole
+[23:13:41] https://mspoznanska.cz/w/veverky: 18 stránek (galerie mimo web: 0 [], alb: 0), 81 obrázků, 9 fotek ke kontrole
+[23:13:55] https://mcrakosnicek.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 58 obrázků, 19 fotek ke kontrole
+[23:13:58] https://skolavsenory.cz/materska-skola/detska-skupina/dubinek-1: 16 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 31 fotek ke kontrole
+[23:14:04] tříděno 0/301
+[23:14:30] Dávka 2: hotovo 153/159, se fotkami 24; {'ok': 47, 'lide': 21, 'jine': 442, 'sablona': 0}
+[23:14:45] https://www.materskaskolamotylek.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 3 fotek ke kontrole
+[23:14:48] https://www.skola-tman.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 10 fotek ke kontrole
+[23:14:50] https://talentbylany.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 8 fotek ke kontrole
+[23:15:05] https://www.msstitna.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 7 fotek ke kontrole
+[23:15:51] https://www.skolabenesov.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 24 fotek ke kontrole
+[23:15:58] https://www.ms-jaromer.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[23:16:00] tříděno 0/52
+[23:16:04] Dávka 3: hotovo 159/159, se fotkami 27; {'ok': 52, 'lide': 23, 'jine': 483, 'sablona': 0}
+[23:16:04] Konec: školek s fotkami 27; {'ok': 52, 'lide': 23, 'jine': 483, 'sablona': 0}
