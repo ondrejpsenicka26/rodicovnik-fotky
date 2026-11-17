@@ -1,0 +1,199 @@
+{
+"detska-skupina-foxik-cimice-ds01233": [
+{
+"alt": "",
+"barva": "#c2bbb0",
+"dh": "a1f1d0d7d3161796",
+"h": 665,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgP/xAAiEAACAgIBAwUAAAAAAAAAAAABAgMRAAQSBVFhExUikvH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AKHZEaNwiFFqJrt4zWlAFf1ORKxsQFOK9d3GxGlij8brOU/UZAs0DxxuGLLdEVf5gqFGPvetTu/1wyPXVJFiUjxWGHTJGf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-zizkov",
+"typ": "budova",
+"url": "https://www.foxikovaskolka.cz/files/responsive/1280/0/photo-02.png",
+"w": 996
+},
+{
+"alt": "",
+"barva": "#7e7d7c",
+"dh": "4f0b3bd3f69cd163",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-cimice",
+"typ": "interier",
+"url": "https://www.foxikovaskolka.cz/files/responsive/2600/0/foxikova-skolka-cimice-02.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#70785e",
+"dh": "19430727a5e8e0dd",
+"h": 769,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-zizkov",
+"typ": "zahrada",
+"url": "https://www.foxikovaskolka.cz/files/responsive/1280/0/2403cf37-235c-4fe5-b16a-0e44412f470d-1-105-c.jpeg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7a7b61",
+"dh": "8f1b16322763c2b2",
+"h": 769,
+"jistota": 0.876,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-brevnov",
+"typ": "les",
+"url": "https://www.foxikovaskolka.cz/files/responsive/1280/0/3f0e488c-5078-4fee-97cf-3463d5b50f07-1-105-c.jpeg",
+"w": 1024
+}
+],
+"materska-skola-pardubice-157372": [
+{
+"alt": "",
+"barva": "#636b69",
+"dh": "7d271c189e86e12c",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACQQAAICAgECBwEAAAAAAAAAAAECAxEABBJBUgUTITFxkaHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/xAAbEQABBAMAAAAAAAAAAAAAAAAAAQIDYRITFP/aAAwDAQACEQMRAD8AW19uPYdY0il5MaACXjEsMyNR1pa7mpR+nJUcuysglR+ZXu/mbl3mZAk2vER7+grpQ/MlncgcGlRNRpFDDy/jmpr6OGTYvF3114Qxoik3VdcMPRJQtcVn/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnatrisle.cz/zahrada-ms",
+"typ": "budova",
+"url": "https://www.msnatrisle.cz/data/web-pages/images/orig/p1040140.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b736a",
+"dh": "fae0dedcb531f1f1",
+"h": 768,
+"jistota": 0.843,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnatrisle.cz/rekonstrukce-hospodarskeho-pavilonu-a-kuchyne-2018",
+"typ": "interier",
+"url": "https://www.msnatrisle.cz/data/web-pages/images/orig/obrazek-8870.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#74815c",
+"dh": "1d3d3eac16270709",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnatrisle.cz/zahrada-ms",
+"typ": "zahrada",
+"url": "https://www.msnatrisle.cz/data/web-pages/images/orig/p1040443.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5b775b",
+"dh": "7b3c1b5b3b1f9e3f",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msnatrisle.cz/zahrada-ms",
+"typ": "zahrada",
+"url": "https://www.msnatrisle.cz/data/web-pages/images/orig/p1060923.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-decin-iv-561247": [
+{
+"alt": "Výkres",
+"barva": "#ddc6b1",
+"dh": "25071b1b3bc3e329",
+"h": 679,
+"jistota": 0.665,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwb/xAAfEAEAAgICAgMAAAAAAAAAAAABAAIREgMhIkFRgZL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDSHGfES1qjrhjNNzay5x6kFAwdv3BMpeUy+DCO8VR62/UJif/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.machovka.cz/cs/fotogalerie/14/",
+"typ": "budova",
+"url": "https://www.machovka.cz/UserFiles/46/Image/1677609440CG0A9189.jpg",
+"w": 1019
+}
+],
+"zakladni-skola-a-materska-skola-koberice-628384": [
+{
+"alt": "og",
+"barva": "#76734c",
+"dh": "c56f753307130124",
+"h": 900,
+"jistota": 0.967,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCBAb/xAAkEAACAgICAQMFAAAAAAAAAAABAgMRAAQFEiETFKExUXGB4f/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECAxETITJB/9oADAMBAAIRAxEAPwCumy3IRj0mg7izUsfYAX/fjJ68O3PCD149KYjqYfpRq/jEXG7x0JS4hjkLLVSC6BzSa3Jk6cU7wIEdivVDRHn8ZCUZLkabXos2dbdfZkWJtcLEelpGEB8Xdefvhjj2ySu7iaWmawFA8D94YZLaE//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolakoberice.cz/fotogalerie-zs/land-art-v-8-tridach",
+"typ": "les",
+"url": "http://www.skolakoberice.cz/image.php?oid=12596385",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-olomouc-901269": [
+{
+"alt": "",
+"barva": "#b3c0c7",
+"dh": "99c8cec69ea69b19",
+"h": 627,
+"jistota": 0.637,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAEAAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAgMF/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQAEEiIhFDFRcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ANzbMonRYZCnWyON2L+si8eyCJF2LUHyrqBY/MaIcvyWh1rziss/c68jEuQPYYwXQsXiVyBbCzWGIa3rli4txFGgD8YZTWP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsdemlova.cz/",
+"typ": "zahrada",
+"url": "https://www.zsdemlova.cz/images/fotogalerie/46/DJI0325-HDRajpg.jpg",
+"w": 800
+}
+],
+"zakladni-skola-a-materska-skola-spalov-625491": [
+{
+"alt": "og",
+"barva": "#777667",
+"dh": "a1f983960d4d8f07",
+"h": 600,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAACBgP/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMABBEFMRIhQWETFSIjUZHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECUf/aAAwDAQACEQMRAD8AYa1K8vAtyMnb2xt06U8mqzxKWe6AGeHlGN/qp/RrZ7yRFcHwVPq4cAt2zVHq1rG8AlijVGjG2BjFQ9MRcMPPZjzFxkH5QD8oqdnuSsrBsjsNqKXRUR//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsspalov.cz/fotogalerie/reprezentativni-fotografie-zs-i-ms-spalov",
+"typ": "budova",
+"url": "http://www.zsspalov.cz/image.php?oid=10079093",
+"w": 800
+}
+],
+"zakladni-skola-a-materska-skola-uherske-hradiste-613034": [
+{
+"alt": "og",
+"barva": "#7e767b",
+"dh": "498e23411155e046",
+"h": 683,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACUQAAIBAwMDBQEAAAAAAAAAAAECAwAEEQUhMRJBgRMiMmFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABsRAAIDAQEBAAAAAAAAAAAAAAEDAAIRBFGh/9oADAMBAAIRAxEAPwDPttNecBkjkkB4CLz+k7CnRowkTdeh8H4nbq7eP7SFvq1ynoRQlYgntQDJC5+jVJBasEBkuJXbAJ4Az4FN3N3SY0WsDAJK3qpZXclvIclDyO4xmiqebRrK5kMs8Qkc7FmyTRVDsb78mZ5qEz//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsjarosov.cz/materska-skola/",
+"typ": "budova",
+"url": "https://www.zsjarosov.cz/wp-content/uploads/2026/07/ms_jarosov.jpg",
+"w": 1024
+}
+]
+}
