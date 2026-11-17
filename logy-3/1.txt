@@ -1,0 +1,16 @@
+[20:07:12] Část 2/3: webů 12, hotovo 0, zbývá 12
+[20:07:28] https://dolesa.net: 2 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 0 fotek ke kontrole
+[20:07:31] https://velicek.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 3 fotek ke kontrole
+[20:07:39] https://fzsumelecka.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 8 fotek ke kontrole
+[20:07:40] https://mscakovice2.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 8 fotek ke kontrole
+[20:07:50] https://playwisely.cz/msplaywisely: 5 stránek (galerie mimo web: 0 [], alb: 0), 80 obrázků, 23 fotek ke kontrole
+[20:07:52] https://mstajovskeho.webnode.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 132 obrázků, 21 fotek ke kontrole
+[20:08:06] https://skolapetrovice.cz/materska-skola: 14 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 9 fotek ke kontrole
+[20:08:12] https://jaata.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 95 obrázků, 36 fotek ke kontrole
+[20:08:13] https://barevnaskolicka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 61 obrázků, 38 fotek ke kontrole
+[20:08:14] https://mschaberacek.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 312 obrázků, 44 fotek ke kontrole
+[20:08:15] https://msbilenecke.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 134 obrázků, 39 fotek ke kontrole
+[20:08:20] https://msbrezineves.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 57 obrázků, 21 fotek ke kontrole
+[20:08:34] tříděno 0/250
+[20:08:59] Dávka 1: hotovo 12/12, se fotkami 4; {'ok': 12, 'lide': 13, 'jine': 166, 'sablona': 0}
+[20:08:59] Konec: školek s fotkami 4; {'ok': 12, 'lide': 13, 'jine': 166, 'sablona': 0}
