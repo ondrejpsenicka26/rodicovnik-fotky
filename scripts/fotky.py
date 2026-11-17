@@ -295,6 +295,40 @@ def odkazy(final, p, jen_host=None):
         yield u, txt, h2
 
 
+SITEMAPA = os.environ.get("FOTKY_SITEMAPA", "") == "1"
+
+
+def stranky_ze_sitemapy(origin, host):
+    """Adresy stránek ze sitemap.xml (i z indexu sitemap a z řádku Sitemap: v robots.txt)."""
+    fronta, videne, adresy = [], set(), []
+    try:
+        _, _, d = stahni(origin + "/robots.txt", 300_000, "text/plain")
+        fronta += re.findall(r"(?im)^\s*sitemap:\s*(\S+)", d.decode("utf-8", "replace"))
+    except Exception:  # noqa: BLE001
+        pass
+    fronta += [origin + "/sitemap.xml", origin + "/sitemap_index.xml", origin + "/wp-sitemap.xml"]
+    while fronta and len(videne) < 8 and len(adresy) < 3000:
+        u = fronta.pop(0)
+        if u in videne or not smim(u):
+            continue
+        videne.add(u)
+        try:
+            _, ct, d = stahni(u, 5_000_000, "application/xml,text/xml")
+        except Exception:  # noqa: BLE001
+            continue
+        t = d.decode("utf-8", "replace")
+        if "<loc>" not in t:
+            continue
+        locy = [html.unescape(x.strip()) for x in re.findall(r"<loc>\s*([^<]+?)\s*</loc>", t)]
+        if "<sitemapindex" in t:
+            # nejdřív sitemapy stránek a galerií, příspěvky (novinky) až nakonec
+            locy.sort(key=lambda x: (bool(re.search(r"post|novink|aktual|clank|blog|event|akce", x, re.I)), x))
+            fronta += locy[:12]
+        else:
+            adresy += [x for x in locy if urllib.parse.urlparse(x).netloc.replace("www.", "") == host]
+    return adresy
+
+
 def projdi(origin, slug, jen_ms=False):
     stranky = []  # (url, title, skore)
     prvni = nacti_stranku(origin + "/", pokusy=2)
@@ -320,6 +354,15 @@ def projdi(origin, slug, jen_ms=False):
             sk += skore_ms(u, txt)
         if sk > 0:
             kand[u] = max(kand.get(u, 0), sk)
+    if SITEMAPA:
+        # 4. kolo: i stránky, na které z úvodu nevede odkaz (galerie hlouběji ve webu)
+        for u in stranky_ze_sitemapy(origin, urllib.parse.urlparse(final).netloc.replace("www.", "")):
+            nazev = urllib.parse.unquote(urllib.parse.urlparse(u).path).replace("-", " ").replace("/", " ")
+            sk = skore_stranky(u, nazev)
+            if sk > 0 or KOLO:
+                sk += skore_ms(u, nazev)
+            if sk > 0:
+                kand[u] = max(kand.get(u, 0), sk)
     for u, sk in sorted(kand.items(), key=lambda x: -x[1])[:MAX_STRANEK]:
         if u in videno:
             continue
