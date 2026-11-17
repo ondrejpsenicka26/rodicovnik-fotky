@@ -1,0 +1,42 @@
+# Ověří nově dohledané weby školek (scripts/over_weby.py): jedna žádost na úvodní stránku.
+name: Ověření webů školek
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "weby-csi/overit.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: over-weby
+  cancel-in-progress: false
+
+jobs:
+  over:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            weby-csi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ověřit weby
+        run: python3 scripts/over_weby.py
+      - name: Uložit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add --sparse weby-csi/overeni.json
+          git commit -q -m "Ověření webů školek ($(date -u +%Y-%m-%dT%H:%MZ))" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 10; done
+          exit 1
