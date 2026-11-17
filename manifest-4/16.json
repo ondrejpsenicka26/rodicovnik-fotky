@@ -1,0 +1,225 @@
+{
+"detska-skupina-foxik-budysinska-ds00482": [
+{
+"alt": "",
+"barva": "#c2bbb0",
+"dh": "a1f1d0d7d3161796",
+"h": 665,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgP/xAAiEAACAgIBAwUAAAAAAAAAAAABAgMRAAQSBVFhExUikvH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AKHZEaNwiFFqJrt4zWlAFf1ORKxsQFOK9d3GxGlij8brOU/UZAs0DxxuGLLdEVf5gqFGPvetTu/1wyPXVJFiUjxWGHTJGf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-zizkov",
+"typ": "budova",
+"url": "https://www.foxikovaskolka.cz/files/responsive/1280/0/photo-02.png",
+"w": 996
+},
+{
+"alt": "",
+"barva": "#bab8b7",
+"dh": "0a8a0a7832180f03",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-cimice",
+"typ": "interier",
+"url": "https://www.foxikovaskolka.cz/files/responsive/2600/0/foxikova-skolka-cimice-08.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#70785e",
+"dh": "19430727a5e8e0dd",
+"h": 769,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-zizkov",
+"typ": "zahrada",
+"url": "https://www.foxikovaskolka.cz/files/responsive/1280/0/2403cf37-235c-4fe5-b16a-0e44412f470d-1-105-c.jpeg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7a7b61",
+"dh": "8f1b16322763c2b2",
+"h": 769,
+"jistota": 0.876,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.foxikovaskolka.cz/ms-brevnov",
+"typ": "les",
+"url": "https://www.foxikovaskolka.cz/files/responsive/1280/0/3f0e488c-5078-4fee-97cf-3463d5b50f07-1-105-c.jpeg",
+"w": 1024
+}
+],
+"detska-skupina-harmonia-ds01465": [
+{
+"alt": "IMG_2796",
+"barva": "#ada69a",
+"dh": "64e4e687970f13b3",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBf/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAFEQQSEyFhcSIxUaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwDoXC5pIjpoZJdxyV9LL9HqarJIDaSzZ5SqFlYYOcinKdHNLHqJXWRRvYk7sr2+KhDdo9SrGOPpnAJ9z5qLpUwm93iLdIyfBH7Ss868kpYgZPalKxEf/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://harmonia.orangery.cz/en/parental-information-about-the-programme-and-extracurricular-activities/",
+"typ": "interier",
+"url": "https://harmonia.orangery.cz/wp-content/uploads/2026/06/IMG_2796.webp",
+"w": 1200
+},
+{
+"alt": "IMG_2804",
+"barva": "#b1a796",
+"dh": "b1b7979d97979329",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://harmonia.orangery.cz/en/parental-information-about-the-programme-and-extracurricular-activities/",
+"typ": "interier",
+"url": "https://harmonia.orangery.cz/wp-content/uploads/2026/06/IMG_2804.webp",
+"w": 1200
+},
+{
+"alt": "IMG_2795",
+"barva": "#b2b2ae",
+"dh": "9332343569b2373a",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://harmonia.orangery.cz/en/parental-information-about-the-programme-and-extracurricular-activities/",
+"typ": "hygiena",
+"url": "https://harmonia.orangery.cz/wp-content/uploads/2026/06/IMG_2795.webp",
+"w": 1200
+}
+],
+"detska-skupina-jesle-orangery-park-ds00581": [
+{
+"alt": "",
+"barva": "#c1c2b6",
+"dh": "c62e8e123c1e6532",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EACEQAAICAQMFAQAAAAAAAAAAAAECAxEABBITISIxQWEF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8A7MVTyMCU47Xjk2kWCLF/cRwq0fZMKIo0fPXC/mMh0kcgW3C7bJNdPmbki00q98KkoPfrBSg7SosUIVupvzlg1JeNDpJbiqhvWzliWkZGf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://orangerypark.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://orangerypark.cz/wp-content/uploads/2024/09/slunata-3.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c2c3ba",
+"dh": "ce64539286960403",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://orangerypark.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://orangerypark.cz/wp-content/uploads/2024/09/slunata-4.webp",
+"w": 1200
+}
+],
+"ms-novy-kramolin-540436": [
+{
+"alt": "",
+"barva": "#566574",
+"dh": "41c786e6ffd627ee",
+"h": 1049,
+"jistota": 0.613,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAEQAUAwEiAAIRAQMRAf/EABcAAQADAAAAAAAAAAAAAAAAAAADBAX/xAAnEAABBAEBBgcAAAAAAAAAAAABAAIDEQQhBSMzQXFyEyIyYYGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABgRAQEBAQEAAAAAAAAAAAAAAAACIQER/9oADAMBAAIRAxEAPwDLmEsL99umNJJIN+32t1s0EWzHTxyMd4bBQJq3VYHVZUubLJZIiYDr5WDX5UMge+K3ucQ702dFSOVOp151HLtvMkcCKAArQ1aKuYW3wb7SaRZ04su5KXI4OP2fpRFVlS5u6oiIL//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.novykramolin.cz/fotogalerie/budova-ms-a-ou-6cs.html",
+"typ": "budova",
+"url": "https://www.novykramolin.cz/data/headerfooter/header_images/img2669.jpg",
+"w": 1200
+}
+],
+"ms-smartkids-nademlejnska-068613": [
+{
+"alt": "",
+"barva": "#8a8075",
+"dh": "312a3c6c6c2ce07c",
+"h": 675,
+"jistota": 0.825,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAmEAACAQIFAgcAAAAAAAAAAAABAgMABAUREjFREyEUIjJBUmHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAETES/9oADAMBAAIRAxEAPwBtjcraWxSOWWRTKE6Yb0/fIFZrzGVgiR4o0GtdfmHtmRz32p9xGkqkOoNRsQmktGPh3KDUBp3G3B7Ud0pHVqupFPIB2oqDZYreSW4Z5szn8F/KKnydf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.smartkids-skolky.cz/smartkids-rubeska/o-nas",
+"typ": "budova",
+"url": "https://www.smartkids-skolky.cz/sites/default/files/styles/o_nas_galerie_full/public/gallery/2026-10/gallery-pobocka-003.jpg?itok=K5Efnsqi",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a59284",
+"dh": "3b1b3ba3091e3b3f",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.smartkids-skolky.cz/smartkids-nademlejnska/o-nas",
+"typ": "hygiena",
+"url": "https://www.smartkids-skolky.cz/sites/default/files/styles/o_nas_galerie_full/public/gallery/2026-07/detska-koupelna-s-veselymi-dekoracemi.png?itok=AZmY-5c7",
+"w": 1107
+}
+],
+"zakladni-skola-a-materska-skola-chotevice-587912": [
+{
+"alt": "",
+"barva": "#84736c",
+"dh": "d9d9d1f5e5e565c5",
+"h": 900,
+"jistota": 0.787,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAhEAACAgICAQUAAAAAAAAAAAABAwIRAAQSE4EFISIxcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oADAMBAAIRAxEAPwBzc2OvbW2R4rEgZeMmI2zt7Xex0ohj6Cx9VmvqrZN15KgKYa8ZPUso112Y8ltEjV+4vBdUmKuw/m+ciLs4YrJvyP7hjB//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zschotevice.cz/bwg_gallery/rekonstrukce-pudnich-prostor/",
+"typ": "interier",
+"url": "https://zschotevice.cz/wp-content/uploads/photo-gallery/Rekonstrukce_pudnich_prostor/WhatsApp-Image-2026-08-06-at-09.45.16.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#736e6c",
+"dh": "1b8fc6c78d8d8f1d",
+"h": 1200,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zschotevice.cz/bwg_gallery/rekonstrukce-pudnich-prostor/",
+"typ": "hygiena",
+"url": "https://zschotevice.cz/wp-content/uploads/photo-gallery/Rekonstrukce_pudnich_prostor/WhatsApp-Image-2026-08-06-at-09.45.15.jpeg",
+"w": 900
+}
+],
+"zakladni-skola-a-materska-skola-sivice-603691": [
+{
+"alt": "",
+"barva": "#c0b1a8",
+"dh": "034709262626478d",
+"h": 547,
+"jistota": 0.714,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAIBBAIBBQAAAAAAAAAAAAECEQADBCESEzEiQVGB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABgRAQADAQAAAAAAAAAAAAAAAAABAiEx/9oADAMBAAIRAxEAPwCxYdlXcBVE6HtTiuDaFwkcImfqaymLn5CKU5qxKSzMJLD48xVlctb2Pj472pW8nE+qABHgAChXmS1tBg20yT2W3DKdAx+0VJuMcFunGAW2Nwd7oqhj/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolasivice.cz/skolni-jidelna",
+"typ": "interier",
+"url": "https://www.skolasivice.cz/user_uploads/fotogalerie/%C5%A0kola21/%C5%A0kola21%20(62).jpg",
+"w": 821
+}
+]
+}
