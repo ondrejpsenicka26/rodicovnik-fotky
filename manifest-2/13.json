@@ -1,0 +1,345 @@
+{
+"krajska-zdravotni-048078": [
+{
+"alt": "",
+"barva": "#928f8b",
+"dh": "065c76b4b4e48690",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAJxAAAgIBAgILAAAAAAAAAAAAAQIDBAAREiFhBRMUIiMyQVGBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACIf/aAAwDAQACEQMRAD8AalsiIbYQryDiQdQAMxX7txqczq619iEgIdW+zgVu9aE+x5pomOgB3evxmkdIxWYJaqFy5RkGqjiffXFrSsAT1QySQ+MGZ1O3cNO9zywqSxfJXsj9WgUBgwXzfvLLNB52lv/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://kzcr.eu/cz/kz/o-spolecnosti-1/pro-media/tiskove-zpravy/",
+"typ": "budova",
+"url": "https://kzcr.eu/Data/Files/800x600x0/88c7e4d8-4b64-4517-87f1-8aa190a3df68-img20261111121836.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#c3b59b",
+"dh": "0da8d1d7e7d1d50f",
+"h": 533,
+"jistota": 0.933,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://kzcr.eu/cz/kz/o-spolecnosti-1/pro-media/tiskove-zpravy/",
+"typ": "interier",
+"url": "https://kzcr.eu/Data/Files/800x600x0/88c7e4d8-4b64-4517-87f1-8aa190a3df68-rekonstruovane_prostory-2_.JPG",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#9c9a95",
+"dh": "4fc5d8c24c4c56d2",
+"h": 599,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://kzcr.eu/cz/kz/o-spolecnosti-1/pro-media/tiskove-zpravy/",
+"typ": "budova",
+"url": "https://kzcr.eu/Data/Files/800x600x0/88c7e4d8-4b64-4517-87f1-8aa190a3df68-poliklinika_rumburk.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#a0947f",
+"dh": "cda6a7ee4e4c3c70",
+"h": 533,
+"jistota": 0.684,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://kzcr.eu/cz/kz/o-spolecnosti-1/pro-media/tiskove-zpravy/",
+"typ": "interier",
+"url": "https://kzcr.eu/Data/Files/800x600x0/88c7e4d8-4b64-4517-87f1-8aa190a3df68-img_8722.JPG",
+"w": 800
+}
+],
+"materska-skola-bukovno-liny-080958": [
+{
+"alt": "",
+"barva": "#6e7077",
+"dh": "ab978ccd8d64852b",
+"h": 675,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgADBBESBRMhFBUiYeH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECExT/2gAMAwEAAhEDEQA/AJE5S4W4aobh2UnyGbIM6F3ymlM9FZKikA7/AJI/bbTXbpBP2SY301JUXCDGI1yInG7BFxfU0qfMtkgHJB8wmVRXBLAHBIEI+jRnzyf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.bukovno.cz/projekty/realizovane-projekty/rekonstrukce-hriste-v-linech/",
+"typ": "budova",
+"url": "https://www.bukovno.cz/data/headerfooter/header_images/obecni-bytovy-dum.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#686c6f",
+"dh": "ff7eb3d8cc36c6f6",
+"h": 675,
+"jistota": 0.998,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.bukovno.cz/projekty/realizovane-projekty/rekonstrukce-hriste-v-linech/",
+"typ": "zahrada",
+"url": "https://www.bukovno.cz/data/headerfooter/header_images/detske-hriste-bukovno.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#979c85",
+"dh": "f4646debdb1f0e13",
+"h": 675,
+"jistota": 0.995,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.bukovno.cz/projekty/realizovane-projekty/rekonstrukce-hriste-v-linech/",
+"typ": "budova",
+"url": "https://www.bukovno.cz/data/headerfooter/header_images/park-a-detske-hriste-ms.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#798363",
+"dh": "2d231b1b8f0d4a3e",
+"h": 675,
+"jistota": 0.973,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.bukovno.cz/projekty/realizovane-projekty/rekonstrukce-hriste-v-linech/",
+"typ": "zahrada",
+"url": "https://www.bukovno.cz/data/headerfooter/header_images/lanove-hriste.jpg",
+"w": 1200
+}
+],
+"materska-skola-hrobcice-568594": [
+{
+"alt": "",
+"barva": "#778687",
+"dh": "86ccdad0c0a298dc",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBQEC/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQRMSESQVEFEyJxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABoRAAMBAAMAAAAAAAAAAAAAAAABEQIDBCH/2gAMAwEAAhEDEQA/AGbiSGC6igkYK8ms1yzlwwhzgDa7bWvG6kT+nG4vnNxd5ZycYU/Edh9CnI4bu3GSxkXGOMA/lVrsPXlhnnhSdaK1uipCo6QpxyAO9FZAH9odYy3niijiKf/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.hrobcice.cz/obec/projekty-s-dotacni-podporou/rekonstrukce-budovy-cp-51-hrobcice-socialni-bydleni/",
+"typ": "budova",
+"url": "https://www.hrobcice.cz/data/headerfooter/header_images/19-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#878062",
+"dh": "209296ce0f9d1e93",
+"h": 900,
+"jistota": 0.894,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.hrobcice.cz/obec/projekty-s-dotacni-podporou/rekonstrukce-budovy-cp-51-hrobcice-socialni-bydleni/",
+"typ": "zahrada",
+"url": "https://www.hrobcice.cz/data/headerfooter/header_images/16-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e8e97",
+"dh": "050d9d9239d94f27",
+"h": 900,
+"jistota": 0.892,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.hrobcice.cz/obec/projekty-s-dotacni-podporou/rekonstrukce-budovy-cp-51-hrobcice-socialni-bydleni/",
+"typ": "les",
+"url": "https://www.hrobcice.cz/data/headerfooter/header_images/3-3.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8b8b7e",
+"dh": "0080e098b8c005e2",
+"h": 900,
+"jistota": 0.986,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.hrobcice.cz/obec/projekty-s-dotacni-podporou/rekonstrukce-budovy-cp-51-hrobcice-socialni-bydleni/",
+"typ": "budova",
+"url": "https://www.hrobcice.cz/data/headerfooter/header_images/22.jpg",
+"w": 1200
+}
+],
+"materska-skola-knezeves-003538": [
+{
+"alt": "",
+"barva": "#837f70",
+"dh": "dbc92d155271350f",
+"h": 507,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEE/8QAHhAAAgIDAAMBAAAAAAAAAAAAAQIAAwQREiExMnH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEVH/2gAMAwEAAhEDEQA/ALVm5DVI1q9sEAYBvO5Ez8ixmsZDQy/IIBD/AKIiB3tQLDnob8trU5ToDoJ63qIiDWV//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.knezeves.cz/",
+"typ": "budova",
+"url": "https://www.knezeves.cz/data/carousel/44_8939320234.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#757874",
+"dh": "7267e54f4c5cdc4a",
+"h": 507,
+"jistota": 0.733,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.knezeves.cz/",
+"typ": "budova",
+"url": "https://www.knezeves.cz/data/carousel/48_2900233600.jpg",
+"w": 1200
+}
+],
+"materska-skola-vetrnik-127393": [
+{
+"alt": "",
+"barva": "#697b91",
+"dh": "0000803072c736c3",
+"h": 900,
+"jistota": 0.967,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACAQAAICAQUAAwAAAAAAAAAAAAECAxEABBIhMUEiYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAf/EAB0RAAIBBAMAAAAAAAAAAAAAAAABEgIDBBEhUWH/2gAMAwEAAhEDEQA/AFl0LqNxX4jmz1j2iG47FpvaHnmZsuljUhWaW6ulb7xuHQyiFqIQsCaZruzZ66xqsiS4QataKGGVUStpHvAwyHMyA07sGXg7eR+4YcvCxfZ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msvetrnik.ricany.cz/aktuality/nove-stranky-nove-skolky/",
+"typ": "budova",
+"url": "https://msvetrnik.ricany.cz/wp-content/uploads/IMG_2793.jpeg",
+"w": 1200
+}
+],
+"ms-prokopa-velikeho-546531": [
+{
+"alt": "",
+"barva": "#615945",
+"dh": "7d7db5f7c7cebebe",
+"h": 900,
+"jistota": 0.84,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAhEAACAgEEAgMAAAAAAAAAAAABAgMRAAQTQWEhMRIiUv/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABgRAAMBAQAAAAAAAAAAAAAAAAABERIx/9oADAMBAAIRAxEAPwCs2u0m1tMwoqWq7B48nOMEaVI3WvD1ZPsnrrFkSF3LFKJxZZ1CFEQJf5FZkklwWqTmMckh+FlV+tNx1hmRNIUul984Y4Sn/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msprokopka.cz/galerie/podzimni-uklid-zahrady/",
+"typ": "budova",
+"url": "https://msprokopka.cz/wp-content/uploads/2026/11/IMG_0975-scaled.jpg",
+"w": 1200
+}
+],
+"safari-baby-club-materska-skola-033623": [
+{
+"alt": "",
+"barva": "#86887b",
+"dh": "8fcf1b213939193f",
+"h": 679,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACAQAAEEAwACAwAAAAAAAAAAAAECAwQRABIhBTETQeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAT/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQISIQMR/9oADAMBAAIRAxEAPwBWERpXyFtJSetqNV9/maXIyJB5rR9VkfGsOx21h4p6sqFX6xlLZakhy9tU6ga9GCMKv1MnpldglCykjDI+QkOPSdmXVNpoCim8M0Lrmgof/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://safariclub.cz/ms-hradec-kralove/",
+"typ": "budova",
+"url": "https://safariclub.cz/wp-content/uploads/2023/12/mshk.jpg",
+"w": 922
+},
+{
+"alt": "",
+"barva": "#928d82",
+"dh": "cd98672f961f1dff",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://safariclub.cz/ms-pardubice/",
+"typ": "interier",
+"url": "https://safariclub.cz/wp-content/uploads/2023/12/431664142_3829899807274380_6020472967481768009_n-1.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-ostrava-dubina-000281": [
+{
+"alt": "Kde se nejlépe čte? Ve vacích na koberci, s oblíbeným časopisem v ruce. Učení je radost.",
+"barva": "#706a6a",
+"dh": "2ca5a5af871591d1",
+"h": 708,
+"jistota": 0.931,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAEERIxBRNBIWFxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EAB0RAAICAQUAAAAAAAAAAAAAAAABAxFBAhMUIVH/2gAMAwEAAhEDEQA/AJ+Lk95ERsEgqfTj2ptxbXUkAQRFirgqdhxjBGDTYmdW3V2UgcDzWiwmknn0kYkBv35oOS8FFE9Hdkia96orBC12oUYAA8fVFXZhrPIo4DYFFLefgeKnk//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kosare.cz/",
+"typ": "interier",
+"url": "https://www.kosare.cz/image.php?oid=13714825&nid=21919",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-ostravice-622131": [
+{
+"alt": "",
+"barva": "#8c7c6a",
+"dh": "361c6561f1c4781e",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABBP/EACIQAAMAAQQCAgMAAAAAAAAAAAECAwAEERIhBRMUUSJBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECIWH/2gAMAwEAAhEDEQA/AGE9TGbsU6B2Yb4SNa0w059H7OGrfPDBPIVRieIS89xv/VzH8Nr9KtmMpCMxzFFptyA7PXeFPRKxvZSP4tGBP267nLOiel9kZs7nkVB/WWE3q8FSzOn/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsostravice.cz/projekty/vybudovani-multifunkcni-ucebny/",
+"typ": "interier",
+"url": "https://zsostravice.cz/wp-content/uploads/2024/01/3.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#887c5d",
+"dh": "d1edf7d61b78c79e",
+"h": 900,
+"jistota": 0.81,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsostravice.cz/projekty/vybudovani-multifunkcni-ucebny/",
+"typ": "interier",
+"url": "https://zsostravice.cz/wp-content/uploads/2024/01/4.jpg",
+"w": 1200
+}
+],
+"zs-a-ms-moravske-kninice-603446": [
+{
+"alt": "ZŠ a MŠ Moravské Knínice",
+"barva": "#948c7c",
+"dh": "27c32037294d3ff8",
+"h": 770,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQBBQb/xAAkEAACAQQCAQQDAAAAAAAAAAABAgMABBESBSETIjFB0RRhkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRAzFR/9oADAMBAAIRAxEAPwCqLlNkU28CTIOm2bXvGcDFWQcxAFHktJYhn312H3XG4xRa2mjY3ZiW2PzjrFWNMihNSuGzn0n3pHpZYxzAl5veOdifyE7+FU/VK8rzdpJc3/kt9dSgB7x3/aU5d+ybQ3ybJfThmVSFwcZA7rDJI59crn9FqUrPZdhsuymG2jaMEjs0pSqgZLAZP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zs-kninice.cz/",
+"typ": "budova",
+"url": "https://www.zs-kninice.cz/image.php?oid=12004854&nid=21546",
+"w": 770
+}
+],
+"zs-a-ms-pri-f-thomayerove-nemocnici-501741": [
+{
+"alt": "",
+"barva": "#637f94",
+"dh": "bb9af9dcc8f64907",
+"h": 1007,
+"jistota": 0.594,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAARABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUEAf/EACMQAAIBAwMEAwAAAAAAAAAAAAECAAMEEQUSQSEiMZEUcaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQME/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMTIUGx/9oADAMBAAIRAxEAPwCxcXgttQancagX3EgUmp+AfAyB+yTXt6L3Jd3p4bKgZ5I6TLf39HULj5KrWRmI7ewj3mZnqO77zSQkHO4henqXlsjxBELi3bKC6bQKgqQ4PPU59RMq69cW6imiUSByIjSz9+jvGSV8n6nOIibDODERAD//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ftn.cz/kdo-jsme-32/",
+"typ": "budova",
+"url": "https://www.ftn.cz/upload/ftn/o_FTN/Fotky/FTN_uvod.jpg",
+"w": 1200
+}
+]
+}
