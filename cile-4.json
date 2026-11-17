@@ -1,0 +1,7218 @@
+{
+"http://chot.cz": {
+"jen_ms": true,
+"slug": "materska-skola-chotebor-730164"
+},
+"http://ctyrlistekliberec.cz": {
+"jen_ms": true,
+"slug": "materska-skola-ctyrlistek-564521"
+},
+"http://hradesice.jz.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hradesice-542480"
+},
+"http://klient.prokon.cz": {
+"jen_ms": true,
+"slug": "materska-skola-specialni-louny-357405"
+},
+"http://kometagroup.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kometka-048183"
+},
+"http://ms.sumice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sumice-612631"
+},
+"http://msborsice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-borsice-612917"
+},
+"http://mscapkachoda.blog.cz": {
+"jen_ms": false,
+"slug": "materska-skola-olomouc-627221"
+},
+"http://msholuba-havirov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-e-holuba-623366"
+},
+"http://mslipova-havirov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-lipova-701791"
+},
+"http://msmladi-havirov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-mladi-832773"
+},
+"http://mspetrvaldska-havirov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-petrvaldska-624567"
+},
+"http://msprima-havirov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-prima-623391"
+},
+"http://mssukova-havirov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sukova-havirov-701804"
+},
+"http://msutopolu-havirov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-u-topolu-623609"
+},
+"http://msvranca.cz": {
+"jen_ms": false,
+"slug": "materska-skola-novy-hrozenkov-736-634074"
+},
+"http://skola.babice-nad-svitavou.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-babice-nad-svitavou-604329"
+},
+"http://skolablazovice.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-blazovice-603110"
+},
+"http://skolinzs.khnet.info:8880": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stary-kolin-512473"
+},
+"http://skolka.sebetov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sebetov-600455"
+},
+"http://www.2zsb.cz": {
+"jen_ms": true,
+"slug": "2-zakladni-skola-a-materska-skola-beroun-013240"
+},
+"http://www.9zs.kladno.indos.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kladno-511428"
+},
+"http://www.alternativniskolka.cz": {
+"jen_ms": false,
+"slug": "alternativni-materska-skola-000905"
+},
+"http://www.brnenec.cz": {
+"jen_ms": true,
+"slug": "materska-skola-brnenec-586833"
+},
+"http://www.chelcickeho.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chelcickeho-102956"
+},
+"http://www.ctyrlistek-ms.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ctyrlistek-511932"
+},
+"http://www.dac.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stare-hobzi-007744"
+},
+"http://www.detizklicku.cz": {
+"jen_ms": false,
+"slug": "materska-skola-horni-podluzi-562073"
+},
+"http://www.hrusova.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hrusova-073391"
+},
+"http://www.katerinice.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-katerinice-007418"
+},
+"http://www.ms-brezi.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brezi-107031"
+},
+"http://www.ms-hlubcicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-praminek-620391"
+},
+"http://www.ms-markvartovice.eu": {
+"jen_ms": false,
+"slug": "materska-skola-markvartovice-000758"
+},
+"http://www.ms-ohavlove.cz": {
+"jen_ms": false,
+"slug": "materska-skola-olgy-havlove-kadan-562413"
+},
+"http://www.ms-pistalkakladno.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pistalka-kladno-002489"
+},
+"http://www.ms.suchdol.cz": {
+"jen_ms": false,
+"slug": "materska-skola-suchdol-nad-luznici-532603"
+},
+"http://www.mscheb.cz": {
+"jen_ms": false,
+"slug": "materska-skola-diakonie-cce-cheb-064812"
+},
+"http://www.mschomutov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-chomutov-000418"
+},
+"http://www.msdolnilhota.cz": {
+"jen_ms": false,
+"slug": "materska-skola-dolni-lhota-628201"
+},
+"http://www.msfulnek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-fulnek-106769"
+},
+"http://www.mshavaj.cz": {
+"jen_ms": false,
+"slug": "ms-havaj-022943"
+},
+"http://www.mshb.cz": {
+"jen_ms": false,
+"slug": "materska-skola-koralky-havlickuv-brod-000079"
+},
+"http://www.mshlucin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hlucin-046435"
+},
+"http://www.msjinocany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jinocany-516748"
+},
+"http://www.mskerhartice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-usti-nad-orlici-589770"
+},
+"http://www.mskocour.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kocour-060752"
+},
+"http://www.mskohoutova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601559"
+},
+"http://www.mskolka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-555955"
+},
+"http://www.mslesetinska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-prerov-631474"
+},
+"http://www.mslostice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-lostice-632551"
+},
+"http://www.msmedlanky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-019901"
+},
+"http://www.msmoravska.estranky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-as-541335"
+},
+"http://www.msnakorabe.cz": {
+"jen_ms": false,
+"slug": "materska-skola-na-korabe-503280"
+},
+"http://www.msolsava.cz": {
+"jen_ms": false,
+"slug": "materska-skola-olsava-613174"
+},
+"http://www.msomska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-omska-504324"
+},
+"http://www.mspomnenka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pomnenka-569001"
+},
+"http://www.msrezkova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-844658"
+},
+"http://www.mssezdravotnickoupeci.cz": {
+"jen_ms": false,
+"slug": "materska-skola-se-zdravotnickou-peci-043342"
+},
+"http://www.msstadtrodska.cz": {
+"jen_ms": false,
+"slug": "ms-stadtrodska-546752"
+},
+"http://www.mssvetice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-svetice-516292"
+},
+"http://www.mssvycarska.eu": {
+"jen_ms": false,
+"slug": "materska-skola-kladno-svycarska-005352"
+},
+"http://www.mstk.cz": {
+"jen_ms": false,
+"slug": "materska-skola-trhova-kamenice-582392"
+},
+"http://www.mstlumacov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-tlumacov-606101"
+},
+"http://www.msusti.cz": {
+"jen_ms": false,
+"slug": "materska-skola-usti-634490"
+},
+"http://www.mszacitspolu.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zacit-spolu-033071"
+},
+"http://www.mszlatehory.cz": {
+"jen_ms": false,
+"slug": "materska-skola-beruska-zlate-hory-620952"
+},
+"http://www.obec-vyprachtice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-vyprachtice-590352"
+},
+"http://www.orlice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pisecna-590000"
+},
+"http://www.oubrecht.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-milhostov-541068"
+},
+"http://www.pnl.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-predmerice-nad-labem-581302"
+},
+"http://www.poddzbansko.cz": {
+"jen_ms": true,
+"slug": "materska-skola-krupa-518082"
+},
+"http://www.posumavska.cz": {
+"jen_ms": true,
+"slug": "ms-posumavska-546728"
+},
+"http://www.prelouc.cz": {
+"jen_ms": true,
+"slug": "materska-skola-brehy-584867"
+},
+"http://www.radostnazavisti.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-na-zavisti-143291"
+},
+"http://www.rapsach.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-v-rapsachu-532514"
+},
+"http://www.schwarzovi.eu": {
+"jen_ms": true,
+"slug": "materska-skola-vesely-domecek-090619"
+},
+"http://www.skola-chodova-plana.com": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chodova-plana-546281"
+},
+"http://www.skolalosiny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velke-losiny-633175"
+},
+"http://www.skolaradim.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-radim-512422"
+},
+"http://www.skolavilemov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vilemov-562634"
+},
+"http://www.skolazdiby.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zdiby-516225"
+},
+"http://www.slunenka.cz": {
+"jen_ms": true,
+"slug": "lesni-ms-slunenka-094118"
+},
+"http://www.smilingbabyschool.cz": {
+"jen_ms": true,
+"slug": "ms-smiling-baby-school-089254"
+},
+"http://www.snovidky.eu": {
+"jen_ms": true,
+"slug": "materska-skola-snovidky-613522"
+},
+"http://www.specskolynadeje.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nadeje-600986"
+},
+"http://www.sumavska37.cz": {
+"jen_ms": true,
+"slug": "materska-skola-sumavska-500302"
+},
+"http://www.svobodnaskolachotebor.cz": {
+"jen_ms": true,
+"slug": "zs-a-lesni-ms-horni-mlyn-144093"
+},
+"http://www.synam.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-svitavy-namesti-miru-73-587350"
+},
+"http://www.tgmpisek.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-t-g-masaryka-a-ms-053539"
+},
+"http://www.valchov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-valchov-600579"
+},
+"http://www.vys.cz": {
+"jen_ms": true,
+"slug": "materska-skola-sochorova-614049"
+},
+"http://www.zs-heralec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-heralec-580161"
+},
+"http://www.zs-kouty.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kouty-611295"
+},
+"http://www.zs-ostrcil.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-630346"
+},
+"http://www.zsbrankovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brankovice-613808"
+},
+"http://www.zsbratrejov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bratrejov-606216"
+},
+"http://www.zsbudiskovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-budiskovice-532123"
+},
+"http://www.zsceskyherslak.cz": {
+"jen_ms": true,
+"slug": "zs-t-g-masaryka-a-ms-horni-dvoriste-531691"
+},
+"http://www.zscvrch.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-cerveny-vrch-006462"
+},
+"http://www.zsdrevcice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-drevcice-046090"
+},
+"http://www.zsdriten.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-driten-201064"
+},
+"http://www.zshusovata.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tabor-husova-1570-535483"
+},
+"http://www.zsjanovjbc.com": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-janov-nad-nisou-563321"
+},
+"http://www.zskarlovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-karlovice-620316"
+},
+"http://www.zskd.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kraluv-dvur-511116"
+},
+"http://www.zskojetice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kojetice-066490"
+},
+"http://www.zskola.com": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sadek-587261"
+},
+"http://www.zslisany.net": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lisany-518104"
+},
+"http://www.zsmskatovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-katovice-534801"
+},
+"http://www.zsmspodoli.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-podoli-612801"
+},
+"http://www.zsnonanmnm.cz": {
+"jen_ms": true,
+"slug": "ms-a-zs-specialni-nona-044536"
+},
+"http://www.zsnorska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kladno-638454"
+},
+"http://www.zsnyrskokom.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nyrsko-543079"
+},
+"http://www.zsradesinskasvratka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-radesinska-svratka-616203"
+},
+"http://www.zsressl.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-resslova-004753"
+},
+"http://www.zsrybnik.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rybnik-589176"
+},
+"http://www.zsstruhlovsko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hranice-020491"
+},
+"http://www.zstupesy.uhedu.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tupesy-612682"
+},
+"http://zs.ledenice.cz": {
+"jen_ms": true,
+"slug": "zs-zus-a-ms-ledenice-530619"
+},
+"http://zshrubina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-f-hrubina-havirov-624303"
+},
+"https://20mskladno.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kladno-511941"
+},
+"https://4accounting.cz": {
+"jen_ms": true,
+"slug": "materska-skola-celakovice-516390"
+},
+"https://4zsmb.cz": {
+"jen_ms": true,
+"slug": "zs-t-g-masaryka-a-ms-600216"
+},
+"https://aklar.cz": {
+"jen_ms": true,
+"slug": "stredni-skola-a-mater-skola-aloyse-klara-501058"
+},
+"https://alfahs.cz/co-delame/skolka-alfik": {
+"jen_ms": false,
+"slug": "detska-skupina-alfik-ds00126"
+},
+"https://allstarsschool.cz": {
+"jen_ms": true,
+"slug": "all-stars-school-ms-a-zs-122138"
+},
+"https://augustiniani.cz": {
+"jen_ms": true,
+"slug": "ms-zs-a-gymnazium-sv-augustina-028034"
+},
+"https://babynest-nursery.com": {
+"jen_ms": false,
+"slug": "detska-skupina-baby-nest-ds01206"
+},
+"https://barevnaskolicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-barevna-skolicka-006952"
+},
+"https://beadschool10.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-bead-school-i-ds01519"
+},
+"https://bedrnicek.cz/jesle-bedrnicek": {
+"jen_ms": false,
+"slug": "detska-skupina-jesle-a-skolka-bedrnicek-ds10382"
+},
+"https://bgbzs.cz": {
+"jen_ms": true,
+"slug": "biskupske-gymnazium-zs-a-ms-bohosudov-038811"
+},
+"https://bobrici.sportovnids.cz": {
+"jen_ms": false,
+"slug": "sportovni-detska-skupina-bobrici-ds10242"
+},
+"https://brandyskymatysek.cz": {
+"jen_ms": true,
+"slug": "materska-skola-brandysky-matysek-048485"
+},
+"https://brightsteps.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-bright-steps-ds10506"
+},
+"https://centrumcirkus.cz/detska-skupina-cakovice": {
+"jen_ms": false,
+"slug": "detska-skupina-cirkus-cakovice-ds01702"
+},
+"https://centrumkulisek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kulisek-zahorskeho-ds00018"
+},
+"https://cerhenice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-cerhenice-070120"
+},
+"https://cervenykostelec.charita.cz": {
+"jen_ms": true,
+"slug": "materska-skola-studanka-u-sv-jakuba-064227"
+},
+"https://cherrytree.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-cherries-ds01224"
+},
+"https://chotusice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chotusice-512858"
+},
+"https://cinelky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cinelky-090490"
+},
+"https://cms-ovecka.cz": {
+"jen_ms": false,
+"slug": "cirkevni-materska-skola-ovecka-023288"
+},
+"https://cms-studanka.cz": {
+"jen_ms": false,
+"slug": "cirkevni-materska-skola-studanka-500884"
+},
+"https://cvicitek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-cvicitek-1-ds02221"
+},
+"https://ddskolyzlin.cz": {
+"jen_ms": true,
+"slug": "dd-ms-zs-a-prs-zlin-319600"
+},
+"https://detiodbotice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-deti-od-botice-ds01678"
+},
+"https://detskaskupinakotata.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kotata-ds02370"
+},
+"https://detskeskupiny.avcr.cz/cs/pro-rodice/lvicek": {
+"jen_ms": false,
+"slug": "detska-skupina-av-cr-lvicek-ds01030"
+},
+"https://detskeskupiny.avcr.cz/cs/pro-rodice/molekula": {
+"jen_ms": false,
+"slug": "detska-skupina-av-cr-molekula-ds00967"
+},
+"https://detskeskupiny.avcr.cz/cs/pro-rodice/pluto-dioda": {
+"jen_ms": false,
+"slug": "detska-skupina-av-cr-dioda-ds01778"
+},
+"https://detskeskupiny.csop5.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-habrova-ds11359"
+},
+"https://devinek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-devinek-ds01256"
+},
+"https://dobruska.cz": {
+"jen_ms": true,
+"slug": "materska-skola-j-a-komenskeho-585545"
+},
+"https://doctrina.cz": {
+"jen_ms": true,
+"slug": "doctrina-zs-a-ms-038528"
+},
+"https://dolesa.net": {
+"jen_ms": false,
+"slug": "lesni-materska-skola-do-lesa-120259"
+},
+"https://dolni-cermna.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-vincence-junka-dolni-cermna-589281"
+},
+"https://doo.cz": {
+"jen_ms": true,
+"slug": "cirkevni-materska-skola-ludgerovice-035751"
+},
+"https://ds-jezecek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jezecek-i-ds01341"
+},
+"https://dsbobrici.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-bobrici-ds01721"
+},
+"https://dsbona.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-bona-ds00427"
+},
+"https://dshangarek.cz/hvezdicka-praha-slivenec": {
+"jen_ms": false,
+"slug": "detska-skupina-hvezdicka-ds00825"
+},
+"https://dshavranek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-havranek-ds00875"
+},
+"https://dsjezek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jezek-ds00944"
+},
+"https://dsjitrenka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jitrenka-i-ds00764"
+},
+"https://dsklubikurokytky.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-klubik-u-rokytky-ds02112"
+},
+"https://dsklubikvprirode.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-klubik-v-prirode-ds01544"
+},
+"https://dskotatka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kotatka-ds00063"
+},
+"https://dskvetinka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kvetinka-berusky-ds02294"
+},
+"https://dvorekvsousedstvi.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-dvorek-v-sousedstvi-ds02214"
+},
+"https://e-cirkev.cz": {
+"jen_ms": true,
+"slug": "cirkevni-ms-a-zs-sudice-127679"
+},
+"https://edububoklub.cz/klubik-a-detske-skupiny": {
+"jen_ms": false,
+"slug": "detska-skupina-klubik-u-mlyna-ds11193"
+},
+"https://ekodomov.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-sarynka-102196"
+},
+"https://ekoskolka-rozarka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-ekoskolka-rozarka-ds00266"
+},
+"https://ekoskolkavidoule.cz": {
+"jen_ms": false,
+"slug": "lms-ekoskolka-vidoule-duhovy-had-131161"
+},
+"https://elanek.cz/bulovka": {
+"jen_ms": false,
+"slug": "detska-skupina-elanek-bulovicka-1-ds10881"
+},
+"https://elanek.cz/praha-brezinka": {
+"jen_ms": false,
+"slug": "detska-skupina-elanek-na-brezince-1-ds02336"
+},
+"https://elanek.cz/praha-brezinka-II": {
+"jen_ms": false,
+"slug": "detska-skupina-elanek-na-brezince-2-ds02117"
+},
+"https://elanek.cz/praha-jablonova": {
+"jen_ms": false,
+"slug": "detska-skupina-elanek-praha-10-ds01889"
+},
+"https://elvicek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-elvicek-ds01792"
+},
+"https://epkids.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-ep-kids-the-blue-team-ds01886"
+},
+"https://erazim.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-erazim-1-118009"
+},
+"https://flowergarten.cz": {
+"jen_ms": true,
+"slug": "materska-skola-flowergarten-077647"
+},
+"https://foxikovaskolka.cz/ds-foxik-cimice": {
+"jen_ms": false,
+"slug": "detska-skupina-foxik-cimice-ds01233"
+},
+"https://foxikovaskolka.cz/ds-foxik-dchabry": {
+"jen_ms": false,
+"slug": "detska-skupina-foxik-budysinska-ds00482"
+},
+"https://foxikovaskolka.cz/ds-foxik-krc": {
+"jen_ms": false,
+"slug": "detska-skupina-foxik-krc-ds01377"
+},
+"https://foxikovaskolka.cz/ds-foxik-zizkov": {
+"jen_ms": false,
+"slug": "detska-skupina-foxik-zizkov-ds00483"
+},
+"https://frankbold.org": {
+"jen_ms": true,
+"slug": "lesni-ms-sykorka-frank-bold-kids-088177"
+},
+"https://fzsumelecka.cz": {
+"jen_ms": true,
+"slug": "fakultni-zs-pedf-uk-a-ms-u-studanky-502909"
+},
+"https://genius-school.cz/genius-strasnice": {
+"jen_ms": false,
+"slug": "genius-materska-skola-032961"
+},
+"https://global-minded.cz": {
+"jen_ms": true,
+"slug": "global-minded-ms-a-zs-088410"
+},
+"https://harmonia.orangery.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-harmonia-ds01465"
+},
+"https://hm-msjiraskova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hermanuv-mestec-582627"
+},
+"https://hornicermna.cz": {
+"jen_ms": true,
+"slug": "materska-skola-a-skolni-jidelna-590298"
+},
+"https://hvezdyvlese.cz": {
+"jen_ms": true,
+"slug": "lesni-ms-hvezdy-v-lese-119226"
+},
+"https://itin.cz": {
+"jen_ms": true,
+"slug": "zacit-spolu-zs-a-ms-042240"
+},
+"https://jablickov.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jablickov-ds01016"
+},
+"https://jahoda.cz/centrum/albertov": {
+"jen_ms": false,
+"slug": "detska-skupina-jahoda-albertov-ds00832"
+},
+"https://jahoda.cz/zarizeni/jesle-v-praze": {
+"jen_ms": false,
+"slug": "detska-skupina-jahoda-cerny-most-ds00061"
+},
+"https://jahoda.cz/zarizeni/skolka-jesle-andel": {
+"jen_ms": false,
+"slug": "detska-skupina-jahoda-andel-ds01444"
+},
+"https://jahoda.cz/zarizeni/skolka-jesle-andel-ii": {
+"jen_ms": false,
+"slug": "detska-skupina-jahoda-andel-ii-ds10354"
+},
+"https://jakomenskeho.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-j-a-komenskeho-006497"
+},
+"https://jdempohybem.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jdempohybem-ds01142"
+},
+"https://jeremicek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jeremicek-ds1-ds01488"
+},
+"https://jeskohlidovaskolicka.com": {
+"jen_ms": false,
+"slug": "detska-skupina-jeskohlidova-skolicka-2a-ds02106"
+},
+"https://jeslezbraslav.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jesle-zbraslav-prispevkova-organizace-ds01928"
+},
+"https://jiloviste.cz": {
+"jen_ms": true,
+"slug": "materska-skola-jiloviste-074877"
+},
+"https://jsmemalihrdinove.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-koralky-i-ds10070"
+},
+"https://jupischool.com": {
+"jen_ms": true,
+"slug": "jupi-school-materska-skola-007916"
+},
+"https://kamaradizletne.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kamaradi-z-letne-ds02206"
+},
+"https://kastankov.cuni.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kastankov-ds10443"
+},
+"https://kiddum.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-brick-buddies-ds10078"
+},
+"https://kidscorner.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kids-corner-ds01807"
+},
+"https://klementinka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-klementinka-ds01948"
+},
+"https://klicekrumburk.cz": {
+"jen_ms": true,
+"slug": "cirkevni-materska-skola-klicek-048345"
+},
+"https://klubhrosici.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-hrosici-ds01315"
+},
+"https://klubk2.cz/detske-skupiny-louka-a-les": {
+"jen_ms": false,
+"slug": "detska-skupina-les-ds01823"
+},
+"https://klubletnice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-letnice-ds01749"
+},
+"https://klubquiq.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-klub-quiq-ds01004"
+},
+"https://kmskliment.cz": {
+"jen_ms": false,
+"slug": "katolicka-materska-skola-sv-klimenta-625063"
+},
+"https://kolin.cz": {
+"jen_ms": true,
+"slug": "ms-klubicko-451244"
+},
+"https://kosihnizdo.org": {
+"jen_ms": true,
+"slug": "spolek-kosi-hnizdo-materska-skola-a-zakladniskola-089122"
+},
+"https://ktuo.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klubicko-usti-nad-orlici-590395"
+},
+"https://kubuki.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kubuki-060477"
+},
+"https://kulisek.online": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-kulisek-089726"
+},
+"https://lemonis.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-lemonis-ds10045"
+},
+"https://lesmir.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-lesmir-088223"
+},
+"https://lobkovicovo.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nam-jiriho-z-lobkovic-102930"
+},
+"https://logopaed.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-logoped-022564"
+},
+"https://lsroznov.cz": {
+"jen_ms": true,
+"slug": "roznovska-lesni-materska-skola-086361"
+},
+"https://masarykovazsms.cz": {
+"jen_ms": true,
+"slug": "masarykova-zs-a-ms-623111"
+},
+"https://materska-skola-budikov.webnode.cz": {
+"jen_ms": false,
+"slug": "materska-skola-budikov-533022"
+},
+"https://materska-skola-pitin.webnode.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-pitin-612542"
+},
+"https://medovaskolka.cz": {
+"jen_ms": false,
+"slug": "soukroma-materska-skola-medova-skolka-057018"
+},
+"https://meziskolami.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ctyrlistek-161763"
+},
+"https://miniskolkalistek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-listek-1-ds01795"
+},
+"https://minisvetskolka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-minisvet-mrac-005239"
+},
+"https://minisvetukrtecka.cz": {
+"jen_ms": true,
+"slug": "minisvet-u-krtecka-detska-skupina-chyne-ds10330"
+},
+"https://modry-klic.cz": {
+"jen_ms": true,
+"slug": "modry-klic-zs-spec-a-ms-spec-034384"
+},
+"https://mojeskolicka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-broucci-ds00843"
+},
+"https://montessoriandilek.cz": {
+"jen_ms": true,
+"slug": "montessori-skoly-andilek-ms-a-zs-045168"
+},
+"https://montessorislapy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-slapy-035271"
+},
+"https://monty-skolka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-monty-school-085020"
+},
+"https://ms-kamarad.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kamarad-601141"
+},
+"https://ms-klicperova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klicperova-518287"
+},
+"https://ms-kostelnilhota.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kostelni-lhota-515652"
+},
+"https://ms-kratochvilova-prerov.webnode.cz": {
+"jen_ms": false,
+"slug": "materska-skola-prerov-558960"
+},
+"https://ms-masinka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-masinka-515121"
+},
+"https://ms-mnhradiste.cz": {
+"jen_ms": false,
+"slug": "materska-skola-mnichovo-hradiste-514711"
+},
+"https://ms-skalka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cheb-541360"
+},
+"https://ms-slunecnice.info": {
+"jen_ms": false,
+"slug": "materska-skola-slunecnice-620332"
+},
+"https://ms-slunickokladno.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slunicko-511525"
+},
+"https://ms.huslenky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-huslenky-633922"
+},
+"https://ms.kojetin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kojetin-631199"
+},
+"https://ms.skolabroumy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-broumy-510705"
+},
+"https://ms27.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "27-materska-skola-plzen-543532"
+},
+"https://ms38.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "38-materska-skola-plzen-764093"
+},
+"https://ms44.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "44-materska-skola-plzen-543460"
+},
+"https://ms5.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "5-materska-skola-plzen-543508"
+},
+"https://ms51.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "51-materska-skola-plzen-005427"
+},
+"https://ms55.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "55-materska-skola-plzen-543729"
+},
+"https://ms6.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "6-materska-skola-plzen-543389"
+},
+"https://ms7.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "7-materska-skola-plzen-543753"
+},
+"https://ms78.plzen.eu": {
+"jen_ms": false,
+"slug": "78-materska-skola-plzen-543842"
+},
+"https://ms80.plzen.eu": {
+"jen_ms": false,
+"slug": "80-materska-skola-plzen-543613"
+},
+"https://ms91.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "91-materska-skola-plzen-543737"
+},
+"https://msastra.cz": {
+"jen_ms": false,
+"slug": "materska-skola-astra-103664"
+},
+"https://msazskm.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kromeriz-022807"
+},
+"https://msberanek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-beranek-033119"
+},
+"https://msberusky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-berusky-510057"
+},
+"https://msbnemcove.estranky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kraslice-545578"
+},
+"https://msbrezineves.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brezineves-031892"
+},
+"https://msbukovinka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-bukovinka-031057"
+},
+"https://mscakovice3.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cakovice-iii-102778"
+},
+"https://mschvaletice.webnode.cz": {
+"jen_ms": false,
+"slug": "materska-skola-chvaletice-159014"
+},
+"https://msdracek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-dracek-515571"
+},
+"https://msduha.eu": {
+"jen_ms": false,
+"slug": "materska-skola-duha-pardubice-popkovice-a-stare-civice-584778"
+},
+"https://msharmonie.cz": {
+"jen_ms": false,
+"slug": "materska-skola-harmonie-ostrava-hrabuvka-832641"
+},
+"https://msholanova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ceska-ves-632365"
+},
+"https://mshradcovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hradcovice-612411"
+},
+"https://mshrdejovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hrdejovice-530562"
+},
+"https://msjanadrdy.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pribram-000859"
+},
+"https://msjilove.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jilove-u-prahy-638420"
+},
+"https://mskarnikova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601524"
+},
+"https://mskladnovrchlickeho.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kladno-511371"
+},
+"https://msklasterni.cz": {
+"jen_ms": false,
+"slug": "materska-skola-liberec-564301"
+},
+"https://mskorycany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-korycany-609797"
+},
+"https://mskosik.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kosik-091038"
+},
+"https://mskostelni.cz/o-skole/detska-skupina-kulihrasek": {
+"jen_ms": false,
+"slug": "detska-skupina-kulihrasek-ds01852"
+},
+"https://mskosticka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kosticka-029961"
+},
+"https://mskralovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kralovice-097354"
+},
+"https://mskrejpskeho.cz": {
+"jen_ms": false,
+"slug": "materska-skola-krejpskeho-300774"
+},
+"https://mskrimice.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "materska-skola-plzen-krimice-027461"
+},
+"https://mslaz.cz": {
+"jen_ms": false,
+"slug": "materska-skola-laz-000492"
+},
+"https://msledce.webnode.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ledce-000526"
+},
+"https://msletcu.cz": {
+"jen_ms": false,
+"slug": "materska-skola-letcu-503581"
+},
+"https://mslhota.plzen-edu.cz": {
+"jen_ms": false,
+"slug": "materska-skola-plzen-lhota-088720"
+},
+"https://mslomutachova.wixsite.com": {
+"jen_ms": false,
+"slug": "ms-lom-u-tachova-546710"
+},
+"https://msluby.estranky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-luby-541416"
+},
+"https://msmartinov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrava-martinov-630478"
+},
+"https://msmnichovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-mnichovice-516519"
+},
+"https://msnabalkane.cz": {
+"jen_ms": false,
+"slug": "materska-skola-na-balkane-500493"
+},
+"https://msnadpalatou.cz": {
+"jen_ms": false,
+"slug": "materska-skola-nad-palatou-501996"
+},
+"https://msnavysinach.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-domecek-ds01896"
+},
+"https://msnovyprerov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-novy-prerov-101963"
+},
+"https://msobruby.cz": {
+"jen_ms": false,
+"slug": "materska-skola-obruby-514737"
+},
+"https://msotr.cz": {
+"jen_ms": false,
+"slug": "materska-skola-otrokovice-019634"
+},
+"https://mspardubicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-holice-159735"
+},
+"https://mspodvartou.cz": {
+"jen_ms": false,
+"slug": "materska-skola-treperka-586703"
+},
+"https://mspohadkakolin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pohadka-kolin-v-665142"
+},
+"https://mspohoda.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jablonec-nad-nisou-jablonecke-paseky-015153"
+},
+"https://mspredmericenj.estranky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-predmerice-nad-jizerou-044470"
+},
+"https://msprokopka.cz": {
+"jen_ms": false,
+"slug": "ms-prokopa-velikeho-546531"
+},
+"https://msprubezna.cz": {
+"jen_ms": false,
+"slug": "materska-skola-prubezna-rakovnik-518520"
+},
+"https://mspsenik.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601915"
+},
+"https://msptice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ptice-069032"
+},
+"https://msrooseveltova.webnode.cz": {
+"jen_ms": false,
+"slug": "materska-skola-olomouc-627183"
+},
+"https://mssidlistni.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hodonin-606933"
+},
+"https://msskretova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601991"
+},
+"https://msstarabela.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrava-stara-bela-630150"
+},
+"https://msstedrik.cz": {
+"jen_ms": false,
+"slug": "materska-skola-stedrik-516837"
+},
+"https://mssvermova.webnode.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-602083"
+},
+"https://mssvetlahora.cz": {
+"jen_ms": false,
+"slug": "materska-skola-svetla-hora-501759"
+},
+"https://mssvvorsily.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sv-vorsily-v-praze-625918"
+},
+"https://mstajovskeho.webnode.cz": {
+"jen_ms": false,
+"slug": "krcska-materska-skola-501104"
+},
+"https://msudolni.cz": {
+"jen_ms": false,
+"slug": "materska-skola-blansko-600790"
+},
+"https://msujezdubrna.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ujezd-u-brna-604108"
+},
+"https://msukrajinska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrava-630800"
+},
+"https://msupivovaru.cz": {
+"jen_ms": false,
+"slug": "materska-skola-u-vysocanskeho-pivovaru-503930"
+},
+"https://msuplavhaly.eu": {
+"jen_ms": false,
+"slug": "ms-u-plavecke-haly-569167"
+},
+"https://msuranie.cz/jeslicky": {
+"jen_ms": false,
+"slug": "detska-skupina-jeslicky-ds00988"
+},
+"https://msusmev.cz": {
+"jen_ms": false,
+"slug": "materska-skola-usmev-benesov-510596"
+},
+"https://msuvoz.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-602202"
+},
+"https://msuzbecka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-602211"
+},
+"https://msvcelkakrnov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vcelka-620511"
+},
+"https://msvetrnik.ricany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vetrnik-127393"
+},
+"https://msvetrov.jicin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vetrov-583283"
+},
+"https://msvyhlidka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vyhlidka-765561"
+},
+"https://mszaskolou.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrava-zabreh-630303"
+},
+"https://mszvonkova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zvonkova-504383"
+},
+"https://mujmrnousek.cz": {
+"jen_ms": false,
+"slug": "mrnouskova-materska-skola-046806"
+},
+"https://nadedine.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-na-dedine-133822"
+},
+"https://neslhk.com": {
+"jen_ms": true,
+"slug": "vos-ss-zs-a-ms-690361"
+},
+"https://neumannka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-as-540711"
+},
+"https://neurazy.cz": {
+"jen_ms": true,
+"slug": "materska-skola-neurazy-544211"
+},
+"https://obecpodluhy.cz": {
+"jen_ms": true,
+"slug": "materska-skola-podluhy-510799"
+},
+"https://obecsemcice.cz": {
+"jen_ms": true,
+"slug": "masarykova-zs-a-ms-514753"
+},
+"https://onves.cz": {
+"jen_ms": true,
+"slug": "materska-skola-ostrozska-nova-ves-612526"
+},
+"https://orangerypark.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jesle-orangery-park-ds00581"
+},
+"https://orgman.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601541"
+},
+"https://pardubice.charita.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-sv-frantiska-145499"
+},
+"https://parentes.cz": {
+"jen_ms": true,
+"slug": "gymnazium-zs-a-ms-parentes-007380"
+},
+"https://pipan.cz": {
+"jen_ms": true,
+"slug": "bilingvalni-ms-pro-sluch-postiz-035585"
+},
+"https://playwisely.cz/msplaywisely": {
+"jen_ms": false,
+"slug": "materska-skola-a-jesle-playwisely-085046"
+},
+"https://plzen.eu": {
+"jen_ms": true,
+"slug": "49-materska-skola-plzen-546795"
+},
+"https://podhoubi.cz": {
+"jen_ms": true,
+"slug": "ekocentrum-podhoubi-a-ekoskolka-rozarka-070979"
+},
+"https://praha-libus.cz/detska-skupina-lipisek": {
+"jen_ms": false,
+"slug": "detska-skupina-lipisek-ds02278"
+},
+"https://prostorprorodinu.cz/detska-skupina-adaptacni-malinka": {
+"jen_ms": false,
+"slug": "detska-skupina-adaptacni-ds01800"
+},
+"https://prostorprorodinu.cz/detska-skupina-hrajeme-si": {
+"jen_ms": false,
+"slug": "detska-skupina-hrajeme-si-ds00192"
+},
+"https://prostorprorodinu.cz/detska-skupina-jablonka": {
+"jen_ms": false,
+"slug": "detska-skupina-jablonka-ds01938"
+},
+"https://prostorprorodinu.cz/do-maleho-sveta": {
+"jen_ms": false,
+"slug": "detska-skupina-do-maleho-sveta-ds01472"
+},
+"https://psplutynia.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-s-p-j-v-701847"
+},
+"https://pspolbrachcice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-s-p-j-v-020011"
+},
+"https://pzsnavsi.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-s-p-j-v-832391"
+},
+"https://ratibor.cz": {
+"jen_ms": true,
+"slug": "materska-skola-ratibor-634112"
+},
+"https://ritka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-ritka-814457"
+},
+"https://rodinnecentrum.petrklice.cz/o-laskave-naruci": {
+"jen_ms": false,
+"slug": "detska-skupina-laskava-naruc-ds01251"
+},
+"https://rolnicka.diakonie.cz": {
+"jen_ms": true,
+"slug": "ms-zs-spec-a-prs-diakonie-cce-rolnicka-018231"
+},
+"https://rozcestnik.skolkyslansko.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zvoleneves-511851"
+},
+"https://rozsochatec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rozsochatec-580641"
+},
+"https://rychnovnm.cz": {
+"jen_ms": true,
+"slug": "ms-rychnov-na-m-010097"
+},
+"https://sam-sebou.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-sam-sebou-ds01164"
+},
+"https://sites.google.com": {
+"jen_ms": true,
+"slug": "lesni-ms-skritka-pohadky-086778"
+},
+"https://skola-noe.cz": {
+"jen_ms": true,
+"slug": "noe-krestanska-zs-a-ms-v-pardubicich-034701"
+},
+"https://skola-novyjachymov.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-novy-jachymov-103311"
+},
+"https://skola-petrovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-petrovice-900474"
+},
+"https://skola-zadnitreban.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zadni-treban-511027"
+},
+"https://skola.olomucany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olomucany-600391"
+},
+"https://skola.striteznl.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stritez-nad-ludinou-631849"
+},
+"https://skola.zdirec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zdirec-nad-doubravou-005792"
+},
+"https://skolabezdekov.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-bezdekov-nad-metuji-135311"
+},
+"https://skolabosonohy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601869"
+},
+"https://skolachlebicov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chlebicov-629089"
+},
+"https://skoladesenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-desenice-542994"
+},
+"https://skoladetrichov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-detrichov-021054"
+},
+"https://skoladoudleby.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-doudleby-530767"
+},
+"https://skolahermanek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hermanek-026155"
+},
+"https://skolajindrichovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-jindrichovice-136619"
+},
+"https://skolajivina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jivina-814368"
+},
+"https://skolaloukov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-loukov-609541"
+},
+"https://skolamachov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-machov-583658"
+},
+"https://skolamovere.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-movere-127598"
+},
+"https://skolanosislav.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nosislav-604990"
+},
+"https://skolapetrovice.cz/materska-skola": {
+"jen_ms": false,
+"slug": "kralovska-materska-skola-petrovice-s-r-o-064740"
+},
+"https://skolapraha.diakonie.cz": {
+"jen_ms": true,
+"slug": "ms-a-zs-specialni-diakonie-cce-029247"
+},
+"https://skolasd.eu": {
+"jen_ms": true,
+"slug": "ms-zs-a-ss-slezske-diakonie-106556"
+},
+"https://skolasibrina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sibrina-516152"
+},
+"https://skolasudice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sudice-628996"
+},
+"https://skolasvetdecin.cz": {
+"jen_ms": true,
+"slug": "soukroma-zs-a-ms-svet-026643"
+},
+"https://skolaunetice.cz": {
+"jen_ms": true,
+"slug": "zs-ms-a-zus-hnizdo-516667"
+},
+"https://skolavrazne.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vrazne-020149"
+},
+"https://skolazahumny.cz": {
+"jen_ms": true,
+"slug": "ms-zs-prs-a-dd-032451"
+},
+"https://skolazari.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zari-020556"
+},
+"https://skolazelesice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zelesice-604281"
+},
+"https://skolazrak.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zrak-016869"
+},
+"https://skolka-andelska.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-andelska-ds01243"
+},
+"https://skolka-ctyrlistek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ctyrlistek-006918"
+},
+"https://skolka-delfinek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-delfinek-ds00968"
+},
+"https://skolka-jesle.cz/detske-skupiny/devitka": {
+"jen_ms": false,
+"slug": "detska-skupina-devitka-ds00138"
+},
+"https://skolka.ostrava.cz": {
+"jen_ms": false,
+"slug": "firemni-skolka-mesta-ostravy-064448"
+},
+"https://skolkadomecekletnany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-domecek-letnany-054426"
+},
+"https://skolkakralovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kralovice-545055"
+},
+"https://skolkalada.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-lada-bolzanova-ds10181"
+},
+"https://skolkamasinka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-masinka-069661"
+},
+"https://skolkanakopecku.cz": {
+"jen_ms": false,
+"slug": "materska-skola-na-kopecku-038382"
+},
+"https://skolkazdar.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zdar-600439"
+},
+"https://skolskykomplex.cz": {
+"jen_ms": true,
+"slug": "porg-brno-gymnazium-zs-a-ms-104773"
+},
+"https://skolyavida.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-avida-3-6-ds00265"
+},
+"https://skupinkypraha8.cz/cmelda.html": {
+"jen_ms": false,
+"slug": "detska-skupina-cmelda-ds02184"
+},
+"https://skupinkypraha8.cz/kvitko.html": {
+"jen_ms": false,
+"slug": "detska-skupina-kvit-ko-ds02109"
+},
+"https://slunicka.com": {
+"jen_ms": false,
+"slug": "detska-skupina-csob-slunicka-ds01234"
+},
+"https://slunicko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-slunicko-631121"
+},
+"https://slunickoopava.cz": {
+"jen_ms": true,
+"slug": "materska-skola-slunicko-opava-629437"
+},
+"https://smartkids-skolky.cz/smartkids-rubeska": {
+"jen_ms": false,
+"slug": "chytre-deti-smartkids-praha-9-detska-skupina-ds00672"
+},
+"https://smysluplnaskola.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lyckovo-namesti-006110"
+},
+"https://sportovni-skoly.webnode.cz/detska-skupina-clovicek": {
+"jen_ms": false,
+"slug": "detska-skupina-clovicek-ds10385"
+},
+"https://sportovniskoly.cz": {
+"jen_ms": true,
+"slug": "sportovni-zs-a-ms-clovicek-020980"
+},
+"https://ssspraha9.cz/detske-skupiny": {
+"jen_ms": false,
+"slug": "detska-skupina-1-ds00073"
+},
+"https://stankova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-602067"
+},
+"https://stromacek-jeslicky.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jeslicky-stromacek-ds01644"
+},
+"https://svojetice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-svojetice-516055"
+},
+"https://szm-mohelnice.cz": {
+"jen_ms": true,
+"slug": "stredni-skola-mohelnice-551397"
+},
+"https://techmania.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-koumaci-ds00176"
+},
+"https://trivium.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-trivium-plus-042096"
+},
+"https://tyrsovazsams.plzen.eu": {
+"jen_ms": true,
+"slug": "tyrsova-zakladni-skola-a-materska-skola-543176"
+},
+"https://ubilehokralika.cz": {
+"jen_ms": true,
+"slug": "materska-skola-u-bileho-kralika-018501"
+},
+"https://velicek.cz": {
+"jen_ms": false,
+"slug": "lesni-materska-skola-velicek-090848"
+},
+"https://vhaaji.cz": {
+"jen_ms": false,
+"slug": "lms-vhaaji-126061"
+},
+"https://vidce.cz": {
+"jen_ms": true,
+"slug": "materska-skola-vidce-634376"
+},
+"https://vlasenickydvur.cz": {
+"jen_ms": true,
+"slug": "zs-vlasenicky-dvur-137674"
+},
+"https://vlesedu.cz": {
+"jen_ms": true,
+"slug": "zs-a-lms-hnizdo-skola-ktera-voni-lesem-128543"
+},
+"https://vsenskaskola.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vsen-007353"
+},
+"https://vzdelaniokruzni.cz": {
+"jen_ms": true,
+"slug": "technicke-gymnazium-zs-a-ms-vste-061252"
+},
+"https://waldorf-brno.cz": {
+"jen_ms": true,
+"slug": "waldorfska-skola-brno-ss-zs-a-ms-009102"
+},
+"https://waldorfcheb.cz": {
+"jen_ms": true,
+"slug": "waldorfska-zs-a-ms-cheb-122936"
+},
+"https://wp.skolahlavnovice.info": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hlavnovice-542978"
+},
+"https://wp.zsbezdekov.info": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bezdekov-542943"
+},
+"https://www.18mskladno.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kladno-512092"
+},
+"https://www.1msmost.cz": {
+"jen_ms": false,
+"slug": "1-materska-skola-most-125226"
+},
+"https://www.1zscv.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chomutov-101486"
+},
+"https://www.2zskladno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kladno-511487"
+},
+"https://www.3msmost.cz": {
+"jen_ms": false,
+"slug": "3-materska-skola-most-700050"
+},
+"https://www.3zs.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-litvinov-701897"
+},
+"https://www.3zslouny.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-kpt-otakara-jarose-039419"
+},
+"https://www.4msmost.cz": {
+"jen_ms": false,
+"slug": "4-materska-skola-most-700017"
+},
+"https://www.6zskladno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kladno-511461"
+},
+"https://www.6zsmb.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mlada-boleslav-013495"
+},
+"https://www.abcacademy.cz": {
+"jen_ms": true,
+"slug": "materska-skola-abc-academy-052393"
+},
+"https://www.adamov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-adamov-028330"
+},
+"https://www.adventureschool.cz": {
+"jen_ms": true,
+"slug": "adventure-school-ms-a-zs-045460"
+},
+"https://www.albrechticky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-albrechticky-625555"
+},
+"https://www.alsovysadyms.cz": {
+"jen_ms": false,
+"slug": "materska-skola-alsovy-sady-501163"
+},
+"https://www.amaschool.cz": {
+"jen_ms": true,
+"slug": "ama-school-zs-a-ms-montessori-047870"
+},
+"https://www.amsmontessori.cz": {
+"jen_ms": false,
+"slug": "aestus-montessori-materska-skola-usti-nad-labem-141621"
+},
+"https://www.anglickaskolkabrno.cz": {
+"jen_ms": false,
+"slug": "ponny-kids-materska-skola-079470"
+},
+"https://www.arpida.cz": {
+"jen_ms": true,
+"slug": "ms-zs-a-prs-pri-centru-arpida-076003"
+},
+"https://www.auroraschool.cz": {
+"jen_ms": true,
+"slug": "ms-aurora-preschool-academy-029685"
+},
+"https://www.b-english.cz": {
+"jen_ms": false,
+"slug": "lms-be-nature-001543"
+},
+"https://www.barevnyklicek.cz": {
+"jen_ms": true,
+"slug": "materska-skola-sokolov-019781"
+},
+"https://www.barice-velketesany.cz": {
+"jen_ms": true,
+"slug": "materska-skola-velke-tesany-609291"
+},
+"https://www.bebecha.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-na-plesi-ds01408"
+},
+"https://www.bekid-brno.com": {
+"jen_ms": true,
+"slug": "detska-skupina-bekid-lvicata-ds01816"
+},
+"https://www.belanr.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bela-nad-radbuzou-540029"
+},
+"https://www.belohradskams.cz": {
+"jen_ms": false,
+"slug": "belohradska-materska-skola-582848"
+},
+"https://www.bigy.cz": {
+"jen_ms": true,
+"slug": "biskupske-gymnazium-a-materska-skola-057743"
+},
+"https://www.bisgymbb.cz": {
+"jen_ms": true,
+"slug": "biskupske-gymnazium-cirk-zs-ms-a-zus-076240"
+},
+"https://www.biskupiceuluhacovic.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-biskupice-606291"
+},
+"https://www.bohutin.cz": {
+"jen_ms": true,
+"slug": "materska-skola-bohutin-632756"
+},
+"https://www.boleradice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-boleradice-005580"
+},
+"https://www.borac.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pohadka-borac-615533"
+},
+"https://www.borovany-cb.cz": {
+"jen_ms": true,
+"slug": "materska-skola-borovany-530015"
+},
+"https://www.braskov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-braskov-511771"
+},
+"https://www.brezova.cz": {
+"jen_ms": true,
+"slug": "materska-skola-brezova-nad-svitavou-040119"
+},
+"https://www.brumov-bylnice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-brumov-bylnice-606461"
+},
+"https://www.bruzovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bruzovice-622971"
+},
+"https://www.bukovany.cz": {
+"jen_ms": true,
+"slug": "materska-skola-bukovany-626870"
+},
+"https://www.byst.cz": {
+"jen_ms": true,
+"slug": "materska-skola-byst-157151"
+},
+"https://www.bystrec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bystrec-589125"
+},
+"https://www.center4you.cz": {
+"jen_ms": true,
+"slug": "materska-skola-happy-day-027062"
+},
+"https://www.centrumbazalka.cz": {
+"jen_ms": true,
+"slug": "centr-bazalka-zsspec-a-msspec-006324"
+},
+"https://www.chaloupky.cz": {
+"jen_ms": true,
+"slug": "chaloupky-123908"
+},
+"https://www.chlumec.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pohadka-569647"
+},
+"https://www.cholina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cholina-626292"
+},
+"https://www.chudcice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chudcice-603179"
+},
+"https://www.cihelni.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cihelni-623765"
+},
+"https://www.cizova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cizova-053261"
+},
+"https://www.cmgp.cz": {
+"jen_ms": true,
+"slug": "cyrilometodejske-gymnazium-speds-a-ms-brno-011743"
+},
+"https://www.cmgpv.cz": {
+"jen_ms": true,
+"slug": "cyrilometodejske-g-zs-a-ms-v-prostejove-009722"
+},
+"https://www.cmslaura.cz": {
+"jen_ms": false,
+"slug": "cirkevni-materska-skola-laura-000915"
+},
+"https://www.cotkytle.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-cotkytle-589249"
+},
+"https://www.creativekids.cz": {
+"jen_ms": false,
+"slug": "creative-kids-materska-skola-079879"
+},
+"https://www.cvvoda.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cervena-voda-590018"
+},
+"https://www.czstrinec.cz": {
+"jen_ms": true,
+"slug": "cirkevni-zakladni-skola-a-materska-skola-trinec-105762"
+},
+"https://www.czszlin.cz": {
+"jen_ms": true,
+"slug": "cirkevni-zs-a-ms-ve-zline-027429"
+},
+"https://www.dekanka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-na-dekance-500221"
+},
+"https://www.demosthenes.cz": {
+"jen_ms": true,
+"slug": "ms-specialni-demosthenes-150341"
+},
+"https://www.desna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-desna-532239"
+},
+"https://www.destinka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ceske-budejovice-086328"
+},
+"https://www.detske-centrum.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-motylek-023561"
+},
+"https://www.devcatkomomo.cz": {
+"jen_ms": true,
+"slug": "ms-devcatka-momo-015676"
+},
+"https://www.dicams.cz": {
+"jen_ms": false,
+"slug": "detske-integracni-centrum-a-ms-380304"
+},
+"https://www.divocinalisen.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-divocina-121689"
+},
+"https://www.dkskolin.cz": {
+"jen_ms": false,
+"slug": "dvouleta-katolicka-ss-a-ms-036085"
+},
+"https://www.dlouhabrtnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dlouha-brtnice-012501"
+},
+"https://www.dlouhaloucka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-dlouha-loucka-000971"
+},
+"https://www.dlouhonovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-dlouhonovice-589851"
+},
+"https://www.dobrany.cz": {
+"jen_ms": true,
+"slug": "ms-dobrany-544075"
+},
+"https://www.dolni-prim.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-prim-581311"
+},
+"https://www.dolnizivotice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-zivotice-628228"
+},
+"https://www.drackovaskolka.cz": {
+"jen_ms": false,
+"slug": "drackova-jazyk-ms-beachclub-strahov-123207"
+},
+"https://www.dschodov.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-chodov-ds01493"
+},
+"https://www.duhovakapicka.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-duhova-kapicka-ds00495"
+},
+"https://www.e-bs.cz": {
+"jen_ms": true,
+"slug": "materska-skola-lukavec-061589"
+},
+"https://www.easyspeak.cz": {
+"jen_ms": true,
+"slug": "zs-ms-a-zus-easyspeak-100037"
+},
+"https://www.edin.cz": {
+"jen_ms": true,
+"slug": "education-institute-zs-ms-032791"
+},
+"https://www.englandacademy.cz": {
+"jen_ms": true,
+"slug": "little-england-academy-zs-a-ms-090597"
+},
+"https://www.evangnet.cz": {
+"jen_ms": true,
+"slug": "cirkevni-materska-skola-lodka-055091"
+},
+"https://www.evokace.cz": {
+"jen_ms": true,
+"slug": "zs-judr-josefa-marese-a-ms-071647"
+},
+"https://www.foxikovaskolka.cz": {
+"jen_ms": false,
+"slug": "smartfox-kiddies-materska-skola-087553"
+},
+"https://www.ftn.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-pri-f-thomayerove-nemocnici-501741"
+},
+"https://www.fzsbarr.cz": {
+"jen_ms": true,
+"slug": "fakult-zs-a-ms-barrandov-ii-pri-pedf-uk-161771"
+},
+"https://www.gatemacek.cz": {
+"jen_ms": true,
+"slug": "materska-skola-gatemacek-132931"
+},
+"https://www.genius-school.cz": {
+"jen_ms": true,
+"slug": "genius-kindergarten-materska-skola-s-r-o-126443"
+},
+"https://www.gnj.cz": {
+"jen_ms": true,
+"slug": "soukroma-materska-skola-vesela-opicka-092735"
+},
+"https://www.grygov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-grygov-626462"
+},
+"https://www.halenkov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-halenkov-633833"
+},
+"https://www.happychild.cz": {
+"jen_ms": true,
+"slug": "ms-happy-child-102328"
+},
+"https://www.happypoint.cz": {
+"jen_ms": true,
+"slug": "happy-point-materska-skola-089831"
+},
+"https://www.happypreschool.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-happy-nest-pro-tpb-ds01485"
+},
+"https://www.harrachov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kaminek-586142"
+},
+"https://www.henstav.cz": {
+"jen_ms": true,
+"slug": "ms-lodka-147122"
+},
+"https://www.hermankovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hermankovice-583526"
+},
+"https://www.hlasnatreban.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hlasna-treban-062721"
+},
+"https://www.hlincovahora.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hlincova-hora-050340"
+},
+"https://www.hlubacek.cz": {
+"jen_ms": true,
+"slug": "lesni-ms-hlubacek-102358"
+},
+"https://www.hlubokemasuvky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hluboke-masuvky-614162"
+},
+"https://www.hluchov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hluchov-610752"
+},
+"https://www.hornipena.cz": {
+"jen_ms": true,
+"slug": "materska-skola-horni-pena-532263"
+},
+"https://www.hornitresnovec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-tresnovec-589371"
+},
+"https://www.hostenice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hostenice-603292"
+},
+"https://www.hrabisin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hrabisin-632284"
+},
+"https://www.hrabyne.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-prof-judr-karla-englise-628341"
+},
+"https://www.hradekususice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradek-u-susice-542471"
+},
+"https://www.ibg-net.cz": {
+"jen_ms": true,
+"slug": "materska-skola-podborany-566605"
+},
+"https://www.igalileo.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sobekury-118661"
+},
+"https://www.ihustopece.cz": {
+"jen_ms": true,
+"slug": "materska-skola-hustopece-nad-becvou-631156"
+},
+"https://www.imcg.cz": {
+"jen_ms": true,
+"slug": "materska-skola-orech-516756"
+},
+"https://www.indigo-kids.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-indigo-kids-v-o-s-069962"
+},
+"https://www.iq-school.cz": {
+"jen_ms": true,
+"slug": "materska-skola-chytracek-042452"
+},
+"https://www.jakubov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jakubov-611341"
+},
+"https://www.jankov.net": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jankov-013949"
+},
+"https://www.jazykova-skolka.cz": {
+"jen_ms": false,
+"slug": "ms-maxik-jazykova-skola-a-jesle-s-r-o-088398"
+},
+"https://www.jecna27.cz": {
+"jen_ms": true,
+"slug": "gymn-sos-zs-a-ms-pro-sluch-postizene-001737"
+},
+"https://www.jedenstrom.cz": {
+"jen_ms": true,
+"slug": "zs-a-lesni-ms-na-dvorecku-087693"
+},
+"https://www.jeremi.cz": {
+"jen_ms": true,
+"slug": "sportovni-materska-skola-jeremicek-016991"
+},
+"https://www.jevisovka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-jevisovka-101891"
+},
+"https://www.jezdkovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-jezdkovice-066238"
+},
+"https://www.jezernice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jezernice-057903"
+},
+"https://www.jiretin.cz": {
+"jen_ms": true,
+"slug": "materska-skola-jiretin-pod-jedlovou-561387"
+},
+"https://www.juta.cz": {
+"jen_ms": true,
+"slug": "materska-skola-juta-016885"
+},
+"https://www.kanka.info": {
+"jen_ms": true,
+"slug": "zs-a-ms-a-poskytovatel-social-sluz-kanka-031183"
+},
+"https://www.karlovice-sedmihorky.cz": {
+"jen_ms": true,
+"slug": "materska-skola-sedmihorky-083205"
+},
+"https://www.katerinice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-katerinice-625423"
+},
+"https://www.kejzlice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kejzlice-533103"
+},
+"https://www.klatovskeskolky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klatovy-000453"
+},
+"https://www.klicek-skolka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klicek-337346"
+},
+"https://www.kmsberoun.cz": {
+"jen_ms": false,
+"slug": "katolicka-materska-skola-012747"
+},
+"https://www.knezeves.cz": {
+"jen_ms": true,
+"slug": "materska-skola-knezeves-003538"
+},
+"https://www.kobyli.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kobyli-604639"
+},
+"https://www.kochanky.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kochanky-048329"
+},
+"https://www.koprskolky.cz": {
+"jen_ms": false,
+"slug": "materske-skoly-625865"
+},
+"https://www.koralek-skolka.cz": {
+"jen_ms": false,
+"slug": "soukroma-ms-koralek-020766"
+},
+"https://www.koralekkladno.cz": {
+"jen_ms": true,
+"slug": "specialni-zakladni-skola-a-materska-skola-kladno-512076"
+},
+"https://www.kosare.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-dubina-000281"
+},
+"https://www.kostelecnl.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kostelec-nad-labem-513447"
+},
+"https://www.kourilkovajasinkova.cz": {
+"jen_ms": true,
+"slug": "materska-skola-prerov-558510"
+},
+"https://www.kouzelneskoly.cz": {
+"jen_ms": true,
+"slug": "kouzelne-skoly-ms-a-zs-020670"
+},
+"https://www.kozicinskyklabanek.cz": {
+"jen_ms": true,
+"slug": "lesni-ms-kozicinsky-klabanek-088088"
+},
+"https://www.kpmalina.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-malina-121204"
+},
+"https://www.kralicenahane.cz": {
+"jen_ms": true,
+"slug": "materska-skola-a-skolni-jidelna-kralice-na-hane-610159"
+},
+"https://www.krasneudoli.cz": {
+"jen_ms": true,
+"slug": "materska-skola-krasne-udoli-000104"
+},
+"https://www.krecovice.cz": {
+"jen_ms": true,
+"slug": "zs-josefa-suka-a-ms-510162"
+},
+"https://www.krestanskaskola.cz": {
+"jen_ms": true,
+"slug": "krestanska-zs-a-ms-jana-husa-021498"
+},
+"https://www.ksidlisti.cz": {
+"jen_ms": true,
+"slug": "skola-kavci-hory-ms-zs-a-sos-sluzeb-501716"
+},
+"https://www.kupkova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-breclav-604451"
+},
+"https://www.landie.cz": {
+"jen_ms": true,
+"slug": "materska-skola-landie-009447"
+},
+"https://www.lapp.com": {
+"jen_ms": true,
+"slug": "lapp-czech-republic-064464"
+},
+"https://www.lauder.cz": {
+"jen_ms": true,
+"slug": "lauderova-ms-zs-a-gymnazium-pri-zid-obci-380347"
+},
+"https://www.lentils.cz": {
+"jen_ms": true,
+"slug": "cesko-anglicka-sportovni-detska-skupina-lentils-2-ds00596"
+},
+"https://www.lesniklub.cz": {
+"jen_ms": true,
+"slug": "zs-a-lesni-ms-jurta-041715"
+},
+"https://www.lesnimarianka.cz": {
+"jen_ms": false,
+"slug": "lesni-materska-skola-marianka-086905"
+},
+"https://www.lesniskolkaberounka.cz": {
+"jen_ms": false,
+"slug": "lms-a-ekocentrum-berounka-095866"
+},
+"https://www.levinskaolesnice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-levinska-olesnice-586151"
+},
+"https://www.libicend.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-libice-nad-doubravou-580233"
+},
+"https://www.linet.com": {
+"jen_ms": true,
+"slug": "materska-skola-linetka-027895"
+},
+"https://www.liskacekskolka.cz": {
+"jen_ms": false,
+"slug": "lesni-materska-skola-liskacek-090571"
+},
+"https://www.listicka.org": {
+"jen_ms": true,
+"slug": "listicka-lesni-materska-skola-086964"
+},
+"https://www.litegra.cz": {
+"jen_ms": true,
+"slug": "litegra-ss-a-ms-044081"
+},
+"https://www.lmsostrava.cz": {
+"jen_ms": false,
+"slug": "lesni-materska-skola-vcelka-141671"
+},
+"https://www.lodenice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-lodenice-511191"
+},
+"https://www.logopedickaskola.cz": {
+"jen_ms": true,
+"slug": "zs-logopedicka-a-ms-logopedicka-385661"
+},
+"https://www.losenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velka-losenice-615827"
+},
+"https://www.luzanky.cz": {
+"jen_ms": true,
+"slug": "luzanky-stredisko-volneho-casu-038064"
+},
+"https://www.lysice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-lysice-600366"
+},
+"https://www.machovka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-decin-iv-561247"
+},
+"https://www.malala.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-malala-146967"
+},
+"https://www.malaskola.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-suchy-dul-400505"
+},
+"https://www.malesvatonovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-male-svatonovice-588854"
+},
+"https://www.materinkykv.cz": {
+"jen_ms": false,
+"slug": "1-materska-skola-karlovy-vary-000341"
+},
+"https://www.melcany.cz": {
+"jen_ms": true,
+"slug": "materska-skola-melcany-603209"
+},
+"https://www.mendelova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-mendelova-624591"
+},
+"https://www.mendelu.cz": {
+"jen_ms": true,
+"slug": "univerzitni-materska-skola-hrasek-041961"
+},
+"https://www.menin.cz": {
+"jen_ms": true,
+"slug": "materska-skola-menin-603497"
+},
+"https://www.meruzalka.cz": {
+"jen_ms": true,
+"slug": "meruzalka-montessori-ms-a-zs-036576"
+},
+"https://www.mesto-chlumec.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pod-horkou-569477"
+},
+"https://www.mestocernosice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-husova-106213"
+},
+"https://www.mestomyto.cz": {
+"jen_ms": true,
+"slug": "ms-slunicko-000135"
+},
+"https://www.metropolitni.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-havlickuv-brod-118840"
+},
+"https://www.mills.cz": {
+"jen_ms": true,
+"slug": "vos-ss-js-s-pr-sjz-zs-a-ms-mills-066394"
+},
+"https://www.milosrdni.cz": {
+"jen_ms": true,
+"slug": "materska-skola-milosrdnych-bratri-060329"
+},
+"https://www.mintbrno.cz": {
+"jen_ms": true,
+"slug": "montessori-institut-zs-a-ms-110512"
+},
+"https://www.mnisek.cz": {
+"jen_ms": true,
+"slug": "materska-skola-mnisek-pod-brdy-517141"
+},
+"https://www.montessori-elipsa.cz": {
+"jen_ms": true,
+"slug": "montessori-zs-a-ms-elipsa-037181"
+},
+"https://www.montessori-plzen.cz": {
+"jen_ms": false,
+"slug": "materska-skola-montessori-plzen-033453"
+},
+"https://www.montessori-seminko.cz": {
+"jen_ms": false,
+"slug": "montessori-materska-skola-seminko-071983"
+},
+"https://www.montessori-skolka-brno.cz": {
+"jen_ms": false,
+"slug": "zdrava-materska-skola-materinka-099560"
+},
+"https://www.montessori-zlin.cz": {
+"jen_ms": true,
+"slug": "montessori-zlin-zs-a-ms-motylek-069831"
+},
+"https://www.montessoricb.cz": {
+"jen_ms": true,
+"slug": "soukroma-zs-a-ms-viva-bambini-033356"
+},
+"https://www.montessorikampus.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-montessori-kampus-075041"
+},
+"https://www.montessoripolna.cz": {
+"jen_ms": true,
+"slug": "montessori-ss-zs-a-ms-polna-123096"
+},
+"https://www.montessoriskolka.cz": {
+"jen_ms": false,
+"slug": "soukroma-materska-skola-zvonecek-028531"
+},
+"https://www.montessorislany.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-montessori-slany-087952"
+},
+"https://www.mosnov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mosnov-625458"
+},
+"https://www.mostyujablunkova.cz": {
+"jen_ms": true,
+"slug": "ms-przedszkole-mosty-u-jablunkova-622050"
+},
+"https://www.motylek-ms.cz": {
+"jen_ms": false,
+"slug": "materska-skola-motylek-565325"
+},
+"https://www.mozaikaschool.eu": {
+"jen_ms": true,
+"slug": "mozaika-cesko-anglicka-ms-049759"
+},
+"https://www.ms-bezrucova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kolin-ii-663646"
+},
+"https://www.ms-blatske.cz": {
+"jen_ms": false,
+"slug": "materska-skola-blatske-sidliste-veseli-nad-luznici-582743"
+},
+"https://www.ms-brezina.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brezina-586809"
+},
+"https://www.ms-cecova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ceske-budejovice-201129"
+},
+"https://www.ms-doksany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-doksany-565234"
+},
+"https://www.ms-domino.eu": {
+"jen_ms": false,
+"slug": "materska-skola-domino-025469"
+},
+"https://www.ms-drnovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-drnovice-613263"
+},
+"https://www.ms-hodkovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hodkovice-nad-mohelkou-564050"
+},
+"https://www.ms-holeckova.strakonice.eu": {
+"jen_ms": false,
+"slug": "ms-holeckova-strakonice-122197"
+},
+"https://www.ms-horousany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-horousany-a-horousanky-516209"
+},
+"https://www.ms-jablunka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jablunka-633957"
+},
+"https://www.ms-jilkova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jilkova-502291"
+},
+"https://www.ms-kastanek.cz": {
+"jen_ms": false,
+"slug": "ms-kastanek-608537"
+},
+"https://www.ms-klasterec.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klasterec-nad-ohri-565546"
+},
+"https://www.ms-kojcice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kojcice-533111"
+},
+"https://www.ms-koralek.cz": {
+"jen_ms": false,
+"slug": "ms-koralek-585341"
+},
+"https://www.ms-mnv.cz": {
+"jen_ms": false,
+"slug": "materska-skola-moravska-nova-ves-604973"
+},
+"https://www.ms-napohori.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zruc-nad-sazavou-513196"
+},
+"https://www.ms-novapaka.cz": {
+"jen_ms": false,
+"slug": "2-materska-skola-nova-paka-582953"
+},
+"https://www.ms-pampeliska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pampeliska-514630"
+},
+"https://www.ms-rolnicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-rolnicka-564548"
+},
+"https://www.ms-sedlcany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sedlcany-001031"
+},
+"https://www.ms-sedmikraska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sedmikraska-530350"
+},
+"https://www.ms-senozaty.cz": {
+"jen_ms": false,
+"slug": "materska-skola-senozaty-533316"
+},
+"https://www.ms-skolni.strakonice.eu": {
+"jen_ms": false,
+"slug": "ms-skolni-strakonice-122251"
+},
+"https://www.ms-slunecnice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slunecnice-610166"
+},
+"https://www.ms-slunicko-pardubice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slunicko-pardubice-584701"
+},
+"https://www.ms-sokolska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zlin-605546"
+},
+"https://www.ms-spojaru.strakonice.eu": {
+"jen_ms": false,
+"slug": "ms-spojaru-strakonice-122162"
+},
+"https://www.ms-srdicko.cz": {
+"jen_ms": false,
+"slug": "materska-skola-srdicko-157275"
+},
+"https://www.ms-stepanov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-valasske-mezirici-211469"
+},
+"https://www.ms-strekov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-strekov-569451"
+},
+"https://www.ms-sumavska.strakonice.eu": {
+"jen_ms": false,
+"slug": "ms-strakonice-sumavska-264-800341"
+},
+"https://www.ms-sviadnov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pohoda-sviadnov-621631"
+},
+"https://www.ms-svojsika.strakonice.eu": {
+"jen_ms": false,
+"slug": "materska-skola-strakonice-535157"
+},
+"https://www.ms-temice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-temice-607301"
+},
+"https://www.ms-vetrna.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vetrna-568942"
+},
+"https://www.msbabice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-dracek-babice-060442"
+},
+"https://www.msbachmacska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kolin-ii-663611"
+},
+"https://www.msbc.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pribram-000816"
+},
+"https://www.msbendova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-bendova-502551"
+},
+"https://www.msberuska-chlumec.cz": {
+"jen_ms": false,
+"slug": "materska-skola-beruska-580845"
+},
+"https://www.msbiskupice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-biskupice-40-610817"
+},
+"https://www.msblatno.cz": {
+"jen_ms": false,
+"slug": "materska-skola-blatno-600021"
+},
+"https://www.msbochov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-bochov-541483"
+},
+"https://www.msbohuminska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slezska-ostrava-027356"
+},
+"https://www.msbojanov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-bojanov-582503"
+},
+"https://www.msboleslavova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-bota-611669"
+},
+"https://www.msboletice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-decin-xxxii-561441"
+},
+"https://www.msbrechtova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-602989"
+},
+"https://www.msbrezova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brezova-606046"
+},
+"https://www.msbublinka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ii-607662"
+},
+"https://www.msbublinky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-bublinky-066556"
+},
+"https://www.mscavisov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cavisov-112370"
+},
+"https://www.mscebin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cebin-603144"
+},
+"https://www.mscejkovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cejkovice-606852"
+},
+"https://www.msceperka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ceperka-158883"
+},
+"https://www.mscercany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cercany-510073"
+},
+"https://www.mschoustnikovohradiste.cz": {
+"jen_ms": false,
+"slug": "materska-skola-choustnikovo-hradiste-588722"
+},
+"https://www.mscihelni.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hlucin-628279"
+},
+"https://www.mscinska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cinska-prispev-organiz-502364"
+},
+"https://www.msctyrlistek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ctyrlistek-514168"
+},
+"https://www.msdobra.cz": {
+"jen_ms": false,
+"slug": "materska-skola-dobra-621428"
+},
+"https://www.msdobrna.cz": {
+"jen_ms": false,
+"slug": "materska-skola-dobrna-561328"
+},
+"https://www.msdomino.cz": {
+"jen_ms": false,
+"slug": "soukroma-materska-skola-domino-047594"
+},
+"https://www.msdoubek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-doubek-pardubice-svitkov-a-lany-na-dulku-584832"
+},
+"https://www.msdrinov-melnicko.cz": {
+"jen_ms": false,
+"slug": "materska-skola-drinov-009234"
+},
+"https://www.msdubanek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-dubanek-567962"
+},
+"https://www.msduha.cz": {
+"jen_ms": false,
+"slug": "materska-skola-duha-trebic-031014"
+},
+"https://www.msdvorakovaprerov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-prerov-631989"
+},
+"https://www.msekostala.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pardubice-dubina-159197"
+},
+"https://www.mselisky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-602466"
+},
+"https://www.msfamily.cz": {
+"jen_ms": false,
+"slug": "materska-skola-family-555131"
+},
+"https://www.msficek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ficek-020912"
+},
+"https://www.msfrantisek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-nove-mesto-nad-metuji-583712"
+},
+"https://www.msfsramka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-teplice-568691"
+},
+"https://www.msgenjanka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrava-marianske-hory-630427"
+},
+"https://www.mshajkaub.cz": {
+"jen_ms": false,
+"slug": "materska-skola-uhersky-brod-612828"
+},
+"https://www.mshavlickova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jablonec-nad-nisou-101421"
+},
+"https://www.mshejtmankovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hejtmankovice-583399"
+},
+"https://www.msherbenova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kladno-511444"
+},
+"https://www.msherink.cz": {
+"jen_ms": false,
+"slug": "materska-skola-herink-113856"
+},
+"https://www.mshornibecva.cz": {
+"jen_ms": false,
+"slug": "ms-horni-becva-633841"
+},
+"https://www.mshornirybniky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-horni-rybniky-071738"
+},
+"https://www.mshradistko.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hradistko-517116"
+},
+"https://www.mshumpolec.cz": {
+"jen_ms": false,
+"slug": "materska-skola-humpolec-533448"
+},
+"https://www.msjahodnice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jahodnice-504561"
+},
+"https://www.msjedomelice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jedomelice-511614"
+},
+"https://www.msjesenice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-jesenice-075679"
+},
+"https://www.msjugo.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601435"
+},
+"https://www.mskaplice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kaplice-1-maje-771-403511"
+},
+"https://www.mskarasek.cz": {
+"jen_ms": false,
+"slug": "ms-karasek-v-praze-12-prisp-organizace-109417"
+},
+"https://www.mskarladvoracka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-orlova-lutyne-k-dvoracka-1228-844216"
+},
+"https://www.mskb.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kardinala-berana-plzen-028875"
+},
+"https://www.mskelc.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kelc-633981"
+},
+"https://www.msklanovice.cz": {
+"jen_ms": false,
+"slug": "ms-klanovice-503590"
+},
+"https://www.msklasek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klasek-s-088762"
+},
+"https://www.msklicek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klicek-560453"
+},
+"https://www.msklucov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-klucov-512155"
+},
+"https://www.mskodanska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kodanska-504316"
+},
+"https://www.mskolovec.cz": {
+"jen_ms": false,
+"slug": "ms-kolovec-000194"
+},
+"https://www.mskonicek.cz": {
+"jen_ms": false,
+"slug": "ms-konicek-585375"
+},
+"https://www.mskonstantinova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-konstantinova-500931"
+},
+"https://www.mskopretina.cz": {
+"jen_ms": false,
+"slug": "ms-kopretina-jesenik-632420"
+},
+"https://www.mskostelecukrizku.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kostelec-u-krizku-015498"
+},
+"https://www.mskpolabinam.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pardubice-157321"
+},
+"https://www.mskreslice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kreslice-069245"
+},
+"https://www.mskrizna.cz": {
+"jen_ms": false,
+"slug": "materska-skola-valasske-mezirici-863773"
+},
+"https://www.mskunratice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kunratice-501139"
+},
+"https://www.mskuratko.ricany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kuratko-112710"
+},
+"https://www.mskvetnice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kvetnice-112752"
+},
+"https://www.mskvitekbystre.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kvitek-586850"
+},
+"https://www.mskyselovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kyselovice-609304"
+},
+"https://www.mskyticka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kyticka-765600"
+},
+"https://www.mskytickark.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kyticka-585723"
+},
+"https://www.mslaudova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-laudova-502569"
+},
+"https://www.mslaurinka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-laurinka-514583"
+},
+"https://www.msledec.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ledec-nad-sazavou-580721"
+},
+"https://www.mslesenska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-lesenska-503344"
+},
+"https://www.msletkov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-letkov-088789"
+},
+"https://www.msletovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-letovice-127296"
+},
+"https://www.mslibcicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-libcicka-503093"
+},
+"https://www.msliptan.cz": {
+"jen_ms": false,
+"slug": "materska-skola-liptan-141302"
+},
+"https://www.mslobendava.cz": {
+"jen_ms": false,
+"slug": "materska-skola-lobendava-561476"
+},
+"https://www.mslomnice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-lomnice-545683"
+},
+"https://www.mslvicek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-lvicek-729522"
+},
+"https://www.msmalsovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-malsovice-561310"
+},
+"https://www.msmarkusova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-markusova-500973"
+},
+"https://www.msmasinkapecky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-masinka-831122"
+},
+"https://www.msmesice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-mesice-515946"
+},
+"https://www.msmezivrsi.cz": {
+"jen_ms": false,
+"slug": "materska-skola-mezivrsi-611383"
+},
+"https://www.msmk.cz": {
+"jen_ms": false,
+"slug": "materska-skola-moravsky-krumlov-614413"
+},
+"https://www.msmladosovice.cz": {
+"jen_ms": false,
+"slug": "ms-mladosovice-097877"
+},
+"https://www.msmodrice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-modrice-603501"
+},
+"https://www.msmoravanek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-moravany-002621"
+},
+"https://www.msmouchnice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-v-mouchnicich-613514"
+},
+"https://www.msmratin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-mratin-515989"
+},
+"https://www.msmv.cz": {
+"jen_ms": false,
+"slug": "materska-skola-male-vykleky-156228"
+},
+"https://www.msnadparkem.cz": {
+"jen_ms": false,
+"slug": "ms-nad-parkem-502127"
+},
+"https://www.msnaosade.cz": {
+"jen_ms": false,
+"slug": "materska-skola-na-osade-555319"
+},
+"https://www.msnapesinach.cz": {
+"jen_ms": false,
+"slug": "materska-skola-na-pesinach-503395"
+},
+"https://www.msnatrisle.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pardubice-157372"
+},
+"https://www.msnavapence.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zelezny-brod-na-vapence-074354"
+},
+"https://www.msnavrcholu.cz": {
+"jen_ms": false,
+"slug": "materska-skola-na-vrcholu-796641"
+},
+"https://www.msnavsi.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kastanek-navsi-622653"
+},
+"https://www.msnedakonice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-nedakonice-612470"
+},
+"https://www.msnelahozeves.cz": {
+"jen_ms": false,
+"slug": "materska-skola-nelahozeves-513692"
+},
+"https://www.msneplachova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ceske-budejovice-530279"
+},
+"https://www.msnespeky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-nespeky-035804"
+},
+"https://www.msnovabela.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrava-nova-bela-629861"
+},
+"https://www.msnovedomky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kaplice-102561"
+},
+"https://www.msnovomestska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601745"
+},
+"https://www.msnovosedly.cz": {
+"jen_ms": false,
+"slug": "materska-skola-novosedly-604736"
+},
+"https://www.msnucicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-nedvezska-504197"
+},
+"https://www.msobecondrejov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ondrejov-516071"
+},
+"https://www.msodboraru.cz": {
+"jen_ms": false,
+"slug": "materska-skola-stonozka-585332"
+},
+"https://www.msoderska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-601648"
+},
+"https://www.msokruznitrebic.cz": {
+"jen_ms": false,
+"slug": "materska-skola-trebic-612151"
+},
+"https://www.msopletalova.cz": {
+"jen_ms": false,
+"slug": "ms-opletalova-385025"
+},
+"https://www.msoptiky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-prerov-631504"
+},
+"https://www.msosvobozeni.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cheb-541386"
+},
+"https://www.msovcihajek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ovci-hajek-381560"
+},
+"https://www.mspacerice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pacerice-564823"
+},
+"https://www.mspalackeho.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrov-753533"
+},
+"https://www.mspampeliska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pampeliska-515679"
+},
+"https://www.msparlerova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-parlerova-502411"
+},
+"https://www.mspastelka-ul.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pastelka-789291"
+},
+"https://www.mspcewintrova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pardubice-157259"
+},
+"https://www.mspchery.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pchery-511606"
+},
+"https://www.mspetrov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-petrov-136350"
+},
+"https://www.mspistin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pistin-prisp-org-083990"
+},
+"https://www.mspodebradova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ostrava-630397"
+},
+"https://www.mspodivin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-podivin-605244"
+},
+"https://www.mspodzamci.cz": {
+"jen_ms": false,
+"slug": "materska-skola-podzamci-050412"
+},
+"https://www.mspohadka-brno.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pohadka-018527"
+},
+"https://www.mspohadka-melnik.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pohadka-513625"
+},
+"https://www.mspohadkafm.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pohadka-046066"
+},
+"https://www.mspohorelice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pohorelice-605252"
+},
+"https://www.mspoznanska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-poznanska-503018"
+},
+"https://www.mspraminek.eu": {
+"jen_ms": false,
+"slug": "materska-skola-praminek-568705"
+},
+"https://www.msprazskacb.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ceske-budejovice-530376"
+},
+"https://www.mspreciosa-liberec.cz": {
+"jen_ms": false,
+"slug": "ii-ms-preciosa-018125"
+},
+"https://www.msprem.cz": {
+"jen_ms": false,
+"slug": "materska-skola-louny-123793"
+},
+"https://www.msprusinovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-prusinovice-609410"
+},
+"https://www.msradost.cz": {
+"jen_ms": false,
+"slug": "materska-skola-radost-782081"
+},
+"https://www.msradostbph.cz": {
+"jen_ms": false,
+"slug": "materska-skola-radost-609665"
+},
+"https://www.msrajhrad.cz": {
+"jen_ms": false,
+"slug": "materska-skola-rajhrad-603748"
+},
+"https://www.msrb.cz": {
+"jen_ms": false,
+"slug": "materska-skola-rohovladova-bela-157411"
+},
+"https://www.msrebesovice.cz": {
+"jen_ms": false,
+"slug": "ms-rebesovice-032112"
+},
+"https://www.msresovska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-resovska-503042"
+},
+"https://www.msrohacovky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kosticky-504251"
+},
+"https://www.msrokytnice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vsetin-042371"
+},
+"https://www.msrosnicka.cz": {
+"jen_ms": false,
+"slug": "ms-rosnicka-022951"
+},
+"https://www.msruzdka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ruzdka-634198"
+},
+"https://www.mssafarikova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-louny-791128"
+},
+"https://www.mssany.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sany-515512"
+},
+"https://www.mssiskova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-siskova-503191"
+},
+"https://www.msslavonice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slavonice-532824"
+},
+"https://www.msslovenska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slovenska-500281"
+},
+"https://www.mssluknovska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-sluknovska-503727"
+},
+"https://www.msslunecko.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slunecko-501783"
+},
+"https://www.msslunicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-u-dvou-slunicek-587619"
+},
+"https://www.msslunicko.eu": {
+"jen_ms": false,
+"slug": "materska-skola-slunicko-022524"
+},
+"https://www.mssmolikova.cz": {
+"jen_ms": false,
+"slug": "materska-skola-smolikova-502607"
+},
+"https://www.mssnezenka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-snezenka-046082"
+},
+"https://www.mssoukenicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-602792"
+},
+"https://www.mssslunicko.cz": {
+"jen_ms": false,
+"slug": "materska-skola-specialni-slunicko-350685"
+},
+"https://www.msstachova.cz": {
+"jen_ms": false,
+"slug": "internatni-ms-500736"
+},
+"https://www.msstarovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-starovice-604825"
+},
+"https://www.msstaryjicin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-stary-jicin-625504"
+},
+"https://www.mssterboholy.cz": {
+"jen_ms": false,
+"slug": "ms-sterboholy-117533"
+},
+"https://www.msstrani.cz": {
+"jen_ms": false,
+"slug": "materska-skola-strani-612615"
+},
+"https://www.msstraznice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-straznice-607247"
+},
+"https://www.msstribrniky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-stribrniky-569493"
+},
+"https://www.msstudankapce.cz": {
+"jen_ms": false,
+"slug": "ms-studanka-pardubice-119145"
+},
+"https://www.msstudenka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-studenka-625598"
+},
+"https://www.msterronska.cz": {
+"jen_ms": false,
+"slug": "materska-skola-terronska-401756"
+},
+"https://www.mstesov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-uhersky-brod-613140"
+},
+"https://www.mstgm.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cesky-krumlov-531534"
+},
+"https://www.mstrebihost.cz": {
+"jen_ms": false,
+"slug": "materska-skola-radost-588374"
+},
+"https://www.mstrutnov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-trutnov-589044"
+},
+"https://www.mstynec.cz": {
+"jen_ms": false,
+"slug": "materska-skola-tynec-nad-sazavou-510529"
+},
+"https://www.msudvora.cz": {
+"jen_ms": false,
+"slug": "materska-skola-letohrad-590191"
+},
+"https://www.msuhrineves.cz": {
+"jen_ms": false,
+"slug": "materska-skola-za-nadymacem-248273"
+},
+"https://www.msuhumpolky.cz": {
+"jen_ms": false,
+"slug": "materska-skola-tisnov-603993"
+},
+"https://www.msusluncove.cz": {
+"jen_ms": false,
+"slug": "materska-skola-u-sluncove-503417"
+},
+"https://www.msusplavu.cz": {
+"jen_ms": false,
+"slug": "materska-skola-breclav-604434"
+},
+"https://www.msval.cz": {
+"jen_ms": false,
+"slug": "materska-skola-val-585863"
+},
+"https://www.msvaly.cz": {
+"jen_ms": false,
+"slug": "materska-skola-chrudim-581957"
+},
+"https://www.msvchynice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vchynice-565595"
+},
+"https://www.msvelka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-velka-nad-velickou-607956"
+},
+"https://www.msvelkekarlovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-velke-karlovice-634368"
+},
+"https://www.msvelkepopovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-velke-popovice-516497"
+},
+"https://www.msvelkeporici.cz": {
+"jen_ms": false,
+"slug": "materska-skola-velke-porici-000083"
+},
+"https://www.msvelkysenov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-velky-senov-561743"
+},
+"https://www.msvemyslice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vemyslice-614642"
+},
+"https://www.msvenkov.cz": {
+"jen_ms": false,
+"slug": "svazkova-materska-skola-venkov-103494"
+},
+"https://www.msvestinu.cz": {
+"jen_ms": false,
+"slug": "materska-skola-ve-stinu-504235"
+},
+"https://www.msvh.cz": {
+"jen_ms": false,
+"slug": "materska-skola-velke-hamry-563754"
+},
+"https://www.msvimperk.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vimperk-534347"
+},
+"https://www.msvinarskaul.cz": {
+"jen_ms": false,
+"slug": "materska-skola-usti-nad-labem-569027"
+},
+"https://www.msvlkava.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vlkava-514346"
+},
+"https://www.msvodochody.cz": {
+"jen_ms": false,
+"slug": "ms-vodochody-094819"
+},
+"https://www.msvokovicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vokovicka-502739"
+},
+"https://www.msvolyne.cz": {
+"jen_ms": false,
+"slug": "materska-skola-volyne-535017"
+},
+"https://www.msvracov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vracov-607417"
+},
+"https://www.msvrapicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kladno-511436"
+},
+"https://www.msvsetaty.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vsetaty-518236"
+},
+"https://www.msvysoka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vysoka-nad-labem-581442"
+},
+"https://www.msvzapoli.cz": {
+"jen_ms": false,
+"slug": "materska-skola-v-zapoli-501287"
+},
+"https://www.msvzeleni.cz": {
+"jen_ms": false,
+"slug": "materska-skola-usti-nad-labem-053683"
+},
+"https://www.mszahradnipraha10.cz": {
+"jen_ms": false,
+"slug": "materska-skola-chmelova-504260"
+},
+"https://www.mszbraslav.cz": {
+"jen_ms": false,
+"slug": "ms-zbraslav-502119"
+},
+"https://www.mszdemyslice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zdemyslice-543982"
+},
+"https://www.mszdirec.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zdirec-608022"
+},
+"https://www.mszilov.cz": {
+"jen_ms": false,
+"slug": "ms-zilov-544652"
+},
+"https://www.mszitenice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zitenice-566095"
+},
+"https://www.mszlin.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zlin-605571"
+},
+"https://www.mszm.cz": {
+"jen_ms": false,
+"slug": "materska-skola-mozaika-157241"
+},
+"https://www.mszscernopolni.cz": {
+"jen_ms": true,
+"slug": "ms-a-zs-pri-fakultni-nemocnici-brno-156578"
+},
+"https://www.mszsnaceste.cz": {
+"jen_ms": true,
+"slug": "materska-skola-a-zakladni-skola-na-ceste-096714"
+},
+"https://www.mszvonecek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zvonecek-569515"
+},
+"https://www.mtspastelka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pastelka-053351"
+},
+"https://www.mubor.cz": {
+"jen_ms": true,
+"slug": "materska-skola-bor-000259"
+},
+"https://www.mzs-vb.cz": {
+"jen_ms": true,
+"slug": "masarykova-zakladni-skola-a-ms-627973"
+},
+"https://www.mzsb.cz": {
+"jen_ms": true,
+"slug": "masarykova-zakladni-skola-a-ms-623081"
+},
+"https://www.mzskrupka.cz": {
+"jen_ms": true,
+"slug": "masarykova-zs-a-ms-568489"
+},
+"https://www.napasece.net": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-na-pasece-125382"
+},
+"https://www.narodka.cz": {
+"jen_ms": true,
+"slug": "zs-a-montessori-ms-prachatice-123827"
+},
+"https://www.nasemisto.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kolma-133130"
+},
+"https://www.nasmetance.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-na-smetance-500256"
+},
+"https://www.nautis.cz": {
+"jen_ms": true,
+"slug": "ms-pri-narodnim-ustavu-pro-autismus-056721"
+},
+"https://www.nej.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pohadka-000841"
+},
+"https://www.nelumboeducation.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-nelumbo-education-021862"
+},
+"https://www.nemcickyubrna.cz": {
+"jen_ms": true,
+"slug": "materska-skola-nemcicky-603578"
+},
+"https://www.nemmk.cz": {
+"jen_ms": true,
+"slug": "mestska-nemocnice-mestec-kralove-071878"
+},
+"https://www.nemoricany.cz": {
+"jen_ms": true,
+"slug": "materska-skola-a-zakladni-skola-nemo-037483"
+},
+"https://www.nenkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nenkovice-607468"
+},
+"https://www.neratov.cz": {
+"jen_ms": true,
+"slug": "ms-svetylko-031957"
+},
+"https://www.nesovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nesovice-613531"
+},
+"https://www.nezabylice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-nezabylice-200537"
+},
+"https://www.nmnm.cz": {
+"jen_ms": true,
+"slug": "materska-skola-nove-mesto-na-morave-616386"
+},
+"https://www.novaveszsams.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nova-ves-042078"
+},
+"https://www.novykramolin.cz": {
+"jen_ms": true,
+"slug": "ms-novy-kramolin-540436"
+},
+"https://www.nupaky.info": {
+"jen_ms": true,
+"slug": "materska-skola-klubicko-012928"
+},
+"https://www.o2.cz": {
+"jen_ms": true,
+"slug": "materska-skola-jirikov-000108"
+},
+"https://www.obec-bela.cz": {
+"jen_ms": true,
+"slug": "materska-skola-bela-nad-svitavou-000591"
+},
+"https://www.obec-lhotka.eu": {
+"jen_ms": true,
+"slug": "materska-skola-lhotka-621916"
+},
+"https://www.obec-neumetely.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-neumetely-511086"
+},
+"https://www.obecjestrabi.cz": {
+"jen_ms": true,
+"slug": "materska-skola-jestrabi-606097"
+},
+"https://www.obeckozojedy.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kozojedy-512333"
+},
+"https://www.obeckrasna.cz": {
+"jen_ms": true,
+"slug": "materska-skola-krasna-040115"
+},
+"https://www.obecmachova.cz": {
+"jen_ms": true,
+"slug": "materska-skola-machova-605821"
+},
+"https://www.obecparsovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-parsovice-631814"
+},
+"https://www.obecpatek.cz": {
+"jen_ms": true,
+"slug": "materska-skola-patek-515423"
+},
+"https://www.obecpluhuvzdar.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pluhuv-zdar-532727"
+},
+"https://www.obecpohled.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pohled-580322"
+},
+"https://www.obecrecice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-recice-075961"
+},
+"https://www.obecrokytnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rokytnice-631822"
+},
+"https://www.obecsobinov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sobinov-580420"
+},
+"https://www.obectechlovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-techlovice-581400"
+},
+"https://www.olesnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mesta-olesnice-600382"
+},
+"https://www.olesnice.net": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-v-olesnici-v-orlickych-horach-048108"
+},
+"https://www.opalinka.cz": {
+"jen_ms": true,
+"slug": "opalinka-materska-skola-a-jesle-069776"
+},
+"https://www.orlickepodhuri.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-orlicke-podhuri-589591"
+},
+"https://www.otaslavice.cz": {
+"jen_ms": true,
+"slug": "zs-npor-letectva-j-frantiska-a-ms-610281"
+},
+"https://www.pacejov.cz": {
+"jen_ms": true,
+"slug": "ms-pacejov-542749"
+},
+"https://www.pampeliska-skolka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-pampeliska-hady-ds11306"
+},
+"https://www.paraplicko-havirov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-paraplicko-337389"
+},
+"https://www.pastelka.cz": {
+"jen_ms": true,
+"slug": "ms-pastelka-584654"
+},
+"https://www.paventia.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-paventia-ds01120"
+},
+"https://www.perrotthillprague.cz": {
+"jen_ms": true,
+"slug": "perrott-hill-ms-zs-a-gymnazium-007177"
+},
+"https://www.petrikov-obec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-petrikov-109271"
+},
+"https://www.pididomek.com": {
+"jen_ms": true,
+"slug": "materska-skola-pididomek-103681"
+},
+"https://www.pixio.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-policna-276-009232"
+},
+"https://www.plasy.cz": {
+"jen_ms": true,
+"slug": "materska-skola-plasy-544750"
+},
+"https://www.pobezovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pobezovice-540398"
+},
+"https://www.pocatky.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pocatky-533308"
+},
+"https://www.podbuky.cz": {
+"jen_ms": true,
+"slug": "soukroma-ms-pod-buky-058278"
+},
+"https://www.podhurou.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cista-u-horek-586126"
+},
+"https://www.pokrikov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pokrikov-582279"
+},
+"https://www.popovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-popovice-612763"
+},
+"https://www.porg.cz": {
+"jen_ms": true,
+"slug": "porg-gymnazium-zs-a-ms-145073"
+},
+"https://www.potec.cz": {
+"jen_ms": true,
+"slug": "materska-skola-potec-606186"
+},
+"https://www.predslav.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-predslav-542773"
+},
+"https://www.prestavlky-rce.cz": {
+"jen_ms": true,
+"slug": "materska-skola-u-lesa-125391"
+},
+"https://www.pribram.eu": {
+"jen_ms": true,
+"slug": "materska-skola-28-rijna-55-000808"
+},
+"https://www.pribyslav.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pribyslav-007243"
+},
+"https://www.prigo.cz": {
+"jen_ms": true,
+"slug": "prigo-materska-skola-032724"
+},
+"https://www.prima-skolka.cz": {
+"jen_ms": false,
+"slug": "prima-materska-skola-631091"
+},
+"https://www.prointepo.org": {
+"jen_ms": true,
+"slug": "prointepo-ss-zs-a-ms-032349"
+},
+"https://www.prosenickalhota.cz": {
+"jen_ms": true,
+"slug": "materska-skola-lipanek-058383"
+},
+"https://www.prosimerice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-prosimerice-614499"
+},
+"https://www.prysk.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prysk-560551"
+},
+"https://www.przedszkolejablonkow.com": {
+"jen_ms": false,
+"slug": "materska-skola-przedszkole-jablunkov-621851"
+},
+"https://www.psp.bledowice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-s-polskym-jazykem-vyucovacim-havirov-623404"
+},
+"https://www.pspsuchagorna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-s-p-j-v-623439"
+},
+"https://www.pvskoly.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prostejov-611023"
+},
+"https://www.pzshnojnik.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-s-p-j-v-jana-kubisze-621738"
+},
+"https://www.pzskarvina.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-s-p-j-v-623668"
+},
+"https://www.rajecko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rajecko-019324"
+},
+"https://www.ratmerice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-ratmerice-000430"
+},
+"https://www.rezacova.cz": {
+"jen_ms": true,
+"slug": "materska-skola-brno-601940"
+},
+"https://www.riegrovka.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-svitavy-riegrova-4-040127"
+},
+"https://www.rimov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rimov-530759"
+},
+"https://www.rodinka.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-jasinka-ds00618"
+},
+"https://www.rokytnicevoh.cz": {
+"jen_ms": true,
+"slug": "materska-skola-rokytnice-v-orlickych-horach-585693"
+},
+"https://www.rosnicanda.eu": {
+"jen_ms": true,
+"slug": "materska-skola-pardubice-rosice-nad-labem-584913"
+},
+"https://www.rovensko-morava.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rovensko-633281"
+},
+"https://www.rovensko.cz": {
+"jen_ms": true,
+"slug": "materska-skola-rovensko-pod-troskami-586266"
+},
+"https://www.rozmarynova.cz": {
+"jen_ms": true,
+"slug": "soukroma-materska-skola-a-zakladni-skola-brno-042880"
+},
+"https://www.rps.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-studenky-632951"
+},
+"https://www.safirka.cz": {
+"jen_ms": true,
+"slug": "ms-safirka-024039"
+},
+"https://www.salmovka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-blansko-600722"
+},
+"https://www.santoska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-u-santosky-005628"
+},
+"https://www.schekonom.cz": {
+"jen_ms": true,
+"slug": "materska-skola-okrouhla-541220"
+},
+"https://www.secr.cz": {
+"jen_ms": true,
+"slug": "ms-kvitek-018420"
+},
+"https://www.sezampv.cz": {
+"jen_ms": true,
+"slug": "stredni-skola-prostejov-019677"
+},
+"https://www.sezimovo-usti.cz": {
+"jen_ms": true,
+"slug": "materska-skola-sezimovo-usti-535378"
+},
+"https://www.skalicenadsvitavou.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-skalice-nad-svitavou-004401"
+},
+"https://www.skaut.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-medvidata-096293"
+},
+"https://www.skipi.cz": {
+"jen_ms": true,
+"slug": "ms-skipi-097699"
+},
+"https://www.skola-bechlin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bechlin-565129"
+},
+"https://www.skola-bitozeves.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bitozeves-566231"
+},
+"https://www.skola-brozany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brozany-nad-ohri-565112"
+},
+"https://www.skola-hradistko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradistko-069229"
+},
+"https://www.skola-idea.cz": {
+"jen_ms": true,
+"slug": "cesko-ang-montessori-zs-a-ms-idea-083914"
+},
+"https://www.skola-jirice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jirice-533049"
+},
+"https://www.skola-jsk.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-pri-laznich-005333"
+},
+"https://www.skola-kobyla.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kobyla-nad-vidnavkou-010583"
+},
+"https://www.skola-kocianka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-a-zakladni-skola-kocianka-157817"
+},
+"https://www.skola-kostelec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kostelec-608260"
+},
+"https://www.skola-krajkova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-krajkova-545900"
+},
+"https://www.skola-loucany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-loucany-626799"
+},
+"https://www.skola-morasice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-morasice-019647"
+},
+"https://www.skola-nk.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-novy-kostel-541076"
+},
+"https://www.skola-olesna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olesna-518295"
+},
+"https://www.skola-oudolen.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-oudolen-580314"
+},
+"https://www.skola-straz.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-straz-nad-nisou-564556"
+},
+"https://www.skola-supikovice.info": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-supikovice-633116"
+},
+"https://www.skola-uhrice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-uhrice-607425"
+},
+"https://www.skola-zdar.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zdar-514559"
+},
+"https://www.skolabasic.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-basic-009285"
+},
+"https://www.skolabaska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-baska-621304"
+},
+"https://www.skolabelkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-belkovice-lastany-626187"
+},
+"https://www.skolabezhranic.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-bez-hranic-518333"
+},
+"https://www.skolabezverov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bezverov-544482"
+},
+"https://www.skolabilypotok.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bily-potok-402059"
+},
+"https://www.skolabno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bernartice-nad-odrou-625164"
+},
+"https://www.skolaboretice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-boretice-400789"
+},
+"https://www.skolacechypk.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cechy-pod-kosirem-609967"
+},
+"https://www.skolacejov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cejov-500487"
+},
+"https://www.skolacestlice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cestlice-013550"
+},
+"https://www.skolacitadela.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-citadela-136198"
+},
+"https://www.skoladavinci.cz": {
+"jen_ms": true,
+"slug": "ss-zs-a-ms-da-vinci-016559"
+},
+"https://www.skoladebr.cz": {
+"jen_ms": true,
+"slug": "masarykova-zs-a-ms-006758"
+},
+"https://www.skoladobravoda.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dobra-voda-616114"
+},
+"https://www.skoladolany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolany-542447"
+},
+"https://www.skolaejpovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ejpovice-545268"
+},
+"https://www.skolaelpis.cz": {
+"jen_ms": true,
+"slug": "ms-specialni-zs-specialni-a-prs-elpis-160095"
+},
+"https://www.skolaflow.cz": {
+"jen_ms": false,
+"slug": "materska-skola-little-flow-019167"
+},
+"https://www.skolafren.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-frenstat-pod-radhostem-626110"
+},
+"https://www.skolafrydlant.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-frydlant-563959"
+},
+"https://www.skolagaudi.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-gaudi-110474"
+},
+"https://www.skolagj.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-golcuv-jenikov-580080"
+},
+"https://www.skolahermanov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hermanov-562120"
+},
+"https://www.skolaholetin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-holetin-582031"
+},
+"https://www.skolahosin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hosin-530546"
+},
+"https://www.skolahrabova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hrabova-005733"
+},
+"https://www.skolahradecns.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradec-nad-svitavou-587309"
+},
+"https://www.skolahrozenkov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stary-hrozenkov-612593"
+},
+"https://www.skolajerabinka.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-jerabinka-063140"
+},
+"https://www.skolajh.cz": {
+"jen_ms": true,
+"slug": "materska-skola-jindrichuv-hradec-002113"
+},
+"https://www.skolajivova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jivova-626560"
+},
+"https://www.skolajj.cz": {
+"jen_ms": true,
+"slug": "skola-j-jezka-ms-zs-prs-a-zus-pro-zp-350324"
+},
+"https://www.skolakarlstejn.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-karlstejn-510837"
+},
+"https://www.skolaklic.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-mater-skola-klic-029115"
+},
+"https://www.skolakoberice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-koberice-628384"
+},
+"https://www.skolakojetice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kojetice-515911"
+},
+"https://www.skolakozlovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kozlovice-621908"
+},
+"https://www.skolakr.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pardubice-500542"
+},
+"https://www.skolakraslice.cz": {
+"jen_ms": true,
+"slug": "stredni-skola-zaklad-skola-a-mater-skola-545551"
+},
+"https://www.skolakucharovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kucharovice-614791"
+},
+"https://www.skolakunratice.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kunratice-563975"
+},
+"https://www.skolalb.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lazne-bohdanec-584522"
+},
+"https://www.skolalhenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lhenice-534550"
+},
+"https://www.skolaline.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-line-544661"
+},
+"https://www.skolalipno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lipno-nad-vltavou-531836"
+},
+"https://www.skolamanesova.cz": {
+"jen_ms": true,
+"slug": "smp-manesova-gymnazium-zs-a-ms-005395"
+},
+"https://www.skolamedlov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-medlov-603560"
+},
+"https://www.skolananamesti.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-metylovice-500431"
+},
+"https://www.skolanovaves.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nova-ves-nad-popelkou-586479"
+},
+"https://www.skolaorel.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-orel-582350"
+},
+"https://www.skolapist.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pist-629259"
+},
+"https://www.skolapolepy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-polepy-565650"
+},
+"https://www.skolapolevsko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-polevsko-560542"
+},
+"https://www.skolapozdechov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pozdechov-009780"
+},
+"https://www.skolapozlovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pozlovice-605805"
+},
+"https://www.skolapraporiste.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-praporiste-000241"
+},
+"https://www.skolaprerovnl.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prerov-nad-labem-515644"
+},
+"https://www.skolaprisnotice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prisnotice-040318"
+},
+"https://www.skolaprodeti.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-strilky-101925"
+},
+"https://www.skolaprosenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prosenice-631598"
+},
+"https://www.skolarackova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rackova-605694"
+},
+"https://www.skolaradonice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-radonice-516268"
+},
+"https://www.skolarataje.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rataje-609452"
+},
+"https://www.skolarevnicov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-revnicov-075806"
+},
+"https://www.skolaruda.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-karla-klostermanna-542919"
+},
+"https://www.skolarymice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rymice-609053"
+},
+"https://www.skolasanov.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sanov-606020"
+},
+"https://www.skolasaratice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-saratice-613662"
+},
+"https://www.skolascv.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stara-cervena-voda-632934"
+},
+"https://www.skolasivice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sivice-603691"
+},
+"https://www.skolaskalice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-frydek-mistek-skalice-192-622262"
+},
+"https://www.skolaslatina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-slatina-nad-zdobnici-585758"
+},
+"https://www.skolaslavkov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-slavkov-628911"
+},
+"https://www.skolasojovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sojovice-514770"
+},
+"https://www.skolasrch.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-srch-584948"
+},
+"https://www.skolastaremesto.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stare-mesto-017405"
+},
+"https://www.skolastarhill.cz": {
+"jen_ms": true,
+"slug": "komunitni-zakladni-skola-starhill-014726"
+},
+"https://www.skolastrahovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-strahovice-628163"
+},
+"https://www.skolastrazov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-strazov-542838"
+},
+"https://www.skolasuchdol.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-suchdol-nad-odrou-625636"
+},
+"https://www.skolasvatava.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svatava-546001"
+},
+"https://www.skolatachlovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tachlovice-516951"
+},
+"https://www.skolaterlicko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-terlicko-029049"
+},
+"https://www.skolatunechody.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tunechody-582490"
+},
+"https://www.skolauvalno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uvalno-620839"
+},
+"https://www.skolauzice.info": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uzice-048114"
+},
+"https://www.skolavelkyujezd.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velky-ujezd-627680"
+},
+"https://www.skolavkobericich.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-koberice-u-brna-613565"
+},
+"https://www.skolavltavice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-horni-vltavice-534169"
+},
+"https://www.skolavolduchy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-volduchy-545314"
+},
+"https://www.skolavranovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vranovice-605082"
+},
+"https://www.skolavyskytna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vyskytna-nad-jihlavou-608529"
+},
+"https://www.skolazlatakoruna.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-antonina-boroveho-zlata-koruna-026813"
+},
+"https://www.skolazzkromeriz.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-pri-zdrav-zarizeni-004744"
+},
+"https://www.skolka-marsovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-marsovice-81-563355"
+},
+"https://www.skolka-pastelka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-pastelka-615193"
+},
+"https://www.skolka-pohoda.cz": {
+"jen_ms": false,
+"slug": "materska-skola-lohniskeho-502097"
+},
+"https://www.skolka-praminek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-praminek-631750"
+},
+"https://www.skolka-rosice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zamecka-603802"
+},
+"https://www.skolka-slunicko.cz": {
+"jen_ms": false,
+"slug": "soukroma-materska-skola-slunicko-062046"
+},
+"https://www.skolka.org": {
+"jen_ms": false,
+"slug": "fakultni-ms-se-spec-peci-502712"
+},
+"https://www.skolkabenjaminek.cz": {
+"jen_ms": false,
+"slug": "ms-benjaminek-049431"
+},
+"https://www.skolkabroumov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-broumov-583411"
+},
+"https://www.skolkabystrouska.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-liska-bystrouska-070057"
+},
+"https://www.skolkactyrlistek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-kolin-iv-663654"
+},
+"https://www.skolkaeduart.cz": {
+"jen_ms": false,
+"slug": "materska-skola-eda-122294"
+},
+"https://www.skolkafoxies.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-foxies-ds10880"
+},
+"https://www.skolkahabartov.cz": {
+"jen_ms": false,
+"slug": "materska-skola-habartov-545888"
+},
+"https://www.skolkahvezdicka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-hvezdicka-024942"
+},
+"https://www.skolkamasarykova.cz": {
+"jen_ms": false,
+"slug": "masarykova-materska-skola-roudnice-nad-labem-565706"
+},
+"https://www.skolkamt.cz": {
+"jen_ms": false,
+"slug": "ii-materska-skola-040143"
+},
+"https://www.skolkanavlne.cz": {
+"jen_ms": true,
+"slug": "montessori-skola-na-vlne-ms-a-zs-120763"
+},
+"https://www.skolkaobora.cz": {
+"jen_ms": false,
+"slug": "materska-skola-obora-544555"
+},
+"https://www.skolkapraminek.cz": {
+"jen_ms": false,
+"slug": "materska-skola-praminek-564220"
+},
+"https://www.skolkasedmikraska.cz": {
+"jen_ms": false,
+"slug": "soukroma-ms-sedmikraska-022757"
+},
+"https://www.skolkasumperk.cz": {
+"jen_ms": false,
+"slug": "materska-skola-boruvka-054701"
+},
+"https://www.skolkasvatojanek.cz": {
+"jen_ms": false,
+"slug": "cirkevni-materska-skola-svatojanek-019604"
+},
+"https://www.skolkatuchlovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-tuchlovice-512041"
+},
+"https://www.skolkaulesa.cz": {
+"jen_ms": false,
+"slug": "2-materska-skola-horni-briza-545063"
+},
+"https://www.skolkavazka.cz": {
+"jen_ms": false,
+"slug": "lesni-materska-skola-093511"
+},
+"https://www.skolkavenku.cz": {
+"jen_ms": false,
+"slug": "lesni-materska-skola-jablonec-nad-nisou-prosec-nad-nisou-007371"
+},
+"https://www.skolkavm.cz": {
+"jen_ms": false,
+"slug": "materska-skola-velke-mezirici-615916"
+},
+"https://www.skolkavuvalu.cz": {
+"jen_ms": false,
+"slug": "ms-v-uvalu-072767"
+},
+"https://www.skolkavyhlidka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-valasske-mezirici-863765"
+},
+"https://www.skolkavzahrade.cz": {
+"jen_ms": false,
+"slug": "skolka-v-zahrade-lesni-ms-099535"
+},
+"https://www.skolky-ltm.cz": {
+"jen_ms": false,
+"slug": "ms-litomerice-000035"
+},
+"https://www.skoly-ekolandia.cz": {
+"jen_ms": false,
+"slug": "ekolandia-sk-catering-zus-a-ms-037998"
+},
+"https://www.skolybrezova.eu": {
+"jen_ms": true,
+"slug": "skoly-brezova-sos-zs-a-ms-612348"
+},
+"https://www.skolydesna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-mater-skola-udoli-desne-104041"
+},
+"https://www.skolymach.cz": {
+"jen_ms": true,
+"slug": "odborna-skola-zaklad-skola-a-mater-skola-035405"
+},
+"https://www.skotnice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-skotnice-625466"
+},
+"https://www.sluch-ol.cz": {
+"jen_ms": true,
+"slug": "ss-zs-a-ms-pro-sluchove-postizene-022602"
+},
+"https://www.sluchpost-plzen.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-pro-sluchove-postizene-778153"
+},
+"https://www.sluchpostcb.cz": {
+"jen_ms": true,
+"slug": "ms-zs-a-ss-pro-sluchove-postizene-075961"
+},
+"https://www.slunce.info": {
+"jen_ms": true,
+"slug": "soukroma-ms-zs-a-ss-slunce-023995"
+},
+"https://www.slunicko-krnov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-slunicko-620359"
+},
+"https://www.slunickoskolka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slunicko-568128"
+},
+"https://www.smartkids-skolky.cz": {
+"jen_ms": false,
+"slug": "ms-smartkids-nademlejnska-068613"
+},
+"https://www.smartkidsvelkeprilepy.cz": {
+"jen_ms": false,
+"slug": "chytra-ms-a-jesle-smartkids-091496"
+},
+"https://www.smilingcrocodile.org": {
+"jen_ms": true,
+"slug": "ms-a-zs-smiling-crocodile-045711"
+},
+"https://www.sofiaschool.cz": {
+"jen_ms": true,
+"slug": "ms-a-zs-sofia-school-060361"
+},
+"https://www.specdcbynov.cz": {
+"jen_ms": true,
+"slug": "specialni-zs-specialni-ms-a-prs-101648"
+},
+"https://www.specialni-skola.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-specialni-a-materska-skola-chomutov-562987"
+},
+"https://www.specialniskolyznojmo.cz": {
+"jen_ms": true,
+"slug": "materska-skola-znojmo-550013"
+},
+"https://www.specmt.com": {
+"jen_ms": true,
+"slug": "specialni-zakladni-skola-moravska-trebova-88251"
+},
+"https://www.specskolanj.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-specialni-a-materska-skola-specialni-novy-jicin-008928"
+},
+"https://www.sporilovskams.cz": {
+"jen_ms": false,
+"slug": "sporilovska-materska-skola-501589"
+},
+"https://www.sportikbaby.cz": {
+"jen_ms": true,
+"slug": "materska-skola-sportik-049678"
+},
+"https://www.spzs-skutec.cz": {
+"jen_ms": true,
+"slug": "specialni-zakladni-skola-luze-142742"
+},
+"https://www.srdickoliberec.cz": {
+"jen_ms": true,
+"slug": "materska-skola-srdicko-000816"
+},
+"https://www.ssams.cz": {
+"jen_ms": false,
+"slug": "stredni-skola-a-materska-skola-liberec-052458"
+},
+"https://www.sss-ou.cz": {
+"jen_ms": true,
+"slug": "ss-zs-a-ms-pro-zdravotne-znevyhodnene-157370"
+},
+"https://www.stachy.net": {
+"jen_ms": true,
+"slug": "zs-zus-a-ms-stachy-prisp-organizace-534584"
+},
+"https://www.stechovice.info": {
+"jen_ms": true,
+"slug": "materska-skola-stechovice-516934"
+},
+"https://www.stefcova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradec-kralove-581086"
+},
+"https://www.stibrova.cz": {
+"jen_ms": true,
+"slug": "ms-specialni-350774"
+},
+"https://www.strizovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-strizovice-532832"
+},
+"https://www.stromik.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-stromik-118335"
+},
+"https://www.strupcice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-strupcice-562588"
+},
+"https://www.sumperkmsslunicko.cz": {
+"jen_ms": false,
+"slug": "materska-skola-slunicko-sumperk-633612"
+},
+"https://www.sunnycanadian.cz": {
+"jen_ms": true,
+"slug": "sunny-canadian-international-school-034476"
+},
+"https://www.svabenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svabenice-613921"
+},
+"https://www.svemyslice.eu": {
+"jen_ms": true,
+"slug": "materska-skola-svemyslice-039141"
+},
+"https://www.svethostingu.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bohumin-tr-dr-e-benese-456-101520"
+},
+"https://www.svetnov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svetnov-616319"
+},
+"https://www.svjiri.cz": {
+"jen_ms": true,
+"slug": "materska-skola-pri-nemocnici-u-sv-jiri-093120"
+},
+"https://www.svojsin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svojsin-546698"
+},
+"https://www.svratka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svratka-616432"
+},
+"https://www.svratouch.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svratouch-010745"
+},
+"https://www.szspolicka.cz": {
+"jen_ms": true,
+"slug": "specialni-ms-a-zs-policka-092247"
+},
+"https://www.tauslovka.cz": {
+"jen_ms": true,
+"slug": "materska-skola-letohrad-589516"
+},
+"https://www.tcservis.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sazovice-500937"
+},
+"https://www.telekom.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-radun-628856"
+},
+"https://www.teplicenb.cz": {
+"jen_ms": true,
+"slug": "materska-skola-praminek-080800"
+},
+"https://www.tesetice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-tesetice-614502"
+},
+"https://www.tgmbilovec.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-t-g-masaryka-624796"
+},
+"https://www.tiptoes.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-tip-toes-060647"
+},
+"https://www.tisice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-vcelicka-513781"
+},
+"https://www.topolna.cz": {
+"jen_ms": true,
+"slug": "materska-skola-topolna-612640"
+},
+"https://www.trebizskeho.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kralupy-nad-vltavou-006111"
+},
+"https://www.trojlistek.cz": {
+"jen_ms": true,
+"slug": "materska-skola-trojlistek-novy-jicin-625890"
+},
+"https://www.tul.cz": {
+"jen_ms": true,
+"slug": "univerzitni-materska-skola-skatulka-technicke-univerzity-v-liberci-005034"
+},
+"https://www.tupolevka.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-tupolevova-001407"
+},
+"https://www.tvaroznalhota.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-tvarozna-lhota-036622"
+},
+"https://www.tvrdonice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-tvrdonice-604841"
+},
+"https://www.tyrsova.cz": {
+"jen_ms": true,
+"slug": "tyrsova-zakladni-skola-a-materska-skola-006080"
+},
+"https://www.ulesakarvina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-u-lesa-623846"
+},
+"https://www.umominky.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-u-mominky-budejovicka-ds01486"
+},
+"https://www.uskolskezahrady.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-u-skolske-zahrady-006152"
+},
+"https://www.ustudny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-u-studny-624605"
+},
+"https://www.utb.cz": {
+"jen_ms": true,
+"slug": "univerzitni-materska-skola-qocna-047624"
+},
+"https://www.utechov.cz": {
+"jen_ms": true,
+"slug": "materska-skola-utechov-587686"
+},
+"https://www.uvrbicek.cz": {
+"jen_ms": true,
+"slug": "ms-a-zs-u-vrbicek-023504"
+},
+"https://www.val-mez.cz": {
+"jen_ms": true,
+"slug": "ms-zs-a-ss-pro-sluchove-postizene-843598"
+},
+"https://www.vcelna.cz": {
+"jen_ms": true,
+"slug": "materska-skola-vcelna-000221"
+},
+"https://www.velenov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velenov-118181"
+},
+"https://www.velkachyska.cz": {
+"jen_ms": true,
+"slug": "materska-skola-velka-chyska-533324"
+},
+"https://www.velkealbrechtice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velke-albrechtice-624834"
+},
+"https://www.velkekunetice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-velke-kunetice-633124"
+},
+"https://www.vermerovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-vermerovice-057555"
+},
+"https://www.veselaskolka.cz": {
+"jen_ms": false,
+"slug": "vesela-skolka-ms-stodulky-044820"
+},
+"https://www.vialibertatis.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-via-libertatis-067234"
+},
+"https://www.vikikidsclub.cz": {
+"jen_ms": false,
+"slug": "materska-skola-viki-kids-club-013665"
+},
+"https://www.vilemov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vilemov-561751"
+},
+"https://www.villaluna.cz": {
+"jen_ms": true,
+"slug": "villa-luna-materska-skola-057158"
+},
+"https://www.vitkovicevkrk.cz": {
+"jen_ms": true,
+"slug": "krkonosska-zakladni-skola-a-ms-700631"
+},
+"https://www.vitkovms.cz": {
+"jen_ms": false,
+"slug": "materska-skola-vitkov-629127"
+},
+"https://www.vlachovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-vlachovice-606241"
+},
+"https://www.vozova5.cz": {
+"jen_ms": true,
+"slug": "materska-skola-vozova-500566"
+},
+"https://www.vrabcihnizdo.cz": {
+"jen_ms": true,
+"slug": "lesni-materska-skola-vrabci-hnizdo-110431"
+},
+"https://www.vrcen.cz": {
+"jen_ms": true,
+"slug": "ms-vrcen-544415"
+},
+"https://www.vrchotovyjanovice-skola.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vrchotovy-janovice-510405"
+},
+"https://www.vsb.cz": {
+"jen_ms": true,
+"slug": "univerzitni-materska-skola-vsb-tuo-047829"
+},
+"https://www.vymolova.cz": {
+"jen_ms": true,
+"slug": "ss-zs-a-ms-pro-sluchove-postizene-011015"
+},
+"https://www.vysoke-myto.cz": {
+"jen_ms": true,
+"slug": "materska-skola-kamaradi-590492"
+},
+"https://www.vysokepopovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vysoke-popovice-102908"
+},
+"https://www.vysokeveseli.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vysoke-veseli-583071"
+},
+"https://www.wauskola.cz": {
+"jen_ms": true,
+"slug": "wau-skola-radec-zs-a-ms-015111"
+},
+"https://www.websoft.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bela-pod-pradedem-632349"
+},
+"https://www.wmsdusikova.cz": {
+"jen_ms": false,
+"slug": "waldorfska-materska-skola-502500"
+},
+"https://www.zacit-spolu.cz": {
+"jen_ms": true,
+"slug": "materska-skola-zacit-spolu-058944"
+},
+"https://www.zahornice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zahornice-515601"
+},
+"https://www.zahradkaslapanice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-zahradka-603845"
+},
+"https://www.zakladniskolaprusanky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prusanky-607581"
+},
+"https://www.zaryby.cz": {
+"jen_ms": true,
+"slug": "materska-skola-zaryby-prisp-organizace-010704"
+},
+"https://www.zdravaskolka.cz": {
+"jen_ms": false,
+"slug": "materska-skola-zdravi-014475"
+},
+"https://www.zelec.cz": {
+"jen_ms": true,
+"slug": "materska-skola-zelec-610744"
+},
+"https://www.zidovice.cz": {
+"jen_ms": true,
+"slug": "materska-skola-zidovice-103788"
+},
+"https://www.zihobce.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zihobce-542935"
+},
+"https://www.zrakpm.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-pro-zrak-postizene-a-vady-reci-778200"
+},
+"https://www.zs-barvirska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-barvirska-017661"
+},
+"https://www.zs-borovalada.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-borova-lada-534487"
+},
+"https://www.zs-brezinova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-zabreh-630281"
+},
+"https://www.zs-chribska.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-tadease-haenkeho-561140"
+},
+"https://www.zs-delnicka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-delnicka-052245"
+},
+"https://www.zs-hornisucha.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-sucha-020333"
+},
+"https://www.zs-lipenec.eu": {
+"jen_ms": true,
+"slug": "zs-a-ms-lipenec-002281"
+},
+"https://www.zs-ms-kyjovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kyjovice-628481"
+},
+"https://www.zs-ms-lukavice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lukavice-589966"
+},
+"https://www.zs-ms-stolany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stolany-582481"
+},
+"https://www.zs-msstrazek.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-strazek-616424"
+},
+"https://www.zs-mszainvalidovnou.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-za-invalidovnou-350839"
+},
+"https://www.zs-ns2.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-namesti-svobody-006560"
+},
+"https://www.zs-ohradni.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ohradni-401578"
+},
+"https://www.zs-palackeho.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-slany-650802"
+},
+"https://www.zs-pencin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pencin-564734"
+},
+"https://www.zs-petroviceusedlcan.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-petrovice-105268"
+},
+"https://www.zs-potstat.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-potstat-631377"
+},
+"https://www.zs-prameny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prameny-623811"
+},
+"https://www.zs-proskovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-proskovice-630125"
+},
+"https://www.zs-raf.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nymburk-515181"
+},
+"https://www.zs-rajec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rajec-jestrebi-600421"
+},
+"https://www.zs-reznickova.cz": {
+"jen_ms": true,
+"slug": "fakultni-zakladni-skola-a-materska-skola-626985"
+},
+"https://www.zs-rozdalovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-g-a-lindnera-040491"
+},
+"https://www.zs-slovenska.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-slovenska-074311"
+},
+"https://www.zs-smecno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-smecno-511711"
+},
+"https://www.zs-staravesno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stara-ves-nad-ondrejnici-622319"
+},
+"https://www.zs-straky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-straky-040741"
+},
+"https://www.zs-strozziho.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-petra-strozziho-503174"
+},
+"https://www.zs-svjan.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-svaty-jan-nad-malsi-530864"
+},
+"https://www.zs-travniky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vsetin-042354"
+},
+"https://www.zs-troubsko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-troubsko-604078"
+},
+"https://www.zs-ustavni.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ustavni-005989"
+},
+"https://www.zs-zeravice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-jana-amose-komenskeho-607476"
+},
+"https://www.zs.darkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-darkovice-018681"
+},
+"https://www.zs.oparany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-oparany-535301"
+},
+"https://www.zs.slapanov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-slapanov-580411"
+},
+"https://www.zsakucery.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-hrabuvka-630435"
+},
+"https://www.zsalbrechtice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-albrechtice-623005"
+},
+"https://www.zsamsbohdalice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bohdalice-613786"
+},
+"https://www.zsamsdomazelice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-domazelice-101301"
+},
+"https://www.zsamsdrnholec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-drnholec-605163"
+},
+"https://www.zsamskastanova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-trinec-480111"
+},
+"https://www.zsamslacnov.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-lacnov-633868"
+},
+"https://www.zsamsladna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ladna-104161"
+},
+"https://www.zsamslichnov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lichnov-620545"
+},
+"https://www.zsamsmladejovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mladejovice-626764"
+},
+"https://www.zsamsnoutonice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-noutonice-088908"
+},
+"https://www.zsamsolovi.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olovi-564485"
+},
+"https://www.zsamsostrov.net": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrov-753622"
+},
+"https://www.zsamsprovodov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-provodov-101852"
+},
+"https://www.zsamsslapy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-slapy-516926"
+},
+"https://www.zsamsteplysovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-teplysovice-510359"
+},
+"https://www.zsamstesany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tesany-603934"
+},
+"https://www.zsamstouzim.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-touzim-200673"
+},
+"https://www.zsamsvesin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vesin-001154"
+},
+"https://www.zsamsvlastejovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vlastejovice-513072"
+},
+"https://www.zsamsvrchoslavice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vrchoslavice-610230"
+},
+"https://www.zsamsvysokychlumec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vysoky-chlumec-001219"
+},
+"https://www.zsamszichlinek.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-zichlinek-590344"
+},
+"https://www.zsamszirovnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zirovnice-533537"
+},
+"https://www.zsantoninska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-600986"
+},
+"https://www.zsarchlebov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-archlebov-606771"
+},
+"https://www.zsbalabenka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-na-balabence-043459"
+},
+"https://www.zsbaltimore.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-baltimore-140004"
+},
+"https://www.zsbatnovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-batnovice-587858"
+},
+"https://www.zsbecov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-becov-700807"
+},
+"https://www.zsbernartice.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bernartice-053237"
+},
+"https://www.zsberunice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-berunice-515008"
+},
+"https://www.zsbesednice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-besednice-531453"
+},
+"https://www.zsbezno.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-vaclava-vanka-514885"
+},
+"https://www.zsbezrucova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bohumin-bezrucova-190-623064"
+},
+"https://www.zsbila.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bila-006543"
+},
+"https://www.zsblazkova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601800"
+},
+"https://www.zsbnpl.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-benesov-nad-ploucnici-562090"
+},
+"https://www.zsbohdikov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bohdikov-005784"
+},
+"https://www.zsbohun.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bohunovice-626209"
+},
+"https://www.zsbory.cz": {
+"jen_ms": true,
+"slug": "zs-hany-benesove-a-ms-615436"
+},
+"https://www.zsbouzov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-materska-skola-sj-a-sd-626241"
+},
+"https://www.zsbozejov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bozejov-012225"
+},
+"https://www.zsbranky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-branky-006870"
+},
+"https://www.zsbrezany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brezany-615100"
+},
+"https://www.zsbreziny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-decin-xxvii-577749"
+},
+"https://www.zsbrtnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-aloise-toufara-v-brtnici-607981"
+},
+"https://www.zsbustehrad.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-oty-pavla-512068"
+},
+"https://www.zsbysice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bysice-513960"
+},
+"https://www.zsbzenec.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-bzenec-032728"
+},
+"https://www.zscekanice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-tabor-cekanice-prubezna-116-535441"
+},
+"https://www.zscerekvice.org": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cerekvice-nad-bystrici-582686"
+},
+"https://www.zscermaka.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-antonina-cermaka-007175"
+},
+"https://www.zscerncice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cerncice-040712"
+},
+"https://www.zscernovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cernovice-500495"
+},
+"https://www.zschodovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-holovousy-582724"
+},
+"https://www.zschotebuz.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chotebuz-623129"
+},
+"https://www.zschotoviny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chotoviny-535190"
+},
+"https://www.zschrastice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chrastice-000131"
+},
+"https://www.zschrlice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601907"
+},
+"https://www.zschuchelna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chuchelna-629313"
+},
+"https://www.zschvalsiny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chvalsiny-531640"
+},
+"https://www.zscitov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-citov-064403"
+},
+"https://www.zscsa.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bohumin-cs-armady-1026-623862"
+},
+"https://www.zsdarkovicky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hlucin-darkovicky-628287"
+},
+"https://www.zsdb.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-t-g-masaryka-a-ms-053843"
+},
+"https://www.zsdd.cz": {
+"jen_ms": true,
+"slug": "dd-prs-zs-a-ms-028074"
+},
+"https://www.zsdemlova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olomouc-901269"
+},
+"https://www.zsdestne.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-destne-v-orlickych-horach-600563"
+},
+"https://www.zsdetmarovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-detmarovice-623277"
+},
+"https://www.zsdlouha54nj.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-novy-jicin-501128"
+},
+"https://www.zsdobkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dobkovice-562065"
+},
+"https://www.zsdobravoda.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dobra-voda-u-horic-582716"
+},
+"https://www.zsdobrovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dobrovice-514389"
+},
+"https://www.zsdolany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-aloise-stepanka-626357"
+},
+"https://www.zsdolniberkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-berkovice-513421"
+},
+"https://www.zsdolnikounice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-kounice-025990"
+},
+"https://www.zsdolnikralovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-kralovice-510138"
+},
+"https://www.zsdolnilomna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-lomna-149-622696"
+},
+"https://www.zsdolniradechova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-radechova-009412"
+},
+"https://www.zsdolnislivno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-slivno-097109"
+},
+"https://www.zsdolnizandov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-zandov-540851"
+},
+"https://www.zsdomanin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-domanin-607522"
+},
+"https://www.zsdoubrava.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-doubrava-623901"
+},
+"https://www.zsdr.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolni-rozinka-012519"
+},
+"https://www.zsdritec.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-dritec-584433"
+},
+"https://www.zsdu.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-dolni-ujezd-586884"
+},
+"https://www.zsdub.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dub-534398"
+},
+"https://www.zsdubenec.cz": {
+"jen_ms": true,
+"slug": "zs-dukelskych-bojovniku-a-ms-588005"
+},
+"https://www.zsdubicko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dubicko-005709"
+},
+"https://www.zsdubne.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dubne-530481"
+},
+"https://www.zsdvorskeho.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-belsky-les-024911"
+},
+"https://www.zselektra.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-elektra-142473"
+},
+"https://www.zsfrymburk.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-frymburk-531674"
+},
+"https://www.zsgocarova.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-josefa-gocara-100533"
+},
+"https://www.zshamr.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-litvinov-hamr-133067"
+},
+"https://www.zshejnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hejnice-564025"
+},
+"https://www.zshelsinska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tabor-582883"
+},
+"https://www.zsherbenova.cz": {
+"jen_ms": true,
+"slug": "materska-skola-a-zakladni-skola-breclav-251172"
+},
+"https://www.zshluk.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-hluk-prispevkova-612399"
+},
+"https://www.zshnojnik.com": {
+"jen_ms": true,
+"slug": "masarykova-zakladni-skola-a-ms-621711"
+},
+"https://www.zsholeckova.cz": {
+"jen_ms": true,
+"slug": "fakultni-zakladni-skola-a-materska-skola-832561"
+},
+"https://www.zsholice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olomouc-holice-102294"
+},
+"https://www.zsholubice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-holubice-138930"
+},
+"https://www.zshorepnik.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horepnik-013108"
+},
+"https://www.zshoricenasumave.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-v-horicich-na-sumave-531976"
+},
+"https://www.zshorka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horka-nad-moravou-626543"
+},
+"https://www.zshornibludovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-bludovice-621746"
+},
+"https://www.zshornikova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-010666"
+},
+"https://www.zshornimarsov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-marsov-588081"
+},
+"https://www.zshornimostenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-mostenice-001373"
+},
+"https://www.zshornipocaply.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-pocaply-513978"
+},
+"https://www.zshostoun.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hostoun-135523"
+},
+"https://www.zshrabenov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hrabenov-632888"
+},
+"https://www.zshrubaskala.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hruba-skala-doubravice-700606"
+},
+"https://www.zshusinec.cz": {
+"jen_ms": true,
+"slug": "zs-mistra-jana-husa-a-ms-husinec-534177"
+},
+"https://www.zshusovabrno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601397"
+},
+"https://www.zshutisko.org": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hutisko-solanec-008031"
+},
+"https://www.zsivan.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ivan-604604"
+},
+"https://www.zsjablonecnj.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-jablonec-nad-jizerou-586177"
+},
+"https://www.zsjachymov.eu": {
+"jen_ms": true,
+"slug": "zs-marie-curie-sklodowske-a-ms-541548"
+},
+"https://www.zsjanov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-litvinov-janov-701951"
+},
+"https://www.zsjaroslavice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jaroslavice-614243"
+},
+"https://www.zsjarosov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uherske-hradiste-613034"
+},
+"https://www.zsjasenna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jasenna-583631"
+},
+"https://www.zsjehnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601044"
+},
+"https://www.zsjes.cz": {
+"jen_ms": true,
+"slug": "odborne-uciliste-zakladni-skola-a-materska-skola-094088"
+},
+"https://www.zsjestrebi.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jestrebi-560313"
+},
+"https://www.zsjihomoravske.cz": {
+"jen_ms": false,
+"slug": "materska-skola-brno-465571"
+},
+"https://www.zsjimramov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jimramov-615576"
+},
+"https://www.zsjince.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jince-058365"
+},
+"https://www.zsjirasek.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradec-kralove-581591"
+},
+"https://www.zsjistebnice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-jistebnice-535246"
+},
+"https://www.zsjistebnik.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-t-g-masaryka-801132"
+},
+"https://www.zsjoklik.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-dr-joklika-006588"
+},
+"https://www.zsjosefuvdul.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-josefuv-dul-020457"
+},
+"https://www.zsjz.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-jana-zelezneho-610507"
+},
+"https://www.zskacice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kacice-511886"
+},
+"https://www.zskacov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kacov-512882"
+},
+"https://www.zskamennajbc.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jablonec-nad-nisou-000019"
+},
+"https://www.zskasejovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kasejovice-544130"
+},
+"https://www.zskatusice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-katusice-514460"
+},
+"https://www.zsklobouky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-klobouky-u-brna-604621"
+},
+"https://www.zsklobuky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-klobuky-511541"
+},
+"https://www.zsklucenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-klucenice-000387"
+},
+"https://www.zskmetineves.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kmetineves-012642"
+},
+"https://www.zsknezeves.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-knezeves-518031"
+},
+"https://www.zsknezmost.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-knezmost-514486"
+},
+"https://www.zskninice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kninice-600196"
+},
+"https://www.zskokory.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kokory-631229"
+},
+"https://www.zskolin.cz": {
+"jen_ms": true,
+"slug": "zs-ms-a-prs-638240"
+},
+"https://www.zskolinec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kolinec-542625"
+},
+"https://www.zskop17.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-koprivnice-027607"
+},
+"https://www.zskopecek.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olomouc-626608"
+},
+"https://www.zskopernikova.cz": {
+"jen_ms": true,
+"slug": "fakultni-zakladni-skola-a-materska-skola-teplice-035987"
+},
+"https://www.zskorenskeho.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-korenskeho-502208"
+},
+"https://www.zskorytna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-korytna-612445"
+},
+"https://www.zskosariska.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-szkoa-podstawowa-przedszkole-621991"
+},
+"https://www.zskosor.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kosor-516969"
+},
+"https://www.zskrasnydvur.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-krasny-dvur-000628"
+},
+"https://www.zskrchleby.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-krchleby-512815"
+},
+"https://www.zskrenova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601613"
+},
+"https://www.zskridlovicka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-602636"
+},
+"https://www.zskrizanov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-krizanov-615584"
+},
+"https://www.zskrtiny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-krtiny-600242"
+},
+"https://www.zskucb.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ceske-budejovice-015757"
+},
+"https://www.zskujavy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kujavy-101465"
+},
+"https://www.zskuncice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-karla-svolinskeho-006201"
+},
+"https://www.zskunin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kunin-625903"
+},
+"https://www.zskunstat.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kunstat-600838"
+},
+"https://www.zsleskovec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-leskovec-634252"
+},
+"https://www.zsletnipole.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vyskov-058596"
+},
+"https://www.zsliba.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-liba-100351"
+},
+"https://www.zslibechov.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-vaclava-leveho-513544"
+},
+"https://www.zslingua.cz": {
+"jen_ms": true,
+"slug": "lingua-universal-soukr-zs-a-ms-101362"
+},
+"https://www.zslipa.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-bohuslava-reynka-000621"
+},
+"https://www.zslipov.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-jaromira-hlubika-607573"
+},
+"https://www.zslisnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lisnice-041057"
+},
+"https://www.zslisov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lisov-530627"
+},
+"https://www.zslitencice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-litencice-609312"
+},
+"https://www.zslodherov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lodherov-400547"
+},
+"https://www.zsloucovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-loucovice-531984"
+},
+"https://www.zslouka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-louka-u-litvinova-700378"
+},
+"https://www.zslovcice.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lovcice-607441"
+},
+"https://www.zsluka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-luka-627337"
+},
+"https://www.zsluka.net": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-luka-nad-jihlavou-608294"
+},
+"https://www.zsluznice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-luznice-006233"
+},
+"https://www.zsma.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mesto-albrechtice-620014"
+},
+"https://www.zsmajdalena.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-majdalena-400521"
+},
+"https://www.zsmalaskala.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mala-skala-563380"
+},
+"https://www.zsmalecov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-malecov-900466"
+},
+"https://www.zsmalin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-novy-malin-632730"
+},
+"https://www.zsmalonty.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-malonty-531844"
+},
+"https://www.zsmarkvartice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-markvartice-561492"
+},
+"https://www.zsmartinice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-jana-bezdeka-martinice-021122"
+},
+"https://www.zsmecin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mecin-542668"
+},
+"https://www.zsmelan.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prostejov-619755"
+},
+"https://www.zsmendiku.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mendiku-501279"
+},
+"https://www.zsmenik.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-menik-581485"
+},
+"https://www.zsmerhautova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-200046"
+},
+"https://www.zsmesice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tabor-mesice-535459"
+},
+"https://www.zsmestotouskov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mesto-touskov-015500"
+},
+"https://www.zsmilikov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-milikov-621975"
+},
+"https://www.zsmilotice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-milotice-607107"
+},
+"https://www.zsmiretice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-miretice-582163"
+},
+"https://www.zsmirovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mirovice-053415"
+},
+"https://www.zsmitusova16.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-630729"
+},
+"https://www.zsmochtin.info": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mochtin-542676"
+},
+"https://www.zsmoravska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-moravska-havirov-480153"
+},
+"https://www.zsmorkov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-morkov-001560"
+},
+"https://www.zsmostiste.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velke-mezirici-615886"
+},
+"https://www.zsms-bratislavska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-varnsdorf-034841"
+},
+"https://www.zsms-cernikovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cernikovice-585499"
+},
+"https://www.zsms-postrekov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-postrekov-540410"
+},
+"https://www.zsms-turkmenska.cz": {
+"jen_ms": true,
+"slug": "zs-ms-a-prs-vsetin-006828"
+},
+"https://www.zsmsalbrechtice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-albrechtice-nad-orlici-600571"
+},
+"https://www.zsmsbrezno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brezno-562197"
+},
+"https://www.zsmschocerady.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chocerady-267-510090"
+},
+"https://www.zsmschodouny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chodouny-565218"
+},
+"https://www.zsmscista.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cista-518546"
+},
+"https://www.zsmsdoubravnik.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-doubravnik-615525"
+},
+"https://www.zsmsdujezd.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-dolni-ujezd-a-materska-skola-stamerice-631008"
+},
+"https://www.zsmsdukovany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dukovany-611155"
+},
+"https://www.zsmsene.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-msene-lazne-565617"
+},
+"https://www.zsmshornijiretin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-jiretin-702079"
+},
+"https://www.zsmshornilibchava.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-libchava-560275"
+},
+"https://www.zsmshornimesto.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-horni-mesto-620235"
+},
+"https://www.zsmshostka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hostka-900268"
+},
+"https://www.zsmshvozdany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hvozdany-000301"
+},
+"https://www.zsmsjiraskova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kladno-511983"
+},
+"https://www.zsmskp.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kamenny-privoz-516772"
+},
+"https://www.zsmskrcin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-krcin-583704"
+},
+"https://www.zsmskretin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kretin-600218"
+},
+"https://www.zsmskudlovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kudlovice-612887"
+},
+"https://www.zsmskunovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kunovice-006896"
+},
+"https://www.zsmslesany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lesany-516802"
+},
+"https://www.zsmslicno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-licno-585618"
+},
+"https://www.zsmslipa.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lipa-nad-orlici-585774"
+},
+"https://www.zsmslucice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lucice-580268"
+},
+"https://www.zsmsnovyknin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-novy-knin-000565"
+},
+"https://www.zsmsopatovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-opatovice-631318"
+},
+"https://www.zsmsorechov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-orechov-612941"
+},
+"https://www.zsmsostrov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrov-589613"
+},
+"https://www.zsmspartutovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-partutovice-631776"
+},
+"https://www.zsmspetrohrad.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-petrohrad-566583"
+},
+"https://www.zsmsprilepy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prilepy-609754"
+},
+"https://www.zsmsrozmital.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-rozmital-na-sumave-531879"
+},
+"https://www.zsmssedlec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sedlec-605031"
+},
+"https://www.zsmssendrazice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kolin-sendrazice-665266"
+},
+"https://www.zsmssluhy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sluhy-516012"
+},
+"https://www.zsmsstararise.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stara-rise-014210"
+},
+"https://www.zsmsstaraves.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stara-ves-004011"
+},
+"https://www.zsmstatce.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tatce-515300"
+},
+"https://www.zsmstesetice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tesetice-627485"
+},
+"https://www.zsmstlustice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tlustice-011652"
+},
+"https://www.zsmstucapy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tucapy-613476"
+},
+"https://www.zsmstynec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tynec-604850"
+},
+"https://www.zsmsuh.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uherske-hradiste-011275"
+},
+"https://www.zsmsusti.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-usti-631652"
+},
+"https://www.zsmsvberanov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velky-beranov-608499"
+},
+"https://www.zsmsvelkalhota.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velka-lhota-451940"
+},
+"https://www.zsmsvelvarska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kladno-511533"
+},
+"https://www.zsmsvolfartice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-volfartice-560631"
+},
+"https://www.zsmsvroutek.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vroutek-566753"
+},
+"https://www.zsmutenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mutenice-607786"
+},
+"https://www.zsmysl.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-myslocovice-606399"
+},
+"https://www.zsnadraznihornislavkov.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-horni-slavkov-545543"
+},
+"https://www.zsnaklo.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-naklo-626772"
+},
+"https://www.zsnamest.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-namest-na-hane-213062"
+},
+"https://www.zsnamrep.cz": {
+"jen_ms": true,
+"slug": "zs-j-a-komenskeho-a-materska-skola-602407"
+},
+"https://www.zsnarovine.eu": {
+"jen_ms": true,
+"slug": "ms-a-zs-na-rovine-v-ceske-trebove-121387"
+},
+"https://www.zsndvory.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nove-dvory-513005"
+},
+"https://www.zsnectiny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nectiny-600612"
+},
+"https://www.zsnedvedova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olomouc-626969"
+},
+"https://www.zsnezdenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nezdenice-612488"
+},
+"https://www.zsneznasov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-neznasov-530660"
+},
+"https://www.zsnivnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-ms-j-a-komenskeho-612500"
+},
+"https://www.zsnova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-usti-nad-labem-900491"
+},
+"https://www.zsnovacb.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-nova-5-ceske-budejovice-093804"
+},
+"https://www.zsnovacerekev.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nova-cerekev-533189"
+},
+"https://www.zsnovebranice.cz": {
+"jen_ms": true,
+"slug": "jubilejni-zs-masarykova-a-ms-603225"
+},
+"https://www.zsnovehrady.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nove-hrady-010648"
+},
+"https://www.zsnoveveseli.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nove-veseli-616416"
+},
+"https://www.zsnovyhk.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradec-kralove-581019"
+},
+"https://www.zsnsvor.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601788"
+},
+"https://www.zsnyrany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nyrany-544717"
+},
+"https://www.zsoboriste.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-oboriste-000620"
+},
+"https://www.zsobratan.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-obratan-533201"
+},
+"https://www.zsohrada.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vsetin-634422"
+},
+"https://www.zsohrobec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ohrobec-114585"
+},
+"https://www.zsol.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrozska-lhota-612518"
+},
+"https://www.zsolesna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olesna-533260"
+},
+"https://www.zsolsany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olsany-u-prostejova-610272"
+},
+"https://www.zsopatovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-opatovice-nad-labem-584590"
+},
+"https://www.zsostasov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostasov-000209"
+},
+"https://www.zsostresany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostresany-584425"
+},
+"https://www.zsosvetimany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-osvetimany-612534"
+},
+"https://www.zsp-zatec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zatec-048981"
+},
+"https://www.zspal.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prostejov-610884"
+},
+"https://www.zspalkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-palkovice-018916"
+},
+"https://www.zspanenskytynec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-panensky-tynec-566559"
+},
+"https://www.zspastelka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mlada-boleslav-038498"
+},
+"https://www.zsplavsko.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-plavsko-532573"
+},
+"https://www.zspll.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-pri-priessnitz-laznich-007140"
+},
+"https://www.zspocaply.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kraluv-dvur-pocaply-tyrsova-136-511108"
+},
+"https://www.zspodomi.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-podomi-613361"
+},
+"https://www.zspohorelicezlin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pohorelice-605856"
+},
+"https://www.zspolanka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-polanka-nad-odrou-630737"
+},
+"https://www.zspolice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velke-petrovice-583992"
+},
+"https://www.zspolnicka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-polnicka-615983"
+},
+"https://www.zsporicany.cz": {
+"jen_ms": true,
+"slug": "zs-t-g-masaryka-a-ms-515458"
+},
+"https://www.zsporicins.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-porici-nad-sazavou-510294"
+},
+"https://www.zsppolom.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pusta-polom-629267"
+},
+"https://www.zspraksice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-praksice-612577"
+},
+"https://www.zsprazska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-znojmo-029626"
+},
+"https://www.zspredlice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-usti-nad-labem-141205"
+},
+"https://www.zspremyslovny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-601206"
+},
+"https://www.zspribramnamorave.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pribram-na-morave-603705"
+},
+"https://www.zspridoli.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pridoli-531585"
+},
+"https://www.zsprikazy.org": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prikazy-627299"
+},
+"https://www.zsprim.cz": {
+"jen_ms": true,
+"slug": "zs-prokopa-divise-a-ms-071582"
+},
+"https://www.zsprosec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-prosec-582244"
+},
+"https://www.zsprovodovsonov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-provodov-sonov-583917"
+},
+"https://www.zsprzno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-przno-622181"
+},
+"https://www.zspsms.cz": {
+"jen_ms": true,
+"slug": "zakl-skola-prakt-skola-a-mater-skola-560135"
+},
+"https://www.zspstruzi.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pstruzi-026368"
+},
+"https://www.zsptesin.cz": {
+"jen_ms": true,
+"slug": "polska-zs-a-ms-623218"
+},
+"https://www.zsrablhota.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rabstejnska-lhota-010729"
+},
+"https://www.zsradlicka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-radlicka-100147"
+},
+"https://www.zsradostice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-radostice-603721"
+},
+"https://www.zsrako.cz": {
+"jen_ms": true,
+"slug": "stredni-skola-rakovnik-638381"
+},
+"https://www.zsrepiste.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-repiste-622637"
+},
+"https://www.zsretova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-retova-589630"
+},
+"https://www.zsrohle.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rohle-632853"
+},
+"https://www.zsrosovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rosovice-000921"
+},
+"https://www.zsrych.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rychnov-u-jablonce-nad-nisou-569604"
+},
+"https://www.zsrynarec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-rynarec-015038"
+},
+"https://www.zssanov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sanov-614219"
+},
+"https://www.zssazava.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sazava-513358"
+},
+"https://www.zssenicenh.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-senice-na-hane-627957"
+},
+"https://www.zssenohraby.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-senohraby-516136"
+},
+"https://www.zsserikova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-vyskovice-630231"
+},
+"https://www.zsskolni-havirov.eu": {
+"jen_ms": true,
+"slug": "zs-a-ms-skolni-1-havirov-624338"
+},
+"https://www.zsskolni-rce.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-roudnice-nad-labem-037122"
+},
+"https://www.zsskolska.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-skolska-623838"
+},
+"https://www.zsskorenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-skorenice-589656"
+},
+"https://www.zsskuhrov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-skuhrov-nad-belou-585740"
+},
+"https://www.zssm.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stare-mesto-632942"
+},
+"https://www.zssnp6.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-usti-nad-labem-569248"
+},
+"https://www.zssobechleby.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sobechleby-102073"
+},
+"https://www.zsspalov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-spalov-625491"
+},
+"https://www.zsspindl.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-spindleruv-mlyn-588315"
+},
+"https://www.zsspytihnev.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-spytihnev-606089"
+},
+"https://www.zssromotovo.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hranice-020459"
+},
+"https://www.zsstarkov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-starkov-584255"
+},
+"https://www.zsstarypoddvorov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stary-poddvorov-607239"
+},
+"https://www.zssteken.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-steken-534886"
+},
+"https://www.zsstep.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stepanov-nad-svratkou-615771"
+},
+"https://www.zsstepankovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stepankovice-628953"
+},
+"https://www.zsstitina.cz": {
+"jen_ms": true,
+"slug": "zs-gen-heliodora-piky-a-ms-628961"
+},
+"https://www.zsstity.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stity-023211"
+},
+"https://www.zsstramberk.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stramberk-625539"
+},
+"https://www.zsstrelskehostice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-strelske-hostice-534967"
+},
+"https://www.zsstritez.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-stritez-019289"
+},
+"https://www.zsstrunkovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-strunkovice-nad-blanici-534592"
+},
+"https://www.zsstudena.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-studena-532590"
+},
+"https://www.zsstudenec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-studenec-586339"
+},
+"https://www.zssuchdolkh.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-suchdol-070961"
+},
+"https://www.zssudkov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sudkov-032139"
+},
+"https://www.zssvarov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svarov-005603"
+},
+"https://www.zssvatamari.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svata-mari-534321"
+},
+"https://www.zssvatoplukova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olomouc-627132"
+},
+"https://www.zssvihov.info": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-svihov-542871"
+},
+"https://www.zstelnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-telnice-603888"
+},
+"https://www.zstgmasarykacb.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-t-g-masaryka-201382"
+},
+"https://www.zsticha.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ticha-625652"
+},
+"https://www.zstisova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tisova-589702"
+},
+"https://www.zstovacov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tovacov-631687"
+},
+"https://www.zstraplice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-traplice-612658"
+},
+"https://www.zstrebotov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-trebotov-516977"
+},
+"https://www.zstremesna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tremesna-620812"
+},
+"https://www.zstrinec.cz": {
+"jen_ms": true,
+"slug": "stredni-skola-trinec-077939"
+},
+"https://www.zstrsice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-trsice-035341"
+},
+"https://www.zstrstenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-trstenice-587422"
+},
+"https://www.zstsobra.cz": {
+"jen_ms": true,
+"slug": "zs-tomase-sobra-a-ms-pisek-sobrova-2070-053571"
+},
+"https://www.zstuchomerice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tuchomerice-516985"
+},
+"https://www.zstylova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-j-k-tyla-a-ms-053466"
+},
+"https://www.zstyrsova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nymburk-515695"
+},
+"https://www.zsuhercice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uhercice-605066"
+},
+"https://www.zsujezd.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ujezd-004460"
+},
+"https://www.zsujezdec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uhersky-brod-ujezdec-612844"
+},
+"https://www.zsvacov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vacov-534291"
+},
+"https://www.zsvavrovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-opava-vavrovice-072121"
+},
+"https://www.zsvedlejsi.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brno-037670"
+},
+"https://www.zsvejprty.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vejprty-015871"
+},
+"https://www.zsvelkajesenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velka-jesenice-584042"
+},
+"https://www.zsvelkapolom.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velka-polom-629062"
+},
+"https://www.zsvelkytrebesov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velky-trebesov-583950"
+},
+"https://www.zsverovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-verovice-625679"
+},
+"https://www.zsvesna.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-pri-detske-lecebne-026591"
+},
+"https://www.zsvetrkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vetrkovice-629101"
+},
+"https://www.zsvetrna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uherske-hradiste-613069"
+},
+"https://www.zsvikyrovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vikyrovice-633094"
+},
+"https://www.zsvisnova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-visnova-565102"
+},
+"https://www.zsvisnove.eu": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-visnove-615070"
+},
+"https://www.zsvitezna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vitezna-588927"
+},
+"https://www.zsvlcice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-j-a-komenskeho-588587"
+},
+"https://www.zsvoderady.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-voderady-585821"
+},
+"https://www.zsvozice.cz": {
+"jen_ms": true,
+"slug": "zs-ms-a-zus-mlada-vozice-535271"
+},
+"https://www.zsvraclav.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vraclav-589796"
+},
+"https://www.zsvsechovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vsechovice-631881"
+},
+"https://www.zsvsemina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vsemina-606071"
+},
+"https://www.zsvsetaty.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vsetaty-513862"
+},
+"https://www.zswaldorfostrava.cz": {
+"jen_ms": true,
+"slug": "waldorfska-zakladni-skola-a-materska-skola-ostrava-048230"
+},
+"https://www.zsweberova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-weberova-050901"
+},
+"https://www.zswolkerova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-havlickuv-brod-580713"
+},
+"https://www.zszabori.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zabori-687064"
+},
+"https://www.zszahaji.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zahaji-530651"
+},
+"https://www.zszahori.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zahori-053725"
+},
+"https://www.zszahorovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zahorovice-612305"
+},
+"https://www.zszakrany.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zakrany-604272"
+},
+"https://www.zszakupy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zakupy-560895"
+},
+"https://www.zszandov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zandov-560909"
+},
+"https://www.zszator.com": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zator-620898"
+},
+"https://www.zszbecno.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zbecno-125684"
+},
+"https://www.zszbyslavice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-obce-zbyslavice-625059"
+},
+"https://www.zszbysov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zbysov-513153"
+},
+"https://www.zszdar.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zdar-nad-metuji-583976"
+},
+"https://www.zszdarna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zdarna-600552"
+},
+"https://www.zszehun.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zehun-515539"
+},
+"https://www.zszelechovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-zelechovice-nad-drevnici-606283"
+},
+"https://www.zszelenec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zelenec-516233"
+},
+"https://www.zszeletava.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zeletava-014279"
+},
+"https://www.zszeleznice.cz": {
+"jen_ms": true,
+"slug": "masarykova-zs-a-ms-583089"
+},
+"https://www.zszenklava.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zenklava-625547"
+},
+"https://www.zszeranovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zeranovice-609592"
+},
+"https://www.zszichlice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zichlice-021200"
+},
+"https://www.zszlechov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zlechov-612968"
+},
+"https://www.zszlonice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zlonice-136490"
+},
+"https://www.zszubcice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zubcice-009208"
+},
+"https://www.zvskadan.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-pri-nemocnici-101184"
+},
+"https://zs-bilovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bilovice-612232"
+},
+"https://zs-komenskeho.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-nymburk-515202"
+},
+"https://zs-malsovalhota.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradec-kralove-007880"
+},
+"https://zs-smolkova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-smolkova-v-praze-12-501228"
+},
+"https://zs.sedlec-prcice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sedlec-prcice-510332"
+},
+"https://zs9kvetna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-sezimovo-usti-535351"
+},
+"https://zsams-ropice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ropice-622211"
+},
+"https://zsamsletiny.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-letiny-544156"
+},
+"https://zsamsludkovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ludkovice-605333"
+},
+"https://zsbaara.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-j-s-baara-031914"
+},
+"https://zsbartosovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-bartosovice-046095"
+},
+"https://zsbrantice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-brantice-620031"
+},
+"https://zsbrodce.cz": {
+"jen_ms": true,
+"slug": "masarykova-zs-a-ms-600534"
+},
+"https://zscakovice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-dr-edvarda-benese-124386"
+},
+"https://zscelechovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-celechovice-na-hane-609975"
+},
+"https://zschlebovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-frydek-mistek-chlebovice-621401"
+},
+"https://zschotevice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chotevice-587912"
+},
+"https://zschyne.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chyne-517060"
+},
+"https://zscimelice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cimelice-053253"
+},
+"https://zsdalovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dalovice-057352"
+},
+"https://zsdolakova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-dolakova-006136"
+},
+"https://zsduhovacesta.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-duhova-cesta-037688"
+},
+"https://zsdvorska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-blansko-012871"
+},
+"https://zsgraficka.cz": {
+"jen_ms": true,
+"slug": "fakultni-zakladni-skola-a-materska-skola-pedagogicke-fakulty-univerzit-501961"
+},
+"https://zshermanovahut.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hermanova-hut-544962"
+},
+"https://zshrabina.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-cesky-tesin-hrabina-032538"
+},
+"https://zsjaromerice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jaromerice-586914"
+},
+"https://zsjesenice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jesenice-518023"
+},
+"https://zsjindrichov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-jindrichov-621029"
+},
+"https://zsjubilejni.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-novy-jicin-054914"
+},
+"https://zskladnovasatova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kladno-511959"
+},
+"https://zsklaster.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-klaster-hradiste-nad-jizerou-514478"
+},
+"https://zskolesovice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-kolesovice-518040"
+},
+"https://zskrestova.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostrava-hrabuvka-629658"
+},
+"https://zskv.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-chodov-102816"
+},
+"https://zslesnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lesnice-633213"
+},
+"https://zslogo.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-logopedicka-brno-023447"
+},
+"https://zsloukov.cz": {
+"jen_ms": true,
+"slug": "krakonosova-zs-a-ms-586541"
+},
+"https://zsmoudrasova.edupage.org": {
+"jen_ms": true,
+"slug": "zs-ms-a-detske-jesle-moudra-sova-037319"
+},
+"https://zsms.lutin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-lutin-627761"
+},
+"https://zsmshalze.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-halze-546515"
+},
+"https://zsmskozlany.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-dr-eduarda-benese-015714"
+},
+"https://zsmspisecna.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-pisecna-621827"
+},
+"https://zsmssuh.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uherske-hradiste-613093"
+},
+"https://zsmssvet.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-svet-chomutov-090171"
+},
+"https://zsmsvrbovec.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vrbovec-614693"
+},
+"https://zsmszdarky.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-zdarky-583984"
+},
+"https://zsnadejkov.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-nadejkov-533758"
+},
+"https://zsolesnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-olesnice-530716"
+},
+"https://zsostravice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-ostravice-622131"
+},
+"https://zsotnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-otnice-613581"
+},
+"https://zspicin.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-picin-000689"
+},
+"https://zspraskacka.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-praskacka-581299"
+},
+"https://zspredklasteri.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-predklasteri-604035"
+},
+"https://zssenomaty.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-senomaty-518376"
+},
+"https://zsslabce.webnode.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-slabce-040679"
+},
+"https://zssmidary.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-smidary-581370"
+},
+"https://zsstraz.org": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-straz-pod-ralskem-020538"
+},
+"https://zsstudentska.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hranice-103860"
+},
+"https://zssvobodnedvory.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-hradec-kralove-581094"
+},
+"https://zstrojanovice.cz": {
+"jen_ms": true,
+"slug": "jubilejni-zs-prezidenta-masaryka-a-ms-625661"
+},
+"https://zstucapy.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-tucapy-535700"
+},
+"https://zsuhonice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-uhonice-059205"
+},
+"https://zsutery.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-utery-600621"
+},
+"https://zsvc.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-very-caslavske-004763"
+},
+"https://zsvejprnice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-vejprnice-544857"
+},
+"https://zsvelhartice.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-velhartice-542889"
+}
+}
