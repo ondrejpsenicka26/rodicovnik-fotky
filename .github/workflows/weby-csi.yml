@@ -1,0 +1,42 @@
+# Weby školek z portálu ČŠI (scripts/weby_csi.py) pro školky bez webu i fotky.
+name: Weby z portálu ČŠI
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "weby-csi/vstup.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weby-csi
+  cancel-in-progress: false
+
+jobs:
+  weby:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            weby-csi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Weby z portálu ČŠI
+        run: python3 scripts/weby_csi.py
+      - name: Uložit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add --sparse weby-csi/vystup.json
+          git commit -q -m "Weby z portálu ČŠI ($(date -u +%Y-%m-%dT%H:%MZ))" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 10; done
+          exit 1
