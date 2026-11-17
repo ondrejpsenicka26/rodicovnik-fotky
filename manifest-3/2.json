@@ -1,0 +1,114 @@
+{
+"fak-ms-pri-pf-uk-624415": [
+{
+"alt": "",
+"barva": "#848476",
+"dh": "0f43b894b6373777",
+"h": 1200,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQb/xAAoEAACAQMDAQgDAAAAAAAAAAABAgMAERIEITFBBRMUIjJCUaFxgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAE/8QAGhEAAwADAQAAAAAAAAAAAAAAAAERAhITQf/aAAwDAQACEQMRAD8AfVkUXjxB6AHc/k0/FIkgsGF/iue0mqn8RMFaMpcjBrbDjasfUOIzIkgDqeQRf+UdIZ4nRtCSeDRUeLtzVNGMlhJG1+8C3/VFV0QaMn6LKINI0ajLbzC55P1W+qOQYo3Nh1NJ+0mlndgjG/WuelX0cmWQyHDSQMPl0uT90VMzY+40U1hT/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnavysinach.cz/o-nas/",
+"typ": "budova",
+"url": "https://www.msnavysinach.cz/wp-content/uploads/IMG_0987-scaled.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#a79985",
+"dh": "3636e6f0f4f13119",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnavysinach.cz/%f0%9f%91%b6%f0%9f%8f%bc-detska-skupina/",
+"typ": "interier",
+"url": "https://www.msnavysinach.cz/wp-content/uploads/Detska-skupina-1.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#6d6e45",
+"dh": "2c1c261509cc4422",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnavysinach.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://www.msnavysinach.cz/wp-content/uploads/DSC_0677.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5d6969",
+"dh": "6f19dbdc8f761fcd",
+"h": 1200,
+"jistota": 0.889,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msnavysinach.cz/o-nas/",
+"typ": "budova",
+"url": "https://www.msnavysinach.cz/wp-content/uploads/IMG_1039-scaled.jpg",
+"w": 900
+}
+],
+"lesni-materska-skola-zahradka-troja-127261": [
+{
+"alt": "",
+"barva": "#7e5d3d",
+"dh": "c7f2eab083c35b1e",
+"h": 800,
+"jistota": 0.956,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAgEAACAgIBBQEAAAAAAAAAAAABAgMEABESBRMhMUEy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAERAxMhUYH/2gAMAwEAAhEDEQA/AF1zuSTueTFt5XBWuSnSRO3jeguN6lZLSIZP1ryR9OTO8tCZ+yyk8Pq/N4CpNKRribgwQdOrpHxtSmOUe1A9YYtk6jK8jMQNsdnDLOjen//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zahradkatroja.cz/",
+"typ": "interier",
+"url": "https://zahradkatroja.cz/wp-content/uploads/2022/09/prostory-86.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#606953",
+"dh": "1511838b9f0f031f",
+"h": 800,
+"jistota": 0.792,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zahradkatroja.cz/",
+"typ": "zahrada",
+"url": "https://zahradkatroja.cz/wp-content/uploads/2022/09/prostory-42.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b5642",
+"dh": "b3296e1d5979c107",
+"h": 800,
+"jistota": 0.996,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zahradkatroja.cz/",
+"typ": "les",
+"url": "https://zahradkatroja.cz/wp-content/uploads/2022/09/prostory-64.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#775b3f",
+"dh": "4949692b31070e0f",
+"h": 800,
+"jistota": 0.866,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.zahradkatroja.cz/",
+"typ": "interier",
+"url": "https://zahradkatroja.cz/wp-content/uploads/2022/09/prostory-27.jpg",
+"w": 1200
+}
+]
+}

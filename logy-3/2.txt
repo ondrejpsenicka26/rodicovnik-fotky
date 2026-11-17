@@ -1,0 +1,10 @@
+[20:07:31] Část 3/3: webů 6, hotovo 0, zbývá 6
+[20:07:32] https://vhaaji.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[20:07:58] https://kmskliment.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 5 fotek ke kontrole
+[20:08:10] https://zahradkatroja.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 55 obrázků, 44 fotek ke kontrole
+[20:08:15] https://msberanek.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 62 obrázků, 6 fotek ke kontrole
+[20:08:24] https://msnavysinach.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 20 fotek ke kontrole
+[20:08:43] https://cinelky.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 58 obrázků, 3 fotek ke kontrole
+[20:08:57] tříděno 0/78
+[20:09:11] Dávka 1: hotovo 6/6, se fotkami 2; {'ok': 8, 'lide': 3, 'jine': 47, 'sablona': 0}
+[20:09:11] Konec: školek s fotkami 2; {'ok': 8, 'lide': 3, 'jine': 47, 'sablona': 0}
