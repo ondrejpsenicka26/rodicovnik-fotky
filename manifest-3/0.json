@@ -1,0 +1,290 @@
+{
+"domecek-materska-skola-072734": [
+{
+"alt": "",
+"barva": "#7c8b95",
+"dh": "8779f49466726307",
+"h": 600,
+"jistota": 0.99,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAFBgT/xAAjEAACAgEDBAMBAAAAAAAAAAABAgMEABESISIxQVEFFFKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESE//aAAwDAQACEQMRAD8AcT3iqkRIGbbqN+qqx/IPvMRv3QS8iwqqNygIJb+5P071q/EI4ow8oJLGR+kjjTj33xnDT+QVT9pYREATojcg+PGO0hSFGm10V17MARhkdFZt14xFFI+xe3VhlozJ/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msdomecek.cz/fotogalerie",
+"typ": "budova",
+"url": "https://www.msdomecek.cz/media/uploads/galerie/exterier/domecek.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#9a7e5c",
+"dh": "18c8d858c8883d3f",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msdomecek.cz/fotogalerie",
+"typ": "interier",
+"url": "https://www.msdomecek.cz/media/uploads/galerie/interier/trida_classroom2.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#8e9173",
+"dh": "c7d3c383e9674317",
+"h": 600,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msdomecek.cz/fotogalerie",
+"typ": "zahrada",
+"url": "https://www.msdomecek.cz/media/uploads/galerie/exterier/zadni_zahrada_back_yard.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#938c85",
+"dh": "8968686851733101",
+"h": 600,
+"jistota": 0.957,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msdomecek.cz/fotogalerie",
+"typ": "budova",
+"url": "https://www.msdomecek.cz/media/uploads/galerie/exterier/rozkvetla_zahrada_garden-in_full_bloom.jpg",
+"w": 800
+}
+],
+"ekoskolka-devinek-materska-skola-129655": [
+{
+"alt": "",
+"barva": "#515836",
+"dh": "c4164caf5272684d",
+"h": 900,
+"jistota": 0.864,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUE/8QAJhAAAgIBAgMJAAAAAAAAAAAAAQIDEQAEIQUSEwYUMUFRYZGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABkRAQEAAwEAAAAAAAAAAAAAAAEAAgMRIf/aAAwDAQACEQMRAD8AkQ9MTxmRRIEItSav2zRrptMYj3NS7uBs4B6f7mSMERJy0X8tvnFpEwtbMhO9eOYGSeFV/h3aRINGkMhe4xy2qXf3jIyuIlCEAEel4xNjPL//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://devinek.cz/ekoskolka/",
+"typ": "budova",
+"url": "https://devinek.cz/wp-content/uploads/2021/07/DJI_0256-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#af8f5f",
+"dh": "03074726260c0306",
+"h": 768,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://devinek.cz/ekoskolka/",
+"typ": "interier",
+"url": "https://devinek.cz/wp-content/uploads/2021/07/devinek-3.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#917e58",
+"dh": "8747914549791232",
+"h": 768,
+"jistota": 0.804,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://devinek.cz/ekoskolka/",
+"typ": "budova",
+"url": "https://devinek.cz/wp-content/uploads/2021/07/devinek-2.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#8f6a48",
+"dh": "3737343408983233",
+"h": 683,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://devinek.cz/ekoskolka/",
+"typ": "interier",
+"url": "https://devinek.cz/wp-content/uploads/2021/07/devinek-7.jpg",
+"w": 1024
+}
+],
+"internation-countryside-school-ms-094606": [
+{
+"alt": "Nursery building",
+"barva": "#4d4f55",
+"dh": "7f7f7e3e5f6665d8",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQACAxExBAUSEyEUFkFRcZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQADAQAAAAAAAAAAAAAAAAAAARIC/9oADAMBAAIRAxEAPwBHmjb3aXp+Hm5e9D9WHqt3llcQxjIxddu5+0PUcoWtZyJbnACMZaJaWtNepyqt6EoSNQ6WyXWbrJUjCQDDa+CpKYlH/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.countrysideschool.cz/team-1",
+"typ": "budova",
+"url": "https://static.wixstatic.com/media/8084ab_ce579451b6c4462db46528a174f25767~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#545350",
+"dh": "1593bb9b96668fad",
+"h": 800,
+"jistota": 0.997,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.countrysideschool.cz/",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/8084ab_57f8e893f8384becad32f1047d7938a8~mv2.jpg",
+"w": 1200
+}
+],
+"jazykova-ms-chytra-sovicka-053624": [
+{
+"alt": "20260126_114217",
+"barva": "#896f47",
+"dh": "14cacd1d3c665dc7",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACEQAAIBBQABBQAAAAAAAAAAAAECEQADEhMhBCIyQlFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARAv/aAAwDAQACEQMRAD8AnrV8dbEgzOXY7SeRcs2XC+k5e6PjT3tKKiWwZ7nJPfqpMqxOtf2svabW5Gtc8i3bxXY0RyHxEUVmZmWApAAFFEyWN//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.chytrasovicka.com",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/32c4c1_80219d05a6674fb6b8114c91a50075ec~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "20230902_173217",
+"barva": "#676865",
+"dh": "c727cbc786032f65",
+"h": 900,
+"jistota": 0.995,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.chytrasovicka.com",
+"typ": "zahrada",
+"url": "https://static.wixstatic.com/media/32c4c1_03c8ff31eaf148b987b095328b6b0a4a~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "Vybavená dětská dílnička pro kreativní aktivity v MŠ Chytrá Sovička Praha 4.",
+"barva": "#9b866a",
+"dh": "f73f2c1dcfb8b8de",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.chytrasovicka.com/prostredi-a-bezpecnost",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/32c4c1_820e953ec31845a7ba36a09c917a776a~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "Vlastní zahrada s herními prvky, pískovištěm a částí rodinné vily česko-anglické mateřské školy Chytrá Sovička Praha 4 –",
+"barva": "#6c6b70",
+"dh": "424ac28a0a0418c9",
+"h": 615,
+"jistota": 0.983,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.chytrasovicka.com/skolka",
+"typ": "zahrada",
+"url": "https://static.wixstatic.com/media/32c4c1_5018e772dab043cb9754de9e1fb579d1~mv2.jpg",
+"w": 1200
+}
+],
+"julinka-materska-skola-logopedicka-054124": [
+{
+"alt": "",
+"barva": "#ac9f8f",
+"dh": "150c74f53367e7a5",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYDBAX/xAAkEAACAgICAQMFAAAAAAAAAAABAgMRBRIABCETI0ExUWGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwADAAAAAAAAAAAAAAAAAAECITFB/9oADAMBAAIRAxEAPwDekyHp6mJGc1sbIUVXn55FFl5e1EWVI11dbMcm35/XFLs5PszxNFuFT0tvA81V1fL+PyEk2OLyKvlwKQa/QqP7yTunsaU8GWXJKGAQK9CmpwKPyOHE7LdXTISsrn3DuR9r4cathcZP/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.centrumjulie.cz/logopedicka-materska-skola/",
+"typ": "budova",
+"url": "https://www.centrumjulie.cz/wp-content/uploads/2025/12/33-DSCF6680__S-min.jpg",
+"w": 1200
+}
+],
+"materska-skola-bajkalska-504014": [
+{
+"alt": "MŠ Bajkalská",
+"barva": "#7c8797",
+"dh": "b0587939dbdb9bad",
+"h": 626,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMABBEFEkEhwQYiMTI1Q2L/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIxAxH/2gAMAwEAAhEDEQA/ALtzewRFonnWOTaWBIztA5Nc9cwwnVZERkHl3kqMLnHfvWa+kdfEN2Vdgdp9D+aRe/HWsv2P7n5PTk1qKcYFSq0VqOqyWt0Ybco6KBkgZ60VLkZhKwDEDPBoqfWvdBQj/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msbajkalska.cz/tridy/",
+"typ": "budova",
+"url": "https://www.msbajkalska.cz/wp-content/uploads/cropped-IMG_4498.jpg",
+"w": 1200
+},
+{
+"alt": "MŠ Bajkalská",
+"barva": "#907173",
+"dh": "fcffdbdae6e6ccd4",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msbajkalska.cz/trida-paloucek-motylci/",
+"typ": "interier",
+"url": "https://www.msbajkalska.cz/wp-content/uploads/IMG_36171-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7e7a6f",
+"dh": "fef87971b05a5c9e",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msbajkalska.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.msbajkalska.cz/wp-content/uploads/IMG_35801.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7a716b",
+"dh": "3e3e3e3e3e6d6c3f",
+"h": 800,
+"jistota": 0.898,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msbajkalska.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://www.msbajkalska.cz/wp-content/uploads/IMG_36041.jpeg",
+"w": 1200
+}
+],
+"materska-skola-cakovice-iii-102778": [
+{
+"alt": "",
+"barva": "#b1a19b",
+"dh": "061b31e9ecec0934",
+"h": 993,
+"jistota": 0.993,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAARABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFAv/EACcQAAICAgAEBQUAAAAAAAAAAAECAAMEEQUSITEiMjOBwUFhcqGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAZEQEBAQADAAAAAAAAAAAAAAAAAQIxQUL/2gAMAwEAAhEDEQA/AN+22nGAa9wgPb7yLH4i9mayOqipzpQO6/T3ktz3Z6kEk+EgMyBAoPvO24ftqyL8deU9NHv01DbejxM+q1WUg6iTVHISpUORS3KNbK73+4lFmY/mf8D/ACTr8/MRDOFrSp9MRERRX//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mscakovice3.cz/pred-nastupem-do-skolky/",
+"typ": "budova",
+"url": "https://mscakovice3.cz/wp-content/uploads/virt-cako.jpg",
+"w": 1200
+}
+]
+}
