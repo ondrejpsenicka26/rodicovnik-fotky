@@ -15,6 +15,7 @@ import re
 import urllib.parse
 import urllib.request
 import urllib.robotparser
+import time
 from concurrent.futures import ThreadPoolExecutor
 
 UA = "RodicovnikBot/1.0 (+https://github.com/ondrejpsenicka26/rodicovnik-fotky; prehled skolek v CR)"
@@ -28,7 +29,7 @@ CIZI = re.compile(
     r"forpsi|wedos|active24|websupport|godaddy|sedo\.com|dan\.com",
     re.I,
 )
-SKOLKA = re.compile(r"mateřsk|materske|materska|školk|skolk|školič|dětsk[áé] skupin|detska skupina|\bMŠ\b|předškol|kindergarten|jesle|jesl", re.I)
+SKOLKA = re.compile(r"mateřsk|materske|materska|školk|skolk|školič|dětsk[áé] skupin|detska skupina|\bMŠ\b|předškol|kindergarten|preschool|nursery|jesle|jesl", re.I)
 
 
 def robots_ok(u):
@@ -44,6 +45,14 @@ def robots_ok(u):
 
 def over(item):
     slug, web = item
+    v = over1(slug, web)
+    if v[1]["duvod"].startswith("chyba") and not re.search(r"Not Found|Name or service", v[1]["duvod"]):
+        time.sleep(20)
+        v = over1(slug, web)
+    return v
+
+
+def over1(slug, web):
     try:
         if not robots_ok(web):
             return slug, {"ok": False, "duvod": "robots"}
@@ -74,7 +83,7 @@ def over(item):
 
 zbyva = [(s, w) for s, w in sorted(vstup.items()) if s not in vystup]
 print("webů k ověření", len(zbyva), flush=True)
-with ThreadPoolExecutor(8) as ex:
+with ThreadPoolExecutor(4) as ex:
     for n, (s, v) in enumerate(ex.map(over, zbyva)):
         vystup[s] = v
         if n % 200 == 0:
