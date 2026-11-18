@@ -1,5 +1,2 @@
-[12:13:45] Část 15/20: webů 170, hotovo 225, zbývá 1
-[12:14:35] https://www.obecvazany.cz/obec/informace-a-zajimavosti/materska-skola: 22 stránek (galerie mimo web: 0 [], alb: 0), 283 obrázků, 3 fotek ke kontrole
-[12:14:49] tříděno 0/3
-[12:14:49] Dávka 1: hotovo 226/170, se fotkami 79; {'ok': 0, 'lide': 0, 'jine': 3, 'sablona': 0}
-[12:14:49] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 3, 'sablona': 0}
+[12:37:32] Část 15/20: webů 170, hotovo 226, zbývá 0
+[12:37:32] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
