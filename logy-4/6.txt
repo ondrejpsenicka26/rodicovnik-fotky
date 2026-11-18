@@ -1,8 +1,5 @@
-[04:00:00] Část 7/20: webů 150, hotovo 174, zbývá 4
-[04:00:34] https://abacuscb.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 10 fotek ke kontrole
-[04:00:45] https://sportkids-cz.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 37 fotek ke kontrole
-[04:00:58] https://kamennyujezd.cz/materska-skola-detske-skupiny/ds-kamenacek: 23 stránek (galerie mimo web: 0 [], alb: 0), 104 obrázků, 6 fotek ke kontrole
-[04:01:25] https://dslaska.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 9 fotek ke kontrole
-[04:01:44] tříděno 0/62
-[04:01:51] Dávka 1: hotovo 178/150, se fotkami 50; {'ok': 9, 'lide': 8, 'jine': 28, 'sablona': 0}
-[04:01:51] Konec: školek s fotkami 50; {'ok': 9, 'lide': 8, 'jine': 28, 'sablona': 0}
+[08:51:32] Část 7/20: webů 146, hotovo 178, zbývá 1
+[08:52:10] https://skola-chrastany.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 343 obrázků, 2 fotek ke kontrole
+[08:52:21] tříděno 0/2
+[08:52:21] Dávka 1: hotovo 179/146, se fotkami 51; {'ok': 2, 'lide': 0, 'jine': 0, 'sablona': 0}
+[08:52:21] Konec: školek s fotkami 51; {'ok': 2, 'lide': 0, 'jine': 0, 'sablona': 0}

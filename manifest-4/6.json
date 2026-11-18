@@ -1274,6 +1274,36 @@
 "w": 1057
 }
 ],
+"zakladni-skola-a-materska-skola-chrastany-530457": [
+{
+"alt": "",
+"barva": "#ccc5a6",
+"dh": "2144444657d7cd1d",
+"h": 806,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACcQAAEDAwIEBwAAAAAAAAAAAAECAxEABBIhMQUiQVETIzJxgZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQISIUH/2gAMAwEAAhEDEQA/AHLVpy2s2m0XT6eVJgIBGp7xXUfGCjF296ynVsdvb9opq4U6ndadUxiqIx2rVx5RGSSRCiuMj1G2+1QtLg6iI4kxbpCLi6RnE+YQk/VVCvMpdWJJ5BiOpPyaqop5qC4n/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skola-chrastany.cz/prohlidka",
+"typ": "budova",
+"url": "https://www.skola-chrastany.cz/_next/image?url=%2Ffotky%2Fbudova-hero.jpg&w=1920&q=75&dpl=dpl_BiaG6FpyYJKTTrNSwHRRDCAzGXkY",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#cbc3a2",
+"dh": "00546fd65557c40d",
+"h": 630,
+"jistota": 0.995,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skola-chrastany.cz/materska-skola",
+"typ": "budova",
+"url": "https://www.skola-chrastany.cz/og.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-dolni-hermanice-014317": [
 {
 "alt": "",
