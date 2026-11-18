@@ -1,15 +1,2 @@
-[09:22:08] Část 15/20: webů 163, hotovo 188, zbývá 11
-[09:22:45] https://montessoritabor.cz/materska-skola: 4 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 14 fotek ke kontrole
-[09:22:55] https://ms.valtrovice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 165 obrázků, 30 fotek ke kontrole
-[09:22:59] https://msvazanynl.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 322 obrázků, 24 fotek ke kontrole
-[09:23:07] https://slup.cz/materska-skola-slup: 7 stránek (galerie mimo web: 0 [], alb: 0), 299 obrázků, 40 fotek ke kontrole
-[09:23:12] https://msviznov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 538 obrázků, 1 fotek ke kontrole
-[09:23:22] https://mshavlickova.estranky.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 15 fotek ke kontrole
-[09:23:35] https://msduhova.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 89 obrázků, 15 fotek ke kontrole
-[09:23:37] https://msstarapaka.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 50 obrázků, 23 fotek ke kontrole
-[09:23:46] https://skola.obecsudomerice.cz: 36 stránek (galerie mimo web: 588 ['skolasudky.rajce.idnes.cz'], alb: 102), 541 obrázků, 19 fotek ke kontrole
-[09:25:41] https://zsketkovice.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 73 obrázků, 24 fotek ke kontrole
-[09:26:10] https://mskamaradhk.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 464 obrázků, 42 fotek ke kontrole
-[09:26:25] tříděno 0/247
-[09:27:07] Dávka 1: hotovo 199/163, se fotkami 61; {'ok': 23, 'lide': 26, 'jine': 148, 'sablona': 0}
-[09:27:07] Konec: školek s fotkami 61; {'ok': 23, 'lide': 26, 'jine': 148, 'sablona': 0}
+[09:44:24] Část 15/20: webů 155, hotovo 199, zbývá 0
+[09:44:24] Konec: školek s fotkami 61; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
