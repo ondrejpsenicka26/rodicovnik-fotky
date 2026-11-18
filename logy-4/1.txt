@@ -1,6 +1,7 @@
-[11:40:37] Část 2/20: webů 177, hotovo 214, zbývá 2
-[11:41:05] https://mssuchdol.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 75 obrázků, 45 fotek ke kontrole
-[11:44:04] https://ms-krynicka.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 144 obrázků, 37 fotek ke kontrole
-[11:44:21] tříděno 0/82
-[11:44:27] Dávka 1: hotovo 216/177, se fotkami 58; {'ok': 4, 'lide': 10, 'jine': 41, 'sablona': 0}
-[11:44:27] Konec: školek s fotkami 58; {'ok': 4, 'lide': 10, 'jine': 41, 'sablona': 0}
+[12:06:23] Část 2/20: webů 180, hotovo 216, zbývá 3
+[12:06:30] https://www.dslvicata.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 4 fotek ke kontrole
+[12:06:55] https://dsholoubek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 17 fotek ke kontrole
+[12:07:25] https://dsmedvidek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 87 obrázků, 31 fotek ke kontrole
+[12:07:45] tříděno 0/52
+[12:07:49] Dávka 1: hotovo 219/180, se fotkami 60; {'ok': 8, 'lide': 4, 'jine': 26, 'sablona': 0}
+[12:07:49] Konec: školek s fotkami 60; {'ok': 8, 'lide': 4, 'jine': 26, 'sablona': 0}

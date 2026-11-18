@@ -72,6 +72,62 @@
 "w": 1024
 }
 ],
+"detska-skupina-holoubek-ds10609": [
+{
+"alt": "",
+"barva": "#66747d",
+"dh": "35fed6e8787666c9",
+"h": 750,
+"jistota": 0.985,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQAESEFE0EGEjEyYXGhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQADE//aAAwDAQACEQMRAD8Ae1nV3oEjaRHJSB68Kv8AdZp6lfJADRufADdz+0sX34MQRHG0hXcq5VZV08Uql1SEq5UbZIGKZopDmVjpDsibD3nGhlRA4x8UVMR9ZlRmttsEpBJw6pHn2FFXoxcy/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsholoubek.cz/fotogalerie",
+"typ": "budova",
+"url": "https://dsholoubek.cz/images/gallery/big/0.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#91897e",
+"dh": "2139191921055371",
+"h": 750,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsholoubek.cz/fotogalerie",
+"typ": "interier",
+"url": "https://dsholoubek.cz/images/gallery/big/3.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#6b7b57",
+"dh": "63235f53367b4f77",
+"h": 750,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dsholoubek.cz/fotogalerie",
+"typ": "zahrada",
+"url": "https://dsholoubek.cz/images/gallery/big/2.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#7b7f80",
+"dh": "7032f7f171317131",
+"h": 750,
+"jistota": 0.577,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://dsholoubek.cz/fotogalerie",
+"typ": "budova",
+"url": "https://dsholoubek.cz/images/gallery/big/00.jpg",
+"w": 1000
+}
+],
 "detska-skupina-jahoda-albertov-ds00832": [
 {
 "alt": "",
@@ -259,6 +315,62 @@
 "typ": "interier",
 "url": "https://cdn.prod.website-files.com/660fd130391124e87b90d6d1/660fd130391124e87b90d79b_prostory_slunicko_6.jpg",
 "w": 1200
+}
+],
+"detska-skupina-medvidek-ds10138": [
+{
+"alt": "dsmedvidek-loznice",
+"barva": "#988385",
+"dh": "c7e76da63646e65c",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAQP/xAAkEAABBAEDAwUAAAAAAAAAAAABAgMEEQAFITESIiMTFGFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAREjH/2gAMAwEAAhEDEQA/AMkwn30KET1EuCu5N1X2MdMxwqC2siwB5CtVECufk5HHUJrqEFUx/bjvO2dXtY1ER1JMpShVWoAn9wjrV4M9qP2jD/kaV1JPBBwxNDnPmG0SsklO5vnDEhSv/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsmedvidek.cz/prostory/",
+"typ": "interier",
+"url": "https://dsmedvidek.cz/wp-content/uploads/2025/08/020-hrncirova-20250716.jpg",
+"w": 1200
+},
+{
+"alt": "dsmedvidek-att.SsTJ9MRWRDoo7o VpQU4Q2IZXA4OxEledOVg9eUIfMY",
+"barva": "#726c4c",
+"dh": "383d67636a1e37cf",
+"h": 1200,
+"jistota": 0.948,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://dsmedvidek.cz/serpovani-nasich-skolkacku-29-6-2026/",
+"typ": "les",
+"url": "https://dsmedvidek.cz/wp-content/uploads/2026/07/att.SsTJ9MRWRDoo7o-VpQU4Q2IZXA4OxEledOVg9eUIfMY.jpg",
+"w": 900
+},
+{
+"alt": "dsmedvidek-herna",
+"barva": "#a19486",
+"dh": "2171c42333810101",
+"h": 675,
+"jistota": 0.998,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dsmedvidek.cz/prostory/",
+"typ": "interier",
+"url": "https://dsmedvidek.cz/wp-content/uploads/2025/08/IMG_9765_001.jpeg",
+"w": 1200
+},
+{
+"alt": "dsmedvidek-att.XQgUpSaTg7vNfF25OtNvEB7bcDqxp svRtAXKApFGeA",
+"barva": "#717251",
+"dh": "59597f7b7b61a030",
+"h": 1200,
+"jistota": 0.849,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://dsmedvidek.cz/serpovani-nasich-skolkacku-29-6-2026/",
+"typ": "les",
+"url": "https://dsmedvidek.cz/wp-content/uploads/2026/07/att.XQgUpSaTg7vNfF25OtNvEB7bcDqxp-svRtAXKApFGeA.jpg",
+"w": 900
 }
 ],
 "detska-skupina-miniskolka-slunecnice-orlova-ds01935": [
