@@ -1,8 +1,18 @@
-[08:52:20] Část 8/20: webů 148, hotovo 178, zbývá 4
-[08:53:41] https://laziste.cz/obec/materska-skola/o-skole: 32 stránek (galerie mimo web: 0 [], alb: 0), 222 obrázků, 0 fotek ke kontrole
-[08:53:43] https://kostelecnadvltavou.cz/zivot-v-obci/materska-skola: 26 stránek (galerie mimo web: 1 ['www.mskostelec.rajce.net'], alb: 0), 37 obrázků, 1 fotek ke kontrole
-[08:53:56] https://mslipi.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 695 obrázků, 3 fotek ke kontrole
-[08:56:30] https://zszdikov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 120 obrázků, 29 fotek ke kontrole
-[08:56:45] tříděno 0/33
-[08:56:45] Dávka 1: hotovo 182/148, se fotkami 46; {'ok': 1, 'lide': 1, 'jine': 31, 'sablona': 0}
-[08:56:45] Konec: školek s fotkami 46; {'ok': 1, 'lide': 1, 'jine': 31, 'sablona': 0}
+[09:22:17] Část 8/20: webů 162, hotovo 182, zbývá 14
+[09:22:28] https://zidenice.brno.cz/materska-skola-sedmikraska-brno-zengrova-3: nedostupné nebo zakázané
+[09:22:34] https://zsamsoleksovice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 6 fotek ke kontrole
+[09:22:36] https://ms-sobcice.webnode.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 6 fotek ke kontrole
+[09:22:45] https://msradomysl.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 3 fotek ke kontrole
+[09:22:51] https://skola.suchohrdlyumiroslavi.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 0 fotek ke kontrole
+[09:22:59] https://mlazovice.cz/materska-skola-zakladni-informace: 3 stránek (galerie mimo web: 0 [], alb: 0), 57 obrázků, 7 fotek ke kontrole
+[09:23:12] https://ms-kollarova.eu: 20 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 0 fotek ke kontrole
+[09:23:13] https://msdrysice.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 23 fotek ke kontrole
+[09:23:24] https://materska-skola-vintirov.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 13 fotek ke kontrole
+[09:23:29] https://ms-jiriceumiroslavi.cz: 4 stránek (galerie mimo web: 1 ['rajce.idnes.cz'], alb: 0), 162 obrázků, 45 fotek ke kontrole
+[09:23:49] https://msprahapetrovice.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 216 obrázků, 29 fotek ke kontrole
+[09:25:13] https://msrudka.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 1825 obrázků, 10 fotek ke kontrole
+[09:25:23] https://zsvojice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 2131 obrázků, 41 fotek ke kontrole
+[09:28:09] https://zssebrov.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 305 obrázků, 35 fotek ke kontrole
+[09:28:32] tříděno 0/218
+[09:29:10] Dávka 1: hotovo 196/162, se fotkami 51; {'ok': 15, 'lide': 22, 'jine': 128, 'sablona': 0}
+[09:29:10] Konec: školek s fotkami 51; {'ok': 15, 'lide': 22, 'jine': 128, 'sablona': 0}

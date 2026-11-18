@@ -867,6 +867,49 @@
 "w": 900
 }
 ],
+"materska-skola-jirice-u-miroslavi-c-89-614961": [
+{
+"alt": "",
+"barva": "#88745c",
+"dh": "4c38381d0101591b",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAkEAABBAEDAwUAAAAAAAAAAAABAAIDBBESEyEFMkEiUmFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAESIQIDEf/aAAwDAQACEQMRAD8Al6faq2Hlss2j05Go458J74I5JGlsm6wgdh4z9rKsQecNDWAD2gqjaOe/8aAiyXUJTdiJZqtd5jMbyR5ACFxYqbkpcZDk/CEEWXDWf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-jiriceumiroslavi.cz/fotogalerie/391-nase-skolka",
+"typ": "interier",
+"url": "https://ms-jiriceumiroslavi.cz/images/cwgallery/391_483b422bc18968a829a6b482355a5232.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#998673",
+"dh": "3531b9b19983203c",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-jiriceumiroslavi.cz/fotogalerie/391-nase-skolka",
+"typ": "interier",
+"url": "https://ms-jiriceumiroslavi.cz/images/cwgallery/391_d7375ed3f4027419edf507e0900f3fee.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#aab0ab",
+"dh": "cd0d274d1d3c4d4d",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms-jiriceumiroslavi.cz/fotogalerie/391-nase-skolka",
+"typ": "hygiena",
+"url": "https://ms-jiriceumiroslavi.cz/images/cwgallery/391_b7f63f29382c6a998a1f469a201e2d5d.jpg",
+"w": 1200
+}
+],
 "materska-skola-kastanek-590085": [
 {
 "alt": "",
@@ -955,6 +998,36 @@
 "typ": "zahrada",
 "url": "http://www.mslipi.cz/image.php?oid=7735150",
 "w": 1200
+}
+],
+"materska-skola-mlazovice-582929": [
+{
+"alt": "",
+"barva": "#827156",
+"dh": "8fbf3c87a73c37a7",
+"h": 768,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAQAAv/EACQQAAICAgAEBwAAAAAAAAAAAAECAxEABAUSITETIiMyQVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIREiFB/9oADAMBAAIRAxEAPwBibHCWkcBq9YABSfbWF24gxLa8kbrV1YBH7gI+Ja0STJtxPLsFgWfp0HyAe4wwkXY1U8KRomBPl7iryM1ZSOjc88WvKY5pKcdarLByx872wUn7ywYLo7P/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mlazovice.cz/materska-skola-zakladni-informace/",
+"typ": "interier",
+"url": "https://www.mlazovice.cz/static/gallery/stranka-58/img3776-9855.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#898678",
+"dh": "a4b363c3981c7f77",
+"h": 768,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mlazovice.cz/materska-skola-zakladni-informace/",
+"typ": "interier",
+"url": "https://www.mlazovice.cz/static/gallery/stranka-58/img3777-9856.jpg",
+"w": 1024
 }
 ],
 "materska-skola-na-kocourku-nove-straseci-518571": [
@@ -1103,6 +1176,92 @@
 "w": 1200
 }
 ],
+"materska-skola-petrovice-018225": [
+{
+"alt": "",
+"barva": "#905f4c",
+"dh": "c4bc30a999c8cd8e",
+"h": 600,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EAB8QAAICAgIDAQAAAAAAAAAAAAECAAMEESExBRITQf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAhIDERMh/9oADAMBAAIRAxEAPwCNsm98gm9tueASNcfkTeR9a63ewrwTvrvqaWgX5G4mQSF4MGpoWT1aRVX5jLpqSqtE9UUKISFQCoJG4SOkkHJKzP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msprahapetrovice.cz/galerie/trida-jezecci-ve-fotografiich/",
+"typ": "budova",
+"url": "https://www.msprahapetrovice.cz/wp-content/uploads/2026/09/jezecci-001.jpg",
+"w": 1200
+},
+{
+"alt": "Třída Ježečci",
+"barva": "#8b7858",
+"dh": "305139383a1e777b",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msprahapetrovice.cz/nase-tridy/jezecci/",
+"typ": "interier",
+"url": "https://www.msprahapetrovice.cz/wp-content/uploads/2026/09/jezecci_03.jpg",
+"w": 1200
+},
+{
+"alt": "Třída Včeličky",
+"barva": "#a29990",
+"dh": "170f353535b83879",
+"h": 600,
+"jistota": 0.946,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msprahapetrovice.cz/nase-tridy/vcelicky/",
+"typ": "budova",
+"url": "https://www.msprahapetrovice.cz/wp-content/uploads/2026/09/vcelicky_03.jpg",
+"w": 1200
+},
+{
+"alt": "Třída Koťátka",
+"barva": "#b9956b",
+"dh": "0f01cbc95b1b0f87",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msprahapetrovice.cz/nase-tridy/kotatka/",
+"typ": "interier",
+"url": "https://www.msprahapetrovice.cz/wp-content/uploads/2026/09/kotatka_02.jpg",
+"w": 1200
+}
+],
+"materska-skola-radomysl-534843": [
+{
+"alt": "",
+"barva": "#626a73",
+"dh": "0c01050f1bd2c383",
+"h": 801,
+"jistota": 0.983,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAIhAAAgIBBAEFAAAAAAAAAAAAAQIAEQMEEiExIgUyQVFh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHBEAAgICAwAAAAAAAAAAAAAAAAIBAxEhEiLw/9oADAMBAAIRAxEAPwCRg0LPQAjT6XiCe8Mw7HUGmfI7i3bj6NSzpipwq20+YN21/nzNbLGleuiESInZOyaNN1AvQ48QZo/IG30G646E0Dxs9gRlT//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msradomysl.cz/o-nas/",
+"typ": "budova",
+"url": "https://msradomysl.cz/wp-content/uploads/radomysl-4.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#847a66",
+"dh": "0209c8c89a8be2d3",
+"h": 842,
+"jistota": 0.815,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msradomysl.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://msradomysl.cz/wp-content/uploads/radomysl-2.jpeg",
+"w": 1124
+}
+],
 "materska-skola-svetla-hora-501759": [
 {
 "alt": "",
@@ -1247,6 +1406,62 @@
 "typ": "zahrada",
 "url": "https://56f4d4ec16.clvaw-cdnwnd.com/28caaec56072ea7c58105ee88c61b9f2/200000026-5b8845b887/700/M%C5%A0%20Ve%C4%8Dern%C3%AD%C4%8Dek%20%281%29.jpeg?ph=56f4d4ec16",
 "w": 700
+}
+],
+"materska-skola-vintirov-546108": [
+{
+"alt": "",
+"barva": "#716f6f",
+"dh": "0fa7a1a7021b0f23",
+"h": 897,
+"jistota": 0.948,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMGBf/EACMQAAEDBAEEAwAAAAAAAAAAAAEAAgMEBREhEgYjMXGRscH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABES/9oADAMBAAIRAxEAPwBUPVLo3VTiNOZ2WHB4HwD8bW7ZL1T1VsEldNG2QOIyRjIUQxsTW44A+0zkPLQAfpAzjWsl1tIfqpB9MJ/EKFL5BoHSFrSuW//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.materska-skola-vintirov.cz/",
+"typ": "budova",
+"url": "https://2e5cb6fedb.clvaw-cdnwnd.com/75f28cea93f7d19af034cf5cd4a37610/200000223-da5fcda600/353895782_784653563101180_5537614391698650154_n.jpeg?ph=2e5cb6fedb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#54554d",
+"dh": "3f7dd93b7ffcaf3d",
+"h": 900,
+"jistota": 0.971,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.materska-skola-vintirov.cz/",
+"typ": "zahrada",
+"url": "https://2e5cb6fedb.clvaw-cdnwnd.com/75f28cea93f7d19af034cf5cd4a37610/200000642-e6057e6058/z4-5.jpeg?ph=2e5cb6fedb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#746f73",
+"dh": "030f3c30c8f97e51",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.materska-skola-vintirov.cz/programy/",
+"typ": "budova",
+"url": "https://2e5cb6fedb.clvaw-cdnwnd.com/75f28cea93f7d19af034cf5cd4a37610/200000000-a5b50a5b53/277079792_386622516349070_8334922639127684267_n.jpg?ph=2e5cb6fedb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5c5e53",
+"dh": "f1f9f9c3c7f77b25",
+"h": 900,
+"jistota": 0.968,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.materska-skola-vintirov.cz/",
+"typ": "zahrada",
+"url": "https://2e5cb6fedb.clvaw-cdnwnd.com/75f28cea93f7d19af034cf5cd4a37610/200000640-16f3c16f3d/z3-45.jpeg?ph=2e5cb6fedb",
+"w": 1200
 }
 ],
 "mini-skolka-vlnenka-i-detska-skupina-ds02248": [
