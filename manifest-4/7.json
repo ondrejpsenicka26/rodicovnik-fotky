@@ -231,6 +231,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-matylda-1-ds10264": [
+{
+"alt": "",
+"barva": "#628098",
+"dh": "6138d278ba9343e8",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAgX/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMAESEEEhUiMUEFFEJRcYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAB/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxMxUf/aAAwDAQACEQMRAD8Adm0W2O8rqUX1MbbRS8UMbSBUkAZspuxu74+q4fH5VLFk3FgAeduxv71pfH4vMvNJpbu5BJDX6DpYikOya0g6qg9lKukkYAksfgXFFR3Emzg2vjmI/DRVklw3HHp//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsmatylda.cz/galerie/",
+"typ": "budova",
+"url": "https://dsmatylda.cz/wp-content/uploads/2025/07/IMG_4923.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#afa185",
+"dh": "c9c9535f7442e3f8",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsmatylda.cz/galerie/",
+"typ": "interier",
+"url": "https://dsmatylda.cz/wp-content/uploads/2025/07/IMG_4891.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#747d8b",
+"dh": "0303936135944000",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dsmatylda.cz/galerie/",
+"typ": "budova",
+"url": "https://dsmatylda.cz/wp-content/uploads/2025/07/IMG_4852.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a99b8f",
+"dh": "26949a4eda786ccd",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://dsmatylda.cz/galerie/",
+"typ": "interier",
+"url": "https://dsmatylda.cz/wp-content/uploads/2025/07/IMG_4884.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-mysicky-ds01837": [
 {
 "alt": "",
@@ -328,6 +384,62 @@
 "typ": "hygiena",
 "url": "https://www.dsneznalek.cz/assets/photos/img_12.jpg?v=21",
 "w": 832
+}
+],
+"detska-skupina-pastelky-ds00991": [
+{
+"alt": "og",
+"barva": "#baa284",
+"dh": "4949496e440d7334",
+"h": 799,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAfEAEAAQMEAwAAAAAAAAAAAAABAgARMQMSEyEEgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECITH/2gAMAwEAAhEDEQA/ANFdNCyDf7TO0luZAY91U8eEIacYwgFuhy1MazmQSBw90FaIqSHlxtpbyyXOmijkZ2cUUQvT/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.pastelkybabice.cz/",
+"typ": "interier",
+"url": "https://www.pastelkybabice.cz/wp-content/uploads/2020/01/banner-02.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#65693d",
+"dh": "83335dc4cddad363",
+"h": 600,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.pastelkybabice.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.pastelkybabice.cz/wp-content/uploads/2022/04/DOL_3058.jpg",
+"w": 900
+},
+{
+"alt": "banner-image",
+"barva": "#b8a285",
+"dh": "4d4d6d2746043914",
+"h": 750,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.pastelkybabice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.pastelkybabice.cz/wp-content/uploads/2020/01/cropped-banner-02-1.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#868c4f",
+"dh": "0927abab6b6d4d33",
+"h": 600,
+"jistota": 0.989,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.pastelkybabice.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.pastelkybabice.cz/wp-content/uploads/2022/04/DOL_3065.jpg",
+"w": 900
 }
 ],
 "detska-skupina-sam-sebou-ds01164": [
