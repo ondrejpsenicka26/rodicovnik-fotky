@@ -1,4 +1,21 @@
 {
+"detska-skupina-broucci-ds01419": [
+{
+"alt": "Fotka vnitřních prostor objektu",
+"barva": "#b89f76",
+"dh": "f058115536b118bc",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EACEQAAICAgEEAwAAAAAAAAAAAAECAxEAEgQTISJRMWGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAIRAf/aAAwDAQACEQMRAD8AsbgohaMNsATq1VfvECeM7v03pX11HliuJJtyJFCio1Ja7O3b8ye8xik3QBQpvUfeZXerR8TaU35wVqTjSsK+arDMWZioPvDALh//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ds-broucci.cz/",
+"typ": "interier",
+"url": "https://ds-broucci.cz/images/room.jpg",
+"w": 1200
+}
+],
 "detska-skupina-dubinek-i-ds10991": [
 {
 "alt": "",
@@ -377,6 +394,36 @@
 "w": 960
 }
 ],
+"detska-skupina-skolka-kostik-ds10298": [
+{
+"alt": "",
+"barva": "#939188",
+"dh": "6c6673c20e0c0912",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFAwT/xAAjEAACAgIBAgcAAAAAAAAAAAABAgQRAAMhFHEFEhMxQZKx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwB7/EfUhjSgGx0VVQLdmvb9xxtMzdqKyYW5aFhhxz2zSGE0KAt8fOdhlea7Z/tknOJgjT7I6ZyATRJ5rDKvV98MRI//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkakostik.cz/",
+"typ": "interier",
+"url": "https://skolkakostik.cz/wp-content/uploads/2025/06/ObrzekWhatsApp2025-06-02v21.19.42_f3584cc1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#79716d",
+"dh": "cdcf4bcbda36397c",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkakostik.cz/",
+"typ": "interier",
+"url": "https://skolkakostik.cz/wp-content/uploads/2025/06/ObrzekWhatsApp2025-06-02v21.19.39_23117afc.jpg",
+"w": 1200
+}
+],
 "detska-skupina-vesela-skolicka-zuzanka-turany-ds00592": [
 {
 "alt": "Kobylnice",
@@ -422,6 +469,49 @@
 "typ": "budova",
 "url": "https://mspoznanska.cz/w/wp-content/uploads/2022/10/IMG_20221004_160932aaa.jpg",
 "w": 1200
+}
+],
+"detska-skupina-wantici-ds02338": [
+{
+"alt": "",
+"barva": "#877058",
+"dh": "26295dd2b723b213",
+"h": 1200,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EACQQAAICAgIBAwUAAAAAAAAAAAECAxEAEgQhEwVBURUiYnGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEBAQEBAQAAAAAAAAAAAAABABECITH/2gAMAwEAAhEDEQA/AIrxGELbceQttSyKer+K98z4WVtWGp/LrOmTmSJIscMJkQKCWX5w3qHITfzooFUBd910Ml4zBudoJFNFTjH1igokUM4H3Fjp3+qxhxnjbi5B0ljQ0rCryUdKmrdge2RiOXQWTeBqAWF0cbDv+Yych1frrGLKL10P2//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dswantici.cz/fotogalerie/interier/",
+"typ": "interier",
+"url": "https://dswantici.cz/wp-content/uploads/2025/04/IMG_0168-scaled.webp",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#82715f",
+"dh": "5919141db9c3d163",
+"h": 1200,
+"jistota": 0.997,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dswantici.cz/fotogalerie/interier/",
+"typ": "interier",
+"url": "https://dswantici.cz/wp-content/uploads/2025/04/IMG_0172-scaled.webp",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#908d7c",
+"dh": "9c9c9d4813191919",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dswantici.cz/fotogalerie/interier/",
+"typ": "hygiena",
+"url": "https://dswantici.cz/wp-content/uploads/2025/04/IMG_0169-scaled.webp",
+"w": 900
 }
 ],
 "detska-skupina-zvidalek-ds02002": [
