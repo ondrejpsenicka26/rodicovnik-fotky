@@ -1,2 +1,15 @@
-[09:44:24] Část 9/20: webů 140, hotovo 190, zbývá 0
-[09:44:24] Konec: školek s fotkami 68; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:01] Část 9/20: webů 151, hotovo 190, zbývá 11
+[09:54:06] https://zs-charvaty4.webnode.cz: 3 stránek (galerie mimo web: 15 ['www.rajce.net'], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:17] https://mskokonin.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 0 fotek ke kontrole
+[09:54:20] https://ms.novahradecna.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 0 fotek ke kontrole
+[09:54:20] https://zsradvanice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 4 fotek ke kontrole
+[09:54:24] https://mspistalkaprerov.webnode.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 8 fotek ke kontrole
+[09:54:36] https://mssedmikrasky.webnode.cz: 25 stránek (galerie mimo web: 1 ['jeslecajkovskeho.rajce.idnes.cz'], alb: 0), 32 obrázků, 11 fotek ke kontrole
+[09:55:08] https://msmerovice.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 316 obrázků, 45 fotek ke kontrole
+[09:55:27] https://velkakras.cz/cs/pro-obcany/materska-skola/a-640: 4 stránek (galerie mimo web: 3 ['eu.zonerama.com'], alb: 0), 566 obrázků, 42 fotek ke kontrole
+[09:55:31] https://zshajnice.cz: 25 stránek (galerie mimo web: 1 ['zshajnice.rajce.idnes.cz'], alb: 0), 187 obrázků, 38 fotek ke kontrole
+[09:55:51] https://msmatousova.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
+[09:57:07] https://msklimkovice.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 953 obrázků, 11 fotek ke kontrole
+[09:58:47] tříděno 0/159
+[09:59:13] Dávka 1: hotovo 201/151, se fotkami 73; {'ok': 16, 'lide': 8, 'jine': 92, 'sablona': 0}
+[09:59:13] Konec: školek s fotkami 73; {'ok': 16, 'lide': 8, 'jine': 92, 'sablona': 0}
