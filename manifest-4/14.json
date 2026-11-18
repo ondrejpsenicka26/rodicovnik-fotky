@@ -16,6 +16,36 @@
 "w": 700
 }
 ],
+"detska-skupina-i-pri-materske-skole-kaplice-nove-domky-kaplice-ds11281": [
+{
+"alt": "",
+"barva": "#605e50",
+"dh": "f183a74181a79e30",
+"h": 900,
+"jistota": 0.989,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAFBgL/xAAjEAABAwMEAgMAAAAAAAAAAAABAAIDBBESBQYhMRMyQVFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREiEx/9oADAMBAAIRAxEAPwBU7VajK/kIFiAMSO0129rQoqaRpizcXX7slDaUOJL3Yg/PZWGzsa0xxXcSfZxssWl6OcRTzbkqDIcMWD6shTZhkPLpefwcIVdBKP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnovedomky.cz/bwg_gallery/nase-zahradka-2022-2023/",
+"typ": "zahrada",
+"url": "https://www.msnovedomky.cz/wp-content/uploads/photo-gallery/Zahradka_2223/20221017_095133_(1).jpg?bwg=1699880931",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5a564f",
+"dh": "17010909079f96c4",
+"h": 1200,
+"jistota": 0.748,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnovedomky.cz/bwg_gallery/nase-zahradka-2022-2023/",
+"typ": "zahrada",
+"url": "https://www.msnovedomky.cz/wp-content/uploads/photo-gallery/Zahradka_2223/20221017_095154_(1).jpg?bwg=1699880931",
+"w": 900
+}
+],
 "detska-skupina-jahoda-cerny-most-ds00061": [
 {
 "alt": "",
@@ -143,6 +173,49 @@
 "typ": "hygiena",
 "url": "https://www.panenskebrezany.cz/data/multipage/editor/editor-9-37-cs_3.jpg?gcm_date=1586199330",
 "w": 765
+}
+],
+"detska-skupina-parnicek-ds02056": [
+{
+"alt": "Naše DS",
+"barva": "#aeaea1",
+"dh": "a550d3ab99d9de27",
+"h": 843,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADgAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAABBQQG/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDAAQRIkIFEhMxcSEyQYHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIQL/2gAMAwEAAhEDEQA/ALIWIXDhSxZfdncPjzTihhDrGSNOpUz64rHcWDz3KzvKUA2Lu800sHhbqQSnmUYAbt+/dAebTlSEcWSSgYk5JIyaK56743PZTmF1DnvmikO9tPLf/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsparnicek.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.dsparnicek.cz/file/image/optimized/domain-page-gallery/large/8bfd4016ad71d0463cc505862b00aae2.jpeg",
+"w": 1200
+},
+{
+"alt": "Naše DS",
+"barva": "#b19b73",
+"dh": "f5d59d72c684891a",
+"h": 872,
+"jistota": 0.961,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsparnicek.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.dsparnicek.cz/file/image/optimized/domain-page-gallery/large/c0d9c395a902bef0bd8b443afd858fb8.jpeg",
+"w": 1200
+},
+{
+"alt": "Naše DS",
+"barva": "#abb4ad",
+"dh": "034907e949898306",
+"h": 896,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dsparnicek.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://www.dsparnicek.cz/file/image/optimized/domain-page-gallery/large/7ca341e510d5853c90097ad0bcde5b28.jpeg",
+"w": 1200
 }
 ],
 "detska-skupina-pred-skolkou-ds01617": [
