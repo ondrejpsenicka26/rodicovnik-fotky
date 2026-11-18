@@ -1,14 +1,2 @@
-[09:22:11] Část 14/20: webů 172, hotovo 185, zbývá 10
-[09:22:21] https://mszelna.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 2 fotek ke kontrole
-[09:22:22] https://mspribyslavice.webnode.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 4 fotek ke kontrole
-[09:22:28] https://msbretislavova.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 0 fotek ke kontrole
-[09:22:34] https://zs-sentice.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 12 fotek ke kontrole
-[09:22:36] https://materska-skola-nebovidy.webnode.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 18 fotek ke kontrole
-[09:22:37] https://skolkavaltice.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 68 obrázků, 37 fotek ke kontrole
-[09:22:58] https://msklimentov.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 79 obrázků, 34 fotek ke kontrole
-[09:23:00] https://obecvidochov.cz/obec/materska-a-zakladni-skola: 5 stránek (galerie mimo web: 0 [], alb: 0), 548 obrázků, 34 fotek ke kontrole
-[09:23:01] https://zsmsstadlec.cz: 3 stránek (galerie mimo web: 3 ['msstadlec2.rajce.idnes.cz', 'skolkastadlec2.rajce.idnes.cz', 'zsstadlec.rajce.idnes.cz'], alb: 1), 65 obrázků, 28 fotek ke kontrole
-[09:23:04] https://msvacenovice.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 193 obrázků, 45 fotek ke kontrole
-[09:23:24] tříděno 0/214
-[09:23:50] Dávka 1: hotovo 195/172, se fotkami 44; {'ok': 15, 'lide': 8, 'jine': 167, 'sablona': 0}
-[09:23:50] Konec: školek s fotkami 44; {'ok': 15, 'lide': 8, 'jine': 167, 'sablona': 0}
+[09:44:18] Část 14/20: webů 168, hotovo 195, zbývá 0
+[09:44:18] Konec: školek s fotkami 44; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
