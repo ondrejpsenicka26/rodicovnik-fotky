@@ -429,6 +429,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-v-zahradce-ds01018": [
+{
+"alt": "IMG_20180520_180612.jpg",
+"barva": "#605d54",
+"dh": "2241344c4d4d4580",
+"h": 1200,
+"jistota": 0.976,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFEjETIhQhQVFhcYGRocH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AIYL4Cjk8n2p60ukjdDIoeNRgljgkewrjaFd8AjYN1iU2sPLkZpi5siOnLCrFXUN2gn9/wAqblJ8porFvdahHbxrZiWeHb2sGxt+Dkc0VKiuPCJ02kZDyRnFFOU0ollK0dxZsPPp933yTWkF74jT4IxMI2CDcp9foazNsitImRwB6/FOljFJFHGSqEgYBpuWNRuDvkyxhmwMB3Uk4/FFXdGtIZtPR5U3NkjJY0UeuRxv/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://vzahradce.cz/fotogalerie/p%C3%A1r-oka-m%C5%BEik%C3%BA-ze-stavby-z%C3%A1zem%C3%AD/",
+"typ": "les",
+"url": "http://vzahradce.cz/media/images/IMG_20180520_180612.max-1200x1200.jpg",
+"w": 899
+},
+{
+"alt": "IMG_20180430_162036.jpg",
+"barva": "#484443",
+"dh": "8d07654dc7632308",
+"h": 899,
+"jistota": 0.555,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "http://vzahradce.cz/fotogalerie/p%C3%A1r-oka-m%C5%BEik%C3%BA-ze-stavby-z%C3%A1zem%C3%AD/",
+"typ": "les",
+"url": "http://vzahradce.cz/media/images/IMG_20180430_162036.max-1200x1200.jpg",
+"w": 1200
+}
+],
 "detska-skupina-vseznalkov-ds01480": [
 {
 "alt": "IMG_9919",

@@ -1,10 +1,5 @@
-[10:15:20] Část 10/20: webů 169, hotovo 196, zbývá 6
-[10:16:04] https://obeckosov.webnode.cz/skolka: 29 stránek (galerie mimo web: 18 ['eu.zonerama.com', 'us.zonerama.com', 'www.zonerama.com'], alb: 0), 144 obrázků, 2 fotek ke kontrole
-[10:16:10] https://msrakova.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 2 fotek ke kontrole
-[10:16:23] https://msrestoky.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 35 fotek ke kontrole
-[10:16:33] https://zsmsoskava.cz: 18 stránek (galerie mimo web: 1 ['zsoskava.rajce.idnes.cz'], alb: 0), 283 obrázků, 10 fotek ke kontrole
-[10:16:37] https://msdoloplazy.estranky.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 133 obrázků, 0 fotek ke kontrole
-[10:16:45] https://skoladrozdov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 227 obrázků, 24 fotek ke kontrole
-[10:16:57] tříděno 0/73
-[10:17:01] Dávka 1: hotovo 202/169, se fotkami 53; {'ok': 5, 'lide': 3, 'jine': 65, 'sablona': 0}
-[10:17:01] Konec: školek s fotkami 53; {'ok': 5, 'lide': 3, 'jine': 65, 'sablona': 0}
+[10:40:16] Část 10/20: webů 169, hotovo 202, zbývá 1
+[10:40:59] http://vzahradce.cz: 10 stránek (galerie mimo web: 1 ['vzahradce.rajce.idnes.cz'], alb: 1), 33 obrázků, 15 fotek ke kontrole
+[10:41:12] tříděno 0/15
+[10:41:13] Dávka 1: hotovo 203/169, se fotkami 54; {'ok': 2, 'lide': 0, 'jine': 13, 'sablona': 0}
+[10:41:13] Konec: školek s fotkami 54; {'ok': 2, 'lide': 0, 'jine': 13, 'sablona': 0}
