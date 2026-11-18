@@ -373,6 +373,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-mlynek-ds01275": [
+{
+"alt": "",
+"barva": "#6b7171",
+"dh": "3b11511307273839",
+"h": 600,
+"jistota": 0.782,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADAAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAQME/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDEQAEBRMhEjEUIkFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERJB/9oADAMBAAIRAxEAPwBbtkk7SEadR439wRfWMYG1iGSSeKlBFeC0CveVbFK+k5ZY2NuPR9Dv8yZdbPKQeQqqIQEU0tYO2pJSt3BdNvUsszNCOJLoL11hmn5LIaCJX8wx6t+meEf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://mikrojeslemlynek.cz/",
+"typ": "budova",
+"url": "http://mikrojeslemlynek.cz/templates/yootheme/cache/4-06ee6510.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#a8a9a6",
+"dh": "fab4353549973743",
+"h": 600,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "http://mikrojeslemlynek.cz/",
+"typ": "interier",
+"url": "http://mikrojeslemlynek.cz/templates/yootheme/cache/uebna-87c9bca6.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#5b6036",
+"dh": "1412c99d05230d0f",
+"h": 600,
+"jistota": 0.987,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "http://mikrojeslemlynek.cz/",
+"typ": "zahrada",
+"url": "http://mikrojeslemlynek.cz/templates/yootheme/cache/zahrada-a7347559.jpeg",
+"w": 1000
+}
+],
 "detska-skupina-montessori-na-dlani-ds02119": [
 {
 "alt": "",
