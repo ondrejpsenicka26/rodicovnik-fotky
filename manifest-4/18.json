@@ -416,6 +416,79 @@
 "w": 1200
 }
 ],
+"detska-skupina-mozaika-i-ds01462": [
+{
+"alt": "",
+"barva": "#525246",
+"dh": "09681f0949484818",
+"h": 666,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACEQAAICAgIBBQAAAAAAAAAAAAECAAMEERMhEgUiYZHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAbEQACAQUAAAAAAAAAAAAAAAAAASECERITcf/aAAwDAQACEQMRAD8An8L1GmutRarqw6L1sRv51HNmQ9GTSqZFxFiEgtogAHvYkxjAMArAEeU0uduYe49AAdyZvA6VT5WauuJqrFI35cf7CKK8u5kBL/QAhJ21qBgmf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsmozaika.cz/o-nas/",
+"typ": "budova",
+"url": "https://8f712a9345.clvaw-cdnwnd.com/112e7f690100304a5f99719ba49d9dcf/200000522-bf998bf99a/14329195_10153988117937252_2013816293_o.jpeg?ph=8f712a9345",
+"w": 1184
+},
+{
+"alt": "",
+"barva": "#b6a58e",
+"dh": "5696862c06878703",
+"h": 831,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsmozaika.cz/nase-tridy/",
+"typ": "interier",
+"url": "https://8f712a9345.clvaw-cdnwnd.com/112e7f690100304a5f99719ba49d9dcf/200000194-9e00a9e00b/modrasci.jpg?ph=8f712a9345",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#4b4d39",
+"dh": "c5d3c3c32e677464",
+"h": 666,
+"jistota": 0.979,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dsmozaika.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://8f712a9345.clvaw-cdnwnd.com/112e7f690100304a5f99719ba49d9dcf/200000526-2b4ae2b4b2/14393917_10153988117907252_1627534410_o.jpeg?ph=8f712a9345",
+"w": 1184
+},
+{
+"alt": "",
+"barva": "#575258",
+"dh": "ce6c7cced8b81c89",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dsmozaika.cz/nase-tridy/",
+"typ": "interier",
+"url": "https://8f712a9345.clvaw-cdnwnd.com/112e7f690100304a5f99719ba49d9dcf/200000416-09d7009d72/F4B1A56D-36B6-413E-8B0E-8665D3D025F0.jpeg?ph=8f712a9345",
+"w": 1200
+}
+],
+"detska-skupina-pohadka-ds02034": [
+{
+"alt": "og",
+"barva": "#83867c",
+"dh": "c892a333b2a71352",
+"h": 525,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAACBAP/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMABBEFEiETFDFBIlFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARAiH/2gAMAwEAAhEDEQA/AETTUkkkubmLetuAEQ+GY8kn8HFVWrRymTJXKLkgDxUUOrWrKe4kcqwCkgcZ+yKe11G3lWXpxrjB+W3G4UDofKxTQtZNQ6bbURGXHDFsZoqYTQ+gFHoY8UVuyy//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dspohadka.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://a294eb0821.clvaw-cdnwnd.com/bf3d75df07cef41a4d77c3d638b0aafb/200000145-c0d9ac0d9c/700/DS%20denn%C3%AD%20m%C3%ADstnost.jpeg?ph=a294eb0821",
+"w": 700
+}
+],
 "detska-skupina-progres-haje-ds02140": [
 {
 "alt": "",
