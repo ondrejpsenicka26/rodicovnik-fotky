@@ -175,6 +175,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-mimiskolka-kuzlatka-ds02006": [
+{
+"alt": "",
+"barva": "#a27e71",
+"dh": "a182064e9e5e1e1d",
+"h": 799,
+"jistota": 0.985,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAjEAACAgIBAwUBAAAAAAAAAAABAgMRACEEEjFRBRQygcHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABwRAQACAQUAAAAAAAAAAAAAAAEAAxECITFBUf/aAAwDAQACEQMRAD8ASnEnmmHuZqZ6JHVWj5Pc53LBD6fCzRlOoA/Cv3MRcqWuya8oMRz55XpLRVI2Ag3hlb3vHbPJSilV4InkYF2UE7rDIBZ01YP0f7hiAhjEN1C8z//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskuzlatka.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://mskuzlatka.cz/wp-content/uploads/2025/10/Mimiskolka_Strelice_u_Brna-40.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#bebdc2",
+"dh": "585128495d333341",
+"h": 799,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskuzlatka.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://mskuzlatka.cz/wp-content/uploads/2025/10/Mimiskolka_Strelice_u_Brna-04.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#90a198",
+"dh": "5b37b053001c1abf",
+"h": 799,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mskuzlatka.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://mskuzlatka.cz/wp-content/uploads/2025/10/Mimiskolka_Strelice_u_Brna-32.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9f9da4",
+"dh": "0d098bcbcd0f070f",
+"h": 799,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mskuzlatka.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://mskuzlatka.cz/wp-content/uploads/2025/10/Mimiskolka_Strelice_u_Brna-02.jpg",
+"w": 1200
+}
+],
 "materska-skola-berusky-510057": [
 {
 "alt": "",
@@ -216,6 +272,62 @@
 "typ": "interier",
 "url": "https://msberusky.cz/wp-content/uploads/2023/09/IMG-20230901-WA0014.jpg",
 "w": 1200
+}
+],
+"materska-skola-brno-466011": [
+{
+"alt": "",
+"barva": "#70685f",
+"dh": "074f298585470707",
+"h": 1005,
+"jistota": 0.692,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABkAAAMAAwAAAAAAAAAAAAAAAAAFBgECBP/EACUQAAIBAwQBBAMAAAAAAAAAAAECAwAEEQUSITEiE0FRcTOBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABgRAQEBAQEAAAAAAAAAAAAAAAARASES/9oADAMBAAIRAxEAPwBPa2UK7ZGBKDvLZH8FUb6bpuGCqnGMHcMHmpiykYMYnbbER8A4p2rxiBCArsuFOF6NH0sItdjig1Ax26gIFHXzRW2rqr6lN4txgeP0KKVSM2qh5FwOBj91RTtus9jdEc0hsel+hTeQn0jz7VnnD3pG8cs1xMxLMd+Mn34FFd+nqCkxOfyt0TRSiV//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mslabska.cz/interiery-skolky_mw56",
+"typ": "budova",
+"url": "https://www.mslabska.cz/project/images/001/4326_w1005.jpg",
+"w": 753
+},
+{
+"alt": "",
+"barva": "#887e70",
+"dh": "cc7c84e44c2c0669",
+"h": 753,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mslabska.cz/interiery-skolky_mw56",
+"typ": "interier",
+"url": "https://www.mslabska.cz/project/images/001/4330_w1005.jpg",
+"w": 1005
+},
+{
+"alt": "",
+"barva": "#787769",
+"dh": "28e8c07b2b6eed67",
+"h": 753,
+"jistota": 0.981,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mslabska.cz/prirodni-zahrada_mw35",
+"typ": "zahrada",
+"url": "https://www.mslabska.cz/project/images/003/4719_w1005.jpg",
+"w": 1005
+},
+{
+"alt": "",
+"barva": "#80826f",
+"dh": "58a68636feb1db86",
+"h": 753,
+"jistota": 0.924,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mslabska.cz/prirodni-zahrada_mw35",
+"typ": "les",
+"url": "https://www.mslabska.cz/project/images/003/4718_w1005.jpg",
+"w": 1005
 }
 ],
 "materska-skola-bystricka-633761": [
@@ -800,6 +912,23 @@
 "typ": "interier",
 "url": "https://www.sebranice.cz/materskaskola/image.php?nid=1395&oid=12154223&width=760&height=471",
 "w": 760
+}
+],
+"materska-skola-stepanov-627396": [
+{
+"alt": "og",
+"barva": "#626768",
+"dh": "94dcfe7415138c72",
+"h": 1200,
+"jistota": 0.963,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAJhAAAgICAQIFBQAAAAAAAAAAAQIAAwQREiFBIjEyYaFRcYHR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAxH/2gAMAwEAAhEDEQA/ANW3EoFhJIVu/wCohmmjFQhnCL794vTnHIQVoNa6EuAT+IjdUwDO3F2IA2xG+uvKaOoHCgzVtfHyceyvkt1RG+7AfBhMZsatjvaH7vCBvLlK1uU9Hh9xuWOQygjkSD8Ti3RRqUqJL9ZjV2uzK52ycj9dwkAnX8hHkX//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkastepanov.cz/fotogalerie/budova-skoly",
+"typ": "budova",
+"url": "http://www.skolkastepanov.cz/image.php?oid=10635963",
+"w": 900
 }
 ],
 "materska-skola-svojetice-516055": [
