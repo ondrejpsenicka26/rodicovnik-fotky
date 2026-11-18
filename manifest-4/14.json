@@ -59,6 +59,208 @@
 "w": 1200
 }
 ],
+"detska-skupina-moonimals-ds02198": [
+{
+"alt": "",
+"barva": "#cec8bd",
+"dh": "b9b9b9f9b9d9b93f",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACIQAAICAgEDBQAAAAAAAAAAAAECAxEAEiEEBTETYXGh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAwDAQACEQMRAD8AsJHjBpiPFn4yf6OYv3mFDPIR6rDUnjjbj6xlJFHJIGlDMwTUENQq7zNOmjilEqKocG9tRd/iczopNSBhik9ylBICr598MVYk6//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://moonimals.cz/o-skolce/",
+"typ": "interier",
+"url": "https://moonimals.cz/wp-content/uploads/2024/11/anglicka-skolka-moonimals-brno_01.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c7b8a7",
+"dh": "9a9a9a1a5e3d7f6d",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://moonimals.cz/o-skolce/",
+"typ": "interier",
+"url": "https://moonimals.cz/wp-content/uploads/2024/11/anglicka-skolka-moonimals-brno_06.jpg",
+"w": 1200
+}
+],
+"detska-skupina-panenske-brezany-ds01060": [
+{
+"alt": "",
+"barva": "#999587",
+"dh": "460b19198303124e",
+"h": 640,
+"jistota": 0.842,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAhEAABAwIHAQAAAAAAAAAAAAABAgMRAAQFBhITIUFhMf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABgRAQEAAwAAAAAAAAAAAAAAAAABAxIT/9oADAMBAAIRAxEAPwBth+YLV0bZUW9Mka/kD2pHMUW9fQ1qLAGlQgQfaw9u6bVJcgL6IPtO99TTZUjjcTyDzFZ3JTIv4hmKyw+6NuvdcUkAktxAnqikjlqw4sqcaSpXZj7RT2Wj/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.panenskebrezany.cz/obec/zakladni-a-materska-skola-1/",
+"typ": "budova",
+"url": "https://www.panenskebrezany.cz/data/template_custom_fields/31_cs_239-mg-8116-3.jpg",
+"w": 960
+},
+{
+"alt": "Hrací místnost",
+"barva": "#876957",
+"dh": "67402327229d3d3e",
+"h": 573,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.panenskebrezany.cz/obec/detska-skupina-panenske-brezany/",
+"typ": "interier",
+"url": "https://www.panenskebrezany.cz/data/multipage/editor/editor-9-37-cs_1.jpg?gcm_date=1586199280",
+"w": 765
+},
+{
+"alt": "Místnost pro pohybové aktivity a odpočinek",
+"barva": "#9c7d59",
+"dh": "646363256dc31332",
+"h": 573,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.panenskebrezany.cz/obec/detska-skupina-panenske-brezany/",
+"typ": "interier",
+"url": "https://www.panenskebrezany.cz/data/multipage/editor/editor-9-37-cs_4.jpg?gcm_date=1586199375",
+"w": 765
+},
+{
+"alt": "Sociální zařízení",
+"barva": "#b89373",
+"dh": "8b8b86d6cdcc5c0c",
+"h": 573,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.panenskebrezany.cz/obec/detska-skupina-panenske-brezany/",
+"typ": "hygiena",
+"url": "https://www.panenskebrezany.cz/data/multipage/editor/editor-9-37-cs_3.jpg?gcm_date=1586199330",
+"w": 765
+}
+],
+"detska-skupina-pred-skolkou-ds01617": [
+{
+"alt": "",
+"barva": "#8d8a89",
+"dh": "cec6c446cacd4ddc",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAQMG/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIRAAMEEiExUSJxcoHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AnVhlWZPO6wp9+6bZIQ4l1YXfSZMSBIrJMzNdBBgqezzI8Vffzr7oqswhSCIH7zUU/e0dvQFj40Unv5LuweSNhzz9UUpH/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://predskolkou.cz/skolka/pred-skolkou-ibc/",
+"typ": "interier",
+"url": "https://predskolkou.cz/wp-content/uploads/2024/08/foto-compressed-60.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b6958",
+"dh": "1b0b0f0c0e0acd9f",
+"h": 801,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://predskolkou.cz/skolka/zidenice/",
+"typ": "zahrada",
+"url": "https://predskolkou.cz/wp-content/uploads/2024/08/foto-compressed-72.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9f9d9d",
+"dh": "49484d0f0f8f8f8f",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://predskolkou.cz/skolka/pred-skolkou-ibc/",
+"typ": "interier",
+"url": "https://predskolkou.cz/wp-content/uploads/2024/08/foto-compressed-66.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#535047",
+"dh": "06034605b633644c",
+"h": 801,
+"jistota": 0.995,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://predskolkou.cz/skolka/pred-skolkou-udolni/",
+"typ": "zahrada",
+"url": "https://predskolkou.cz/wp-content/uploads/2024/08/foto-compressed-35.jpg",
+"w": 1200
+}
+],
+"detska-skupina-vcelicky-ds01479": [
+{
+"alt": "",
+"barva": "#8a8680",
+"dh": "dfdcfcd8d93d86b2",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAC/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQACAwQREgUhMUEUIlGCkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABIRH/2gAMAwEAAhEDEQA/AHavVsZ2hhGbeAN8kNV65UzyYiFxN7ex2CP86oyu4Rud04CxC0J6Z15JA9kpORA3BI+PxHLTkKMkLmguADuwpHjVabnJw+qlnU//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkaznojmo.cz/o-skolce/",
+"typ": "budova",
+"url": "https://skolkaznojmo.cz/wp-content/uploads/2021/02/IMG_20210201_113643.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#676868",
+"dh": "6f9f9898509c8ee7",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkaznojmo.cz/o-skolce/",
+"typ": "budova",
+"url": "https://skolkaznojmo.cz/wp-content/uploads/2021/02/IMG_20210201_113838.jpg",
+"w": 1200
+}
+],
+"detska-skupina-vodenka-kosmonosy-ds01284": [
+{
+"alt": "",
+"barva": "#837b2a",
+"dh": "9c8c263337367663",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUBA//EACEQAAICAgICAwEAAAAAAAAAAAECAwQAESExBRITUXFB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAHhEAAgEDBQAAAAAAAAAAAAAAAQIAAxEhEhMUQVH/2gAMAwEAAhEDEQA/ANoV7KPNbleMEB1+KMHWx/ST3yMTCPytNH4gmVj6BjwWA+/zDeXr04CjK0shdyUA+2PZOSz5uR67xGtWBIOiF1oka3+4Wq1GbXbPRliQMTulqsPZTMFKkgjnvGRYQiqQV3o9knGLclvJl2hP/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkavodenka.cz/",
+"typ": "budova",
+"url": "https://4e37a3c96c.clvaw-cdnwnd.com/e9236c56f59b403bc1e6dc9c89a76721/200000265-5e4295e42c/IMG_0886.jpeg?ph=4e37a3c96c",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#726856",
+"dh": "3179d9a9e9733323",
+"h": 900,
+"jistota": 0.995,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkavodenka.cz/",
+"typ": "budova",
+"url": "https://4e37a3c96c.clvaw-cdnwnd.com/e9236c56f59b403bc1e6dc9c89a76721/200000162-8a0718a074/IMG_8064.jpg?ph=4e37a3c96c",
+"w": 1200
+}
+],
 "genius-kindergarten-materska-skola-s-r-o-126443": [
 {
 "alt": "",
@@ -1189,6 +1391,23 @@
 "stranka": "https://www.zsamstesany.cz/materska-skola/o-materske-skole",
 "typ": "hygiena",
 "url": "https://www.zsamstesany.cz/galleries/255/img/20220603_100150.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-volenice-535009": [
+{
+"alt": "",
+"barva": "#9c9598",
+"dh": "8d99f1799a929389",
+"h": 658,
+"jistota": 0.559,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMGBP/EACMQAAEDBAIBBQAAAAAAAAAAAAECAwQABREhEkEGMVFSobH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIREkH/2gAMAwEAAhEDEQA/AFxmbhLkLZi3NhbqASpAJJAGux705divD+n5DLiEnOCdD6qmiWuFEeU/HjobdcBClDOTk5/a1gAelNKeCmyRf8ZkvOc2GYwSfkrO6Kqi02knigDOzruisaIsn//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zs-a-ms-volenice.eu/home/photogallerycbm_75890/10/",
+"typ": "budova",
+"url": "https://853b82efc8.clvaw-cdnwnd.com/82ec8010f0d123d0723fcb4baea02531/200024514-8947d8a406/nas-areal.jpg",
 "w": 1200
 }
 ],
