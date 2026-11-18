@@ -1,6 +1,2 @@
-[12:13:02] Část 18/20: webů 159, hotovo 204, zbývá 2
-[12:13:55] https://www.oplot.cz/materska-skola: 18 stránek (galerie mimo web: 1 ['oplotoviny.rajce.idnes.cz'], alb: 0), 32 obrázků, 1 fotek ke kontrole
-[12:14:32] https://www.racetice.cz/ms-35: 34 stránek (galerie mimo web: 0 [], alb: 0), 72 obrázků, 0 fotek ke kontrole
-[12:14:45] tříděno 0/1
-[12:14:45] Dávka 1: hotovo 206/159, se fotkami 65; {'ok': 0, 'lide': 0, 'jine': 1, 'sablona': 0}
-[12:14:45] Konec: školek s fotkami 65; {'ok': 0, 'lide': 0, 'jine': 1, 'sablona': 0}
+[12:37:23] Část 18/20: webů 159, hotovo 206, zbývá 0
+[12:37:23] Konec: školek s fotkami 65; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
