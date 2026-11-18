@@ -158,6 +158,139 @@
 "w": 1200
 }
 ],
+"detska-skupina-loucka-2-ds01776": [
+{
+"alt": "Jak funguje dětská skupina?",
+"barva": "#876a46",
+"dh": "37d9c94dd404f0ff",
+"h": 800,
+"jistota": 0.925,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAjEAACAgIBAgcAAAAAAAAAAAABAgMRACEFBBQSMTIzUXGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHBEAAgICAwAAAAAAAAAAAAAAAAIBEQMSUZHw/9oADAMBAAIRAxEAPwDkcjJHIkaOFRgbUkWfzWbJyEpb3AQ1Bt+Z3WTN0yD02Po4uUFEYlmYfBOZpuhFyq00MaZ9eBVAre63hk3fxAAdnGa1ZY4ZO78e7F0Q/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.louckavbrne.com/",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/f0cf6b_28d422aad4134a4281581fdc4c02e2c1~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#343827",
+"dh": "deaf4f4a4b5e3a3e",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.louckavbrne.com/",
+"typ": "les",
+"url": "https://static.wixstatic.com/media/f0cf6b_00e0b4502f89432e96da591e8fc02c89~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "_MG_3485.jpg",
+"barva": "#c4aa8f",
+"dh": "2c64666660e3662b",
+"h": 800,
+"jistota": 0.836,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.louckavbrne.com/",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/f0cf6b_d6bc38c5b01d4fd39aabf8a5627e577b~mv2.jpg",
+"w": 1200
+}
+],
+"detska-skupina-panda-club-ds01804": [
+{
+"alt": "",
+"barva": "#848785",
+"dh": "64757365d8d2f1f9",
+"h": 903,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEEQUSIUETMWHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQEBAAMBAAAAAAAAAAAAAAABAAIDEhH/2gAMAwEAAhEDEQA/AKlzJG9m4ZNh9AtxSVpd+CJlLwlfIGHJ6HdY15BNdKWUEIvA6GalIiq+GAPOM9gUdj7QwArcuqXKSFUMW0esqT9opKa2u45CEbevR4/aKnWU5L//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://pandaclub.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://pandaclub.cz/images/gallery/poledni-odpocinek.jpg",
+"w": 1200
+}
+],
+"detska-skupina-potucek-ds00807": [
+{
+"alt": "",
+"barva": "#908079",
+"dh": "2779c5ed393eeffb",
+"h": 1200,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQUG/8QAIxAAAQMDBAMBAQAAAAAAAAAAAQACAwQFERMhIjESQXEUMv/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhEDEQA/AJqinp6aV0M1VTseBktIf1jPoKw20PfE3E0Om8DA5YIO4Vg3CGSJ2WPjyTxBG22O1zVfergKpheCyOJwLB45B+lJYpN1i804oa7R8WfyDw63+oqlwuZuVTrzOjY/AbhoPpEp5qNo9xBOFG7fY9IiqlEP5IJOTo25+IiLA//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.studanka-tisnov.cz/pece-o-deti/detska-skupina-potucek/",
+"typ": "budova",
+"url": "https://www.studanka-tisnov.cz/wp-content/uploads/2023/04/IMG_20210924_130823_496-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#968d88",
+"dh": "e0e0a6e420a4fcfc",
+"h": 900,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.studanka-tisnov.cz/akce-a-program/herna/",
+"typ": "interier",
+"url": "https://www.studanka-tisnov.cz/wp-content/uploads/2022/06/IMG_20220404_134754_173.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#95a08d",
+"dh": "59f0f0fcfbe6e371",
+"h": 900,
+"jistota": 0.993,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.studanka-tisnov.cz/akce-a-program/herna/",
+"typ": "interier",
+"url": "https://www.studanka-tisnov.cz/wp-content/uploads/2022/06/Nova-herna-koutek-pro-batolata.jpg",
+"w": 1200
+}
+],
+"detska-skupina-smoulka-ds00513": [
+{
+"alt": "Jak to u nás vypadá",
+"barva": "#8f7b5c",
+"dh": "021c5c5c34a6c300",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EACYQAAIBAwIFBQEAAAAAAAAAAAECAwAEERIxBRQhQWEiMlFxgbH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAARESIVH/2gAMAwEAAhEDEQA/AC8Kgt1iieWMSahgnQfSd/2lXUvsFpNMi5AZdRI385otu+pcWyMsJbJDP38fFMigR4li6R4GNa7/AHWetcpWXqR07SPh3LrzE5EncdTVWMPDryOMKk6Oo2LAg/2qlpeCyz//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://smoulka.cz/fotogalerie",
+"typ": "interier",
+"url": "https://smoulka.cz/assets/IMG_4298-BjCXsm4K.webp",
+"w": 1200
+},
+{
+"alt": "Naše zahrada",
+"barva": "#7a8665",
+"dh": "757d3c79ebbb7366",
+"h": 900,
+"jistota": 0.775,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://smoulka.cz/fotogalerie",
+"typ": "zahrada",
+"url": "https://smoulka.cz/assets/zahrada-zahrada-JEdrfEgB.webp",
+"w": 1200
+}
+],
 "greenfield-3-detska-skupina-ds10068": [
 {
 "alt": "Phòng lớp Montessori của Greenfield với bàn ghế gỗ và góc chơi của các bé",
@@ -769,6 +902,62 @@
 "stranka": "http://msmilicova.cz/fotogalerie-rybicky-interier/",
 "typ": "hygiena",
 "url": "http://msmilicova.cz/wp-content/uploads/2017/06/7DII8098.jpg",
+"w": 1200
+}
+],
+"mikesova-skolka-i-detska-skupina-ds00621": [
+{
+"alt": "",
+"barva": "#a47555",
+"dh": "093273158e4e068f",
+"h": 717,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EACAQAAIBBAIDAQAAAAAAAAAAAAECAwAEEiERQQUxkWH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQMTYRH/2gAMAwEAAhEDEQA/AC2cdo2KvKVkOy2WKqKYlotqQ90+eShk4PBK9++/yjW0IMygsxA40d11J2MqYSHJTrg0XiYlyNA3uI1chGWReidH51VWR8jP44m3gwKDYzQMftVVem7cP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mikesovaskolka.cz",
+"typ": "interier",
+"url": "https://www.mikesovaskolka.cz/wp-content/uploads/2021/10/Unknown.jpeg",
+"w": 1200
+},
+{
+"alt": "Možná příjde i kouzelník",
+"barva": "#7d7452",
+"dh": "3930f0ec75a59fe3",
+"h": 513,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mikesovaskolka.cz",
+"typ": "zahrada",
+"url": "https://www.mikesovaskolka.cz/wp-content/uploads/2020/06/Slider2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a2817c",
+"dh": "fb9f5b9bd39e1ed3",
+"h": 765,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mikesovaskolka.cz",
+"typ": "interier",
+"url": "https://www.mikesovaskolka.cz/wp-content/uploads/2021/10/Unknown-2.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#767469",
+"dh": "0d189cf41f9e0c47",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.mikesovaskolka.cz/nova-zahrada/",
+"typ": "zahrada",
+"url": "https://www.mikesovaskolka.cz/wp-content/uploads/2019/04/IMG_0333.jpg",
 "w": 1200
 }
 ],
