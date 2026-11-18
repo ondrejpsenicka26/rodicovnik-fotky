@@ -957,6 +957,62 @@
 "w": 1000
 }
 ],
+"materska-skola-krynicka-015382": [
+{
+"alt": "",
+"barva": "#6c6b62",
+"dh": "06f3beef2f3d0328",
+"h": 801,
+"jistota": 0.978,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAAAAIDBAUG/8QAIxABAAEDAwMFAAAAAAAAAAAAAQIAAxEEEhMxYaEFISJBgf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAICAwAAAAAAAAAAAAAAAAABAhESITH/2gAMAwEAAhEDEQA/AHuCNpkwNoODjZeetInqrlo+WotyEHbcweaz0dRdj0m+/eh1czGQfqsKTGn0mnrMY5jdLkUXBByY/aKr55uu5cdgoq5ij//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-krynicka.cz/galerie/",
+"typ": "budova",
+"url": "https://ms-krynicka.cz/wp-content/uploads/2021/04/IMG_3333-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#ab6f54",
+"dh": "90e5e3a363c38f09",
+"h": 816,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-krynicka.cz/galerie/",
+"typ": "interier",
+"url": "https://ms-krynicka.cz/wp-content/uploads/2021/04/IMG_3379-2-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#918884",
+"dh": "4b4be37363c4753d",
+"h": 794,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms-krynicka.cz/galerie/",
+"typ": "zahrada",
+"url": "https://ms-krynicka.cz/wp-content/uploads/2021/04/IMG_3350-2-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#84806f",
+"dh": "b0e8fae92d99590e",
+"h": 1200,
+"jistota": 0.946,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://ms-krynicka.cz/galerie/",
+"typ": "les",
+"url": "https://ms-krynicka.cz/wp-content/uploads/2021/04/IMG_3375-scaled.jpg",
+"w": 801
+}
+],
 "materska-skola-mestec-kralove-515156": [
 {
 "alt": "",
