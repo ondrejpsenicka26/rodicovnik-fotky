@@ -261,6 +261,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-lamicka-ds02192": [
+{
+"alt": "",
+"barva": "#9c846d",
+"dh": "12dfbdb1896a2f0f",
+"h": 900,
+"jistota": 0.792,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERIhIgUTMUFhcYHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQISITFRQf/aAAwDAQACEQMRAD8AqxPb288qxhoe2wUqH4t9Gka8maTTEqnljyAP29Z4XTkHmR74pjM3kuTt61BNrTLRr6ipe9UuLOftSIurGdmFFRnkBOW3+QKKd5dBjiP/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://lamicka.cz/",
+"typ": "budova",
+"url": "https://lamicka.cz/wp-content/uploads/2025/03/f4.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#787254",
+"dh": "270f0f2eb397333d",
+"h": 500,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://lamicka.cz/",
+"typ": "interier",
+"url": "https://lamicka.cz/wp-content/uploads/2025/03/DS-Lamicka-herna-1.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#8a815a",
+"dh": "110d212148066787",
+"h": 500,
+"jistota": 0.998,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://lamicka.cz/",
+"typ": "interier",
+"url": "https://lamicka.cz/wp-content/uploads/2025/03/DS-Lamicka-herna-2.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#837d68",
+"dh": "e5e5e9e4e0e99c8e",
+"h": 500,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://lamicka.cz/",
+"typ": "hygiena",
+"url": "https://lamicka.cz/wp-content/uploads/2025/03/DS-Lamicka-WC.jpg",
+"w": 750
+}
+],
 "detska-skupina-mimiskolka-kuzlatka-ds02006": [
 {
 "alt": "",
@@ -487,6 +543,23 @@
 "typ": "budova",
 "url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
 "w": 1024
+}
+],
+"detska-skupina-slunickova-ds02094": [
+{
+"alt": "og",
+"barva": "#8b855b",
+"dh": "430b1bcfaf0f1f5f",
+"h": 467,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAEAQIFBv/EACIQAAICAgEEAwEAAAAAAAAAAAECAwQAERIFISIxEzJCUf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMRMf/aAAwDAQACEQMRAD8ArUtysphtzvIEIZWQjwI7d/7mtb65LSUNrlEY/BlGwD6G8TgZqkAflyA/IHHFr1yWxteRVNfUYRWSbLecOZ6j1azettNK/kRr1rthk2EHynDEqRnh/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.slunickova.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://061273b32d.clvaw-cdnwnd.com/499f36d2d35a37c66aafdd2966df71c3/200000070-18c7218c74/700/2024_SKOLKA_SLUNICKOVA_006.jpeg?ph=061273b32d",
+"w": 700
 }
 ],
 "little-family-breclav-detska-skupina-ds02263": [
