@@ -1,18 +1,2 @@
-[09:22:14] Část 11/20: webů 166, hotovo 189, zbývá 14
-[09:22:37] https://mskamenacky.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 1 fotek ke kontrole
-[09:22:38] https://msstudanka.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 0 fotek ke kontrole
-[09:22:55] https://mshlavni.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 5 fotek ke kontrole
-[09:22:55] https://skolkabulhary.webnode.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 333 obrázků, 0 fotek ke kontrole
-[09:23:06] https://zsmslouka.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 105 obrázků, 24 fotek ke kontrole
-[09:23:07] https://mszabka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 29 fotek ke kontrole
-[09:23:11] https://ms.doubravicens.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 507 obrázků, 7 fotek ke kontrole
-[09:23:14] https://mshodejice.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 10 fotek ke kontrole
-[09:23:32] https://mspomnenky.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 317 obrázků, 45 fotek ke kontrole
-[09:23:36] https://ms-konecchlumi.cz: 6 stránek (galerie mimo web: 1 ['mskonecchlumi.rajce.idnes.cz'], alb: 1), 69 obrázků, 23 fotek ke kontrole
-[09:23:40] https://ms-zadovice.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 302 obrázků, 10 fotek ke kontrole
-[09:23:43] https://zsnizkovice.cz: 16 stránek (galerie mimo web: 2 ['www.rajce.idnes.cz'], alb: 0), 123 obrázků, 42 fotek ke kontrole
-[09:23:50] https://mszahumenice.cz: nedostupné nebo zakázané
-[09:23:53] https://zsusobrno.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 109 obrázků, 38 fotek ke kontrole
-[09:24:08] tříděno 0/234
-[09:24:46] Dávka 1: hotovo 203/166, se fotkami 58; {'ok': 15, 'lide': 11, 'jine': 162, 'sablona': 0}
-[09:24:46] Konec: školek s fotkami 58; {'ok': 15, 'lide': 11, 'jine': 162, 'sablona': 0}
+[09:44:22] Část 11/20: webů 161, hotovo 203, zbývá 0
+[09:44:22] Konec: školek s fotkami 58; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
