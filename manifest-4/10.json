@@ -111,6 +111,36 @@
 "w": 990
 }
 ],
+"detska-skupina-jezirko-ds01383": [
+{
+"alt": "",
+"barva": "#968d88",
+"dh": "e0e0a6e420a4fcfc",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUBAv/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEERIhQQUUMWGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhES/9oADAMBAAIRAxEAPwDrycj+zO4mOivgMjA8VtrqIxLsXZULAYJJPXxyRVS78LAIpIoFVNl4251JqRcWl9ZrGISECsMMGzyT39UZ11gqaUaXFN6yKymEhgCCqHH6aUtGkW3UTqVk7CtkUpdIGM//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.studanka-tisnov.cz/akce-a-program/herna/",
+"typ": "interier",
+"url": "https://www.studanka-tisnov.cz/wp-content/uploads/2022/06/IMG_20220404_134754_173.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#95a08d",
+"dh": "59f0f0fcfbe6e371",
+"h": 900,
+"jistota": 0.993,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.studanka-tisnov.cz/akce-a-program/herna/",
+"typ": "interier",
+"url": "https://www.studanka-tisnov.cz/wp-content/uploads/2022/06/Nova-herna-koutek-pro-batolata.jpg",
+"w": 1200
+}
+],
 "detska-skupina-korunka-ds00716": [
 {
 "alt": "",
@@ -185,6 +215,174 @@
 "stranka": "https://jsmemalihrdinove.cz/nase-pobocky/detska-skupina-little-heroes-praha-4/",
 "typ": "interier",
 "url": "https://jsmemalihrdinove.cz/wp-content/uploads/2022/11/little-heroes-03.jpg",
+"w": 1200
+}
+],
+"detska-skupina-mandlicky-ds10808": [
+{
+"alt": "",
+"barva": "#9da19e",
+"dh": "89c1c79b1bcbf110",
+"h": 800,
+"jistota": 0.987,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EACAQAAICAwABBQAAAAAAAAAAAAECAxEABCESBRMxgbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREhP/2gAMAwEAAhEDEQA/ANWCSHZa4AxUAGyKGOdyGCcxsreSAG6Hj3Moozd9xhXecx0hkZuzyH7y6zYYSLbPr+0stQaJZK+WYg/mGSfSBNmRycMzqY0f/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mandlicky-hustopece.cz/tridy-a-chuvy/",
+"typ": "budova",
+"url": "https://a2ddfef3f6.clvaw-cdnwnd.com/4bb7d6d274d0bdd579c1700095ce49ab/200000192-e1681e1683/ChatGPT%20Image%2017.%204.%202026%2014_23_17.png?ph=a2ddfef3f6",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#aba09b",
+"dh": "9e493159596d2d0d",
+"h": 900,
+"jistota": 0.998,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.mandlicky-hustopece.cz/tridy-a-chuvy/",
+"typ": "interier",
+"url": "https://a2ddfef3f6.clvaw-cdnwnd.com/4bb7d6d274d0bdd579c1700095ce49ab/200000086-1516415166/IMG_E9354.jpeg?ph=a2ddfef3f6",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#797770",
+"dh": "871d0fc64a8dcfc6",
+"h": 900,
+"jistota": 0.635,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.mandlicky-hustopece.cz/",
+"typ": "budova",
+"url": "https://a2ddfef3f6.clvaw-cdnwnd.com/4bb7d6d274d0bdd579c1700095ce49ab/200000030-3e9953e996/IMG_9142.jpeg?ph=a2ddfef3f6",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#94ad9f",
+"dh": "1236aaeb3adfdcee",
+"h": 900,
+"jistota": 0.995,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.mandlicky-hustopece.cz/tridy-a-chuvy/",
+"typ": "interier",
+"url": "https://a2ddfef3f6.clvaw-cdnwnd.com/4bb7d6d274d0bdd579c1700095ce49ab/200000152-b501db501f/WhatsApp%20Image%202026-04-09%20at%2012.28.11%20%281%29-3.jpeg?ph=a2ddfef3f6",
+"w": 1200
+}
+],
+"detska-skupina-noticky-ds01021": [
+{
+"alt": "",
+"barva": "#a19b84",
+"dh": "3da9a9b37bbf3f0f",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAIxAAAgICAQIHAAAAAAAAAAAAAQIDEQAEIQUTIjEyM1Jxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEyEB/9oADAMBAAIRAxEAPwBxFLqB5r20VL8BZvUKzBN3p7yKGmWq5s1nLHBEQT2k5HxyJdGCvbX8zCisW2N7TE7iM2l8EeWGL5NOIOaWvo4Y6cGP/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://veselypalecek.cz/noticky-jedovnice/",
+"typ": "interier",
+"url": "https://veselypalecek.cz/wp-content/uploads/2020/10/IMG_9203.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#76835a",
+"dh": "3b2727b29f0b37af",
+"h": 667,
+"jistota": 0.698,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://veselypalecek.cz/noticky-jedovnice/",
+"typ": "zahrada",
+"url": "https://veselypalecek.cz/wp-content/uploads/2020/10/Venkovni-prostor.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#807757",
+"dh": "f76f6f35f460878b",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://veselypalecek.cz/noticky-jedovnice/",
+"typ": "interier",
+"url": "https://veselypalecek.cz/wp-content/uploads/2020/10/IMG_9210.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b6965",
+"dh": "d643cceee2c289da",
+"h": 801,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://veselypalecek.cz/noticky-jedovnice/",
+"typ": "hygiena",
+"url": "https://veselypalecek.cz/wp-content/uploads/2020/10/IMG_9214-scaled.jpg",
+"w": 1200
+}
+],
+"detska-skupina-rybnicek-ds10849": [
+{
+"alt": "IMG 20260402 115407",
+"barva": "#768583",
+"dh": "8d7ee6e672930d3e",
+"h": 675,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBP/EACcQAAEDAQUJAQAAAAAAAAAAAAEAAgQDBRESITEiIzJRUmGRocHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAAEFAQAAAAAAAAAAAAAAAAABAhIUUUH/2gAMAwEAAhEDEQA/AOydWkNYwwqOMk3Fp4vSLNo2k5jiYVUENvO7I+JFhyWl7uo+Vlcf0iDcBTbE4axql/fF+KTDaj89o681ItuHFMP/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsrybnicek.cz/",
+"typ": "budova",
+"url": "https://www.dsrybnicek.cz/wp-content/uploads/2026/04/IMG_20260402_115407.jpg",
+"w": 1200
+},
+{
+"alt": "IMG 5760",
+"barva": "#8f8e7a",
+"dh": "7a11b8dddccec6f1",
+"h": 800,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsrybnicek.cz/",
+"typ": "interier",
+"url": "https://www.dsrybnicek.cz/wp-content/uploads/2026/04/IMG_5760.jpg",
+"w": 1200
+},
+{
+"alt": "IMG 20260402 115404",
+"barva": "#728381",
+"dh": "760e08100e1ff99c",
+"h": 675,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dsrybnicek.cz/",
+"typ": "budova",
+"url": "https://www.dsrybnicek.cz/wp-content/uploads/2026/04/IMG_20260402_115404.jpg",
+"w": 1200
+},
+{
+"alt": "IMG 5749",
+"barva": "#898784",
+"dh": "7b77233537dbfa36",
+"h": 800,
+"jistota": 0.989,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dsrybnicek.cz/",
+"typ": "interier",
+"url": "https://www.dsrybnicek.cz/wp-content/uploads/2026/04/IMG_5749.jpg",
 "w": 1200
 }
 ],
