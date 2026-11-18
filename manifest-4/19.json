@@ -1159,6 +1159,36 @@
 "w": 1200
 }
 ],
+"materska-skola-lednice-604671": [
+{
+"alt": "MŠ Lednice – třída Motýlci",
+"barva": "#807b77",
+"dh": "b4e14347cb9b3bfb",
+"h": 771,
+"jistota": 0.979,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBBAX/xAAjEAABAwMEAgMAAAAAAAAAAAABAAIDBBESFCFBURMiMVLw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwBzDSC2UjWE7n2+E2ko8AdQw3tYclUWiKA5RxDL7O3KVs7pKlmXf4I8wJkVBDJnNjdGWgkXBJ5QsyrD3Vcx8ptmbDpCiFQ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mslednice.cz/motylci/",
+"typ": "interier",
+"url": "https://www.mslednice.cz/wp-content/uploads/2024/09/Materska-skolka-lednice-Motylci-2024.jpg",
+"w": 1200
+},
+{
+"alt": "Sovičky",
+"barva": "#979255",
+"dh": "b096c29893317c59",
+"h": 785,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mslednice.cz/sovicky/",
+"typ": "interier",
+"url": "https://www.mslednice.cz/wp-content/uploads/2021/09/MS-Lednice-Banner-Trida-Sovicky-2021.jpg",
+"w": 1200
+}
+],
 "materska-skola-malhotice-000485": [
 {
 "alt": "",
@@ -1465,6 +1495,62 @@
 "stranka": "https://www.radvanicems.cz/pro-rodice/jidelnicek/",
 "typ": "hygiena",
 "url": "https://www.radvanicems.cz/data/headerfooter/header_images/img20211106104648.jpg",
+"w": 1200
+}
+],
+"materska-skola-safov-614511": [
+{
+"alt": "",
+"barva": "#a1998f",
+"dh": "e4ce3df98909c9fe",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAQFAP/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwAEERITIQUxUZEUMmH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIRE0FR/9oADAMBAAIRAxEAPwC5NdWbhwWdjn6qOKJL1OIOlvHFGhbsDjJHmh/CijJ2iyecHOfdHuIgkqXCs25HwCe3qi7oSmSnJ1URto0wcDGZGwT+4rVFbM51ybbN5ZAa1ZbkulheH//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-safov.cz/fotogalerie",
+"typ": "budova",
+"url": "https://www.ms-safov.cz/pictures/galleries/8/5f8dffd1b8489.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a0968e",
+"dh": "c8c7199696c2a4ff",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-safov.cz/fotogalerie",
+"typ": "interier",
+"url": "https://www.ms-safov.cz/pictures/galleries/8/624a080e22c7e.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#81834e",
+"dh": "b2f270e4e3d36deb",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-safov.cz/fotogalerie",
+"typ": "zahrada",
+"url": "https://www.ms-safov.cz/pictures/galleries/8/5f8dffe76f2f5.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8f8f7d",
+"dh": "de58740622004378",
+"h": 800,
+"jistota": 0.975,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.ms-safov.cz/fotogalerie",
+"typ": "budova",
+"url": "https://www.ms-safov.cz/pictures/galleries/8/5f8dffd1eeeda.jpg",
 "w": 1200
 }
 ],
@@ -1869,6 +1955,49 @@
 "typ": "hygiena",
 "url": "https://zslukavice.cz/wp-content/gallery/skolni-kuchyn/IMG_20170904_130200.jpg",
 "w": 1024
+}
+],
+"zakladni-skola-a-materska-skola-moravske-branice-603217": [
+{
+"alt": "",
+"barva": "#889193",
+"dh": "284b7f151f4f7c79",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAUAAwT/xAAkEAABBAEDAwUAAAAAAAAAAAABAAIDEQQFEiEiMUEGFBVRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAEREhNBUYH/2gAMAwEAAhEDEQA/AGodQxZWMAeN5HIaD3pZS6tA3qjglfXktpDfJywwtaCA1oAHT4XHk6zkSu2NYyjYo3yD35tW62GmMCeV6olgl2NxmtFXRslSD9wCSZRud9/ikuhbej//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmorbranice.cz/materska-skola/",
+"typ": "budova",
+"url": "https://www.zsmorbranice.cz/foto-galerie/fotky-ms_432.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#81684e",
+"dh": "0318480c3c199b67",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsmorbranice.cz/materska-skola/",
+"typ": "interier",
+"url": "https://www.zsmorbranice.cz/foto-galerie/fotky-ms_431.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7f8580",
+"dh": "4ccf8fc80e060313",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsmorbranice.cz/materska-skola/",
+"typ": "budova",
+"url": "https://www.zsmorbranice.cz/foto-galerie/fotky-ms_430.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-nova-pec-534509": [
