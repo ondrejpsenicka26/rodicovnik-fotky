@@ -1,11 +1,13 @@
-[00:41:51] Část 19/20: webů 126, hotovo 136, zbývá 7
-[00:42:05] https://msmesice.cz/zelvicky-a1576: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[00:42:22] http://www.zstehov.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 9 fotek ke kontrole
-[00:42:23] https://montessorikladno.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 16 fotek ke kontrole
-[00:42:31] http://www.zspecin.webnode.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 136 obrázků, 0 fotek ke kontrole
-[00:42:50] https://kresetice.cz/obec/detska-skupina-lvicek: 9 stránek (galerie mimo web: 0 [], alb: 0), 123 obrázků, 4 fotek ke kontrole
-[00:43:09] http://skolarasovice.blogspot.cz: 21 stránek (galerie mimo web: 7 ['rasovice66.rajce.idnes.cz', 'tavanda-foto.rajce.idnes.cz'], alb: 0), 107 obrázků, 0 fotek ke kontrole
-[00:43:17] http://www.zslubna.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 632 obrázků, 0 fotek ke kontrole
-[00:43:28] tříděno 0/29
-[00:43:29] Dávka 1: hotovo 143/126, se fotkami 28; {'ok': 3, 'lide': 5, 'jine': 18, 'sablona': 0}
-[00:43:29] Konec: školek s fotkami 28; {'ok': 3, 'lide': 5, 'jine': 18, 'sablona': 0}
+[02:14:05] Část 19/20: webů 133, hotovo 143, zbývá 9
+[02:14:18] https://montessori-brezulka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[02:14:18] https://teta-jolanka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 5 fotek ke kontrole
+[02:14:21] https://dstreeoflife.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 8 fotek ke kontrole
+[02:14:41] https://centrum-rodinka.cz/detska-skupina-rodinka-svinov: 3 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 32 fotek ke kontrole
+[02:14:42] https://plumlovacek.msplumlov.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 6 fotek ke kontrole
+[02:15:03] https://inskolka.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 23 fotek ke kontrole
+[02:15:10] https://zahradadetstvi.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 69 obrázků, 34 fotek ke kontrole
+[02:15:17] https://drzovice.cz/obec/detska-skupina-kapicka: 25 stránek (galerie mimo web: 0 [], alb: 0), 363 obrázků, 4 fotek ke kontrole
+[02:16:26] https://skolickanafarme.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 367 obrázků, 44 fotek ke kontrole
+[02:16:44] tříděno 0/156
+[02:17:13] Dávka 1: hotovo 152/133, se fotkami 32; {'ok': 11, 'lide': 19, 'jine': 102, 'sablona': 0}
+[02:17:13] Konec: školek s fotkami 32; {'ok': 11, 'lide': 19, 'jine': 102, 'sablona': 0}

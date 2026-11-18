@@ -55,6 +55,36 @@
 "w": 922
 }
 ],
+"detska-skupina-inskolka-hulvacka-ds01456": [
+{
+"alt": "interiér mateřské školky Ostrava Zábřeh",
+"barva": "#d9c6b0",
+"dh": "afdf6f97ef6d970f",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUG/8QAIBAAAgICAQUBAAAAAAAAAAAAAQIDEQAEIQUSEzFBI//EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDqpWjRyCSlJ3E1xWR7Ea+Mkt6H3K0Mr7MQMptWu1+e8XdPj1++u62Aon1kVqhY3U2dNkfqVtFNKeBYwxd7quzHOAqw8qDzHeGGkY3/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.inskolka.cz/nase-pobocky/inskolka-hulvacka/",
+"typ": "interier",
+"url": "https://www.inskolka.cz/wp-content/uploads/2022/09/10.jpg",
+"w": 1200
+},
+{
+"alt": "interiér mateřské školky Ostrava Zábřeh",
+"barva": "#dcc9ac",
+"dh": "4a4b494a078f2868",
+"h": 800,
+"jistota": 0.988,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.inskolka.cz/nase-pobocky/inskolka-hulvacka/",
+"typ": "interier",
+"url": "https://www.inskolka.cz/wp-content/uploads/2022/09/2.jpg",
+"w": 1200
+}
+],
 "detska-skupina-kulisek-ds01367": [
 {
 "alt": "",
@@ -142,6 +172,135 @@
 "stranka": "https://dsprogres.cz/",
 "typ": "interier",
 "url": "https://dsprogres.cz/wp-content/uploads/2024/06/profil_obr_stallich.jpg",
+"w": 1200
+}
+],
+"detska-skupina-rodinka-svinov-ds00458": [
+{
+"alt": "Dětská skupina Rodinka Svinov Ostrava",
+"barva": "#817973",
+"dh": "b04d9e1b2f999b7a",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EACQQAAIBAwMEAwEAAAAAAAAAAAECAwAEEQUSIRMUQXEiMWHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAxMUYf/aAAwDAQACEQMRAD8AxsNKa+Al3BIdxGRgscflXXOhwmILbKEkBOHeTO7jz/cVzYT2bNPGAZIh0lz9YIJPHujyyHUm3MGjiV9kRHxXIHii2RybJiCoBVSWTpwyNHKGR1OGUjkGlUSWXfSNcSyYkc5bauAT6zSq9D+SWpZ//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.centrum-rodinka.cz/detska-skupina-rodinka-svinov/",
+"typ": "budova",
+"url": "https://da6746c229.clvaw-cdnwnd.com/acbe4d424862dc4f25907068da0a341a/200000463-9536395365/DSC_0868.JPG?ph=da6746c229",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e8378",
+"dh": "cbcbc903b2aa2287",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.centrum-rodinka.cz/skolicka-rodinka/",
+"typ": "interier",
+"url": "https://da6746c229.clvaw-cdnwnd.com/acbe4d424862dc4f25907068da0a341a/200001729-ec022ec024/8.jpeg?ph=da6746c229",
+"w": 1200
+},
+{
+"alt": "Dětská skupina Rodinka Svinov Ostrava",
+"barva": "#514f36",
+"dh": "333331e5363201c8",
+"h": 800,
+"jistota": 0.995,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.centrum-rodinka.cz/detska-skupina-rodinka-svinov/",
+"typ": "zahrada",
+"url": "https://da6746c229.clvaw-cdnwnd.com/acbe4d424862dc4f25907068da0a341a/200001620-d5669d566c/DSC_0920.jpeg?ph=da6746c229",
+"w": 1200
+},
+{
+"alt": "Dětská skupina Rodinka Svinov Ostrava ",
+"barva": "#877565",
+"dh": "f8dcfcd4dcb4bec0",
+"h": 1200,
+"jistota": 0.998,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.centrum-rodinka.cz/detska-skupina-rodinka-svinov/",
+"typ": "budova",
+"url": "https://da6746c229.clvaw-cdnwnd.com/acbe4d424862dc4f25907068da0a341a/200000290-12b3812b39/20190725_145806.jpg?ph=da6746c229",
+"w": 900
+}
+],
+"detska-skupina-tree-of-life-ds00935": [
+{
+"alt": "",
+"barva": "#948a80",
+"dh": "fc78e8d055335551",
+"h": 759,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCBAb/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMABBETIQUiMWESI0FCcYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQISAxEhQf/aAAwDAQACEQMRAD8Aa3t+YJVjWMOGAKtqAZ/KqJxYOSdNCE64bGD90stNUKpd1fwyEMCOgBI5e+1ShuHYXAcg+ZhMjPLn170HllvgqR9H8PE4EiCyTaL+5CM4PzRWWvLiV7qQxzyomdl22opKbKh//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dstreeoflife.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://5a7239964b.clvaw-cdnwnd.com/cb6e5116fa9ddadd1c73fc6e186ea733/200000001-05b7605b79/IMG-0883.jpg?ph=5a7239964b",
+"w": 1106
+}
+],
+"detska-skupina-zahrada-detstvi-chotesov-ds11210": [
+{
+"alt": "AI3 Scaled",
+"barva": "#ad9d86",
+"dh": "4fdfde4c9ec6cb4b",
+"h": 896,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQL/xAAmEAABAwMDAgcAAAAAAAAAAAABAgMRAAQSBSEiE1ExQWFxgbHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAIBEQMSE0H/2gAMAwEAAhEDEQA/AK6tctXCgBt09uFcXGoIKSUkR2TE/dTrxgtKTcNkhGXiIJSfWaet7d+5b36Sm3EkZieJ9jRTka6EhV9MS7kJwd+CP2ilnFMIIQWiooGOQ2mPOJoq7Mboh//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zahradadetstvi.cz/o-nas/",
+"typ": "budova",
+"url": "https://zahradadetstvi.cz/wp-content/uploads/2026/06/AI3-scaled.png",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#ae976a",
+"dh": "26470f1b6f86a363",
+"h": 801,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://zahradadetstvi.cz/",
+"typ": "interier",
+"url": "https://zahradadetstvi.cz/wp-content/uploads/2026/06/Chotesov-Fara-19-of-27-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7f7c63",
+"dh": "c1f09e8e7c309998",
+"h": 765,
+"jistota": 0.983,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://zahradadetstvi.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://zahradadetstvi.cz/wp-content/uploads/2026/05/AI2-1024x765.png",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#ad9772",
+"dh": "03444c641433634c",
+"h": 801,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://zahradadetstvi.cz/",
+"typ": "interier",
+"url": "https://zahradadetstvi.cz/wp-content/uploads/2026/06/Chotesov-Fara-1-of-27-1-scaled.jpg",
 "w": 1200
 }
 ],
