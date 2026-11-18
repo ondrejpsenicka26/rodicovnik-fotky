@@ -185,6 +185,12 @@
 "ulice": "Alej Českých exulantů",
 "web": "https://prostorprorodinu.cz/detska-skupina-adaptacni-malinka"
 },
+"detska-skupina-agata-ds01265": {
+"ico": "10981861",
+"psc": "618 00",
+"ulice": "Kneslova",
+"web": "https://www.dsagata.cz"
+},
 "detska-skupina-aktivacci-ds00259": {
 "ico": "22683381",
 "psc": "783 45",
@@ -220,6 +226,18 @@
 "psc": "190 16",
 "ulice": "Čenovická",
 "web": "https://skolka-andelska.cz"
+},
+"detska-skupina-andilci-ds00690": {
+"ico": "05669596",
+"psc": "796 01",
+"ulice": "Kostelecká",
+"web": "https://www.dsandilci.cz"
+},
+"detska-skupina-andilci-ii-ds01056": {
+"ico": "05669596",
+"psc": "796 04",
+"ulice": "Západní",
+"web": "https://www.dsandilci.cz"
 },
 "detska-skupina-andilek-ds01620": {
 "ico": "04885031",
@@ -311,6 +329,18 @@
 "ulice": "Jana Koziny",
 "web": "https://dsbabyjump.eschool.cz"
 },
+"detska-skupina-babyland-ds01682": {
+"ico": "17497795",
+"psc": "301 00",
+"ulice": "Skrétova",
+"web": "https://www.dsbabyland.cz"
+},
+"detska-skupina-babyland-ii-ds01784": {
+"ico": "17497795",
+"psc": "312 00",
+"ulice": "Hraniční",
+"web": "https://www.dsbabyland.cz"
+},
 "detska-skupina-bambilin-revnice-ds00358": {
 "ico": "05722721",
 "psc": "252 30",
@@ -377,6 +407,12 @@
 "ulice": "Pražská",
 "web": "https://dsbelasek.webnode.cz"
 },
+"detska-skupina-benjaminek-ds00654": {
+"ico": "26993350",
+"psc": "339 01",
+"ulice": "Dukelská",
+"web": "https://www.detskaskupinabenjaminek.cz"
+},
 "detska-skupina-benjaminek-stod-ds02381": {
 "ico": "26993350",
 "psc": "333 01",
@@ -442,6 +478,18 @@
 "psc": "789 83",
 "ulice": "č. p.",
 "web": "https://berusky.palonin.cz"
+},
+"detska-skupina-bibouch-ds02048": {
+"ico": "19739281",
+"psc": "357 33",
+"ulice": "Sportovní",
+"web": "https://bibouch.cz"
+},
+"detska-skupina-bobanek-ds10584": {
+"ico": "23418371",
+"psc": "742 31",
+"ulice": "č.ev.",
+"web": "https://dsbobanek.cz"
 },
 "detska-skupina-bobrici-ds01721": {
 "ico": "06429611",
@@ -515,11 +563,29 @@
 "ulice": "Jaroměřská",
 "web": "https://mojeskolicka.cz"
 },
+"detska-skupina-broucci-ds01419": {
+"ico": "71294392",
+"psc": "460 15",
+"ulice": "Pekárkova",
+"web": "https://ds-broucci.cz"
+},
 "detska-skupina-broucek-ds01637": {
 "ico": "05356229",
 "psc": "760 01",
 "ulice": "",
 "web": "https://dshangarek.cz/broucek-zlin"
+},
+"detska-skupina-bublihafik-1-ds01645": {
+"ico": "17055733",
+"psc": "664 63",
+"ulice": "Příční",
+"web": "https://bublihafik.cz"
+},
+"detska-skupina-bublihafik-sokolnice-ds02183": {
+"ico": "17055733",
+"psc": "664 52",
+"ulice": "Komenského",
+"web": "https://bublihafik.cz"
 },
 "detska-skupina-bublinka-2-ds01012": {
 "ico": "22840915",
@@ -557,6 +623,18 @@
 "ulice": "L. B. Schneidera",
 "web": "https://dsbystrehlavicky.cz"
 },
+"detska-skupina-bystrouska-ds01803": {
+"ico": "17762511",
+"psc": "584 01",
+"ulice": "Husovo náměstí",
+"web": "https://dsbystrouska.cz"
+},
+"detska-skupina-campana-ds01613": {
+"ico": "09035061",
+"psc": "738 01",
+"ulice": "Prokopa Holého",
+"web": "https://www.dscampana.cz"
+},
 "detska-skupina-centrum-kvetinka-2-ds00655": {
 "ico": "01742817",
 "psc": "250 82",
@@ -574,6 +652,12 @@
 "psc": "356 01",
 "ulice": "Křížová",
 "web": "https://skolkacertik.cz"
+},
+"detska-skupina-cesticka-ds01777": {
+"ico": "19364512",
+"psc": "370 01",
+"ulice": "Rudolfovská tř.",
+"web": "https://dscesticka.cz"
 },
 "detska-skupina-chaloupka-ds01049": {
 "ico": "26678497",
@@ -652,6 +736,12 @@
 "psc": "150 00",
 "ulice": "Radlická",
 "web": "https://slunicka.com"
+},
+"detska-skupina-ctyrlistek-ds01764": {
+"ico": "19161841",
+"psc": "388 01",
+"ulice": "Fügnerova",
+"web": "https://www.dsctyrlistek.cz"
 },
 "detska-skupina-ctyrlistek-ds01805": {
 "ico": "17798124",
@@ -755,6 +845,12 @@
 "ulice": "Na Vyhlídce",
 "web": "https://skolka-jesle.cz/detske-skupiny/devitka"
 },
+"detska-skupina-dino-ds01650": {
+"ico": "17627729",
+"psc": "272 01",
+"ulice": "Ořechová",
+"web": "https://dsdino.cz"
+},
 "detska-skupina-do-maleho-sveta-ds01472": {
 "ico": "22735224",
 "psc": "120 00",
@@ -766,6 +862,12 @@
 "psc": "507 73",
 "ulice": "Dobrá Voda u Hořic",
 "web": "https://dobravodauhoric.cz/detska-skupina"
+},
+"detska-skupina-dobromysl-ds01457": {
+"ico": "26520800",
+"psc": "278 01",
+"ulice": "Sokolská",
+"web": "https://www.ds-dobromysl.cz"
 },
 "detska-skupina-dobroskritek-ds02098": {
 "ico": "21277672",
@@ -802,6 +904,12 @@
 "psc": "460 07",
 "ulice": "Pražská",
 "web": "https://dominoliberec.eu"
+},
+"detska-skupina-doupatko-ds01221": {
+"ico": "05508266",
+"psc": "503 51",
+"ulice": "",
+"web": "https://dsdoupatko.cz"
 },
 "detska-skupina-dracci-domazlice-i-ds02077": {
 "ico": "21215111",
@@ -1037,6 +1145,12 @@
 "ulice": "Moravská",
 "web": "https://elvicek.cz"
 },
+"detska-skupina-emily4life-ds00766": {
+"ico": "06304877",
+"psc": "613 00",
+"ulice": "Zemědělská",
+"web": "https://emily4life.webnode.cz"
+},
 "detska-skupina-ententyky-ds10243": {
 "ico": "06504272",
 "psc": "635 00",
@@ -1085,6 +1199,12 @@
 "ulice": "Mírové náměstí",
 "web": "https://dccap.cz/detske-skupiny/fialovy-cap"
 },
+"detska-skupina-filianek-ds00106": {
+"ico": "02996707",
+"psc": "602 00",
+"ulice": "Antonínská",
+"web": "https://filianek.cz"
+},
 "detska-skupina-flupik-i-ds00444": {
 "ico": "05661790",
 "psc": "252 19",
@@ -1102,6 +1222,12 @@
 "psc": "252 19",
 "ulice": "Oblouková",
 "web": "https://flupikrudna.cz"
+},
+"detska-skupina-formelo-ds01789": {
+"ico": "19090773",
+"psc": "370 01",
+"ulice": "Vrbenská",
+"web": "https://formelo.cz"
 },
 "detska-skupina-foxik-budysinska-ds00482": {
 "ico": "02381265",
@@ -1223,6 +1349,18 @@
 "ulice": "Hlavenec",
 "web": "https://detska-skupina-hlavenecek.webnode.cz"
 },
+"detska-skupina-hnizdecko-2-ds01556": {
+"ico": "17281997",
+"psc": "273 26",
+"ulice": "č. p.",
+"web": "https://www.dshnizdecko.cz"
+},
+"detska-skupina-hnizdecko-ds01555": {
+"ico": "17281997",
+"psc": "273 26",
+"ulice": "č. p.",
+"web": "https://www.dshnizdecko.cz"
+},
 "detska-skupina-hnizdo-ds02113": {
 "ico": "21286906",
 "psc": "460 07",
@@ -1234,6 +1372,12 @@
 "psc": "783 91",
 "ulice": "Ztracená",
 "web": "https://detskaskupinaholahej.cz"
+},
+"detska-skupina-holoubek-ds10609": {
+"ico": "23965631",
+"psc": "460 10",
+"ulice": "Švermova",
+"web": "https://dsholoubek.cz"
 },
 "detska-skupina-holubnicek-grand-ds01656": {
 "ico": "07669216",
@@ -1276,6 +1420,12 @@
 "psc": "252 62",
 "ulice": "Velvarská",
 "web": "https://dshoromerice.cz"
+},
+"detska-skupina-housenky-ds02357": {
+"ico": "23069392",
+"psc": "251 69",
+"ulice": "Václavská",
+"web": "https://dshousenky.cz"
 },
 "detska-skupina-hradcany-ds00301": {
 "ico": "26537036",
@@ -1445,6 +1595,12 @@
 "ulice": "Hroznová",
 "web": "https://miniskolkajaja.cz/cs/detska-skupina-a-jesle-montik-liberec"
 },
+"detska-skupina-jasminka-ds02032": {
+"ico": "21070474",
+"psc": "431 11",
+"ulice": "U kolejí",
+"web": "https://skolkajasminka.cz"
+},
 "detska-skupina-jdeme-do-sveta-ii-ds01888": {
 "ico": "10815155",
 "psc": "684 01",
@@ -1601,6 +1757,12 @@
 "ulice": "Boženy Němcové",
 "web": "https://junikorn.cz"
 },
+"detska-skupina-kacenka-ds00982": {
+"ico": "06364349",
+"psc": "749 01",
+"ulice": "Wolkerova",
+"web": "http://detska-skupina-kacenka.cz"
+},
 "detska-skupina-kamaradi-od-berounky-2-ds02005": {
 "ico": "17053218",
 "psc": "266 01",
@@ -1649,17 +1811,41 @@
 "ulice": "",
 "web": "https://salasuh.cz/default/default/21221_ds-kapradinka"
 },
+"detska-skupina-karamelka-1-ds01780": {
+"ico": "17979919",
+"psc": "257 21",
+"ulice": "Bálkovická",
+"web": "https://www.detska-skupina-karamelka.cz"
+},
+"detska-skupina-karamelka-2-ds01781": {
+"ico": "17979919",
+"psc": "257 21",
+"ulice": "Bálkovická",
+"web": "https://www.detska-skupina-karamelka.cz"
+},
 "detska-skupina-kastankov-ds10443": {
 "ico": "00216208",
 "psc": "110 00",
 "ulice": "Celetná",
 "web": "https://kastankov.cuni.cz"
 },
+"detska-skupina-kids-academy-ds00640": {
+"ico": "05675014",
+"psc": "619 00",
+"ulice": "Vodařská",
+"web": "https://kidsacademy.cz"
+},
 "detska-skupina-klicek-ds00650": {
 "ico": "22735976",
 "psc": "273 51",
 "ulice": "Pražská",
 "web": "https://muunhost.cz/rodinne-centrum-klicek-a-skolka-klicek/ds-4146"
+},
+"detska-skupina-klokajda-ds11362": {
+"ico": "00472034",
+"psc": "251 64",
+"ulice": "č. p.",
+"web": "https://klokajda.cz"
 },
 "detska-skupina-klub-hrosik-ds01190": {
 "ico": "07924852",
@@ -1738,6 +1924,12 @@
 "psc": "690 02",
 "ulice": "Národních hrdinů",
 "web": "https://klubikbreclav.webnode.cz"
+},
+"detska-skupina-klubik-svinov-ds01395": {
+"ico": "26677865",
+"psc": "721 00",
+"ulice": "Stanislavského",
+"web": "https://dsklubiksvinov.cz"
 },
 "detska-skupina-klubik-u-mlyna-ds11193": {
 "ico": "05172659",
@@ -1865,6 +2057,12 @@
 "ulice": "Kutnohorská",
 "web": "https://kostelecncl.cz/detska-skupina-kostelacek/ds-1388"
 },
+"detska-skupina-kostelicek-ds11146": {
+"ico": "24563650",
+"psc": "273 51",
+"ulice": "Za Kostelem",
+"web": "https://www.dskostelicek.cz"
+},
 "detska-skupina-kotata-ds02370": {
 "ico": "27032728",
 "psc": "190 00",
@@ -1930,6 +2128,12 @@
 "psc": "671 76",
 "ulice": "č. p.",
 "web": "https://kubsice.eu/kubsicka-skolicka/detska-skupina"
+},
+"detska-skupina-kulicek-ds01231": {
+"ico": "07136242",
+"psc": "330 27",
+"ulice": "Staročeská náves",
+"web": "https://kulicek.cz"
 },
 "detska-skupina-kulicka-ds01473": {
 "ico": "28551541",
@@ -2033,6 +2237,12 @@
 "ulice": "Senovážné náměstí",
 "web": "https://skolkalada.cz"
 },
+"detska-skupina-lamicka-ds02192": {
+"ico": "47884550",
+"psc": "680 01",
+"ulice": "Ludíkov",
+"web": "https://lamicka.cz"
+},
 "detska-skupina-landie-ricany-berusky-ds00139": {
 "ico": "02335247",
 "psc": "251 01",
@@ -2080,6 +2290,12 @@
 "psc": "199 00",
 "ulice": "Třinecká",
 "web": "https://klubletnice.cz"
+},
+"detska-skupina-linden-kids-ds11308": {
+"ico": "29666864",
+"psc": "602 00",
+"ulice": "Křenová",
+"web": "https://lindenkids.cz"
 },
 "detska-skupina-lipisek-ds02278": {
 "ico": "00231142",
@@ -2243,6 +2459,12 @@
 "ulice": "Gorkého",
 "web": "https://louckavbrne.com"
 },
+"detska-skupina-louka-ds02274": {
+"ico": "21801819",
+"psc": "747 23",
+"ulice": "Hlavní",
+"web": "https://dslouka.cz"
+},
 "detska-skupina-lucni-mlyn-ds01998": {
 "ico": "17613469",
 "psc": "411 45",
@@ -2273,6 +2495,12 @@
 "ulice": "Lužec nad Cidlinou",
 "web": "https://luzecnadcidlinou-luzacci.cz"
 },
+"detska-skupina-lvicata-ds01186": {
+"ico": "66610591",
+"psc": "674 01",
+"ulice": "Na Kopcích",
+"web": "https://www.dslvicata.cz"
+},
 "detska-skupina-lvicek-ds01263": {
 "ico": "00236187",
 "psc": "285 47",
@@ -2302,6 +2530,12 @@
 "psc": "735 14",
 "ulice": "Kpt. Jaroše",
 "web": "https://jeslemajdalenka.cz"
+},
+"detska-skupina-makovicka-ds02238": {
+"ico": "21643334",
+"psc": "288 02",
+"ulice": "Boleslavská třída",
+"web": "https://dsmakovicka.cz"
 },
 "detska-skupina-mali-andilci-ds10909": {
 "ico": "24520403",
@@ -2495,6 +2729,12 @@
 "ulice": "Družstevní",
 "web": "https://msbystrice.cz/detske-skupiny/detska-skupina-medvidata"
 },
+"detska-skupina-medvidek-ds10138": {
+"ico": "23054557",
+"psc": "565 01",
+"ulice": "náměstí Tyršovo",
+"web": "https://dsmedvidek.cz"
+},
 "detska-skupina-medvidek-v-beroune-ds00366": {
 "ico": "22735224",
 "psc": "266 01",
@@ -2506,6 +2746,18 @@
 "psc": "767 01",
 "ulice": "Mánesova",
 "web": "https://msmanesovakromeriz.cz/detska-skupina-mesta-kromerize"
+},
+"detska-skupina-mexiko-ds01368": {
+"ico": "04040252",
+"psc": "712 00",
+"ulice": "Bohumínská",
+"web": "https://www.skolkamexiko.cz"
+},
+"detska-skupina-mexiko-ii-ds01500": {
+"ico": "04040252",
+"psc": "712 00",
+"ulice": "Bohumínská",
+"web": "https://www.skolkamexiko.cz"
 },
 "detska-skupina-mezi-kamarady-ds01943": {
 "ico": "17053218",
@@ -2560,6 +2812,18 @@
 "psc": "789 85",
 "ulice": "Zámecká",
 "web": "https://dsmohelnicko.cz"
+},
+"detska-skupina-miksicek-ds02244": {
+"ico": "21602956",
+"psc": "586 01",
+"ulice": "Srázná",
+"web": "https://www.miksicek.cz"
+},
+"detska-skupina-miksicek-ii-ds02245": {
+"ico": "21602956",
+"psc": "586 01",
+"ulice": "Srázná",
+"web": "https://www.miksicek.cz"
 },
 "detska-skupina-milu-care-jirny-ds01811": {
 "ico": "18025153",
@@ -2627,6 +2891,12 @@
 "ulice": "Gorkého",
 "web": "https://slunickopardubice.cz"
 },
+"detska-skupina-miniskolka-tygrici-ds01006": {
+"ico": "08226393",
+"psc": "463 12",
+"ulice": "Puškinova",
+"web": "https://www.miniskolkatygrici.cz"
+},
 "detska-skupina-miniskolka-vlastovicky-ds00801": {
 "ico": "06271855",
 "psc": "679 05",
@@ -2656,6 +2926,12 @@
 "psc": "709 00",
 "ulice": "Ladislava Ševčíka",
 "web": "https://minisovicky.cz"
+},
+"detska-skupina-minisvet-ds10593": {
+"ico": "23225653",
+"psc": "741 01",
+"ulice": "Bludovice",
+"web": "https://dsminisvet.cz"
 },
 "detska-skupina-misa-skolka-petrvald-ds10336": {
 "ico": "07817843",
@@ -2813,6 +3089,24 @@
 "ulice": "Pražská",
 "web": "https://dsmontessorislany.cz"
 },
+"detska-skupina-montik-ds01209": {
+"ico": "70152331",
+"psc": "509 01",
+"ulice": "U Teplárny",
+"web": "https://ds-montik.cz"
+},
+"detska-skupina-monty-1-ds02317": {
+"ico": "05647681",
+"psc": "749 01",
+"ulice": "č. p.",
+"web": "https://dsmonty.cz"
+},
+"detska-skupina-monty-2-ds02318": {
+"ico": "05647681",
+"psc": "749 01",
+"ulice": "č. p.",
+"web": "https://dsmonty.cz"
+},
 "detska-skupina-monty-ds00565": {
 "ico": "06449727",
 "psc": "708 00",
@@ -2824,6 +3118,12 @@
 "psc": "684 01",
 "ulice": "Slovanská",
 "web": "https://montyklub.cz"
+},
+"detska-skupina-montysek-ds02013": {
+"ico": "08744157",
+"psc": "149 00",
+"ulice": "Hviezdoslavova",
+"web": "https://www.montysek.cz"
 },
 "detska-skupina-moonimals-ds02198": {
 "ico": "21276285",
@@ -2854,6 +3154,18 @@
 "psc": "592 31",
 "ulice": "č. p.",
 "web": "https://novavesnm.cz/detska-skupina-motylek/ms-5022"
+},
+"detska-skupina-mozaika-i-ds01462": {
+"ico": "04596234",
+"psc": "400 01",
+"ulice": "Na Okraji",
+"web": "https://www.dsmozaika.cz"
+},
+"detska-skupina-mozaika-ii-ds01463": {
+"ico": "04596234",
+"psc": "400 01",
+"ulice": "Na Okraji",
+"web": "https://www.dsmozaika.cz"
 },
 "detska-skupina-mracek-ds11342": {
 "ico": "00232271",
@@ -2999,6 +3311,12 @@
 "ulice": "Dr. Beneše",
 "web": "https://napajedlacek.cz"
 },
+"detska-skupina-nase-skolicka-ds00163": {
+"ico": "02666162",
+"psc": "736 01",
+"ulice": "Kolmá",
+"web": "https://www.nase-skolicka.cz"
+},
 "detska-skupina-nejkrasnejsi-svet-1-ds00870": {
 "ico": "06348807",
 "psc": "625 00",
@@ -3041,6 +3359,12 @@
 "ulice": "Topolová",
 "web": "https://nudz.cz/o-nas/detska-skupina-neuronek"
 },
+"detska-skupina-nuslicky-ds10122": {
+"ico": "17053218",
+"psc": "140 00",
+"ulice": "Svatoslavova",
+"web": "https://nuslicky.cz"
+},
 "detska-skupina-o-deti-postarano-oslavany-ds10287": {
 "ico": "06129498",
 "psc": "664 12",
@@ -3082,6 +3406,12 @@
 "psc": "160 00",
 "ulice": "Gotthardská",
 "web": "https://orangerypark.cz"
+},
+"detska-skupina-osecanek-ds01017": {
+"ico": "04806352",
+"psc": "751 22",
+"ulice": "Osek nad Bečvou",
+"web": "https://www.osecanek.cz"
 },
 "detska-skupina-oskar-ds01679": {
 "ico": "17489474",
@@ -3130,6 +3460,18 @@
 "psc": "392 01",
 "ulice": "",
 "web": "https://msduhasobeslav.cz/detska-skupina-paloucek"
+},
+"detska-skupina-pampeliska-i-ds10464": {
+"ico": "00473901",
+"psc": "262 05",
+"ulice": "č. p.",
+"web": "https://www.dspampeliska.cz"
+},
+"detska-skupina-pampeliska-ii-ds10465": {
+"ico": "00473901",
+"psc": "262 05",
+"ulice": "č. p.",
+"web": "https://www.dspampeliska.cz"
 },
 "detska-skupina-panacci-1-ds00447": {
 "ico": "03312658",
@@ -3239,6 +3581,12 @@
 "ulice": "Ledenická",
 "web": "https://detskaskupinapaviocko.cz"
 },
+"detska-skupina-pavucinka-ds11148": {
+"ico": "05647681",
+"psc": "725 28",
+"ulice": "Televizní",
+"web": "https://dspavucinka.cz"
+},
 "detska-skupina-pejsci-ds02125": {
 "ico": "09261630",
 "psc": "301 00",
@@ -3257,6 +3605,12 @@
 "ulice": "Morkůvky",
 "web": "https://dsperinka.cz"
 },
+"detska-skupina-permonicci-ds00214": {
+"ico": "22854614",
+"psc": "284 01",
+"ulice": "U Jelena",
+"web": "https://permonicci.cz"
+},
 "detska-skupina-permonicek-ds00216": {
 "ico": "27020207",
 "psc": "254 01",
@@ -3274,6 +3628,12 @@
 "psc": "747 11",
 "ulice": "",
 "web": "https://petrzelka-ds.cz"
+},
+"detska-skupina-pexeso-ds10547": {
+"ico": "23880058",
+"psc": "463 11",
+"ulice": "Pampelišková",
+"web": "https://www.ds-pexeso.cz"
 },
 "detska-skupina-pidi-midi-treboradice-ds01994": {
 "ico": "02324407",
@@ -3323,6 +3683,12 @@
 "ulice": "Pošepného náměstí",
 "web": "https://rcpilnevcelky.cz"
 },
+"detska-skupina-piskle-ds02298": {
+"ico": "05647681",
+"psc": "739 41",
+"ulice": "Palkovice",
+"web": "https://dspiskle.cz"
+},
 "detska-skupina-plaminek-repy-ds02187": {
 "ico": "73635481",
 "psc": "163 00",
@@ -3359,11 +3725,29 @@
 "ulice": "Na stráži",
 "web": "https://plumlovacek.msplumlov.cz"
 },
+"detska-skupina-pod-duhou-2-ds02170": {
+"ico": "17276195",
+"psc": "155 00",
+"ulice": "Hasilova",
+"web": "https://www.podduhou.cz"
+},
+"detska-skupina-pod-duhou-ds02169": {
+"ico": "17276195",
+"psc": "155 00",
+"ulice": "Hasilova",
+"web": "https://www.podduhou.cz"
+},
 "detska-skupina-pohadka-berusky-ds11023": {
 "ico": "75033488",
 "psc": "276 01",
 "ulice": "Sportovní",
 "web": "https://mspohadka-melnik.cz"
+},
+"detska-skupina-pohadka-ds02034": {
+"ico": "21132143",
+"psc": "163 00",
+"ulice": "Žalanského",
+"web": "https://www.dspohadka.cz"
 },
 "detska-skupina-pohadka-pro-wlastovku-ds00356": {
 "ico": "29125812",
@@ -3406,6 +3790,12 @@
 "psc": "666 01",
 "ulice": "Květnická",
 "web": "https://studanka-tisnov.cz/pece-o-deti/detska-skupina-potucek"
+},
+"detska-skupina-poupatka-ds01552": {
+"ico": "17185700",
+"psc": "282 01",
+"ulice": "Jungmannova",
+"web": "https://www.poupatka.com"
 },
 "detska-skupina-poupatka-ds02331": {
 "ico": "06347169",
@@ -3538,6 +3928,18 @@
 "psc": "120 00",
 "ulice": "Slezská",
 "web": "https://prostorprorodinu.cz/detska-skupina-prvni-slova"
+},
+"detska-skupina-puntik-ds00551": {
+"ico": "06520146",
+"psc": "388 01",
+"ulice": "Holečkova",
+"web": "https://skolkapuntik.cz"
+},
+"detska-skupina-pupalek-ds00261": {
+"ico": "29300550",
+"psc": "615 00",
+"ulice": "Gebauerova",
+"web": "https://pupalek.cz"
 },
 "detska-skupina-pytel-blech-v-mesicke-i-ds01746": {
 "ico": "11911883",
@@ -3677,6 +4079,12 @@
 "ulice": "Ruská",
 "web": "https://rosyostrava.cz"
 },
+"detska-skupina-rozarka-ds10751": {
+"ico": "22908668",
+"psc": "413 01",
+"ulice": "Špindlerova třída",
+"web": "https://dsrozarka.cz"
+},
 "detska-skupina-rozesmate-decko-ds00559": {
 "ico": "03342034",
 "psc": "547 01",
@@ -3694,6 +4102,12 @@
 "psc": "696 62",
 "ulice": "Frolkova",
 "web": "https://dsrybickastraznice.webnode.cz"
+},
+"detska-skupina-rybicky-ds00597": {
+"ico": "00666262",
+"psc": "373 16",
+"ulice": "Pod Lesem",
+"web": "https://www.dsrybicky.cz"
 },
 "detska-skupina-rybicky-ds11201": {
 "ico": "75024047",
@@ -3737,6 +4151,12 @@
 "ulice": "Senohraby",
 "web": "https://senohrabskesovicky.cz"
 },
+"detska-skupina-severacci-ds10990": {
+"ico": "24590614",
+"psc": "407 47",
+"ulice": "Národní",
+"web": "https://ds-severacci.cz"
+},
 "detska-skupina-shining-smile-dobrejovice-ds10963": {
 "ico": "21535205",
 "psc": "251 01",
@@ -3773,6 +4193,24 @@
 "ulice": "Zámecká",
 "web": "https://skolamysl.cz"
 },
+"detska-skupina-skolicka-keltickova-ds02088": {
+"ico": "17268117",
+"psc": "710 00",
+"ulice": "Keltičkova",
+"web": "https://www.skolickakeltickova.cz"
+},
+"detska-skupina-skolicka-krasna-i-ds00306": {
+"ico": "04529766",
+"psc": "150 00",
+"ulice": "Cetyňská",
+"web": "https://www.skolickakrasna.cz"
+},
+"detska-skupina-skolicka-krasna-ii-ds00882": {
+"ico": "04529766",
+"psc": "150 00",
+"ulice": "Cetyňská",
+"web": "https://www.skolickakrasna.cz"
+},
 "detska-skupina-skolicka-na-farme-bohumin-ds02355": {
 "ico": "22740741",
 "psc": "735 81",
@@ -3808,6 +4246,24 @@
 "psc": "128 00",
 "ulice": "Slavojova",
 "web": "https://skolickapodvysehradem.cz"
+},
+"detska-skupina-skolicka-sedlec-ds01711": {
+"ico": "17995141",
+"psc": "250 65",
+"ulice": "Sedlec",
+"web": "https://www.skolickasedlec.cz"
+},
+"detska-skupina-skolicka-zahrada-ds01271": {
+"ico": "07466480",
+"psc": "169 00",
+"ulice": "Parléřova",
+"web": "https://skolickazahrada.cz"
+},
+"detska-skupina-skolka-kostik-ds10298": {
+"ico": "22601961",
+"psc": "323 00",
+"ulice": "Plaská",
+"web": "https://skolkakostik.cz"
 },
 "detska-skupina-skolka-na-hrazi-ds00588": {
 "ico": "26594633",
@@ -3856,6 +4312,24 @@
 "psc": "267 53",
 "ulice": "Plzeňská",
 "web": "https://skritkove.cz"
+},
+"detska-skupina-slonik-i-ds01991": {
+"ico": "19083696",
+"psc": "158 00",
+"ulice": "Stodůlecká",
+"web": "https://www.ds-slonik.cz"
+},
+"detska-skupina-slonik-ii-ds01992": {
+"ico": "19083696",
+"psc": "158 00",
+"ulice": "Stodůlecká",
+"web": "https://www.ds-slonik.cz"
+},
+"detska-skupina-slovanka-ds10283": {
+"ico": "22526056",
+"psc": "273 03",
+"ulice": "Vašírovská",
+"web": "https://www.skolkaslovanka.cz"
 },
 "detska-skupina-slunecnice-ds00428": {
 "ico": "26615509",
@@ -3988,6 +4462,18 @@
 "psc": "335 01",
 "ulice": "Na Vinici II.",
 "web": "https://msnepomuk.cz/detska-skupina-slunicko-nepomuk"
+},
+"detska-skupina-slunickov-ds00914": {
+"ico": "07684363",
+"psc": "789 83",
+"ulice": "Palackého",
+"web": "https://slunickov.com"
+},
+"detska-skupina-slunickova-ds02094": {
+"ico": "09642137",
+"psc": "252 43",
+"ulice": "Říčanská",
+"web": "https://www.slunickova.cz"
 },
 "detska-skupina-smaragdovy-cap-ds10487": {
 "ico": "17618819",
@@ -4205,6 +4691,12 @@
 "ulice": "Fafkových",
 "web": "https://kc12.cz/snehurka"
 },
+"detska-skupina-snilkov-ds01532": {
+"ico": "75027356",
+"psc": "702 00",
+"ulice": "Repinova",
+"web": "https://www.dssnilkov.cz"
+},
 "detska-skupina-sokolik-ds00628": {
 "ico": "06515461",
 "psc": "266 01",
@@ -4216,6 +4708,12 @@
 "psc": "580 01",
 "ulice": "Vadín",
 "web": "https://obec-okrouhlice.cz/detska-skupina-soptik/ds-2957"
+},
+"detska-skupina-souhvezdi-ds02255": {
+"ico": "08488312",
+"psc": "697 01",
+"ulice": "třída Komenského",
+"web": "https://www.dssouhvezdi.cz"
 },
 "detska-skupina-sovicka-ds00699": {
 "ico": "01573071",
@@ -4234,6 +4732,12 @@
 "psc": "434 01",
 "ulice": "Josefa Ressla",
 "web": "https://sovickamost.cz"
+},
+"detska-skupina-sovicka-ds01143": {
+"ico": "27378225",
+"psc": "186 00",
+"ulice": "Prvního pluku",
+"web": "http://dssovicka.cz"
 },
 "detska-skupina-sovicka-ds01659": {
 "ico": "71175130",
@@ -4264,6 +4768,18 @@
 "psc": "503 61",
 "ulice": "č. p.",
 "web": "https://obeclovcice.cz/fotogalerie-detske-skupiny-sovicky/ms-12724/p1_12724"
+},
+"detska-skupina-spalicek-24-ds01571": {
+"ico": "26578221",
+"psc": "280 02",
+"ulice": "Kmochova",
+"web": "https://www.dsspalicek.cz"
+},
+"detska-skupina-spalicek-ds00360": {
+"ico": "26578221",
+"psc": "280 02",
+"ulice": "Polepská",
+"web": "https://www.dsspalicek.cz"
 },
 "detska-skupina-speak-n-play-ds02256": {
 "ico": "05447518",
@@ -4300,6 +4816,12 @@
 "psc": "360 01",
 "ulice": "Západní",
 "web": "https://materske-centrum.cz/sportacek"
+},
+"detska-skupina-spunti-ds01680": {
+"ico": "17309905",
+"psc": "267 51",
+"ulice": "Zdice - Černín",
+"web": "https://www.ds-spunti.cz"
 },
 "detska-skupina-spuntici-ds01761": {
 "ico": "17734967",
@@ -4361,6 +4883,12 @@
 "ulice": "Rabasova",
 "web": "https://pandicky.cz/skolka-pro-stenatka-praha"
 },
+"detska-skupina-stepanek-ds01983": {
+"ico": "19533349",
+"psc": "747 28",
+"ulice": "Slezská",
+"web": "https://dsstepanek.cz"
+},
 "detska-skupina-strapata-smecka-ds02350": {
 "ico": "21286604",
 "psc": "381 01",
@@ -4415,6 +4943,18 @@
 "ulice": "Spojovací",
 "web": "https://zsmsstezery.cz/detska-skupina.htm"
 },
+"detska-skupina-sykorky-ds00197": {
+"ico": "04669851",
+"psc": "783 57",
+"ulice": "Vacanovice",
+"web": "https://dssykorky.cz"
+},
+"detska-skupina-sympatie-ds02299": {
+"ico": "21176060",
+"psc": "785 01",
+"ulice": "Bojovníků za svobodu",
+"web": "https://ds-sympatie.cz"
+},
 "detska-skupina-targevacek-kladno-ds10804": {
 "ico": "23122633",
 "psc": "272 01",
@@ -4462,6 +5002,18 @@
 "psc": "332 02",
 "ulice": "Habrmanova",
 "web": "https://ymcastaryplzenec.cz/detska-skupina-tlapicka"
+},
+"detska-skupina-tomik-ds01257": {
+"ico": "26987252",
+"psc": "517 21",
+"ulice": "",
+"web": "https://detskaskupinatomik.cz"
+},
+"detska-skupina-trebesacek-ds10763": {
+"ico": "00640298",
+"psc": "286 01",
+"ulice": "Třebešice",
+"web": "https://www.trebesacek.cz"
 },
 "detska-skupina-tree-of-life-ds00935": {
 "ico": "06509835",
@@ -4577,6 +5129,12 @@
 "ulice": "Mírové náměstí",
 "web": "https://uzasnakov.family"
 },
+"detska-skupina-uzasnakov-ds01467": {
+"ico": "17074525",
+"psc": "708 00",
+"ulice": "Ludvíka Podéště",
+"web": "https://www.uzasnakov.cz"
+},
 "detska-skupina-v-chaloupce-1-ds11029": {
 "ico": "71008934",
 "psc": "565 42",
@@ -4654,6 +5212,12 @@
 "psc": "160 00",
 "ulice": "Na Pískách",
 "web": "https://dragon-kindergartens.com/detska-skupina-velci-dracci"
+},
+"detska-skupina-velisek-ds01961": {
+"ico": "22908668",
+"psc": "382 32",
+"ulice": "Školní",
+"web": "http://dsvelisek.cz"
 },
 "detska-skupina-vesela-skolicka-zuzanka-kobylnice-ds01655": {
 "ico": "06531539",
@@ -4769,6 +5333,12 @@
 "ulice": "Kamenná",
 "web": "https://soschomutov.cz/sluzby/detske-skupiny/detska-skupina-vilik"
 },
+"detska-skupina-vlcaci-ds02335": {
+"ico": "19253796",
+"psc": "796 01",
+"ulice": "Šárka",
+"web": "https://www.detskaskupinavlcaci.cz"
+},
 "detska-skupina-vlnka-2-ds01220": {
 "ico": "05213215",
 "psc": "760 01",
@@ -4871,6 +5441,12 @@
 "ulice": "Šmídova",
 "web": "https://dswaldik.cz"
 },
+"detska-skupina-wantici-ds02338": {
+"ico": "09629289",
+"psc": "353 01",
+"ulice": "Tepelská",
+"web": "https://dswantici.cz"
+},
 "detska-skupina-wonderspace-ds10592": {
 "ico": "23845244",
 "psc": "170 00",
@@ -4888,6 +5464,12 @@
 "psc": "330 26",
 "ulice": "Tlučenská kolonie",
 "web": "https://ymcaplzen.cz/skupina-slunicko"
+},
+"detska-skupina-za-potokem-ds01936": {
+"ico": "04387589",
+"psc": "739 42",
+"ulice": "Staříčská",
+"web": "https://www.zapotokem.cz"
 },
 "detska-skupina-zabicky-ds01681": {
 "ico": "17195888",
@@ -5015,11 +5597,23 @@
 "ulice": "Nosticova",
 "web": "https://msmesice.cz/zelvicky-a1576"
 },
+"detska-skupina-zemekoule-ds01842": {
+"ico": "19112581",
+"psc": "397 01",
+"ulice": "Žižkova třída",
+"web": "https://www.dszemekoule.cz"
+},
 "detska-skupina-zenklovka-ds10680": {
 "ico": "24068390",
 "psc": "180 00",
 "ulice": "Zenklova",
 "web": "https://mszenklovka.cz"
+},
+"detska-skupina-zizala-ds10051": {
+"ico": "00269239",
+"psc": "503 51",
+"ulice": "č. p.",
+"web": "https://www.ds-zizala.cz"
 },
 "detska-skupina-zizalky-ds01791": {
 "ico": "60275898",
@@ -5039,11 +5633,29 @@
 "ulice": "Seifertova",
 "web": "https://cimburacka.cz/detska-skupina-zizkovska-skolicka-iii-seifertova-51"
 },
+"detska-skupina-zlaticka-ds00910": {
+"ico": "00278483",
+"psc": "541 01",
+"ulice": "Zlatá Olešnice",
+"web": "https://dszlaticka.cz"
+},
+"detska-skupina-zs-masarykova-2-ds01985": {
+"ico": "27034925",
+"psc": "757 01",
+"ulice": "Masarykova",
+"web": "https://zsmasarykova.cz"
+},
 "detska-skupina-zvidalek-ds02002": {
 "ico": "19509448",
 "psc": "696 13",
 "ulice": "Šardice",
 "web": "https://zvidaleksardice.cz"
+},
+"detska-skupina-zvidalek-ds10047": {
+"ico": "21149305",
+"psc": "503 46",
+"ulice": "Nepasice",
+"web": "https://www.dszvidalek.cz"
 },
 "detska-skupina-zvidavy-skolacek-i-ds02167": {
 "ico": "21753539",
@@ -5171,6 +5783,12 @@
 "ulice": "Hřbitovní",
 "web": "https://jeslickypianko.cz"
 },
+"kids-garden-detska-skupina-ds10783": {
+"ico": "28323645",
+"psc": "615 00",
+"ulice": "Gajdošova",
+"web": "https://kidsgarden.cz"
+},
 "klicek-detska-skupina-ds00624": {
 "ico": "06531245",
 "psc": "323 00",
@@ -5200,6 +5818,12 @@
 "psc": "675 31",
 "ulice": "Tyršova",
 "web": "https://detska-skupina-jemnice.webnode.cz/detska-skupina-kopretina"
+},
+"kosticka-detska-skupina-ds01047": {
+"ico": "04028929",
+"psc": "466 04",
+"ulice": "Mozartova",
+"web": "https://www.dskosticka.cz"
 },
 "kouzelna-montessori-skolicka-detska-skupina-ds00619": {
 "ico": "05650003",
@@ -9557,6 +10181,12 @@
 "ulice": "Na Bohdalci",
 "web": "https://montessori-skolka-praha.cz"
 },
+"montysek-detska-skupina-z-s-ds01107": {
+"ico": "08744157",
+"psc": "109 00",
+"ulice": "Bolevecká",
+"web": "https://www.montysek.cz"
+},
 "moudrohrani-detska-skupina-ds01245": {
 "ico": "10799427",
 "psc": "160 00",
@@ -9820,6 +10450,18 @@
 "psc": "258 01",
 "ulice": "Palackého nám.",
 "web": "https://montessorivlasim.cz"
+},
+"spravna-skolka-detska-skupina-1-ds10334": {
+"ico": "22146938",
+"psc": "779 00",
+"ulice": "Aloise Rašína",
+"web": "https://www.spravnaskolka.com"
+},
+"spravna-skolka-detska-skupina-2-ds10581": {
+"ico": "22146938",
+"psc": "779 00",
+"ulice": "Aloise Rašína",
+"web": "https://www.spravnaskolka.com"
 },
 "sqs-vzdelavaci-centrum-detska-skupina-saurus-ds01170": {
 "ico": "60913037",
