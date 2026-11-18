@@ -1,2 +1,7 @@
-[12:37:21] Část 3/20: webů 199, hotovo 236, zbývá 0
-[12:37:21] Konec: školek s fotkami 60; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:20] Část 3/20: webů 202, hotovo 236, zbývá 3
+[12:44:10] https://zs17.plzen.eu: 34 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 8 fotek ke kontrole
+[12:44:56] https://zsamscista.cz: nedostupné nebo zakázané
+[12:47:38] https://msdetrichov.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 742 obrázků, 13 fotek ke kontrole
+[12:47:53] tříděno 0/21
+[12:47:53] Dávka 1: hotovo 239/202, se fotkami 61; {'ok': 2, 'lide': 0, 'jine': 15, 'sablona': 0}
+[12:47:53] Konec: školek s fotkami 61; {'ok': 2, 'lide': 0, 'jine': 15, 'sablona': 0}

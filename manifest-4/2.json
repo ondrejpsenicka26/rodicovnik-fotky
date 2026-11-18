@@ -1,4 +1,34 @@
 {
+"17-zakladni-skola-a-materska-skola-plzen-543168": [
+{
+"alt": "og",
+"barva": "#6d6a61",
+"dh": "1d3969a909993ced",
+"h": 750,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQEE/8QAIxAAAgEEAgAHAAAAAAAAAAAAAQIDAAQREiExBUFhcXLB4f/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREjH/2gAMAwEAAhEDEQA/AOC0a5sQzRxqso4JK7Eexp8N7fXXiMK3dwJF3zqFA5APpSlhiiPGw88BjiskdkdJI21KHIGMjPX3RTchRdLuAe2FFRTfzDhnAPw/aKORU//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zs17.plzen.eu/ms-zrucska-cesta/",
+"typ": "budova",
+"url": "https://zs17.plzen.eu/photo-pg-3096235-1200--.jpg",
+"w": 1000
+},
+{
+"alt": "og",
+"barva": "#a79d94",
+"dh": "ccd8b0e0e0e0e0c0",
+"h": 528,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zs17.plzen.eu/ms-krizkova/",
+"typ": "budova",
+"url": "https://zs17.plzen.eu/photo-pg-3096046-1200--.png",
+"w": 920
+}
+],
 "detska-skupina-andelska-ds01243": [
 {
 "alt": "",
