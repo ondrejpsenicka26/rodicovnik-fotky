@@ -1695,10 +1695,6 @@
 "jen_ms": false,
 "slug": "materska-skola-mirov-632624"
 },
-"http://www.skolamysl.cz": {
-"jen_ms": true,
-"slug": "zakladni-skola-skolamysl-018934"
-},
 "http://www.skolanavalech.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-lesni-materska-skola-litomerice-147548"
@@ -2951,6 +2947,10 @@
 "jen_ms": true,
 "slug": "zs-t-g-masaryka-a-ms-600216"
 },
+"https://abacuscb.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-abacus-ii-ds01425"
+},
 "https://agentura-beranek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-beranek-3-ds11393"
@@ -2963,9 +2963,21 @@
 "jen_ms": true,
 "slug": "stredni-skola-a-mater-skola-aloyse-klara-501058"
 },
+"https://akropolis-uh.cz/miniskolka-uherske-hradiste": {
+"jen_ms": false,
+"slug": "detska-skupina-miniskolka-rolnicka-ds00675"
+},
+"https://aktivnezivotem.cz/detska-skupina-aktivacek/detska-skupina-aktivacek-otrokovice": {
+"jen_ms": false,
+"slug": "detska-skupina-aktivacek-otrokovice-ds02321"
+},
 "https://aktivsenice.cz/aktivacci": {
 "jen_ms": false,
 "slug": "detska-skupina-aktivacci-ds00259"
+},
+"https://alcedovsetin.cz/klubicko-detska-skupina-dokumenty": {
+"jen_ms": false,
+"slug": "detska-skupina-alcedo-klubicko-ds00260"
 },
 "https://alfahs.cz/co-delame/skolka-alfik": {
 "jen_ms": false,
@@ -2975,6 +2987,10 @@
 "jen_ms": true,
 "slug": "all-stars-school-ms-a-zs-122138"
 },
+"https://anglickazahrada.cz": {
+"jen_ms": false,
+"slug": "anglicka-zahrada-dubicny-potok-detska-skupina-ds10624"
+},
 "https://augustiniani.cz": {
 "jen_ms": true,
 "slug": "ms-zs-a-gymnazium-sv-augustina-028034"
@@ -2983,17 +2999,33 @@
 "jen_ms": false,
 "slug": "detska-skupina-baby-nest-ds01206"
 },
-"https://babyresort.cz/detska-skupina-tabulovy-vrch-olomouc": {
-"jen_ms": false,
-"slug": "baby-resort-tabulovy-vrch-a-detska-skupina-ds01785"
-},
 "https://bambinohodonin.cz/skupiny": {
 "jen_ms": false,
 "slug": "detska-skupina-bambino-ds02014"
 },
+"https://barevnaduha.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-barevna-duha-ds02362"
+},
 "https://barevnaskolicka.cz": {
 "jen_ms": false,
 "slug": "materska-skola-barevna-skolicka-006952"
+},
+"https://bavimesesportem.cz/ds-kremilek-ceska-skalice": {
+"jen_ms": false,
+"slug": "detska-skupina-kremilek-ds01518"
+},
+"https://bavimesesportem.cz/ds-rakosnicek-nachod": {
+"jen_ms": false,
+"slug": "detska-skupina-rakosnicek-ds01954"
+},
+"https://bavimesesportem.cz/fotogalerie/detska-skupina-krtecek-nove-mesto-nad-metuji": {
+"jen_ms": false,
+"slug": "detska-skupina-krtecek-ds00510"
+},
+"https://bavimesesportem.cz/sportacek-nachod": {
+"jen_ms": false,
+"slug": "detska-skupina-sportacek-ds00509"
 },
 "https://beadschool10.cz": {
 "jen_ms": false,
@@ -3011,13 +3043,25 @@
 "jen_ms": false,
 "slug": "detska-skupina-benjaminek-stod-ds02381"
 },
-"https://berusky.palonin.cz": {
+"https://beruska-ub.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-berusky-palonin-ds11150"
+"slug": "detska-skupina-beruska-ds00340"
+},
+"https://beruska-vizovice.cz/detske-skupiny/detska-skupina-vizovice": {
+"jen_ms": false,
+"slug": "detska-skupina-beruska-ds00121"
+},
+"https://beruskazlin.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-beruska-ds00322"
 },
 "https://bgbzs.cz": {
 "jen_ms": true,
 "slug": "biskupske-gymnazium-zs-a-ms-bohosudov-038811"
+},
+"https://bilovice.cz/default/report/335975_detska-skupina-vcelka-nedachlebice": {
+"jen_ms": false,
+"slug": "detska-skupina-vcelka-ds02344"
 },
 "https://bimbonido.cz": {
 "jen_ms": false,
@@ -3026,6 +3070,14 @@
 "https://bobrici.sportovnids.cz": {
 "jen_ms": false,
 "slug": "sportovni-detska-skupina-bobrici-ds10242"
+},
+"https://borky-a-borci.cz/detska-skupina": {
+"jen_ms": false,
+"slug": "borky-a-borci-brezolupy-detska-skupina-ds02316"
+},
+"https://bory.cz/obec-bory/detska-skupina-siska-ii": {
+"jen_ms": false,
+"slug": "detska-skupina-siska-ii-ds11032"
 },
 "https://boskovice.cz/ds-skolka-na-rohu": {
 "jen_ms": false,
@@ -3051,25 +3103,29 @@
 "jen_ms": false,
 "slug": "detska-skupina-bright-steps-ds10506"
 },
-"https://brno-lisen.cz/lesni-skolka-zemekvitek/t6040": {
+"https://bublina-jbc.cz": {
 "jen_ms": false,
-"slug": "zemekvitek-detska-skupina-ds00373"
+"slug": "bublina-jbc-detska-skupina-ds00051"
 },
 "https://bublinkakolinec.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-bublinka-kolinec-ds10544"
 },
+"https://carlsbadmontessori.cz": {
+"jen_ms": false,
+"slug": "carlsbad-montessori-school-detska-skupina-ds02046"
+},
+"https://centrum-andilek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-andilek-ds01620"
+},
 "https://centrum-hvezdicka.cz": {
 "jen_ms": false,
 "slug": "montessori-detska-skupina-hvezdicka-ds00758"
 },
-"https://centrum-rodinka.cz/detska-skupina-rodinka": {
+"https://centrum-vseznalek.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-rodinka-ds00084"
-},
-"https://centrum-rodinka.cz/detska-skupina-rodinka-svinov": {
-"jen_ms": false,
-"slug": "detska-skupina-rodinka-svinov-ds00458"
+"slug": "detska-skupina-miniskolka-vseznalek-ds00649"
 },
 "https://centrumbatole.cz": {
 "jen_ms": false,
@@ -3087,9 +3143,13 @@
 "jen_ms": true,
 "slug": "detska-skupina-centrum-kvetinka-2-ds00655"
 },
-"https://centrumlupinek.cz/ds-ponny-brno": {
+"https://centrummilisek.cz": {
 "jen_ms": false,
-"slug": "ponny-detska-skupina-ds00593"
+"slug": "detska-skupina-jeslicky-milisek-ds00346"
+},
+"https://centrumrozvojefenix.cz/sluzba/detska-skupina": {
+"jen_ms": false,
+"slug": "detska-skupina-fenix-klenovice-ds11275"
 },
 "https://centrumrudnacek.cz/detska-skupina-krtecek": {
 "jen_ms": false,
@@ -3135,6 +3195,10 @@
 "jen_ms": false,
 "slug": "detska-skupina-chovanek-ds00031"
 },
+"https://chrudimacek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-chrudimacek-ds02097"
+},
 "https://cimburacka.cz/DS-Cimburkova-zizkovska-skolicka-I": {
 "jen_ms": false,
 "slug": "detska-skupina-zizkovska-skolicka-i-ds00025"
@@ -3175,6 +3239,18 @@
 "jen_ms": false,
 "slug": "detska-skupina-cvrcek-pysely-ds00117"
 },
+"https://dasice.cz/detska-skupina-kolousek-zminny": {
+"jen_ms": false,
+"slug": "detska-skupina-kolousek-ds10961"
+},
+"https://dasice.cz/detska-skupina-masinka-dasice-kd-dasice": {
+"jen_ms": false,
+"slug": "detska-skupina-masinka-dasice-ds00313"
+},
+"https://dc-svitavy.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-pri-detskem-centru-svitavy-ii-ds01952"
+},
 "https://dccap.cz/detske-skupiny/fialovy-cap": {
 "jen_ms": false,
 "slug": "detska-skupina-fialovy-cap-ds02054"
@@ -3191,6 +3267,22 @@
 "jen_ms": false,
 "slug": "detska-skupina-zeleny-cap-ds11149"
 },
+"https://dckvary.cz/nase-sluzby/detska-skupina-beruska": {
+"jen_ms": false,
+"slug": "detska-skupina-beruska-ds01319"
+},
+"https://dckvary.cz/nase-sluzby/detska-skupina-sovicka": {
+"jen_ms": false,
+"slug": "detska-skupina-sovicka-ds01659"
+},
+"https://dcveska.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-vesely-domecek-veska-ds01364"
+},
+"https://dcvlnka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-vlnka-ds00709"
+},
 "https://ddhlucin.cz/cs/detska-skupina-elanek-hlucin/438-r-10": {
 "jen_ms": false,
 "slug": "detska-skupina-elanek-hlucin-1-ds01827"
@@ -3199,13 +3291,45 @@
 "jen_ms": true,
 "slug": "dd-ms-zs-a-prs-zlin-319600"
 },
+"https://deti.ratolest.eu": {
+"jen_ms": false,
+"slug": "ratolest-detska-skupina-berusky-ds00153"
+},
 "https://detska-skupina-hlavenecek.webnode.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-hlavenecek-ds00929"
 },
+"https://detska-skupina-jemnice.webnode.cz/detska-skupina-kopretina": {
+"jen_ms": false,
+"slug": "kopretina-detska-skupina-jemnice-ds02101"
+},
+"https://detskaskupinabublinka.cz/programs/detska-skupina-na-paloucku-pardubice": {
+"jen_ms": false,
+"slug": "detska-skupina-na-paloucku-ds02189"
+},
+"https://detskaskupinabublinka.cz/programs/holice": {
+"jen_ms": false,
+"slug": "detska-skupina-listicka-holice-ds01941"
+},
+"https://detskaskupinaddmblovice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-ddm-blovice-tygrici-ds10341"
+},
 "https://detskaskupinaholahej.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-hola-hej-ds10492"
+},
+"https://detskaskupinakrtecek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-krtecek-ds00790"
+},
+"https://detskaskupinamateridouska.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-materidouska-ds01593"
+},
+"https://detskaskupinapaviocko.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-pavi-ocko-ds02057"
 },
 "https://detskeskupiny.avcr.cz/cs/pro-rodice/lvicek": {
 "jen_ms": false,
@@ -3222,6 +3346,14 @@
 "https://detskeskupiny.csop5.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-habrova-ds11359"
+},
+"https://dlouhatrebova.cz/zivot-v-obci/detska-skupina-babiccina-zahrada": {
+"jen_ms": false,
+"slug": "detska-skupina-babiccina-zahrada-ds01177"
+},
+"https://dobravodauhoric.cz/detska-skupina": {
+"jen_ms": false,
+"slug": "detska-skupina-dobra-voda-ds01770"
 },
 "https://dobrocovice.cz/skolicka-dobroskritek": {
 "jen_ms": false,
@@ -3243,9 +3375,29 @@
 "jen_ms": false,
 "slug": "detska-skupina-brezanek-ds00134"
 },
+"https://domecekpacov.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-domecek-ds01008"
+},
+"https://domici.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-domici-ds00500"
+},
+"https://dominoliberec.eu": {
+"jen_ms": false,
+"slug": "detska-skupina-domino-liberec-ds00092"
+},
 "https://doo.cz": {
 "jen_ms": true,
 "slug": "cirkevni-materska-skola-ludgerovice-035751"
+},
+"https://dracci-domazlice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-dracci-domazlice-i-ds02077"
+},
+"https://dracekcl.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-dracek-2-ds02134"
 },
 "https://drzovice.cz/obec/detska-skupina-kapicka": {
 "jen_ms": false,
@@ -3254,6 +3406,26 @@
 "https://ds-lucnimlyn.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-lucni-mlyn-ds01998"
+},
+"https://ds-oblacek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-oblacek-ds01052"
+},
+"https://ds-pejsci-a-kocicky.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kocicky-ds02126"
+},
+"https://ds-pod-kunkou.cz/u-jezecku-kunetice": {
+"jen_ms": false,
+"slug": "detska-skupina-u-jezecku-ds10161"
+},
+"https://ds-pod-kunkou.cz/u-listicek-stare-hradiste": {
+"jen_ms": false,
+"slug": "detska-skupina-u-listicek-ds01283"
+},
+"https://ds-poupatka.webnode.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-poupatka-ds02331"
 },
 "https://ds-skritci.cz": {
 "jen_ms": false,
@@ -3267,17 +3439,33 @@
 "jen_ms": false,
 "slug": "detska-skupina-bobrici-ds01721"
 },
-"https://dsbublinka.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-bublinka-ds00974"
-},
 "https://dsbublinky.cz/detska-skupina-bublinky-blazovice": {
 "jen_ms": false,
 "slug": "detska-skupina-bublinky-ds00128"
 },
+"https://dsbylany.cz/kocicky": {
+"jen_ms": false,
+"slug": "detska-skupina-kocicky-ds02351"
+},
+"https://dsbylany.cz/mysicky": {
+"jen_ms": false,
+"slug": "detska-skupina-mysicky-ds02352"
+},
+"https://dsbylany.cz/zabicky": {
+"jen_ms": false,
+"slug": "detska-skupina-zabicky-ds01681"
+},
+"https://dsbystrehlavicky.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-bystre-hlavicky-ds10263"
+},
 "https://dsctyrlistekmost.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-ctyrlistek-mini-iv-ds10754"
+"slug": "detska-skupina-ctyrlistek-mini-ds00413"
+},
+"https://dsdubina.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-dubina-ds02373"
 },
 "https://dsduha.cz": {
 "jen_ms": false,
@@ -3287,29 +3475,41 @@
 "jen_ms": false,
 "slug": "detska-skupina-dracek-sternberk-ds00181"
 },
-"https://dseccehomo.cz/skritecek": {
+"https://dshangarek.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-skritecek-ds00408"
+"slug": "detska-skupina-hangarek-ds00645"
+},
+"https://dshangarek.cz/broucek-zlin": {
+"jen_ms": false,
+"slug": "detska-skupina-broucek-ds01637"
 },
 "https://dshangarek.cz/hvezdicka-praha-slivenec": {
 "jen_ms": false,
 "slug": "detska-skupina-hvezdicka-ds00825"
 },
+"https://dshangarek.cz/jezecek-jihlava": {
+"jen_ms": false,
+"slug": "detska-skupina-jezecek-ds01539"
+},
 "https://dshangarek.cz/myska-zabreh": {
 "jen_ms": false,
 "slug": "detska-skupina-myska-ds01636"
 },
+"https://dshnizdo.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-hnizdo-ds02113"
+},
 "https://dsholubnicek.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-holubnicek-komenskeho-nam-ds01814"
+"slug": "detska-skupina-holubnicek-grand-ds01656"
 },
 "https://dshoromerice.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-horomerice-mechova-ds11186"
 },
-"https://dshrosik.cz": {
+"https://dsjednicka.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-hrosik-i-ds10501"
+"slug": "detska-skupina-jednicka-uherske-hradiste-3-ds01662"
 },
 "https://dsjezek.cz": {
 "jen_ms": false,
@@ -3339,9 +3539,13 @@
 "jen_ms": false,
 "slug": "detska-skupina-kvetinka-berusky-ds02294"
 },
+"https://dslaska.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-laska-ds01642"
+},
 "https://dslittlemice.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-little-mice-3-ds02001"
+"slug": "detska-skupina-little-mice-1-ds01917"
 },
 "https://dsmaliandilci.cz": {
 "jen_ms": false,
@@ -3367,6 +3571,14 @@
 "jen_ms": false,
 "slug": "detska-skupina-montessori-slany-ds01769"
 },
+"https://dsmyskatabor.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-myska-i-ds01590"
+},
+"https://dsoblacek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-oblacek-ds01709"
+},
 "https://dsorisek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-vykutaleny-orisek-ds00943"
@@ -3374,6 +3586,10 @@
 "https://dspalecek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-palecek-ds00784"
+},
+"https://dsparnicek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-parnicek-ds02056"
 },
 "https://dspenkavka.eschool.cz": {
 "jen_ms": false,
@@ -3383,17 +3599,21 @@
 "jen_ms": false,
 "slug": "detska-skupina-perinka-ds00335"
 },
+"https://dspidisvet.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-pidi-svet-ds10201"
+},
 "https://dsprogres.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-progres-sporilov-i-ds10785"
 },
-"https://dsprovazek.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-provazek-ds02011"
-},
 "https://dsrepy.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-plaminek-repy-ds02187"
+},
+"https://dsrozmarynek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-rozmarynek-jaromer-ds11336"
 },
 "https://dsrybickastraznice.webnode.cz": {
 "jen_ms": false,
@@ -3411,10 +3631,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-slunicka-litomerice-ds00571"
 },
-"https://dsslunicka.cz/louny/detska-skupina-slunicka-louny": {
-"jen_ms": false,
-"slug": "detska-skupina-slunicka-louny-ds10900"
-},
 "https://dsslunicka.cz/lovosice/detska-skupina-slunicka-lovosice-i": {
 "jen_ms": false,
 "slug": "detska-skupina-slunicka-lovosice-i-ds01541"
@@ -3427,10 +3643,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-slunicka-teplice-i-ds00470"
 },
-"https://dsslunicka.cz/teplice/detska-skupina-slunicka-teplice-ii": {
-"jen_ms": false,
-"slug": "detska-skupina-slunicka-teplice-ii-ds01824"
-},
 "https://dsslunicka.cz/usti-nad-labem/detska-skupina-slunicka-na-terase": {
 "jen_ms": false,
 "slug": "detska-skupina-slunicka-na-terase-ds01466"
@@ -3439,9 +3651,9 @@
 "jen_ms": false,
 "slug": "detska-skupina-slunicko-ds01229"
 },
-"https://dstreeoflife.cz": {
+"https://dssvetpoznani.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-tree-of-life-ds00935"
+"slug": "detska-skupina-svet-poznani-ds10806"
 },
 "https://dsveverka.cz": {
 "jen_ms": false,
@@ -3455,6 +3667,14 @@
 "jen_ms": false,
 "slug": "detska-skupina-waldik-radvanice-ds01880"
 },
+"https://dszahradaradosti.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-zahrada-radosti-ds02293"
+},
+"https://dszelenka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-zelenka-ds10461"
+},
 "https://dubovelistky.cz/aktivity/detska-skupina-me%C4%8Eove-modrice/13": {
 "jen_ms": false,
 "slug": "detska-skupina-medove-modrice-ds11315"
@@ -3462,6 +3682,10 @@
 "https://duhaparticka.cz": {
 "jen_ms": false,
 "slug": "duha-particka-detska-skupina-ds00705"
+},
+"https://duhovekulicky.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-duhove-kulicky-ds10267"
 },
 "https://duhovydum.cz": {
 "jen_ms": false,
@@ -3519,9 +3743,9 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-erazim-1-118009"
 },
-"https://evakiedronova.cz/programy/rozcestnik-ds/detska-skupina-sovicky": {
+"https://fazole-pisek.webnode.cz/sluzby/fazolka": {
 "jen_ms": false,
-"slug": "sovicky-detska-skupina-ds01077"
+"slug": "detska-skupina-fazolka-ds00173"
 },
 "https://flowergarten.cz": {
 "jen_ms": true,
@@ -3551,6 +3775,10 @@
 "jen_ms": true,
 "slug": "fakultni-zs-pedf-uk-a-ms-u-studanky-502909"
 },
+"https://generacekk.cz/rodice/detska-skupina-pristav": {
+"jen_ms": false,
+"slug": "detska-skupina-pristav-ds01634"
+},
 "https://genius-school.cz/genius-strasnice": {
 "jen_ms": false,
 "slug": "genius-materska-skola-032961"
@@ -3575,25 +3803,53 @@
 "jen_ms": false,
 "slug": "detska-skupina-orangerypark-harmonia-ds11042"
 },
+"https://hartvikovice.cz/detska-skupina-hartalek": {
+"jen_ms": false,
+"slug": "detska-skupina-hartalek-i-ds11223"
+},
+"https://hb.charita.cz/jak-pomahame/detska-skupina-brodsti-broucci": {
+"jen_ms": false,
+"slug": "detska-skupina-brodsti-broucci-ds01153"
+},
 "https://hejkalek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-hejkalek-ds02339"
+},
+"https://hermanov.info/detska-skupina-hermanek": {
+"jen_ms": false,
+"slug": "detska-skupina-hermanek-ds01900"
+},
+"https://hermanov.info/uvod/detska-skupina-hermanek": {
+"jen_ms": false,
+"slug": "detska-skupina-hermanek-ii-ds10355"
 },
 "https://heroldynek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-heroldynek-ds10445"
 },
+"https://hlubokavpohybu.cz": {
+"jen_ms": false,
+"slug": "deti-v-pohybu-detska-skupina-ds00896"
+},
 "https://hm-msjiraskova.cz": {
 "jen_ms": false,
 "slug": "materska-skola-hermanuv-mestec-582627"
+},
+"https://holesov.cz/4587-detska-skupina-grohova.html": {
+"jen_ms": false,
+"slug": "detska-skupina-grohova-ds11048"
+},
+"https://holesov.cz/4789-detska-skupina-hajenka.html": {
+"jen_ms": false,
+"slug": "detska-skupina-hajenka-ds11037"
 },
 "https://hornicermna.cz": {
 "jen_ms": true,
 "slug": "materska-skola-a-skolni-jidelna-590298"
 },
-"https://hravaduha.cz": {
+"https://hravepacicky.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-hrava-duha-ds02314"
+"slug": "hrave-pacicky-detska-skupina-ds00478"
 },
 "https://hrusovany.cz/detska-skupina-rybicky-v-hrusovanech-nad-jevisovkou/d-18332": {
 "jen_ms": false,
@@ -3611,13 +3867,25 @@
 "jen_ms": false,
 "slug": "detska-skupina-sasovacek-ds01632"
 },
+"https://icsasov.cz/detska-skupina-sipecek": {
+"jen_ms": false,
+"slug": "detska-skupina-sipecek-ds01039"
+},
+"https://im-perfect.cz/detske-skupiny/zbusska-vlcata": {
+"jen_ms": false,
+"slug": "detska-skupina-zbusska-vlcata-ds10333"
+},
 "https://inskolka.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-inskolka-hulvacka-ds01456"
+"slug": "detska-skupina-inskolka-kaminskeho-ds00416"
 },
 "https://itin.cz": {
 "jen_ms": true,
 "slug": "zacit-spolu-zs-a-ms-042240"
+},
+"https://jablicko-plzen.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-jablicko-ds00089"
 },
 "https://jahoda.cz/centrum/albertov": {
 "jen_ms": false,
@@ -3667,13 +3935,13 @@
 "jen_ms": false,
 "slug": "detska-skupina-jesle-zbraslav-prispevkova-organizace-ds01928"
 },
-"https://jeslickypianko.cz": {
-"jen_ms": false,
-"slug": "jeslicky-pianko-detska-skupina-ds01333"
-},
 "https://jiloviste.cz": {
 "jen_ms": true,
 "slug": "materska-skola-jiloviste-074877"
+},
+"https://jinaskolka.cz/kouzelny-kloboucek/o-skupince": {
+"jen_ms": false,
+"slug": "detska-skupina-kouzelny-kloboucek-ds00894"
 },
 "https://jsmemalihrdinove.cz": {
 "jen_ms": false,
@@ -3683,6 +3951,10 @@
 "jen_ms": false,
 "slug": "skolicka-u-koniku-detska-skupina-ds01147"
 },
+"https://junikorn.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-junikorn-plzen-ds00162"
+},
 "https://jupischool.com": {
 "jen_ms": true,
 "slug": "jupi-school-materska-skola-007916"
@@ -3690,6 +3962,18 @@
 "https://kamaradizletne.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-kamaradi-z-letne-ds02206"
+},
+"https://kamennyujezd.cz/materska-skola-detske-skupiny/ds-kamenacek": {
+"jen_ms": false,
+"slug": "detska-skupina-kamenacek-ds11102"
+},
+"https://kaminekhorice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kaminek-horice-ds11192"
+},
+"https://kaminekrychnov.webnode.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kaminek-ds00525"
 },
 "https://kasparek-melnik.cz/rolnicka": {
 "jen_ms": false,
@@ -3707,6 +3991,10 @@
 "jen_ms": false,
 "slug": "detska-skupina-kids-corner-ds01807"
 },
+"https://klicekds.cz": {
+"jen_ms": false,
+"slug": "klicek-detska-skupina-ds00624"
+},
 "https://klicekrumburk.cz": {
 "jen_ms": true,
 "slug": "cirkevni-materska-skola-klicek-048345"
@@ -3718,6 +4006,10 @@
 "https://klubicek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-klubicek-zbysov-ds11017"
+},
+"https://klubicko.zlin.eu": {
+"jen_ms": false,
+"slug": "detska-skupina-klubicko-ds02181"
 },
 "https://klubickokralupy.cz": {
 "jen_ms": false,
@@ -3731,6 +4023,10 @@
 "jen_ms": false,
 "slug": "detska-skupina-klubik-ds01165"
 },
+"https://klubkomontessori.cz": {
+"jen_ms": false,
+"slug": "klubko-montessori-jesle-detska-skupina-ds10233"
+},
 "https://kmskliment.cz": {
 "jen_ms": false,
 "slug": "katolicka-materska-skola-sv-klimenta-625063"
@@ -3742,6 +4038,10 @@
 "https://knoflicekdubnany.cz/hlidani-deti/detska-skupina-knoflicky-kyjov": {
 "jen_ms": false,
 "slug": "detska-skupina-knoflicky-ds00595"
+},
+"https://kojeneckyustav-svitavy.webnode.cz/detska-skupina": {
+"jen_ms": false,
+"slug": "detska-skupina-pri-detskem-centru-svitavy-ds00071"
 },
 "https://kolackove.cz/kulihrasci": {
 "jen_ms": false,
@@ -3783,6 +4083,18 @@
 "jen_ms": false,
 "slug": "kouzelna-montessori-skolicka-detska-skupina-ds00619"
 },
+"https://kouzelny-dvorecek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-kouzelny-dvorecek-ds11060"
+},
+"https://kralovskaskolka.cz": {
+"jen_ms": false,
+"slug": "kralovska-skolka-a-jesle-detska-skupina-herman-ds10352"
+},
+"https://kralovskaskolkacb.cz": {
+"jen_ms": false,
+"slug": "kralovska-skolka-v-cb-detska-skupina-ds00671"
+},
 "https://kraluv-dvur.cz/detske-skupiny-kraluv-dvur/ms-35394": {
 "jen_ms": false,
 "slug": "detska-skupina-kraluv-dvur-i-ds10836"
@@ -3811,10 +4123,6 @@
 "jen_ms": true,
 "slug": "lesni-materska-skola-kulisek-089726"
 },
-"https://kuliskuvsvet.cz/kuliskov": {
-"jen_ms": false,
-"slug": "kuliskov-detska-skupina-ds10472"
-},
 "https://labutatka-pod-vysehradem.cz": {
 "jen_ms": false,
 "slug": "labutatka-pod-vysehradem-detska-skupina-ds01179"
@@ -3835,17 +4143,29 @@
 "jen_ms": true,
 "slug": "lesni-materska-skola-lesmir-088223"
 },
+"https://lipova4.webnode.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-lipova-chaloupka-ds01949"
+},
+"https://lisakliberec.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-lisak-liberec-ds02123"
+},
+"https://litomysl.charita.cz/jak-pomahame/dobrovolnicke-centrum/detska-skupina-tulipanek-a-kvitecek": {
+"jen_ms": false,
+"slug": "detska-skupina-tulipanek-litomysl-ds00328"
+},
 "https://little-wings.webnode.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-little-wings-ds10901"
 },
 "https://littlefamily.cz": {
 "jen_ms": false,
-"slug": "little-family-breclav-detska-skupina-ds02263"
+"slug": "little-family-brno-ctpark-1-detska-skupina-ds10821"
 },
-"https://littlemonkeys.cz": {
+"https://littlekidspisek.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-monkeys-ds00411"
+"slug": "detska-skupina-little-kids-english-preschool-ds11296"
 },
 "https://littlemonkeys.cz/tiny-tigers": {
 "jen_ms": false,
@@ -3883,6 +4203,10 @@
 "jen_ms": false,
 "slug": "detska-skupina-skladanka-ds01894"
 },
+"https://luzecnadcidlinou-luzacci.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-luzacci-ds01113"
+},
 "https://malinka.eschool.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-malinka-ds01280"
@@ -3903,6 +4227,10 @@
 "jen_ms": true,
 "slug": "masarykova-zs-a-ms-623111"
 },
+"https://masroznovsko.cz/mikrojesle-hutisko-solanec": {
+"jen_ms": false,
+"slug": "detska-skupina-hutisko-solanec-ds11151"
+},
 "https://materidousky.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-materi-dousky-pro-nejmensi-ds01601"
@@ -3919,6 +4247,10 @@
 "jen_ms": false,
 "slug": "materska-skola-tetcice-071177"
 },
+"https://materske-centrum.cz/sportacek": {
+"jen_ms": false,
+"slug": "detska-skupina-sportacek-ds01378"
+},
 "https://mcpermonicek.cz/cs/detska-skupina": {
 "jen_ms": false,
 "slug": "detska-skupina-permonicek-ds00216"
@@ -3934,6 +4266,10 @@
 "https://medvidkovaskolka.cz": {
 "jen_ms": false,
 "slug": "medvidkova-skolka-detska-skupina-ds01763"
+},
+"https://mestovyssibrod.cz/mesto/samosprava/detska-skupina-brodska-srdicka": {
+"jen_ms": false,
+"slug": "detska-skupina-brodska-srdicka-ds10835"
 },
 "https://mestyscechtice.cz/detska-skupina-slunicko": {
 "jen_ms": false,
@@ -3959,9 +4295,21 @@
 "jen_ms": false,
 "slug": "detska-skupina-milu-care-jirny-ds01811"
 },
+"https://mimitabor.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-mimi-ds01901"
+},
+"https://miniaktivity.cz": {
+"jen_ms": false,
+"slug": "miniaktivity-detska-skupina-ds00406"
+},
 "https://miniklub-znojmo.cz/sluzby/detska-skupina-opicky": {
 "jen_ms": false,
 "slug": "detska-skupina-opicky-ds01478"
+},
+"https://miniskolickazabicka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-miniskolicka-zabicka-ds00598"
 },
 "https://miniskolka-ententyky.cz": {
 "jen_ms": false,
@@ -3971,13 +4319,17 @@
 "jen_ms": false,
 "slug": "detska-skupina-ententyky-ds10243"
 },
+"https://miniskolkajaja.cz/cs/detska-skupina-a-jesle-montik-liberec": {
+"jen_ms": false,
+"slug": "detska-skupina-jaja-ds00599"
+},
 "https://miniskolkalistek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-miniskolka-listek-ds00917"
 },
 "https://miniskolkaslunecnice.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-miniskolka-slunecnice-orlova-ds01935"
+"slug": "detska-skupina-miniskolka-slunecnice-petrvald-ds01163"
 },
 "https://minisovicky.cz": {
 "jen_ms": false,
@@ -3990,10 +4342,6 @@
 "https://minisvetukrtecka.cz": {
 "jen_ms": true,
 "slug": "minisvet-u-krtecka-detska-skupina-beroun-ds10278"
-},
-"https://misaskolka.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-misa-skolka-senov-ds01891"
 },
 "https://misaskolka.cz/detska-skupina-misa-skolka-petrvald": {
 "jen_ms": false,
@@ -4019,10 +4367,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-montessori-brezulka-ds02039"
 },
-"https://montessori-brno.cz": {
-"jen_ms": false,
-"slug": "montessori-detska-skupina-kvitek-ds00205"
-},
 "https://montessori-ceskytesin.cz": {
 "jen_ms": false,
 "slug": "montessori-detska-skupina-campanella-ds00228"
@@ -4043,6 +4387,22 @@
 "jen_ms": true,
 "slug": "detska-skupina-montessori-andilek-ii-ds00183"
 },
+"https://montessorichotikov.cz": {
+"jen_ms": false,
+"slug": "montessori-chotikov-detska-skupina-ds02138"
+},
+"https://montessorikampus.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-montessori-kampus-ds00904"
+},
+"https://montessorinadlani.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-montessori-na-dlani-ds02119"
+},
+"https://montessoriprostor.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-montessori-miniskolka-ds10350"
+},
 "https://montessorirms.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-montessori-rms-i-ds00620"
@@ -4055,6 +4415,10 @@
 "jen_ms": false,
 "slug": "spolkacek-montessori-detska-skupina-ds00536"
 },
+"https://montici.cz": {
+"jen_ms": false,
+"slug": "montessori-detska-skupina-montici-ds02235"
+},
 "https://monty-skolka.cz": {
 "jen_ms": false,
 "slug": "materska-skola-monty-school-085020"
@@ -4063,10 +4427,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-monty-klub-ds00900"
 },
-"https://montyskola.cz": {
-"jen_ms": true,
-"slug": "detska-skupina-monty-ds00565"
-},
 "https://moudrohrani.cz": {
 "jen_ms": false,
 "slug": "moudrohrani-detska-skupina-ds01245"
@@ -4074,6 +4434,10 @@
 "https://mracekmrac.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-mracek-ds11342"
+},
+"https://mraveniste-prirodni-klub.webnode.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-mraveniste-ds00123"
 },
 "https://ms-dk.webnode.cz": {
 "jen_ms": false,
@@ -4183,10 +4547,6 @@
 "jen_ms": false,
 "slug": "91-materska-skola-plzen-543737"
 },
-"https://msalergo.cz/ds-zizalky": {
-"jen_ms": false,
-"slug": "detska-skupina-zizalky-ds01791"
-},
 "https://msastra.cz": {
 "jen_ms": false,
 "slug": "materska-skola-astra-103664"
@@ -4231,13 +4591,9 @@
 "jen_ms": false,
 "slug": "materska-skola-cakovice-iii-102778"
 },
-"https://msceskakamenice.cz/detska-skupina/trida-motylci": {
+"https://mschlum.cz/c-59-detska-skupina.html": {
 "jen_ms": false,
-"slug": "detska-skupina-motylci-ds11242"
-},
-"https://msceskakamenice.cz/detska-skupina/trida-vcelicky": {
-"jen_ms": false,
-"slug": "detska-skupina-vcelicky-ds11243"
+"slug": "detska-skupina-chlum-u-trebone-ds11119"
 },
 "https://mschvaletice.webnode.cz": {
 "jen_ms": false,
@@ -4259,6 +4615,10 @@
 "jen_ms": false,
 "slug": "materska-skola-duha-pardubice-popkovice-a-stare-civice-584778"
 },
+"https://msduhasobeslav.cz/detska-skupina-paloucek": {
+"jen_ms": false,
+"slug": "detska-skupina-paloucek-ds11020"
+},
 "https://msdvorska-blansko.cz/berusky": {
 "jen_ms": false,
 "slug": "detska-skupina-berusky-ds10872"
@@ -4266,10 +4626,6 @@
 "https://msdvorska-blansko.cz/mravenecci": {
 "jen_ms": false,
 "slug": "detska-skupina-mravenecci-ds10871"
-},
-"https://msfugnerova.cz/klubicko": {
-"jen_ms": false,
-"slug": "detska-skupina-klubicko-ds01450"
 },
 "https://msharmonie.cz": {
 "jen_ms": false,
@@ -4387,6 +4743,10 @@
 "jen_ms": false,
 "slug": "materska-skola-luby-541416"
 },
+"https://msmanesovakromeriz.cz/detska-skupina-mesta-kromerize": {
+"jen_ms": false,
+"slug": "detska-skupina-mesta-kromerize-ds01024"
+},
 "https://msmartinov.cz": {
 "jen_ms": false,
 "slug": "materska-skola-ostrava-martinov-630478"
@@ -4411,6 +4771,10 @@
 "jen_ms": false,
 "slug": "detska-skupina-koralek-ds02111"
 },
+"https://msnepomuk.cz/detska-skupina-slunicko-nepomuk": {
+"jen_ms": false,
+"slug": "detska-skupina-slunicko-nepomuk-broucci-ds10919"
+},
 "https://msnovadedina.cz": {
 "jen_ms": false,
 "slug": "materska-skola-nova-dedina-609240"
@@ -4422,6 +4786,10 @@
 "https://msnovavesi.cz/kontakt": {
 "jen_ms": false,
 "slug": "materska-skola-nova-ves-i-103310"
+},
+"https://msnovedomky.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-i-pri-materske-skole-kaplice-nove-domky-kaplice-ds11281"
 },
 "https://msnovyprerov.cz": {
 "jen_ms": false,
@@ -4511,6 +4879,10 @@
 "jen_ms": false,
 "slug": "materska-skola-prostejov-610493"
 },
+"https://mssemin.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-dubinek-semin-ds02178"
+},
 "https://mssidlistni.cz": {
 "jen_ms": false,
 "slug": "materska-skola-hodonin-606933"
@@ -4518,6 +4890,10 @@
 "https://msskretova.cz": {
 "jen_ms": false,
 "slug": "materska-skola-brno-601991"
+},
+"https://msslunecnice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-slunecnice-ds00434"
 },
 "https://msstarabela.cz": {
 "jen_ms": false,
@@ -4631,9 +5007,25 @@
 "jen_ms": false,
 "slug": "detska-skupina-klicek-ds00650"
 },
+"https://myskalola.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-myska-lola-ds01299"
+},
 "https://nadedine.cz": {
 "jen_ms": true,
 "slug": "zs-a-ms-na-dedine-133822"
+},
+"https://namestnosl.cz/detska-skupina-pri-ms-husova/ds-1187": {
+"jen_ms": false,
+"slug": "detska-skupina-pri-ms-husova-i-ds10745"
+},
+"https://napajedlacek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-napajedlacek-ds01128"
+},
+"https://narodka.cz/montessori.html": {
+"jen_ms": false,
+"slug": "montessori-detska-skupina-ds00396"
 },
 "https://nejkrasnejsisvet.eu": {
 "jen_ms": false,
@@ -4655,13 +5047,45 @@
 "jen_ms": true,
 "slug": "materska-skola-neurazy-544211"
 },
+"https://novasidla.cz/detska-skupina/detska-skupina-u-mlyna": {
+"jen_ms": false,
+"slug": "detska-skupina-u-mlyna-i-ds11255"
+},
+"https://novavesnm.cz/detska-skupina-motylek/ms-5022": {
+"jen_ms": false,
+"slug": "detska-skupina-motylek-ds10123"
+},
 "https://nudz.cz/o-nas/detska-skupina-neuronek": {
 "jen_ms": false,
 "slug": "detska-skupina-nudz-neuronek-ds00127"
 },
+"https://obec-hradec.cz/detska-skupina-bodlinka": {
+"jen_ms": false,
+"slug": "detska-skupina-bodlinka-ds02043"
+},
+"https://obec-jankovice.cz/volny-cas/detska-skupina-beruska-kozasice": {
+"jen_ms": false,
+"slug": "detska-skupina-beruska-ds10800"
+},
+"https://obec-okrouhlice.cz/detska-skupina-soptik/ds-2957": {
+"jen_ms": false,
+"slug": "detska-skupina-soptik-ds00834"
+},
+"https://obecbarchov.cz/nase-obec/detska-skupina-barchovacek": {
+"jen_ms": false,
+"slug": "detska-skupina-barchovacek-ds10686"
+},
 "https://obecborek.cz/o-skolce": {
 "jen_ms": false,
 "slug": "lms-borecek-121310"
+},
+"https://obeclovcice.cz/fotogalerie-detske-skupiny-sovicky/ms-12724/p1_12724": {
+"jen_ms": false,
+"slug": "detska-skupina-sovicky-ds10596"
+},
+"https://obecroudna.cz/detska-skupina-koralky": {
+"jen_ms": false,
+"slug": "detska-skupina-koralky-ds00973"
 },
 "https://obecsemcice.cz": {
 "jen_ms": true,
@@ -4674,6 +5098,10 @@
 "https://obecvidice.cz/detska-skupina-u-rybnicku": {
 "jen_ms": false,
 "slug": "detska-skupina-u-rybnicku-ds10803"
+},
+"https://obecvraclav.cz/detske-skupiny-v-chaloupce-vraclav": {
+"jen_ms": false,
+"slug": "detska-skupina-v-chaloupce-1-ds11029"
 },
 "https://obeczdetin.cz/fotogalerie/detska-skupina-prtata": {
 "jen_ms": false,
@@ -4703,9 +5131,13 @@
 "jen_ms": false,
 "slug": "materska-skola-brno-601541"
 },
-"https://ostruvekpoznani.cz": {
+"https://ostrovskeslunicko.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-slunicko-2-ds01525"
+},
+"https://oznicanek.oznice.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-ostruvek-poznani-ds01829"
+"slug": "detska-skupina-oznicanek-ds00003"
 },
 "https://panacci.eu": {
 "jen_ms": false,
@@ -4718,6 +5150,10 @@
 "https://pandicky.cz/skolka-pro-stenatka-praha": {
 "jen_ms": false,
 "slug": "detska-skupina-stenatka-ds00066"
+},
+"https://pansofie.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-pansofie-i-ds10145"
 },
 "https://pardubice.charita.cz": {
 "jen_ms": true,
@@ -4735,13 +5171,17 @@
 "jen_ms": false,
 "slug": "detska-skupina-mikropastelka-ds01390"
 },
+"https://pastelkapardubice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-pastelka-ds01705"
+},
+"https://pastelkapardubice.cz/kopie-z-detska-skupina-pastelka2": {
+"jen_ms": false,
+"slug": "detska-skupina-pastelka-ii-ds01995"
+},
 "https://permonici.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-permonici-ds10902"
-},
-"https://petrzelka-ds.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-petrzelka-kozmice-ds10104"
 },
 "https://pipan.cz": {
 "jen_ms": true,
@@ -4769,7 +5209,7 @@
 },
 "https://pliska-academy.cz": {
 "jen_ms": false,
-"slug": "pliska-academy-detska-skupina-ds01951"
+"slug": "pliska-academy-cesko-anglicka-montessori-detska-skupina-nova-zbrojovka-ds11345"
 },
 "https://plumlovacek.msplumlov.cz": {
 "jen_ms": false,
@@ -4779,13 +5219,29 @@
 "jen_ms": true,
 "slug": "49-materska-skola-plzen-546795"
 },
+"https://plzen.eu/socialni-sluzby/detska-skupina-malicek": {
+"jen_ms": false,
+"slug": "detska-skupina-malicek-ds00021"
+},
 "https://podhoubi.cz": {
 "jen_ms": true,
 "slug": "ekocentrum-podhoubi-a-ekoskolka-rozarka-070979"
 },
-"https://pohadkovachaloupka.cz": {
+"https://pohodickachrudim.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-pohadkova-chaloupka-i-ds00143"
+"slug": "detska-skupina-pohodicka-chrudim-ds10566"
+},
+"https://polnicka.cz/detska-skupina-polnatka": {
+"jen_ms": false,
+"slug": "detska-skupina-polnatka-ds10885"
+},
+"https://portusprachatice.cz/prorodinne-aktivity/detske-skupiny/detska-skupina-little-portus": {
+"jen_ms": false,
+"slug": "detska-skupina-little-portus-ds02015"
+},
+"https://portusprachatice.cz/prorodinne-aktivity/detske-skupiny/portusacek-2": {
+"jen_ms": false,
+"slug": "detska-skupina-portusacek-ds00218"
 },
 "https://praha-libus.cz/detska-skupina-lipisek": {
 "jen_ms": false,
@@ -4843,6 +5299,18 @@
 "jen_ms": true,
 "slug": "materska-skola-ratibor-634112"
 },
+"https://ratibor.cz/obec/p1960-detska-skupina-zvonek": {
+"jen_ms": false,
+"slug": "detska-skupina-zvonek-ds11363"
+},
+"https://rckulihrasek.cz/detska-skupina-kulicka-prelouc-2": {
+"jen_ms": false,
+"slug": "detska-skupina-kulicka-ds01473"
+},
+"https://rckulihrasek.cz/locations/detska-skupina-kuliklubicko-rc-kulihrasek": {
+"jen_ms": false,
+"slug": "detska-skupina-kuliklubicko-ds00729"
+},
 "https://rcpilnevcelky.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-pilne-vcelky-ii-ds10856"
@@ -4850,6 +5318,10 @@
 "https://rcslunecnice.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-slunecnice-ds00428"
+},
+"https://rechtajicikralicek.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-rechtajici-kralicek-ds02193"
 },
 "https://resort-stesti.cz/baby-park-velka-bystrice-detska-skupina": {
 "jen_ms": false,
@@ -4867,10 +5339,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-praminek-ds02349"
 },
-"https://rodinka.cz/detske-skupiny": {
-"jen_ms": false,
-"slug": "detska-skupina-rodinka-ds00137"
-},
 "https://rolnicka.diakonie.cz": {
 "jen_ms": true,
 "slug": "ms-zs-spec-a-prs-diakonie-cce-rolnicka-018231"
@@ -4881,7 +5349,7 @@
 },
 "https://rosyostrava.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-rosy-i-ds01670"
+"slug": "detska-skupina-rosy-ii-ds01794"
 },
 "https://rozcestnik.skolkyslansko.cz": {
 "jen_ms": false,
@@ -4894,6 +5362,10 @@
 "https://rozcestnik.skolkyslansko.cz/ds-elisek": {
 "jen_ms": false,
 "slug": "detska-skupina-elisek-ds00199"
+},
+"https://rozesmatedecko.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-rozesmate-decko-ds00559"
 },
 "https://rozsochatec.cz": {
 "jen_ms": true,
@@ -4910,6 +5382,14 @@
 "https://safariclub.cz/ds-boskovice-u-templu": {
 "jen_ms": false,
 "slug": "detska-skupina-u-templu-ds00369"
+},
+"https://safariclub.cz/ds-chocen-boruvka": {
+"jen_ms": false,
+"slug": "detska-skupina-boruvka-ds00936"
+},
+"https://salasuh.cz/default/default/21221_ds-kapradinka": {
+"jen_ms": false,
+"slug": "detska-skupina-kapradinka-ds10883"
 },
 "https://sam-sebou.cz": {
 "jen_ms": true,
@@ -4971,6 +5451,10 @@
 "jen_ms": true,
 "slug": "zs-a-ms-bezdekov-nad-metuji-135311"
 },
+"https://skolaborova.cz/detska-skupina-borovacek": {
+"jen_ms": false,
+"slug": "detska-skupina-borovacek-ds01918"
+},
 "https://skolabosonohy.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-brno-601869"
@@ -5015,6 +5499,18 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-movere-127598"
 },
+"https://skolamysl.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-skolamysl-ds01912"
+},
+"https://skolanaceste.cz": {
+"jen_ms": false,
+"slug": "montessori-detska-skupina-na-ceste-ds10502"
+},
+"https://skolanahoru.cz": {
+"jen_ms": false,
+"slug": "montessori-detska-skupina-na-horu-jilemnice-ds00223"
+},
 "https://skolanosislav.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-nosislav-604990"
@@ -5050,6 +5546,18 @@
 "https://skolasvetdecin.cz/materska-skola/na-ceste-do-sveta": {
 "jen_ms": false,
 "slug": "detska-skupina-na-ceste-do-sveta-ds01490"
+},
+"https://skolavolynka.cz/strakonice/skupina": {
+"jen_ms": false,
+"slug": "detska-skupina-volynka-ve-strakonicich-ds01184"
+},
+"https://skolavolynka.cz/volyne/skupina": {
+"jen_ms": false,
+"slug": "detska-skupina-volynka-ds01026"
+},
+"https://skolavolynka.cz/volyne/skupina2": {
+"jen_ms": false,
+"slug": "detska-skupina-volynka-ii-ds01414"
 },
 "https://skolavrazne.cz": {
 "jen_ms": true,
@@ -5095,13 +5603,17 @@
 "jen_ms": false,
 "slug": "detska-skupina-skolicka-na-farme-bohumin-ds02355"
 },
-"https://skolickanafarme-markvartovice.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-skolicka-na-farme-markvartovice-ds11267"
-},
 "https://skolickanafarme.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-skolicka-na-farme-ds00711"
+},
+"https://skolickapipi.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-skolicka-pipi-ds01826"
+},
+"https://skolickasvetobjevu.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-svet-objevu-ds02382"
 },
 "https://skolka-amalka.cz": {
 "jen_ms": false,
@@ -5115,6 +5627,10 @@
 "jen_ms": false,
 "slug": "materska-skola-ctyrlistek-006918"
 },
+"https://skolka-jablicko.cz": {
+"jen_ms": false,
+"slug": "cervene-jablicko-detska-skupina-ds00308"
+},
 "https://skolka-jesle.cz/detske-skupiny/devitka": {
 "jen_ms": false,
 "slug": "detska-skupina-devitka-ds00138"
@@ -5122,6 +5638,10 @@
 "https://skolka-ondrejov.cz": {
 "jen_ms": false,
 "slug": "materska-skola-ivette-000482"
+},
+"https://skolkacertik.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-certik-ds00733"
 },
 "https://skolkacesticka.cz": {
 "jen_ms": false,
@@ -5138,10 +5658,6 @@
 "https://skolkakarlin.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-start-up-skolky-karlin-ds01923"
-},
-"https://skolkakomenskeho.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-komenskeho-i-sternberk-ds10339"
 },
 "https://skolkakopretinka.cz": {
 "jen_ms": false,
@@ -5163,6 +5679,10 @@
 "jen_ms": false,
 "slug": "detska-skupina-lada-ds01977"
 },
+"https://skolkalotty.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-lotty-ds01065"
+},
 "https://skolkamasinka.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-masinka-ds00421"
@@ -5171,6 +5691,18 @@
 "jen_ms": false,
 "slug": "materska-skola-na-kopecku-038382"
 },
+"https://skolkaoskar.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-oskar-ds01679"
+},
+"https://skolkapastelka.cz/ds-minipastelka-lomnice": {
+"jen_ms": false,
+"slug": "detska-skupina-minipastelka-3-ds11232"
+},
+"https://skolkapastelkova.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-pastelkova-bolevec-ds01376"
+},
 "https://skolkaslunickodobris.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-slunicko-dobris-ds00920"
@@ -5178,10 +5710,6 @@
 "https://skolkasmartkids.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-smartkids-ii-ds00838"
-},
-"https://skolkaspielberk.cz": {
-"jen_ms": false,
-"slug": "mini-skolka-spielberk-i-detska-skupina-ds02250"
 },
 "https://skolkasvetluska.cz": {
 "jen_ms": false,
@@ -5194,10 +5722,6 @@
 "https://skolkavlese.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-skolka-v-lese-ds00268"
-},
-"https://skolkavlnenka.cz": {
-"jen_ms": false,
-"slug": "mini-skolka-vlnenka-i-detska-skupina-ds02248"
 },
 "https://skolkavodenka.cz": {
 "jen_ms": false,
@@ -5219,6 +5743,10 @@
 "jen_ms": false,
 "slug": "materska-skola-znojmo-614839"
 },
+"https://skolky.turnov.cz/cs/detska-skupina-sedmikvitek": {
+"jen_ms": false,
+"slug": "detska-skupina-sedmikvitek-i-ds10650"
+},
 "https://skolskykomplex.cz": {
 "jen_ms": true,
 "slug": "porg-brno-gymnazium-zs-a-ms-104773"
@@ -5226,6 +5754,10 @@
 "https://skolyavida.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-avida-3-6-ds00265"
+},
+"https://skritci-justici.com": {
+"jen_ms": false,
+"slug": "skritci-justici-detska-skupina-s-vyukou-jazyku-ds02110"
 },
 "https://skupinkypraha8.cz/cmelda.html": {
 "jen_ms": false,
@@ -5239,13 +5771,33 @@
 "jen_ms": false,
 "slug": "detska-skupina-slunicka-motylci-ds01903"
 },
+"https://slunicka.com/detska-skupina-slunicka-hradec": {
+"jen_ms": false,
+"slug": "detska-skupina-slunicka-hradec-ds01386"
+},
 "https://slunicko.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-ms-slunicko-631121"
 },
+"https://slunickodomazlice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-slunicko-domazlice-ds00012"
+},
 "https://slunickoopava.cz": {
 "jen_ms": true,
 "slug": "materska-skola-slunicko-opava-629437"
+},
+"https://slunickopardubice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-miniskolka-slunicko-ds00238"
+},
+"https://slunickopardubice.cz/centrum/stranka/detska-skupina-rosa/71": {
+"jen_ms": false,
+"slug": "detska-skupina-rosa-ds01494"
+},
+"https://slunickopardubice.cz/centrum/stranka/duha/66": {
+"jen_ms": false,
+"slug": "detska-skupina-duha-ds01317"
 },
 "https://smartbaby.cz": {
 "jen_ms": true,
@@ -5267,10 +5819,6 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-lyckovo-namesti-006110"
 },
-"https://sokolikberoun.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-sokolik-ds00628"
-},
 "https://sokolikrevnice.cz": {
 "jen_ms": false,
 "slug": "sokolik-2-detska-skupina-ds01015"
@@ -5278,6 +5826,10 @@
 "https://soschomutov.cz/sluzby/detske-skupiny/detska-skupina-vilik": {
 "jen_ms": false,
 "slug": "detska-skupina-vilik-ds00798"
+},
+"https://sovicka-hk.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-sovicka-ds00699"
 },
 "https://sovickamost.cz": {
 "jen_ms": false,
@@ -5287,10 +5839,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-spirala-ds00414"
 },
-"https://sovickybilovec.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-sovicky-bilovec-ds00475"
-},
 "https://speaknplay.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-speak-n-play-ds02256"
@@ -5298,6 +5846,18 @@
 "https://spolek-ctyrlistek.cz/detska-skupina-ctyrlitek": {
 "jen_ms": false,
 "slug": "detska-skupina-ctyrlistek-ds01805"
+},
+"https://spolekzivo.cz/datlici": {
+"jen_ms": false,
+"slug": "zivy-klubik-v-bozkove-detska-skupina-datlici-ds00512"
+},
+"https://spolekzivo.cz/skolka-na-borech-ceske-udoli": {
+"jen_ms": false,
+"slug": "ziva-skolka-na-borech-detska-skupina-boruvky-a-maliny-ds01187"
+},
+"https://sportkids-cz.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-sport-kids-ds00210"
 },
 "https://sportovni-skoly.webnode.cz/detska-skupina-clovicek": {
 "jen_ms": false,
@@ -5311,6 +5871,10 @@
 "jen_ms": false,
 "slug": "detska-skupina-spuntici-ds02353"
 },
+"https://sqs-saurus.cz": {
+"jen_ms": false,
+"slug": "sqs-vzdelavaci-centrum-detska-skupina-saurus-ds01170"
+},
 "https://srdcevcele.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-srdcevcele-ds01439"
@@ -5323,9 +5887,9 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-brno-602067"
 },
-"https://starnov.cz/zivot-v-obci/detska-skupina-hvezdicka": {
+"https://stararise.cz/detska-skupina-stara-rise": {
 "jen_ms": false,
-"slug": "detska-skupina-hvezdicka-ds11063"
+"slug": "detska-skupina-stara-rise-ds10938"
 },
 "https://starykolin.eu/sluzby-obcanum/detska-skupina-koralek-ii": {
 "jen_ms": false,
@@ -5334,6 +5898,10 @@
 "https://stastneditekozojidky.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-stastne-dite-kozojidky-ds11104"
+},
+"https://strapatasmecka.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-strapata-smecka-ds02350"
 },
 "https://stromacek-jeslicky.cz": {
 "jen_ms": false,
@@ -5347,9 +5915,9 @@
 "jen_ms": false,
 "slug": "detska-skupina-zabka-ds00749"
 },
-"https://subirov.cz/obec/detska-skupina-sovicky": {
+"https://svchumpolec.cz/detska-skupina-mladata-humpolec": {
 "jen_ms": false,
-"slug": "detska-skupina-sovicky-ds01158"
+"slug": "detska-skupina-mladata-humpolec-ds01715"
 },
 "https://svojetice.cz": {
 "jen_ms": true,
@@ -5363,9 +5931,17 @@
 "jen_ms": true,
 "slug": "ms-a-zs-talent-pardubice-006987"
 },
+"https://talk-e.cz": {
+"jen_ms": false,
+"slug": "jazykova-skolicka-talk-e-1-detska-skupina-ds02276"
+},
 "https://targevacek.cz/detska-skupina-kladno": {
 "jen_ms": false,
 "slug": "detska-skupina-targevacek-kladno-ds10804"
+},
+"https://tatobity.cz/detska-skupina-rosnicky": {
+"jen_ms": false,
+"slug": "detska-skupina-rosnicky-ds01825"
 },
 "https://techmania.cz": {
 "jen_ms": true,
@@ -5383,10 +5959,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-artik-a-liduska-ds01502"
 },
-"https://tygriletka.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-tygri-letka-ds10891"
-},
 "https://tyrsovazsams.plzen.eu": {
 "jen_ms": true,
 "slug": "tyrsova-zakladni-skola-a-materska-skola-543176"
@@ -5395,29 +5967,53 @@
 "jen_ms": true,
 "slug": "materska-skola-u-bileho-kralika-018501"
 },
+"https://ubislavice.cz/obec/ds-kvitka-ubislavice/zamereni-detske-skupiny-kvitka-ubislavice-447cs.html": {
+"jen_ms": false,
+"slug": "detska-skupina-kvitka-ubislavice-ds10847"
+},
+"https://ucenisrespektem.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-uceni-s-respektem-ds02122"
+},
+"https://ulita.org": {
+"jen_ms": false,
+"slug": "detska-skupina-pri-ddm-ulita-ds00912"
+},
 "https://umalychcestovatelu.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-u-malych-cestovatelu-ds01773"
+},
+"https://umalychpruzkumnicku.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-u-malych-pruzkumnicku-ds10202"
 },
 "https://umominky.cz": {
 "jen_ms": true,
 "slug": "detska-skupina-u-mominky-ds01420"
 },
-"https://univerzitka.cz": {
-"jen_ms": false,
-"slug": "univerzitka-detska-skupina-ds01048"
-},
 "https://usti.ymca.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-ymca-ds00476"
+},
+"https://utrimalychmysu.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-u-tri-malych-mysu-ds01348"
 },
 "https://uzasnakov.family": {
 "jen_ms": false,
 "slug": "detska-skupina-uzasnakov-2-ds02083"
 },
+"https://vceliakademie.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-vceli-akademie-ds01740"
+},
 "https://vcelickyvracov.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-vcelicky-vracov-ds11181"
+},
+"https://vcelka-budetice.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-vcelka-budetice-ds11016"
 },
 "https://vejirkladno.cz": {
 "jen_ms": false,
@@ -5431,13 +6027,13 @@
 "jen_ms": false,
 "slug": "detska-skupina-vesela-skolicka-zuzanka-turany-ds00592"
 },
-"https://veselenoticky.cz": {
+"https://veselekroky.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-vesele-noticky-ds01819"
+"slug": "detska-skupina-vesele-kroky-ds00494"
 },
 "https://veselypanacek.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-vesely-panacek-horka-i-ds11018"
+"slug": "detska-skupina-vesely-panacek-i-ds00886"
 },
 "https://vetrnicek-usti.cz": {
 "jen_ms": false,
@@ -5451,9 +6047,17 @@
 "jen_ms": true,
 "slug": "materska-skola-vidce-634376"
 },
+"https://vidce.cz/spol/detska-skupina-stritez-nad-becvou": {
+"jen_ms": false,
+"slug": "detska-skupina-stritez-ds01136"
+},
 "https://vikikidsclub.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-viki-kids-club-i-ds00600"
+},
+"https://vimperk.cz/detska-skupina-kralovska-skolka/ms-16699": {
+"jen_ms": false,
+"slug": "kralovska-skolka-detska-skupina-vimperk-ds01116"
 },
 "https://vlasenickydvur.cz": {
 "jen_ms": true,
@@ -5479,6 +6083,18 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-vsen-007353"
 },
+"https://vsestary-obec.cz/obec/detska-skupina-vseslicky": {
+"jen_ms": false,
+"slug": "detska-skupina-vseslicky-ds10922"
+},
+"https://vysokepole.cz/detska-skupina-malina": {
+"jen_ms": false,
+"slug": "detska-skupina-malina-ds10989"
+},
+"https://vzahradce.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-v-zahradce-ds01018"
+},
 "https://vzdelaniokruzni.cz": {
 "jen_ms": true,
 "slug": "technicke-gymnazium-zs-a-ms-vste-061252"
@@ -5490,6 +6106,10 @@
 "https://waldorfcheb.cz": {
 "jen_ms": true,
 "slug": "waldorfska-zs-a-ms-cheb-122936"
+},
+"https://wlastovka.cz/detska-skupina-pohadka-pro-wlastovku": {
+"jen_ms": false,
+"slug": "detska-skupina-pohadka-pro-wlastovku-ds00356"
 },
 "https://wp.skolahlavnovice.info": {
 "jen_ms": true,
@@ -6258,10 +6878,6 @@
 "https://www.montessoricb.cz": {
 "jen_ms": true,
 "slug": "soukroma-zs-a-ms-viva-bambini-033356"
-},
-"https://www.montessorikampus.cz": {
-"jen_ms": true,
-"slug": "zs-a-ms-montessori-kampus-075041"
 },
 "https://www.montessoriopava.cz": {
 "jen_ms": false,
@@ -10867,17 +11483,37 @@
 "jen_ms": true,
 "slug": "zs-a-ms-pri-nemocnici-101184"
 },
-"https://zahradadetstvi.cz": {
+"https://ymcaplzen.cz/skupina-slunicko": {
 "jen_ms": false,
-"slug": "detska-skupina-zahrada-detstvi-chotesov-ds11210"
+"slug": "detska-skupina-ymca-plzen-slunicko-tlucna-ds01898"
+},
+"https://ymcastaryplzenec.cz/detska-skupina-tlapicka": {
+"jen_ms": false,
+"slug": "detska-skupina-tlapicka-ds02296"
 },
 "https://zahradkaprodetatka.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-zahradka-pro-detatka-ds01035"
 },
+"https://zanzik.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-zanzik-i-ds02284"
+},
 "https://zbuzany.eu/detsky-klub-zbuzanek/ds-8819": {
 "jen_ms": false,
 "slug": "detska-skupina-zbuzanek-i-ds10877"
+},
+"https://zdravaskolkaberuska.cz": {
+"jen_ms": false,
+"slug": "detska-skupina-zdrava-skolka-beruska-ds00326"
+},
+"https://zelechovice.eu/obec/detska-skupina-kuratka": {
+"jen_ms": false,
+"slug": "detska-skupina-kuratka-ds11012"
+},
+"https://zlute-jablicko.cz": {
+"jen_ms": false,
+"slug": "zlute-jablicko-detska-skupina-ds00307"
 },
 "https://zs-bilovice.cz": {
 "jen_ms": true,
@@ -10894,6 +11530,10 @@
 "https://zs-smolkova.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-smolkova-v-praze-12-501228"
+},
+"https://zs-zdarec.cz": {
+"jen_ms": true,
+"slug": "detska-skupina-pri-zs-a-ms-zdarec-u-skutce-ds10866"
 },
 "https://zs.sedlec-prcice.cz": {
 "jen_ms": true,
@@ -11039,6 +11679,10 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-lesnice-633213"
 },
+"https://zsliptal.cz/o-skole/detska-skupina-motylci": {
+"jen_ms": false,
+"slug": "detska-skupina-motylci-liptal-ds10910"
+},
 "https://zslogo.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-logopedicka-brno-023447"
@@ -11079,6 +11723,10 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-pisecna-621827"
 },
+"https://zsmsstezery.cz/detska-skupina.htm": {
+"jen_ms": false,
+"slug": "detska-skupina-svetlusky-stezery-ds10320"
+},
 "https://zsmssuh.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-uherske-hradiste-613093"
@@ -11098,6 +11746,10 @@
 "https://zsolesnice.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-olesnice-530716"
+},
+"https://zsorlik.cz/detska-skupina-vltavinek": {
+"jen_ms": false,
+"slug": "detska-skupina-vltavinek-ds11190"
 },
 "https://zsostravice.cz": {
 "jen_ms": true,
