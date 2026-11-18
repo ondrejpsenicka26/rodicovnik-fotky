@@ -1,9 +1,9 @@
-[00:41:51] Část 1/20: webů 124, hotovo 144, zbývá 5
-[00:41:59] https://miniklub-znojmo.cz/sluzby/detska-skupina-opicky: 3 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[00:42:02] https://dsrybickastraznice.webnode.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 2 fotek ke kontrole
-[00:42:23] https://odetipostarano.cz/detska-skupina-senorady: 2 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 13 fotek ke kontrole
-[00:42:43] https://dccap.cz/detske-skupiny/zeleny_cap: 8 stránek (galerie mimo web: 0 [], alb: 0), 166 obrázků, 40 fotek ke kontrole
-[00:43:28] https://zsamsbratronice.edupage.org: nedostupné nebo zakázané
-[00:43:43] tříděno 0/55
-[00:43:47] Dávka 1: hotovo 149/124, se fotkami 45; {'ok': 5, 'lide': 3, 'jine': 46, 'sablona': 0}
-[00:43:47] Konec: školek s fotkami 45; {'ok': 5, 'lide': 3, 'jine': 46, 'sablona': 0}
+[02:14:03] Část 1/20: webů 125, hotovo 149, zbývá 5
+[02:14:23] https://dsslunicka.cz/lovosice/detska-skupina-slunicka-lovosice-i: 4 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 20 fotek ke kontrole
+[02:14:32] https://centrum-rodinka.cz/detska-skupina-rodinka: 3 stránek (galerie mimo web: 0 [], alb: 0), 35 obrázků, 32 fotek ke kontrole
+[02:15:01] https://obeczeletice.cz/zeleticka-skolicka/detska-skupina-obecne: 24 stránek (galerie mimo web: 0 [], alb: 0), 203 obrázků, 3 fotek ke kontrole
+[02:15:56] https://centrumbatole.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 10 fotek ke kontrole
+[02:16:39] https://dsctyrlistekmost.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 71 obrázků, 25 fotek ke kontrole
+[02:16:56] tříděno 0/90
+[02:17:15] Dávka 1: hotovo 154/125, se fotkami 49; {'ok': 10, 'lide': 8, 'jine': 41, 'sablona': 0}
+[02:17:15] Konec: školek s fotkami 49; {'ok': 10, 'lide': 8, 'jine': 41, 'sablona': 0}

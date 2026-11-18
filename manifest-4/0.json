@@ -55,6 +55,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-ctyrlistek-mini-iv-ds10754": [
+{
+"alt": "",
+"barva": "#85857e",
+"dh": "070e1c332e3e3e7f",
+"h": 850,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAjEAACAQQCAAcAAAAAAAAAAAABAgMABBEhEhMFIjFRU3HR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARAhL/2gAMAwEAAhEDEQA/AH8F/acWcyjAJH3j2qne+NSshW0QRL8jnZ/KzcOY4iiHRB9dmopg7cskbFH0wwmIbsJYv2EnbZzk0UrhuJLZSihSCc+Yk0Vm8NWl/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsctyrlistekmost.cz/galerie/",
+"typ": "budova",
+"url": "https://dsctyrlistekmost.cz/wp-content/uploads/2022/05/BDFD6ECC-B934-4CB5-A74E-0568093CF136.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#86745f",
+"dh": "9646646944869624",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsctyrlistekmost.cz/medvidci/",
+"typ": "interier",
+"url": "https://dsctyrlistekmost.cz/wp-content/uploads/2024/10/IMG_3537-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#657272",
+"dh": "8c8e0e0e0c1f1b29",
+"h": 768,
+"jistota": 0.993,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dsctyrlistekmost.cz/galerie/",
+"typ": "zahrada",
+"url": "https://dsctyrlistekmost.cz/wp-content/uploads/2022/03/IMG_0056.png",
+"w": 1152
+},
+{
+"alt": "",
+"barva": "#596c79",
+"dh": "173c6a0a22230f07",
+"h": 768,
+"jistota": 0.988,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://dsctyrlistekmost.cz/galerie/",
+"typ": "budova",
+"url": "https://dsctyrlistekmost.cz/wp-content/uploads/2022/03/IMG_0055.png",
+"w": 1152
+}
+],
 "detska-skupina-klub-quiq-ds01004": [
 {
 "alt": "og",
@@ -121,6 +177,79 @@
 "typ": "budova",
 "url": "https://www.odetipostarano.cz/wp-content/uploads/2025/12/20260727_191938.jpg",
 "w": 1200
+}
+],
+"detska-skupina-rodinka-ds00084": [
+{
+"alt": "",
+"barva": "#8e8378",
+"dh": "cbcbc903b2aa2287",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAhEAACAgEDBQEAAAAAAAAAAAABAgMRABITIQQxMkFxcv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREhP/2gAMAwEAAhEDEQA/ANKTRuWrjTV3xjt+EtQljrt5e85yGRy5XVw6UfmPWNUBdgXoVV1meqLUbLe5G9lXUj7hkROpEI0Ihr9YYbHzZ//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.centrum-rodinka.cz/skolicka-rodinka/",
+"typ": "interier",
+"url": "https://da6746c229.clvaw-cdnwnd.com/acbe4d424862dc4f25907068da0a341a/200001729-ec022ec024/8.jpeg?ph=da6746c229",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#606458",
+"dh": "05dd5969243e2149",
+"h": 800,
+"jistota": 0.79,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.centrum-rodinka.cz/detska-skupina-rodinka/",
+"typ": "zahrada",
+"url": "https://da6746c229.clvaw-cdnwnd.com/acbe4d424862dc4f25907068da0a341a/200001760-9a3ac9a3ae/DSC_0941.jpeg?ph=da6746c229",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#84807b",
+"dh": "17370fdf3f0f4f86",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.centrum-rodinka.cz/skolicka-rodinka/",
+"typ": "interier",
+"url": "https://da6746c229.clvaw-cdnwnd.com/acbe4d424862dc4f25907068da0a341a/200001717-28c1228c14/6.jpeg?ph=da6746c229",
+"w": 1200
+}
+],
+"detska-skupina-slunicka-lovosice-i-ds01541": [
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgADERIxIUEFBFFhcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAARESE//aAAwDAQACEQMRAD8A0r+TR1OAqDIauOIy+bszIlC62sb9dbnIzOveMH+BzuH1UkWD1lIlruhIPOQI/DCRgL0oH1CHs3iv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+},
+{
+"alt": "Teplice",
+"barva": "#7f6f55",
+"dh": "929494a5a7f0f81d",
+"h": 683,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
+"w": 1024
 }
 ],
 "detska-skupina-targevacek-kobylisy-ds10422": [
@@ -194,6 +323,23 @@
 "typ": "budova",
 "url": "https://www.dccap.cz/2020_06_zahrada_ucapa/02Pohled-z-bylinkov%C3%A9-spir%C3%A1ly.jpg",
 "w": 922
+}
+],
+"detska-skupina-zeleticka-skolicka-ds10224": [
+{
+"alt": "",
+"barva": "#8e928c",
+"dh": "7fff95252ddb9b0f",
+"h": 801,
+"jistota": 0.982,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBQMG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDAAQRBRIhUUETIrHB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAQEAAwEAAAAAAAAAAAAAAAEAAhExEv/aAAwDAQACEQMRAD8AoSazNeLvlRoYUJJCMUYjHZFI3duAiPNfzESNtCk5I681taWhuZWd3GF52kEj5qlLpVu7M53YbHtJ4HHjqsV5qhTlz0+hQid1M0xKnGdoweM/dFPT6RB6pwMDrLftFLUfWV//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.obeczeletice.cz/obec/fotogalerie-obec-zeletice/rok-2018/80vyroci-zs-zeleticeotevreni-viceuceloveho-hriste-26cs.html",
+"typ": "budova",
+"url": "https://www.obeczeletice.cz/data/headerfooter/header_images/023.jpg",
+"w": 1200
 }
 ],
 "happy-point-materska-skola-089831": [
