@@ -1,16 +1,6 @@
-[04:00:02] Část 3/20: webů 167, hotovo 177, zbývá 12
-[04:00:13] https://umalychpruzkumnicku.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 10 fotek ke kontrole
-[04:00:13] https://obec-hradec.cz/detska-skupina-bodlinka: 3 stránek (galerie mimo web: 1 ['www.rajce.idnes.cz'], alb: 0), 6 obrázků, 6 fotek ke kontrole
-[04:00:14] https://domici.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
-[04:00:14] https://montessorichotikov.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 6 fotek ke kontrole
-[04:00:15] https://ds-pejsci-a-kocicky.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 3 fotek ke kontrole
-[04:00:19] https://alcedovsetin.cz/klubicko-detska-skupina-dokumenty: 1 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
-[04:00:24] https://sovicka-hk.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 0 fotek ke kontrole
-[04:00:26] https://deti.ratolest.eu: 2 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 11 fotek ke kontrole
-[04:00:41] https://dsbylany.cz/mysicky: 5 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 14 fotek ke kontrole
-[04:00:43] https://dsbylany.cz/zabicky: 5 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 14 fotek ke kontrole
-[04:00:52] https://bavimesesportem.cz/sportacek-nachod: 9 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 2 fotek ke kontrole
-[04:04:52] https://obecvraclav.cz/detske-skupiny-v-chaloupce-vraclav: 22 stránek (galerie mimo web: 3 ['photos.app.goo.gl', 'photos.google.com'], alb: 0), 344 obrázků, 41 fotek ke kontrole
-[04:05:12] tříděno 0/109
-[04:05:30] Dávka 1: hotovo 189/167, se fotkami 43; {'ok': 5, 'lide': 5, 'jine': 65, 'sablona': 28}
-[04:05:30] Konec: školek s fotkami 43; {'ok': 5, 'lide': 5, 'jine': 65, 'sablona': 28}
+[08:51:37] Část 3/20: webů 167, hotovo 189, zbývá 2
+[08:52:04] https://mspreslovacb.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 5 fotek ke kontrole
+[08:53:14] https://3mstrebon.cz: nedostupné nebo zakázané
+[08:53:27] tříděno 0/5
+[08:53:27] Dávka 1: hotovo 191/167, se fotkami 43; {'ok': 0, 'lide': 0, 'jine': 5, 'sablona': 0}
+[08:53:27] Konec: školek s fotkami 43; {'ok': 0, 'lide': 0, 'jine': 5, 'sablona': 0}
