@@ -1451,6 +1451,49 @@
 "w": 1200
 }
 ],
+"materska-skola-podesin-615631": [
+{
+"alt": "",
+"barva": "#868874",
+"dh": "3831362f1d4cecce",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EACEQAAEDBAEFAAAAAAAAAAAAAAEAAgMEERIhMRMyUVKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AOmlo3CIhhOJ9jyfCOelMLA6RseR0G22UQq3x26RLSNoamaSfAveSRwVnLwNkG/Z9KkYebc3Up08f//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.podesin.cz/turistika/detska-hriste/",
+"typ": "zahrada",
+"url": "https://www.podesin.cz/wp-content/uploads/2021/01/Hriste_007.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#756968",
+"dh": "793c479747c78b09",
+"h": 450,
+"jistota": 0.657,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.podesin.cz/turistika/detska-hriste/",
+"typ": "les",
+"url": "https://www.podesin.cz/wp-content/uploads/2023/02/Hriste22_043.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#82776a",
+"dh": "a9eb2ddc3b69c766",
+"h": 600,
+"jistota": 0.99,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.podesin.cz/turistika/detska-hriste/",
+"typ": "zahrada",
+"url": "https://www.podesin.cz/wp-content/uploads/2021/01/Hriste_008.jpg",
+"w": 800
+}
+],
 "materska-skola-puclice-540479": [
 {
 "alt": "",
