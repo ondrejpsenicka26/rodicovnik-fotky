@@ -1,8 +1,2 @@
-[11:45:26] Část 3/20: webů 201, hotovo 231, zbývá 4
-[11:45:35] https://www.podduhou.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 10 fotek ke kontrole
-[11:45:47] https://skolickazahrada.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 29 fotek ke kontrole
-[11:46:16] https://www.montysek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 47 obrázků, 17 fotek ke kontrole
-[11:46:39] https://ds-severacci.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
-[11:46:53] tříděno 0/65
-[11:46:59] Dávka 1: hotovo 235/201, se fotkami 60; {'ok': 7, 'lide': 2, 'jine': 49, 'sablona': 0}
-[11:46:59] Konec: školek s fotkami 60; {'ok': 7, 'lide': 2, 'jine': 49, 'sablona': 0}
+[12:06:20] Část 3/20: webů 201, hotovo 235, zbývá 0
+[12:06:20] Konec: školek s fotkami 60; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
