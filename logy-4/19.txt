@@ -1,2 +1,9 @@
-[12:06:57] Část 20/20: webů 174, hotovo 219, zbývá 0
-[12:06:57] Konec: školek s fotkami 75; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:12:58] Část 20/20: webů 174, hotovo 219, zbývá 5
+[12:13:26] https://obeckamen.cz/obec/materska-skola: 5 stránek (galerie mimo web: 0 [], alb: 0), 56 obrázků, 3 fotek ke kontrole
+[12:13:31] https://skolka.francovalhota.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 16 fotek ke kontrole
+[12:13:37] https://obecledce.cz/ms/materska-skola: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 1 fotek ke kontrole
+[12:13:44] https://www.vavrinec.cz/ms-97: 27 stránek (galerie mimo web: 1 ['materskaskolavavrinec.rajce.idnes.cz'], alb: 0), 200 obrázků, 4 fotek ke kontrole
+[12:13:49] https://www.hlohovec.cz/zakladni-skola-a-materska-skola: 5 stránek (galerie mimo web: 1 ['mshlohovec.rajce.net'], alb: 1), 54 obrázků, 24 fotek ke kontrole
+[12:14:03] tříděno 0/48
+[12:14:05] Dávka 1: hotovo 224/174, se fotkami 78; {'ok': 3, 'lide': 3, 'jine': 42, 'sablona': 0}
+[12:14:05] Konec: školek s fotkami 78; {'ok': 3, 'lide': 3, 'jine': 42, 'sablona': 0}

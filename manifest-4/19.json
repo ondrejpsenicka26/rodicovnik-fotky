@@ -1167,6 +1167,23 @@
 "w": 1200
 }
 ],
+"materska-skola-francova-lhota-633817": [
+{
+"alt": "",
+"barva": "#605e41",
+"dh": "10f6371f3777c677",
+"h": 768,
+"jistota": 0.843,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EACQQAAEDAgYCAwAAAAAAAAAAAAECAwQAEQUSEyEiQRSRMWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAbEQACAQUAAAAAAAAAAAAAAAAAAVECERITQf/aAAwDAQACEQMRAD8AiahYC8lwtSpLXPjsL5fVz3Wpi4ZGjvBD0hcgk6K8pH4bipfNkJFmi2AT0jKfdMZmFEFaVoBc1Crkb0DvwpNCBjExvjqR1gdr+aKkdGosqUdz9Cil2VSFioP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolka.francovalhota.cz/",
+"typ": "les",
+"url": "https://skolka.francovalhota.cz/wp-content/uploads/2021/01/img-0696.jpg",
+"w": 1024
+}
+],
 "materska-skola-frystak-605406": [
 {
 "alt": "",
@@ -1264,6 +1281,23 @@
 "typ": "zahrada",
 "url": "https://static.wixstatic.com/media/57fad6_7f6fd75b328146b1a057dd5ab2b5439c~mv2.jpeg",
 "w": 1079
+}
+],
+"materska-skola-kamen-533367": [
+{
+"alt": "",
+"barva": "#86837f",
+"dh": "6fcf6d2a3321f041",
+"h": 900,
+"jistota": 0.881,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBAb/xAAkEAACAQQBAgcAAAAAAAAAAAABAgMABBESIQXRFCIxUWFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQEAAwEAAAAAAAAAAAAAAAEAAhITIf/aAAwDAQACEQMRAD8ApjvonhYxzMNeSpBDDFUverLsluhYom51PoKz0soRMQlMsCOFxjNP6f4lMs7AKRr8ke1TovsMQrGuk2OGj/O9FJNtbk+aJM/R70U6NrUv/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://obeckamen.cz/",
+"typ": "budova",
+"url": "https://obeckamen.cz/data/headerfooter/header_images/nizka-lhota.jpg",
+"w": 1200
 }
 ],
 "materska-skola-kaminek-568390": [
@@ -1955,6 +1989,23 @@
 "typ": "budova",
 "url": "https://c7df7c2448.cbaul-cdnwnd.com/99f91afae96fd96823bbaee04ebe7b10/200000135-bf48ebf490/P1140120.JPG?ph=c7df7c2448",
 "w": 1200
+}
+],
+"materska-skola-vavrinec-600498": [
+{
+"alt": "#",
+"barva": "#7e7a6f",
+"dh": "7464cd9c8d0d161b",
+"h": 529,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAACBAED/8QAJBAAAgEEAQIHAAAAAAAAAAAAAQIDAAQRIRQFMRIzUWGRsfD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQEBAQADAAAAAAAAAAAAAAABABEhMVH/2gAMAwEAAhEDEQA/AESSe7uIkV5IYDskSEsf2qy+tJCsXDnkdGOXZ3Oh7jVVW/b5+hTHvQFOK4UUjdQXw8aZHQjeMHB9N0V0m8w0VoLnccPL/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.vavrinec.cz/ms-97/fotogalerie/detske-hriste/",
+"typ": "budova",
+"url": "https://www.vavrinec.cz/data/headerfooter/header_images/kultur4.jpg",
+"w": 1198
 }
 ],
 "materska-skola-velka-stahle-620057": [
