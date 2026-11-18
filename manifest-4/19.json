@@ -214,6 +214,66 @@
 "w": 1200
 }
 ],
+"detska-skupina-lysanek-ds11120": [
+{
+"alt": "Dětská herna s tyrkysovou podlahou, dřevěnými stolky a úložnými skříňkami s hračkami.",
+"barva": "#87a9a1",
+"dh": "ffff7634f4dc9e7f",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EACIQAAMAAgECBwAAAAAAAAAAAAECAwAREiEiBAVBUVJhof/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABkRAQADAQEAAAAAAAAAAAAAAAEAAgMRMf/aAAwDAQACEQMRAD8A7x8ZOk+aj81g6+YSE2IYBh0VfU+2Y0W1KFqiar8V3hbdq8U0APrLaWSFNsx57Ec6sAxoykgHQ10ywhuCByNQQNdjDWWYNLxJrlP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.lysanek.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/6a02cd01a75fac34138c0835/6a900865dec8341819821dfb_IMG_4419.webp",
+"w": 1200
+},
+{
+"alt": "Dětská herna s tyrkysovou podlahou, malými dřevěnými stolky a židličkami u velkých oken.",
+"barva": "#7ca294",
+"dh": "410f3b33b29a0e16",
+"h": 900,
+"jistota": 0.994,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.lysanek.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/6a02cd01a75fac34138c0835/6a90086570b4fa85bae0b69f_IMG_4420.webp",
+"w": 1200
+}
+],
+"detska-skupina-mary-poppins-ii-oddeleni-ds00591": [
+{
+"alt": "",
+"barva": "#af8a6b",
+"dh": "70786971704a9ba4",
+"h": 667,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACUQAQABAwMBCQAAAAAAAAAAAAECAAMRBBIhsQUTFDFBQlGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECAyH/2gAMAwEAAhEDEQA/AHtTq7joWaMZiEuOlJ9mX709TGXeyCLtlGR6/P7WRi3ye9EjLIJnHBTDblK5vlMGfmRMHWi88e0S3lKMrl+4AEjAYOKKk+HD3y+mikVh4j//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://marypoppins.cz/nase-trida.php",
+"typ": "interier",
+"url": "https://marypoppins.cz/assets/images/interier1.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#8a776a",
+"dh": "61616061484c6437",
+"h": 667,
+"jistota": 0.998,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://marypoppins.cz/nase-trida.php",
+"typ": "interier",
+"url": "https://marypoppins.cz/assets/images/interier3.jpg",
+"w": 1000
+}
+],
 "detska-skupina-prazacka-ds01627": [
 {
 "alt": "",
@@ -241,6 +301,66 @@
 "stranka": "https://rpcprazacka.cz/fotogalerie/",
 "typ": "interier",
 "url": "http://rpcprazacka.cz/wp-content/uploads/2023/05/IMG_9732_web.jpg",
+"w": 1200
+}
+],
+"detska-skupina-skolka-na-hrazi-ds00588": [
+{
+"alt": "",
+"barva": "#bfb557",
+"dh": "6431020136566363",
+"h": 600,
+"jistota": 0.985,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIAAwQTITFRERIjQf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAaEQACAwEBAAAAAAAAAAAAAAAAAgEDEhEh/9oADAMBAAIRAxEAPwBDHBK/VEHXrzN2GU029WBXfk7bQZLbbkBR9Mj9EQx8c6BFtr2FuTxMumpkfTDvJgQWxGUEshPanaUGsw61bwr2gdCw+JSvUg8P/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkanahrazi.cz/",
+"typ": "interier",
+"url": "https://www.skolkanahrazi.cz/wp-content/uploads/2022/10/4-Obedy-900.jpg",
+"w": 900
+}
+],
+"detska-skupina-skritkove-ds10159": [
+{
+"alt": "",
+"barva": "#8a8681",
+"dh": "f0f264f4d4dccfcf",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACQQAAEEAgECBwAAAAAAAAAAAAEAAgMRBRIEIVEiIzNBYXGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAABMRH/2gAMAwEAAhEDEQA/AHcy6JkYI9Z1a19UfxTeG98Ye7XaiB5hqh36JjKTXko22dYgensVlypYmeGxt2pF0zFItQo7slKHGiSPkoQeP//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skritkove.cz/",
+"typ": "interier",
+"url": "https://2c51029d8b.clvaw-cdnwnd.com/e356aad6c64c49ed3031ea6deef28d97/200000133-2c6272c629/20250830_175427.jpeg?ph=2c51029d8b",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#898580",
+"dh": "313392bab2a88080",
+"h": 900,
+"jistota": 0.997,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.skritkove.cz/",
+"typ": "interier",
+"url": "https://2c51029d8b.clvaw-cdnwnd.com/e356aad6c64c49ed3031ea6deef28d97/200000124-ca3c0ca3c2/20250830_175119.jpeg?ph=2c51029d8b",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7f736c",
+"dh": "ac1c1c2c3cdbb123",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.skritkove.cz/",
+"typ": "hygiena",
+"url": "https://2c51029d8b.clvaw-cdnwnd.com/e356aad6c64c49ed3031ea6deef28d97/200000102-07c3d07c40/WhatsApp%20Image%202025-06-13%20at%2017.11.44.jpeg?ph=2c51029d8b",
 "w": 1200
 }
 ],
@@ -272,6 +392,23 @@
 "typ": "interier",
 "url": "https://cdn.prod.website-files.com/645ce6bdcfc59827bf071ed7/645ce6bdcfc5980ff8071f3c_prostory_slunicko_6.jpg",
 "w": 1200
+}
+],
+"detska-skupina-unicorn-school-ds01772": [
+{
+"alt": "og",
+"barva": "#677141",
+"dh": "8525edadc79effe5",
+"h": 486,
+"jistota": 0.911,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAdEAACAgMBAQEAAAAAAAAAAAABAgMRAAQhEgVR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBAgQTIf/aAAwDAQACEQMRAD8Ai2PnRaruqSyM68sqO8vmbKrJrRhZm8cc8awbr84OZds169BQXIq2GIk1pZEKmUhSOgE1mOuRE9QM5+z9SU7Ll2V24PTKbNADDHn55DEh7s2Sf3DKbqiz/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.unicornschool.cz/foto/",
+"typ": "budova",
+"url": "https://742c92a136.clvaw-cdnwnd.com/4be2b9e43ddb0c2dd9a98b23da5e98bf/200000178-cfcd9cfcdc/700/mate%C5%99sk%C3%A1%20%C5%A1kolka%20kl%C3%A1novice%20%C5%A1estajovice.jpg?ph=742c92a136",
+"w": 700
 }
 ],
 "detska-skupina-velci-dracci-ds01306": [
