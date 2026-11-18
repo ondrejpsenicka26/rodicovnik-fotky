@@ -1,9 +1,2 @@
-[11:45:24] Část 15/20: webů 176, hotovo 220, zbývá 5
-[11:45:33] https://dsbystrouska.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
-[11:45:35] https://www.skolickakeltickova.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 13 fotek ke kontrole
-[11:46:00] https://dsdoupatko.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 25 fotek ke kontrole
-[11:46:06] https://www.ds-slonik.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 18 fotek ke kontrole
-[11:47:29] https://www.skolkamexiko.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 88 obrázků, 34 fotek ke kontrole
-[11:47:47] tříděno 0/92
-[11:48:07] Dávka 1: hotovo 225/176, se fotkami 79; {'ok': 14, 'lide': 6, 'jine': 29, 'sablona': 0}
-[11:48:07] Konec: školek s fotkami 79; {'ok': 14, 'lide': 6, 'jine': 29, 'sablona': 0}
+[12:06:09] Část 15/20: webů 176, hotovo 225, zbývá 0
+[12:06:09] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
