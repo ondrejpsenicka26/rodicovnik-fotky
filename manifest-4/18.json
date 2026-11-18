@@ -1,4 +1,146 @@
 {
+"borky-a-borci-brezolupy-detska-skupina-ds02316": [
+{
+"alt": "",
+"barva": "#877e76",
+"dh": "0e6e6e9e9d99cc0f",
+"h": 554,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAhEAABBAEDBQAAAAAAAAAAAAABAAIDEQQhMTMSInGBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQADAAAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AEkzrymwNtjDvKNSDv4W8mRGelpeRdi3do1UOEqMnhcoi7OHqMMYI5GuAaBYKFypeQ+viE5Gr//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.borky-a-borci.cz/detska-skupina/",
+"typ": "interier",
+"url": "https://a0194b6a0a.clvaw-cdnwnd.com/6f5574bfc63b7dad89eba039fbbc6f66/200000351-565ca565cc/20260326_135327.jpeg?ph=a0194b6a0a",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#81756d",
+"dh": "c7878b9991949e96",
+"h": 554,
+"jistota": 0.966,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.borky-a-borci.cz/detska-skupina/",
+"typ": "interier",
+"url": "https://a0194b6a0a.clvaw-cdnwnd.com/6f5574bfc63b7dad89eba039fbbc6f66/200000353-2e0432e045/20260326_135453.jpeg?ph=a0194b6a0a",
+"w": 1200
+}
+],
+"deti-v-pohybu-detska-skupina-ds00896": [
+{
+"alt": "",
+"barva": "#a1a2a0",
+"dh": "722e5c5c1e1e0f07",
+"h": 799,
+"jistota": 0.88,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAEDBAICAwAAAAAAAAAAAAECAxEABAUSEyEGYTFRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwB6xuGH20tobCwt8oBIgxAijIPnGvPJaRpxgHcJ7UD7M/lJeGtubcnKdfnTWtJlrVu5tXFK6UkT9gx6oqm+lM4T7fI2otmt5WopkqiZoqE64UEAARFFaQH/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.hlubokavpohybu.cz/mista/budova-u-parku",
+"typ": "budova",
+"url": "https://www.hlubokavpohybu.cz/wp-content/uploads/2025/11/Deti-v-pohybu-U-Parku-exteriery-6.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#ad9b8a",
+"dh": "397956c6c7631307",
+"h": 799,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.hlubokavpohybu.cz/mista/budova-v-zamosti",
+"typ": "interier",
+"url": "https://www.hlubokavpohybu.cz/wp-content/uploads/2025/11/Batolata-v-pohybu-Montessori-jesle-10.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#4a7d75",
+"dh": "494666232a0c184e",
+"h": 799,
+"jistota": 0.996,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.hlubokavpohybu.cz/mista/budova-u-parku",
+"typ": "zahrada",
+"url": "https://www.hlubokavpohybu.cz/wp-content/uploads/2025/11/Deti-v-pohybu-U-Parku-exteriery-1.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f9891",
+"dh": "4333c6aeef773b1f",
+"h": 799,
+"jistota": 0.818,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.hlubokavpohybu.cz/mista/budova-u-parku",
+"typ": "budova",
+"url": "https://www.hlubokavpohybu.cz/wp-content/uploads/2025/11/Deti-v-pohybu-U-Parku-exteriery-3-1.webp",
+"w": 1200
+}
+],
+"detska-skupina-beruska-ds00121": [
+{
+"alt": "",
+"barva": "#a39990",
+"dh": "e68624ac69071a4c",
+"h": 900,
+"jistota": 0.969,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIhBUETMTL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAABESAf/aAAwDAQACEQMRAD8AotsyOrmRzSeh0MyaVl1lKWHavziR24hGpcrxfsWpN4TeTTXZVa6YWCB6wWlFCB2+BOV8q7v7wxeKUyxh7oHDDrhZf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.beruska-vizovice.cz/galerie/",
+"typ": "budova",
+"url": "https://www.beruska-vizovice.cz/wp-content/uploads/2021/06/75CFF864-5554-465D-99EC-E281C9AD0C47.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#999482",
+"dh": "3b0913323663199c",
+"h": 1200,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.beruska-vizovice.cz/herna-u-broucka/",
+"typ": "interier",
+"url": "https://www.beruska-vizovice.cz/wp-content/uploads/2025/09/IMG_9421.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#7e8349",
+"dh": "984445cbc30382c1",
+"h": 768,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.beruska-vizovice.cz/galerie/",
+"typ": "zahrada",
+"url": "https://www.beruska-vizovice.cz/wp-content/uploads/2021/06/F02FE22D-3637-4E1D-A0F6-D20C9908ADF9.jpeg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#afaca1",
+"dh": "f9fb7b590969c3c5",
+"h": 1200,
+"jistota": 0.994,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.beruska-vizovice.cz/herna-u-broucka/",
+"typ": "interier",
+"url": "https://www.beruska-vizovice.cz/wp-content/uploads/2025/09/IMG_9441.jpeg",
+"w": 900
+}
+],
 "detska-skupina-fialovy-cap-ds02054": [
 {
 "alt": "Rozkvétající předzahrádka v Budínku",
@@ -85,6 +227,79 @@
 "w": 1200
 }
 ],
+"detska-skupina-jaja-ds00599": [
+{
+"alt": "IMG_2303.jpeg",
+"barva": "#838582",
+"dh": "98886a305f490007",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIABsAFAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAABAUD/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIAAxEEEiExEyIFFEFh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EABkRAQEBAAMAAAAAAAAAAAAAAAABERIhMf/aAAwDAQACEQMRAD8ApjTJRr3Z8BWPK5wDmZanRVJqqjXXtyGJ57kqur7WzT2X2N5X4Bx3jiaV1WUPmq1wyjb7nIEeU8E6q0lQCgYhEaPkFopVHXa2MkdgH+EQmdNTaWQovHsCGDDvP4Yx5SezEl4UYmoPrJybqDPkhEbHYPgHiES//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.miniskolkajaja.cz/cs/fotogalerie/prostor/",
+"typ": "interier",
+"url": "https://www.miniskolkajaja.cz/upload/miniskolkajaja/images/IMG_2303.jpeg",
+"w": 900
+},
+{
+"alt": "IMG_2310.jpeg",
+"barva": "#868583",
+"dh": "c5e64e747cecbd3d",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.miniskolkajaja.cz/cs/fotogalerie/prostor/",
+"typ": "interier",
+"url": "https://www.miniskolkajaja.cz/upload/miniskolkajaja/images/IMG_2310.jpeg",
+"w": 900
+}
+],
+"detska-skupina-kapradinka-ds10883": [
+{
+"alt": "",
+"barva": "#9c918a",
+"dh": "e165e1c0c4828190",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAgME/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQAEEiEFMRORwf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEBAQEBAAAAAAAAAAAAAAAAABESAf/aAAwDAQACEQMRAD8AY+W8ompUbxu7lzXGuhkdXy0ZCk6syV3y6P1iuSUzStJJ2zGyTlySDiVIsesOjzyG87a+0yt8ykqiqbau6v8AcMxRySAErxYE3be8MoR//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://salasuh.cz/default/default/5814_pronajem-budov",
+"typ": "interier",
+"url": "https://salasuh.cz/files/salas/gallery/11077/65f155769f108_sal.jpeg?1710314871",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c8580",
+"dh": "1c25bc343e3a3efe",
+"h": 900,
+"jistota": 0.998,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://salasuh.cz/default/default/5814_pronajem-budov",
+"typ": "interier",
+"url": "https://salasuh.cz/files/salas/gallery/11077/65f1558344a4a_sal-KD.jpeg?1710314886",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#88827c",
+"dh": "47c787476bf1e1e1",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://salasuh.cz/default/default/5814_pronajem-budov",
+"typ": "hygiena",
+"url": "https://salasuh.cz/files/salas/gallery/11077/65f1557549275_20200720-151442.jpeg?1710314869",
+"w": 1200
+}
+],
 "detska-skupina-kulisek-ds01367": [
 {
 "alt": "",
@@ -126,6 +341,49 @@
 "typ": "budova",
 "url": "https://svetdetikulisek.cz/wp-content/uploads/2024/10/8H0A5983-1000x667-1.webp",
 "w": 1000
+}
+],
+"detska-skupina-minipastelka-3-ds11232": [
+{
+"alt": "",
+"barva": "#867d6d",
+"dh": "664f4e6c4cc9247e",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMABCEREjEFURQiIzJCcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAIQER/9oADAMBAAIRAxEAPwALx+EhdLsN5SZFHwzgYq6SGONYlMgDOPbxoe1YPUeJdzDHCgaD971Nw7yuJHjTGdBwfsVnF800i6fbtGDJeLG55XGKKXoRMilWaIAabVOKKRX/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkapastelka.cz/ds-jicin/o-nas/",
+"typ": "interier",
+"url": "https://skolkapastelka.cz/wp-content/uploads/2023/02/medvidci.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a4917c",
+"dh": "8145596b135c5ad2",
+"h": 732,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkapastelka.cz/ms-jicin/o-nas/",
+"typ": "interier",
+"url": "https://skolkapastelka.cz/wp-content/uploads/2022/12/skolka.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#969690",
+"dh": "c44dcdcca4c3d5fe",
+"h": 1066,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolkapastelka.cz/ds-novy-bydzov/o-nas/",
+"typ": "hygiena",
+"url": "https://skolkapastelka.cz/wp-content/uploads/2024/09/image0.jpeg",
+"w": 800
 }
 ],
 "detska-skupina-montessori-kladno-1-ds01278": [
@@ -248,6 +506,36 @@
 "w": 1106
 }
 ],
+"detska-skupina-vltavinek-ds11190": [
+{
+"alt": "",
+"barva": "#747168",
+"dh": "86c2613f1b3d3411",
+"h": 765,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EAB8QAAICAwACAwAAAAAAAAAAAAECAxEABBIhIkFScf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAECERIDEzH/2gAMAwEAAhEDEQA/AJ4tebZiWWBFsiypNUM3mZAVeAH4JFY2pvSRrzFCpAFAXQGDbO25PtyL+xwpkdPS1bBE+9ro5UhvH5hjPppI5dubY2aWhhj2OBRD/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsorlik.cz/zakladni-skola/o-nas/soucasnost/",
+"typ": "budova",
+"url": "https://www.zsorlik.cz/data/multipage/editor/editor-12-89-cs_1_big.png?gcm_date=1751459888",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7e8190",
+"dh": "f0d4e92b51516001",
+"h": 768,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsorlik.cz/zakladni-skola/o-nas/historie-skoly/",
+"typ": "budova",
+"url": "https://www.zsorlik.cz/data/multipage/editor/editor-11-88-cs_1_big.png?gcm_date=1751459725",
+"w": 760
+}
+],
 "detska-skupina-zahrada-detstvi-chotesov-ds11210": [
 {
 "alt": "AI3 Scaled",
@@ -358,6 +646,36 @@
 "typ": "interier",
 "url": "https://www.kntb.cz/media/photos/page/unrelated/gallery/images-74/1750080261-479546000-1805387920245046-1962230823655123836-n-resize-fill-1920-1080.webp",
 "w": 960
+}
+],
+"jazykova-skolicka-talk-e-1-detska-skupina-ds02276": [
+{
+"alt": "",
+"barva": "#c2beb8",
+"dh": "878486268ccc9839",
+"h": 675,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAwUG/8QAIxAAAQQCAQMFAAAAAAAAAAAAAQACAxEEIRIFEzEiQXGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGcOeHFy5zLOWOJHFlWHa8/a0M8kMcbh3QHjVXW0pBjQxASMiaHkWXEWf1KZz3DqTNnce1krLkHbBsH3Qom+mw3Q80PhCU//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://talk-e.cz/",
+"typ": "interier",
+"url": "https://talk-e.cz/files/uherskehradiste/associations/talk-e/gallery/15259/67d84e2878bca_3-3-Photo.jpeg?1742229032",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b4aa9d",
+"dh": "91c3c3e3e3c7c3c1",
+"h": 675,
+"jistota": 0.997,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://talk-e.cz/",
+"typ": "interier",
+"url": "https://talk-e.cz/files/uherskehradiste/associations/talk-e/gallery/15259/67d84e29e845c_1-7-Photo.jpeg?1742229034",
+"w": 1200
 }
 ],
 "materska-skola-barevny-ostrov-033275": [
@@ -799,6 +1117,23 @@
 "stranka": "https://mspotoky.cz/tridy/kacenky-3-trida/",
 "typ": "interier",
 "url": "https://mspotoky.cz/wp-content/uploads/2025/03/DSC_0026-e1615447281487.jpg",
+"w": 1200
+}
+],
+"montessori-detska-skupina-montici-ds02235": [
+{
+"alt": "",
+"barva": "#59554d",
+"dh": "0f0b09496b098479",
+"h": 900,
+"jistota": 0.973,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACIQAAICAgMAAQUAAAAAAAAAAAECAwQAEQUSITEWQWGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oADAMBAAIRAxEAPwCTQ4WN6yzOY37FSAzEaHYA70Pzjtrh64spGsVYAoxPWV/NMBvZyNHyHI1qiRq2oTplGxrwj7foZp9S3hJ3ZlLdChJUfBO8zSL/ABC1LbQiVZQACGQ+ejeGL2eWe1YeaVFDv89fB/MMan//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.montici.cz/",
+"typ": "interier",
+"url": "https://www.montici.cz/wp-content/uploads/2024/12/IMG_1873-scaled.jpg",
 "w": 1200
 }
 ],

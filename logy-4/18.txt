@@ -1,13 +1,24 @@
-[02:14:05] Část 19/20: webů 133, hotovo 143, zbývá 9
-[02:14:18] https://montessori-brezulka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[02:14:18] https://teta-jolanka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 5 fotek ke kontrole
-[02:14:21] https://dstreeoflife.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 8 fotek ke kontrole
-[02:14:41] https://centrum-rodinka.cz/detska-skupina-rodinka-svinov: 3 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 32 fotek ke kontrole
-[02:14:42] https://plumlovacek.msplumlov.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 6 fotek ke kontrole
-[02:15:03] https://inskolka.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 23 fotek ke kontrole
-[02:15:10] https://zahradadetstvi.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 69 obrázků, 34 fotek ke kontrole
-[02:15:17] https://drzovice.cz/obec/detska-skupina-kapicka: 25 stránek (galerie mimo web: 0 [], alb: 0), 363 obrázků, 4 fotek ke kontrole
-[02:16:26] https://skolickanafarme.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 367 obrázků, 44 fotek ke kontrole
-[02:16:44] tříděno 0/156
-[02:17:13] Dávka 1: hotovo 152/133, se fotkami 32; {'ok': 11, 'lide': 19, 'jine': 102, 'sablona': 0}
-[02:17:13] Konec: školek s fotkami 32; {'ok': 11, 'lide': 19, 'jine': 102, 'sablona': 0}
+[04:00:02] Část 19/20: webů 150, hotovo 152, zbývá 20
+[04:00:02] https://dasice.cz/detska-skupina-masinka-dasice-kd-dasice: nedostupné nebo zakázané
+[04:00:16] https://borky-a-borci.cz/detska-skupina: 2 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 3 fotek ke kontrole
+[04:00:16] https://mraveniste-prirodni-klub.webnode.cz: 5 stránek (galerie mimo web: 1 ['mravenisteklub.rajce.idnes.cz'], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[04:00:21] https://rozesmatedecko.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 15 fotek ke kontrole
+[04:00:29] https://centrum-vseznalek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 0 fotek ke kontrole
+[04:00:37] https://kralovskaskolka.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 54 obrázků, 2 fotek ke kontrole
+[04:00:40] https://anglickazahrada.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 7 fotek ke kontrole
+[04:00:43] https://veselekroky.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[04:00:49] https://tatobity.cz/detska-skupina-rosnicky: nedostupné nebo zakázané
+[04:00:55] https://salasuh.cz/default/default/21221_ds-kapradinka: 3 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 13 fotek ke kontrole
+[04:00:58] https://bavimesesportem.cz/ds-kremilek-ceska-skalice: 9 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 2 fotek ke kontrole
+[04:01:02] https://montici.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 27 fotek ke kontrole
+[04:01:03] https://talk-e.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 14 fotek ke kontrole
+[04:01:08] https://miniskolkajaja.cz/cs/detska-skupina-a-jesle-montik-liberec: 7 stránek (galerie mimo web: 0 [], alb: 0), 54 obrázků, 11 fotek ke kontrole
+[04:01:13] https://myskalola.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 441 obrázků, 45 fotek ke kontrole
+[04:01:24] https://beruska-vizovice.cz/detske-skupiny/detska-skupina-vizovice: 5 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 38 fotek ke kontrole
+[04:01:25] https://hlubokavpohybu.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 104 obrázků, 45 fotek ke kontrole
+[04:01:30] https://skolavolynka.cz/volyne/skupina: 2 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 5 fotek ke kontrole
+[04:01:35] https://skolkapastelka.cz/ds-minipastelka-lomnice: 13 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 29 fotek ke kontrole
+[04:02:00] https://zsorlik.cz/detska-skupina-vltavinek: 29 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 10 fotek ke kontrole
+[04:02:21] tříděno 0/266
+[04:03:19] Dávka 1: hotovo 172/150, se fotkami 41; {'ok': 23, 'lide': 23, 'jine': 148, 'sablona': 0}
+[04:03:19] Konec: školek s fotkami 41; {'ok': 23, 'lide': 23, 'jine': 148, 'sablona': 0}
