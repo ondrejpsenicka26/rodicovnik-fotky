@@ -850,6 +850,23 @@
 "w": 1200
 }
 ],
+"materska-skola-chlumany-534355": [
+{
+"alt": "og",
+"barva": "#8a6442",
+"dh": "4f6f63f393cd4f5b",
+"h": 525,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EACEQAAICAgIBBQAAAAAAAAAAAAECAxEABBIhMSIyUWGh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECEQNBUf/aAAwDAQACEQMRAD8Ac+5GsJ4KHegOh5JF4uPdfbJQWGVfUoBq76ycZmYhmYiyPaa+sVvTQa80sUJcM1FqJ/T5wsziwW4fprY20Sd1kBDA90MMjbOw8svIsboC/nDLXDq0zVLs/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.materska-skola-chlumany.cz/o-ms/",
+"typ": "interier",
+"url": "https://a10b1f9de3.clvaw-cdnwnd.com/8686951fb4a89215a765409264f18f68/200000031-b22fab22fd/700/IMG-20210416-WA0021.jpg?ph=a10b1f9de3",
+"w": 700
+}
+],
 "materska-skola-chrustenice-510896": [
 {
 "alt": "",
@@ -864,6 +881,62 @@
 "stranka": "https://mschrustenice.cz/o-skole/",
 "typ": "interier",
 "url": "https://mschrustenice.cz/wp-content/gallery/galerie-o-skole/foto-msch-c.jpg?t=1749111395",
+"w": 1200
+}
+],
+"materska-skola-dasny-530511": [
+{
+"alt": "",
+"barva": "#767773",
+"dh": "834fcdef3e3c0707",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACMQAAICAQMDBQAAAAAAAAAAAAECAAMRBAUTEiExFCJBUZL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAwDAQACEQMRAD8AZtsGU4a2tye/GCe0W3DcFr0yemJ62bByuCoi2m3e1QqpYyBfAx4mnPIo5Pdj7kvdJxDva2+57GBJYkwlgqnwifmEUS//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msdasny.wz.cz/pgc_simply_gallery/zahrada/",
+"typ": "budova",
+"url": "https://msdasny.wz.cz/wp-content/uploads/2026/05/vstup_do_zahrady-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8b7d65",
+"dh": "d954544c2e5a3c36",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msdasny.wz.cz/pgc_simply_gallery/prizemi/",
+"typ": "interier",
+"url": "https://msdasny.wz.cz/wp-content/uploads/2026/05/2_dolni_trida_3-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#797c63",
+"dh": "5bdb53c78313082c",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msdasny.wz.cz/pgc_simply_gallery/zahrada/",
+"typ": "zahrada",
+"url": "https://msdasny.wz.cz/wp-content/uploads/2026/05/herni_prvky_pred_vchodem-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#aaa696",
+"dh": "586a627262124ed2",
+"h": 900,
+"jistota": 0.991,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msdasny.wz.cz/pgc_simply_gallery/zahrada/",
+"typ": "les",
+"url": "https://msdasny.wz.cz/wp-content/uploads/2026/05/herni_domek-scaled.jpg",
 "w": 1200
 }
 ],

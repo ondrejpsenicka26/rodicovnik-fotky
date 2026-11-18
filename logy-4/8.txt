@@ -1,15 +1,6 @@
-[03:59:50] Část 9/20: webů 137, hotovo 163, zbývá 11
-[04:00:00] https://vceliakademie.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 2 fotek ke kontrole
-[04:00:01] https://lipova4.webnode.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 6 fotek ke kontrole
-[04:00:11] https://hermanov.info/detska-skupina-hermanek: 1 stránek (galerie mimo web: 1 ['hermanov.rajce.idnes.cz'], alb: 0), 9 obrázků, 5 fotek ke kontrole
-[04:00:13] https://centrummilisek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 7 fotek ke kontrole
-[04:00:18] https://kaminekhorice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 5 fotek ke kontrole
-[04:00:32] https://miniaktivity.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 20 fotek ke kontrole
-[04:00:34] https://ratibor.cz/obec/p1960-detska-skupina-zvonek: 14 stránek (galerie mimo web: 0 [], alb: 0), 827 obrázků, 45 fotek ke kontrole
-[04:00:53] https://generacekk.cz/rodice/detska-skupina-pristav: 3 stránek (galerie mimo web: 0 [], alb: 0), 62 obrázků, 44 fotek ke kontrole
-[04:00:57] https://wlastovka.cz/detska-skupina-pohadka-pro-wlastovku: 21 stránek (galerie mimo web: 0 [], alb: 0), 681 obrázků, 25 fotek ke kontrole
-[04:01:00] https://obecroudna.cz/detska-skupina-koralky: 34 stránek (galerie mimo web: 0 [], alb: 0), 195 obrázků, 1 fotek ke kontrole
-[04:01:26] https://vimperk.cz/detska-skupina-kralovska-skolka/ms-16699: nedostupné nebo zakázané
-[04:01:37] tříděno 0/160
-[04:01:52] Dávka 1: hotovo 174/137, se fotkami 59; {'ok': 12, 'lide': 15, 'jine': 115, 'sablona': 0}
-[04:01:52] Konec: školek s fotkami 59; {'ok': 12, 'lide': 15, 'jine': 115, 'sablona': 0}
+[08:51:34] Část 9/20: webů 133, hotovo 174, zbývá 2
+[08:52:06] https://materska-skola-chlumany.cz: 8 stránek (galerie mimo web: 1 ['skolka-chlumany.rajce.idnes.cz'], alb: 0), 7 obrázků, 4 fotek ke kontrole
+[08:53:18] https://msdasny.wz.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 133 obrázků, 39 fotek ke kontrole
+[08:53:41] tříděno 0/43
+[08:53:44] Dávka 1: hotovo 176/133, se fotkami 61; {'ok': 5, 'lide': 0, 'jine': 18, 'sablona': 0}
+[08:53:44] Konec: školek s fotkami 61; {'ok': 5, 'lide': 0, 'jine': 18, 'sablona': 0}
