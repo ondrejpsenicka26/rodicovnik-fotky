@@ -1,5 +1,2 @@
-[13:31:03] Část 7/20: webů 171, hotovo 221, zbývá 1
-[13:31:47] https://zsmslibesice.com: 4 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 21 fotek ke kontrole
-[13:32:02] tříděno 0/21
-[13:32:03] Dávka 1: hotovo 222/171, se fotkami 73; {'ok': 4, 'lide': 2, 'jine': 1, 'sablona': 0}
-[13:32:03] Konec: školek s fotkami 73; {'ok': 4, 'lide': 2, 'jine': 1, 'sablona': 0}
+[13:35:55] Část 7/20: webů 171, hotovo 222, zbývá 0
+[13:35:55] Konec: školek s fotkami 73; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
