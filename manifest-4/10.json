@@ -832,6 +832,62 @@
 "w": 1166
 }
 ],
+"materska-skola-drevnovice-610256": [
+{
+"alt": "IMG_20190728_150521.jpg",
+"barva": "#656a5a",
+"dh": "8e06969c0f4e7f29",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAjEAABBAEDBAMAAAAAAAAAAAABAAIDBBEFEiIGMUFhIWKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEiH/2gAMAwEAAhEDEQA/AENOWYWGuY9xLexHhPp+p7M+kWa1mCQTv4MfG3Ax7UM1OjGOFTb6ACquasyePYyEM+2flRQwhbJYDRgOaPHFC2mU57/qEUH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.drevnovice.cz/",
+"typ": "zahrada",
+"url": "https://ms.drevnovice.cz/file.php?nid=13830&oid=7063659",
+"w": 1200
+},
+{
+"alt": "IMG_20190728_144811.jpg",
+"barva": "#7f7976",
+"dh": "8a99d1e94b89888e",
+"h": 1200,
+"jistota": 0.989,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms.drevnovice.cz/",
+"typ": "les",
+"url": "https://ms.drevnovice.cz/file.php?nid=13830&oid=7063654",
+"w": 900
+},
+{
+"alt": "IMG_20190728_150724.jpg",
+"barva": "#717570",
+"dh": "0313d6010fad073f",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms.drevnovice.cz/",
+"typ": "zahrada",
+"url": "https://ms.drevnovice.cz/file.php?nid=13830&oid=7063660",
+"w": 1200
+},
+{
+"alt": "IMG_20190728_150807.jpg",
+"barva": "#7a8468",
+"dh": "e6a4445603060c9c",
+"h": 1200,
+"jistota": 0.657,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://ms.drevnovice.cz/",
+"typ": "les",
+"url": "https://ms.drevnovice.cz/file.php?nid=13830&oid=7063662",
+"w": 900
+}
+],
 "materska-skola-frydlant-nad-ostravici-622769": [
 {
 "alt": "",
