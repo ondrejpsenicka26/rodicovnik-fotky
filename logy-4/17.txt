@@ -1,10 +1,7 @@
-[11:04:06] Část 18/20: webů 155, hotovo 192, zbývá 6
-[11:04:17] https://www.mszdounky.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
-[11:04:38] https://skolachvateruby.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 18 fotek ke kontrole
-[11:04:45] https://skolavrhavec.cz: 15 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'zsvrhavec.rajce.idnes.cz'], alb: 0), 85 obrázků, 16 fotek ke kontrole
-[11:04:54] https://skola.skrdlovice.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 5 fotek ke kontrole
-[11:05:15] https://www.skolatrnava.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 1116 obrázků, 4 fotek ke kontrole
-[11:06:22] https://www.mspodlesi.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 1088 obrázků, 45 fotek ke kontrole
-[11:06:37] tříděno 0/93
-[11:06:49] Dávka 1: hotovo 198/155, se fotkami 61; {'ok': 8, 'lide': 12, 'jine': 61, 'sablona': 0}
-[11:06:49] Konec: školek s fotkami 61; {'ok': 8, 'lide': 12, 'jine': 61, 'sablona': 0}
+[11:38:40] Část 18/20: webů 157, hotovo 198, zbývá 3
+[11:38:53] https://www.msdemlovatrebic.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 0 fotek ke kontrole
+[11:39:31] https://msjarni.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 66 obrázků, 13 fotek ke kontrole
+[11:40:57] https://www.mstvarozna.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 9 fotek ke kontrole
+[11:41:11] tříděno 0/22
+[11:41:12] Dávka 1: hotovo 201/157, se fotkami 62; {'ok': 2, 'lide': 0, 'jine': 20, 'sablona': 0}
+[11:41:12] Konec: školek s fotkami 62; {'ok': 2, 'lide': 0, 'jine': 20, 'sablona': 0}

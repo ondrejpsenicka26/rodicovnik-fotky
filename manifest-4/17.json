@@ -1365,6 +1365,36 @@
 "w": 1200
 }
 ],
+"materska-skola-tvarozna-604086": [
+{
+"alt": "",
+"barva": "#5f6061",
+"dh": "f4e9cb2363196281",
+"h": 801,
+"jistota": 0.988,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAAFBv/EACAQAAICAgEFAQAAAAAAAAAAAAECAxEABCEFEhMxQaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABsRAAICAwEAAAAAAAAAAAAAAAABAlEREiJB/9oADAMBAAIRAxEAPwAQ61rykEr41rkMCT+Y/W2em7Dx9kjlfGWdfTA/BnMKoMgQcX9xkOuiyCr7iavHab9BJUa8+/Gj1Hp0vy2NnLABDILZya45yycysvmj/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mstvarozna.cz/",
+"typ": "budova",
+"url": "https://www.mstvarozna.cz/wp-content/uploads/2017/06/IMG_1916-e1498631109726.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8f6f56",
+"dh": "8d8b9d59866bf3c0",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mstvarozna.cz/jidelna/jidelni-listek/",
+"typ": "interier",
+"url": "https://www.mstvarozna.cz/wp-content/uploads/2022/06/20220106_103830-1.jpg",
+"w": 1200
+}
+],
 "materska-skola-uhretice-582414": [
 {
 "alt": "Mateřská škola Úhřetice, okres Chrudim",
