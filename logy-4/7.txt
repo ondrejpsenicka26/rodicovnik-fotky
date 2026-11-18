@@ -1,7 +1,10 @@
-[00:41:50] Část 8/20: webů 138, hotovo 157, zbývá 3
-[00:42:12] https://pastelkybabice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 16 fotek ke kontrole
-[00:43:14] https://dsmatylda.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 122 obrázků, 40 fotek ke kontrole
-[00:43:27] http://www.skolahovorcovice.cz: nedostupné nebo zakázané
-[00:43:48] tříděno 0/56
-[00:43:56] Dávka 1: hotovo 160/138, se fotkami 36; {'ok': 8, 'lide': 1, 'jine': 15, 'sablona': 0}
-[00:43:56] Konec: školek s fotkami 36; {'ok': 8, 'lide': 1, 'jine': 15, 'sablona': 0}
+[02:14:07] Část 8/20: webů 141, hotovo 160, zbývá 6
+[02:14:12] https://hejkalek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 3 fotek ke kontrole
+[02:14:24] https://mamincinkoutek.com: 5 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 20 fotek ke kontrole
+[02:14:24] https://dshrosik.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 15 fotek ke kontrole
+[02:14:30] https://skolkavlnenka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 628 obrázků, 45 fotek ke kontrole
+[02:14:43] https://hravaduha.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 21 fotek ke kontrole
+[02:15:34] https://skolickanafarme-markvartovice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 367 obrázků, 39 fotek ke kontrole
+[02:15:46] tříděno 0/143
+[02:15:57] Dávka 1: hotovo 166/141, se fotkami 40; {'ok': 10, 'lide': 14, 'jine': 107, 'sablona': 0}
+[02:15:57] Konec: školek s fotkami 40; {'ok': 10, 'lide': 14, 'jine': 107, 'sablona': 0}

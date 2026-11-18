@@ -89,6 +89,92 @@
 "w": 1200
 }
 ],
+"detska-skupina-hrava-duha-ds02314": [
+{
+"alt": "",
+"barva": "#958f83",
+"dh": "2737361e9a1a1706",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEERIhQTEFMlFhof/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABsRAQACAgMAAAAAAAAAAAAAAAEAAhEhEhMx/9oADAMBAAIRAxEAPwB70+aJ1KxuJTjxtyPutnuBCoV889ec1AsHihOY1IYn3E9fFMzXNwqvNv0MbKDnkZoNsRFc+SvbRi5RnUDG2PGKKkW99fQoREluysdux+UVnZU0suK7J//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://hravaduha.cz/?page_id=115",
+"typ": "interier",
+"url": "https://hravaduha.cz/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-26-at-14.22.09-3.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9a948a",
+"dh": "c6d3e1b0333362c2",
+"h": 900,
+"jistota": 0.993,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://hravaduha.cz/?page_id=115",
+"typ": "interier",
+"url": "https://hravaduha.cz/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-26-at-14.22.09-2.jpeg",
+"w": 1200
+}
+],
+"detska-skupina-hrosik-i-ds10501": [
+{
+"alt": "",
+"barva": "#ba9c7f",
+"dh": "d2e0860e0e262a4e",
+"h": 900,
+"jistota": 0.963,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIDEQAhBAUiMRITUWGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AHt1NZyAkRQ62zb/AAYsSewpLNZFtV/RzJ46hYY2AouKWvjzZxMnpSEBtKe2/Na1maKUe69ydAzYuUrRJ2toV5GWC4wLwijQXWWOTbgsG//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dshrosik.cz/photo-gallery/",
+"typ": "interier",
+"url": "https://b68ed5dfb4.clvaw-cdnwnd.com/0dd4205871225493dce37859dee5e68e/200000017-6282c6282e/tempImagehL9f8O.png?ph=b68ed5dfb4",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6e8b8e",
+"dh": "c0e091dd3e9a9aee",
+"h": 900,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dshrosik.cz/photo-gallery/",
+"typ": "zahrada",
+"url": "https://b68ed5dfb4.clvaw-cdnwnd.com/0dd4205871225493dce37859dee5e68e/200000023-f3cdaf3cdc/tempImage3L70jY.png?ph=b68ed5dfb4",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b59c82",
+"dh": "069494947233998c",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dshrosik.cz/",
+"typ": "interier",
+"url": "https://b68ed5dfb4.clvaw-cdnwnd.com/0dd4205871225493dce37859dee5e68e/200000089-ba8b3ba8b5/CEDB69E3-CFB0-4281-8D42-EB83A06AE142.png?ph=b68ed5dfb4",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#d6c5b0",
+"dh": "060c4c4c54918d0f",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dshrosik.cz/photo-gallery/",
+"typ": "hygiena",
+"url": "https://b68ed5dfb4.clvaw-cdnwnd.com/0dd4205871225493dce37859dee5e68e/200000113-2a3fc2a3fe/560BA7D4-6998-4632-B42A-B13F3C5E5C2B.png?ph=b68ed5dfb4",
+"w": 900
+}
+],
 "detska-skupina-jeslicky-ds00988": [
 {
 "alt": "",
@@ -469,6 +555,23 @@
 "stranka": "https://sam-sebou.cz/fotogalerie/jak-jsme-budovali-zazemi/",
 "typ": "interier",
 "url": "https://sam-sebou.cz/wp-content/uploads/2020/05/40-Malujeme.jpg",
+"w": 1200
+}
+],
+"detska-skupina-skolicka-na-farme-markvartovice-ds11267": [
+{
+"alt": "",
+"barva": "#6c7b48",
+"dh": "f133616c8e1b1725",
+"h": 676,
+"jistota": 0.701,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAQIE/8QAIhAAAQQBAwUBAAAAAAAAAAAAAQACAxEEBSExEhMiQUJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAESESH/2gAMAwEAAhEDEQA/AMQ0/uOEceQ58jjsKu/xWOlS4zgbLnj5uiE0hxYYmXHGGkewpHi3ZZLZO50UPwZpD1Ovj6NoTUtF8BCWxTZ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolickanafarme-markvartovice.cz/zahrada/",
+"typ": "zahrada",
+"url": "https://skolickanafarme-markvartovice.cz/wp-content/uploads/photo-gallery/imported_from_media_libray/61DenOtevreniMarkvartovice.jpg?bwg=1788510693",
 "w": 1200
 }
 ],
@@ -951,6 +1054,49 @@
 "typ": "zahrada",
 "url": "https://56f4d4ec16.clvaw-cdnwnd.com/28caaec56072ea7c58105ee88c61b9f2/200000026-5b8845b887/700/M%C5%A0%20Ve%C4%8Dern%C3%AD%C4%8Dek%20%281%29.jpeg?ph=56f4d4ec16",
 "w": 700
+}
+],
+"mini-skolka-vlnenka-i-detska-skupina-ds02248": [
+{
+"alt": "",
+"barva": "#ceb69d",
+"dh": "3333337373f3f333",
+"h": 800,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBv/EACIQAAICAgEDBQAAAAAAAAAAAAECAAMRIQQSE0EiMVFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACERIhIv/aAAwDAQACEQMRAD8A0WAtJ+pNwWDWWAewUfsU2G6v1a1jUXjUdksVdj1DzIZd5CVg8pUXNSr4exVI8ZxCQ2K3XtyT8wi3Hjf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkavlnenka.cz/galerie",
+"typ": "interier",
+"url": "https://images.squarespace-cdn.com/content/v1/648241ccfc294c149ad63286/2a668516-f7a2-435c-b5dd-27a62c1e1a11/1-49.jpg?format=2500w",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#749779",
+"dh": "311b531b0b3d766d",
+"h": 900,
+"jistota": 0.981,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkavlnenka.cz/galerie",
+"typ": "zahrada",
+"url": "https://images.squarespace-cdn.com/content/v1/648241ccfc294c149ad63286/bc324630-e802-4a36-ac6f-f62f64b2737f/IMG_9712.jpg?format=2500w",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b7a795",
+"dh": "0141898d8d010107",
+"h": 800,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkavlnenka.cz/galerie",
+"typ": "interier",
+"url": "https://images.squarespace-cdn.com/content/v1/648241ccfc294c149ad63286/a60c7f8c-a471-4af5-9b0d-518950524882/1-98.jpg?format=2500w",
+"w": 1200
 }
 ],
 "ms-rozmarynek-385459": [
