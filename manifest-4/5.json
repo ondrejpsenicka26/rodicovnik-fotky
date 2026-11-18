@@ -742,6 +742,62 @@
 "w": 1024
 }
 ],
+"materska-skola-bystrice-583160": [
+{
+"alt": "",
+"barva": "#949680",
+"dh": "cfc713191130304f",
+"h": 836,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACIQAQACAgAFBQAAAAAAAAAAAAECAwARBAUSEyEVIjEykf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABkRAQEBAAMAAAAAAAAAAAAAAAEAEQIUUf/aAAwDAQACEQMRAD8ARjzu3jbCUHtMDYQlsTNqOeXT4iyiyI9KBI8b3gNPLqe1Fb7tSHSAJnR6FCmpkW2Wb+3VJjv8wtR0q4zzxFnUnh05YEhv3G342q5Zrs+kTxv/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msbystrice.cz/tridy/fialova-trida-motyli/motyli-skolicka-co-se-prave-ucime/",
+"typ": "budova",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9800.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#86817b",
+"dh": "7c774f69d91d7ebc",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msbystrice.cz/tridy/fialova-trida-motyli/motyli-skolicka-co-se-prave-ucime/",
+"typ": "interier",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9756.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#828e74",
+"dh": "1998b439396972e6",
+"h": 801,
+"jistota": 0.987,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msbystrice.cz/tridy/fialova-trida-motyli/motyli-skolicka-co-se-prave-ucime/",
+"typ": "zahrada",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9805.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c937b",
+"dh": "3071747737d1e3de",
+"h": 801,
+"jistota": 0.553,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msbystrice.cz/tridy/fialova-trida-motyli/motyli-skolicka-co-se-prave-ucime/",
+"typ": "budova",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9817.jpg",
+"w": 1200
+}
+],
 "materska-skola-ceska-trebova-590506": [
 {
 "alt": "og",
@@ -888,6 +944,36 @@
 "w": 800
 }
 ],
+"materska-skola-duha-616581": [
+{
+"alt": "",
+"barva": "#79757a",
+"dh": "a2f901c39199230b",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAJBAAAQUAAAQHAAAAAAAAAAAAAQACAwQRBQYTIRIUIjNDYcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRIQQSIkL/2gAMAwEAAhEDEQA/ABGn3wjCRvdKrcHM+nqNaBm+k6hwWfDOJJxIJSXHA7RhS63Ea0dphlllaT8TSS0n7Ssvf5klSY9TK7Q8tP0268YDuKVb5jpPm9qY4MOAfqkk5DBR2G4GqGdGf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-duha.cz/",
+"typ": "budova",
+"url": "https://ms-duha.cz/wp-content/uploads/2022/12/F94F9366-4435-4A74-920D-33A44A08A59E.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#766552",
+"dh": "c75d4fcf1f1d1993",
+"h": 900,
+"jistota": 0.994,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-duha.cz/",
+"typ": "budova",
+"url": "https://ms-duha.cz/wp-content/uploads/2022/11/AC599F37-764C-4D84-ACCB-394D28950F0F.jpeg",
+"w": 1200
+}
+],
 "materska-skola-holice-158581": [
 {
 "alt": "",
@@ -1028,6 +1114,62 @@
 "typ": "zahrada",
 "url": "https://www.msjaruskakunice.cz/images/fotogalerie/Zahrada/zahrada_skolky_2023_6.jpg#joomlaImage://local-images/fotogalerie/Zahrada/zahrada_skolky_2023_6.jpg?width=713&height=534",
 "w": 713
+}
+],
+"materska-skola-jenikovice-581141": [
+{
+"alt": "",
+"barva": "#90827a",
+"dh": "ac2e2e2e5b1976cc",
+"h": 1200,
+"jistota": 0.986,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAnEAACAgIBAgQHAAAAAAAAAAABAgMRAAQSBSETQVFxIzEyQoGx4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAQADAQEAAAAAAAAAAAAAAAABAhESMf/aAAwDAQACEQMRAD8A2tPUSJ5ZVsGXubPa8m2umrJFr+PGZJljt3BsPX2n1yLoUraGptzOjVM9Jx8ux7174/Z6qX1Ejg2SkyRgMSl83o979/3kavmXUcJ8KMvEsTlQWQD6T6YYhd9zGnxAWCjkXFG/PDMMZ+u/hKJXmBIFhAbP8zibqM3Myvwjs3xUXfucy4J5JFVmcknt+MbMSygHGINrTb06TYimbnJAjMfMEi8MiYkGh8hhil//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkajenikovice.cz/galerie/",
+"typ": "budova",
+"url": "https://skolkajenikovice.cz/wp-content/uploads/2026/09/1000019674.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#867a65",
+"dh": "2a55676b61d1ee39",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkajenikovice.cz/galerie/",
+"typ": "interier",
+"url": "https://skolkajenikovice.cz/wp-content/uploads/2026/09/20260821_140207.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5b5f4f",
+"dh": "b33903978e8c2237",
+"h": 675,
+"jistota": 0.982,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolkajenikovice.cz/galerie/",
+"typ": "budova",
+"url": "https://skolkajenikovice.cz/wp-content/uploads/2022/10/jenikovice-skolka-3.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#807762",
+"dh": "3a4d5d24f2943963",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolkajenikovice.cz/galerie/",
+"typ": "interier",
+"url": "https://skolkajenikovice.cz/wp-content/uploads/2026/09/20260821_140226.jpg",
+"w": 1200
 }
 ],
 "materska-skola-liberec-564301": [

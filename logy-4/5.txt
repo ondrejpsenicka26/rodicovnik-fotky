@@ -1,6 +1,11 @@
-[08:51:35] Část 6/20: webů 138, hotovo 173, zbývá 2
-[08:52:16] https://msplav.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 18 fotek ke kontrole
-[08:52:27] https://msputim.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 267 obrázků, 1 fotek ke kontrole
-[08:52:45] tříděno 0/19
-[08:52:46] Dávka 1: hotovo 175/138, se fotkami 58; {'ok': 4, 'lide': 1, 'jine': 2, 'sablona': 0}
-[08:52:46] Konec: školek s fotkami 58; {'ok': 4, 'lide': 1, 'jine': 2, 'sablona': 0}
+[09:22:09] Část 6/20: webů 145, hotovo 175, zbývá 7
+[09:22:20] https://ms-cejetice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
+[09:22:50] https://mslitobratrice.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 94 obrázků, 1 fotek ke kontrole
+[09:22:54] https://zsmsvysocany.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 106 obrázků, 0 fotek ke kontrole
+[09:23:01] https://msbystrice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 147 obrázků, 10 fotek ke kontrole
+[09:23:17] https://skolkajenikovice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 87 obrázků, 42 fotek ke kontrole
+[09:23:22] https://zsmsnemojany.cz: 23 stránek (galerie mimo web: 1 ['zsmsnemojany.rajce.idnes.cz'], alb: 1), 81 obrázků, 12 fotek ke kontrole
+[09:23:37] https://ms-duha.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 8 fotek ke kontrole
+[09:23:54] tříděno 0/74
+[09:24:06] Dávka 1: hotovo 182/145, se fotkami 61; {'ok': 10, 'lide': 7, 'jine': 28, 'sablona': 0}
+[09:24:06] Konec: školek s fotkami 61; {'ok': 10, 'lide': 7, 'jine': 28, 'sablona': 0}
