@@ -1,8 +1,6 @@
-[11:39:30] Část 12/20: webů 180, hotovo 215, zbývá 4
-[11:39:40] https://mslechotice.webnode.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 4 fotek ke kontrole
-[11:39:41] https://www.msrychlov.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
-[11:40:41] https://mscentrum.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 13 fotek ke kontrole
-[11:40:56] https://www.ms-kroupova.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 110 obrázků, 35 fotek ke kontrole
-[11:41:15] tříděno 0/53
-[11:41:18] Dávka 1: hotovo 219/180, se fotkami 58; {'ok': 8, 'lide': 1, 'jine': 38, 'sablona': 0}
-[11:41:18] Konec: školek s fotkami 58; {'ok': 8, 'lide': 1, 'jine': 38, 'sablona': 0}
+[11:45:30] Část 12/20: webů 182, hotovo 219, zbývá 2
+[11:45:45] https://dsminisvet.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
+[11:45:46] https://www.miniskolkatygrici.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
+[11:45:59] tříděno 0/10
+[11:45:59] Dávka 1: hotovo 221/182, se fotkami 59; {'ok': 1, 'lide': 0, 'jine': 9, 'sablona': 0}
+[11:45:59] Konec: školek s fotkami 59; {'ok': 1, 'lide': 0, 'jine': 9, 'sablona': 0}
