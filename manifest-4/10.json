@@ -729,6 +729,49 @@
 "w": 1200
 }
 ],
+"materska-skola-ceska-lipa-028976": [
+{
+"alt": "og",
+"barva": "#877d75",
+"dh": "37373f3cca9eda83",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABBEhEjEFYUFRkf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAASECEf/aAAwDAQACEQMRAD8AoAjByQCO80lLhBxQFmOyRvJqWnklkuQZY5Zd5cPKcfnXdOSXTSupjZ4lCnIB2Sfsj49UHq8GszqMlJTviaK4JePEio93cAgaCtrHrVFKAp//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkalipa.cz/jerabinky/interier-tridy",
+"typ": "interier",
+"url": "http://www.skolkalipa.cz/image.php?oid=13878052",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7b6c4a",
+"dh": "ae66dc6f7e3777d9",
+"h": 900,
+"jistota": 0.907,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkalipa.cz/",
+"typ": "zahrada",
+"url": "https://www.skolkalipa.cz/image.php?oid=13521566&nid=21326",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#90755e",
+"dh": "8faf9a989e4e0d9c",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkalipa.cz/pampelisky/nase-trida",
+"typ": "interier",
+"url": "http://www.skolkalipa.cz/image.php?oid=13831072",
+"w": 1200
+}
+],
 "materska-skola-ctyrlistek-mlada-boleslav-514591": [
 {
 "alt": "",
@@ -1524,6 +1567,62 @@
 "w": 1200
 }
 ],
+"materska-skola-zelatovice-631733": [
+{
+"alt": "og",
+"barva": "#7c7b76",
+"dh": "8cc02b168e0f1793",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBQIDBv/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSEyExUWEiQTJxkf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHBEAAgICAwAAAAAAAAAAAAAAAAEDIQIxERIT/9oADAMBAAIRAxEAPwBEXM6yPsbaHOSg7fyouZZ7krztnGSM+6csdWTeITFHxNJkEtgj9mnJb8W8M8s8MLFJDxqrY3Dz7FM51zSAo62Uy2p2gl0GRnBNFSuuAD52sG4kn8KKp7YidGZaVpTl1N1gl+0Y7KPJ91f3lpDLbqoiQ8Ywo2joPFaNM+VxMW6kYAp5vuuTZY5W4mWKUqLWJx9GimbxFFy+BjrRQox//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mszelatovice.cz/o-skolce.html",
+"typ": "budova",
+"url": "https://mszelatovice.cz/img/skolka-uvod.jpg",
+"w": 900
+},
+{
+"alt": "Třída mateřské školy se stolky, židličkami a malovanými stromy na stěně",
+"barva": "#89735b",
+"dh": "cc8cccc8b2999c3c",
+"h": 750,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mszelatovice.cz/o-skolce.html",
+"typ": "interier",
+"url": "https://mszelatovice.cz/img/trida.jpg",
+"w": 1000
+},
+{
+"alt": "Žlutá skluzavka a houpačky na travnaté zahradě školky",
+"barva": "#6a6c65",
+"dh": "0f9d1c389c9b4062",
+"h": 1067,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mszelatovice.cz/o-skolce.html",
+"typ": "zahrada",
+"url": "https://mszelatovice.cz/img/klouzacka.jpg",
+"w": 800
+},
+{
+"alt": "Herna s kobercem, dětskou kuchyňkou a interaktivním displejem",
+"barva": "#89827d",
+"dh": "cbcfe1c3c19cc783",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mszelatovice.cz/o-skolce.html",
+"typ": "interier",
+"url": "https://mszelatovice.cz/img/herna.jpg",
+"w": 900
+}
+],
 "materska-skola-zichovice-542927": [
 {
 "alt": "",
@@ -1823,6 +1922,36 @@
 "typ": "interier",
 "url": "https://ms.skolabroumy.cz/wp-content/uploads/2023/06/354365332_1604016193463849_1528299007072207730_n.jpg",
 "w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-janovice-621878": [
+{
+"alt": "og",
+"barva": "#787f65",
+"dh": "62164d1524b2dbeb",
+"h": 523,
+"jistota": 0.976,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAkEAACAgECBQUAAAAAAAAAAAABAgMRABIhBAUTUbEUMUFx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABgRAQADAQAAAAAAAAAAAAAAAAACEiIx/9oADAMBAAIRAxEAPwB0l6yjTw8bWTYZK85nq0TYRRruQSV01XfOM0EnDu4ZG0aqdQwA/cSEIY2jJWVHWkLFgy/Z+cz10UNzGOKlbpDawSh3Hf3wyaKGV02h6gU1ZIPnDFpI/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolajanovice.cz/l/treti-brigada-na-zahrade/",
+"typ": "zahrada",
+"url": "https://647ecd2066.clvaw-cdnwnd.com/d7751e5fc1fc48fc8302cc5f7474d691/200007085-9eea49fdf6/700/IMG_1915.JPG?ph=647ecd2066",
+"w": 700
+},
+{
+"alt": "og",
+"barva": "#807f6d",
+"dh": "cdb698999d0e56b5",
+"h": 525,
+"jistota": 0.668,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolajanovice.cz/l/jarni-prace-na-skolni-zahrade/",
+"typ": "les",
+"url": "https://647ecd2066.clvaw-cdnwnd.com/d7751e5fc1fc48fc8302cc5f7474d691/200012014-5ecea5ecef/700/sta%C5%BEen%C3%BD%20soubor%20%281%29-76.jpg?ph=647ecd2066",
+"w": 700
 }
 ],
 "zakladni-skola-a-materska-skola-kozusany-tazaly-626616": [

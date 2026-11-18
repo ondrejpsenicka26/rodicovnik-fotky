@@ -1,2 +1,11 @@
-[09:44:22] Část 11/20: webů 161, hotovo 203, zbývá 0
-[09:44:22] Konec: školek s fotkami 58; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:07] Část 11/20: webů 168, hotovo 203, zbývá 7
+[09:54:09] https://skolkalitovel.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:25] https://mszelatovice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 9 fotek ke kontrole
+[09:54:58] https://msvesvahu.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 8 fotek ke kontrole
+[09:55:21] https://mszulova.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 1078 obrázků, 10 fotek ke kontrole
+[09:55:23] https://msvelkehostice.cz: 5 stránek (galerie mimo web: 1 ['msvelkehostice.rajce.idnes.cz'], alb: 0), 47 obrázků, 0 fotek ke kontrole
+[09:55:42] https://skolkalipa.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 55 obrázků, 11 fotek ke kontrole
+[09:55:47] https://skolajanovice.cz: 28 stránek (galerie mimo web: 1 ['msjanovice.rajce.idnes.cz'], alb: 0), 93 obrázků, 30 fotek ke kontrole
+[09:56:05] tříděno 0/68
+[09:56:13] Dávka 1: hotovo 210/168, se fotkami 61; {'ok': 9, 'lide': 3, 'jine': 47, 'sablona': 0}
+[09:56:13] Konec: školek s fotkami 61; {'ok': 9, 'lide': 3, 'jine': 47, 'sablona': 0}
