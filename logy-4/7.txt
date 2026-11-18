@@ -1,13 +1,8 @@
-[11:38:37] Část 8/20: webů 183, hotovo 219, zbývá 9
-[11:38:51] https://kastanekteplice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
-[11:39:15] https://www.msklukam.cz: 5 stránek (galerie mimo web: 1 ['msklukam.rajce.idnes.cz'], alb: 0), 7 obrázků, 1 fotek ke kontrole
-[11:39:20] https://ms-rozmarynek.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 0 fotek ke kontrole
-[11:39:41] https://www.mstumananova.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 22 fotek ke kontrole
-[11:39:49] https://www.msprace.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 182 obrázků, 3 fotek ke kontrole
-[11:39:57] https://www.ms-harmonie.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 1537 obrázků, 45 fotek ke kontrole
-[11:40:03] https://www.mshorova.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 52 obrázků, 43 fotek ke kontrole
-[11:40:36] https://www.ms-zborovska.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 758 obrázků, 45 fotek ke kontrole
-[11:40:37] https://www.mszabranou.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 379 obrázků, 44 fotek ke kontrole
-[11:40:52] tříděno 0/205
-[11:41:37] Dávka 1: hotovo 228/183, se fotkami 61; {'ok': 11, 'lide': 18, 'jine': 95, 'sablona': 0}
-[11:41:37] Konec: školek s fotkami 61; {'ok': 11, 'lide': 18, 'jine': 95, 'sablona': 0}
+[11:45:18] Část 8/20: webů 187, hotovo 228, zbývá 4
+[11:45:37] https://detskaskupinatomik.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 23 fotek ke kontrole
+[11:45:38] https://ds-sympatie.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 10 fotek ke kontrole
+[11:46:02] https://dsmonty.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 83 obrázků, 41 fotek ke kontrole
+[11:46:22] https://filianek.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 214 obrázků, 38 fotek ke kontrole
+[11:46:37] tříděno 0/112
+[11:46:42] Dávka 1: hotovo 232/187, se fotkami 63; {'ok': 5, 'lide': 4, 'jine': 103, 'sablona': 0}
+[11:46:42] Konec: školek s fotkami 63; {'ok': 5, 'lide': 4, 'jine': 103, 'sablona': 0}

@@ -794,6 +794,79 @@
 "w": 1200
 }
 ],
+"detska-skupina-sympatie-ds02299": [
+{
+"alt": "detska_skupinka_sympatie1",
+"barva": "#83766d",
+"dh": "7a2c6ce4ade9f086",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EAB0QAQACAgMBAQAAAAAAAAAAAAECAwARBBIxIUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AHJcnj1de3b4K9TzXuK23VEISJC6RH1duS7barJrXCUWfsuz9NeazTdlkSTqcYI6Ajhnb0UaWFaE+OROzp/RcMnVHGuGRVKDvSFkj7hgEf/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ds-sympatie.cz/",
+"typ": "interier",
+"url": "https://ds-sympatie.cz/wp-content/uploads/2026/06/detska_skupinka_sympatie1.jpg",
+"w": 1200
+},
+{
+"alt": "detska_skupinka_sympatie2",
+"barva": "#6a6058",
+"dh": "5327234b2335c3c3",
+"h": 900,
+"jistota": 0.99,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://ds-sympatie.cz/",
+"typ": "interier",
+"url": "https://ds-sympatie.cz/wp-content/uploads/2026/06/detska_skupinka_sympatie2.jpg",
+"w": 1200
+},
+{
+"alt": "detska_skupinka_sympatie3",
+"barva": "#73635a",
+"dh": "0f2f3c3e33636161",
+"h": 900,
+"jistota": 0.961,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://ds-sympatie.cz/",
+"typ": "hygiena",
+"url": "https://ds-sympatie.cz/wp-content/uploads/2026/06/detska_skupinka_sympatie3.jpg",
+"w": 1200
+}
+],
+"detska-skupina-tomik-ds01257": [
+{
+"alt": "Skříně s hračkami, knížkami a stavebnicemi",
+"barva": "#959173",
+"dh": "0081b23070732080",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAkABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFAQYE/8QAIhAAAQQBAwUBAAAAAAAAAAAAAQACAxEhBBIxBRMiUXGB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwT/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECEiEx/9oADAMBAAIRAxEAPwCl3aNUCU+El5pzQLFiio0Orl1JkML4wAav1hevpUs0Mcg1bo5JK3W3JpFW2ka4VNiEyJr5omyMILXCwhKoFOWm0vY0h8pDufRDj94zhM6M0za5zS0FhbdGqtY6aIsc0MLgTeaC3Sv7LiYhsJ5IJJP6VyrJvDvpu2lw6SJ8ccTQA3j1V/iFELg427J9nKFloDYnV5O+psfCEJopjgcIQhWE/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://detskaskupinatomik.cz/",
+"typ": "interier",
+"url": "https://detskaskupinatomik.cz/assets/img/skrine-s-hrackami.webp",
+"w": 675
+},
+{
+"alt": "Dětská koupelna s umyvadly, sprchou a nočníkem",
+"barva": "#9c8980",
+"dh": "2020a88909698992",
+"h": 675,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://detskaskupinatomik.cz/",
+"typ": "hygiena",
+"url": "https://detskaskupinatomik.cz/assets/img/koupelna.webp",
+"w": 1200
+}
+],
 "detska-skupina-wonderspace-ds10592": [
 {
 "alt": "wonder area.jpeg",
