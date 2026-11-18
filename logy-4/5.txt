@@ -1,6 +1,2 @@
-[12:55:06] Část 6/20: webů 164, hotovo 219, zbývá 2
-[12:55:17] https://skolamotol.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[12:56:13] https://mskostelni.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 137 obrázků, 27 fotek ke kontrole
-[12:56:29] tříděno 0/27
-[12:56:29] Dávka 1: hotovo 221/164, se fotkami 79; {'ok': 3, 'lide': 0, 'jine': 0, 'sablona': 0}
-[12:56:29] Konec: školek s fotkami 79; {'ok': 3, 'lide': 0, 'jine': 0, 'sablona': 0}
+[13:31:13] Část 6/20: webů 162, hotovo 221, zbývá 0
+[13:31:13] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
