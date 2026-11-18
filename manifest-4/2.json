@@ -681,6 +681,36 @@
 "w": 900
 }
 ],
+"materska-skola-sonov-583909": [
+{
+"alt": "Naše nová školka",
+"barva": "#7b6c66",
+"dh": "96968ecec68b2961",
+"h": 1000,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODcK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBAIB/8QAJRAAAgICAQMDBQAAAAAAAAAAAQIDEQAEIQUSMRRRYTJBQnHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAMAwEAAhEDEQA/AOiIP1JVIsEZVPrdkTkoaA8layTa2U1+pxcm6F47d6mksElK4JFCzYwNlxCPGGTpupXMb/FVzhkLTMzbU003eaLnlfy9v1WOSFXcIWNMvkNfOblUGCM/c8k+5xUDH1KLfBP8xXJjbaEQPMrj4Bwx7/Vhgh//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.sonov.cz/galerie/nase-nova-skolka",
+"typ": "interier",
+"url": "https://ms.sonov.cz/www//cache/files-galerie-81-img-20240826-wa0022-1200-1000.jpg",
+"w": 750
+},
+{
+"alt": "Naše nová školka",
+"barva": "#746f65",
+"dh": "0d1b1bb6431d1643",
+"h": 1000,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms.sonov.cz/galerie/nase-nova-skolka",
+"typ": "interier",
+"url": "https://ms.sonov.cz/www//cache/files-galerie-81-img-20240826-wa0016-1200-1000.jpg",
+"w": 750
+}
+],
 "materska-skola-stepanka-514915": [
 {
 "alt": "",
@@ -1365,6 +1395,49 @@
 "stranka": "https://www.zsloucka.cz/materska-skola/virtualni-prohlidka/",
 "typ": "budova",
 "url": "https://www.zsloucka.cz/data/headerfooter/header_images/vstup.JPG",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-lukavice-585898": [
+{
+"alt": "",
+"barva": "#85847c",
+"dh": "a0f9ff2f2d3b191b",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAgMF/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDEQAEBRITITEiUYEVQbHB8f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABoRAAICAwAAAAAAAAAAAAAAAAABAhIDMUH/2gAMAwEAAhEDEQA/ALRYsuqIZdmCAZ7+/wAVFWGuJSFCFCAYnv8AlJYbfMstwpOUlSSqBMwOPum/UkB49alI00gbR1AnMfIrKyyT2VUzMv7160uS1pAQAdzzRS2LvNXl5qslYGUA5hyR5opvJ9CqP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolalukavice.cz/zakladni-skola/fotogalerie/skolni-rok-2024-2025/vyuka-na-dopravnim-hristi-4-a-5-trida-571cs.html",
+"typ": "budova",
+"url": "https://www.skolalukavice.cz/data/headerfooter/header_images/img3052.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8a7f6e",
+"dh": "87dbf9384025d91e",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolalukavice.cz/zakladni-skola/fotogalerie/skolni-rok-2024-2025/vyuka-na-dopravnim-hristi-4-a-5-trida-571cs.html",
+"typ": "interier",
+"url": "https://www.skolalukavice.cz/data/headerfooter/header_images/whatsapp-image-2025-09-01-at-103521-7.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#667068",
+"dh": "c1b3362636236559",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolalukavice.cz/zakladni-skola/fotogalerie/skolni-rok-2024-2025/vyuka-na-dopravnim-hristi-4-a-5-trida-571cs.html",
+"typ": "budova",
+"url": "https://www.skolalukavice.cz/data/headerfooter/header_images/whatsapp-image-2025-09-01-at-103520-3.jpeg",
 "w": 1200
 }
 ],

@@ -1,2 +1,13 @@
-[09:44:24] Část 3/20: webů 176, hotovo 204, zbývá 0
-[09:44:24] Konec: školek s fotkami 47; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:03] Část 3/20: webů 184, hotovo 204, zbývá 9
+[09:54:07] https://msliberecka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:16] https://skolaostrava.diakonie.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:17] https://lmszahradka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[09:54:20] https://msopocno.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 8 fotek ke kontrole
+[09:55:23] https://zsamsskripov.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 126 obrázků, 4 fotek ke kontrole
+[09:55:33] https://skolalukavice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 603 obrázků, 8 fotek ke kontrole
+[09:56:00] https://ms.sonov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 1867 obrázků, 27 fotek ke kontrole
+[09:56:04] https://mskrestanska.cz: 32 stránek (galerie mimo web: 1 ['us.zonerama.com'], alb: 1), 107 obrázků, 17 fotek ke kontrole
+[09:56:19] https://msspicky.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 143 obrázků, 0 fotek ke kontrole
+[09:56:31] tříděno 0/64
+[09:56:34] Dávka 1: hotovo 213/184, se fotkami 49; {'ok': 5, 'lide': 4, 'jine': 51, 'sablona': 0}
+[09:56:34] Konec: školek s fotkami 49; {'ok': 5, 'lide': 4, 'jine': 51, 'sablona': 0}
