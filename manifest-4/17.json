@@ -1640,6 +1640,23 @@
 "w": 1000
 }
 ],
+"materska-skola-velka-chuchle-006357": [
+{
+"alt": "",
+"barva": "#5d5b4c",
+"dh": "c7755557e7ad1f97",
+"h": 543,
+"jistota": 0.975,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMAESEEEjETI3GBM1Fh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AORNTBqCi9GNrC7doDOOM+aVOIkijawVi+4qqKbfhzxUmH5/VZJw3is+qJcP1j75yywwj72GwPqip55NFUT/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-chuchle.cz/ms-chuchle",
+"typ": "budova",
+"url": "https://files.ms-chuchle.cz/static/data/uploaded/u4s6vi4b6alqw04f4hglppqss2gump/bg.jpeg",
+"w": 1200
+}
+],
 "materska-skola-velke-hosteradky-604892": [
 {
 "alt": "",
@@ -2028,6 +2045,36 @@
 "typ": "budova",
 "url": "https://skola.skrdlovice.cz/image.php?oid=11189097&nid=20916&width=1193",
 "w": 1193
+}
+],
+"zakladni-skola-a-materska-skola-srbsko-510845": [
+{
+"alt": "foto třída I.",
+"barva": "#8d8470",
+"dh": "3c69eb3b5b63b96f",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAiEAACAgIABgMAAAAAAAAAAAABAgADESEEEhMUQVEykbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEgMRUf/aAAwDAQACEQMRAD8AcC7Vc9dgYYVhrZBhwxrt4ta72dlHyVNEnXqQKz2a2ECqpF1g5YAfsrJcyMtiqrB9hiMH19zFZI8LqxzWqbH6bDkDELgeITMuFHUIqFwUeA+IR2Qakf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skola-srbsko.estranky.cz/fotoalbum/trida-i.--1.--2.-a-3.-rocnik-/",
+"typ": "interier",
+"url": "https://skola-srbsko.estranky.cz/img/original/5/foto-trida-i..jpg",
+"w": 1200
+},
+{
+"alt": "Třída 1. b",
+"barva": "#917a51",
+"dh": "21dacdcdcdcdad8d",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skola-srbsko.estranky.cz/fotoalbum/trida-i.--1.--2.-a-3.-rocnik-/",
+"typ": "interier",
+"url": "https://skola-srbsko.estranky.cz/img/original/8/trida-1.-b.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-strazek-616424": [
