@@ -1120,6 +1120,49 @@
 "w": 1200
 }
 ],
+"materska-skola-chotesov-544008": [
+{
+"alt": "",
+"barva": "#8e877d",
+"dh": "ffbff94b73cfdffe",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAmEAACAgECBgEFAAAAAAAAAAABAgMRAAQhBRITMWFxUjNBQlGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAESEC/9oADAMBAAIRAxEAPwC1qemjESBlHyI2P9xGaq2og4vPxSYQAgSUQKHyF1+sXPEdIzX1LYWKII9DE+iAbF4dPGeVldj6usMzm4uiyEIsHL9rUk4YS26HX6WR5h05ooUIFgRgsQPJyZrdKscY6XKCO5Crv7yvrvoK35WBfis5rjUjiEAMQCd/PbJvGsdJabSs7AiKM7VYHfDF1lkUUrkD3hj1s5f/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mschotesov.cz/o-skolce/tridy/berusky",
+"typ": "interier",
+"url": "https://mschotesov.cz/img/tridy/berusky/berusky_2.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#92928a",
+"dh": "0608213d68862733",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mschotesov.cz/o-skolce/tridy/berusky",
+"typ": "interier",
+"url": "https://mschotesov.cz/img/tridy/berusky/berusky_3.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#867141",
+"dh": "0606044d65018183",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mschotesov.cz/o-skolce/tridy/rybicky",
+"typ": "hygiena",
+"url": "https://mschotesov.cz/img/tridy/rybicky/rybicky_6.jpeg",
+"w": 900
+}
+],
 "materska-skola-dobromilice-609983": [
 {
 "alt": "",
