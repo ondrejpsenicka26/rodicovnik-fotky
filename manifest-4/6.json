@@ -2185,6 +2185,62 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-libesice-600152": [
+{
+"alt": "",
+"barva": "#5b625c",
+"dh": "c7c786b4351f6667",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAjEAACAgIBAgcAAAAAAAAAAAABAgMEABEFEiIGExQhgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/AKd+KbkrrmCdp4Y1BRiAND4xmiVRxAqyVJ+oA93UD3H9GZaDmLVaE+UyjZ1orsayWTmLzoSZwCffSoBg5tkAJi3h2ByG9YkewNrIQp+sMQvydt26jYYk4Zbnl//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsmslibesice.com/?rewritepath=fotogalerie&arc=20",
+"typ": "budova",
+"url": "https://zsmslibesice.com/pictures/user_pages/page232.jpg?s=3184532",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#d8bc91",
+"dh": "3731b9aad60f6efe",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsmslibesice.com/?rewritepath=fotogalerie&arc=20",
+"typ": "interier",
+"url": "https://zsmslibesice.com/pictures/user_pages/page217.jpg?s=1117033",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6e7e85",
+"dh": "7c4f3c315b830419",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsmslibesice.com/?rewritepath=fotogalerie&arc=20",
+"typ": "budova",
+"url": "https://zsmslibesice.com/pictures/user_pages/page234.jpg?s=2908530",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#d5b083",
+"dh": "2e2e36d3a9951575",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zsmslibesice.com/?rewritepath=fotogalerie&arc=20",
+"typ": "interier",
+"url": "https://zsmslibesice.com/pictures/user_pages/page218.jpg?s=1060005",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-lukov-611961": [
 {
 "alt": "",
