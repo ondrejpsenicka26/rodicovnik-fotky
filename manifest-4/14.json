@@ -1073,6 +1073,49 @@
 "w": 1200
 }
 ],
+"materska-skola-opava-17-listopadu-087499": [
+{
+"alt": "",
+"barva": "#6d7c53",
+"dh": "a79393d3bf8f0a5e",
+"h": 900,
+"jistota": 0.92,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAEKgD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EAB8QAAICAQUBAQAAAAAAAAAAAAECAxEABBIUIZETcv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgT/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARICEVH/2gAMAwEAAhEDEQA/AE6XToNUOZG5jKnpcfBwURhxpNqXW4k2b6OSiaU9mRvcxp2oWze5njLSbI9VInJk+SnYT1eGVBoiLZzf5wx2jgf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msopava.cz/cs/galerie/",
+"typ": "budova",
+"url": "https://msopava.cz/media/media/galleries/images/326468029_582199239981224_2292587398496815470_n.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7a9889",
+"dh": "c2eb5bcdc458d8d0",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msopava.cz/cs/galerie/",
+"typ": "zahrada",
+"url": "https://msopava.cz/media/media/galleries/images/4.png",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7d8763",
+"dh": "09db022219938d84",
+"h": 675,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msopava.cz/cs/galerie/",
+"typ": "zahrada",
+"url": "https://msopava.cz/media/media/galleries/images/n3.png",
+"w": 1200
+}
+],
 "materska-skola-ostrava-832994": [
 {
 "alt": "og",
@@ -1800,6 +1843,23 @@
 "typ": "budova",
 "url": "https://zsstaravoda.estranky.cz/img/original/81/budova-ms..jpg",
 "w": 928
+}
+],
+"zakladni-skola-a-materska-skola-struznice-560348": [
+{
+"alt": "",
+"barva": "#ab8e6d",
+"dh": "7454664a523252b9",
+"h": 1060,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAATABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIEBf/EACQQAAIBAwQCAgMAAAAAAAAAAAECAwAEEQUSITEiQRNhMlFS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABoRAQADAAMAAAAAAAAAAAAAAAABAhMDITH/2gAMAwEAAhEDEQA/ALg1zVxbwNJHEwBywz5MD95+/VQZjHYMZbyd5wS3THC/yfVdRLBLmJU1CNWEbEx7WOQCesisVjbvPPerdr8R6CxkbdvY45Hus+q0cceqttRsRbx7o2LlQWJjJ5I59UrTZWsiwDDxgYU+RIP4j9UptICa9t/siuVcEpqm1CVBQZxxnmlKjQ1llRnoUpSqkf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolastruznice.cz/ekologicka-predzahradka-zs-struznice/",
+"typ": "zahrada",
+"url": "https://www.skolastruznice.cz/wp-content/uploads/2026/09/01-4.jpeg",
+"w": 1101
 }
 ],
 "zakladni-skola-a-materska-skola-sudomerice-607271": [

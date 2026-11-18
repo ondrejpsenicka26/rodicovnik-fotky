@@ -1,2 +1,9 @@
-[09:44:24] Část 15/20: webů 155, hotovo 199, zbývá 0
-[09:44:24] Konec: školek s fotkami 61; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:53:58] Část 15/20: webů 160, hotovo 199, zbývá 5
+[09:54:19] https://libos.cz/materska-skolka2: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 0 fotek ke kontrole
+[09:54:24] https://msopava.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 57 obrázků, 34 fotek ke kontrole
+[09:54:43] https://msbilalhota.cz: 8 stránek (galerie mimo web: 2 ['akorner.rajce.net', 'msbilalhota01.rajce.idnes.cz'], alb: 1), 68 obrázků, 21 fotek ke kontrole
+[09:54:46] https://mssusice.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 397 obrázků, 8 fotek ke kontrole
+[09:58:37] https://skolastruznice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 177 obrázků, 9 fotek ke kontrole
+[09:58:50] tříděno 0/72
+[09:58:56] Dávka 1: hotovo 204/160, se fotkami 63; {'ok': 4, 'lide': 5, 'jine': 63, 'sablona': 0}
+[09:58:56] Konec: školek s fotkami 63; {'ok': 4, 'lide': 5, 'jine': 63, 'sablona': 0}
