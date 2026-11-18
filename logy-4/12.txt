@@ -1,16 +1,5 @@
-[04:00:02] Část 13/20: webů 164, hotovo 183, zbývá 12
-[04:00:03] https://dasice.cz/detska-skupina-kolousek-zminny: nedostupné nebo zakázané
-[04:00:10] https://detskaskupinabublinka.cz/programs/holice: nedostupné nebo zakázané
-[04:00:10] https://vzahradce.cz: nedostupné nebo zakázané
-[04:00:12] https://narodka.cz/montessori.html: nedostupné nebo zakázané
-[04:00:14] https://slunickopardubice.cz/centrum/stranka/duha/66: nedostupné nebo zakázané
-[04:00:39] https://safariclub.cz/ds-chocen-boruvka: 7 stránek (galerie mimo web: 0 [], alb: 0), 173 obrázků, 37 fotek ke kontrole
-[04:00:49] https://mimitabor.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 17 fotek ke kontrole
-[04:01:04] https://spolekzivo.cz/datlici: 7 stránek (galerie mimo web: 0 [], alb: 0), 186 obrázků, 41 fotek ke kontrole
-[04:01:14] https://msduhasobeslav.cz/detska-skupina-paloucek: 34 stránek (galerie mimo web: 0 [], alb: 0), 64 obrázků, 10 fotek ke kontrole
-[04:01:22] https://klubicko.zlin.eu: 6 stránek (galerie mimo web: 3 ['www.rajce.idnes.cz'], alb: 0), 18 obrázků, 12 fotek ke kontrole
-[04:01:32] https://dckvary.cz/nase-sluzby/detska-skupina-beruska: 16 stránek (galerie mimo web: 0 [], alb: 0), 14894 obrázků, 43 fotek ke kontrole
-[04:02:30] https://centrum-andilek.cz: 3 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'www.zonerama.com'], alb: 0), 49 obrázků, 7 fotek ke kontrole
-[04:02:44] tříděno 0/167
-[04:03:12] Dávka 1: hotovo 195/164, se fotkami 48; {'ok': 10, 'lide': 8, 'jine': 124, 'sablona': 0}
-[04:03:12] Konec: školek s fotkami 48; {'ok': 10, 'lide': 8, 'jine': 124, 'sablona': 0}
+[08:51:33] Část 13/20: webů 163, hotovo 195, zbývá 1
+[08:52:36] https://mshracholusky.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 214 obrázků, 25 fotek ke kontrole
+[08:54:28] tříděno 0/25
+[08:54:28] Dávka 1: hotovo 196/163, se fotkami 48; {'ok': 0, 'lide': 0, 'jine': 25, 'sablona': 0}
+[08:54:28] Konec: školek s fotkami 48; {'ok': 0, 'lide': 0, 'jine': 25, 'sablona': 0}
