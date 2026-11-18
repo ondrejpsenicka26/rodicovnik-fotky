@@ -290,6 +290,15 @@ def nacti_stranku(u, pokusy=1):
     if "photos.google.com" in f:  # sdílené album Google Fotky: fotky jsou v datech stránky
         for m in sorted(set(re.findall(r"https://lh3\.googleusercontent\.com/pw/[\w-]{30,}", doc)))[:60]:
             p.imgs.append((m + "=w1600-h1600", "", 1))
+    if "rajce" in f or "zonerama" in f:
+        # alba na Rajčeti / Zoneramě: většina fotek je jen v datech stránky (JS), ne v <img>
+        stor = re.search(r"storage\s*[=:]\s*['\"](https?://[^'\"]+)['\"]", doc)
+        if stor:
+            for fn in list(dict.fromkeys(re.findall(r"['\"]fileName['\"]\s*:\s*['\"]([^'\"]+\.jpe?g)['\"]", doc, re.I)))[:60]:
+                p.imgs.append((stor.group(1).rstrip("/") + "/images/" + fn, "", 1))
+        for m in list(dict.fromkeys(re.findall(r"https?:\\?/\\?/[\w.-]*(?:rajce\.idnes\.cz|rajce\.net|zonerama\.com)"
+                                              r"[^'\"\s<>]*?\.jpe?g", doc, re.I)))[:80]:
+            p.imgs.append((m.replace("\\/", "/"), "", 1))
     return f, p
 
 
