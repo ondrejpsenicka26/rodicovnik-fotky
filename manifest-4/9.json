@@ -253,6 +253,53 @@
 "w": 1024
 }
 ],
+"detska-skupina-jednicka-uherske-hradiste-3-ds01662": [
+{
+"alt": "",
+"barva": "#a4a4b8",
+"dh": "0080905e4bb94c4f",
+"h": 1067,
+"jistota": 0.993,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBQMC/8QAKBAAAgICAQIEBwEAAAAAAAAAAQIDBAAREgUTMUFhwRQVIUJygZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQBA//EAB0RAAICAQUAAAAAAAAAAAAAAAABAgMREhMhMUH/2gAMAwEAAhEDEQA/AM3SWlfNRx32C8tqNHXvlGrxlTku9eoIxlbs1elDNahDy9xlJYcCB5HOZasnxcjR3ispc6SUbVgAP5453ja1wwSrXhosQ1hmPdvxAIKCya+5JRo/5hi3EDQx35pTNWGeR+MUx0nNT9cWs244rkbNIggMjFnLaA2gA98idQJTp3To1JCqWIH7xrp0aWLyRTKHQEEKfwOTdFOCxyqkDjYTXpIMMg1q8MklkPGrcJ2VdjwA8sMWDD//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsjednicka.cz/galerie/detail/testovaci-galerie-2",
+"typ": "budova",
+"url": "https://dsjednicka.cz/content/galleries/4/4_18.jpg",
+"w": 800
+}
+],
+"detska-skupina-motylci-liptal-ds10910": [
+{
+"alt": "",
+"barva": "#8b9478",
+"dh": "cd0d061f9e4f2d07",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQH/xAAjEAABBAEEAQUAAAAAAAAAAAABAAIDEQQFEiFBIjFRYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARMhAv/aAAwDAQACEQMRAD8Acx9Sy5trjiNs9NdRA+QnDqQ22+F7T7WFAbmS2CD5DkG1j8l7h0eK7UrpGLJ1uJpqSCYH7b6fqFAdLJdB7wBwAHnhCLehj//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsliptal.cz/o-skole/fotogalerie/pripravna-trida-spolecne-s-ms-794cs.html",
+"typ": "budova",
+"url": "https://www.zsliptal.cz/data/headerfooter/header_images/foto-skola.JPG",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#6e714f",
+"dh": "3ffcac8c1b356934",
+"h": 900,
+"jistota": 0.868,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsliptal.cz/o-skole/fotogalerie/prohlidka-skoly/prohlidka-skoly-413cs.html",
+"typ": "budova",
+"url": "https://www.zsliptal.cz/evt_image.php?img=4948",
+"w": 1200
+}
+],
 "detska-skupina-ostruvek-poznani-ds01829": [
 {
 "alt": "",
@@ -323,6 +370,62 @@
 "stranka": "https://sovickybilovec.cz/",
 "typ": "interier",
 "url": "https://sovickybilovec.cz/wp-content/uploads/2025/04/1_6E9A7551-scaled.jpg",
+"w": 1200
+}
+],
+"detska-skupina-sportacek-ds01378": [
+{
+"alt": "",
+"barva": "#88776d",
+"dh": "ffeefa80cfd51139",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAIhAAAQQCAQQDAAAAAAAAAAAAAQIDBBEABRITISJBMYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhFB/9oADAMBAAIRAxEAPwBJm62HXcaSl2gogBugP33ma9s+bTEUL9rs4ati/KShXWdACarl7+LxdfKXMkmMp98FQ5hZWTXFVV94HT4NStNUPXSltEzUOhzl2DdAVlir1rhcWQ+rjfj5qsDLDrHko//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.materske-centrum.cz/o-nas/jak-to-u-nas-vypada/",
+"typ": "budova",
+"url": "https://www.materske-centrum.cz/wp-content/uploads/2024/02/IMG_8908-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#99876f",
+"dh": "a7b431b39b3fa163",
+"h": 900,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.materske-centrum.cz/sportacek/",
+"typ": "interier",
+"url": "https://www.materske-centrum.cz/wp-content/uploads/2022/08/6E47A6B5-9D72-48C1-BA97-9F531B125344.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9a956c",
+"dh": "d8e8f8e06c634fcc",
+"h": 900,
+"jistota": 0.997,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.materske-centrum.cz/sportacek/",
+"typ": "interier",
+"url": "https://www.materske-centrum.cz/wp-content/uploads/2022/08/98D1E7BC-3C49-49DE-867B-D5ACDE92D0F3.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9f978b",
+"dh": "10105153516b3616",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.materske-centrum.cz/sportacek/",
+"typ": "hygiena",
+"url": "https://www.materske-centrum.cz/wp-content/uploads/2022/08/181F6C72-BA36-4877-B62A-9155543FEEAB.jpeg",
 "w": 1200
 }
 ],
@@ -1205,6 +1308,62 @@
 "typ": "budova",
 "url": "https://cbe53df718.clvaw-cdnwnd.com/b32769f61797b8408ceb1a63f2d9edc6/200003947-7857078572/IMG_0530.jpeg?ph=cbe53df718",
 "w": 900
+}
+],
+"sqs-vzdelavaci-centrum-detska-skupina-saurus-ds01170": [
+{
+"alt": "",
+"barva": "#6f6f6e",
+"dh": "0342949593b37860",
+"h": 900,
+"jistota": 0.948,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAIhAAAgIDAAEEAwAAAAAAAAAAAQIDEQAEEiETIjFRQXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAYEQEBAAMAAAAAAAAAAAAAAAAAEQECUf/aAAwDAQACEQMRAD8Aza6Fd59VNmdCgvpgrA+a+rx9ba2F9NodkW8nAuIXdkfg/HjDGxEk77EUpMrJzQFYK7WyD7GNeK6az/axcF26R5nLEyyyNJZ6PbCzf7yzFJrSSN01E/fRyyUj/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://sqs-saurus.cz/prohlidka-skolky",
+"typ": "budova",
+"url": "https://sqs-saurus.cz/images/skolka/faze-provozu/IMG_20200718_082636.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7b7e78",
+"dh": "bb937db5b5f4fcdc",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://sqs-saurus.cz/prohlidka-skolky",
+"typ": "interier",
+"url": "https://sqs-saurus.cz/images/skolka/faze-provozu/20200720_093705_2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#737f66",
+"dh": "e5ef89db97360e07",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://sqs-saurus.cz/prohlidka-skolky",
+"typ": "zahrada",
+"url": "https://sqs-saurus.cz/images/skolka/faze-provozu/20200720_113317.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7683a3",
+"dh": "1c4c4c14240c0303",
+"h": 803,
+"jistota": 0.994,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://sqs-saurus.cz/prohlidka-skolky",
+"typ": "budova",
+"url": "https://sqs-saurus.cz/images/skolka/finalni-exterier/DSC_0538-skolka.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-belcice-534690": [

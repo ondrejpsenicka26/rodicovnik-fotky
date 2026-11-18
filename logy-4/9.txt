@@ -1,9 +1,10 @@
-[02:14:02] Část 10/20: webů 145, hotovo 162, zbývá 5
-[02:14:13] https://sovickamost.cz/spirala-pampeliska-zvonecek: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 2 fotek ke kontrole
-[02:14:27] https://rymarov.diakonie.cz/sluzbav2/detska-skupina-sovicka: 5 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 9 fotek ke kontrole
-[02:14:30] https://dsbublinka.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 16 fotek ke kontrole
-[02:15:45] https://sovickybilovec.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
-[02:16:48] https://ostruvekpoznani.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 58 obrázků, 25 fotek ke kontrole
-[02:17:03] tříděno 0/61
-[02:17:10] Dávka 1: hotovo 167/145, se fotkami 38; {'ok': 8, 'lide': 6, 'jine': 39, 'sablona': 0}
-[02:17:10] Konec: školek s fotkami 38; {'ok': 8, 'lide': 6, 'jine': 39, 'sablona': 0}
+[04:00:05] Část 10/20: webů 148, hotovo 167, zbývá 6
+[04:00:38] https://detskaskupinapaviocko.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 2 fotek ke kontrole
+[04:00:47] https://litomysl.charita.cz/jak-pomahame/dobrovolnicke-centrum/detska-skupina-tulipanek-a-kvitecek: 8 stránek (galerie mimo web: 0 [], alb: 0), 154 obrázků, 44 fotek ke kontrole
+[04:00:47] https://zsliptal.cz/o-skole/detska-skupina-motylci: 14 stránek (galerie mimo web: 0 [], alb: 0), 99 obrázků, 8 fotek ke kontrole
+[04:00:48] https://dsjednicka.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 148 obrázků, 23 fotek ke kontrole
+[04:00:51] https://materske-centrum.cz/sportacek: 4 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 34 fotek ke kontrole
+[04:01:07] https://sqs-saurus.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 282 obrázků, 45 fotek ke kontrole
+[04:01:20] tříděno 0/156
+[04:01:48] Dávka 1: hotovo 173/148, se fotkami 42; {'ok': 11, 'lide': 5, 'jine': 85, 'sablona': 0}
+[04:01:48] Konec: školek s fotkami 42; {'ok': 11, 'lide': 5, 'jine': 85, 'sablona': 0}
