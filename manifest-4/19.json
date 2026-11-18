@@ -1,4 +1,120 @@
 {
+"detska-skupina-bibouch-ds02048": [
+{
+"alt": "",
+"barva": "#887d6f",
+"dh": "b4b4a29aa2a7b3da",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAlEAABBAAFBAMBAAAAAAAAAAABAAIDEQQFEiExIzJRYRMicdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAZEQADAQEBAAAAAAAAAAAAAAAAARExAlH/2gAMAwEAAhEDEQA/AGOzeMzzNjkkadwNJIog87LHHmTtFSvmc8usAPPH4ujJIIpZzA2MND9ugDfndRG9j2h00cbS81IRBVeEbtLXS8ZqyjGMlwz36pGAyGmyEkgbIq8BioGwFoAtrjdNoXz59oqMqNbspw1vd1OSe47qlmXQQ4qb49YA+os3tXtERiQQZfCGHuNn1/EREqwJ6f/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://bibouch.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://bibouch.cz/wp-content/uploads/2024/06/IMG_0765.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#937f6a",
+"dh": "045193cc1d196dc3",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://bibouch.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://bibouch.cz/wp-content/uploads/2024/06/IMG_0689.jpg",
+"w": 1200
+}
+],
+"detska-skupina-bublihafik-1-ds01645": [
+{
+"alt": "Pobočka Sokolnice – herna dětské skupiny",
+"barva": "#a5a59f",
+"dh": "d2d6363e2b2cb486",
+"h": 526,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACIQAAICAAUFAQAAAAAAAAAAAAECAAMREiExUQQiNXHBQf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAACEhH/2gAMAwEAAhEDEQA/AGGeutgxdQ6dw5E5V6qpawc4wbXMeT+aQm7yK+m+Tc7SdZwFahWpjYpKlSAcARKHU7N7+CUKNyf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://bublihafik.cz/nase-prostory/",
+"typ": "interier",
+"url": "https://bublihafik.cz/images/prostory-sokolnice-main.webp",
+"w": 1200
+},
+{
+"alt": "Pobočka Sokolnice – celkový pohled do herny se stolečkem",
+"barva": "#968b81",
+"dh": "b1181818a92e5e00",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://bublihafik.cz/nase-prostory/",
+"typ": "interier",
+"url": "https://bublihafik.cz/images/prostory-sokolnice-4.webp",
+"w": 1200
+},
+{
+"alt": "Pobočka Sokolnice – dětská koupelna a toalety",
+"barva": "#a7a092",
+"dh": "181819099192d6a2",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://bublihafik.cz/nase-prostory/",
+"typ": "hygiena",
+"url": "https://bublihafik.cz/images/prostory-sokolnice-5.webp",
+"w": 900
+}
+],
+"detska-skupina-cesticka-ds01777": [
+{
+"alt": "",
+"barva": "#b1a492",
+"dh": "f6df37e0a2818012",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAUGAgME/8QAJRAAAgICAQMDBQAAAAAAAAAAAQIAAxEhBBITQSJhkQUxUVJx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAGREBAAMBAQAAAAAAAAAAAAAAAAERQQIS/9oADAMBAAIRAxEAPwCwPym2WIqUZyT7fiR1n1CxkPaBYYIL9OWzvGvj2mFvOr5HJuqTrPq+50ufM6ONUUIaz1MfI0PiFa6Va2/mq5W7jWMy6Bspy2P75iXRDaBpVIz+2IjR3I/MIbgqrWuxAJ7hElahhivjGN7iJnw+tqElAYiIon//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dscesticka.cz/",
+"typ": "interier",
+"url": "https://dscesticka.cz/ws/media-library/f4f94a63941d4e67a148f1faefcf9189/img_2370-2_optimized.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b3a798",
+"dh": "9b9a41dc1ecec9e8",
+"h": 1200,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dscesticka.cz/",
+"typ": "interier",
+"url": "https://dscesticka.cz/ws/media-library/b5634c8e86394a9db99a3a83793eb525/img_2337_optimized.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#97978c",
+"dh": "7616998443263238",
+"h": 555,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dscesticka.cz/",
+"typ": "hygiena",
+"url": "https://dscesticka.cz/ws/resized-images/2777fc5f7e144112ba27cde463f04479/img_3567.jpg",
+"w": 740
+}
+],
 "detska-skupina-duhovka-i-ds11124": [
 {
 "alt": "",
@@ -648,6 +764,23 @@
 "w": 900
 }
 ],
+"detska-skupina-rybicky-ds00597": [
+{
+"alt": "og",
+"barva": "#717883",
+"dh": "6fb1b196868e52c8",
+"h": 467,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMAESEEBRITFEFRMTLR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESEf/aAAwDAQACEQMRAD8ARw0aySK6KAlh9DgmmdrpokeSeNAik5AtinHayhumoYMcsxUHlWzt8jjjLqmdD8rwGR6rVIksmWDb5LlYA1j4Jx59UVdFoOmpHWc3NybD8opSGM//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsrybicky.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://5544843d91.clvaw-cdnwnd.com/1c8387ca3a6ae4ae3f5032333f7df108/200000034-c7bf1c7bf4/700/FACE7935_1.jpeg?ph=5544843d91",
+"w": 700
+}
+],
 "detska-skupina-skolka-na-hrazi-ds00588": [
 {
 "alt": "",
@@ -705,6 +838,36 @@
 "stranka": "https://www.skritkove.cz/",
 "typ": "hygiena",
 "url": "https://2c51029d8b.clvaw-cdnwnd.com/e356aad6c64c49ed3031ea6deef28d97/200000102-07c3d07c40/WhatsApp%20Image%202025-06-13%20at%2017.11.44.jpeg?ph=2c51029d8b",
+"w": 1200
+}
+],
+"detska-skupina-stepanek-ds01983": [
+{
+"alt": "",
+"barva": "#a39c91",
+"dh": "e5b6f0b8989c3797",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUDBP/EAB8QAQACAgICAwAAAAAAAAAAAAECAwARBCETMTJBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAAIDAAAAAAAAAAAAAAAAAAECERJB/9oADAMBAAIRAxEAPwChYyutmRQQO/enMaXk8VjVKPmgu2zetYtWNqR6NHRjace1F+OTFenLujOGu5G/3GROQpZ19hjJ3D//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsstepanek.cz/",
+"typ": "interier",
+"url": "https://dsstepanek.cz/wp-content/uploads/2023/12/gallery-3-1200x600-original.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a6a092",
+"dh": "d2d25858e41a67e5",
+"h": 600,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsstepanek.cz/",
+"typ": "interier",
+"url": "https://dsstepanek.cz/wp-content/uploads/2023/12/gallery-4-1200x600-original.jpg",
 "w": 1200
 }
 ],

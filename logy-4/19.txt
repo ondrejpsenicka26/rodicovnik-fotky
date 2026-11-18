@@ -1,11 +1,13 @@
-[11:38:28] Část 20/20: webů 165, hotovo 203, zbývá 7
-[11:38:34] https://ms-lucni.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[11:38:38] https://msbroucek.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 0 fotek ke kontrole
-[11:38:40] https://mspozorice.webnode.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[11:39:29] https://www.msbubovice.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 269 obrázků, 3 fotek ke kontrole
-[11:39:31] https://ms-medlovice.webnode.cz: 26 stránek (galerie mimo web: 2 ['msmedlovice.rajce.idnes.cz'], alb: 0), 6 obrázků, 0 fotek ke kontrole
-[11:40:05] https://ms-staremesto.cz: nedostupné nebo zakázané
-[11:41:10] https://msvamberk.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 11 fotek ke kontrole
-[11:41:22] tříděno 0/14
-[11:41:22] Dávka 1: hotovo 210/165, se fotkami 70; {'ok': 1, 'lide': 0, 'jine': 13, 'sablona': 0}
-[11:41:22] Konec: školek s fotkami 70; {'ok': 1, 'lide': 0, 'jine': 13, 'sablona': 0}
+[11:45:24] Část 20/20: webů 174, hotovo 210, zbývá 9
+[11:45:36] https://www.dskosticka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
+[11:45:38] https://www.dsrybicky.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 6 fotek ke kontrole
+[11:45:38] https://dshousenky.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
+[11:45:56] https://www.uzasnakov.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 7 fotek ke kontrole
+[11:46:03] https://dscesticka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 27 fotek ke kontrole
+[11:46:22] https://bublihafik.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 7 fotek ke kontrole
+[11:46:46] https://bibouch.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 66 obrázků, 37 fotek ke kontrole
+[11:46:59] https://dsstepanek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 9 fotek ke kontrole
+[11:47:01] https://www.dshnizdecko.cz: nedostupné nebo zakázané
+[11:47:24] tříděno 0/95
+[11:47:39] Dávka 1: hotovo 219/174, se fotkami 75; {'ok': 11, 'lide': 11, 'jine': 36, 'sablona': 0}
+[11:47:39] Konec: školek s fotkami 75; {'ok': 11, 'lide': 11, 'jine': 36, 'sablona': 0}
