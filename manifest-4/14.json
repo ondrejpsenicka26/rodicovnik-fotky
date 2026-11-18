@@ -923,6 +923,36 @@
 "w": 801
 }
 ],
+"materska-skola-lentilka-590328": [
+{
+"alt": "",
+"barva": "#8e6c56",
+"dh": "7e7f5b5f9fcf8e8c",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwb/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMABBEFEiFhEyJBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAGREAAwADAAAAAAAAAAAAAAAAAAECEiIx/9oADAMBAAIRAxEAPwB6LUbRkgSMszMTvUISyd1Rd3UUbndHJs59mGBj5WdnvHa9Z7VvCgPrgcjv9p2W7d1AkOTihpOl0eUkS2pxA43oexRSzRDPPGfgoosIL2P/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mslentilka.cz/tridy/",
+"typ": "interier",
+"url": "https://www.mslentilka.cz/wp-content/uploads/2024/05/20240409_142517-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#846e57",
+"dh": "17969e0e3f3f0f0f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mslentilka.cz/tridy/",
+"typ": "interier",
+"url": "https://www.mslentilka.cz/wp-content/uploads/2025/08/20240831_160358-scaled.jpg",
+"w": 1200
+}
+],
 "materska-skola-letovice-127296": [
 {
 "alt": "og",
@@ -1301,6 +1331,36 @@
 "w": 1200
 }
 ],
+"materska-skola-stare-mesto-612755": [
+{
+"alt": "",
+"barva": "#918267",
+"dh": "3e1e383cbdbe1eff",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAhEAACAgIBBAMAAAAAAAAAAAABAgMRAAQSBSEyQTFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEBAAICAwAAAAAAAAAAAAAAAQAhAlEDEhP/2gAMAwEAAhEDEQA/AH9TqEMiSclYOp8R3vOGxvRrLTROoPurzCdOaKSVxLfM3VdhiG10xCxPJj9k/OQDFLZVXtRUpLPrsoIlT9NYZMgKxpxlUuwPkfeGHyNwvI6n/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-komenskeho.cz/l/zvelebovani-vnitrnich-prostor-ms/",
+"typ": "interier",
+"url": "https://a2d7d117d2.clvaw-cdnwnd.com/7710ec399681c86666cca15aac2d4d1a/200000985-ace23ace25/IMG_20201212_164848.jpg?ph=a2d7d117d2",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c8270",
+"dh": "bcbdbf399cbda63e",
+"h": 900,
+"jistota": 0.97,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-komenskeho.cz/l/zvelebovani-vnitrnich-prostor-ms/",
+"typ": "interier",
+"url": "https://a2d7d117d2.clvaw-cdnwnd.com/7710ec399681c86666cca15aac2d4d1a/200000984-3b9ec3b9ef/IMG_20201211_212848.jpg?ph=a2d7d117d2",
+"w": 1200
+}
+],
 "materska-skola-trebic-611635": [
 {
 "alt": "og",
@@ -1332,6 +1392,36 @@
 "stranka": "https://www.mstrebic.cz/zahrada/zahrada-6074099-6",
 "typ": "les",
 "url": "http://www.mstrebic.cz/image.php?oid=6313995",
+"w": 1200
+}
+],
+"materska-skola-usti-nad-orlici-590255": [
+{
+"alt": "web1",
+"barva": "#827c69",
+"dh": "bbf786ceafd3782c",
+"h": 677,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMAESEEEjFBBQZxgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQEBAAMBAAAAAAAAAAAAAAABABIhMfD/2gAMAwEAAhEDEQA/ANc3s+pWQqYogewVNx+5qEvlFnV2O8sVuSo4HdcpHYxC5J+aQ4XeMNbqs8l5ICfU67Rwy2nSfewDc3wfuiqtK+Mg4HIBoo781v/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkanavysluni.cz/o-nas/",
+"typ": "budova",
+"url": "https://skolkanavysluni.cz/wp-content/uploads/2020/02/web1.jpg",
+"w": 1200
+},
+{
+"alt": "web2",
+"barva": "#847341",
+"dh": "1195818991919ff3",
+"h": 677,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkanavysluni.cz/o-nas/",
+"typ": "budova",
+"url": "https://skolkanavysluni.cz/wp-content/uploads/2020/02/web2.jpg",
 "w": 1200
 }
 ],
@@ -1655,6 +1745,79 @@
 "typ": "hygiena",
 "url": "https://www.mszidlochovice.cz/img/content/rekonstrukce/rekonstrukce-skolka-41_b.jpg",
 "w": 1000
+}
+],
+"materska-skola-zlin-191127": [
+{
+"alt": "",
+"barva": "#d1bc9f",
+"dh": "292d3fb691638127",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACUQAAIBAwIFBQAAAAAAAAAAAAIDAQAEESEiEhMxQbEFI1Fhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACEQMSMf/aAAwDAQACEQMRAD8A0K/VUExigFjDnEwIrnzSmXpkMSpB5gpiAxrOk9qRbsO6VBmXCvste0f35q4Y5SYkcYx0jSgb2zWL1DyRg+4ZxE9XJnO0frHXzRS7r3WQUbduMdaKF56jLKOT/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msbudovatelska.cz/tridy-ms/1-trida-mysicky/",
+"typ": "interier",
+"url": "https://msbudovatelska.cz/wp-content/uploads/2020/09/1-mysicky-galerie-03.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#d3b593",
+"dh": "192348543dced3c2",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msbudovatelska.cz/tridy-ms/1-trida-mysicky/",
+"typ": "interier",
+"url": "https://msbudovatelska.cz/wp-content/uploads/2020/09/1-mysicky-galerie-16.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#bbb6b2",
+"dh": "5ce563638d1e38e3",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msbudovatelska.cz/tridy-ms/1-trida-mysicky/",
+"typ": "hygiena",
+"url": "https://msbudovatelska.cz/wp-content/uploads/2020/09/1-mysicky-galerie-09.jpg",
+"w": 1198
+}
+],
+"materska-skola-zlin-619348": [
+{
+"alt": "",
+"barva": "#746e5c",
+"dh": "4f6c939347030307",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACUQAAICAgEBCQEAAAAAAAAAAAECAxEABDESBRMhIkFCUWFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABESEx/9oADAMBAAIRAxEAPwBODeSSQRqwjPUKZrN39DHxsxSL470Mde4KfN/Mi6ux3ZQ9IJXixxlIdsuEqhX5mar6U4ZE+k7MZNkuQaDfIwyRt3PsNIG59COMMQYf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msstefanikova.cz/fotogalerie",
+"typ": "interier",
+"url": "https://www.msstefanikova.cz/uploads/galerie/1/6a9ffac2678dd2.12353843.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#857b67",
+"dh": "292829a43c392707",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msstefanikova.cz/fotogalerie",
+"typ": "interier",
+"url": "https://www.msstefanikova.cz/uploads/galerie/1/6a9ffac5bf1911.51977448.webp",
+"w": 1200
 }
 ],
 "materska-skola-zlonin-077795": [

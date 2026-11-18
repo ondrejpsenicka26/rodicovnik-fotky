@@ -1,13 +1,9 @@
-[11:04:07] Část 15/20: webů 169, hotovo 206, zbývá 9
-[11:04:23] https://www.skolkakaliste.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 0 fotek ke kontrole
-[11:04:31] https://www.mszarici.cz: 8 stránek (galerie mimo web: 1 ['mszarici.rajce.idnes.cz'], alb: 1), 9 obrázků, 3 fotek ke kontrole
-[11:04:46] https://www.msviden.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 4 fotek ke kontrole
-[11:04:54] https://ms-malebrezno.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 249 obrázků, 15 fotek ke kontrole
-[11:05:13] https://www.zsamsjarcova.cz: 34 stránek (galerie mimo web: 1 ['skolavp.rajce.idnes.cz'], alb: 0), 216 obrázků, 1 fotek ke kontrole
-[11:05:19] https://www.mstrebic.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 57 obrázků, 5 fotek ke kontrole
-[11:05:30] https://www.msdolnidobrouc.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 544 obrázků, 8 fotek ke kontrole
-[11:07:11] https://msjersin.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 101 obrázků, 26 fotek ke kontrole
-[11:07:19] https://zsmsdalecin.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 105 obrázků, 27 fotek ke kontrole
-[11:07:57] tříděno 0/89
-[11:08:08] Dávka 1: hotovo 215/169, se fotkami 70; {'ok': 10, 'lide': 5, 'jine': 52, 'sablona': 0}
-[11:08:08] Konec: školek s fotkami 70; {'ok': 10, 'lide': 5, 'jine': 52, 'sablona': 0}
+[11:38:41] Část 15/20: webů 171, hotovo 215, zbývá 5
+[11:39:19] https://www.msstefanikova.cz: 9 stránek (galerie mimo web: 3 ['www.kocky31.zonerama.com', 'www.motylci4.zonerama.com', 'www.ptaci2.zonerama.com'], alb: 1), 17 obrázků, 12 fotek ke kontrole
+[11:39:52] https://www.ms-komenskeho.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 87 obrázků, 37 fotek ke kontrole
+[11:40:24] https://skolkanavysluni.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 71 obrázků, 27 fotek ke kontrole
+[11:40:25] https://msbudovatelska.cz: 30 stránek (galerie mimo web: 15 ['beruskyzlin.rajce.idnes.cz', 'budov.rajce.idnes.cz', 'jezecci-budovatelska.rajce.idnes.cz'], alb: 1), 408 obrázků, 42 fotek ke kontrole
+[11:40:40] https://www.mslentilka.cz: 24 stránek (galerie mimo web: 6 ['mslentilka.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 0), 52 obrázků, 29 fotek ke kontrole
+[11:40:59] tříděno 0/147
+[11:41:21] Dávka 1: hotovo 220/171, se fotkami 75; {'ok': 11, 'lide': 4, 'jine': 99, 'sablona': 0}
+[11:41:21] Konec: školek s fotkami 75; {'ok': 11, 'lide': 4, 'jine': 99, 'sablona': 0}
