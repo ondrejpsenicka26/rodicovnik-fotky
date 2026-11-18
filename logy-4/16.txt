@@ -1,18 +1,2 @@
-[09:22:36] Část 17/20: webů 171, hotovo 183, zbývá 14
-[09:22:50] https://skolaulibice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 2 fotek ke kontrole
-[09:23:02] https://msnovosedly.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 0 fotek ke kontrole
-[09:23:08] https://msskorepka.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
-[09:23:18] https://mscetkovice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 22 fotek ke kontrole
-[09:23:22] https://ms-strachotin.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 1 fotek ke kontrole
-[09:23:28] https://mskynsperk.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 25 fotek ke kontrole
-[09:23:29] https://skolka-mezimesti.cz: 11 stránek (galerie mimo web: 4 ['eu.zonerama.com'], alb: 4), 10 obrázků, 4 fotek ke kontrole
-[09:23:33] https://zslibcany.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 1 fotek ke kontrole
-[09:23:53] https://msvelkopavlovicka15.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 47 obrázků, 4 fotek ke kontrole
-[09:23:59] https://starypetrin.cz/obec/materska-skola/o-nasi-materske-skole: 34 stránek (galerie mimo web: 0 [], alb: 0), 172 obrázků, 19 fotek ke kontrole
-[09:24:01] https://msdobrinsko.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 50 obrázků, 3 fotek ke kontrole
-[09:24:04] https://ms-smirice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 3 fotek ke kontrole
-[09:24:27] https://zskanice.cz: nedostupné nebo zakázané
-[09:24:47] https://zsamspernink.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 4 fotek ke kontrole
-[09:25:05] tříděno 0/90
-[09:25:15] Dávka 1: hotovo 197/171, se fotkami 49; {'ok': 16, 'lide': 6, 'jine': 59, 'sablona': 0}
-[09:25:15] Konec: školek s fotkami 49; {'ok': 16, 'lide': 6, 'jine': 59, 'sablona': 0}
+[09:44:20] Část 17/20: webů 165, hotovo 197, zbývá 0
+[09:44:20] Konec: školek s fotkami 49; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
