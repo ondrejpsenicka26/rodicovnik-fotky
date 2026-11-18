@@ -1,2 +1,5 @@
-[12:06:24] Část 13/20: webů 183, hotovo 225, zbývá 0
-[12:06:24] Konec: školek s fotkami 58; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:12:56] Část 13/20: webů 183, hotovo 225, zbývá 1
+[12:16:56] https://priluka.cz/materska-skola: 34 stránek (galerie mimo web: 0 [], alb: 0), 124 obrázků, 17 fotek ke kontrole
+[12:17:11] tříděno 0/17
+[12:17:11] Dávka 1: hotovo 226/183, se fotkami 59; {'ok': 4, 'lide': 0, 'jine': 8, 'sablona': 0}
+[12:17:11] Konec: školek s fotkami 59; {'ok': 4, 'lide': 0, 'jine': 8, 'sablona': 0}

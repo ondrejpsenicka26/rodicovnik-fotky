@@ -1491,6 +1491,62 @@
 "w": 1200
 }
 ],
+"materska-skola-priluka-587228": [
+{
+"alt": "Staronová školní zahrada",
+"barva": "#81796f",
+"dh": "1d2b938a4e8e97d0",
+"h": 576,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACIQAAICAQMEAwAAAAAAAAAAAAECAwQAESExBRJRgRUiYf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhIxEf/aAAwDAQACEQMRAD8Ai6P1uzUnERkmkjchdx3dp15AOb9nqCxoXtK0ir9t1HPHvMWetEjKVXQk+TiTGpG4194FJ6h8WMtf46/K9ia1MjMeOweBhiBRrkamPc/pwyuZU//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://priluka.cz/kultura-a-zivot-v-obci/rekonstrukce-zahrady-v-ms/galerie-staronova-skolni-zahrada/",
+"typ": "budova",
+"url": "https://priluka.cz/soubory-galerie/fotky/foto-13(3).jpg",
+"w": 1024
+},
+{
+"alt": "Staronová školní zahrada",
+"barva": "#6d714a",
+"dh": "9a9ecfa5b4cb2a24",
+"h": 720,
+"jistota": 0.941,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://priluka.cz/kultura-a-zivot-v-obci/rekonstrukce-zahrady-v-ms/galerie-staronova-skolni-zahrada/",
+"typ": "zahrada",
+"url": "https://priluka.cz/soubory-galerie/fotky/foto-12(3).jpg",
+"w": 960
+},
+{
+"alt": "Staronová školní zahrada",
+"barva": "#676649",
+"dh": "f5b60b3d2c65f4d5",
+"h": 720,
+"jistota": 0.98,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://priluka.cz/kultura-a-zivot-v-obci/rekonstrukce-zahrady-v-ms/galerie-staronova-skolni-zahrada/",
+"typ": "les",
+"url": "https://priluka.cz/soubory-galerie/fotky/foto-08(3).jpg",
+"w": 960
+},
+{
+"alt": "Rekonstrukce oplocení zahrady u mateřské školy",
+"barva": "#867b6c",
+"dh": "e2f0faf0b151c1c3",
+"h": 472,
+"jistota": 0.979,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://priluka.cz/kultura-a-zivot-v-obci/rekonstrukce-oploceni-u-ms/galerie-rekonstrukce-oploceni-zahrady-u-materske-skoly/",
+"typ": "budova",
+"url": "https://priluka.cz/soubory-galerie/fotky/foto-06(9).jpg",
+"w": 1024
+}
+],
 "materska-skola-puskinova-614031": [
 {
 "alt": "og",
