@@ -55,6 +55,62 @@
 "w": 1200
 }
 ],
+"carlsbad-montessori-school-detska-skupina-ds02046": [
+{
+"alt": "",
+"barva": "#8e9365",
+"dh": "90c2617c74feb062",
+"h": 654,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMAERIEEyFBMVEFFKH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHREAAgIBBQAAAAAAAAAAAAAAAAIBAxITITFCUf/aAAwDAQACEQMRAD8A7J4IpAHV3iYgscQCDc9j3Sd/ZuUQy2sCMMT557qPLPIEyzN/P7Vn4bSwzwM8ybjAcZEnr1WRLrV2iQ4K88GzrGAUqG5FzdBein6WJPrRnBeVHVFNqWT2KYL4f//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://carlsbadmontessori.cz/new-fotogalerie/",
+"typ": "budova",
+"url": "https://carlsbadmontessori.cz/wp-content/uploads/2026/10/Toscana-II-1.png",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#92867a",
+"dh": "dbc9f2d6c49199bb",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://carlsbadmontessori.cz/new-fotogalerie/",
+"typ": "interier",
+"url": "https://carlsbadmontessori.cz/wp-content/uploads/2026/10/CMS-3.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#727e6e",
+"dh": "f77f9cf874ca6c8d",
+"h": 900,
+"jistota": 0.904,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://carlsbadmontessori.cz/new-fotogalerie/",
+"typ": "zahrada",
+"url": "https://carlsbadmontessori.cz/wp-content/uploads/2026/10/CMS-4.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#908880",
+"dh": "573f4e4f6f750e87",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://carlsbadmontessori.cz/new-fotogalerie/",
+"typ": "interier",
+"url": "https://carlsbadmontessori.cz/wp-content/uploads/2026/10/Class-9.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-ctyrlistek-mini-iv-ds10754": [
 {
 "alt": "",
@@ -111,6 +167,23 @@
 "w": 1152
 }
 ],
+"detska-skupina-dobra-voda-ds01770": [
+{
+"alt": "",
+"barva": "#7a7b79",
+"dh": "d1cbc33196b60a7c",
+"h": 675,
+"jistota": 0.711,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAGAwQF/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDABEhBAYSIoEUFjFBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEBAQADAAAAAAAAAAAAAAAAABEBEiH/2gAMAwEAAhEDEQA/AJfcup1Ew4yLEY8hSlr4zfORVmPeACEvGvUG5U/NL00aRjqoHi9Z80zg44j8UU7gpobc/qJHljMgRj1Aa30KKWojZAAAPAoq7JH/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dobravodauhoric.cz/stavba-splaskove-kanalizace-a-cov/",
+"typ": "zahrada",
+"url": "https://dobravodauhoric.cz/fotky/780/1667404507_636292dbb048c.jpg",
+"w": 1200
+}
+],
 "detska-skupina-klub-quiq-ds01004": [
 {
 "alt": "og",
@@ -126,6 +199,49 @@
 "typ": "les",
 "url": "https://ed7a1b889b.clvaw-cdnwnd.com/bd90a25cb9c4e310d653e9aaca8d1b92/200002497-d9bead9bec/700/IMG_9081.jpg?ph=ed7a1b889b",
 "w": 700
+}
+],
+"detska-skupina-kocicky-ds02351": [
+{
+"alt": "Fotografie z galerie",
+"barva": "#8c7a75",
+"dh": "3b27b6b33117363e",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAiEAACAgICAQUBAAAAAAAAAAABAgMRAAQSEyIhMUFRcbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAxEhQf/aAAwDAQACEQMRAD8A6NJF2pHii5Fk9+VZmHontYzbgkeQoE5O0uqIebyFvsGsbFtaOujMsUveCWV+dgGv5gwdyjr4PCel9aD9N4ZJE+y6hiUsj5wzO67fGUTgf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsbylany.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.dsbylany.cz/photo/zabicky/original/20250807-zabicky-3.webp",
+"w": 1200
+},
+{
+"alt": "Fotografie z galerie",
+"barva": "#676d6c",
+"dh": "7e7c6c6c18c27232",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsbylany.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.dsbylany.cz/photo/mysicky/original/20250807-mysicky-1.webp",
+"w": 900
+},
+{
+"alt": "Fotografie z galerie",
+"barva": "#726f6b",
+"dh": "c069e961594b8666",
+"h": 1200,
+"jistota": 0.997,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dsbylany.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://www.dsbylany.cz/photo/mysicky/original/20250807-mysicky-6.webp",
+"w": 900
 }
 ],
 "detska-skupina-little-mice-2-ds02000": [
@@ -159,6 +275,23 @@
 "stranka": "https://www.mali-cestovatele.cz/fotogalerie2/",
 "typ": "interier",
 "url": "https://af921192c2.clvaw-cdnwnd.com/f22bbc4edf1ba0e8849b3654b1fa6968/200000182-00ab700aba/700/DD1B4D17-F806-40D2-BEF1-FCFEA2316924.jpeg?ph=af921192c2",
+"w": 700
+}
+],
+"detska-skupina-mesta-kromerize-ds01024": [
+{
+"alt": "og",
+"barva": "#737f5f",
+"dh": "e565ef8fd131015e",
+"h": 700,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAFAAUAwEiAAIRAQMRAf/EABoAAQADAAMAAAAAAAAAAAAAAAACAwQBBQb/xAAoEAACAQQBAgQHAAAAAAAAAAABAgMABBEhEgUTFCJBoSMxMlFhcZH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEDIQIREjH/2gAMAwEAAhEDEQA/AKLnp8ioEkCd1WI5I4+n7YqV1HH4CGBYfiBfM/LOcbHua09m2Z+Ss0bZwSp+f9qdrZrdy8XldFB0WKgkfqoKRN0LijzlzEJZi0ahRoEDW/Wldr1WzFvesiIjDAOc4z70oFpmSGRu8qaxgMT6nP5rmRyHONYOqUqsXgZFbHkcnZpSlUMn/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msmanesovakromeriz.cz/fotogalerie-ds/",
+"typ": "budova",
+"url": "https://a32787f038.clvaw-cdnwnd.com/18e44a613b0f52b517d83b96f07aa8a0/200000430-0ec530ec55/700/IMG20220615134055-5.jpeg?ph=a32787f038",
 "w": 700
 }
 ],
@@ -222,6 +355,23 @@
 "w": 1200
 }
 ],
+"detska-skupina-slunecnice-ds00434": [
+{
+"alt": "Každý jsme jiný, přesto jsme stejní.",
+"barva": "#83878b",
+"dh": "9df383bb8623b3f8",
+"h": 669,
+"jistota": 0.99,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwAEERIhMQUTI1FBgbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEAAwAAAAAAAAAAAAAAAAARISJR/9oADAMBAAIRAxEAPwBwdSWSRu3NGoG+pWUfprTeCTZpdY5PmBI9bVEv4I7d27K6cj4pKC4lhl8blcqQfpqbRFh7u9Z2KXLICTwcZ35opJ7iVsFmycehRUbdOH//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msslunecnice.cz/",
+"typ": "budova",
+"url": "https://www.msslunecnice.cz/wp-content/uploads/2025/07/22.png",
+"w": 1200
+}
+],
 "detska-skupina-slunicka-lovosice-i-ds01541": [
 {
 "alt": "Louny",
@@ -252,6 +402,79 @@
 "w": 1024
 }
 ],
+"detska-skupina-slunicko-2-ds01525": [
+{
+"alt": "Prostory školičky – pohled na policový systém s hračkami",
+"barva": "#b29c83",
+"dh": "696f6c0c0d2c2430",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACMQAAIBAgYCAwAAAAAAAAAAAAECAwARBAUSEyEiMUFRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhIR/9oADAMBAAIRAxEAPwC3HmWH2BGjuGub3X35peMxxSOJodDG4HY2Bv5qNhcrEsBO843CT9VoGWsYirYgkRrx1+P2pqqM5Y6l90VYZZrNvhNWo27AceqKWsqBVvEpNhckDniilDP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ostrovskeslunicko.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/64073743bca1cf0b4d13baa1/6409f7083cb86f6e0c754dc1_prostory_slunicko_5.jpg",
+"w": 1200
+},
+{
+"alt": "Prostor školičky, kde děti jí svačinky",
+"barva": "#b0a18e",
+"dh": "c444d2a8edc7cdfd",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ostrovskeslunicko.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/64073743bca1cf0b4d13baa1/6409f7074e032af039f68f45_prostory_slunicko_6.jpg",
+"w": 1200
+}
+],
+"detska-skupina-slunicko-nepomuk-broucci-ds10919": [
+{
+"alt": "",
+"barva": "#bfb3a1",
+"dh": "0339695d9f8f1c86",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDAAQRIRITBQYiMVFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AOisrsQw8BhnZiSM7FWP5Non2pYb0BSNIOpj7yx+6m8EjW5fubI/BRzVNt5hsufUqdzLDjipxkn5opPB4+N4+RJyTk0Vewz/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnepomuk.cz/",
+"typ": "budova",
+"url": "https://www.msnepomuk.cz/wp-content/uploads/2026/08/budova-exterier-detska-skupina-slunicko-nepomuk-082026-01-img_8285.jpg",
+"w": 1200
+},
+{
+"alt": "MŠ Nepomuk exteriér",
+"barva": "#8a846d",
+"dh": "333701073677161c",
+"h": 800,
+"jistota": 0.918,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnepomuk.cz/",
+"typ": "zahrada",
+"url": "https://www.msnepomuk.cz/wp-content/uploads/2022/11/ms-nepomuk-exterier-img_2668.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a7987e",
+"dh": "1327234b2b696b8f",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnepomuk.cz/detska-skupina-slunicko-nepomuk",
+"typ": "budova",
+"url": "https://www.msnepomuk.cz/wp-content/uploads/2026/08/budova-exterier-detska-skupina-slunicko-nepomuk-082026-04-img_8288.jpg",
+"w": 1200
+}
+],
 "detska-skupina-targevacek-kobylisy-ds10422": [
 {
 "alt": "Dětská skupina Targeváček Kobylisy",
@@ -267,6 +490,49 @@
 "typ": "interier",
 "url": "https://www.targevacek.cz/wp-content/uploads/2025/10/DS_Kobylisy.jpeg",
 "w": 900
+}
+],
+"detska-skupina-u-jezecku-ds10161": [
+{
+"alt": "",
+"barva": "#647253",
+"dh": "39bf9d9992929343",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACUQAAICAQIEBwAAAAAAAAAAAAECAAMRBCIFE0GREhQhMVFhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREDMf/aAAwDAQACEQMRAD8Ai8M4jqqNY4r3q4wwOfQfIjltt+rs21vYyjdYqHAA/ZU8tSXL8tcmMVqiMzctSWwD0z2mD1pNXTM2Valm8VVZdT1VvY/cJpzgHAA7QgtRU//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ds-pod-kunkou.cz/nase-prostory/",
+"typ": "zahrada",
+"url": "https://819f087b9f.clvaw-cdnwnd.com/eab866d1001983ed26e9e148714df8ac/200000560-e6bcde6bcf/DSC_1107.jpeg?ph=819f087b9f",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#919252",
+"dh": "772761ab0b439cba",
+"h": 693,
+"jistota": 0.99,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.ds-pod-kunkou.cz/nase-prostory/",
+"typ": "zahrada",
+"url": "https://819f087b9f.clvaw-cdnwnd.com/eab866d1001983ed26e9e148714df8ac/200000556-0fc950fc97/DSC_1103.jpeg?ph=819f087b9f",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b19b72",
+"dh": "c3e5cdccecf9888d",
+"h": 960,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.ds-pod-kunkou.cz/nase-prostory/",
+"typ": "hygiena",
+"url": "https://819f087b9f.clvaw-cdnwnd.com/eab866d1001983ed26e9e148714df8ac/200000025-a73faa73fc/217249823_130710329207927_2716769565067521785_n.jpg?ph=819f087b9f",
+"w": 956
 }
 ],
 "detska-skupina-zeleny-cap-ds11149": [
@@ -1380,6 +1646,62 @@
 "stranka": "https://skolasuchodol.cz/fotogalerie-ms-zs-sj-sd/",
 "typ": "interier",
 "url": "https://skolasuchodol.cz/wp-content/uploads/2024/02/SJ2.jpg",
+"w": 1200
+}
+],
+"ziva-skolka-na-borech-detska-skupina-boruvky-a-maliny-ds01187": [
+{
+"alt": "",
+"barva": "#929395",
+"dh": "0b1dccdd5d0b810f",
+"h": 1141,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAATABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAJBAAAQMDAwQDAAAAAAAAAAAAAQACAwQRMQUSIRMUUZEkgYL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQITQf/aAAwDAQACEQMRAD8A3T6jSU0pjkeS8ZDReyqdq9JbjqH8riCtppZN1UHxOAYbsJsTuNxj2tDp9PcR8ioHLzwSM/XrwrN7cSKV6nu6QgHuYhcXs5wB9IvOrn08tRubF1G7GgOc254AyfKJpJnCG8o5xGCiLLSouN8oiKj/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-v-cernicich",
+"typ": "budova",
+"url": "https://www.spolekzivo.cz/files/skolka-v-cernicich-galerie-01.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#988a73",
+"dh": "6f694b2c2c6ecf8f",
+"h": 865,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-na-borech-skodaland",
+"typ": "interier",
+"url": "https://www.spolekzivo.cz/files/img-8716-kopie.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#898675",
+"dh": "9b1b3bdbcbdb3fcf",
+"h": 801,
+"jistota": 0.887,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-v-cernicich",
+"typ": "zahrada",
+"url": "https://www.spolekzivo.cz/files/skolka-v-cernicich-galerie-09.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#ab9580",
+"dh": "628919191919190b",
+"h": 801,
+"jistota": 0.987,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-v-bozkove",
+"typ": "budova",
+"url": "https://www.spolekzivo.cz/files/skolka-v-bozkove-galerie-01.jpg",
 "w": 1200
 }
 ],

@@ -1,9 +1,17 @@
-[02:14:03] Část 1/20: webů 125, hotovo 149, zbývá 5
-[02:14:23] https://dsslunicka.cz/lovosice/detska-skupina-slunicka-lovosice-i: 4 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 20 fotek ke kontrole
-[02:14:32] https://centrum-rodinka.cz/detska-skupina-rodinka: 3 stránek (galerie mimo web: 0 [], alb: 0), 35 obrázků, 32 fotek ke kontrole
-[02:15:01] https://obeczeletice.cz/zeleticka-skolicka/detska-skupina-obecne: 24 stránek (galerie mimo web: 0 [], alb: 0), 203 obrázků, 3 fotek ke kontrole
-[02:15:56] https://centrumbatole.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 10 fotek ke kontrole
-[02:16:39] https://dsctyrlistekmost.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 71 obrázků, 25 fotek ke kontrole
-[02:16:56] tříděno 0/90
-[02:17:15] Dávka 1: hotovo 154/125, se fotkami 49; {'ok': 10, 'lide': 8, 'jine': 41, 'sablona': 0}
-[02:17:15] Konec: školek s fotkami 49; {'ok': 10, 'lide': 8, 'jine': 41, 'sablona': 0}
+[03:59:57] Část 1/20: webů 136, hotovo 154, zbývá 13
+[04:00:09] https://ubislavice.cz/obec/ds-kvitka-ubislavice/zamereni-detske-skupiny-kvitka-ubislavice-447cs.html: nedostupné nebo zakázané
+[04:00:10] https://ostrovskeslunicko.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 11 fotek ke kontrole
+[04:00:16] https://ds-pod-kunkou.cz/u-jezecku-kunetice: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 10 fotek ke kontrole
+[04:00:18] https://beruska-ub.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 8 fotek ke kontrole
+[04:00:19] https://kojeneckyustav-svitavy.webnode.cz/detska-skupina: 3 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 0 fotek ke kontrole
+[04:00:32] https://dobravodauhoric.cz/detska-skupina: 10 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 6 fotek ke kontrole
+[04:00:41] https://dsbylany.cz/kocicky: 5 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 14 fotek ke kontrole
+[04:01:05] https://spolekzivo.cz/skolka-na-borech-ceske-udoli: 6 stránek (galerie mimo web: 0 [], alb: 0), 183 obrázků, 43 fotek ke kontrole
+[04:01:08] https://msmanesovakromeriz.cz/detska-skupina-mesta-kromerize: 29 stránek (galerie mimo web: 0 [], alb: 0), 51 obrázků, 26 fotek ke kontrole
+[04:01:12] https://carlsbadmontessori.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 132 obrázků, 44 fotek ke kontrole
+[04:01:15] https://ymcaplzen.cz/skupina-slunicko: 1 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 8 fotek ke kontrole
+[04:01:20] https://msslunecnice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 50 obrázků, 10 fotek ke kontrole
+[04:03:19] https://msnepomuk.cz/detska-skupina-slunicko-nepomuk: 21 stránek (galerie mimo web: 1 ['msnepomuk.rajce.idnes.cz'], alb: 1), 64 obrázků, 27 fotek ke kontrole
+[04:03:36] tříděno 0/207
+[04:04:09] Dávka 1: hotovo 167/136, se fotkami 58; {'ok': 22, 'lide': 10, 'jine': 135, 'sablona': 0}
+[04:04:09] Konec: školek s fotkami 58; {'ok': 22, 'lide': 10, 'jine': 135, 'sablona': 0}
