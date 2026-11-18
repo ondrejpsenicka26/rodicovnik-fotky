@@ -1,10 +1,7 @@
-[02:13:59] Část 16/20: webů 140, hotovo 160, zbývá 6
-[02:14:06] https://planetkauffo.cz/raketka: 2 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
-[02:14:07] https://mikrojeslemlynek.cz: nedostupné nebo zakázané
-[02:14:11] https://dsslunicka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 7 fotek ke kontrole
-[02:14:19] https://detskaskupinaholahej.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 10 fotek ke kontrole
-[02:14:37] https://uzasnakov.family: 3 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 6 fotek ke kontrole
-[02:15:57] https://misaskolka.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 156 obrázků, 43 fotek ke kontrole
-[02:16:10] tříděno 0/66
-[02:16:18] Dávka 1: hotovo 166/140, se fotkami 49; {'ok': 7, 'lide': 6, 'jine': 35, 'sablona': 0}
-[02:16:18] Konec: školek s fotkami 49; {'ok': 7, 'lide': 6, 'jine': 35, 'sablona': 0}
+[04:00:41] Část 16/20: webů 142, hotovo 166, zbývá 3
+[04:01:19] https://icsasov.cz/detska-skupina-sipecek: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 3 fotek ke kontrole
+[04:01:31] https://vcelka-budetice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 52 obrázků, 9 fotek ke kontrole
+[04:03:43] https://dracekcl.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 64 obrázků, 11 fotek ke kontrole
+[04:03:56] tříděno 0/23
+[04:03:56] Dávka 1: hotovo 169/142, se fotkami 49; {'ok': 0, 'lide': 4, 'jine': 19, 'sablona': 0}
+[04:03:56] Konec: školek s fotkami 49; {'ok': 0, 'lide': 4, 'jine': 19, 'sablona': 0}
