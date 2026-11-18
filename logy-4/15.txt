@@ -1,16 +1,2 @@
-[09:24:13] Část 16/20: webů 155, hotovo 171, zbývá 12
-[09:24:24] https://skolakobylnice.cz: 9 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[09:24:26] https://msborotin.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[09:24:38] https://novavesuchynova.cz/obec/materska-skola: 7 stránek (galerie mimo web: 1 ['akcenovaves.rajce.idnes.cz'], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[09:24:39] https://materska-skola-fanderlikova.webnode.cz: 3 stránek (galerie mimo web: 120 ['msfanderlikova.rajce.idnes.cz'], alb: 8), 2 obrázků, 2 fotek ke kontrole
-[09:24:54] https://mschynov.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 20 fotek ke kontrole
-[09:25:01] https://zsradim.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 61 obrázků, 3 fotek ke kontrole
-[09:25:01] https://msnevojice.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 69 obrázků, 4 fotek ke kontrole
-[09:25:18] https://msdivisova.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 2 fotek ke kontrole
-[09:25:24] https://msnohova.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 159 obrázků, 0 fotek ke kontrole
-[09:26:05] https://msdolnirychnov.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 395 obrázků, 11 fotek ke kontrole
-[09:27:27] https://mskramolna.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 21 fotek ke kontrole
-[09:27:59] https://mshroznetin.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 70 obrázků, 38 fotek ke kontrole
-[09:29:20] tříděno 0/101
-[09:29:44] Dávka 1: hotovo 183/155, se fotkami 54; {'ok': 12, 'lide': 5, 'jine': 40, 'sablona': 0}
-[09:29:44] Konec: školek s fotkami 54; {'ok': 12, 'lide': 5, 'jine': 40, 'sablona': 0}
+[09:44:12] Část 16/20: webů 152, hotovo 183, zbývá 0
+[09:44:12] Konec: školek s fotkami 54; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
