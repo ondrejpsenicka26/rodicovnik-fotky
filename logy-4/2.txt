@@ -1,7 +1,2 @@
-[12:54:18] Část 3/20: webů 205, hotovo 239, zbývá 3
-[12:54:24] https://ms-neratovice.cz: nedostupné nebo zakázané
-[12:54:27] https://ms-horesedly.estranky.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
-[12:55:44] https://mssnalysinach.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 30 fotek ke kontrole
-[12:55:53] tříděno 0/31
-[12:55:54] Dávka 1: hotovo 242/205, se fotkami 62; {'ok': 1, 'lide': 7, 'jine': 23, 'sablona': 0}
-[12:55:54] Konec: školek s fotkami 62; {'ok': 1, 'lide': 7, 'jine': 23, 'sablona': 0}
+[13:31:16] Část 3/20: webů 204, hotovo 242, zbývá 0
+[13:31:16] Konec: školek s fotkami 62; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
