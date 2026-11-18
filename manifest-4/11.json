@@ -1039,6 +1039,36 @@
 "w": 1200
 }
 ],
+"materska-skola-libceves-566362": [
+{
+"alt": "",
+"barva": "#675f51",
+"dh": "ecfae2e2e2c3c344",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBgMF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIRAAMEBRIhQTFSYfH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAgMh/9oADAMBAAIRAxEAPwDXU2s4oPKu/qGFL4dpMuSXcFRJUQP2pY3NzAkcjxTuJqd7Gabe2Y7E0NXSxxizKD0nb01kycQPedVcEg/Y7oqZ5JJ3MJMwDRVzWwSLlWf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.libceves.cz/protipovodnova-opatreni/digitalni-povodnovy-plan-obce-libceves/",
+"typ": "budova",
+"url": "https://www.libceves.cz/data/headerfooter/header_images/11-skolka.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#676560",
+"dh": "4e3965cf7c440c3a",
+"h": 800,
+"jistota": 0.998,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.libceves.cz/protipovodnova-opatreni/digitalni-povodnovy-plan-obce-libceves/",
+"typ": "budova",
+"url": "https://www.libceves.cz/data/headerfooter/header_images/10-urad.jpg",
+"w": 1200
+}
+],
 "materska-skola-loket-102058": [
 {
 "alt": "budova",
@@ -1095,6 +1125,36 @@
 "w": 768
 }
 ],
+"materska-skola-mala-velen-562146": [
+{
+"alt": "",
+"barva": "#6a594b",
+"dh": "0f3e2a2727270fb5",
+"h": 900,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAwX/xAAhEAABBAICAgMAAAAAAAAAAAABAAIDBBEhBRIxURNB8P/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDEUET/9oADAMBAAIRAxEAPwDmUI5pa5f8ffBO+wCS6lMQMCPftyFU5NteExBpI2QtTzbMENa7Xs5/faP1vgiiOhJrEMEpjlJ7t89RpSFdeyey57iQT5wpKsr0E4Wz/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mala-velen.cz/obec/materska-skola/kontakt/",
+"typ": "budova",
+"url": "https://www.mala-velen.cz/data/headerfooter/header_images/bytovy-dum.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#707d81",
+"dh": "301404c84aaa8c65",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mala-velen.cz/obec/materska-skola/kontakt/",
+"typ": "budova",
+"url": "https://www.mala-velen.cz/data/headerfooter/header_images/20220412180438.jpg",
+"w": 1200
+}
+],
 "materska-skola-motylek-502089": [
 {
 "alt": "",
@@ -1123,6 +1183,23 @@
 "typ": "hygiena",
 "url": "https://msmotylek.com/wp-content/uploads/foto2.jpg",
 "w": 1024
+}
+],
+"materska-skola-mrakov-540347": [
+{
+"alt": "Fotka MŠ",
+"barva": "#747a7f",
+"dh": "1cd9e1c2c5ccc0e2",
+"h": 610,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAEAAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQL/xAAiEAABBAEEAgMAAAAAAAAAAAABAAIDEQQSITFBIlEFE0L/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAAAIAASH/2gAMAwEAAhEDEQA/AHy5ssUp0hlNNaS0m965tLnlfP8AYJHeNhwZ0KrjtS875GFsvjredrd79p0OXFmhzYQI9gSXgdcJprc7Ag5tQNWaNhCw0tbZb+jZQo1b/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mrakov.cz/nase-obec/materska-skola-mrakov-1/kontakt/",
+"typ": "budova",
+"url": "https://www.mrakov.cz/data/editor/125cs_1.jpg?gcm_date=1675749738",
+"w": 765
 }
 ],
 "materska-skola-ostrava-630044": [
@@ -1523,6 +1600,36 @@
 "typ": "interier",
 "url": "https://msuhelna.cz/wp-content/uploads/2022/10/P1360347-25-Edited-scaled.jpg",
 "w": 1200
+}
+],
+"materska-skola-vidonin-616301": [
+{
+"alt": "",
+"barva": "#6b7381",
+"dh": "e3a7a77b5b1fed3d",
+"h": 563,
+"jistota": 0.98,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBESExQhIkEFUXGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAECEhP/2gAMAwEAAhEDEQA/AG2tS9uZURip6KQMnPjpS7dsXHFwkN0FGrcTBz8UIk66QLqR1UkhZAGU59xUv1l4OY0s29uuMkowAHiqdLBiEO4V455Ec9ysQf2itnFizEgzj6FFTJ//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.vidonin.cz/fotogalerie-obce-vidonin/fotky-obce",
+"typ": "budova",
+"url": "https://www.vidonin.cz/storage/galleries/9/o/7d033dbb0c6caa74b5961019ac30a53c.jpeg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#656745",
+"dh": "4863a3324a536466",
+"h": 563,
+"jistota": 0.978,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.vidonin.cz/fotogalerie-obce-vidonin/fotky-obce",
+"typ": "budova",
+"url": "https://www.vidonin.cz/storage/galleries/9/o/c746cdb7e29cae38c2cd14730d95b84d.jpeg",
+"w": 750
 }
 ],
 "materska-skola-vranov-nad-dyji-614669": [
