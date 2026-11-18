@@ -1,2 +1,6 @@
-[12:06:18] Část 19/20: webů 165, hotovo 198, zbývá 0
-[12:06:18] Konec: školek s fotkami 50; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:12:56] Část 19/20: webů 166, hotovo 198, zbývá 2
+[12:14:25] https://www.mestysmarsovice.cz/mestys/materska-skola-marsovice: 34 stránek (galerie mimo web: 0 [], alb: 0), 501 obrázků, 4 fotek ke kontrole
+[12:14:27] https://zlamanec.cz/materska-skola: 24 stránek (galerie mimo web: 0 [], alb: 0), 587 obrázků, 32 fotek ke kontrole
+[12:14:36] tříděno 0/36
+[12:14:36] Dávka 1: hotovo 200/166, se fotkami 50; {'ok': 0, 'lide': 1, 'jine': 35, 'sablona': 0}
+[12:14:36] Konec: školek s fotkami 50; {'ok': 0, 'lide': 1, 'jine': 35, 'sablona': 0}
