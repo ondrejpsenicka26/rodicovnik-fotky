@@ -1,8 +1,2 @@
-[12:13:00] Část 8/20: webů 186, hotovo 232, zbývá 4
-[12:13:27] https://www.trebusice.cz/ms/index.php: 13 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 5 fotek ke kontrole
-[12:13:57] https://www.vysokapec.cz/obec-43/skola: 19 stránek (galerie mimo web: 0 [], alb: 0), 50 obrázků, 1 fotek ke kontrole
-[12:14:06] https://www.obeclipnik.cz/zs-a-ms-lipnik: 33 stránek (galerie mimo web: 0 [], alb: 0), 308 obrázků, 1 fotek ke kontrole
-[12:14:24] https://www.mladysmolivec.cz/obec/materska-skola: 33 stránek (galerie mimo web: 0 [], alb: 0), 596 obrázků, 32 fotek ke kontrole
-[12:14:42] tříděno 0/39
-[12:14:44] Dávka 1: hotovo 236/186, se fotkami 64; {'ok': 4, 'lide': 0, 'jine': 21, 'sablona': 0}
-[12:14:44] Konec: školek s fotkami 64; {'ok': 4, 'lide': 0, 'jine': 21, 'sablona': 0}
+[12:37:27] Část 8/20: webů 186, hotovo 236, zbývá 0
+[12:37:27] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
