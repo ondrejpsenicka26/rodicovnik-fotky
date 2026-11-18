@@ -8453,6 +8453,14 @@
 "titulek": "MŠ Fanderlíkova Brno",
 "web": "https://materska-skola-fanderlikova.webnode.cz"
 },
+"materska-skola-brno-601257": {
+"duvod": "",
+"final": "https://www.mszabovresky.cz/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Gabriely Preissové – MŠ Žabovřesky",
+"web": "https://mszabovresky.cz"
+},
 "materska-skola-brno-601311": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
@@ -9185,6 +9193,14 @@
 "final": "https://ms.doubravicens.cz",
 "ok": true,
 "shoda": "ulice",
+"titulek": "MŠ Doubravice nad Svitavou",
+"web": "https://ms.doubravicens.cz"
+},
+"materska-skola-doubravice-nad-svitavou-600161": {
+"duvod": "",
+"final": "https://ms.doubravicens.cz",
+"ok": true,
+"shoda": "psc",
 "titulek": "MŠ Doubravice nad Svitavou",
 "web": "https://ms.doubravicens.cz"
 },
@@ -15982,6 +15998,14 @@
 "shoda": "ico",
 "titulek": "ZŠ a MŠ Martinice",
 "web": "https://skolymartinice.cz"
+},
+"zakladni-skola-a-materska-skola-mesta-olesnice-600382": {
+"duvod": "",
+"final": "https://zsamsolesnice.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Úvod | ZŠ a MŠ města Olešnice",
+"web": "https://zsamsolesnice.cz"
 },
 "zakladni-skola-a-materska-skola-mikuluvka-007230": {
 "duvod": "",
