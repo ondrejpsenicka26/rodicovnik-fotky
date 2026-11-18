@@ -1305,6 +1305,62 @@
 "w": 1200
 }
 ],
+"materska-skola-nad-stolou-502879": [
+{
+"alt": "",
+"barva": "#8a7a76",
+"dh": "29d326298c3bff3f",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAjEAACAgEEAgIDAAAAAAAAAAABAgADEQQSMUEhUSJCYXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCwVwhrFpFRPkDj+iYVNpJ3lSvBHucuk1NivbWc2uR8Bz33+Je/W20lRbQiAkZIGTDK0sKxH3ZznPnJhFt1lqq1NtO3H3BJzCLYFOlUoBCDBJyx9xtZ+iPUkhzzMv1CTDAbiVZlz0rEQkyTkwkV/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnadstolou.cz/o-nas-ms-tusarova/",
+"typ": "interier",
+"url": "https://www.msnadstolou.cz/wp-content/uploads/2022/09/Nova5-scaled.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#77775b",
+"dh": "3acd90b1b14f3bd6",
+"h": 900,
+"jistota": 0.931,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnadstolou.cz/o-nas-ms-tusarova/",
+"typ": "zahrada",
+"url": "https://www.msnadstolou.cz/wp-content/uploads/2025/08/Obrazek-WhatsApp-2025-08-22-v-14.01.27_0a382b66.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8d7872",
+"dh": "444252cc0e991114",
+"h": 1200,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnadstolou.cz/o-nas-ms-tusarova/",
+"typ": "interier",
+"url": "https://www.msnadstolou.cz/wp-content/uploads/2022/09/Nove1-scaled.jpg",
+"w": 900
+},
+{
+"alt": "mš-zahrada",
+"barva": "#745b26",
+"dh": "8493175363632501",
+"h": 900,
+"jistota": 0.907,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msnadstolou.cz/2023/11/28/adventni-setkani-na-skolni-zahrade-ms/",
+"typ": "zahrada",
+"url": "https://www.msnadstolou.cz/wp-content/uploads/2021/02/ms-zahrada.jpg",
+"w": 1200
+}
+],
 "materska-skola-nova-ves-029499": [
 {
 "alt": "",
@@ -1922,6 +1978,62 @@
 "typ": "hygiena",
 "url": "https://www.msvicov.cz/data/headerfooter/header_images/img20230417103711.jpg",
 "w": 850
+}
+],
+"materska-skola-zatec-275863": [
+{
+"alt": "",
+"barva": "#5e634b",
+"dh": "2c4c4c6cbdfbcbf5",
+"h": 720,
+"jistota": 0.923,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAhEAACAQMDBQAAAAAAAAAAAAABAgQAAyEREjFBUoGx4f/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAkH/2gAMAwEAAhEDEQA/AOUWraRk2su85uDg5PX35pU4h7qsAFABHGg+1rSijE28E8kUh5G5w7Etp3ZqUYZS6VYE+TGiIll0VDkAsNaKhuzMxLZJopgn/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msfugnerovazatec.cz/prirodni-zahrada/",
+"typ": "zahrada",
+"url": "https://msfugnerovazatec.cz/wp-content/uploads/2024/10/rozhledna-a-dalsi-prvky.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#6d6761",
+"dh": "e982c543b3e3bacc",
+"h": 720,
+"jistota": 0.974,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msfugnerovazatec.cz/prirodni-zahrada/",
+"typ": "les",
+"url": "https://msfugnerovazatec.cz/wp-content/uploads/2024/10/altan_zahr.slavnost.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#64734f",
+"dh": "2627d9d98f070749",
+"h": 720,
+"jistota": 0.753,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msfugnerovazatec.cz/prirodni-zahrada/",
+"typ": "zahrada",
+"url": "https://msfugnerovazatec.cz/wp-content/uploads/2024/10/plachta-nad-piskovistem.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#5b5f41",
+"dh": "2626c78f1b93373c",
+"h": 960,
+"jistota": 0.988,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msfugnerovazatec.cz/prirodni-zahrada/",
+"typ": "les",
+"url": "https://msfugnerovazatec.cz/wp-content/uploads/2024/10/hmat.chodnicek-2.jpg",
+"w": 720
 }
 ],
 "ms-klanovice-503590": [
