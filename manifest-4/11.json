@@ -1190,6 +1190,62 @@
 "w": 900
 }
 ],
+"materska-skola-prostejov-019651": [
+{
+"alt": "",
+"barva": "#81847a",
+"dh": "de7f83c7c7afafcb",
+"h": 750,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCBP/EACIQAAICAgEDBQAAAAAAAAAAAAECAxEABCEFEjEiJFFhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABoRAAICAwAAAAAAAAAAAAAAAAABAhIDETH/2gAMAwEAAhEDEQA/AOyfquiz+56c5IAHcOD+ZmbY6RN3s8csbObJo8HJ8u3A4cNC5tgV9fANfGJpg4cDXSm82x5zKx74Tk0Hn1FciHfmCXwLIr6xkrZnaOWhGnIvxjGrCx//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://www.ms-moravska.cz/",
+"typ": "budova",
+"url": "http://www.ms-moravska.cz/images/uploads/1544110460_619.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#5e6353",
+"dh": "635b8437b7b04890",
+"h": 750,
+"jistota": 0.983,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "http://www.ms-moravska.cz/",
+"typ": "zahrada",
+"url": "http://www.ms-moravska.cz/images/uploads/1551191478_199.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#878777",
+"dh": "fac81fffededdc3e",
+"h": 750,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "http://www.ms-moravska.cz/",
+"typ": "budova",
+"url": "http://www.ms-moravska.cz/images/uploads/1544110460_786.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#67675a",
+"dh": "6c3c92232d861434",
+"h": 750,
+"jistota": 0.977,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "http://www.ms-moravska.cz/",
+"typ": "zahrada",
+"url": "http://www.ms-moravska.cz/images/uploads/1551191478_639.jpg",
+"w": 1000
+}
+],
 "materska-skola-sidliste-429-755579": [
 {
 "alt": "",

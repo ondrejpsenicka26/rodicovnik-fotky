@@ -1,11 +1,7 @@
-[09:53:54] Část 12/20: webů 167, hotovo 192, zbývá 7
-[09:54:19] https://zsms-siroka-niva.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 0 fotek ke kontrole
-[09:54:35] https://skolkapolom.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 1 fotek ke kontrole
-[09:55:20] https://ms-kocov.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 889 obrázků, 13 fotek ke kontrole
-[09:55:28] https://skolahavlovice.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 464 obrázků, 10 fotek ke kontrole
-[09:55:29] https://msuhelna.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 76 obrázků, 38 fotek ke kontrole
-[09:55:34] https://mskrcman.cz: 26 stránek (galerie mimo web: 4 ['mskrcman.rajce.idnes.cz'], alb: 0), 1502 obrázků, 3 fotek ke kontrole
-[09:58:16] https://zspraslavice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 1548 obrázků, 20 fotek ke kontrole
-[09:58:30] tříděno 0/85
-[09:58:35] Dávka 1: hotovo 199/167, se fotkami 50; {'ok': 4, 'lide': 0, 'jine': 57, 'sablona': 0}
-[09:58:35] Konec: školek s fotkami 50; {'ok': 4, 'lide': 0, 'jine': 57, 'sablona': 0}
+[10:15:28] Část 12/20: webů 168, hotovo 199, zbývá 3
+[10:15:48] https://skolapolkovice.cz: 5 stránek (galerie mimo web: 1 ['polkovice.rajce.idnes.cz'], alb: 0), 3 obrázků, 1 fotek ke kontrole
+[10:15:50] https://ms-moravska.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 16 fotek ke kontrole
+[10:15:54] https://subirov.cz/obec/materska-skola: 5 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 8 fotek ke kontrole
+[10:16:12] tříděno 0/25
+[10:16:12] Dávka 1: hotovo 202/168, se fotkami 51; {'ok': 4, 'lide': 5, 'jine': 12, 'sablona': 0}
+[10:16:12] Konec: školek s fotkami 51; {'ok': 4, 'lide': 5, 'jine': 12, 'sablona': 0}
