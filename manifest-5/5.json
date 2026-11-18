@@ -1,0 +1,32 @@
+{
+"zakladni-skola-a-materska-skola-horepnik-013108": [
+{
+"alt": "og",
+"barva": "#949972",
+"dh": "0f2ffedfdc1c2ecd",
+"h": 900,
+"jistota": 0.993,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EAB8QAQACAgICAwAAAAAAAAAAAAEAAgMREiExYXGRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAaEQADAAMBAAAAAAAAAAAAAAAAAREDEyEx/9oADAMBAAIRAxEAPwC61OKBp2b2ePiLvyDwfcXiw4qabuS9vdvyayVxOji9+5B0FSdqqqdwjUqqPSdMJneBt+jbZyH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.rajce.idnes.cz/zshorepnik/album/rekonstrukce-tridy-stav-k-14-3-2025",
+"typ": "interier",
+"url": "https://img41.rajce.idnes.cz/d4103/19/19488/19488583_68ea23c63a41750024c51db27f2569d7/images/IMG_20250228_130637.jpg?ver=0",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7f6e5d",
+"dh": "07b4f4f4b4b0f8fd",
+"h": 900,
+"jistota": 0.791,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.rajce.idnes.cz/zshorepnik/album/rekonstrukce-trid-prazdniny-2024-2",
+"typ": "interier",
+"url": "https://img42.rajce.idnes.cz/d4203/19/19197/19197796_672c622331a04bf632d5c51f2412a7b1/images/IMG_20240624_072748.jpg?ver=0",
+"w": 1200
+}
+]
+}

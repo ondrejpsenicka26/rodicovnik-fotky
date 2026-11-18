@@ -1,0 +1,22 @@
+[08:15:34] Část 6/8: webů 18, hotovo 0, zbývá 18
+[08:15:47] https://www.msjesenice.cz: 9 stránek (galerie mimo web: 1 ['msjesenice.rajce.idnes.cz'], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[08:15:49] https://www.zelec.cz: 11 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 1), 0 obrázků, 0 fotek ke kontrole
+[08:16:08] https://www.zschrlice.cz: 11 stránek (galerie mimo web: 10 ['photos.app.goo.gl', 'photos.google.com'], alb: 8), 13 obrázků, 7 fotek ke kontrole
+[08:16:12] https://www.zsvacov.cz: 20 stránek (galerie mimo web: 24 ['photos.app.goo.gl', 'photos.google.com'], alb: 24), 5 obrázků, 0 fotek ke kontrole
+[08:16:13] https://stararise.cz/detska-skupina-stara-rise: 7 stránek (galerie mimo web: 1 ['mestysstararise.rajce.idnes.cz'], alb: 5), 20 obrázků, 4 fotek ke kontrole
+[08:16:18] https://www.obecparsovice.cz: 23 stránek (galerie mimo web: 47 ['obec-parsovice.rajce.idnes.cz', 'rajce.net', 'www.rajce.idnes.cz'], alb: 35), 1 obrázků, 0 fotek ke kontrole
+[08:16:22] https://www.zs-smecno.cz: 22 stránek (galerie mimo web: 1 ['photos.app.goo.gl'], alb: 1), 39 obrázků, 2 fotek ke kontrole
+[08:16:23] https://www.zsjistebnik.cz: 16 stránek (galerie mimo web: 1 ['zsjistebnikkoc.rajce.idnes.cz'], alb: 5), 0 obrázků, 0 fotek ke kontrole
+[08:16:25] https://www.dkskolin.cz: 9 stránek (galerie mimo web: 1 ['dkskolin.rajce.idnes.cz'], alb: 5), 20 obrázků, 5 fotek ke kontrole
+[08:16:31] https://skolanahoru.cz: 20 stránek (galerie mimo web: 1 ['nahorujilemnice.rajce.idnes.cz'], alb: 5), 24 obrázků, 6 fotek ke kontrole
+[08:16:33] https://www.klicek-skolka.cz: 10 stránek (galerie mimo web: 1 ['www.rajce.idnes.cz'], alb: 1), 48 obrázků, 25 fotek ke kontrole
+[08:16:35] https://www.zshorepnik.cz: 16 stránek (galerie mimo web: 4 ['mshorepnik.rajce.idnes.cz', 'www.rajce.idnes.cz', 'zshorepnik.rajce.idnes.cz'], alb: 12), 23 obrázků, 11 fotek ke kontrole
+[08:16:52] https://www.mskonicek.cz: 13 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 1), 25 obrázků, 3 fotek ke kontrole
+[08:16:53] https://www.zszahori.cz: 18 stránek (galerie mimo web: 1 ['skolazahori.rajce.idnes.cz'], alb: 5), 17 obrázků, 0 fotek ke kontrole
+[08:17:01] https://www.zsvisnova.cz: 10 stránek (galerie mimo web: 1 ['www.rajce.idnes.cz'], alb: 1), 157 obrázků, 0 fotek ke kontrole
+[08:17:16] https://www.zsvlcice.cz: 21 stránek (galerie mimo web: 1 ['zsvlcice.rajce.idnes.cz'], alb: 0), 706 obrázků, 0 fotek ke kontrole
+[08:17:17] https://www.zsamsladna.cz: 20 stránek (galerie mimo web: 2 ['msladna.rajce.idnes.cz', 'zsamsladna.rajce.idnes.cz'], alb: 5), 303 obrázků, 37 fotek ke kontrole
+[08:19:56] https://www.zsvitezna.cz: 24 stránek (galerie mimo web: 2 ['msvitezna.rajce.idnes.cz'], alb: 5), 268 obrázků, 13 fotek ke kontrole
+[08:20:10] tříděno 0/113
+[08:20:18] Dávka 1: hotovo 18/18, se fotkami 1; {'ok': 2, 'lide': 1, 'jine': 109, 'sablona': 0}
+[08:20:18] Konec: školek s fotkami 1; {'ok': 2, 'lide': 1, 'jine': 109, 'sablona': 0}
