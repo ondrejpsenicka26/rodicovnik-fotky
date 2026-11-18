@@ -1266,6 +1266,49 @@
 "w": 1200
 }
 ],
+"materska-skola-montessori-dum-071894": [
+{
+"alt": "",
+"barva": "#7d6d56",
+"dh": "e1621207170f8f03",
+"h": 900,
+"jistota": 0.927,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACUQAAIBAwMDBQEAAAAAAAAAAAECAwARIQQFEjFBYQYTFCJxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIREiH/2gAMAwEAAhEDEQA/AD00PyAFByfH8rq02yGOTlII+PQcxcjIzbpQ2z6+aHUI3uF0UklG73808d6uEIgA4tyP2Oayq76slqYxxG66JGQF5XDZuBawz2xVQreppYpZBEGCli2CD1/RVS0oNkf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.montessoridum.cz/prostory-skolky/",
+"typ": "budova",
+"url": "https://www.montessoridum.cz/wp-content/uploads/2018/03/IMG_20170301_155030.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#83795e",
+"dh": "8d91a32fa3a3331b",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.montessoridum.cz/prostory-skolky/",
+"typ": "interier",
+"url": "https://www.montessoridum.cz/wp-content/uploads/2018/03/IMG_20170301_154343.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#85754f",
+"dh": "33921465d4650e07",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.montessoridum.cz/",
+"typ": "interier",
+"url": "https://www.montessoridum.cz/wp-content/uploads/2018/03/IMG_20170301_154340-2000x1500.jpg",
+"w": 1200
+}
+],
 "materska-skola-puclice-540479": [
 {
 "alt": "",

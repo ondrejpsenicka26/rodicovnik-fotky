@@ -1,11 +1,7 @@
-[11:04:09] Část 7/20: webů 168, hotovo 204, zbývá 7
-[11:04:17] https://www.msvelkyosek.cz: nedostupné nebo zakázané
-[11:04:23] https://www.zsmsslopne.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
-[11:04:26] https://www.zsamsmoravec.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 0 fotek ke kontrole
-[11:05:07] https://www.skolalukov.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 18 fotek ke kontrole
-[11:05:20] https://www.msrtynenadbilinou.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 220 obrázků, 7 fotek ke kontrole
-[11:05:58] https://www.ms-chlum.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 47 obrázků, 32 fotek ke kontrole
-[11:06:43] https://skolalochovice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 14786 obrázků, 45 fotek ke kontrole
-[11:06:52] tříděno 0/102
-[11:07:05] Dávka 1: hotovo 211/168, se fotkami 66; {'ok': 11, 'lide': 6, 'jine': 65, 'sablona': 0}
-[11:07:05] Konec: školek s fotkami 66; {'ok': 11, 'lide': 6, 'jine': 65, 'sablona': 0}
+[11:38:42] Část 7/20: webů 168, hotovo 211, zbývá 3
+[11:39:27] https://slunickotisnov.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 57 obrázků, 37 fotek ke kontrole
+[11:39:30] https://www.msdelnickakdyne.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 59 obrázků, 1 fotek ke kontrole
+[11:41:05] https://www.montessoridum.cz: 11 stránek (galerie mimo web: 12 ['us.zonerama.com'], alb: 2), 13 obrázků, 5 fotek ke kontrole
+[11:41:20] tříděno 0/43
+[11:41:23] Dávka 1: hotovo 214/168, se fotkami 67; {'ok': 3, 'lide': 3, 'jine': 37, 'sablona': 0}
+[11:41:23] Konec: školek s fotkami 67; {'ok': 3, 'lide': 3, 'jine': 37, 'sablona': 0}
