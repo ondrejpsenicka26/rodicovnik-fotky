@@ -1,16 +1,8 @@
-[00:41:42] Část 12/20: webů 146, hotovo 151, zbývá 12
-[00:42:03] https://dsspuntici.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 23 fotek ke kontrole
-[00:42:05] https://vcelickyvracov.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 16 fotek ke kontrole
-[00:42:05] https://sokolikberoun.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 7 fotek ke kontrole
-[00:42:18] https://hravesvetem.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 12 fotek ke kontrole
-[00:42:34] http://mshelvikovice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 3 fotek ke kontrole
-[00:42:42] https://vejirkladno.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 92 obrázků, 27 fotek ke kontrole
-[00:42:42] https://pidiskolka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 72 obrázků, 40 fotek ke kontrole
-[00:43:19] https://msdrinov.cz: nedostupné nebo zakázané
-[00:43:19] http://www.zsnedabyle.cz: nedostupné nebo zakázané
-[00:43:19] http://www.zsnezamyslice.cz: nedostupné nebo zakázané
-[00:43:26] http://www.zs.novabystrice.cz: nedostupné nebo zakázané
-[00:44:19] http://www.msustadionu.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 21 fotek ke kontrole
-[00:44:35] tříděno 0/149
-[00:44:52] Dávka 1: hotovo 163/146, se fotkami 40; {'ok': 19, 'lide': 17, 'jine': 79, 'sablona': 0}
-[00:44:52] Konec: školek s fotkami 40; {'ok': 19, 'lide': 17, 'jine': 79, 'sablona': 0}
+[02:13:58] Část 12/20: webů 144, hotovo 163, zbývá 4
+[02:14:11] https://miniskolka-ententyky.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 0 fotek ke kontrole
+[02:14:20] https://pohadkovachaloupka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 18 fotek ke kontrole
+[02:14:44] https://chaloupkaostrava.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 11 fotek ke kontrole
+[02:15:35] https://zvidavyskolacek.cz: nedostupné nebo zakázané
+[02:15:52] tříděno 0/29
+[02:15:53] Dávka 1: hotovo 167/144, se fotkami 41; {'ok': 4, 'lide': 2, 'jine': 18, 'sablona': 0}
+[02:15:53] Konec: školek s fotkami 41; {'ok': 4, 'lide': 2, 'jine': 18, 'sablona': 0}

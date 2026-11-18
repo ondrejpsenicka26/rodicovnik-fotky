@@ -408,6 +408,62 @@
 "w": 1024
 }
 ],
+"detska-skupina-pohadkova-chaloupka-i-ds00143": [
+{
+"alt": "",
+"barva": "#737872",
+"dh": "be6d6c539165640b",
+"h": 780,
+"jistota": 0.943,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAjEAABBAIBAwUAAAAAAAAAAAABAgMEEQAFQRIhIhQxcYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAdEQACAQQDAAAAAAAAAAAAAAAAAgEDBBEUITFR/9oADAMBAAIRAxEAPwBl7yRJitiKlr1BTbgAHbjnM29jJmJ8UAFBpZPklRHAr9yKFCQ7r2G110hfXYT3Pyec67WrZitpaaJA9ya7qJ5ORNwy85GKCz3BK7uIkdQRIZdbdq1JIuvvDFkxmHHbdaSpQFXhhvsTqr4f/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.pohadkovachaloupka.cz/l/posezeni-se-zahradnim-krbem-pripraveno/",
+"typ": "budova",
+"url": "https://1509636031.clvaw-cdnwnd.com/5b9d308d806c68607ecfc8807c00ad49/200000000-7ba217ba23/1super1mensi.jpg?ph=1509636031",
+"w": 1200
+},
+{
+"alt": "takto se spí v Pohádkové chaloupce, Žďár, Doksy",
+"barva": "#6d523d",
+"dh": "8555594b7373cb4c",
+"h": 583,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.pohadkovachaloupka.cz/interier/",
+"typ": "interier",
+"url": "https://1509636031.clvaw-cdnwnd.com/5b9d308d806c68607ecfc8807c00ad49/200000047-423d9423dc/WI%20lo%C5%BEnice%20mal%C3%BD.jpg?ph=1509636031",
+"w": 1200
+},
+{
+"alt": "pohled z pavlače pohádkové chaloupky, Žďár, Doksy",
+"barva": "#554e4d",
+"dh": "0dc3132323273233",
+"h": 800,
+"jistota": 0.971,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.pohadkovachaloupka.cz/interier/",
+"typ": "les",
+"url": "https://1509636031.clvaw-cdnwnd.com/5b9d308d806c68607ecfc8807c00ad49/200000037-4ce904ce92/WI%20pavla%C4%8D%20mal%C3%BD.jpg?ph=1509636031",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5b6980",
+"dh": "1ba4bc1ba5010101",
+"h": 900,
+"jistota": 0.583,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.pohadkovachaloupka.cz/",
+"typ": "budova",
+"url": "https://1509636031.clvaw-cdnwnd.com/5b9d308d806c68607ecfc8807c00ad49/200000002-bedc2bedc4/DSC00012.JPG?ph=1509636031",
+"w": 1200
+}
+],
 "detska-skupina-sokolik-ds00628": [
 {
 "alt": "",
