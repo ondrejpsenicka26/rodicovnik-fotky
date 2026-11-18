@@ -818,6 +818,23 @@
 "w": 895
 }
 ],
+"materska-skola-niva-000025": [
+{
+"alt": "Dokončení opravy vnitřních prostor mateřské školy",
+"barva": "#bf905c",
+"dh": "e46c4c5c5cd0d0e0",
+"h": 900,
+"jistota": 0.976,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQT/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABBESITEFE1Fhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQBA//EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMRITH/2gAMAwEAAhEDEQA/AKlxP6RCJEUtM+ileOazy+RiXVVD5ZgME9ftM8xEFazkBJ9cu4A4zx1U2O3aeVgzbDYMFIHXxQXjqVx9FzUv0sxys0YIkQA/dFJisbURgNbDI7wBRWimtEbR/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.obecniva.cz/nase-obec/materska-skola-niva/dokonceni-opravy-vnitrnich-prostor-materske-skoly-496cs.html",
+"typ": "interier",
+"url": "https://www.obecniva.cz/evt_image.php?img=4132&v=1787894833",
+"w": 1200
+}
+],
 "materska-skola-ostrava-plesna-629895": [
 {
 "alt": "",
@@ -1133,6 +1150,62 @@
 "typ": "budova",
 "url": "https://www.skolaholoubkov.cz/data/headerfooter/header_images/foto-hlava-msholoubkov_1.png",
 "w": 951
+}
+],
+"zakladni-skola-a-materska-skola-kladky-610051": [
+{
+"alt": "",
+"barva": "#787569",
+"dh": "7e2726061c506524",
+"h": 1076,
+"jistota": 0.85,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAEAgMFBv/EACsQAAIBAwICCQUAAAAAAAAAAAECAwAEEQUSFCEGEyIxQVFhcsEVNEJxof/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AHbbSpBo8sQ4V5N4cF1J7JAIyAf3yNKXOkI9s7yyM55kL3KD6KKyNPluEAVCgL8ifyI8s+Aq+XpHthaBosEDbncciolLKattQ1bTYuHtZojGDkdYm4jPry/tFV212s0IkZsbu4MwziiqYak0OG0XrbZ5HZTkrkEY8aQuNBi2vcPKzbu1gcsZrpB9ifa3zWbdE/Tj7B8VMdMJmz4ZViRgQo72AzRUr6V0nwpwMeVFNMf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zskladky.cz/pristavba-skoly-2019-2/",
+"typ": "budova",
+"url": "https://zskladky.cz/wp-content/uploads/2024/02/IMG_3677.jpg",
+"w": 807
+},
+{
+"alt": "",
+"barva": "#888a7f",
+"dh": "85c4cc5c232f1f1f",
+"h": 900,
+"jistota": 0.987,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zskladky.cz/pristavba-skoly-2019-2/",
+"typ": "zahrada",
+"url": "https://zskladky.cz/wp-content/uploads/2024/02/DSCN1990.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#737157",
+"dh": "7939191966939071",
+"h": 1076,
+"jistota": 0.749,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zskladky.cz/pristavba-skoly-2019-2/",
+"typ": "les",
+"url": "https://zskladky.cz/wp-content/uploads/2024/02/IMG_3678.jpg",
+"w": 807
+},
+{
+"alt": "",
+"barva": "#9fa5a2",
+"dh": "1c69607c9a0e3f6b",
+"h": 900,
+"jistota": 0.651,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zskladky.cz/pristavba-skoly-2019-2/",
+"typ": "les",
+"url": "https://zskladky.cz/wp-content/uploads/2024/02/DSCN1989.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-koberice-628384": [
