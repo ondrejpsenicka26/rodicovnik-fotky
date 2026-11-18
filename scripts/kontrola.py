@@ -46,5 +46,9 @@ os.makedirs("kontrola", exist_ok=True)
 moje = f"kontrola/videno-{CAST}.json"
 uz = json.load(open(moje)) if os.path.exists(moje) else []
 json.dump(sorted(set(uz) | set(soubory)), open(moje, "w"), indent=0)
-json.dump(vysledek, open(f"kontrola/{CAST}.json", "w"), indent=0, sort_keys=True)
+# Výsledky se přidávají k dřívějším, ne přepisují: jinak by další běh smazal nálezy toho předchozího.
+vysl_soubor = f"kontrola/{CAST}.json"
+drive = json.load(open(vysl_soubor)) if os.path.exists(vysl_soubor) else {}
+drive.update(vysledek)
+json.dump(drive, open(vysl_soubor, "w"), indent=0, sort_keys=True)
 print("Hotovo, podezřelých:", len(vysledek))
