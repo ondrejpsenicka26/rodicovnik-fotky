@@ -617,6 +617,23 @@
 "w": 1200
 }
 ],
+"materska-skola-lahost-568144": [
+{
+"alt": "",
+"barva": "#795c31",
+"dh": "2ececfcdcf267763",
+"h": 516,
+"jistota": 0.693,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAwX/xAAlEAACAQMBCAMAAAAAAAAAAAABAgADBBESBSEyMzRBcYFzsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIS/9oADAMBAAIRAxEAPwA762KVVCUqR7qAuZjdotdF0kYxggHOD+Rm2Oio/GJzrDgbwYNUZGchmGbYZ3M3uURcc9vX1KXptcl//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.lahost.cz/fotogalerie-2/ms-lahostve-skolnim-roce-2022-2023/na-dopravnim-hristi-434cs.html",
+"typ": "les",
+"url": "https://ms.lahost.cz/data/headerfooter/header_images/2.jpg",
+"w": 1200
+}
+],
 "materska-skola-morasice-587520": [
 {
 "alt": "",
@@ -1505,6 +1522,92 @@
 "w": 675
 }
 ],
+"zakladni-skola-a-materska-skola-pisecne-616106": [
+{
+"alt": "",
+"barva": "#5f6567",
+"dh": "140cc5db0f6f6f4f",
+"h": 900,
+"jistota": 0.955,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDAAQRBRITISIxYUFRodHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEhEhQVH/2gAMAwEAAhEDEQA/AEw38luy8Jsbhkjv8Ve/1Frm1MXC2sebe2P2azxQNbwKFZd+4dWPWlX9pczyoZShJ6QSfqpSa0ZJZ4S2tOFRYmVVVQOa5z5orlS2zxSFHXBHmilaXoao/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsmspisecne.cz/projekt-modernizace-vybaveni-zs-a-ms-pisecne/",
+"typ": "budova",
+"url": "https://zsmspisecne.cz/wp-content/uploads/2025/04/Obrazek-WhatsApp-2025-04-13-v-22.13.07_2109fea3.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9d854a",
+"dh": "ccded29f1f5f259f",
+"h": 900,
+"jistota": 0.894,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsmspisecne.cz/zahrada-ms-se-pomalu-meni/",
+"typ": "zahrada",
+"url": "https://zsmspisecne.cz/wp-content/uploads/2023/05/342259982_619034573142868_3991882153609293418_n.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e8373",
+"dh": "981898181c345521",
+"h": 900,
+"jistota": 0.794,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsmspisecne.cz/projekt-modernizace-vybaveni-zs-a-ms-pisecne/",
+"typ": "budova",
+"url": "https://zsmspisecne.cz/wp-content/uploads/2025/09/Obrazek-WhatsApp-2025-09-09-v-15.17.50_7c78adad.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a5917b",
+"dh": "5d5d0c3c0059a044",
+"h": 900,
+"jistota": 0.845,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zsmspisecne.cz/zahrada-ms-se-pomalu-meni/",
+"typ": "zahrada",
+"url": "https://zsmspisecne.cz/wp-content/uploads/2023/05/342209986_1293257791258934_706807343272647600_n.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-rybniste-561590": [
+{
+"alt": "og",
+"barva": "#8b7169",
+"dh": "e828c4862060cdac",
+"h": 900,
+"jistota": 0.956,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABBEhEhMUUWEiMYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQEBAAMBAAAAAAAAAAAAAAABAAIREiL/2gAMAwEAAhEDEQA/AIT3dyGaJZuo40xGF4e/dNxnwsnfYH1ojBPmqG3jWJkT48jliBs+aVY7GMQm1bmzJnakFf2gKlr5HWroga5MQZZlkDbyy7orBIcaoo9Necb/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsrybniste.cz/fotogalerie/hudebni-workshop-pro-ms-a-zs",
+"typ": "interier",
+"url": "http://www.zsrybniste.cz/image.php?oid=12300495",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#6d715c",
+"dh": "c0c1e32f41e3e462",
+"h": 1200,
+"jistota": 0.831,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsrybniste.cz/fotogalerie/podzim-ve-skolni-zahrade",
+"typ": "les",
+"url": "http://www.zsrybniste.cz/image.php?oid=11471298",
+"w": 900
+}
+],
 "zakladni-skola-a-materska-skola-synkov-slemeno-585936": [
 {
 "alt": "",
@@ -1536,6 +1639,49 @@
 "stranka": "https://www.zsujezd.eu/",
 "typ": "budova",
 "url": "https://www.zsujezd.eu/image.php?oid=9002241&nid=20274&width=895",
+"w": 895
+}
+],
+"zakladni-skola-a-materska-skola-zdechov-634538": [
+{
+"alt": "",
+"barva": "#787781",
+"dh": "5e76a6123352d33b",
+"h": 480,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBAEC/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQMCAAQREiEiMRNBQlGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgNBEVH/2gAMAwEAAhEDEQA/AO43z2RJEFrGdgRvSwxkzKM3ZOog8sDv4rU2qmrM5xJlnGdRH7SmWVusGcV8ifUk91rnJ6SUVhWh6oqEXeSch7o75+6KgXbrIJwez1IiikrbPQOuPT//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolazdechov.cz/materska-skola-1/zamestnanci-ms/",
+"typ": "budova",
+"url": "https://www.skolazdechov.cz/data/headerfooter/header_images/swiper4.jpg",
+"w": 895
+},
+{
+"alt": "",
+"barva": "#a29888",
+"dh": "37272fa3b2e487b9",
+"h": 573,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolazdechov.cz/materska-skola-1/obecna-charakteristika-materske-skoly/",
+"typ": "interier",
+"url": "https://www.skolazdechov.cz/data/multipage/editor/editor-14-112-cs_2.jpg?gcm_date=1762722954",
+"w": 765
+},
+{
+"alt": "",
+"barva": "#727279",
+"dh": "34646e5e016de4b0",
+"h": 480,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolazdechov.cz/materska-skola-1/zamestnanci-ms/",
+"typ": "budova",
+"url": "https://www.skolazdechov.cz/data/headerfooter/header_images/swiper3.jpg",
 "w": 895
 }
 ],
