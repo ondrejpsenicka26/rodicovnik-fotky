@@ -1,10 +1,2 @@
-[04:00:05] Část 10/20: webů 148, hotovo 167, zbývá 6
-[04:00:38] https://detskaskupinapaviocko.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 2 fotek ke kontrole
-[04:00:47] https://litomysl.charita.cz/jak-pomahame/dobrovolnicke-centrum/detska-skupina-tulipanek-a-kvitecek: 8 stránek (galerie mimo web: 0 [], alb: 0), 154 obrázků, 44 fotek ke kontrole
-[04:00:47] https://zsliptal.cz/o-skole/detska-skupina-motylci: 14 stránek (galerie mimo web: 0 [], alb: 0), 99 obrázků, 8 fotek ke kontrole
-[04:00:48] https://dsjednicka.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 148 obrázků, 23 fotek ke kontrole
-[04:00:51] https://materske-centrum.cz/sportacek: 4 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 34 fotek ke kontrole
-[04:01:07] https://sqs-saurus.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 282 obrázků, 45 fotek ke kontrole
-[04:01:20] tříděno 0/156
-[04:01:48] Dávka 1: hotovo 173/148, se fotkami 42; {'ok': 11, 'lide': 5, 'jine': 85, 'sablona': 0}
-[04:01:48] Konec: školek s fotkami 42; {'ok': 11, 'lide': 5, 'jine': 85, 'sablona': 0}
+[08:51:31] Část 10/20: webů 146, hotovo 173, zbývá 0
+[08:51:31] Konec: školek s fotkami 42; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
