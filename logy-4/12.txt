@@ -1,10 +1,6 @@
-[09:54:05] Část 13/20: webů 178, hotovo 206, zbývá 6
-[09:54:55] https://zsbranka.cz: 28 stránek (galerie mimo web: 1 ['zsbranka.rajce.idnes.cz'], alb: 0), 13 obrázků, 5 fotek ke kontrole
-[09:54:55] https://zsdolniolesnice.cz: 6 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 1), 19 obrázků, 9 fotek ke kontrole
-[09:55:02] https://okruzni.msorlova.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 149 obrázků, 33 fotek ke kontrole
-[09:55:14] https://ms.sumvald.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 42 fotek ke kontrole
-[09:55:16] https://skolkatover.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 0 fotek ke kontrole
-[09:56:23] https://msmirujavornik.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 329 obrázků, 44 fotek ke kontrole
-[09:56:40] tříděno 0/133
-[09:56:58] Dávka 1: hotovo 212/178, se fotkami 52; {'ok': 12, 'lide': 4, 'jine': 43, 'sablona': 0}
-[09:56:58] Konec: školek s fotkami 52; {'ok': 12, 'lide': 4, 'jine': 43, 'sablona': 0}
+[10:15:31] Část 13/20: webů 177, hotovo 212, zbývá 2
+[10:16:30] https://obectrestina.cz/obec/organizace-zrizene-obci/materska-skola-trestina: 31 stránek (galerie mimo web: 0 [], alb: 0), 208 obrázků, 0 fotek ke kontrole
+[10:18:55] https://msseveracek.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 64 obrázků, 26 fotek ke kontrole
+[10:19:09] tříděno 0/26
+[10:19:10] Dávka 1: hotovo 214/177, se fotkami 53; {'ok': 3, 'lide': 2, 'jine': 21, 'sablona': 0}
+[10:19:10] Konec: školek s fotkami 53; {'ok': 3, 'lide': 2, 'jine': 21, 'sablona': 0}
