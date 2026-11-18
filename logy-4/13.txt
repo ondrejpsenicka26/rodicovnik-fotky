@@ -1,11 +1,2 @@
-[11:45:19] Část 14/20: webů 190, hotovo 221, zbývá 7
-[11:45:42] https://skolkakostik.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 8 fotek ke kontrole
-[11:45:47] https://www.ds-dobromysl.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 5 fotek ke kontrole
-[11:45:49] https://www.nase-skolicka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 49 obrázků, 44 fotek ke kontrole
-[11:45:57] https://dsrozarka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 25 fotek ke kontrole
-[11:46:16] https://ds-broucci.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 1 fotek ke kontrole
-[11:46:39] https://skolkajasminka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 2 fotek ke kontrole
-[11:48:46] https://dswantici.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 69 obrázků, 32 fotek ke kontrole
-[11:49:00] tříděno 0/117
-[11:49:07] Dávka 1: hotovo 228/190, se fotkami 64; {'ok': 6, 'lide': 7, 'jine': 100, 'sablona': 0}
-[11:49:07] Konec: školek s fotkami 64; {'ok': 6, 'lide': 7, 'jine': 100, 'sablona': 0}
+[12:06:17] Část 14/20: webů 190, hotovo 228, zbývá 0
+[12:06:17] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
