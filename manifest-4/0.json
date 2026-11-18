@@ -685,6 +685,23 @@
 "w": 1200
 }
 ],
+"materska-skola-brno-555122": [
+{
+"alt": "",
+"barva": "#937b65",
+"dh": "490884a231bdc747",
+"h": 675,
+"jistota": 0.677,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAQTGF2YzU4LjM1LjEwMAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgMG/8QAIRAAAgEEAQUBAAAAAAAAAAAAAQIRAAMEIRIFEzFBYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EABwRAAICAgMAAAAAAAAAAAAAAAABAgMSMREhQf/aAAwDAQACEQMRAD8AmxnMttl7AdQAQG0QQau3VuS8rdlLF46lhyET41FLmUSNDzTJ0V8AhlUwk7Hujyliti7aXDtaNR1PEdFOUqPeAhiLcifnyiuTI37/AGirYSXoblH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkanopova.rajce.idnes.cz/",
+"typ": "interier",
+"url": "https://img45.rajce.idnes.cz/d4503/16/16640/16640032_47bd6ec992be54a7cd490f959b18c9d7/images/Adam_turnov.jpg",
+"w": 1200
+}
+],
 "materska-skola-brno-602237": [
 {
 "alt": "Budova",
@@ -739,6 +756,49 @@
 "typ": "les",
 "url": "https://www.skolka-vackova.cz/UserFiles/100/Image/17625285105d80a568-c784-4b52-8945-34a91d545923.jpg",
 "w": 1200
+}
+],
+"materska-skola-brno-602733": [
+{
+"alt": "",
+"barva": "#846e4d",
+"dh": "8999190ccf939b19",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACIQAAICAgEDBQAAAAAAAAAAAAECAwQAERIFITEiUWGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAICAwAAAAAAAAAAAAAAAAASAQIREyH/2gAMAwEAAhEDEQA/AEwX6jT8rBMaE9x4Pjzj7NivBagYBzAw2eYO/wAyKm7vZV5I4jHvZUKBhMIFtESFzz2FBJIHxmZ8QWXpc81d25Kex9lOGZrdPgZifX94YdtRIf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://www.msklasterskeho.unas.cz/list.php?page=trida&id=4",
+"typ": "interier",
+"url": "http://www.msklasterskeho.unas.cz/fotos/tridy/zlutatrida/IMG_20250829_163349.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c7659",
+"dh": "a52525dccc4b722c",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "http://www.msklasterskeho.unas.cz/list.php?page=trida&id=4",
+"typ": "interier",
+"url": "http://www.msklasterskeho.unas.cz/fotos/tridy/zlutatrida/IMG_20250829_163144.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#908175",
+"dh": "cac9c98b2b12160c",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "http://www.msklasterskeho.unas.cz/list.php?page=trida&id=4",
+"typ": "hygiena",
+"url": "http://www.msklasterskeho.unas.cz/fotos/tridy/zlutatrida/IMG_20250829_163559.jpg",
+"w": 900
 }
 ],
 "materska-skola-ceska-lipa-560046": [
@@ -942,6 +1002,49 @@
 "w": 900
 }
 ],
+"materska-skola-kosice-581477": [
+{
+"alt": "",
+"barva": "#847f67",
+"dh": "c1ea6a66c90b1f1f",
+"h": 852,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAQT/xAAfEAACAgICAwEAAAAAAAAAAAABAgADESEEEgVBURT/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMREv/aAAwDAQACEQMRAD8A3yD8YIjFFrubCsq6yR7xFraqvpYD21lVIO2+Ti8VQ91r/pCshGwCdywVqrsFiVgOuwfknNdCSwbicim2gNyD1sJ3rEJKsvKWMuWGD6hIutaM/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskosice.cz/?page_id=267",
+"typ": "interier",
+"url": "https://mskosice.cz/wp-content/uploads/2023/09/IMG_8437.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7c7c6b",
+"dh": "cbcbced4c13371d0",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskosice.cz/?page_id=267",
+"typ": "interier",
+"url": "https://mskosice.cz/wp-content/uploads/2023/09/IMG_8438.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8a7f79",
+"dh": "87652662e2983d2e",
+"h": 849,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mskosice.cz/?page_id=267",
+"typ": "hygiena",
+"url": "https://mskosice.cz/wp-content/uploads/2023/09/IMG_8436.jpg",
+"w": 1200
+}
+],
 "materska-skola-kunratice-501139": [
 {
 "alt": "og",
@@ -1033,6 +1136,62 @@
 "stranka": "https://msnovavesi.cz/",
 "typ": "budova",
 "url": "https://msnovavesi.cz/wp-content/uploads/2025/02/fb.jpg",
+"w": 1200
+}
+],
+"materska-skola-pod-lipou-583275": [
+{
+"alt": "",
+"barva": "#6a7560",
+"dh": "c88793a7cf8965c1",
+"h": 525,
+"jistota": 0.98,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAJBAAAgICAQIHAQAAAAAAAAAAAQIDEQAEIQUSBhMxM1FhgZH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREiH/2gAMAwEAAhEDEQA/AK8PXt3Z6kZNyRkgokpR7QK+M14p9efXTYVhSg0RwRz8Zz28INeeOY+Y0xHHNKPuv3JCTvKM6qSvqCor+Zm5UTdLo5vFW1rsU14uyO7ALVf3himdL9pPwVhhtBs//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-podlipou.cz/index.php/zahrada/",
+"typ": "budova",
+"url": "https://www.ms-podlipou.cz/wp-content/uploads/2022/06/DSCN4063.jpg",
+"w": 700
+},
+{
+"alt": "",
+"barva": "#9e855a",
+"dh": "9e3cb79765cfddfd",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-podlipou.cz/index.php/zahrada/",
+"typ": "interier",
+"url": "https://www.ms-podlipou.cz/wp-content/uploads/2021/09/DSCN4000-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#576646",
+"dh": "271f9d4303090020",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-podlipou.cz/index.php/zahrada/",
+"typ": "zahrada",
+"url": "https://www.ms-podlipou.cz/wp-content/uploads/2021/10/DSCN4233-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#638094",
+"dh": "6fe666420f0d8d8f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.ms-podlipou.cz/index.php/zahrada/",
+"typ": "interier",
+"url": "https://www.ms-podlipou.cz/wp-content/uploads/2021/09/DSCN4003-scaled.jpg",
 "w": 1200
 }
 ],
@@ -1270,6 +1429,36 @@
 "typ": "hygiena",
 "url": "https://www.obecsveradice.cz/resizer/resizer.aspx?w=960&img=/koralek/user/obr/100_0234.JPG",
 "w": 901
+}
+],
+"ms-u-rybnicka-zlukov-066475": [
+{
+"alt": "",
+"barva": "#a1a5aa",
+"dh": "09263696366e93b6",
+"h": 525,
+"jistota": 0.95,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIAA8AFAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQRBRITMUFRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOha6rySNHLGUYDIPYNF1YtaSyce2ROlPmthEitt4YhHjAx3QwW5BHEAPlVEtnqc81uHdRkn8pVC28KDagIHrNKD/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mszlukov.cz/fotogalerie.php?ID=243",
+"typ": "zahrada",
+"url": "https://mszlukov.cz/IMAGES/243/2025_11_25_13_31_53_UM1AP4IAGQ8MWQJ12T4C6SU56.JPG",
+"w": 700
+},
+{
+"alt": "",
+"barva": "#a4adb7",
+"dh": "0242c4cf0b06c948",
+"h": 525,
+"jistota": 0.948,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mszlukov.cz/fotogalerie.php?ID=243",
+"typ": "zahrada",
+"url": "https://mszlukov.cz/IMAGES/243/2025_11_25_13_31_59_IUD8RS72SQK7VF1M92V3R48JK.JPG",
+"w": 700
 }
 ],
 "zahradni-skolka-kuchynka-ms-138883": [
