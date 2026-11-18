@@ -742,6 +742,62 @@
 "w": 1000
 }
 ],
+"materska-skola-brno-601338": [
+{
+"alt": "Pohled_MŠ.jpg",
+"barva": "#8a9fb1",
+"dh": "9f3f63244c1d1f0f",
+"h": 900,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAkEAACAgIBAwQDAAAAAAAAAAABAgMRAAQhEhMxBSJBUYHh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECUQMRExQh/9oADAMBAAIRAxEAPwB7V2YNiBHA9zDlQfGWl7KRq8wZAzBbKnz/AHzimhprCIwXD9sULX94xsQtKgUzEqK4Nm6/OVWWVk5Yo78RL6cdg9SURY5HOGZ+z6fFsS9UpJodIF8KPoYYuw6BwKz/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msbrnovaleji.eu/fotogalerie",
+"typ": "budova",
+"url": "https://www.msbrnovaleji.eu/image.php?nid=17806&oid=11024158&width=1600&height=1200",
+"w": 1200
+},
+{
+"alt": "IMG_3136.jpg",
+"barva": "#9c9b7d",
+"dh": "3c0c5c392828d012",
+"h": 878,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msbrnovaleji.eu/fotogalerie",
+"typ": "interier",
+"url": "https://www.msbrnovaleji.eu/image.php?nid=17806&oid=11024169&width=1170&height=878",
+"w": 1170
+},
+{
+"alt": "IMG_3134.jpg",
+"barva": "#6d6d66",
+"dh": "90f1331a7bca8c88",
+"h": 878,
+"jistota": 0.995,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msbrnovaleji.eu/fotogalerie",
+"typ": "zahrada",
+"url": "https://www.msbrnovaleji.eu/image.php?nid=17806&oid=11024166&width=1170&height=878",
+"w": 1170
+},
+{
+"alt": "IMG_2839.jpg",
+"barva": "#968774",
+"dh": "9ed6d6065edad607",
+"h": 878,
+"jistota": 0.981,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msbrnovaleji.eu/fotogalerie",
+"typ": "interier",
+"url": "https://www.msbrnovaleji.eu/image.php?nid=17806&oid=11024160&width=1170&height=878",
+"w": 1170
+}
+],
 "materska-skola-ceperka-158883": [
 {
 "alt": "og",
@@ -1094,6 +1150,36 @@
 "w": 1200
 }
 ],
+"materska-skola-svatoslav-603195": [
+{
+"alt": "og",
+"barva": "#7d7b75",
+"dh": "f90229934a2213f3",
+"h": 900,
+"jistota": 0.972,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACUQAAEEAgAEBwAAAAAAAAAAAAEAAgMRBCEFEhMxFSIjQVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERIx/9oADAMBAAIRAxEAPwDGWZDG404VqqTEeG+XbWAgHlJLvdRbfitMUmU7yndC6/aTnC+IRiUnIHVA0yx2Hz9qKLfBY4YGAkFoJGrAQp/i7oPT5C6idtNXu+1ITEhaP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-svatoslav.cz/fotogalerie/trida-rybicky",
+"typ": "interier",
+"url": "http://www.ms-svatoslav.cz/image.php?oid=12976052",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#968e7b",
+"dh": "fff83b6c2c6c6c6c",
+"h": 900,
+"jistota": 0.966,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-svatoslav.cz/fotogalerie/trida-motylci",
+"typ": "interier",
+"url": "http://www.ms-svatoslav.cz/image.php?oid=12976049",
+"w": 1200
+}
+],
 "materska-skola-uhretice-582414": [
 {
 "alt": "Mateřská škola Úhřetice, okres Chrudim",
@@ -1167,6 +1253,23 @@
 "w": 1000
 }
 ],
+"materska-skola-velke-hosteradky-604892": [
+{
+"alt": "",
+"barva": "#9b8c64",
+"dh": "a1ae2e1799d1530f",
+"h": 729,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAmEAACAQMDAQkAAAAAAAAAAAABAgMAERIEEzEhBRVBUVJxgaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECESFR/9oADAMBAAIRAxEAPwDSYIWZi74k9bBiAOfw1OzGhCpqHBvjbcPle33Sgdo6j1A/FV7wnQsVKgucm6cnis9S6UtDV2hXHdkeRiL5Y5dPeikc2vndwSw48BRTTkHD/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msvhosteradky.eu/",
+"typ": "budova",
+"url": "https://msvhosteradky.eu/wp-content/uploads/2024/05/msvhosteradky-budova.png",
+"w": 1200
+}
+],
 "materska-skola-veltruby-512309": [
 {
 "alt": "",
@@ -1194,6 +1297,36 @@
 "stranka": "https://www.msveltruby.cz/",
 "typ": "zahrada",
 "url": "https://www.msveltruby.cz/data/headerfooter/header_images/dsc02425.jpg",
+"w": 1200
+}
+],
+"materska-skola-veverska-bityska-604124": [
+{
+"alt": "",
+"barva": "#a19c97",
+"dh": "c3d2c2c2d38393a3",
+"h": 900,
+"jistota": 0.952,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAgEAACAQUAAgMAAAAAAAAAAAABAgADBBESIRMiQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAMAwEAAhEDEQA/AKLykGulJqOuVx6n8j7S38dVyKruQuMMeRFwlZrp3CZpqvOjsost02FSnoSB8g5k4EmsxdiPcYP3CaLdhBqv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msveverskabityska.cz/dynovani-s-rodici-a-detmi-v-ms/",
+"typ": "budova",
+"url": "https://www.msveverskabityska.cz/wp-content/uploads/2022/11/20221018_174408.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#888e73",
+"dh": "6f6766766633330f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msveverskabityska.cz/",
+"typ": "zahrada",
+"url": "https://www.msveverskabityska.cz/wp-content/uploads/2019/09/zahrada-9.jpg",
 "w": 1200
 }
 ],
@@ -1400,6 +1533,49 @@
 "stranka": "https://www.rajce.idnes.cz/zshorepnik/album/rekonstrukce-trid-prazdniny-2024-2",
 "typ": "interier",
 "url": "https://img42.rajce.idnes.cz/d4203/19/19197/19197796_672c622331a04bf632d5c51f2412a7b1/images/IMG_20240624_072748.jpg?ver=0",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-kyjov-bohuslavice-607018": [
+{
+"alt": "og",
+"barva": "#aab3b2",
+"dh": "d573e595f7576747",
+"h": 763,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAiEAACAgICAAcAAAAAAAAAAAABAgMRAAQiMQUSFFFScdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAAMBAQAAAAAAAAAAAAAAEQABAhMh/9oADAMBAAIRAxEAPwB5sRy8ljVVPyc5nCSQQSyySCbykcQKq8mNh0jVLJIA5Gr7+stm5asysSbVTft3h01drFWMgRH4kBLtFlZaquz+YYt2JG9RJ1RYkCusMm9NpMw8n//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmsbohuslavice.cz",
+"typ": "budova",
+"url": "https://static.wixstatic.com/media/1feda3_f369a861cfb7494c898228f4a0f02a4b~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#beae87",
+"dh": "9f93979e1f579799",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsmsbohuslavice.cz",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/1feda3_c5e321b88dbe47a4a75169818a1d03ac~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f9894",
+"dh": "3c3e1e1c1494981c",
+"h": 800,
+"jistota": 0.96,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsmsbohuslavice.cz",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/1feda3_7ee5479f37464dcfb5fec611eefc245b~mv2.jpg",
 "w": 1200
 }
 ],

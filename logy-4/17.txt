@@ -1,6 +1,16 @@
-[08:51:31] Část 18/20: webů 134, hotovo 167, zbývá 2
-[08:51:47] https://msnovehrady.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 4 fotek ke kontrole
-[08:53:59] https://zssumavskehostice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 3 fotek ke kontrole
-[08:54:09] tříděno 0/7
-[08:54:09] Dávka 1: hotovo 169/134, se fotkami 47; {'ok': 0, 'lide': 0, 'jine': 7, 'sablona': 0}
-[08:54:09] Konec: školek s fotkami 47; {'ok': 0, 'lide': 0, 'jine': 7, 'sablona': 0}
+[09:22:19] Část 18/20: webů 146, hotovo 169, zbývá 12
+[09:22:29] https://mstrebnouseves.wbs.cz: 1 stránek (galerie mimo web: 1 ['mstrebnouseves.rajce.idnes.cz'], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[09:22:40] https://skolkaobora.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[09:22:43] https://zspavlice.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:22:53] https://msvhosteradky.eu: 8 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 2 fotek ke kontrole
+[09:22:54] https://msbrnovaleji.eu: 3 stránek (galerie mimo web: 1 ['holasky.rajce.idnes.cz'], alb: 0), 10 obrázků, 9 fotek ke kontrole
+[09:22:57] https://zsjirikovice.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:23:24] https://zsmsbohuslavice.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 105 obrázků, 5 fotek ke kontrole
+[09:23:38] https://zshostim-com.webnode.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 333 obrázků, 0 fotek ke kontrole
+[09:23:43] https://mslovcicky.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 142 obrázků, 25 fotek ke kontrole
+[09:23:50] https://ms-libosovice.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 1515 obrázků, 19 fotek ke kontrole
+[09:24:12] https://msveverskabityska.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 66 obrázků, 25 fotek ke kontrole
+[09:24:49] https://ms-svatoslav.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 116 obrázků, 11 fotek ke kontrole
+[09:25:00] tříděno 0/96
+[09:25:09] Dávka 1: hotovo 181/146, se fotkami 52; {'ok': 12, 'lide': 10, 'jine': 73, 'sablona': 0}
+[09:25:09] Konec: školek s fotkami 52; {'ok': 12, 'lide': 10, 'jine': 73, 'sablona': 0}
