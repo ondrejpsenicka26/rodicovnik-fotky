@@ -1,14 +1,7 @@
-[04:00:07] Část 11/20: webů 151, hotovo 176, zbývá 10
-[04:00:12] https://dc-svitavy.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[04:00:18] https://zlute-jablicko.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 7 fotek ke kontrole
-[04:00:18] https://skolkaoskar.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 3 fotek ke kontrole
-[04:00:22] https://dlouhatrebova.cz/zivot-v-obci/detska-skupina-babiccina-zahrada: 4 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
-[04:00:30] https://skolkalotty.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 10 fotek ke kontrole
-[04:00:34] https://montessorikampus.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 12 fotek ke kontrole
-[04:00:43] https://kouzelny-dvorecek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 16 fotek ke kontrole
-[04:00:44] https://slunickopardubice.cz/centrum/stranka/detska-skupina-rosa/71: nedostupné nebo zakázané
-[04:01:07] https://fazole-pisek.webnode.cz/sluzby/fazolka: 13 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 0 fotek ke kontrole
-[04:01:44] https://obec-okrouhlice.cz/detska-skupina-soptik/ds-2957: nedostupné nebo zakázané
-[04:02:00] tříděno 0/50
-[04:02:05] Dávka 1: hotovo 186/151, se fotkami 51; {'ok': 6, 'lide': 2, 'jine': 41, 'sablona': 0}
-[04:02:05] Konec: školek s fotkami 51; {'ok': 6, 'lide': 2, 'jine': 41, 'sablona': 0}
+[08:51:33] Část 11/20: webů 152, hotovo 186, zbývá 3
+[08:52:18] https://mschlum.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 0 fotek ke kontrole
+[08:52:41] https://mssedlec.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 359 obrázků, 3 fotek ke kontrole
+[08:53:11] https://mshospriz.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 519 obrázků, 3 fotek ke kontrole
+[08:53:20] tříděno 0/6
+[08:53:20] Dávka 1: hotovo 189/152, se fotkami 52; {'ok': 1, 'lide': 2, 'jine': 3, 'sablona': 0}
+[08:53:20] Konec: školek s fotkami 52; {'ok': 1, 'lide': 2, 'jine': 3, 'sablona': 0}
