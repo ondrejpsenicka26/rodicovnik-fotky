@@ -1,8 +1,8 @@
-[11:38:37] Část 16/20: webů 168, hotovo 205, zbývá 4
-[11:38:54] https://www.ms-stitneho.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 4 fotek ke kontrole
-[11:39:42] https://www.mssvojsovicka.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 44 fotek ke kontrole
-[11:40:07] https://www.msupice.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 164 obrázků, 0 fotek ke kontrole
-[11:42:47] https://msbelidla.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 583 obrázků, 30 fotek ke kontrole
-[11:43:09] tříděno 0/78
-[11:43:26] Dávka 1: hotovo 209/168, se fotkami 66; {'ok': 9, 'lide': 2, 'jine': 8, 'sablona': 0}
-[11:43:26] Konec: školek s fotkami 66; {'ok': 9, 'lide': 2, 'jine': 8, 'sablona': 0}
+[12:06:19] Část 16/20: webů 172, hotovo 209, zbývá 4
+[12:06:25] http://dsvelisek.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 2 fotek ke kontrole
+[12:06:32] https://www.ds-pexeso.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 8 fotek ke kontrole
+[12:06:32] https://www.zapotokem.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 1 fotek ke kontrole
+[12:07:21] https://www.dssnilkov.cz: 12 stránek (galerie mimo web: 4 ['eu.zonerama.com'], alb: 0), 55 obrázků, 37 fotek ke kontrole
+[12:07:43] tříděno 0/48
+[12:07:50] Dávka 1: hotovo 213/172, se fotkami 68; {'ok': 6, 'lide': 6, 'jine': 14, 'sablona': 0}
+[12:07:50] Konec: školek s fotkami 68; {'ok': 6, 'lide': 6, 'jine': 14, 'sablona': 0}

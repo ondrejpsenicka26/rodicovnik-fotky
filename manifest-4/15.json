@@ -480,6 +480,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-pexeso-ds10547": [
+{
+"alt": "",
+"barva": "#908c80",
+"dh": "c48767713f4f4d0f",
+"h": 1200,
+"jistota": 0.813,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQMABP/EACcQAAICAQMCBQUAAAAAAAAAAAECAAMRBAUhEkEVIjFRcRMjUmHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AIGp2bA9/X9Sop8hOPSLvtyvU6KSOeCDyPbE5/Dr0T7tqlR+K4LfMzqSuBL6yikhLGYNjPAzNJbzeNJrFqWtThAcmaTqmPGhWqCkfV6u2Dx/ZXctzNS9Kr1gsQSOIFX2lXdrGBdixx3j1I5EbnnUa+63zYZiV+O00RZFJ5AmhJ//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ds-pexeso.cz/",
+"typ": "interier",
+"url": "https://www.ds-pexeso.cz/wp-content/uploads/2025/08/532535672_122098935860976935_203433064166246685_n.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#a7a296",
+"dh": "f389135c17032727",
+"h": 1200,
+"jistota": 0.586,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.ds-pexeso.cz/",
+"typ": "interier",
+"url": "https://www.ds-pexeso.cz/wp-content/uploads/2025/08/533023021_122098936136976935_7001086779705203326_n.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#8e8f8b",
+"dh": "7f99c7cf776767e7",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.ds-pexeso.cz/",
+"typ": "hygiena",
+"url": "https://www.ds-pexeso.cz/wp-content/uploads/2025/08/532644751_122098936100976935_916617159678465363_n.jpg",
+"w": 900
+}
+],
 "detska-skupina-slunicka-ds00233": [
 {
 "alt": "Louny",
@@ -508,6 +551,49 @@
 "typ": "budova",
 "url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
 "w": 1024
+}
+],
+"detska-skupina-snilkov-ds01532": [
+{
+"alt": "Vítá Vás Dětská skupina Snílkov",
+"barva": "#8d8880",
+"dh": "538b366189110f0c",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEERIhQRQiMUKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AahiRMeUigfQtwDVFvKD7JcxIW6Hf5WVbrFtuY1LPyTiqXkSNjnbJ5xU6NS6NmktIpCLib3PPx1RUxRZTtgY6ooow/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dssnilkov.cz/cs/tridni-schuzky-s-rodici-nove-prijatych-deti-16-00/a-165/",
+"typ": "interier",
+"url": "https://www.dssnilkov.cz/UserFiles/50/Image/1707418666423062900-883949296544902-2919383562603619165-n.jpg",
+"w": 1200
+},
+{
+"alt": "Prostory Dětské skupiny Snílkov",
+"barva": "#807a73",
+"dh": "fb979797c584855d",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dssnilkov.cz/cs/fotogalerie/21/",
+"typ": "interier",
+"url": "https://www.dssnilkov.cz/UserFiles/50/Image/1707417907426433884-922307772441953-1431966116562330314-n.jpg",
+"w": 1200
+},
+{
+"alt": "Prostory Dětské skupiny Snílkov",
+"barva": "#8f8d83",
+"dh": "4c5d07093844048c",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.dssnilkov.cz/cs/fotogalerie/21/",
+"typ": "hygiena",
+"url": "https://www.dssnilkov.cz/UserFiles/50/Image/1707417904426202263-928882245475167-8804928478865648928-n.jpg",
+"w": 897
 }
 ],
 "materska-skola-akimova-skolicka-006693": [
