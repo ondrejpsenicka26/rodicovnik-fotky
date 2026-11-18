@@ -111,6 +111,23 @@
 "w": 990
 }
 ],
+"detska-skupina-hvezdicka-ds11063": [
+{
+"alt": "og",
+"barva": "#737955",
+"dh": "c8c88a2e2c2d0498",
+"h": 800,
+"jistota": 0.563,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBQED/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQAEEhMhImFBUdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAbEQACAQUAAAAAAAAAAAAAAAAAAQIREhMhQf/aAAwDAQACEQMRAD8AQMTSKXJpUIUEKbx5otVYPLY6oFf0ZOhmmWUqsjeRFn5zsNdJv4z3TgWT7wNJUIpQpPs84Yib+hhmLqKBtSTZ7v3hh5orjNWs/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.starnov.cz/zivot-v-obci/fotogalerie/rok-2026/cov-den-otevrenych-dveri-2392026-588cs.html",
+"typ": "zahrada",
+"url": "https://www.starnov.cz/evt_image.php?img=2885",
+"w": 1200
+}
+],
 "detska-skupina-jezirko-ds01383": [
 {
 "alt": "",
@@ -401,6 +418,79 @@
 "typ": "interier",
 "url": "https://www.rcslunecnice.cz/wp-content/uploads/2025/10/img_3859.jpeg",
 "w": 1000
+}
+],
+"detska-skupina-slunicka-louny-ds10900": [
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgADERIxIUEFBFFhcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAARESE//aAAwDAQACEQMRAD8A0r+TR1OAqDIauOIy+bszIlC62sb9dbnIzOveMH+BzuH1UkWD1lIlruhIPOQI/DCRgL0oH1CHs3iv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#898271",
+"dh": "0e08094843814b01",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/louny/detska-skupina-slunicka-louny/",
+"typ": "interier",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/126/conversions/01KWXQ5YCXN8N4SGSP5EE1H0QJ-full.webp?v=1783401650",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#737b6e",
+"dh": "3b8e859a596ec8c0",
+"h": 900,
+"jistota": 0.993,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.dsslunicka.cz/louny/detska-skupina-slunicka-louny/",
+"typ": "zahrada",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/131/conversions/01KWXQ60GY4XK7J9CW9F7VT4DH-full.webp?v=1783401671",
+"w": 1200
+},
+{
+"alt": "Teplice",
+"barva": "#7f6f55",
+"dh": "929494a5a7f0f81d",
+"h": 683,
+"jistota": 0.998,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
+"w": 1024
+}
+],
+"detska-skupina-zabka-ds00749": [
+{
+"alt": "",
+"barva": "#ac937b",
+"dh": "a6b41c1267363c24",
+"h": 797,
+"jistota": 0.98,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMGBP/EACMQAAICAgEDBQEAAAAAAAAAAAECAxEABAUSITETQVGBkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRA//aAAwDAQACEQMRAD8Abr6Wyszy7S0silGW7FZjfheQdAkFGJDdsaB97H1WVRW0Is9x84qHXMkNieVeodwKr+Znno9Ludkn4eLkROmQKpvwbsD8wyoSEhFHqOaHk4YvowxH/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.studiozabka.cz/",
+"typ": "zahrada",
+"url": "https://duyn491kcolsw.cloudfront.net/files/3w/3wx/3wxft5.jpg?ph=dd69ca4f2c",
+"w": 1200
 }
 ],
 "detsky-svet-ms-012755": [
@@ -1182,6 +1272,36 @@
 "stranka": "https://www.mszichovice.cz/",
 "typ": "les",
 "url": "https://www.mszichovice.cz/files/responsive/2600/0/skolka-zichovice-fotak-17-of-35.jpg",
+"w": 1200
+}
+],
+"mini-skolka-spielberk-i-detska-skupina-ds02250": [
+{
+"alt": "",
+"barva": "#968676",
+"dh": "3f393b3d1e363ede",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EACMQAAICAgEDBQEAAAAAAAAAAAECAxEABCESFDEFIkFRcdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARFBIf/aAAwDAQACEQMRAD8AT6Z2vaFX1pXfqYhlujfxf3ht6FY9hyUkEZoKpNkcZ3h3H041RbZCOFJqvH9w2/uyoXThhfgi8PuCRaHfVjkcmOP2+OCTlmdbaZIQVVR1Esf3LM1osTP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkaspielberk.cz/galerie",
+"typ": "interier",
+"url": "https://images.squarespace-cdn.com/content/v1/6488f502c7471613cfd21b89/76556a10-3e10-495a-af17-1b34b524535e/1-47.jpg?format=2500w",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#cab599",
+"dh": "068e466773131707",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkaspielberk.cz/galerie",
+"typ": "interier",
+"url": "https://images.squarespace-cdn.com/content/v1/6488f502c7471613cfd21b89/09c1fc90-b3cc-4b8c-9178-e4d67675577f/IMG_9880.jpg?format=2500w",
 "w": 1200
 }
 ],

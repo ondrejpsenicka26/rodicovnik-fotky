@@ -1,14 +1,11 @@
-[00:41:53] Část 11/20: webů 145, hotovo 159, zbývá 10
-[00:42:00] https://ds-skritci.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 3 fotek ke kontrole
-[00:42:04] https://chopos.cz/ostredek/detska-skupina-ostredacek/informace: nedostupné nebo zakázané
-[00:42:08] https://jsstatenice.eu/pages/detska-skupina-skolicka-u-koniku.php: 4 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 0 fotek ke kontrole
-[00:42:10] https://milucare.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[00:42:17] https://mandlicky-hustopece.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 17 fotek ke kontrole
-[00:42:19] https://dsrybnicek.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 13 fotek ke kontrole
-[00:42:23] https://montessori-namest.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 14 fotek ke kontrole
-[00:43:30] http://www.skolamysl.cz: nedostupné nebo zakázané
-[00:43:38] https://veselypalecek.cz/noticky-jedovnice: 1 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 17 fotek ke kontrole
-[00:43:45] https://studanka-tisnov.cz/pece-o-deti/jezirko-a-individualni-pece: 2 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 17 fotek ke kontrole
-[00:44:03] tříděno 0/81
-[00:44:19] Dávka 1: hotovo 169/145, se fotkami 45; {'ok': 14, 'lide': 8, 'jine': 40, 'sablona': 0}
-[00:44:19] Konec: školek s fotkami 45; {'ok': 14, 'lide': 8, 'jine': 40, 'sablona': 0}
+[02:14:00] Část 11/20: webů 145, hotovo 169, zbývá 7
+[02:14:16] https://dshangarek.cz/myska-zabreh: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
+[02:14:19] https://studiozabka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 12 fotek ke kontrole
+[02:14:22] https://dsslunicka.cz/louny/detska-skupina-slunicka-louny: 4 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 21 fotek ke kontrole
+[02:14:27] https://skolkaspielberk.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 395 obrázků, 45 fotek ke kontrole
+[02:14:37] https://kolokoloadamov.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 290 obrázků, 36 fotek ke kontrole
+[02:14:46] https://starnov.cz/zivot-v-obci/detska-skupina-hvezdicka: 23 stránek (galerie mimo web: 0 [], alb: 0), 235 obrázků, 5 fotek ke kontrole
+[02:16:08] https://zahradkaprodetatka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 19 fotek ke kontrole
+[02:16:26] tříděno 0/143
+[02:16:38] Dávka 1: hotovo 176/145, se fotkami 49; {'ok': 8, 'lide': 4, 'jine': 113, 'sablona': 0}
+[02:16:38] Konec: školek s fotkami 49; {'ok': 8, 'lide': 4, 'jine': 113, 'sablona': 0}
