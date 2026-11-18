@@ -12,12 +12,20 @@ import os
 import re
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 import urllib.robotparser
 from concurrent.futures import ThreadPoolExecutor
 
 UA = "RodicovnikBot/1.0 (+https://github.com/ondrejpsenicka26/rodicovnik-fotky; prehled skolek v CR)"
+OPAKOVAT = os.environ.get("OPAKOVAT", "") == "1"
+OPAK_RE = re.compile(r"Errno 101|timed out|429|CERTIFICATE_VERIFY|TLSV1_ALERT|DH_KEY|HANDSHAKE|Remote end|Error 500")
+if OPAKOVAT:
+    # Runnery nemají IPv6; chyba IPv6 („Network is unreachable“) pak zakryje skutečný výsledek IPv4.
+    import socket
+    _gai = socket.getaddrinfo
+    socket.getaddrinfo = lambda *a, **k: [x for x in _gai(*a, **k) if x[0] == socket.AF_INET] or _gai(*a, **k)
 vstup = json.load(open("weby-csi/shoda-vstup.json"))
 vystup = json.load(open("weby-csi/shoda.json")) if os.path.exists("weby-csi/shoda.json") else {}
 CIZI = re.compile(r"casino|kasino|sázk|poker|viagra|porn|escort|doména je na prodej|domain (is )?for sale|"
@@ -47,9 +55,16 @@ def smim(u):
     return True if rp is None else rp.can_fetch(UA, u)
 
 
-def nacti(u):
+def nacti(u, pokus=0):
     req = urllib.request.Request(u, headers={"User-Agent": UA, "Accept-Language": "cs"})
-    with urllib.request.urlopen(req, timeout=25) as r:
+    try:
+        r = urllib.request.urlopen(req, timeout=45 if OPAKOVAT else 25)
+    except urllib.error.HTTPError as e:
+        if OPAKOVAT and e.code == 429 and pokus == 0:
+            time.sleep(40)
+            return nacti(u, 1)
+        raise
+    with r:
         final = r.geturl()
         data = r.read(3_000_000)
         ct = r.headers.get("Content-Type", "")
@@ -85,7 +100,17 @@ def over(item):
     try:
         if not smim(web):
             return slug, {"ok": False, "shoda": "", "duvod": "robots"}
-        final, t = nacti(web)
+        pouzit = ""
+        try:
+            final, t = nacti(web)
+        except urllib.error.URLError as e:
+            # Neplatný certifikát: zkusí stejnou adresu přes http (odkaz pak vede tam, kde se web načte bez varování).
+            if not (OPAKOVAT and web.startswith("https://") and "SSL" in str(e)):
+                raise
+            pouzit = "http://" + web[len("https://"):]
+            final, t = nacti(pouzit)
+            if final.startswith("https://"):
+                raise RuntimeError("http vede zpět na https")
         tit = re.search(r"<title[^>]*>(.*?)</title>", t, re.I | re.S)
         titulek = html.unescape(re.sub(r"\s+", " ", tit.group(1))).strip()[:120] if tit else ""
         text = text_z(t)
@@ -111,16 +136,22 @@ def over(item):
                 s = shoda(text_z(t2), z)
                 if s:
                     break
-        return slug, {"ok": bool(s), "shoda": s, "duvod": "" if s else "bez-shody", "final": final, "titulek": titulek}
+        v = {"ok": bool(s), "shoda": s, "duvod": "" if s else "bez-shody", "final": final, "titulek": titulek}
+        if pouzit:
+            v["web_pouzit"] = pouzit
+        return slug, v
     except Exception as e:  # noqa: BLE001
         return slug, {"ok": False, "shoda": "", "duvod": "chyba: " + str(e)[:80]}
 
 
-zbyva = [(s, z) for s, z in sorted(vstup.items()) if s not in vystup or vystup[s].get("web") != z["web"]]
+zbyva = [(s, z) for s, z in sorted(vstup.items()) if s not in vystup or vystup[s].get("web") != z["web"]
+         or (OPAKOVAT and not vystup[s].get("opak") and OPAK_RE.search(vystup[s].get("duvod") or ""))]
 print("webů k ověření", len(zbyva), flush=True)
 with ThreadPoolExecutor(4) as ex:
     for n, (s, v) in enumerate(ex.map(over, zbyva)):
         v["web"] = vstup[s]["web"]
+        if OPAKOVAT:
+            v["opak"] = 1
         vystup[s] = v
         if n % 100 == 0:
             print(n, flush=True)
