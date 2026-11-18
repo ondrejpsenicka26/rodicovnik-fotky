@@ -201,6 +201,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-slunicka-teplice-ii-ds01824": [
+{
+"alt": "",
+"barva": "#a09b8f",
+"dh": "8c084c0d89198204",
+"h": 903,
+"jistota": 0.953,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAAFBv/EACAQAAIBBAMAAwAAAAAAAAAAAAECAwAEERIhMVEFE0H/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AMT468dLqF2J4cZ28rtJp1D24A22yG1HXH7RIY7ZgCkKHHRKikfXGTvoM+1GTE0WXjHBZMjvmqim3QnJiXJ8FVOTb//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/teplice/detska-skupina-slunicka-teplice-ii/",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/110/conversions/01KE9BXH9GTDXQHR5FR2GP3X0F-full.webp?v=1767686344",
+"w": 1200
+},
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+}
+],
 "detska-skupina-vcelicky-ds01479": [
 {
 "alt": "",
@@ -306,6 +336,62 @@
 "typ": "budova",
 "url": "https://2182ca50b7.clvaw-cdnwnd.com/65acffb29b46ff09d46bea15863300ad/200007176-2660c2660e/d9bef5f7-d2d0-48ad-831c-e5435f529710.png",
 "w": 1200
+}
+],
+"kuliskov-detska-skupina-ds10472": [
+{
+"alt": "provozni-rezim",
+"barva": "#b8a086",
+"dh": "073f5fc7ad3dbf0f",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAkEAABBAEDAwUAAAAAAAAAAAABAAIDEQQFEiEiMZETFCNhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAARARL/2gAMAwEAAhEDEQA/AO373FxgGkNLg4bjXax3CSXVGbK9WACuAQeEjIIgD0DkAeFlyNMglc43I1zubDkFPwlJnAPPzR+L/EKEml9ZrJlH0KQsuqP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://kuliskuvsvet.cz/kulisek/",
+"typ": "interier",
+"url": "https://kuliskuvsvet.cz/assets/images/kulisek/02_5_proc_si_vybrat.jpg",
+"w": 1200
+},
+{
+"alt": "galerie",
+"barva": "#78705a",
+"dh": "0e1f99dd492d2627",
+"h": 720,
+"jistota": 0.917,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://kuliskuvsvet.cz/kulisek/",
+"typ": "zahrada",
+"url": "https://kuliskuvsvet.cz/assets/images/kulisek/galerie/galerie01.jpg",
+"w": 1080
+},
+{
+"alt": "provozni-rezim",
+"barva": "#c19665",
+"dh": "a7b3b24b66647878",
+"h": 720,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://kuliskuvsvet.cz/kuliskov/",
+"typ": "interier",
+"url": "https://kuliskuvsvet.cz/assets/images/kuliskov/05_provozni-rezim.jpg",
+"w": 1082
+},
+{
+"alt": "galerie",
+"barva": "#ce9a4e",
+"dh": "9212acc888e8f9e6",
+"h": 1080,
+"jistota": 0.964,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://kuliskuvsvet.cz/kuliskov/",
+"typ": "hygiena",
+"url": "https://kuliskuvsvet.cz/assets/images/kuliskov/galerie/galerie05.jpg",
+"w": 720
 }
 ],
 "materska-skola-chric-544881": [

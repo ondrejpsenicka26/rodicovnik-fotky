@@ -1,18 +1,13 @@
-[00:42:36] Část 15/20: webů 140, hotovo 154, zbývá 14
-[00:42:39] https://marcofitness.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[00:42:43] https://knoflicekdubnany.cz/hlidani-deti/detska-skupina-knoflicky-kyjov: nedostupné nebo zakázané
-[00:42:47] https://skolkavodenka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 9 fotek ke kontrole
-[00:42:49] https://smiskuvsvet.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
-[00:42:54] https://panenskebrezany.cz/obec/detska-skupina-panenske-brezany: 3 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 6 fotek ke kontrole
-[00:42:58] https://zsluzna.edupage.org: 3 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 9 fotek ke kontrole
-[00:42:59] https://moonimals.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 19 fotek ke kontrole
-[00:43:07] http://www.zsamssloup.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 14 fotek ke kontrole
-[00:43:17] https://kubsice.eu/kubsicka-skolicka/detska-skupina: 15 stránek (galerie mimo web: 0 [], alb: 0), 47 obrázků, 3 fotek ke kontrole
-[00:43:19] http://www.zs-a-ms-volenice.eu: 29 stránek (galerie mimo web: 0 [], alb: 0), 189 obrázků, 2 fotek ke kontrole
-[00:43:25] http://www.zsstonava.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 66 obrázků, 25 fotek ke kontrole
-[00:43:30] https://predskolkou.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 180 obrázků, 41 fotek ke kontrole
-[00:44:05] https://prostorprorodinu.cz/detska-skupina-medvidek-v-beroune: 2 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 17 fotek ke kontrole
-[00:44:57] https://skolkaznojmo.cz/tridy/4-trida-vcelicky: 6 stránek (galerie mimo web: 0 [], alb: 0), 72 obrázků, 28 fotek ke kontrole
-[00:45:11] tříděno 0/178
-[00:45:35] Dávka 1: hotovo 168/140, se fotkami 48; {'ok': 15, 'lide': 12, 'jine': 114, 'sablona': 0}
-[00:45:35] Konec: školek s fotkami 48; {'ok': 15, 'lide': 12, 'jine': 114, 'sablona': 0}
+[02:14:01] Část 15/20: webů 146, hotovo 168, zbývá 9
+[02:14:11] https://benjaminekstod.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 3 fotek ke kontrole
+[02:14:26] https://kolackove.cz/kulihrasci: 2 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 23 fotek ke kontrole
+[02:14:26] https://dsslunicka.cz/teplice/detska-skupina-slunicka-teplice-ii: 4 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 23 fotek ke kontrole
+[02:14:27] https://malinka.eschool.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 1 fotek ke kontrole
+[02:14:28] https://dspenkavka.eschool.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 0 fotek ke kontrole
+[02:14:44] https://jeslemajdalenka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 0 fotek ke kontrole
+[02:14:46] https://kuliskuvsvet.cz/kuliskov: 2 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 31 fotek ke kontrole
+[02:14:56] https://obeczdetin.cz/fotogalerie/detska-skupina-prtata: 8 stránek (galerie mimo web: 0 [], alb: 0), 87 obrázků, 3 fotek ke kontrole
+[02:17:08] https://vetrnicek-usti.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 179 obrázků, 27 fotek ke kontrole
+[02:17:29] tříděno 0/111
+[02:17:45] Dávka 1: hotovo 177/146, se fotkami 50; {'ok': 6, 'lide': 6, 'jine': 74, 'sablona': 0}
+[02:17:45] Konec: školek s fotkami 50; {'ok': 6, 'lide': 6, 'jine': 74, 'sablona': 0}
