@@ -1479,6 +1479,36 @@
 "w": 1200
 }
 ],
+"materska-skola-prestice-544466": [
+{
+"alt": "",
+"barva": "#707663",
+"dh": "5c7579a6e6188e8c",
+"h": 600,
+"jistota": 0.897,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAQABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAkEAACAgEDAgcAAAAAAAAAAAABAwIEAAURIRJhEyIyQVFx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/AJxrsOnwX1qU1QDJFoPAI2/cRfp7fDnYBZNI2YWgDYjfmI+sXS+DTNdssYsxETFR9RB4OP3oIpIWZvelMoCMUg+Y/IzOSDqkQvqJjTXMpB4I22PfDNKpp+lWKaWOsTjIwAAk0ggDj2PbDHFbX//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msprestice.cz/o-skolce/nase-skolka",
+"typ": "budova",
+"url": "https://www.msprestice.cz/images/letecky-pohled.jpg",
+"w": 774
+},
+{
+"alt": "zahrada 2016 19",
+"barva": "#677e5a",
+"dh": "60703259183c7339",
+"h": 600,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msprestice.cz/o-skolce/skolni-zahrada",
+"typ": "zahrada",
+"url": "https://www.msprestice.cz/images/zahrada_2016_19.jpg",
+"w": 800
+}
+],
 "materska-skola-rozmarynka-uhricice-631211": [
 {
 "alt": "Jídelna s dřevěnými stoly a židlemi",
