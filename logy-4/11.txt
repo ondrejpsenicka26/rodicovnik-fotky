@@ -1,6 +1,5 @@
-[12:43:12] Část 12/20: webů 183, hotovo 226, zbývá 2
-[12:44:12] https://ms.koutnasumave.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 472 obrázků, 5 fotek ke kontrole
-[12:44:50] https://zssemanin.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 933 obrázků, 43 fotek ke kontrole
-[12:45:06] tříděno 0/48
-[12:45:07] Dávka 1: hotovo 228/183, se fotkami 64; {'ok': 2, 'lide': 1, 'jine': 42, 'sablona': 0}
-[12:45:07] Konec: školek s fotkami 64; {'ok': 2, 'lide': 1, 'jine': 42, 'sablona': 0}
+[12:54:26] Část 12/20: webů 184, hotovo 228, zbývá 1
+[12:55:24] https://skola-husinecrez.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 461 obrázků, 4 fotek ke kontrole
+[12:55:33] tříděno 0/4
+[12:55:33] Dávka 1: hotovo 229/184, se fotkami 64; {'ok': 0, 'lide': 0, 'jine': 4, 'sablona': 0}
+[12:55:33] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 4, 'sablona': 0}
