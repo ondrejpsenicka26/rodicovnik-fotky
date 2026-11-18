@@ -1578,6 +1578,36 @@
 "w": 1200
 }
 ],
+"zs-a-ms-orlik-nad-vltavou-053423": [
+{
+"alt": "",
+"barva": "#747168",
+"dh": "86c2613f1b3d3411",
+"h": 765,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EAB8QAAICAwACAwAAAAAAAAAAAAECAxEABBIhIkFScf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAECERIDEzH/2gAMAwEAAhEDEQA/AJ4tebZiWWBFsiypNUM3mZAVeAH4JFY2pvSRrzFCpAFAXQGDbO25PtyL+xwpkdPS1bBE+9ro5UhvH5hjPppI5dubY2aWhhj2OBRD/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsorlik.cz/zakladni-skola/o-nas/soucasnost/",
+"typ": "budova",
+"url": "https://www.zsorlik.cz/data/multipage/editor/editor-12-89-cs_1_big.png?gcm_date=1751459888",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7e8190",
+"dh": "f0d4e92b51516001",
+"h": 768,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsorlik.cz/zakladni-skola/o-nas/historie-skoly/",
+"typ": "budova",
+"url": "https://www.zsorlik.cz/data/multipage/editor/editor-11-88-cs_1_big.png?gcm_date=1751459725",
+"w": 760
+}
+],
 "zs-a-ms-svaty-jan-nad-malsi-530864": [
 {
 "alt": "og",

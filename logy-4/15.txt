@@ -1,7 +1,6 @@
-[04:00:41] Část 16/20: webů 142, hotovo 166, zbývá 3
-[04:01:19] https://icsasov.cz/detska-skupina-sipecek: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 3 fotek ke kontrole
-[04:01:31] https://vcelka-budetice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 52 obrázků, 9 fotek ke kontrole
-[04:03:43] https://dracekcl.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 64 obrázků, 11 fotek ke kontrole
-[04:03:56] tříděno 0/23
-[04:03:56] Dávka 1: hotovo 169/142, se fotkami 49; {'ok': 0, 'lide': 4, 'jine': 19, 'sablona': 0}
-[04:03:56] Konec: školek s fotkami 49; {'ok': 0, 'lide': 4, 'jine': 19, 'sablona': 0}
+[08:51:38] Část 16/20: webů 143, hotovo 169, zbývá 2
+[08:51:48] https://obeccimer.cz/zivot-v-obci/instituce-a-spolky/materska-skola-34cs.html: nedostupné nebo zakázané
+[08:53:04] https://zsorlik.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 50 obrázků, 12 fotek ke kontrole
+[08:53:19] tříděno 0/12
+[08:53:19] Dávka 1: hotovo 171/143, se fotkami 50; {'ok': 2, 'lide': 0, 'jine': 10, 'sablona': 0}
+[08:53:19] Konec: školek s fotkami 50; {'ok': 2, 'lide': 0, 'jine': 10, 'sablona': 0}
