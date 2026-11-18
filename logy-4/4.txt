@@ -1,8 +1,6 @@
-[10:15:32] Část 5/20: webů 146, hotovo 175, zbývá 4
-[10:15:55] https://lobodice.cz/obec-7/skola: 7 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 0 fotek ke kontrole
-[10:16:37] https://cernotin.cz/organizace/zakladni-a-materska-skola: 34 stránek (galerie mimo web: 0 [], alb: 0), 100 obrázků, 0 fotek ke kontrole
-[10:16:57] https://obecniva.cz/nase-obec/materska-skola-niva: 34 stránek (galerie mimo web: 0 [], alb: 0), 323 obrázků, 3 fotek ke kontrole
-[10:17:22] https://zskladky.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 643 obrázků, 30 fotek ke kontrole
-[10:17:37] tříděno 0/33
-[10:17:39] Dávka 1: hotovo 179/146, se fotkami 49; {'ok': 5, 'lide': 2, 'jine': 26, 'sablona': 0}
-[10:17:39] Konec: školek s fotkami 49; {'ok': 5, 'lide': 2, 'jine': 26, 'sablona': 0}
+[10:40:11] Část 5/20: webů 147, hotovo 179, zbývá 2
+[10:40:41] http://mskocour.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 76 obrázků, 2 fotek ke kontrole
+[10:40:58] http://usti.ymca.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 1 fotek ke kontrole
+[10:41:06] tříděno 0/3
+[10:41:06] Dávka 1: hotovo 181/147, se fotkami 49; {'ok': 0, 'lide': 0, 'jine': 3, 'sablona': 0}
+[10:41:06] Konec: školek s fotkami 49; {'ok': 0, 'lide': 0, 'jine': 3, 'sablona': 0}
