@@ -1,6 +1,2 @@
-[12:43:06] Část 17/20: webů 190, hotovo 230, zbývá 2
-[12:43:50] https://skolka-rybnice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 1 fotek ke kontrole
-[12:44:35] https://ms64.plzen.eu: 27 stránek (galerie mimo web: 0 [], alb: 0), 158 obrázků, 23 fotek ke kontrole
-[12:44:47] tříděno 0/24
-[12:44:47] Dávka 1: hotovo 232/190, se fotkami 66; {'ok': 2, 'lide': 0, 'jine': 22, 'sablona': 0}
-[12:44:47] Konec: školek s fotkami 66; {'ok': 2, 'lide': 0, 'jine': 22, 'sablona': 0}
+[12:54:31] Část 17/20: webů 190, hotovo 232, zbývá 0
+[12:54:31] Konec: školek s fotkami 66; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
