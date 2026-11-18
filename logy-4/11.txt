@@ -1,15 +1,2 @@
-[09:22:17] Část 12/20: webů 163, hotovo 181, zbývá 11
-[09:22:45] https://skolapribice.cz: 5 stránek (galerie mimo web: 1 ['skolapribice.rajce.idnes.cz'], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[09:22:46] https://trbousany.cz/materska-skola.html: 34 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[09:23:36] https://touzim.cz/mesto/organizace-zrizene-mestem/prispevkove-organizace/materska-skola: 27 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 2 fotek ke kontrole
-[09:23:41] https://veverskekninice.cz/organizace/materska-skola: 34 stránek (galerie mimo web: 0 [], alb: 0), 253 obrázků, 1 fotek ke kontrole
-[09:23:41] https://zsolbramovice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 592 obrázků, 1 fotek ke kontrole
-[09:23:42] https://ceprovice.cz/obec/ms-ceprovice/skutecne-zdrava-skolka: 30 stránek (galerie mimo web: 0 [], alb: 0), 152 obrázků, 0 fotek ke kontrole
-[09:23:44] https://msmhorakove.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 74 obrázků, 38 fotek ke kontrole
-[09:23:44] https://msvranov.cz: 4 stránek (galerie mimo web: 1 ['msvranovnaddyji.rajce.idnes.cz'], alb: 0), 144 obrázků, 45 fotek ke kontrole
-[09:23:52] https://msmladejov.e-obec.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 173 obrázků, 39 fotek ke kontrole
-[09:24:03] https://zsvlasatice.cz: 14 stránek (galerie mimo web: 1 ['zsvlasatice.rajce.idnes.cz'], alb: 1), 173 obrázků, 34 fotek ke kontrole
-[09:24:14] https://mshochmanova.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 220 obrázků, 0 fotek ke kontrole
-[09:24:25] tříděno 0/160
-[09:24:37] Dávka 1: hotovo 192/163, se fotkami 49; {'ok': 6, 'lide': 13, 'jine': 128, 'sablona': 0}
-[09:24:37] Konec: školek s fotkami 49; {'ok': 6, 'lide': 13, 'jine': 128, 'sablona': 0}
+[09:44:22] Část 12/20: webů 161, hotovo 192, zbývá 0
+[09:44:22] Konec: školek s fotkami 49; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
