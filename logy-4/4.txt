@@ -1,16 +1,2 @@
-[09:22:14] Část 5/20: webů 138, hotovo 152, zbývá 12
-[09:22:17] https://zsdetenice.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[09:22:24] https://ms-ostruzno.webnode.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 2 fotek ke kontrole
-[09:22:30] https://skolarovna.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 0 fotek ke kontrole
-[09:22:52] https://msnauvozeivancice.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 2 fotek ke kontrole
-[09:23:13] https://olbramkostel.cz/mestys/materska-skola: 22 stránek (galerie mimo web: 0 [], alb: 0), 59 obrázků, 0 fotek ke kontrole
-[09:23:24] https://obec-hermanice.cz/materska-skola: 8 stránek (galerie mimo web: 0 [], alb: 0), 463 obrázků, 6 fotek ke kontrole
-[09:23:27] https://mstreben.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 750 obrázků, 4 fotek ke kontrole
-[09:23:35] https://zsmskratonohy.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 175 obrázků, 11 fotek ke kontrole
-[09:23:36] https://skola.sudomerice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 942 obrázků, 5 fotek ke kontrole
-[09:23:59] https://msznojmo-armady.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 180 obrázků, 45 fotek ke kontrole
-[09:24:02] https://msnamrepublikyznojmo.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 4288 obrázků, 43 fotek ke kontrole
-[09:25:09] https://msbezrucova.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 12 fotek ke kontrole
-[09:25:23] tříděno 0/130
-[09:25:34] Dávka 1: hotovo 164/138, se fotkami 41; {'ok': 2, 'lide': 18, 'jine': 110, 'sablona': 0}
-[09:25:34] Konec: školek s fotkami 41; {'ok': 2, 'lide': 18, 'jine': 110, 'sablona': 0}
+[09:44:20] Část 5/20: webů 137, hotovo 164, zbývá 0
+[09:44:20] Konec: školek s fotkami 41; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
