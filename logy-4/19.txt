@@ -1,19 +1,7 @@
-[04:00:01] Část 20/20: webů 142, hotovo 159, zbývá 15
-[04:00:09] https://kralovskaskolkacb.cz: nedostupné nebo zakázané
-[04:00:13] https://skritci-justici.com: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[04:00:13] https://im-perfect.cz/detske-skupiny/zbusska-vlcata: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[04:00:21] https://bublina-jbc.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 1 fotek ke kontrole
-[04:00:25] https://montessoriprostor.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 19 fotek ke kontrole
-[04:00:29] https://dshnizdo.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 19 fotek ke kontrole
-[04:00:32] https://svchumpolec.cz/detska-skupina-mladata-humpolec: 7 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 6 fotek ke kontrole
-[04:00:37] https://rechtajicikralicek.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 52 obrázků, 22 fotek ke kontrole
-[04:00:45] https://dcveska.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 2 fotek ke kontrole
-[04:01:02] https://masroznovsko.cz/mikrojesle-hutisko-solanec: 23 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 1 fotek ke kontrole
-[04:01:04] https://vysokepole.cz/detska-skupina-malina: 20 stránek (galerie mimo web: 0 [], alb: 0), 106 obrázků, 6 fotek ke kontrole
-[04:01:22] https://dckvary.cz/nase-sluzby/detska-skupina-sovicka: 16 stránek (galerie mimo web: 0 [], alb: 0), 14893 obrázků, 43 fotek ke kontrole
-[04:01:38] https://portusprachatice.cz/prorodinne-aktivity/detske-skupiny/detska-skupina-little-portus: nedostupné nebo zakázané
-[04:02:00] https://novasidla.cz/detska-skupina/detska-skupina-u-mlyna: 10 stránek (galerie mimo web: 0 [], alb: 0), 89 obrázků, 13 fotek ke kontrole
-[04:03:21] https://junikorn.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 48 obrázků, 11 fotek ke kontrole
-[04:03:32] tříděno 0/144
-[04:03:58] Dávka 1: hotovo 174/142, se fotkami 54; {'ok': 13, 'lide': 9, 'jine': 109, 'sablona': 0}
-[04:03:58] Konec: školek s fotkami 54; {'ok': 13, 'lide': 9, 'jine': 109, 'sablona': 0}
+[08:51:30] Část 20/20: webů 142, hotovo 174, zbývá 3
+[08:51:46] https://skolanovapec.cz: 6 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 7 obrázků, 5 fotek ke kontrole
+[08:51:51] https://mscejkovice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 0 fotek ke kontrole
+[08:52:20] https://skolka.tsviny.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 6 fotek ke kontrole
+[08:52:29] tříděno 0/11
+[08:52:30] Dávka 1: hotovo 177/142, se fotkami 56; {'ok': 4, 'lide': 0, 'jine': 5, 'sablona': 0}
+[08:52:30] Konec: školek s fotkami 56; {'ok': 4, 'lide': 0, 'jine': 5, 'sablona': 0}

@@ -1468,6 +1468,36 @@
 "w": 1200
 }
 ],
+"materska-skola-trhove-sviny-531208": [
+{
+"alt": "",
+"barva": "#a19889",
+"dh": "ae3b3b23b39ba7b2",
+"h": 519,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQEC/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIAAwQREjEFFDNBcnOhwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AG9HybcPKzxkMih33BvInU/sqJYbizXMXTYeVG0/JkVuLfc+onp3Nvrgzbp4I4UvEZkUWi9+20qqJ1C7SdITrH8IQiE4f//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolka.tsviny.cz/stranka-ms-ctyrlistek-7",
+"typ": "budova",
+"url": "https://skolka.tsviny.cz/mbimg-1254--177.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a4a18d",
+"dh": "1b3b2ba3b38be632",
+"h": 513,
+"jistota": 0.992,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolka.tsviny.cz/stranka-ms-trhove-sviny-2",
+"typ": "budova",
+"url": "https://skolka.tsviny.cz/mbimg--1254-180.jpg",
+"w": 1200
+}
+],
 "materska-skola-usti-nad-orlici-589729": [
 {
 "alt": "",
@@ -1839,6 +1869,36 @@
 "typ": "hygiena",
 "url": "https://zslukavice.cz/wp-content/gallery/skolni-kuchyn/IMG_20170904_130200.jpg",
 "w": 1024
+}
+],
+"zakladni-skola-a-materska-skola-nova-pec-534509": [
+{
+"alt": "",
+"barva": "#656b54",
+"dh": "0f353028b02463df",
+"h": 801,
+"jistota": 0.822,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBP/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQAERIFITETFWFRcZGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQADAAMAAAAAAAAAAAAAAAAAARETFCH/2gAMAwEAAhEDEQA/AJ2k6iY0d1stBYQlSk+oPnxSjWZirArB3CtgPitqIcVpkt4vG/KuoAfa9uKcR4bQsI5ViTbIg/lYZuQIVokVE5gP5JSFcC1FSO4OJAS2MUjgADb6oq9hiiP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolanovapec.cz/",
+"typ": "budova",
+"url": "https://d04fa83210.clvaw-cdnwnd.com/15a5c4805660be8f7161d3bf2a1f26bb/200000079-b2f18b2f1a/IMG_5866.jpeg?ph=d04fa83210",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#697b5d",
+"dh": "59a5c7cd4d031b06",
+"h": 801,
+"jistota": 0.968,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolanovapec.cz/",
+"typ": "zahrada",
+"url": "https://d04fa83210.clvaw-cdnwnd.com/15a5c4805660be8f7161d3bf2a1f26bb/200000119-91b0391b05/IMG_5886or-2.jpeg?ph=d04fa83210",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-stankovice-040704": [
