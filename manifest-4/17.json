@@ -944,6 +944,36 @@
 "w": 1200
 }
 ],
+"materska-skola-hlubocky-627990": [
+{
+"alt": "og",
+"barva": "#7c7967",
+"dh": "2dc6bc9cbcbc3547",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMABBEGEiExUXGBBRQVQqH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRMUH/2gAMAwEAAhEDEQA/AFbrd714bPaoUFQD9u5qbN6lcBQjxWxA4AqhGPINdj8PY3DSTT71L4TCEjB696Tu9H2McJlimuWdeIRmGD1HKjWWanwwmm7m4UTM6uzjJbdjPjFFVnZw2IYsoOWHx+UUWE4qz//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mshlubocky.cz/fotogalerie-2016-2017/detsky-den-na-tema-vesmir-5259491-8569.5259491.5",
+"typ": "les",
+"url": "http://www.mshlubocky.cz/image.php?oid=5684507",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#837969",
+"dh": "2123cf4e0f172b2e",
+"h": 1200,
+"jistota": 0.987,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mshlubocky.cz/fotogalerie-2015-2016/po-indianske-stezce-4581337-8569.4581337.2",
+"typ": "les",
+"url": "http://www.mshlubocky.cz/image.php?oid=4655718",
+"w": 900
+}
+],
 "materska-skola-klucov-512155": [
 {
 "alt": "og",
@@ -1031,6 +1061,49 @@
 "stranka": "https://www.nebahovy.cz/obec/kalendar-akci/den-otevrenych-dveri-v-nove-budove-ms-nebahovy-427_76cs.html",
 "typ": "budova",
 "url": "https://www.nebahovy.cz/data/headerfooter/header_images/1000094493.jpg",
+"w": 1200
+}
+],
+"materska-skola-oborna-620111": [
+{
+"alt": "",
+"barva": "#7f9881",
+"dh": "0f0fcd9f13332720",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIAAxEhBCIxUQUyQWGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAdEQACAQQDAAAAAAAAAAAAAAAAAgEDBBNRFCEx/9oADAMBAAIRAxEAPwBdNVa7rsVlJxkt8+JcjFyEVlGKnDAMdH8mb6Wz2cFnDBSW8dsR9FQqTp7ttmxtj9yEXbL0DFDegnocHpXMoxuIjEsxYk79xEpXl09SHC2z/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msoborna.cz/",
+"typ": "budova",
+"url": "https://msoborna.cz/wp-content/uploads/2025/11/ms-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#baab98",
+"dh": "f3cf4dc5d9b8594b",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msoborna.cz/",
+"typ": "interier",
+"url": "https://msoborna.cz/wp-content/uploads/2025/11/ms-6.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#879990",
+"dh": "1c1853131713cfbd",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msoborna.cz/",
+"typ": "zahrada",
+"url": "https://msoborna.cz/wp-content/uploads/2025/11/ms-17.jpg",
 "w": 1200
 }
 ],
@@ -1643,6 +1716,62 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-tranovice-007663": [
+{
+"alt": "",
+"barva": "#647249",
+"dh": "840584a4c496a6a7",
+"h": 720,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACA//EACAQAAIBBAEFAAAAAAAAAAAAAAECAAMREiEEBRMxUXH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAQUBAQAAAAAAAAAAAAAAAAECERIhAxP/2gAMAwEAAhEDEQA/ADUCJWOR2DES9B+mou+5nsMIRTqUTWZqjG4GhbzEqPGUcZMiMmFz9MhzZkSB7aap1HGUgHIgehKYRiFtkRbRsZTPR6ZI3nOop//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsamstranovice.cz/materska-skola/",
+"typ": "interier",
+"url": "https://zsamstranovice.cz/wp-content/uploads/2021/09/MSTranovice15.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#7a7b68",
+"dh": "ddd9d8ffef6f312f",
+"h": 720,
+"jistota": 0.995,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsamstranovice.cz/materska-skola/ms-tosanovice/",
+"typ": "zahrada",
+"url": "https://zsamstranovice.cz/wp-content/uploads/2021/09/MSTosanovice06.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#616f51",
+"dh": "9149a080606cd2dc",
+"h": 720,
+"jistota": 0.891,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsamstranovice.cz/materska-skola/ms-tosanovice/",
+"typ": "les",
+"url": "https://zsamstranovice.cz/wp-content/uploads/2021/09/MSTosanovice02.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#aa5413",
+"dh": "07111131697464e0",
+"h": 720,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zsamstranovice.cz/materska-skola/ms-tosanovice/",
+"typ": "interier",
+"url": "https://zsamstranovice.cz/wp-content/uploads/2021/09/MSTosanovice17.jpg",
+"w": 960
+}
+],
 "zakladni-skola-a-materska-skola-vinor-006390": [
 {
 "alt": "",
@@ -1688,6 +1817,49 @@
 "typ": "zahrada",
 "url": "https://www.zs-msvraz.cz/data/headerfooter/header_images/20260827085058.jpg",
 "w": 750
+}
+],
+"zakladni-skola-a-materska-skola-zlata-olesnice-300400": [
+{
+"alt": "",
+"barva": "#73635c",
+"dh": "05313169692e0b13",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQb/xAAgEAADAAEEAwEBAAAAAAAAAAABAgMABRESMQQhInGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEAAwEBAAAAAAAAAAAAAAABABEhEhP/2gAMAwEAAhEDEQA/AFnjBA9fQ/MNN89akyrVTR2CzExkyMWdeFHLL3sScengTLjhR12HZPvfAGSlWhcqamTPULIifKnYfzDM3Sr8uLO5KfJIoR1hj812oOgyf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skola.zlata-olesnice.cz/materska-skola/provoz-ms/",
+"typ": "interier",
+"url": "https://skola.zlata-olesnice.cz/data/headerfooter/header_images/img20240830095645_1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#746b60",
+"dh": "094b4beabe8f0f0d",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skola.zlata-olesnice.cz/materska-skola/provoz-ms/",
+"typ": "interier",
+"url": "https://skola.zlata-olesnice.cz/data/headerfooter/header_images/20240830102311.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8d7a4e",
+"dh": "a37b33a13078984c",
+"h": 900,
+"jistota": 0.621,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skola.zlata-olesnice.cz/materska-skola/provoz-ms/",
+"typ": "hygiena",
+"url": "https://skola.zlata-olesnice.cz/data/headerfooter/header_images/20240909072258.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-ms-j-a-komenskeho-612500": [

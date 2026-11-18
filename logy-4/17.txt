@@ -1,2 +1,14 @@
-[09:44:49] Část 18/20: webů 142, hotovo 181, zbývá 0
-[09:44:49] Konec: školek s fotkami 52; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:03] Část 18/20: webů 152, hotovo 181, zbývá 10
+[09:54:18] https://mslitultovice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
+[09:54:58] https://ms-studanka.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 341 obrázků, 0 fotek ke kontrole
+[09:55:00] https://zslomnice.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 93 obrázků, 14 fotek ke kontrole
+[09:55:05] https://skola.zlata-olesnice.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 504 obrázků, 19 fotek ke kontrole
+[09:55:08] https://skolkamikulovice.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 732 obrázků, 3 fotek ke kontrole
+[09:55:15] https://msmokrelazce.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 397 obrázků, 3 fotek ke kontrole
+[09:55:19] https://msoborna.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 117 obrázků, 4 fotek ke kontrole
+[09:55:27] https://zsmsverovany.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 323 obrázků, 15 fotek ke kontrole
+[09:55:35] https://mshlubocky.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 696 obrázků, 13 fotek ke kontrole
+[09:55:43] https://zsamstranovice.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 42 fotek ke kontrole
+[09:57:21] tříděno 0/116
+[09:57:45] Dávka 1: hotovo 191/152, se fotkami 56; {'ok': 12, 'lide': 22, 'jine': 62, 'sablona': 0}
+[09:57:45] Konec: školek s fotkami 56; {'ok': 12, 'lide': 22, 'jine': 62, 'sablona': 0}
