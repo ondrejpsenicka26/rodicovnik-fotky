@@ -938,6 +938,62 @@
 "w": 1000
 }
 ],
+"materska-skola-dnesice-544041": [
+{
+"alt": "Dračí školka",
+"barva": "#645f56",
+"dh": "d7c8c5b6265fffdf",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCAwT/xAAgEAABBAICAwEAAAAAAAAAAAABAAIDEQQFITESIkGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAwEBAAAAAAAAAAAAAAAAABFRASH/2gAMAwEAAhEDEQA/AKcne7SSUmF7Yo2X6hlX+jla2764WFz3A1Tx43zz0UunPo0AFB+fJ8We0ryDGdhiP9hADf09lCVznyX2hEGf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msdnesice.cz/cs/fotogalerie/19/",
+"typ": "budova",
+"url": "https://www.msdnesice.cz/UserFiles/82/Image/1730809238IMG-20241101-WA0008.jpg",
+"w": 1200
+},
+{
+"alt": "Máte dotaz? Kontaktujte nás",
+"barva": "#776e5d",
+"dh": "cf4e86e699797fdf",
+"h": 579,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msdnesice.cz/cs/den-otevrenych-dveri-v-ms/a-180/",
+"typ": "interier",
+"url": "https://www.msdnesice.cz/UserFiles/82/Image/172511662820240830-150241-1-1-.jpg",
+"w": 1200
+},
+{
+"alt": "Léto plné práce, školka plná radosti",
+"barva": "#827e7c",
+"dh": "7169b07898990f39",
+"h": 540,
+"jistota": 0.993,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msdnesice.cz/cs/fotogalerie/36/",
+"typ": "zahrada",
+"url": "https://www.msdnesice.cz/UserFiles/82/Image/175636765820250821-060956-1-.jpg",
+"w": 1200
+},
+{
+"alt": "Léto plné práce, školka plná radosti",
+"barva": "#6d6e6b",
+"dh": "3434324674e4c48c",
+"h": 540,
+"jistota": 0.902,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msdnesice.cz/cs/fotogalerie/36/",
+"typ": "interier",
+"url": "https://www.msdnesice.cz/UserFiles/82/Image/175636765820250818-133336-1-.jpg",
+"w": 1200
+}
+],
 "materska-skola-dolni-kounice-603233": [
 {
 "alt": "",
@@ -1513,6 +1569,23 @@
 "w": 700
 }
 ],
+"materska-skola-velke-brezno-569299": [
+{
+"alt": "MŠ Velké Březno",
+"barva": "#627853",
+"dh": "2aeacd0d14841690",
+"h": 755,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAQT/xAAiEAACAQUAAQUBAAAAAAAAAAABAgMABBESIRMFIjFxkcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAf/EABkRAAMAAwAAAAAAAAAAAAAAAAABMQIDE//aAAwDAQACEQMRAD8Ax/Ubu48ccQijB45Vun6zSXl1OhjnMrN41KDPzgjvamxzGKQMRtr0jJGa6hMXaaJ1DakjJ/lC9mToaY1nLf2sRS2VmjJ22wBnNFUrSMi0h9x6gP7RRdWoWn//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msvelkebrezno.cz/fotogalerie/fotogalerie/skolni-rok-2019-2020/znovuotevreni-ms-84cs.html",
+"typ": "zahrada",
+"url": "https://www.msvelkebrezno.cz/skins/msvelkebrezno.cz_lego2/images/footer-foto.jpg",
+"w": 1200
+}
+],
 "materska-skola-vestec-025582": [
 {
 "alt": "og",
@@ -1588,6 +1661,23 @@
 "typ": "zahrada",
 "url": "https://mszlukov.cz/IMAGES/243/2025_11_25_13_31_59_IUD8RS72SQK7VF1M92V3R48JK.JPG",
 "w": 700
+}
+],
+"ms-zvanovice-043122": [
+{
+"alt": "og",
+"barva": "#80746c",
+"dh": "33314c4fd2d2131b",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EACIQAAICAgIBBQEAAAAAAAAAAAECAxEAEgQxBSEiQVFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQASAv/aAAwDAQACEQMRAD8AWfIPxk1hILyPqBVnHNNz+AzTGczR7C1kFgg/nWTeKk006SMNSlEBTQ+usoQbRySvKil5OzZ9ch6awLW8vFIdpGZW+QAawxftjASJVRR0Kv8AuGO2Ml//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mszvanovice.cz/portfolio/interier-a-exterier-ms/",
+"typ": "budova",
+"url": "https://mszvanovice.cz/wp-content/uploads/2020/03/materska_skola12.jpg",
+"w": 1200
 }
 ],
 "zahradni-skolka-kuchynka-ms-138883": [
@@ -2110,6 +2200,23 @@
 "stranka": "https://skolasuchodol.cz/fotogalerie-ms-zs-sj-sd/",
 "typ": "interier",
 "url": "https://skolasuchodol.cz/wp-content/uploads/2024/02/SJ2.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-zleby-513170": [
+{
+"alt": "",
+"barva": "#7c6f5a",
+"dh": "342ca6dbede67b89",
+"h": 513,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMEBQb/xAApEAABAwEFBwUAAAAAAAAAAAABAAIRAwUSMTJxBCIkMzRBsYGDkaHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAgEFAAAAAAAAAAAAAAAAAQIDERMUITFR/9oADAMBAAIRAxEAPwBTLGqMO601WuY3MJgn8j7S6lnuuDhrpMxEgjDt6gfKn1eudpQ8oGX22+WqVW2cPIrjHrBVN2Ko6YaTBjBC0tbmu1KEu/n4Foo//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolazleby.cz/o-nas/",
+"typ": "budova",
+"url": "https://www.skolazleby.cz/wp-content/uploads/2023/06/home-scaled.webp",
 "w": 1200
 }
 ],
