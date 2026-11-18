@@ -974,6 +974,62 @@
 "w": 900
 }
 ],
+"materska-skola-klenovice-na-hane-610078": [
+{
+"alt": "",
+"barva": "#7e7062",
+"dh": "4b9f9e819a0a89fc",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAkEAABBAIBAgcAAAAAAAAAAAABAAIDEQQSBQYxEyJBUWFy8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAESQQIREyH/2gAMAwEAAhEDEQA/ACHqi+QaTjO8MdmtOz7/AFq/k9SPlbWNjgF1gOkd2I+As1HjsieHNB2HrsbU7svQ2Qfa6BQbyoajYyHK8jISRLC2jVCO0JfFl0zyCOvpSFN9N+CUD//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msklenovicenahane.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://www.msklenovicenahane.cz/media/cache/40/a7/40a7f20a4988dbfa90f2db1aceefc0e8.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#907c6e",
+"dh": "180b166d61270602",
+"h": 811,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msklenovicenahane.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.msklenovicenahane.cz/media/cache/52/3f/523fb8c2f3ff5e183ccd1ad835619d0b.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6c7846",
+"dh": "d4f67cb4972e0300",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msklenovicenahane.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.msklenovicenahane.cz/media/cache/ac/db/acdb642aea1da6f40a81dd16b11fdfa8.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#595a5f",
+"dh": "3a32402690410f30",
+"h": 900,
+"jistota": 0.617,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msklenovicenahane.cz/fotogalerie/",
+"typ": "les",
+"url": "https://www.msklenovicenahane.cz/media/cache/1c/84/1c84b24c40c2b21d0cdbb9f4921b7f1f.jpg",
+"w": 1200
+}
+],
 "materska-skola-klucov-512155": [
 {
 "alt": "og",
