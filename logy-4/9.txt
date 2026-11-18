@@ -1,2 +1,5 @@
-[12:38:16] Část 10/20: webů 184, hotovo 221, zbývá 0
-[12:38:16] Konec: školek s fotkami 59; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:14] Část 10/20: webů 185, hotovo 221, zbývá 1
+[12:44:23] https://mserpuzice.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 199 obrázků, 2 fotek ke kontrole
+[12:44:36] tříděno 0/2
+[12:44:36] Dávka 1: hotovo 222/185, se fotkami 60; {'ok': 1, 'lide': 0, 'jine': 1, 'sablona': 0}
+[12:44:36] Konec: školek s fotkami 60; {'ok': 1, 'lide': 0, 'jine': 1, 'sablona': 0}
