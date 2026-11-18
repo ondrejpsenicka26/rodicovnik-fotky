@@ -1,7 +1,2 @@
-[12:54:31] Část 18/20: webů 163, hotovo 207, zbývá 3
-[12:55:07] https://ms-chuchle.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 2 fotek ke kontrole
-[12:56:04] https://skola-srbsko.estranky.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 60 obrázků, 16 fotek ke kontrole
-[12:57:36] https://msukrteckapraha.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 13 fotek ke kontrole
-[12:57:52] tříděno 0/31
-[12:57:53] Dávka 1: hotovo 210/163, se fotkami 68; {'ok': 3, 'lide': 0, 'jine': 27, 'sablona': 0}
-[12:57:53] Konec: školek s fotkami 68; {'ok': 3, 'lide': 0, 'jine': 27, 'sablona': 0}
+[13:31:13] Část 18/20: webů 161, hotovo 210, zbývá 0
+[13:31:13] Konec: školek s fotkami 68; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
