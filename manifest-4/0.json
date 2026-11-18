@@ -1603,6 +1603,62 @@
 "w": 1024
 }
 ],
+"ms-decin-ii-liliova-277-000281": [
+{
+"alt": "",
+"barva": "#847f73",
+"dh": "9f8d9f96dcc48911",
+"h": 900,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIDEQAhBBIFQRMxgbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABkRAAMBAQEAAAAAAAAAAAAAAAABAgNBMf/aAAwDAQACEQMRAD8AdNHLH5AwWrEEL2urvf1hJuXR0I6GyC2/zM08iTyfIZ+7qPZc9v5WJ48EM7NHY0aLFd3hq11CnNrpN88tOhVFIsDLFyKiN11oehrLCtKI8pfp/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msliliova.cz/tridy/krtecci",
+"typ": "interier",
+"url": "https://msliliova.cz/images/speasyimagegallery/albums/4/images/1742820979891.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#63745a",
+"dh": "c46c2c2c4958c8aa",
+"h": 1000,
+"jistota": 0.992,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msliliova.cz/tridy/slunicka",
+"typ": "zahrada",
+"url": "https://msliliova.cz/images/speasyimagegallery/albums/1/images/img-0154.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#8c7e5c",
+"dh": "c9681050546c6a65",
+"h": 900,
+"jistota": 0.895,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msliliova.cz/tridy/krtecci",
+"typ": "interier",
+"url": "https://msliliova.cz/images/speasyimagegallery/albums/4/images/1742821089036.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6d7745",
+"dh": "0022c68c970b69be",
+"h": 1000,
+"jistota": 0.616,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msliliova.cz/tridy/slunicka",
+"typ": "zahrada",
+"url": "https://msliliova.cz/images/speasyimagegallery/albums/1/images/img-0152.jpg",
+"w": 750
+}
+],
 "ms-sveradice-542897": [
 {
 "alt": "",

@@ -1,16 +1,10 @@
-[11:04:13] Část 1/20: webů 160, hotovo 195, zbývá 12
-[11:04:28] https://www.msmalalosenice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 1 fotek ke kontrole
-[11:05:07] https://www.mscernosin.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 670 obrázků, 0 fotek ke kontrole
-[11:05:20] https://www.mspecice.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 75 obrázků, 1 fotek ke kontrole
-[11:05:28] https://www.zsmikuluvka.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 464 obrázků, 3 fotek ke kontrole
-[11:05:34] https://www.msnedasovalhota.cz: 14 stránek (galerie mimo web: 1 ['msnedlhota.rajce.idnes.cz'], alb: 0), 180 obrázků, 1 fotek ke kontrole
-[11:05:35] https://www.skolazleby.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 13 fotek ke kontrole
-[11:05:38] https://msnezvestice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 521 obrázků, 10 fotek ke kontrole
-[11:05:39] https://www.msosek.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 115 obrázků, 1 fotek ke kontrole
-[11:05:39] https://www.msvelkebrezno.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 293 obrázků, 2 fotek ke kontrole
-[11:06:03] https://www.msdnesice.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 202 obrázků, 39 fotek ke kontrole
-[11:07:29] https://www.ms-pnov-predhradi.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 146 obrázků, 41 fotek ke kontrole
-[11:09:34] https://mszvanovice.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 294 obrázků, 33 fotek ke kontrole
-[11:09:50] tříděno 0/145
-[11:10:02] Dávka 1: hotovo 207/160, se fotkami 74; {'ok': 7, 'lide': 18, 'jine': 118, 'sablona': 0}
-[11:10:02] Konec: školek s fotkami 74; {'ok': 7, 'lide': 18, 'jine': 118, 'sablona': 0}
+[11:38:35] Část 1/20: webů 162, hotovo 207, zbývá 6
+[11:39:03] https://www.ms-lipova-nejdek.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 10 fotek ke kontrole
+[11:39:29] https://www.skolkavzatisi.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 261 obrázků, 0 fotek ke kontrole
+[11:39:31] https://msliliova.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 167 obrázků, 44 fotek ke kontrole
+[11:39:53] https://www.msctyrlistekterezin.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 214 obrázků, 7 fotek ke kontrole
+[11:40:07] https://www.zsceskacermna.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 12 fotek ke kontrole
+[11:40:11] https://www.msnaspojce.cz: nedostupné nebo zakázané
+[11:40:36] tříděno 0/73
+[11:40:43] Dávka 1: hotovo 213/162, se fotkami 75; {'ok': 4, 'lide': 8, 'jine': 30, 'sablona': 0}
+[11:40:43] Konec: školek s fotkami 75; {'ok': 4, 'lide': 8, 'jine': 30, 'sablona': 0}
