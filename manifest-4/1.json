@@ -403,6 +403,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-vcelka-ds02344": [
+{
+"alt": "",
+"barva": "#493522",
+"dh": "93d3f77c6e2a789e",
+"h": 801,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAUABP/EACMQAAICAQMDBQAAAAAAAAAAAAECAAMRBBMhBTGBElJhkrH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAMBAQEAAAAAAAAAAAAAAAACAwERIf/aAAwDAQACEQMRAD8ABv6c6jcUDkZwvP5Mj6a5DzU/gREWA3CobgB7kWd/ErVZHwLrTj3NmQndk8LNNWDF0drjIR/qZRhHT0DNQz8MRKHat0WSw//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://bilovice.cz/default/default/7994_obec-foto",
+"typ": "budova",
+"url": "https://bilovice.cz/files/bilovice/gallery/6644/62e952ddbe0dc_20220625-Z071589.jpeg?1659458270",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#533920",
+"dh": "0706a5459bab0906",
+"h": 801,
+"jistota": 0.993,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://bilovice.cz/default/default/7994_obec-foto",
+"typ": "budova",
+"url": "https://bilovice.cz/files/bilovice/gallery/6644/62e952ea4e29b_20220625-Z071590.jpeg?1659458285",
+"w": 1200
+}
+],
 "detska-skupina-zizalky-ds01791": [
 {
 "alt": "",
