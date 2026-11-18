@@ -1,20 +1,6 @@
-[03:59:47] Část 18/20: webů 135, hotovo 151, zbývá 16
-[03:59:57] https://mschlum.cz/c-59-detska-skupina.html: nedostupné nebo zakázané
-[03:59:58] https://dsrozmarynek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[04:00:00] https://jablicko-plzen.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 0 fotek ke kontrole
-[04:00:01] https://napajedlacek.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 2 fotek ke kontrole
-[04:00:10] https://skolickasvetobjevu.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 8 fotek ke kontrole
-[04:00:14] https://dspidisvet.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 9 fotek ke kontrole
-[04:00:35] https://obecbarchov.cz/nase-obec/detska-skupina-barchovacek: 7 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 3 fotek ke kontrole
-[04:00:44] https://bavimesesportem.cz/fotogalerie/detska-skupina-krtecek-nove-mesto-nad-metuji: 7 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 1 fotek ke kontrole
-[04:00:45] https://dsoblacek.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 71 obrázků, 45 fotek ke kontrole
-[04:00:49] https://bavimesesportem.cz/ds-rakosnicek-nachod: 9 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 2 fotek ke kontrole
-[04:01:01] https://bory.cz/obec-bory/detska-skupina-siska-ii: 20 stránek (galerie mimo web: 0 [], alb: 0), 553 obrázků, 30 fotek ke kontrole
-[04:01:06] https://skolky.turnov.cz/cs/detska-skupina-sedmikvitek: 15 stránek (galerie mimo web: 0 [], alb: 0), 98 obrázků, 4 fotek ke kontrole
-[04:01:08] https://ymcastaryplzenec.cz/detska-skupina-tlapicka: 6 stránek (galerie mimo web: 0 [], alb: 0), 262 obrázků, 30 fotek ke kontrole
-[04:01:16] https://skolaborova.cz/detska-skupina-borovacek: 2 stránek (galerie mimo web: 0 [], alb: 0), 40 obrázků, 33 fotek ke kontrole
-[04:01:44] https://mssemin.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 13 fotek ke kontrole
-[04:02:10] https://jinaskolka.cz/kouzelny-kloboucek/o-skupince: 4 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 12 fotek ke kontrole
-[04:02:26] tříděno 0/192
-[04:02:40] Dávka 1: hotovo 167/135, se fotkami 47; {'ok': 13, 'lide': 18, 'jine': 144, 'sablona': 0}
-[04:02:40] Konec: školek s fotkami 47; {'ok': 13, 'lide': 18, 'jine': 144, 'sablona': 0}
+[08:51:31] Část 18/20: webů 134, hotovo 167, zbývá 2
+[08:51:47] https://msnovehrady.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 4 fotek ke kontrole
+[08:53:59] https://zssumavskehostice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 3 fotek ke kontrole
+[08:54:09] tříděno 0/7
+[08:54:09] Dávka 1: hotovo 169/134, se fotkami 47; {'ok': 0, 'lide': 0, 'jine': 7, 'sablona': 0}
+[08:54:09] Konec: školek s fotkami 47; {'ok': 0, 'lide': 0, 'jine': 7, 'sablona': 0}
