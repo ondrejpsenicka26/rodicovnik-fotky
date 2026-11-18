@@ -1699,6 +1699,10 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-doksy-511282"
 },
+"http://www.skoladrozdov.cz": {
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-drozdov-510730"
+},
 "http://www.skoladruzec.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-druzec-511274"
@@ -1726,6 +1730,10 @@
 "http://www.skolalosiny.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-velke-losiny-633175"
+},
+"http://www.skolalukavice.cz": {
+"jen_ms": true,
+"slug": "zs-a-ms-lukavice-057652"
 },
 "http://www.skolamajetin.cz": {
 "jen_ms": true,
@@ -4437,7 +4445,7 @@
 },
 "https://montessori-namest.cz": {
 "jen_ms": false,
-"slug": "detska-skupina-montessori-jesle-ds10860"
+"slug": "montessori-jesle-jaderko-detska-skupina-ds01384"
 },
 "https://montessori-skolka-praha.cz": {
 "jen_ms": false,
@@ -4902,10 +4910,6 @@
 "https://mscakovice3.cz": {
 "jen_ms": false,
 "slug": "materska-skola-cakovice-iii-102778"
-},
-"https://mscejkovice.cz": {
-"jen_ms": false,
-"slug": "materska-skola-cejkovice-201145"
 },
 "https://mschlum.cz": {
 "jen_ms": false,
@@ -5390,10 +5394,6 @@
 "https://msnovehrady.cz": {
 "jen_ms": false,
 "slug": "materska-skola-nove-hrady-530686"
-},
-"https://msnovosedly.cz": {
-"jen_ms": false,
-"slug": "materska-skola-novosedly-042430"
 },
 "https://msnovyprerov.cz": {
 "jen_ms": false,
@@ -5894,10 +5894,6 @@
 "https://msznojmo-armady.cz": {
 "jen_ms": false,
 "slug": "materska-skola-znojmo-614812"
-},
-"https://mszsmerklin.cz": {
-"jen_ms": false,
-"slug": "materska-skola-merklin-541831"
 },
 "https://mszulova.cz": {
 "jen_ms": false,
@@ -6515,10 +6511,6 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-doudleby-530767"
 },
-"https://skoladrozdov.cz": {
-"jen_ms": false,
-"slug": "materska-skola-drozdov-633248"
-},
 "https://skolagaia.cz/index.php": {
 "jen_ms": true,
 "slug": "materska-skola-a-zakladni-skola-gaia-048922"
@@ -6562,10 +6554,6 @@
 "https://skolaloukov.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-loukov-609541"
-},
-"https://skolalukavice.cz": {
-"jen_ms": true,
-"slug": "zakladni-skola-a-materska-skola-lukavice-585898"
 },
 "https://skolamachov.cz": {
 "jen_ms": true,
@@ -6722,10 +6710,6 @@
 "https://skolavsenory.cz/materska-skola/detska-skupina/dubinek-ii": {
 "jen_ms": false,
 "slug": "detska-skupina-dubinek-ii-ds11031"
-},
-"https://skolazahradky.cz": {
-"jen_ms": true,
-"slug": "materska-skola-zahradky-532743"
 },
 "https://skolazahumny.cz": {
 "jen_ms": true,
@@ -8635,6 +8619,10 @@
 "jen_ms": false,
 "slug": "materska-skola-cebin-603144"
 },
+"https://www.mscejkovice.cz": {
+"jen_ms": false,
+"slug": "materska-skola-cejkovice-606852"
+},
 "https://www.mscercany.cz": {
 "jen_ms": false,
 "slug": "materska-skola-cercany-510073"
@@ -9154,6 +9142,10 @@
 "https://www.msnovomestska.cz": {
 "jen_ms": false,
 "slug": "materska-skola-brno-601745"
+},
+"https://www.msnovosedly.cz": {
+"jen_ms": false,
+"slug": "materska-skola-novosedly-604736"
 },
 "https://www.msnucicka.cz": {
 "jen_ms": false,
@@ -9746,6 +9738,10 @@
 "https://www.mszscernopolni.cz": {
 "jen_ms": true,
 "slug": "ms-a-zs-pri-fakultni-nemocnici-brno-156578"
+},
+"https://www.mszsmerklin.cz": {
+"jen_ms": true,
+"slug": "ms-a-zs-merklin-544181"
 },
 "https://www.mszsnaceste.cz": {
 "jen_ms": true,
@@ -13633,7 +13629,7 @@
 },
 "https://zschlebovice.cz": {
 "jen_ms": true,
-"slug": "zakladni-skola-a-lesni-ms-bez-lavice-125901"
+"slug": "zakladni-skola-a-materska-skola-frydek-mistek-chlebovice-621401"
 },
 "https://zschotevice.cz": {
 "jen_ms": true,
@@ -13798,10 +13794,6 @@
 "https://zslogo.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-logopedicka-brno-023447"
-},
-"https://zslomnice.cz": {
-"jen_ms": true,
-"slug": "zakladni-skola-a-materska-skola-lomnice-500698"
 },
 "https://zsloukov.cz": {
 "jen_ms": true,
