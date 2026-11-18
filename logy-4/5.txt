@@ -1,10 +1,19 @@
-[02:14:02] Část 6/20: webů 127, hotovo 152, zbývá 6
-[02:14:07] https://planetkauffo.cz/martanci: 2 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[02:14:21] https://usti.ymca.cz: nedostupné nebo zakázané
-[02:14:27] https://kolackove.cz/smiskove: 2 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 23 fotek ke kontrole
-[02:14:52] https://pliska-academy.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 29 fotek ke kontrole
-[02:15:01] https://vikikidsclub.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 142 obrázků, 34 fotek ke kontrole
-[02:16:49] https://skolickanafarme-bohumin.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 75 obrázků, 33 fotek ke kontrole
-[02:17:08] tříděno 0/119
-[02:17:22] Dávka 1: hotovo 158/127, se fotkami 48; {'ok': 3, 'lide': 6, 'jine': 90, 'sablona': 0}
-[02:17:22] Konec: školek s fotkami 48; {'ok': 3, 'lide': 6, 'jine': 90, 'sablona': 0}
+[04:00:00] Část 6/20: webů 142, hotovo 158, zbývá 15
+[04:00:05] https://duhovekulicky.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 2 fotek ke kontrole
+[04:00:08] https://barevnaduha.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[04:00:11] https://detska-skupina-jemnice.webnode.cz/detska-skupina-kopretina: 3 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 6 fotek ke kontrole
+[04:00:12] https://ds-pod-kunkou.cz/u-listicek-stare-hradiste: 3 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 8 fotek ke kontrole
+[04:00:13] https://skolka-jablicko.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 17 fotek ke kontrole
+[04:00:19] https://littlekidspisek.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 35 obrázků, 28 fotek ke kontrole
+[04:00:33] https://dszahradaradosti.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 33 fotek ke kontrole
+[04:00:36] https://ucenisrespektem.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 22 fotek ke kontrole
+[04:00:40] https://zdravaskolkaberuska.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 4 fotek ke kontrole
+[04:00:43] https://ds-oblacek.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
+[04:00:44] https://skolkapastelkova.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 48 obrázků, 7 fotek ke kontrole
+[04:01:12] https://zanzik.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 125 obrázků, 29 fotek ke kontrole
+[04:01:37] https://obeclovcice.cz/fotogalerie-detske-skupiny-sovicky/ms-12724/p1_12724: nedostupné nebo zakázané
+[04:02:00] https://dsmyskatabor.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 16 fotek ke kontrole
+[04:02:19] https://skolanaceste.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 19 fotek ke kontrole
+[04:02:35] tříděno 0/194
+[04:03:11] Dávka 1: hotovo 173/142, se fotkami 56; {'ok': 24, 'lide': 11, 'jine': 137, 'sablona': 0}
+[04:03:11] Konec: školek s fotkami 56; {'ok': 24, 'lide': 11, 'jine': 137, 'sablona': 0}

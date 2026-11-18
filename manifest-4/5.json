@@ -1,4 +1,60 @@
 {
+"cervene-jablicko-detska-skupina-ds00308": [
+{
+"alt": "Vchod do školky",
+"barva": "#78766d",
+"dh": "8808008989090777",
+"h": 900,
+"jistota": 0.991,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIxIeEFI9H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAbEQABBAMAAAAAAAAAAAAAAAACAAEDExFRsf/aAAwDAQACEQMRAD8Amais0wVk4tY8M1E5aTTjYr90Y5dU13krX1JI3EjyAsCCPHVY6+xBBBHJLEzvBVcTXm/eZacwbApqEnySZOtqKabaQEd9fuGZ6X5DXaV3bWPJiWNSesMbZt8VXHrq/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolka-jablicko.cz/",
+"typ": "budova",
+"url": "https://skolka-jablicko.cz/images/img8782.jpeg",
+"w": 1200
+},
+{
+"alt": "Třída Červeného Jablíčka",
+"barva": "#876545",
+"dh": "41b7b1e5e4bbeded",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolka-jablicko.cz/",
+"typ": "interier",
+"url": "https://skolka-jablicko.cz/images/img8776.jpeg",
+"w": 1200
+},
+{
+"alt": "Zahrada školky",
+"barva": "#697372",
+"dh": "3186c6c7d11efa42",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolka-jablicko.cz/",
+"typ": "zahrada",
+"url": "https://skolka-jablicko.cz/images/img8783.jpeg",
+"w": 1200
+},
+{
+"alt": "Naše třída",
+"barva": "#946331",
+"dh": "76164b6f270a270d",
+"h": 900,
+"jistota": 0.997,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolka-jablicko.cz/",
+"typ": "interier",
+"url": "https://skolka-jablicko.cz/images/img8785.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-bambulky-ds02236": [
 {
 "alt": "gallery",
@@ -39,6 +95,23 @@
 "stranka": "https://dsbambulky.cz/galerie.php",
 "typ": "hygiena",
 "url": "https://dsbambulky.cz/assets/images/gallery/a_wc2.jfif",
+"w": 1200
+}
+],
+"detska-skupina-duhove-kulicky-ds10267": [
+{
+"alt": "og",
+"barva": "#8b877c",
+"dh": "6079797819c579be",
+"h": 630,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBf/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwAEIQUREiIjMXFRkeH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAICAwEAAAAAAAAAAAAAAAACARIDESJR/9oADAMBAAIRAxEAPwByNcxwhDbupGOT43zU7GW+i1BZGzEFI4A7gk+q31zK6nx8Vm3yKJMKPqpYmu7J4KY52LUtVu7SWOOONm7YLcPG+5/KKha9VuhbJzk+6KVg1P/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://duhovekulicky.cz/prohlidka",
+"typ": "interier",
+"url": "https://duhovekulicky.cz/og-prohlidka.jpg",
 "w": 1200
 }
 ],
@@ -99,6 +172,49 @@
 "stranka": "https://www.klubicek.cz/",
 "typ": "interier",
 "url": "https://www.klubicek.cz/assets/branches/rosice/images/IMG_0093.webp",
+"w": 1200
+}
+],
+"detska-skupina-little-kids-english-preschool-ds11296": [
+{
+"alt": "Barevné dětské stolky a pohled do třídy",
+"barva": "#ad927c",
+"dh": "0707a68ed6e0f878",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAEBv/EACAQAAIBBAIDAQAAAAAAAAAAAAECAwAEERIFITFDUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMREv/aAAwDAQACEQMRAD8A3cdyk8LtFcBQvrLHXb9NInldIMsYSRnbVxihb+1W8jj3ZlI76oqK0ZZwFmICkMBj5UO5F1WnunVR3KzqGOA3gg1UYJXQABjVTVrwLrP/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.littlekidspisek.cz/",
+"typ": "interier",
+"url": "https://www.littlekidspisek.cz/_next/image?url=%2Fprostory%2F5P5A7861.webp&w=3840&q=75&dpl=dpl_AyfmvFWVcLgjjyz4JWkduu1XPgyd",
+"w": 1200
+},
+{
+"alt": "Herní kout s dřevěným nábytkem a knihami",
+"barva": "#d4bd9c",
+"dh": "64242065a38cf5d8",
+"h": 800,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.littlekidspisek.cz/o-nas",
+"typ": "interier",
+"url": "https://www.littlekidspisek.cz/_next/image?url=%2Fprostory%2Ftrida-3.webp&w=3840&q=75&dpl=dpl_AyfmvFWVcLgjjyz4JWkduu1XPgyd",
+"w": 1200
+},
+{
+"alt": "Dětské toalety a nízká umyvadla",
+"barva": "#d0c6be",
+"dh": "4d59ced1cd4b7d5d",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.littlekidspisek.cz/o-nas",
+"typ": "hygiena",
+"url": "https://www.littlekidspisek.cz/_next/image?url=%2Fprostory%2F5P5A7842.webp&w=3840&q=75&dpl=dpl_AyfmvFWVcLgjjyz4JWkduu1XPgyd",
 "w": 1200
 }
 ],
@@ -172,6 +288,23 @@
 "stranka": "https://www.nejkrasnejsisvet.eu/kopie-z-denni-harmonogram/",
 "typ": "interier",
 "url": "https://be2570a95d.clvaw-cdnwnd.com/9efa62e2fea417a0e3deab2a51960140/200000052-bfe27bfe28/340440955_1415899159213191_5834813415743522700_n.jpeg?ph=be2570a95d",
+"w": 900
+}
+],
+"detska-skupina-pastelkova-bolevec-ds01376": [
+{
+"alt": "og",
+"barva": "#838b83",
+"dh": "87ebe2265344dc24",
+"h": 1200,
+"jistota": 0.908,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAQID/8QAIBAAAgMAAgIDAQAAAAAAAAAAAQIAAxESQQQFITFRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwC35FltdzKjLgGgcNP9nCy++2rgbQAfysAxOr2Z85EstQK1ujF+hhyMVceJCg6p4knsjuHbZEylgpcl1jBkdQMzCITZvKqqPF3AI6hBZGT2D1vWOIbiSTp+4w3uHSsimqtO/gmS6ziaPgmZsJKDf0ScyTFwtU+fRbUrOwVuwRCRcyEKwf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkapastelkova.cz/fotogalerie-bolevec/ds-pastelkova-bolevec",
+"typ": "budova",
+"url": "http://www.skolkapastelkova.cz/image.php?oid=13213584",
 "w": 900
 }
 ],
@@ -263,6 +396,217 @@
 "typ": "interier",
 "url": "https://static.wixstatic.com/media/f8abd9_c6c5e0e274c645cfaf83fec017225f14.jpg",
 "w": 1200
+}
+],
+"detska-skupina-u-listicek-ds01283": [
+{
+"alt": "",
+"barva": "#737473",
+"dh": "ecde9ab33336c8c9",
+"h": 800,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACYQAAEDAgUDBQAAAAAAAAAAAAECAwQAEQUTISIxEkFhBjKhwfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARL/2gAMAwEAAhEDEQA/AHsSxMzpBW31IiJaPGindRceB471FcaOIh26UttAJWAT4I+q0uU/C3xXMsOK6VCwOg/aWdlLQoi19tjfub8/NSUUonqSRhsdMR1OdlbUrBHt7A35oqWJaiAA21YaapvRTTL/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ds-pod-kunkou.cz/u-listicek-stare-hradiste/",
+"typ": "budova",
+"url": "https://819f087b9f.clvaw-cdnwnd.com/eab866d1001983ed26e9e148714df8ac/200000066-3968e39690/DSC_0030.JPG?ph=819f087b9f",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#647253",
+"dh": "39bf9d9992929343",
+"h": 800,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.ds-pod-kunkou.cz/nase-prostory/",
+"typ": "zahrada",
+"url": "https://819f087b9f.clvaw-cdnwnd.com/eab866d1001983ed26e9e148714df8ac/200000560-e6bcde6bcf/DSC_1107.jpeg?ph=819f087b9f",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#919252",
+"dh": "772761ab0b439cba",
+"h": 693,
+"jistota": 0.99,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.ds-pod-kunkou.cz/nase-prostory/",
+"typ": "zahrada",
+"url": "https://819f087b9f.clvaw-cdnwnd.com/eab866d1001983ed26e9e148714df8ac/200000556-0fc950fc97/DSC_1103.jpeg?ph=819f087b9f",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b19b72",
+"dh": "c3e5cdccecf9888d",
+"h": 960,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.ds-pod-kunkou.cz/nase-prostory/",
+"typ": "hygiena",
+"url": "https://819f087b9f.clvaw-cdnwnd.com/eab866d1001983ed26e9e148714df8ac/200000025-a73faa73fc/217249823_130710329207927_2716769565067521785_n.jpg?ph=819f087b9f",
+"w": 956
+}
+],
+"detska-skupina-uceni-s-respektem-ds02122": [
+{
+"alt": "Koberec s barevnými balančními kameny a televizí",
+"barva": "#988e7b",
+"dh": "d0c5c5230b3fd9ec",
+"h": 960,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAmEAACAgIBAgUFAAAAAAAAAAABAgMRAAQSBSEiMUFRwRQzQmFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAERAlESIf/aAAwDAQACEQMRAD8Ab1WWFNyGNJWRn7rxWwa9Lx8fTojG805KrM9sisSpJ97yPqSybEBL6hkZbKu1eH3IJ+Ms67bCxcJFV6/EG6w6my40jU2msbBYlRVryKk/OGLk2ZA3iDA/3DNiJr4dfP6alalBFism73VEj2Fi4eIj7nG+I/WL3ZGPmxOccrs3FGJKkjth619LWX01NO80hc3XpR9MMUOwwwvTEh//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ucenisrespektem.cz/",
+"typ": "interier",
+"url": "https://www.ucenisrespektem.cz/_astro/prostor-koberec.ToKi4okm_Z75tCk.webp",
+"w": 720
+},
+{
+"alt": "Herna s policemi, hracím koutkem a kobercem",
+"barva": "#93918b",
+"dh": "1a183919da8201e4",
+"h": 960,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.ucenisrespektem.cz/",
+"typ": "interier",
+"url": "https://www.ucenisrespektem.cz/_astro/prostor-vstup.C-YJn66t_1OKbtS.webp",
+"w": 720
+},
+{
+"alt": "Dětská koupelna s nízkými umyvadly a záchůdky",
+"barva": "#8a857b",
+"dh": "61e7e7ec4917796d",
+"h": 960,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.ucenisrespektem.cz/",
+"typ": "hygiena",
+"url": "https://www.ucenisrespektem.cz/_astro/prostor-koupelna.iOv_tz4n_JpU6y.webp",
+"w": 720
+}
+],
+"detska-skupina-zahrada-radosti-ds02293": [
+{
+"alt": "",
+"barva": "#a29583",
+"dh": "cecc7464cecf6224",
+"h": 901,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EACUQAAICAQIEBwAAAAAAAAAAAAECAxEABBIFITFREyIjQmFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABoRAAIDAQEAAAAAAAAAAAAAAAACERMxAQP/2gAMAwEAAhEDEQA/AHcVCaeHTyxOqNuAu/abuvzMRqJXhZpHKqrKPM3W+pr4w53z+KWkqVX3OvY3y++WOb1IyJCDy7Zk3pOD4kaPj4YStidWHfaDlnMOgeRVZZmRSLARiBWWS1RVsf/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dszahradaradosti.cz/",
+"typ": "interier",
+"url": "https://6ea5a11f29.clvaw-cdnwnd.com/8e4ec0c3d209a39ab653381e2039817a/200000256-8658186584/1000010107.jpeg?ph=6ea5a11f29",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#666857",
+"dh": "0e061614284651c1",
+"h": 903,
+"jistota": 0.979,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dszahradaradosti.cz/",
+"typ": "zahrada",
+"url": "https://6ea5a11f29.clvaw-cdnwnd.com/8e4ec0c3d209a39ab653381e2039817a/200000063-906c2906c6/IMG_20241018_123317.jpeg?ph=6ea5a11f29",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#656858",
+"dh": "d1c37234e0731380",
+"h": 1200,
+"jistota": 0.753,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dszahradaradosti.cz/",
+"typ": "les",
+"url": "https://6ea5a11f29.clvaw-cdnwnd.com/8e4ec0c3d209a39ab653381e2039817a/200000083-ee04aee04e/IMG_20241019_180837.jpeg?ph=6ea5a11f29",
+"w": 1064
+},
+{
+"alt": "",
+"barva": "#a79171",
+"dh": "ef8d62b2a2b40e4f",
+"h": 879,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dszahradaradosti.cz/",
+"typ": "interier",
+"url": "https://6ea5a11f29.clvaw-cdnwnd.com/8e4ec0c3d209a39ab653381e2039817a/200000206-c21a7c21a8/1000001092.jpeg?ph=6ea5a11f29",
+"w": 1200
+}
+],
+"detska-skupina-zanzik-i-ds02284": [
+{
+"alt": "",
+"barva": "#9a9794",
+"dh": "27636878370b6b27",
+"h": 800,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAEESEFEhMxFCIyYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABYRAQEBAAAAAAAAAAAAAAAAAAAhMf/aAAwDAQACEQMRAD8ArLzLXfCxyWzoLllJZU3jHmlYuZvkUo6HBX5MjaNI2LdizWCIuvQGCnOfP1TPqLjp3MTrftG6NOKMN7bSRK7XEcTMMlGfBB/aKzc9skkzPKWd2OSxPmimqP/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zanzik.cz/plzen-bolevec/fotogalerie/",
+"typ": "budova",
+"url": "https://zanzik.cz/wp-content/uploads/2025/01/zanzik-foto-01.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9c8c8d",
+"dh": "33939393d973f303",
+"h": 800,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://zanzik.cz/plzen-bolevec/fotogalerie/",
+"typ": "interier",
+"url": "https://zanzik.cz/wp-content/uploads/2025/10/interier-zanzik-13.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5b6759",
+"dh": "938735372b6a1e9c",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://zanzik.cz/plzen-bolevec/fotogalerie/",
+"typ": "zahrada",
+"url": "https://zanzik.cz/wp-content/uploads/2025/10/zanzik-venkovni-prostory-03.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#95958e",
+"dh": "f7766d4c6e67c783",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://zanzik.cz/plzen-bolevec/tridy/",
+"typ": "interier",
+"url": "https://zanzik.cz/wp-content/uploads/2024/11/interier-zanzik-02.jpg",
+"w": 900
 }
 ],
 "firemni-skolka-mesta-ostravy-064448": [
