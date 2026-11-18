@@ -1,7 +1,2 @@
-[10:15:28] Část 12/20: webů 168, hotovo 199, zbývá 3
-[10:15:48] https://skolapolkovice.cz: 5 stránek (galerie mimo web: 1 ['polkovice.rajce.idnes.cz'], alb: 0), 3 obrázků, 1 fotek ke kontrole
-[10:15:50] https://ms-moravska.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 16 fotek ke kontrole
-[10:15:54] https://subirov.cz/obec/materska-skola: 5 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 8 fotek ke kontrole
-[10:16:12] tříděno 0/25
-[10:16:12] Dávka 1: hotovo 202/168, se fotkami 51; {'ok': 4, 'lide': 5, 'jine': 12, 'sablona': 0}
-[10:16:12] Konec: školek s fotkami 51; {'ok': 4, 'lide': 5, 'jine': 12, 'sablona': 0}
+[10:40:18] Část 12/20: webů 167, hotovo 202, zbývá 0
+[10:40:18] Konec: školek s fotkami 51; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
