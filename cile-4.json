@@ -3555,10 +3555,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-myska-ds01636"
 },
-"https://dsholoubek.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-holoubek-ds10609"
-},
 "https://dsholubnicek.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-holubnicek-grand-ds01656"
@@ -3622,10 +3618,6 @@
 "https://dsmedvidataberoun.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-medvidata-beroun-ds01095"
-},
-"https://dsmedvidek.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-medvidek-ds10138"
 },
 "https://dsminiskolkavyskov.cz": {
 "jen_ms": false,
@@ -7603,10 +7595,6 @@
 "jen_ms": false,
 "slug": "detska-skupina-dobromysl-ds01457"
 },
-"https://www.ds-pexeso.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-pexeso-ds10547"
-},
 "https://www.ds-slonik.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-slonik-ii-ds01992"
@@ -7650,10 +7638,6 @@
 "https://www.dspampeliska.cz": {
 "jen_ms": false,
 "slug": "detska-skupina-pampeliska-ii-ds10465"
-},
-"https://www.dssnilkov.cz": {
-"jen_ms": false,
-"slug": "detska-skupina-snilkov-ds01532"
 },
 "https://www.dssouhvezdi.cz": {
 "jen_ms": false,
@@ -7863,10 +7847,6 @@
 "jen_ms": true,
 "slug": "materska-skola-juta-016885"
 },
-"https://www.kamennyujezd.cz/materska-skola-detske-skupiny/ms-kamenacek": {
-"jen_ms": false,
-"slug": "materska-skola-kamenacek-kamenny-ujezd-089548"
-},
 "https://www.kanka.info": {
 "jen_ms": true,
 "slug": "zs-a-ms-a-poskytovatel-social-sluz-kanka-031183"
@@ -7971,10 +7951,6 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-breclav-604451"
 },
-"https://www.kvicovice.cz/obec-7/materska-skolka": {
-"jen_ms": false,
-"slug": "ms-kvicovice-540550"
-},
 "https://www.lapp.com": {
 "jen_ms": true,
 "slug": "lapp-czech-republic-064464"
@@ -8054,10 +8030,6 @@
 "https://www.machovka.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-decin-iv-561247"
-},
-"https://www.mala-velen.cz/obec/materska-skola": {
-"jen_ms": false,
-"slug": "materska-skola-mala-velen-562146"
 },
 "https://www.malala.cz": {
 "jen_ms": true,
@@ -8214,10 +8186,6 @@
 "https://www.mozaikaschool.eu": {
 "jen_ms": true,
 "slug": "mozaika-cesko-anglicka-ms-049759"
-},
-"https://www.mrakov.cz/nase-obec/materska-skola-mrakov-1": {
-"jen_ms": false,
-"slug": "materska-skola-mrakov-540347"
 },
 "https://www.ms-bezrucova.cz": {
 "jen_ms": false,
@@ -9770,10 +9738,6 @@
 "https://www.obec-holasovice.cz/obec-holasovice/materska-skola-holasovice/o-materske-skole": {
 "jen_ms": false,
 "slug": "materska-skola-holasovice-628597"
-},
-"https://www.obec-kamen.cz/materska-skola-kaminek": {
-"jen_ms": false,
-"slug": "ms-kaminek-126419"
 },
 "https://www.obec-lhotka.eu": {
 "jen_ms": true,
