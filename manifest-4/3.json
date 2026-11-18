@@ -678,6 +678,36 @@
 "w": 890
 }
 ],
+"materska-skola-cicenice-534762": [
+{
+"alt": "og",
+"barva": "#8d8972",
+"dh": "9ec6b6dabbbfe2d6",
+"h": 675,
+"jistota": 0.978,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAhEAACAgICAQUAAAAAAAAAAAABAgADBBESMSJBUVJhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAACARIxA//aAAwDAQACEQMRAD8A33LWuS5qs4/aWd/vrKMjN3W9Z25KkBjxkHqTkBxGiIFFCnQ9pgvRkyRskNohrc4yiuyvy7OtGEeGmv4whuSh/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mscicenice.cz/fotogalerie/nase-skola",
+"typ": "budova",
+"url": "http://www.mscicenice.cz/image.php?oid=12041821",
+"w": 1200
+},
+{
+"alt": "Mateřská škola Číčenice",
+"barva": "#6a6c5f",
+"dh": "ec6d819d9ffb7bbf",
+"h": 1200,
+"jistota": 0.862,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mscicenice.cz/o-nas",
+"typ": "zahrada",
+"url": "https://www.mscicenice.cz/image.php?nid=21500&oid=12039658",
+"w": 902
+}
+],
 "materska-skola-haj-u-duchcova-568047": [
 {
 "alt": "",
@@ -1851,6 +1881,36 @@
 "stranka": "https://zsjezov.cz/",
 "typ": "hygiena",
 "url": "https://zsjezov.cz/wp-content/uploads/2026/03/Satny-scaled.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-klapy-565307": [
+{
+"alt": "",
+"barva": "#907759",
+"dh": "dbdbddc9ca9d8c86",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EACAQAAICAgIDAQEAAAAAAAAAAAEDAhEABBIhEyIxFEH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRE0H/2gAMAwEAAhEDEQA/AGc5admIkCewTX8wbtKk/klZkGfOuNV9yFOy+e4GMiCuwaJ6oZXvzdst8imGIv2gT0Rmey2OlZsQEvWMpCrvDMvywkB42ThEdcb+YYdkHR//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-klapy.webnode.cz/",
+"typ": "interier",
+"url": "https://0580c02ba9.cbaul-cdnwnd.com/05f1f60b5f18f0ef58e990de0a32e8b6/200000031-5cc3a5cc5d/20250211_121151.jpeg?ph=0580c02ba9",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#796f63",
+"dh": "032babcb531b1c1e",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-klapy.webnode.cz/",
+"typ": "interier",
+"url": "https://0580c02ba9.cbaul-cdnwnd.com/05f1f60b5f18f0ef58e990de0a32e8b6/200000030-aa538aa53b/20250211_121142.jpeg?ph=0580c02ba9",
 "w": 1200
 }
 ],

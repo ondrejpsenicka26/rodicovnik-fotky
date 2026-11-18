@@ -1,13 +1,10 @@
-[11:03:59] Část 4/20: webů 176, hotovo 204, zbývá 9
-[11:04:46] https://www.mskrucemburk.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 207 obrázků, 37 fotek ke kontrole
-[11:04:59] https://www.zsmsdalesice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 394 obrázků, 2 fotek ke kontrole
-[11:04:59] https://www.msujezdecek.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 241 obrázků, 1 fotek ke kontrole
-[11:05:01] https://www.ms-zamrsk.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 769 obrázků, 3 fotek ke kontrole
-[11:05:01] https://www.mslutopecny.cz: 9 stránek (galerie mimo web: 1 ['skolkalutopecny.rajce.idnes.cz'], alb: 0), 33 obrázků, 3 fotek ke kontrole
-[11:05:04] https://www.zsamsobrnice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 0 fotek ke kontrole
-[11:05:12] https://www.zsmstatenice.cz: 22 stránek (galerie mimo web: 3 ['eu.zonerama.com', 'mssttatenice.rajce.idnes.cz', 'zstatenice.rajce.idnes.cz'], alb: 1), 23 obrázků, 10 fotek ke kontrole
-[11:05:12] https://www.zsrozna.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 531 obrázků, 5 fotek ke kontrole
-[11:05:13] https://mszebrak.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 4 fotek ke kontrole
-[11:05:26] tříděno 0/65
-[11:05:31] Dávka 1: hotovo 213/176, se fotkami 61; {'ok': 8, 'lide': 10, 'jine': 41, 'sablona': 0}
-[11:05:31] Konec: školek s fotkami 61; {'ok': 8, 'lide': 10, 'jine': 41, 'sablona': 0}
+[11:38:35] Část 4/20: webů 178, hotovo 213, zbývá 6
+[11:38:42] https://ms-klapy.webnode.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 4 fotek ke kontrole
+[11:38:50] https://www.ms-obchodni.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 0 fotek ke kontrole
+[11:39:11] https://zsnedasov.webnode.cz: 28 stránek (galerie mimo web: 7 ['jajinenka.rajce.idnes.cz', 'obec-nedasov.rajce.idnes.cz', 'zsnedasov.rajce.idnes.cz'], alb: 1), 5 obrázků, 0 fotek ke kontrole
+[11:39:13] https://www.mscicenice.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 41 obrázků, 4 fotek ke kontrole
+[11:39:41] https://www.msskorotice.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 37 fotek ke kontrole
+[11:40:20] https://mspruhonicek.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 209 obrázků, 14 fotek ke kontrole
+[11:40:30] tříděno 0/59
+[11:40:32] Dávka 1: hotovo 219/178, se fotkami 63; {'ok': 4, 'lide': 1, 'jine': 52, 'sablona': 0}
+[11:40:32] Konec: školek s fotkami 63; {'ok': 4, 'lide': 1, 'jine': 52, 'sablona': 0}
