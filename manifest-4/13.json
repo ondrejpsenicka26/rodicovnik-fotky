@@ -102,6 +102,105 @@
 "w": 1200
 }
 ],
+"detska-skupina-lisak-liberec-ds02123": [
+{
+"alt": "Prostory dětské skupiny Lišák",
+"barva": "#a69076",
+"dh": "709f97959690666a",
+"h": 670,
+"jistota": 0.984,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBP/EACUQAAECBAQHAAAAAAAAAAAAAAEAAgMREiIEISNBExQxMlFxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AOisDE8OuygW7TpW6c39uTthLL4puY04WJlK3qDJUhvdzUWHOxrGkD2s42DWAAhxoob4a9wCK8giROsIcyf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.lisakliberec.cz/o-nas/",
+"typ": "budova",
+"url": "https://www.lisakliberec.cz/wp-content/uploads/2024/08/20240809_1354360-1.jpg",
+"w": 1200
+},
+{
+"alt": "Prostory dětské skupiny Lišák",
+"barva": "#c7baa8",
+"dh": "4e71292294617933",
+"h": 759,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.lisakliberec.cz/o-nas/",
+"typ": "interier",
+"url": "https://www.lisakliberec.cz/wp-content/uploads/2024/08/20240814_191511.jpg",
+"w": 1200
+},
+{
+"alt": "Prostory dětské skupiny Lišák",
+"barva": "#bab1a9",
+"dh": "87e6e8acc62228dc",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.lisakliberec.cz/o-nas/",
+"typ": "interier",
+"url": "https://www.lisakliberec.cz/wp-content/uploads/2024/08/IMG_7928.jpg",
+"w": 817
+}
+],
+"detska-skupina-materidouska-ds01593": [
+{
+"alt": "",
+"barva": "#b9ac9b",
+"dh": "050f4798c9d8a6e1",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEERIhBRMxQTKB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AKgvyhXYAZPvn8pyPq1u8qwNmORviAPP3WdubgQAuIw7DxsScU1ayGWJZGCqxGQVGMUQqsiGV8vvz3cUVJE7oAuxbHs8miljy//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://detskaskupinamateridouska.cz/",
+"typ": "interier",
+"url": "https://detskaskupinamateridouska.cz/wp-content/uploads/2024/05/materidouska_06.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b6753",
+"dh": "e7d39b873375f6be",
+"h": 900,
+"jistota": 0.861,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://detskaskupinamateridouska.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://detskaskupinamateridouska.cz/wp-content/uploads/2025/11/IMG_20250918_110458.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7a7569",
+"dh": "c7c724189f363fbf",
+"h": 900,
+"jistota": 0.712,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://detskaskupinamateridouska.cz/fotogalerie/",
+"typ": "les",
+"url": "https://detskaskupinamateridouska.cz/wp-content/uploads/2025/11/IMG_20250905_103538-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b6ab9f",
+"dh": "8868aadb98901a0e",
+"h": 800,
+"jistota": 0.997,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://detskaskupinamateridouska.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://detskaskupinamateridouska.cz/wp-content/uploads/2024/05/materidouska_03.jpg",
+"w": 1200
+}
+],
 "detska-skupina-misa-skolka-petrvald-ds10336": [
 {
 "alt": "trebovice4",
@@ -156,6 +255,23 @@
 "typ": "zahrada",
 "url": "https://www.misaskolka.cz/wp-content/uploads/2021/12/trebovice6.jpg",
 "w": 1200
+}
+],
+"detska-skupina-pastelka-ds01705": [
+{
+"alt": "Pastelka I.",
+"barva": "#7b847e",
+"dh": "e8d95e7b396bf318",
+"h": 768,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EACIQAAIBAwQCAwAAAAAAAAAAAAECAwAEERITITFhkQUUUf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EAB0RAAICAQUAAAAAAAAAAAAAAAECABEDISIyUbH/2gAMAwEAAhEDEQA/AKvqwyhHEa6SMkEcipZIbTfIYFiMDQT0PzukSFJ2WOJH1seC0hOTj1Rb2tqJBvLpI6KDGT5rKkA6ydWI2mo5kts8RxL4Crx7zRWJ8MjgslzIQSexRTBk6gFMl8vJ/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.pastelkapardubice.cz/",
+"typ": "interier",
+"url": "https://bf7bbb4e83.clvaw-cdnwnd.com/48603c397ad95adbda655dfb2f94f2ec/200000129-af870af871/WhatsApp%20Image%202023-04-27%20at%2018.36.12%20%282%29.jpeg?ph=bf7bbb4e83",
+"w": 1024
 }
 ],
 "detska-skupina-pidi-midi-treboradice-ds01994": [

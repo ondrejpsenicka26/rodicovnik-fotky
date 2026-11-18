@@ -1,11 +1,13 @@
-[02:13:51] Část 14/20: webů 156, hotovo 167, zbývá 7
-[02:14:00] https://zvidaleksardice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[02:14:14] https://littlenest.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 16 fotek ke kontrole
-[02:14:18] https://dsprovazek.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 5 fotek ke kontrole
-[02:14:24] https://evakiedronova.cz/programy/rozcestnik-ds/detska-skupina-sovicky: 2 stránek (galerie mimo web: 0 [], alb: 0), 71 obrázků, 14 fotek ke kontrole
-[02:15:07] https://montessorirms.cz: 12 stránek (galerie mimo web: 1 ['montessorirmschomutov.rajce.idnes.cz'], alb: 0), 100 obrázků, 4 fotek ke kontrole
-[02:15:09] https://misaskolka.cz/detska-skupina-misa-skolka-petrvald: 25 stránek (galerie mimo web: 0 [], alb: 0), 164 obrázků, 43 fotek ke kontrole
-[02:16:33] https://veselaskolickazuzanka.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 17 fotek ke kontrole
-[02:16:47] tříděno 0/100
-[02:16:57] Dávka 1: hotovo 174/156, se fotkami 35; {'ok': 12, 'lide': 5, 'jine': 68, 'sablona': 0}
-[02:16:57] Konec: školek s fotkami 35; {'ok': 12, 'lide': 5, 'jine': 68, 'sablona': 0}
+[03:59:55] Část 14/20: webů 163, hotovo 174, zbývá 9
+[03:59:59] https://dssvetpoznani.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
+[04:00:09] https://holesov.cz/4789-detska-skupina-hajenka.html: nedostupné nebo zakázané
+[04:00:12] https://skolanahoru.cz: 16 stránek (galerie mimo web: 1 ['nahorujilemnice.rajce.idnes.cz'], alb: 0), 17 obrázků, 0 fotek ke kontrole
+[04:00:13] https://pastelkapardubice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 9 fotek ke kontrole
+[04:01:08] https://stararise.cz/detska-skupina-stara-rise: 3 stránek (galerie mimo web: 1 ['mestysstararise.rajce.idnes.cz'], alb: 0), 14 obrázků, 2 fotek ke kontrole
+[04:01:22] https://detskaskupinamateridouska.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 21 fotek ke kontrole
+[04:01:23] https://lisakliberec.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 16 fotek ke kontrole
+[04:01:32] https://novavesnm.cz/detska-skupina-motylek/ms-5022: nedostupné nebo zakázané
+[04:01:57] https://beruskazlin.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 443 obrázků, 44 fotek ke kontrole
+[04:02:07] tříděno 0/93
+[04:02:16] Dávka 1: hotovo 183/163, se fotkami 38; {'ok': 8, 'lide': 4, 'jine': 72, 'sablona': 0}
+[04:02:16] Konec: školek s fotkami 38; {'ok': 8, 'lide': 4, 'jine': 72, 'sablona': 0}
