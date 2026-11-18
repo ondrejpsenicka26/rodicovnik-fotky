@@ -1,2 +1,5 @@
-[12:37:23] Část 19/20: webů 166, hotovo 200, zbývá 0
-[12:37:23] Konec: školek s fotkami 50; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:27] Část 19/20: webů 167, hotovo 200, zbývá 1
+[12:44:52] https://zsbozkov.plzen.eu: 34 stránek (galerie mimo web: 0 [], alb: 0), 218 obrázků, 32 fotek ke kontrole
+[12:45:11] tříděno 0/32
+[12:45:11] Dávka 1: hotovo 201/167, se fotkami 51; {'ok': 2, 'lide': 7, 'jine': 23, 'sablona': 0}
+[12:45:11] Konec: školek s fotkami 51; {'ok': 2, 'lide': 7, 'jine': 23, 'sablona': 0}

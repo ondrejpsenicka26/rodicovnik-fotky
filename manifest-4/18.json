@@ -1579,6 +1579,36 @@
 "w": 955
 }
 ],
+"zakladni-skola-a-materska-skola-plzen-bozkov-543427": [
+{
+"alt": "",
+"barva": "#857f69",
+"dh": "6232226664707010",
+"h": 510,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBf/EACAQAAEEAgEFAAAAAAAAAAAAAAEAAgMEERIFEyExQVH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIRAyEx/9oADAMBAAIRAxEAPwCo0o219GEuPgbfFLj+pXOYZCx5OHegiKGLfRW1E2qzpRC0SWdyOwJGDhERaKAf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsbozkov.plzen.eu/galleries/dopravni-hriste-iv-trida-zs/",
+"typ": "interier",
+"url": "https://zsbozkov.plzen.eu/wp-content/uploads/2020/06/IMG_20200617_120937.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#76745f",
+"dh": "183993923a86ced9",
+"h": 510,
+"jistota": 0.842,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsbozkov.plzen.eu/galleries/dopravni-hriste-iv-trida-zs/",
+"typ": "zahrada",
+"url": "https://zsbozkov.plzen.eu/wp-content/uploads/2020/06/IMG_20200612_115101.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-potehy-513048": [
 {
 "alt": "",
