@@ -4599,10 +4599,6 @@
 "jen_ms": false,
 "slug": "materska-skola-mnichovo-hradiste-514711"
 },
-"https://ms-nemcice.cz": {
-"jen_ms": false,
-"slug": "materska-skola-nemcice-600374"
-},
 "https://ms-novavcelnice.cz": {
 "jen_ms": false,
 "slug": "materska-skola-nova-vcelnice-prisp-org-022974"
@@ -5303,10 +5299,6 @@
 "jen_ms": false,
 "slug": "materska-skola-liberec-564394"
 },
-"https://msmedloviceuh.cz": {
-"jen_ms": false,
-"slug": "materska-skola-medlovice-613336"
-},
 "https://msmesice.cz/zelvicky-a1576": {
 "jen_ms": false,
 "slug": "detska-skupina-zelvicky-ds11314"
@@ -5842,10 +5834,6 @@
 "https://msvykleky.cz": {
 "jen_ms": false,
 "slug": "materska-skola-vykleky-631709"
-},
-"https://mszabovresky.cz": {
-"jen_ms": false,
-"slug": "materska-skola-zabovresky-531003"
 },
 "https://mszafontanou.cz": {
 "jen_ms": false,
@@ -6902,10 +6890,6 @@
 "https://skolkanopova.cz": {
 "jen_ms": false,
 "slug": "materska-skola-brno-555122"
-},
-"https://skolkaobora.cz": {
-"jen_ms": false,
-"slug": "materska-skola-obora-600463"
 },
 "https://skolkaoskar.cz": {
 "jen_ms": false,
@@ -9959,10 +9943,6 @@
 "jen_ms": false,
 "slug": "materska-skola-olesna-510926"
 },
-"https://www.olesnice.cz": {
-"jen_ms": true,
-"slug": "zakladni-skola-a-materska-skola-mesta-olesnice-600382"
-},
 "https://www.olesnice.net": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-v-olesnici-v-orlickych-horach-048108"
@@ -10858,6 +10838,10 @@
 "https://www.skolkanavlne.cz": {
 "jen_ms": true,
 "slug": "montessori-skola-na-vlne-ms-a-zs-120763"
+},
+"https://www.skolkaobora.cz": {
+"jen_ms": false,
+"slug": "materska-skola-obora-544555"
 },
 "https://www.skolkapraminek.cz": {
 "jen_ms": false,
@@ -13540,8 +13524,8 @@
 "slug": "zakladni-skola-a-materska-skola-oleksovice-615223"
 },
 "https://zsamsolesnice.cz": {
-"jen_ms": false,
-"slug": "materska-skola-olesnice-586525"
+"jen_ms": true,
+"slug": "zakladni-skola-a-materska-skola-mesta-olesnice-600382"
 },
 "https://zsamspernink.cz": {
 "jen_ms": true,
@@ -13602,10 +13586,6 @@
 "https://zsbrezina.cz": {
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-brezina-100301"
-},
-"https://zsbrezova.eu": {
-"jen_ms": true,
-"slug": "zakladni-skola-a-materska-skola-brezova-105941"
 },
 "https://zsbrodce.cz": {
 "jen_ms": true,

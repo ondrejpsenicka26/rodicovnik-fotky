@@ -7405,6 +7405,13 @@
 "ulice": "Fanderlíkova",
 "web": "https://materska-skola-fanderlikova.webnode.cz"
 },
+"materska-skola-brno-601257": {
+"ico": "70874271",
+"psc": "616 00",
+"psc_staci": false,
+"ulice": "Gabriely Preissové",
+"web": "https://mszabovresky.cz"
+},
 "materska-skola-brno-601311": {
 "ico": "70279578",
 "psc": "614 00",
@@ -8035,11 +8042,11 @@
 "ulice": "",
 "web": "https://domasovusternberka.cz/materska-skola/os-1001"
 },
-"materska-skola-doubravice-534771": {
-"ico": "70982767",
-"psc": "387 35",
+"materska-skola-doubravice-nad-svitavou-600161": {
+"ico": "62072765",
+"psc": "679 11",
 "psc_staci": true,
-"ulice": "",
+"ulice": "Dolní",
 "web": "https://ms.doubravicens.cz"
 },
 "materska-skola-drahonice-535092": {
@@ -9400,13 +9407,6 @@
 "ulice": "",
 "web": "https://ms-medlovice.webnode.cz"
 },
-"materska-skola-medlovice-613336": {
-"ico": "71004548",
-"psc": "682 01",
-"psc_staci": false,
-"ulice": "",
-"web": "https://msmedloviceuh.cz"
-},
 "materska-skola-merovice-nad-hanou-631202": {
 "ico": "70990174",
 "psc": "752 01",
@@ -9729,13 +9729,6 @@
 "ulice": "Husova",
 "web": "https://msnejdekhusova.cz"
 },
-"materska-skola-nemcice-600374": {
-"ico": "75023041",
-"psc": "679 51",
-"psc_staci": true,
-"ulice": "",
-"web": "https://ms-nemcice.cz"
-},
 "materska-skola-nemcice-nad-hanou-610221": {
 "ico": "75021684",
 "psc": "798 27",
@@ -9827,13 +9820,6 @@
 "ulice": "",
 "web": "https://msnovyrychnov.cz"
 },
-"materska-skola-obora-600463": {
-"ico": "70992673",
-"psc": "679 01",
-"psc_staci": false,
-"ulice": "",
-"web": "https://skolkaobora.cz"
-},
 "materska-skola-oborna-620111": {
 "ico": "70640122",
 "psc": "792 01",
@@ -9910,13 +9896,6 @@
 "psc_staci": false,
 "ulice": "",
 "web": "https://www.msolesna.cz"
-},
-"materska-skola-olesnice-586525": {
-"ico": "72744022",
-"psc": "511 01",
-"psc_staci": false,
-"ulice": "",
-"web": "https://zsamsolesnice.cz"
 },
 "materska-skola-olomouc-000530": {
 "ico": "75029588",
@@ -11388,13 +11367,6 @@
 "ulice": "",
 "web": "https://www.mssvatepole.cz"
 },
-"materska-skola-svatoslav-603195": {
-"ico": "75009412",
-"psc": "666 01",
-"psc_staci": false,
-"ulice": "",
-"web": "https://ms-svatoslav.cz"
-},
 "materska-skola-svetluska-071240": {
 "ico": "04300513",
 "psc": "621 00",
@@ -12066,13 +12038,6 @@
 "psc_staci": true,
 "ulice": "K Havaji",
 "web": "https://www.zaborinadlabem.cz/organizace/materska-skola/"
-},
-"materska-skola-zabovresky-531003": {
-"ico": "75001349",
-"psc": "373 41",
-"psc_staci": false,
-"ulice": "",
-"web": "https://mszabovresky.cz"
 },
 "materska-skola-zachotin-533294": {
 "ico": "71004858",
@@ -13103,13 +13068,6 @@
 "ulice": "",
 "web": "https://www.zsamsbreznice.cz"
 },
-"zakladni-skola-a-materska-skola-brezova-105941": {
-"ico": "70984557",
-"psc": "747 44",
-"psc_staci": true,
-"ulice": "",
-"web": "https://zsbrezova.eu"
-},
 "zakladni-skola-a-materska-skola-brnicko-632144": {
 "ico": "70996261",
 "psc": "789 75",
@@ -13914,6 +13872,13 @@
 "psc_staci": true,
 "ulice": "",
 "web": "https://skolymartinice.cz"
+},
+"zakladni-skola-a-materska-skola-mesta-olesnice-600382": {
+"ico": "62073281",
+"psc": "679 74",
+"psc_staci": true,
+"ulice": "Veselská",
+"web": "https://zsamsolesnice.cz"
 },
 "zakladni-skola-a-materska-skola-mikuluvka-007230": {
 "ico": "70918023",
