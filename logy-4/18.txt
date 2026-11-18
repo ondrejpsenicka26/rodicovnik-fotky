@@ -1,7 +1,2 @@
-[11:45:52] Část 19/20: webů 165, hotovo 195, zbývá 3
-[11:46:06] https://www.dspohadka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 9 fotek ke kontrole
-[11:46:28] https://www.dsmozaika.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 56 obrázků, 36 fotek ke kontrole
-[11:46:41] https://kidsgarden.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 0 fotek ke kontrole
-[11:46:55] tříděno 0/45
-[11:46:57] Dávka 1: hotovo 198/165, se fotkami 50; {'ok': 5, 'lide': 3, 'jine': 33, 'sablona': 0}
-[11:46:57] Konec: školek s fotkami 50; {'ok': 5, 'lide': 3, 'jine': 33, 'sablona': 0}
+[12:06:18] Část 19/20: webů 165, hotovo 198, zbývá 0
+[12:06:18] Konec: školek s fotkami 50; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
