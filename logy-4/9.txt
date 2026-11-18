@@ -1,12 +1,10 @@
-[09:54:06] Část 10/20: webů 165, hotovo 188, zbývá 8
-[09:54:22] https://skolkabartosovice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
-[09:55:06] https://mshnojice.cz: 13 stránek (galerie mimo web: 1 ['mshnojice.rajce.idnes.cz'], alb: 0), 24 obrázků, 22 fotek ke kontrole
-[09:55:08] https://skolaskrben.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 0 fotek ke kontrole
-[09:55:11] https://zshornikalna.webnode.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 0 fotek ke kontrole
-[09:55:13] https://zsrychnov.cz: 26 stránek (galerie mimo web: 295 ['exkurzevp.rajce.idnes.cz', 'photos.app.goo.gl', 'photos.google.com'], alb: 9), 1 obrázků, 0 fotek ke kontrole
-[09:55:27] https://msmalamoravka.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 836 obrázků, 12 fotek ke kontrole
-[09:55:38] https://skola.bystrovany.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 541 obrázků, 9 fotek ke kontrole
-[09:56:10] https://zsmoravka.cz: 30 stránek (galerie mimo web: 2 ['ms-moravka-broucci.rajce.idnes.cz', 'ms-moravka-skritci.rajce.idnes.cz'], alb: 0), 359 obrázků, 6 fotek ke kontrole
-[09:56:26] tříděno 0/50
-[09:56:29] Dávka 1: hotovo 196/165, se fotkami 50; {'ok': 4, 'lide': 0, 'jine': 46, 'sablona': 0}
-[09:56:29] Konec: školek s fotkami 50; {'ok': 4, 'lide': 0, 'jine': 46, 'sablona': 0}
+[10:15:20] Část 10/20: webů 169, hotovo 196, zbývá 6
+[10:16:04] https://obeckosov.webnode.cz/skolka: 29 stránek (galerie mimo web: 18 ['eu.zonerama.com', 'us.zonerama.com', 'www.zonerama.com'], alb: 0), 144 obrázků, 2 fotek ke kontrole
+[10:16:10] https://msrakova.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 2 fotek ke kontrole
+[10:16:23] https://msrestoky.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 35 fotek ke kontrole
+[10:16:33] https://zsmsoskava.cz: 18 stránek (galerie mimo web: 1 ['zsoskava.rajce.idnes.cz'], alb: 0), 283 obrázků, 10 fotek ke kontrole
+[10:16:37] https://msdoloplazy.estranky.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 133 obrázků, 0 fotek ke kontrole
+[10:16:45] https://skoladrozdov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 227 obrázků, 24 fotek ke kontrole
+[10:16:57] tříděno 0/73
+[10:17:01] Dávka 1: hotovo 202/169, se fotkami 53; {'ok': 5, 'lide': 3, 'jine': 65, 'sablona': 0}
+[10:17:01] Konec: školek s fotkami 53; {'ok': 5, 'lide': 3, 'jine': 65, 'sablona': 0}

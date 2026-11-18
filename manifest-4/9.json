@@ -674,6 +674,36 @@
 "w": 1000
 }
 ],
+"materska-skola-drozdov-633248": [
+{
+"alt": "image-picker-a8a0ad12-0fe9-4f24-97a0-a7ccce3c949e-66322-000012f5035e0dbe-339.jpg",
+"barva": "#8f7c6a",
+"dh": "1c54951533e030f1",
+"h": 1024,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIABsAFAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAAAwIEBQH/xAAmEAACAQIFAwUBAAAAAAAAAAABAgMAEQQSEyExUWGBFCJBQpHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABkRAQEAAwEAAAAAAAAAAAAAAAABERMhQf/aAAwDAQACEQMRAD8AfHi4dgXdSCAUZSCL9q7imVzi0aw0pUVSGBBB52HeqeEj9S4mczRSMfuoW9u3ilPhZZVn07WEu5AtmF9iPN/ykzE9Msy2Z0dCirEwsvQD5NFZEi40uTncX59v9oqncTqWGYFSG3BqGGeJL6UucjnMdxUCdqUiLqZsov1qVTxoat+aKrXNFaB//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skoladrozdov.cz/materska-skola/fotogalerie/hry-v-ms/",
+"typ": "interier",
+"url": "https://www.skoladrozdov.cz/www/skoladrozdov/fs/wrs-galerie/hry-v-ms/image-picker-a8a0ad12-0fe9-4f24-97a0-a7ccce3c949e-66322-000012f5035e0dbe-339.jpg",
+"w": 768
+},
+{
+"alt": "5372.jpg - TŘÍDA BERUŠKY",
+"barva": "#a2724e",
+"dh": "ececd8d8d8ececdc",
+"h": 1024,
+"jistota": 0.636,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skoladrozdov.cz/materska-skola/fotogalerie/hrajeme-si-v-ms/",
+"typ": "hygiena",
+"url": "https://www.skoladrozdov.cz/www/skoladrozdov/fs/wrs-galerie/hrajeme-si-v-ms/5372.jpg",
+"w": 771
+}
+],
 "materska-skola-dubanek-567962": [
 {
 "alt": "",
@@ -1037,6 +1067,23 @@
 "typ": "zahrada",
 "url": "https://www.msbc.cz/assets/images/mbr-816x530.jpg",
 "w": 816
+}
+],
+"materska-skola-restoky-582406": [
+{
+"alt": "",
+"barva": "#5e6443",
+"dh": "8032b7e630706663",
+"h": 900,
+"jistota": 0.701,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBP/EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEABCEFBhMSIlExYYKRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABkRAAIDAQAAAAAAAAAAAAAAAAARARITUf/aAAwDAQACEQMRAD8AKb1U8zjz4ddUoDuQsj7pSy3Xc2rSkJbVcZkBZkpHjzXAWAi2VxpKCcjuxn2rNvp4guNx1RJk+s1jZExcb4u4zpoPyI/KqMVLUJXgxNVDaeBZ/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msrestoky.cz/",
+"typ": "zahrada",
+"url": "https://www.msrestoky.cz/wp-content/uploads/2022/05/IMG_20201002_160416-1-copy.webp",
+"w": 1200
 }
 ],
 "materska-skola-rybicka-000913": [
@@ -1770,6 +1817,36 @@
 "stranka": "https://www.zsmoravka.cz/fotogalerie-zs/tridni-den",
 "typ": "budova",
 "url": "http://www.zsmoravka.cz/image.php?oid=10449785",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-oskava-633434": [
+{
+"alt": "",
+"barva": "#362915",
+"dh": "c8480884464e4808",
+"h": 900,
+"jistota": 0.992,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAwb/xAAlEAACAgIBAAsAAAAAAAAAAAABAwIEABEhBQYSFCIxMlGhsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIREiFh/9oADAMBAAIRAxEAPwDjfPNW1XLVFxXILIHi1xihVLkoCwSFxIJ4GyST+Y50jYqxrsJhCKxAgHY3ve9e+ZSm01Raiq2EpUKD64nY6RghhPoK5S+RljaXVzvKO2p8THetzXz95Yy6KP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmsoskava.cz/jidelna/jidelnicek-ms/",
+"typ": "budova",
+"url": "https://www.zsmsoskava.cz/data/headerfooter/header_images/img20210322191257.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#909b6f",
+"dh": "470e1f5b198e8df1",
+"h": 704,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsmsoskava.cz/jidelna/jidelnicek-ms/",
+"typ": "budova",
+"url": "https://www.zsmsoskava.cz/data/headerfooter/header_images/emailseznamcz-2.jpg",
 "w": 1200
 }
 ],
