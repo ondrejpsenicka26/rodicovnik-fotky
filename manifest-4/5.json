@@ -1859,6 +1859,49 @@
 "w": 1086
 }
 ],
+"zakladni-skola-a-materska-skola-bratrusov-632993": [
+{
+"alt": "",
+"barva": "#6e787b",
+"dh": "1b30222313a3a371",
+"h": 900,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAIxAAAgICAQMFAQAAAAAAAAAAAQIDEQAEMQUTIRIiYXGRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERNR/9oADAMBAAIRAxEAPwDJ0nb7UUoCGRqsF3Ptrnx/MQ1jJJK8hlYyMoNnj6rBBvpGH7dDwfSAODmzS6tEjFmRySoBoDn9y26CkJy7MMbVNII3rhssI2d3TllLF51+KuvOWPeXA5o//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsmsbratrusov.cz/ms/",
+"typ": "budova",
+"url": "https://zsmsbratrusov.cz/wp-content/uploads/2020/08/20200828_144200.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#767d50",
+"dh": "230f5d8c5c93d986",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsmsbratrusov.cz/ms/",
+"typ": "zahrada",
+"url": "https://zsmsbratrusov.cz/wp-content/uploads/2020/08/20200828_144219.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#72794d",
+"dh": "1c99be6fe3b9ce96",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsmsbratrusov.cz/ms/",
+"typ": "zahrada",
+"url": "https://zsmsbratrusov.cz/wp-content/uploads/2020/08/20200828_144223.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-brno-601397": [
 {
 "alt": "og",

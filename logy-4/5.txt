@@ -1,14 +1,7 @@
-[09:54:01] Část 6/20: webů 151, hotovo 182, zbývá 10
-[09:54:07] https://skolahradek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[09:54:08] https://skolka.vidnava.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 0 fotek ke kontrole
-[09:54:11] https://pzstrinec.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[09:54:14] https://skolavelichovky.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
-[09:54:20] https://materska-skolka-oldrisov.webnode.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 13 fotek ke kontrole
-[09:54:51] https://zsamsstarnov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 595 obrázků, 7 fotek ke kontrole
-[09:55:03] https://zshradek.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 362 obrázků, 2 fotek ke kontrole
-[09:55:16] https://skolymartinice.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 310 obrázků, 22 fotek ke kontrole
-[09:55:19] https://skolaadrspach.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 2 fotek ke kontrole
-[09:56:13] https://msctyrlistektrinec.cz: 26 stránek (galerie mimo web: 51 ['ctyrlistektyrska.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 26), 73 obrázků, 38 fotek ke kontrole
-[09:56:27] tříděno 0/84
-[09:56:35] Dávka 1: hotovo 192/151, se fotkami 66; {'ok': 12, 'lide': 1, 'jine': 69, 'sablona': 0}
-[09:56:35] Konec: školek s fotkami 66; {'ok': 12, 'lide': 1, 'jine': 69, 'sablona': 0}
+[10:15:28] Část 6/20: webů 149, hotovo 192, zbývá 3
+[10:15:39] https://obecstrazisko.cz/obec/sluzby-v-obci/materska-skola-strazisko-19cs.html: nedostupné nebo zakázané
+[10:15:42] https://zspisarov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[10:19:13] https://zsmsbratrusov.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 156 obrázků, 24 fotek ke kontrole
+[10:19:29] tříděno 0/24
+[10:19:30] Dávka 1: hotovo 195/149, se fotkami 67; {'ok': 3, 'lide': 2, 'jine': 19, 'sablona': 0}
+[10:19:30] Konec: školek s fotkami 67; {'ok': 3, 'lide': 2, 'jine': 19, 'sablona': 0}
