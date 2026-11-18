@@ -1,18 +1,2 @@
-[09:22:09] Část 2/20: webů 164, hotovo 177, zbývá 14
-[09:22:15] https://msperna.webnode.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[09:22:15] https://lmsnavetvi.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[09:22:21] https://1msvelkeopatovice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 1 fotek ke kontrole
-[09:22:24] https://zsmshlubocany.webnode.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 1 fotek ke kontrole
-[09:22:35] https://msnejdekhusova.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 7 fotek ke kontrole
-[09:22:37] https://msdedicka.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 2 fotek ke kontrole
-[09:23:08] https://sobulky.cz/zakladni-skola: 5 stránek (galerie mimo web: 31 ['ousobulky.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 1), 87 obrázků, 16 fotek ke kontrole
-[09:23:09] https://mshranice.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 70 obrázků, 41 fotek ke kontrole
-[09:23:14] https://siluvky.cz/obecni-urad/zakladni-a-materska-skola: 7 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 6 fotek ke kontrole
-[09:23:16] https://zsmspopice.cz: 31 stránek (galerie mimo web: 1 ['popice3.rajce.idnes.cz'], alb: 0), 344 obrázků, 3 fotek ke kontrole
-[09:23:20] https://skolkapritluky.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 96 obrázků, 1 fotek ke kontrole
-[09:23:20] https://mskralovskeporici.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 109 obrázků, 31 fotek ke kontrole
-[09:23:23] https://mshosteradice.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 1072 obrázků, 0 fotek ke kontrole
-[09:23:46] https://mszvonecekhk.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 13 fotek ke kontrole
-[09:24:03] tříděno 0/123
-[09:24:21] Dávka 1: hotovo 191/164, se fotkami 51; {'ok': 17, 'lide': 19, 'jine': 45, 'sablona': 0}
-[09:24:21] Konec: školek s fotkami 51; {'ok': 17, 'lide': 19, 'jine': 45, 'sablona': 0}
+[09:44:18] Část 2/20: webů 158, hotovo 191, zbývá 0
+[09:44:18] Konec: školek s fotkami 51; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
