@@ -231,6 +231,79 @@
 "w": 1200
 }
 ],
+"detska-skupina-slunicka-chlumec-ds00125": [
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgADERIxIUEFBFFhcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAARESE//aAAwDAQACEQMRAD8A0r+TR1OAqDIauOIy+bszIlC62sb9dbnIzOveMH+BzuH1UkWD1lIlruhIPOQI/DCRgL0oH1CHs3iv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+},
+{
+"alt": "Dětská skupina Sluníčka Chlumec - fotografie 9",
+"barva": "#707652",
+"dh": "787e7cbc3c5e783c",
+"h": 683,
+"jistota": 0.864,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/chlumec/detska-skupina-slunicka-chlumec/",
+"typ": "interier",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/79/conversions/01KE6KE53CN8ENKGTVRRCVR1XP-medium.webp?v=1767593567",
+"w": 1024
+},
+{
+"alt": "Teplice",
+"barva": "#7f6f55",
+"dh": "929494a5a7f0f81d",
+"h": 683,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
+"w": 1024
+}
+],
+"little-family-breclav-detska-skupina-ds02263": [
+{
+"alt": "IMG_1254.jpeg",
+"barva": "#9d978c",
+"dh": "9a198965510b95c9",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAiEAACAgEEAQUAAAAAAAAAAAABAgMRAAQSEyExI0GRodH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESMf/aAAwDAQACEQMRAD8A1Xk5FsiQEX0LJOUwQiVUezVW3Xj5zsaDgYLLLI48gg0PrGrEit6fR9tvVfuCzooS6mJtPIERgRtvs4Y6bTczBmdjQAvDM0iyz//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.littlefamily.cz/",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/1c5365_21f2f45e18d344cfb17d4eefc0303b79~mv2.jpeg",
+"w": 1200
+},
+{
+"alt": "LITTLE FAMILY Slatina",
+"barva": "#a5a39a",
+"dh": "deea6464dde2a688",
+"h": 900,
+"jistota": 0.994,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.littlefamily.cz/",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/1c5365_d9006d3331e64954a6c1132ba0ebf423~mv2.jpeg",
+"w": 1200
+}
+],
 "materska-skola-berusky-510057": [
 {
 "alt": "",

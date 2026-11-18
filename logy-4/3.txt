@@ -1,19 +1,9 @@
-[00:41:46] Část 4/20: webů 149, hotovo 152, zbývá 15
-[00:41:54] https://knoflicekdubnany.cz: nedostupné nebo zakázané
-[00:42:03] https://dsmedvidataberoun.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 7 fotek ke kontrole
-[00:42:08] http://www.ms-sidliste.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 1 fotek ke kontrole
-[00:42:12] https://pytelblech.cz: nedostupné nebo zakázané
-[00:42:29] http://www.zschornice.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 0 fotek ke kontrole
-[00:42:34] http://www.osikskolka.webnode.cz: 11 stránek (galerie mimo web: 1 ['skolkaosik.rajce.idnes.cz'], alb: 0), 19 obrázků, 0 fotek ke kontrole
-[00:42:37] http://www.mssezemice.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 245 obrázků, 14 fotek ke kontrole
-[00:42:56] https://luzanky.cz/lata/skladanka: 13 stránek (galerie mimo web: 0 [], alb: 0), 127 obrázků, 39 fotek ke kontrole
-[00:42:58] http://www.msurybicek.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 2248 obrázků, 43 fotek ke kontrole
-[00:43:06] https://mskuzlatka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 54 obrázků, 40 fotek ke kontrole
-[00:43:06] https://www.skolkastepanov.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 92 obrázků, 3 fotek ke kontrole
-[00:43:10] http://www.zssakvice.cz: nedostupné nebo zakázané
-[00:43:23] https://hrusovany.cz/detska-skupina-rybicky-v-hrusovanech-nad-jevisovkou/d-18332: nedostupné nebo zakázané
-[00:43:25] http://www.galileoschool.cz: nedostupné nebo zakázané
-[00:45:00] http://www.mslabska.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 99 obrázků, 35 fotek ke kontrole
-[00:45:22] tříděno 0/182
-[00:45:48] Dávka 1: hotovo 167/149, se fotkami 41; {'ok': 9, 'lide': 14, 'jine': 106, 'sablona': 0}
-[00:45:48] Konec: školek s fotkami 41; {'ok': 9, 'lide': 14, 'jine': 106, 'sablona': 0}
+[02:14:04] Část 4/20: webů 148, hotovo 167, zbývá 5
+[02:14:09] https://planetkauffo.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
+[02:14:15] https://ds-lucnimlyn.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
+[02:14:18] https://littlefamily.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 10 fotek ke kontrole
+[02:14:19] https://dseccehomo.cz/dracek: 1 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 6 fotek ke kontrole
+[02:14:23] https://dsslunicka.cz/chlumec/detska-skupina-slunicka-chlumec: 4 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 23 fotek ke kontrole
+[02:14:35] tříděno 0/39
+[02:14:37] Dávka 1: hotovo 172/148, se fotkami 43; {'ok': 5, 'lide': 2, 'jine': 27, 'sablona': 0}
+[02:14:37] Konec: školek s fotkami 43; {'ok': 5, 'lide': 2, 'jine': 27, 'sablona': 0}
