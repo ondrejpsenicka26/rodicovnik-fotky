@@ -816,6 +816,62 @@
 "w": 1200
 }
 ],
+"materska-skola-arnoltice-560992": [
+{
+"alt": "Hlavní budova",
+"barva": "#6c849c",
+"dh": "7fffce8ea6b1ffff",
+"h": 900,
+"jistota": 0.991,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACMQAAIDAAAEBwAAAAAAAAAAAAECAAMRBBIhYTEyQVFiccH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAMBAAMAAAAAAAAAAAAAAAABAhEDEjH/2gAMAwEAAhEDEQA/ANF13MxVKdAJAJfv9SNtbgaK/E+5EV6G05cevx7ZJrVYnluObuEb+y65aRHogHAvxADhrE9MABhFIvGBb+UAZgWEDum90SmUvD//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msarnoltice.cz/index.php/fotogalerie",
+"typ": "budova",
+"url": "https://msarnoltice.cz/images/2026/budova.jpg",
+"w": 1200
+},
+{
+"alt": "Třída",
+"barva": "#8c887e",
+"dh": "6b3b6373b29001f7",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msarnoltice.cz/index.php/fotogalerie",
+"typ": "interier",
+"url": "https://msarnoltice.cz/images/2026/trida04-1.jpg",
+"w": 900
+},
+{
+"alt": "Vchod",
+"barva": "#7f806f",
+"dh": "a0018e86069647ef",
+"h": 933,
+"jistota": 0.624,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msarnoltice.cz/index.php/fotogalerie",
+"typ": "les",
+"url": "https://msarnoltice.cz/images/2026/vchod.jpg",
+"w": 700
+},
+{
+"alt": "Cvičebna",
+"barva": "#7f786f",
+"dh": "f0c21c35451e3c04",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msarnoltice.cz/index.php/fotogalerie",
+"typ": "interier",
+"url": "https://msarnoltice.cz/images/2026/cvicebna.jpg",
+"w": 900
+}
+],
 "materska-skola-brno-601681": [
 {
 "alt": "og",
@@ -933,6 +989,62 @@
 "stranka": "http://mschrastava.cz/ms-pastelka/",
 "typ": "budova",
 "url": "http://mschrastava.cz/wp-content/uploads/2012/09/SCF5569.jpg",
+"w": 1200
+}
+],
+"materska-skola-hartmanice-587449": [
+{
+"alt": "",
+"barva": "#85684b",
+"dh": "19991999270d47e1",
+"h": 934,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAQABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAlEAACAQMDAwUBAAAAAAAAAAABAgMABBEFEiETYXEGJDFBUbH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABERNRAhL/2gAMAwEAAhEDEQA/AMunkxSsrTWaj8cN/cUC43+oraO4WLoKwyyfBqIkvY4RHJPGV5UnZztPmryWaPbxRxTiLpk5YrncT958VN7SclD4cDHUb+Jrn2sMJjAAB5578UUkfTZEbAukx2BFFJatDqeH/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkahartmanice.cz/zazemi/",
+"typ": "interier",
+"url": "https://skolkahartmanice.cz/wp-content/uploads/2024/11/zazemi_4-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#606d77",
+"dh": "0d9d7fdb73332361",
+"h": 1000,
+"jistota": 0.597,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkahartmanice.cz/",
+"typ": "les",
+"url": "https://skolkahartmanice.cz/wp-content/uploads/2025/09/03.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#6e5c37",
+"dh": "8e5c492f66272732",
+"h": 1200,
+"jistota": 0.983,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolkahartmanice.cz/zazemi/",
+"typ": "interier",
+"url": "https://skolkahartmanice.cz/wp-content/uploads/2024/11/zazemi_2-scaled.jpg",
+"w": 933
+},
+{
+"alt": "",
+"barva": "#6e928a",
+"dh": "6e6a4b4e4e4b4b4c",
+"h": 794,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolkahartmanice.cz/zazemi/",
+"typ": "hygiena",
+"url": "https://skolkahartmanice.cz/wp-content/uploads/2024/11/zazemi_7-scaled.jpg",
 "w": 1200
 }
 ],
@@ -1861,6 +1973,49 @@
 "stranka": "https://www.zs-kolodeje.cz/",
 "typ": "zahrada",
 "url": "https://www.zs-kolodeje.cz/wp-content/uploads/2021/05/skola-jaro-scaled-e1621265523876.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-kozli-580586": [
+{
+"alt": "og",
+"barva": "#897f6f",
+"dh": "c4002c8c14a42800",
+"h": 675,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAREiEEBRMVMSNBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAES/9oADAMBAAIRAxEAPwCnkoHazQZW9F9VLdQjx+OCIWG8hWaxpe2C/lMRwxY37a3A1qpap5jv8HjrNw4pHkRWZQSANeqKU4sjRQKqEBR9WFFLQ2P/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zskozli.cz/tridy-ms/",
+"typ": "interier",
+"url": "https://www.zskozli.cz/wp-content/uploads/2022/03/1646652477717-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#847563",
+"dh": "086be3c929643c66",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zskozli.cz/tridy-ms/",
+"typ": "interier",
+"url": "https://www.zskozli.cz/wp-content/uploads/2022/03/1646653759833.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#989792",
+"dh": "9792b1333bb333bb",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zskozli.cz/tridy-ms/",
+"typ": "hygiena",
+"url": "https://www.zskozli.cz/wp-content/uploads/2022/03/1646652477703-1.jpg",
 "w": 1200
 }
 ],

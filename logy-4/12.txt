@@ -1,2 +1,10 @@
-[10:40:19] Část 13/20: webů 175, hotovo 214, zbývá 0
-[10:40:19] Konec: školek s fotkami 53; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[11:04:06] Část 13/20: webů 181, hotovo 214, zbývá 6
+[11:04:15] https://www.msmirkov.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 1 fotek ke kontrole
+[11:04:31] https://msarnoltice.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 12 fotek ke kontrole
+[11:04:36] https://www.msdolninemci.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 73 obrázků, 0 fotek ke kontrole
+[11:05:44] https://zsmilavce.cz: 23 stránek (galerie mimo web: 1 ['zsmilavce.rajce.idnes.cz'], alb: 1), 102 obrázků, 27 fotek ke kontrole
+[11:06:01] https://skolkahartmanice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 15 fotek ke kontrole
+[11:08:16] https://www.zskozli.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 1470 obrázků, 39 fotek ke kontrole
+[11:08:38] tříděno 0/94
+[11:08:49] Dávka 1: hotovo 220/181, se fotkami 56; {'ok': 11, 'lide': 2, 'jine': 58, 'sablona': 0}
+[11:08:49] Konec: školek s fotkami 56; {'ok': 11, 'lide': 2, 'jine': 58, 'sablona': 0}
