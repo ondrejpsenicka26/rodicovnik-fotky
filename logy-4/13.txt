@@ -1,5 +1,7 @@
-[10:15:20] Část 14/20: webů 173, hotovo 204, zbývá 1
-[10:16:21] https://msplumlov.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 190 obrázků, 39 fotek ke kontrole
-[10:16:34] tříděno 0/39
-[10:16:35] Dávka 1: hotovo 205/173, se fotkami 52; {'ok': 2, 'lide': 3, 'jine': 34, 'sablona': 0}
-[10:16:35] Konec: školek s fotkami 52; {'ok': 2, 'lide': 3, 'jine': 34, 'sablona': 0}
+[10:40:54] Část 14/20: webů 174, hotovo 205, zbývá 3
+[10:41:20] http://ricanek.com: 7 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 21 fotek ke kontrole
+[10:41:47] http://jeslekulisek.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 548 obrázků, 18 fotek ke kontrole
+[10:44:29] https://zsdobratice.cz: 33 stránek (galerie mimo web: 1140 ['skoladobratice.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 321), 30 obrázků, 2 fotek ke kontrole
+[10:44:48] tříděno 0/41
+[10:44:50] Dávka 1: hotovo 208/174, se fotkami 53; {'ok': 3, 'lide': 6, 'jine': 21, 'sablona': 0}
+[10:44:50] Konec: školek s fotkami 53; {'ok': 3, 'lide': 6, 'jine': 21, 'sablona': 0}

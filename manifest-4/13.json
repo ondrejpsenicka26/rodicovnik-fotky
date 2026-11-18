@@ -441,6 +441,49 @@
 "w": 700
 }
 ],
+"jesle-kulisek-detska-skupina-ds00561": [
+{
+"alt": "IMG_2190",
+"barva": "#a7a696",
+"dh": "db494d444b0b1324",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAUAAgP/xAAkEAACAgIABAcAAAAAAAAAAAABAgMRAAQSITFBBRMUIlFx8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EAB4RAAEDBAMAAAAAAAAAAAAAAAEAAgMSIWGRETFB/9oADAMBAAIRAxEAPwBmbYPp4JYXBL2bvt+GZO44dWjZVYmiCb5feEwa4hiZ+IsQvIN0zvqP50QdlUGyBQ6dsJruLjoLRaTb0hI7E+tI4Yb8UVge0sAcsOPg2rKS7cdn4bLErjzpSiTG1//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://www.jeslekulisek.cz/cz/interier-jesli/",
+"typ": "interier",
+"url": "http://www.jeslekulisek.cz/base/files/images/21016/48105-IMG_2190.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_2192",
+"barva": "#a79e8a",
+"dh": "c2eb618686301032",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "http://www.jeslekulisek.cz/cz/interier-jesli/",
+"typ": "interier",
+"url": "http://www.jeslekulisek.cz/base/files/images/21016/48105-IMG_2192.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_2304",
+"barva": "#b9a58c",
+"dh": "ccd064e4c4c43ce4",
+"h": 800,
+"jistota": 0.581,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "http://www.jeslekulisek.cz/cz/interier-jesli/",
+"typ": "hygiena",
+"url": "http://www.jeslekulisek.cz/base/files/images/21016/48105-IMG_2304.jpg",
+"w": 1200
+}
+],
 "lesni-materska-skola-semicek-087812": [
 {
 "alt": "",
