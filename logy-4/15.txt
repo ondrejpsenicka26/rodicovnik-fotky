@@ -1,2 +1,11 @@
-[09:44:12] Část 16/20: webů 152, hotovo 183, zbývá 0
-[09:44:12] Konec: školek s fotkami 54; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:05] Část 16/20: webů 159, hotovo 183, zbývá 7
+[09:54:09] https://mspastelkakrnov.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:51] https://zsnahorany-cz.webnode.cz: 6 stránek (galerie mimo web: 28 ['nahoranyzsams.rajce.idnes.cz', 'rajce.net', 'www.rajce.idnes.cz'], alb: 1), 3 obrázků, 2 fotek ke kontrole
+[09:55:30] https://zsamsjeseniknadodrou.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 181 obrázků, 0 fotek ke kontrole
+[09:55:47] https://skolamalehostice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 1126 obrázků, 22 fotek ke kontrole
+[09:56:18] https://zsbrezova.eu: 26 stránek (galerie mimo web: 0 [], alb: 0), 127 obrázků, 28 fotek ke kontrole
+[09:56:52] https://skola.prepychy.cz: 15 stránek (galerie mimo web: 108 ['msprepychy.rajce.idnes.cz', 'obecprepychy.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 4), 4 obrázků, 1 fotek ke kontrole
+[09:57:34] https://mstanvald.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 230 obrázků, 44 fotek ke kontrole
+[09:57:48] tříděno 0/97
+[09:57:53] Dávka 1: hotovo 190/159, se fotkami 54; {'ok': 0, 'lide': 1, 'jine': 96, 'sablona': 0}
+[09:57:53] Konec: školek s fotkami 54; {'ok': 0, 'lide': 1, 'jine': 96, 'sablona': 0}
