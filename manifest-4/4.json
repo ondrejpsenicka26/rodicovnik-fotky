@@ -1136,6 +1136,23 @@
 "w": 1200
 }
 ],
+"materska-skola-slavkov-612925": [
+{
+"alt": "",
+"barva": "#87846d",
+"dh": "23920282a766c02f",
+"h": 800,
+"jistota": 0.991,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAAFAgT/xAAjEAABBAEDBAMAAAAAAAAAAAABAAIDEQQFEiETFEFRMTKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQADAQAAAAAAAAAAAAAAAQACAxEh/9oADAMBAAIRAxEAPwCJjB7i5pa08U4fAHP6rehTdgZJCz7tIAo3fhVhhQPZWwAegBSOx4YWUGmh4BpZek8LMevQCGPuOoJdo30eLRcbsyOM7W4zaHtxKKjaw4F//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.obecslavkov.cz/obec/vybavenost/",
+"typ": "zahrada",
+"url": "https://www.obecslavkov.cz/data/headerfooter/header_images/dsc0697.jpg",
+"w": 1200
+}
+],
 "materska-skola-teddy-bear-059738": [
 {
 "alt": "",
@@ -1240,6 +1257,62 @@
 "stranka": "https://www.msvrchlabi.cz/",
 "typ": "budova",
 "url": "https://www.msvrchlabi.cz/wp-content/uploads/2025/12/exterie.webp",
+"w": 1200
+}
+],
+"ms-kvicovice-540550": [
+{
+"alt": "",
+"barva": "#888c95",
+"dh": "ffff9213dbe77b78",
+"h": 800,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBAX/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMABBESMUEFExRRI3KB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDEzH/2gAMAwEAAhEDEQA/ANVzazy4kYDVyzD8qApbPc3EQVvjAKnbVmk3VxmNXaKJs+0Gai8w509pMeuKVa1wnWh8svTopGSZpo3G6mPNFStcKSSYgT9jRTtIMkf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kvicovice.cz/obec-7/materska-skolka/fotogalerie/jak-to-u-nas-vypada-588cs.html",
+"typ": "budova",
+"url": "https://www.kvicovice.cz/data/headerfooter/header_images/kv24-06-120.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7f755c",
+"dh": "387878eb3ebffffd",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.kvicovice.cz/obec-7/materska-skolka/fotogalerie/jak-to-u-nas-vypada-588cs.html",
+"typ": "interier",
+"url": "https://www.kvicovice.cz/evt_image.php?img=8612",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7b7e89",
+"dh": "00604cc3c40b0878",
+"h": 800,
+"jistota": 0.937,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.kvicovice.cz/obec-7/materska-skolka/fotogalerie/jak-to-u-nas-vypada-588cs.html",
+"typ": "budova",
+"url": "https://www.kvicovice.cz/data/headerfooter/header_images/kv24-04-119.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#9e8e76",
+"dh": "dc1405197b7f3f3f",
+"h": 674,
+"jistota": 0.984,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.kvicovice.cz/obec-7/materska-skolka/fotogalerie/jak-to-u-nas-vypada-587cs.html",
+"typ": "interier",
+"url": "https://www.kvicovice.cz/evt_image.php?img=8611",
 "w": 1200
 }
 ],

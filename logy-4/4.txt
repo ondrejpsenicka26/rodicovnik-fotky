@@ -1,2 +1,6 @@
-[12:06:09] Část 5/20: webů 157, hotovo 193, zbývá 0
-[12:06:09] Konec: školek s fotkami 53; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:12:59] Část 5/20: webů 157, hotovo 193, zbývá 2
+[12:13:23] https://www.obecslavkov.cz/sluzby/skolka-druzina: 4 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 1 fotek ke kontrole
+[12:13:45] https://www.kvicovice.cz/obec-7/materska-skolka: 33 stránek (galerie mimo web: 0 [], alb: 0), 439 obrázků, 15 fotek ke kontrole
+[12:14:02] tříděno 0/16
+[12:14:03] Dávka 1: hotovo 195/157, se fotkami 55; {'ok': 5, 'lide': 0, 'jine': 7, 'sablona': 0}
+[12:14:03] Konec: školek s fotkami 55; {'ok': 5, 'lide': 0, 'jine': 7, 'sablona': 0}
