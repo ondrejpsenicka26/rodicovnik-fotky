@@ -1,8 +1,8 @@
-[12:06:19] Část 16/20: webů 172, hotovo 209, zbývá 4
-[12:06:25] http://dsvelisek.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 2 fotek ke kontrole
-[12:06:32] https://www.ds-pexeso.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 8 fotek ke kontrole
-[12:06:32] https://www.zapotokem.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 1 fotek ke kontrole
-[12:07:21] https://www.dssnilkov.cz: 12 stránek (galerie mimo web: 4 ['eu.zonerama.com'], alb: 0), 55 obrázků, 37 fotek ke kontrole
-[12:07:43] tříděno 0/48
-[12:07:50] Dávka 1: hotovo 213/172, se fotkami 68; {'ok': 6, 'lide': 6, 'jine': 14, 'sablona': 0}
-[12:07:50] Konec: školek s fotkami 68; {'ok': 6, 'lide': 6, 'jine': 14, 'sablona': 0}
+[12:12:50] Část 16/20: webů 173, hotovo 213, zbývá 4
+[12:13:07] https://www.valec.cz/obec/organizace/skolstvi-zs-ms: 2 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 1 fotek ke kontrole
+[12:13:45] https://www.ublo.cz/materska-skola-ublo: 13 stránek (galerie mimo web: 0 [], alb: 0), 112 obrázků, 7 fotek ke kontrole
+[12:13:47] https://www.obyctov.cz/spolky-organizace/materska-skolka: 6 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 0 fotek ke kontrole
+[12:14:18] https://www.obec-holasovice.cz/obec-holasovice/materska-skola-holasovice/o-materske-skole: 32 stránek (galerie mimo web: 0 [], alb: 0), 300 obrázků, 1 fotek ke kontrole
+[12:14:29] tříděno 0/9
+[12:14:29] Dávka 1: hotovo 217/173, se fotkami 69; {'ok': 1, 'lide': 0, 'jine': 8, 'sablona': 0}
+[12:14:30] Konec: školek s fotkami 69; {'ok': 1, 'lide': 0, 'jine': 8, 'sablona': 0}
