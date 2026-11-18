@@ -1,8 +1,2 @@
-[12:54:27] Část 9/20: webů 171, hotovo 225, zbývá 4
-[12:55:13] https://skolkacilek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 41 fotek ke kontrole
-[12:55:20] https://skolahrastice.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 147 obrázků, 0 fotek ke kontrole
-[12:55:33] https://skolavsenory.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 35 fotek ke kontrole
-[12:56:14] https://ms.obec-hlizov.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 836 obrázků, 43 fotek ke kontrole
-[12:56:29] tříděno 0/119
-[12:56:40] Dávka 1: hotovo 229/171, se fotkami 81; {'ok': 3, 'lide': 12, 'jine': 104, 'sablona': 0}
-[12:56:40] Konec: školek s fotkami 81; {'ok': 3, 'lide': 12, 'jine': 104, 'sablona': 0}
+[13:31:14] Část 9/20: webů 169, hotovo 229, zbývá 0
+[13:31:14] Konec: školek s fotkami 81; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
