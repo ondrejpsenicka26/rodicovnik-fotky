@@ -1,9 +1,2 @@
-[11:45:23] Část 17/20: webů 190, hotovo 223, zbývá 5
-[11:45:35] https://www.dsagata.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 5 fotek ke kontrole
-[11:45:36] https://dsklubiksvinov.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 4 fotek ke kontrole
-[11:45:38] https://www.poupatka.com: 3 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 3 fotek ke kontrole
-[11:45:53] https://www.spravnaskolka.com: 4 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 21 fotek ke kontrole
-[11:46:14] https://dspiskle.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 72 obrázků, 33 fotek ke kontrole
-[11:46:26] tříděno 0/66
-[11:46:31] Dávka 1: hotovo 228/190, se fotkami 64; {'ok': 3, 'lide': 5, 'jine': 54, 'sablona': 0}
-[11:46:31] Konec: školek s fotkami 64; {'ok': 3, 'lide': 5, 'jine': 54, 'sablona': 0}
+[12:06:09] Část 17/20: webů 190, hotovo 228, zbývá 0
+[12:06:09] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
