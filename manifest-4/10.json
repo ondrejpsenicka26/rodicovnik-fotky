@@ -111,6 +111,105 @@
 "w": 990
 }
 ],
+"detska-skupina-bobanek-ds10584": [
+{
+"alt": "",
+"barva": "#a28c65",
+"dh": "0f0d1553e3834b07",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUA/8QAIxAAAgICAQIHAAAAAAAAAAAAAQIDEQAEIRJBBSIxUYGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhEDEiH/2gAMAwEAAhEDEQA/AGj19bXRCxA4ux7YjNFtxFYnkj6TfVwQw+cl+H7KyMjPGSVFGm9e47ZaRoygZIgo5PTfH7mWGPTgzkmSZoYTM/mlsGjTA195sVkiidhHEACbqyc2JRFn/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsbobanek.cz/",
+"typ": "interier",
+"url": "https://dsbobanek.cz:443/wp-content/uploads/2025/12/dsbobanek-male-14-of-54-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9d8960",
+"dh": "4d57031329791e06",
+"h": 801,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsbobanek.cz/",
+"typ": "interier",
+"url": "https://dsbobanek.cz:443/wp-content/uploads/2025/12/dsbobanek-male-3-of-54-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#736a64",
+"dh": "4b4b4949913b670f",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dsbobanek.cz/",
+"typ": "hygiena",
+"url": "https://dsbobanek.cz:443/wp-content/uploads/2025/12/Screenshot-2025-12-09-193552.png",
+"w": 1200
+}
+],
+"detska-skupina-formelo-ds01789": [
+{
+"alt": "",
+"barva": "#6c757c",
+"dh": "2505332b0b474937",
+"h": 800,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAjEAACAQQBAwUAAAAAAAAAAAABAgMABBESBSFBYRMUIpGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAZEQEBAAMBAAAAAAAAAAAAAAABAAIDESH/2gAMAwEAAhEDEQA/AIvE+jOpWZwhzqpJxnpXQ8fDGsEcfwCzBplY9hjXB89ai2mr2wOuADnHmn35K5igXQqFjGoBXOR5+qTsUBjjiHtnee3urlzcLKrIdBquQQO9FIzcrNJKzOAT+UVOS7f/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://formelo.cz/galerie/letni-rekonstrukce-skolky",
+"typ": "budova",
+"url": "https://formelo.cz/img/galerie/large/letni-rekonstrukce-skolky-01.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e8353",
+"dh": "7f3f39392b32bcbf",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://formelo.cz/galerie/2015-novy-hraci-domecek-v-interieru",
+"typ": "interier",
+"url": "https://formelo.cz/img/galerie/large/2015-novy-hraci-domecek-v-interieru-00.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b705c",
+"dh": "039b9bd9cc43e4b7",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://formelo.cz/galerie/2016-novinky-zahrada-ve-skolce",
+"typ": "zahrada",
+"url": "https://formelo.cz/img/galerie/large/2016-novinky-zahrada-ve-skolce-07.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#667582",
+"dh": "201123336b6d7efe",
+"h": 1200,
+"jistota": 0.982,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://formelo.cz/galerie/letni-rekonstrukce-skolky",
+"typ": "budova",
+"url": "https://formelo.cz/img/galerie/large/letni-rekonstrukce-skolky-00.webp",
+"w": 800
+}
+],
 "detska-skupina-hvezdicka-ds11063": [
 {
 "alt": "og",
@@ -321,6 +420,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-louka-ds02274": [
+{
+"alt": "",
+"barva": "#847d6b",
+"dh": "71989a922d666400",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAkABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAwH/xAAkEAACAgIBAwQDAAAAAAAAAAABAgADERIhBCIxBVFhcUGRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AKqra3ZkSxWdOGDL4nNtKrAoZSw51mOlvpp9R6rd8bbYwffx4ntttdnqFlocsNQBnOTxCmPThjnx8ARAvrx3Bh9An+CIGIqqKypbYkEkgZ8Tu1apWuhqJJ5wTnHzmSscV4U/qaXY06Ajknk+xnMq16dgDrZgE57WOIk9VWiBQ+fsxGhyrG5APtNoO8L+IiZS7pqKn6etmQEkZJMREm8f/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dslouka.cz/fotografie",
+"typ": "interier",
+"url": "https://dslouka.cz/fotogalerie/prostory/IMG_3704.jpg",
+"w": 675
+},
+{
+"alt": "Miniatura 1",
+"barva": "#908980",
+"dh": "56565656612b13eb",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dslouka.cz/fotografie",
+"typ": "interier",
+"url": "https://dslouka.cz/fotogalerie/prostory/miniatury/IMG_4574.jpg",
+"w": 1200
+}
+],
 "detska-skupina-mandlicky-ds10808": [
 {
 "alt": "",
@@ -430,6 +559,62 @@
 "stranka": "https://veselypalecek.cz/noticky-jedovnice/",
 "typ": "hygiena",
 "url": "https://veselypalecek.cz/wp-content/uploads/2020/10/IMG_9214-scaled.jpg",
+"w": 1200
+}
+],
+"detska-skupina-pampeliska-i-ds10464": [
+{
+"alt": "",
+"barva": "#6c706c",
+"dh": "300f439212869823",
+"h": 900,
+"jistota": 0.993,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEESFhBRIiMVKRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREhNh/9oADAMBAAIRAxEAPwBLo9+9sywJEspmfZ9EAc1vrd2zd2wpHyIP5UdFNJG4ZWwV9apuKW8nDsGUDHkx1n6ou0CRTC6jfaMpHBFFTKzNjylJPC0U6cKD/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dspampeliska.cz/",
+"typ": "budova",
+"url": "https://www.dspampeliska.cz/wp-content/uploads/2025/09/budova-pampeliska.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7e674d",
+"dh": "181935e9e9b93831",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dspampeliska.cz/",
+"typ": "interier",
+"url": "https://www.dspampeliska.cz/wp-content/gallery/den-otevrenych-dveri/dod-2025-pampeliska-19.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#565855",
+"dh": "97979e86273c440f",
+"h": 800,
+"jistota": 0.924,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dspampeliska.cz/",
+"typ": "zahrada",
+"url": "https://www.dspampeliska.cz/wp-content/gallery/den-otevrenych-dveri/dod-2025-pampeliska-03.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#768392",
+"dh": "0ea6c0692b0dc990",
+"h": 676,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dspampeliska.cz/",
+"typ": "budova",
+"url": "https://www.dspampeliska.cz/wp-content/gallery/den-otevrenych-dveri/dod-2025-pampeliska-01.jpg",
 "w": 1200
 }
 ],
@@ -562,6 +747,62 @@
 "w": 1024
 }
 ],
+"detska-skupina-spunti-ds01680": [
+{
+"alt": "",
+"barva": "#7b7b79",
+"dh": "81c7ceca9e9b1f9f",
+"h": 1200,
+"jistota": 0.964,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUG/8QAIRAAAgICAgIDAQAAAAAAAAAAAQIAAwQREjEFIRMiYUH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABgRAQEBAQEAAAAAAAAAAAAAAAABEQIS/9oADAMBAAIRAxEAPwDaybq8fKrX6hD6Y76lu56sbGe+5gqIORM5XyGQmVklkUoQw5KSD3I8pnNYwC2u9dagIjHQ2B/QP2U70eT3875W1uVa49KHpWUk6/fcJkV+S4oPksTkfegu4S2nDaa1RzZxAZu41rCp2p1FAyGMJMI+RB3RU37rUIo9wiH/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ds-spunti.cz/koneprusy/",
+"typ": "budova",
+"url": "https://www.ds-spunti.cz/wp-content/uploads/2025/12/Foto-Koneprusy-4.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#857c70",
+"dh": "371a1a1a2c2ec3d3",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.ds-spunti.cz/koneprusy/",
+"typ": "interier",
+"url": "https://www.ds-spunti.cz/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-19-at-13.23.25-1.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#817f7f",
+"dh": "1a4dc50c02304409",
+"h": 900,
+"jistota": 0.996,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.ds-spunti.cz/koneprusy/",
+"typ": "zahrada",
+"url": "https://www.ds-spunti.cz/wp-content/uploads/2025/12/Foto-Koneprusy-11.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7b7a79",
+"dh": "fbf6ee9e96820301",
+"h": 1200,
+"jistota": 0.915,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.ds-spunti.cz/koneprusy/",
+"typ": "budova",
+"url": "https://www.ds-spunti.cz/wp-content/uploads/2025/12/Foto-Koneprusy-5.jpeg",
+"w": 900
+}
+],
 "detska-skupina-zabka-ds00749": [
 {
 "alt": "",
@@ -577,6 +818,36 @@
 "typ": "zahrada",
 "url": "https://duyn491kcolsw.cloudfront.net/files/3w/3wx/3wxft5.jpg?ph=dd69ca4f2c",
 "w": 1200
+}
+],
+"detska-skupina-zemekoule-ds01842": [
+{
+"alt": "",
+"barva": "#84776f",
+"dh": "2c2c1c519b036878",
+"h": 900,
+"jistota": 0.965,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAQT/xAAlEAACAQQABAcAAAAAAAAAAAABAgMABBEhBRITFTEyUWFxgaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBEVEh/9oADAMBAAIRAxEAPwBpBxe1hjVXIYSKRojWq4bq6hu3iMKiMRZUj1Ptj5pDbwx269SMc0gGi28VvdpOqDJAhY+ZiT40GYcKWVrxq2tkdCrnLlsjH1+UVLm3eTDhyvMM4B0KKVNgOaf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dszemekoule.cz/o-nas/",
+"typ": "interier",
+"url": "https://997c68fd08.clvaw-cdnwnd.com/ff560c111bfad8988e39f716fdb6b7a9/200000028-b1156b1158/IMG_20230924_103547_691.jpeg?ph=997c68fd08",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#afa8a6",
+"dh": "3c292ee4e3634dcd",
+"h": 525,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dszemekoule.cz/",
+"typ": "interier",
+"url": "https://997c68fd08.clvaw-cdnwnd.com/ff560c111bfad8988e39f716fdb6b7a9/200000014-45b8045b82/700/IMG_20230924_103305_586.jpeg?ph=997c68fd08",
+"w": 700
 }
 ],
 "detsky-svet-ms-012755": [

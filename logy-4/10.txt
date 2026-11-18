@@ -1,6 +1,12 @@
-[11:38:42] Část 11/20: webů 174, hotovo 221, zbývá 2
-[11:38:56] https://mskosetice.webnode.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 5 fotek ke kontrole
-[11:39:43] https://msujezu.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 174 obrázků, 8 fotek ke kontrole
-[11:39:56] tříděno 0/13
-[11:39:56] Dávka 1: hotovo 223/174, se fotkami 67; {'ok': 0, 'lide': 4, 'jine': 9, 'sablona': 0}
-[11:39:56] Konec: školek s fotkami 67; {'ok': 0, 'lide': 4, 'jine': 9, 'sablona': 0}
+[11:45:25] Část 11/20: webů 182, hotovo 223, zbývá 8
+[11:45:38] https://www.dszemekoule.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 6 fotek ke kontrole
+[11:45:39] https://www.dscampana.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
+[11:45:40] https://www.osecanek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 14 fotek ke kontrole
+[11:45:54] https://dslouka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 14 fotek ke kontrole
+[11:46:04] https://dsbobanek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 10 fotek ke kontrole
+[11:46:11] https://www.dspampeliska.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 19 fotek ke kontrole
+[11:46:27] https://formelo.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 155 obrázků, 24 fotek ke kontrole
+[11:47:26] https://www.ds-spunti.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 188 obrázků, 26 fotek ke kontrole
+[11:47:48] tříděno 0/114
+[11:48:11] Dávka 1: hotovo 231/182, se fotkami 73; {'ok': 19, 'lide': 6, 'jine': 40, 'sablona': 0}
+[11:48:11] Konec: školek s fotkami 73; {'ok': 19, 'lide': 6, 'jine': 40, 'sablona': 0}
