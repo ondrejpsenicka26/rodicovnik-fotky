@@ -1,0 +1,49 @@
+# Ověří, že nalezený web patří dané školce (scripts/over_shodu.py): IČO, PSČ nebo ulice na webu.
+name: IČO na sdílených webech
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "weby-csi/ico-vstup.json"
+  workflow_dispatch:
+    inputs:
+      opakovat:
+        description: "Znovu zkusit weby, které minule skončily přechodnou chybou"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: over-ico
+  cancel-in-progress: false
+
+jobs:
+  over:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            weby-csi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Nejnovější stav (fronta mohla mezitím doběhnout)
+        run: git pull -q --ff-only origin main || true
+      - name: Ověřit weby
+        run: python3 scripts/over_ico.py
+      - name: Uložit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add --sparse weby-csi/ico.json
+          git commit -q -m "Ověření shody webů ($(date -u +%Y-%m-%dT%H:%MZ))" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 10; done
+          exit 1
