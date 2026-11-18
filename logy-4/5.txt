@@ -1,2 +1,7 @@
-[12:06:11] Část 6/20: webů 161, hotovo 215, zbývá 0
-[12:06:11] Konec: školek s fotkami 77; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:12:55] Část 6/20: webů 161, hotovo 215, zbývá 3
+[12:13:24] https://www.obecvlkos.cz/zs-a-ms-vlkos: 15 stránek (galerie mimo web: 1 ['vlkosuprerova.rajce.idnes.cz'], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[12:13:26] https://www.sirokydul.cz/nase-obec/zakladni-skola-a-materska-skola-siroky-dul: 19 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 0 fotek ke kontrole
+[12:13:41] https://www.horninemci.cz/spolky/zakladni-a-materska-skola: 34 stránek (galerie mimo web: 1 ['skolahornemci.rajce.idnes.cz'], alb: 0), 11 obrázků, 6 fotek ke kontrole
+[12:13:49] tříděno 0/6
+[12:13:49] Dávka 1: hotovo 218/161, se fotkami 77; {'ok': 0, 'lide': 1, 'jine': 5, 'sablona': 0}
+[12:13:49] Konec: školek s fotkami 77; {'ok': 0, 'lide': 1, 'jine': 5, 'sablona': 0}
