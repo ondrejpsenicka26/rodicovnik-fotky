@@ -725,6 +725,62 @@
 "w": 900
 }
 ],
+"materska-skola-hvezdicka-569311": [
+{
+"alt": "1 MŠ Hvězdička Malé Březno - budova v létě ",
+"barva": "#b9b17a",
+"dh": "38f8c64427542c2e",
+"h": 600,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAGAgMF/8QAIxAAAQMEAgEFAAAAAAAAAAAAAQIDBAAREjEFIRMiQYGh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAREAAgMSMf/aAAwDAQACEQMRAD8AYzOWpJU1jjfHRUb/ABUFvPpOflsR6ekn9rDgz0iN4WioOJOeJVbM7PYGu9VTzfMluARGeIczuqxPST7aqW517TjHNRHKG6Vx0l1YKrnvVFIkWe/KjodcYDhItkHFJv8AdFOuqCt7CUZ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-malebrezno.cz/gl-1-ms-hvezdicka-male-brezno-budova-v-lete-61",
+"typ": "budova",
+"url": "https://ms-malebrezno.cz/obrazek-1-ms-hvezdicka-male-brezno-budova-v-lete-61",
+"w": 800
+},
+{
+"alt": "10 MŠ Hvězdička Malé Březno - lehárna ",
+"barva": "#a67f43",
+"dh": "666eac0b260d1363",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-malebrezno.cz/gl-10-ms-hvezdicka-male-brezno-leharna-90",
+"typ": "interier",
+"url": "https://ms-malebrezno.cz/obrazek-10-ms-hvezdicka-male-brezno-leharna-90",
+"w": 1200
+},
+{
+"alt": "15 MŠ Hvězdička Malé Březno - herní prvek - loď - na zahrádce ",
+"barva": "#646754",
+"dh": "d393b19b9b49c40c",
+"h": 884,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms-malebrezno.cz/gl-15-ms-hvezdicka-male-brezno-herni-prvek-lod-na-zahradce-95",
+"typ": "zahrada",
+"url": "https://ms-malebrezno.cz/obrazek-15-ms-hvezdicka-male-brezno-herni-prvek-lod-na-zahradce-95",
+"w": 1185
+},
+{
+"alt": "2 MŠ Hvězdička Malé Březno - budova v zimě ",
+"barva": "#d7cc8b",
+"dh": "b0a8cc6355191810",
+"h": 600,
+"jistota": 0.989,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://ms-malebrezno.cz/gl-2-ms-hvezdicka-male-brezno-budova-v-zime-62",
+"typ": "budova",
+"url": "https://ms-malebrezno.cz/obrazek-2-ms-hvezdicka-male-brezno-budova-v-zime-62",
+"w": 800
+}
+],
 "materska-skola-jablonec-nad-nisou-032619": [
 {
 "alt": "Třída Koťátek ...",
@@ -1262,6 +1318,23 @@
 "w": 900
 }
 ],
+"materska-skola-trebic-611694": [
+{
+"alt": "og",
+"barva": "#a08e61",
+"dh": "7c7e5fd1e9f9da00",
+"h": 801,
+"jistota": 0.992,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAnEAABBAIAAgsAAAAAAAAAAAABAgMEEQAhBXESExQVIzEyYYGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABwRAAEEAwEAAAAAAAAAAAAAAAABAhESAyJRof/aAAwDAQACEQMRAD8AsypJhIbTLWs0kkrRu655Iei8MnOdBoSUOr2FBVk2ffF3+ISZJ8ZaFar0DyzcWF2h0L6wpUNAi9b55jbDZUuuOqbDYicbbAQ0+4UJ0LIT9YZ27uc1cx8/J/cMVgS3vh//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mstrebic.cz/zahrada/zahrada-6074099-6",
+"typ": "les",
+"url": "http://www.mstrebic.cz/image.php?oid=6313995",
+"w": 1200
+}
+],
 "materska-skola-valtrovice-000129": [
 {
 "alt": "",
@@ -1391,6 +1464,36 @@
 "w": 1200
 }
 ],
+"materska-skola-viden-616297": [
+{
+"alt": "",
+"barva": "#798777",
+"dh": "819ef0bcbcfcf805",
+"h": 869,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACUQAAICAQIEBwAAAAAAAAAAAAECAxEABAUSEyExFEJSYWKRof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMSUUH/2gAMAwEAAhEDEQA/AKuo1zI7cuFmo1btQ/MnT7rq/I8UVCxwRWfs4hLukk3xv0isy2ikmXnGU0td2N9cCyOTpk1r4ikx3GRUfxJlte5JBHt0wxeOeZUCiQsF6W2GPV9KXHh//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msviden.cz/",
+"typ": "budova",
+"url": "https://www.msviden.cz/image.php?oid=13852394&nid=21935",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#606761",
+"dh": "ef7f7716594f0700",
+"h": 890,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msviden.cz/fotogalerie-ms/nase-skolka",
+"typ": "budova",
+"url": "http://www.msviden.cz/image.php?oid=13804785",
+"w": 1186
+}
+],
 "materska-skola-vimperk-534304": [
 {
 "alt": "",
@@ -1449,6 +1552,23 @@
 "typ": "budova",
 "url": "https://www.vysehorovice.cz/data/headerfooter/header_images/20210114160838.jpg",
 "w": 1200
+}
+],
+"materska-skola-zarici-609703": [
+{
+"alt": "og",
+"barva": "#797972",
+"dh": "3e3cf79b5c64fbff",
+"h": 1000,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQUG/8QAKxAAAQMCAwQLAAAAAAAAAAAAAQACAwQREyFRMTJBgRIUIlNUYXGxwdHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBAv/EACERAAIABAcBAAAAAAAAAAAAAAABAhESMQMEExRRUpHw/9oADAMBAAIRAxEAPwCkFgyLreRy90qRoJ2ra40Lyb1UTgSci8Hj+CmnqqSldhyOa25G7sN/RFnIleH7wx4CdmQiPQIVfSpTuzEDTEI+EKu8h6s40Hycyaqp8SOUYS3zSPAEkz3AEEdkDMJBJ1WOCjSisyjrUneP5kfSFLcoSlCZ/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mszarici.cz/fotogalerie/skola",
+"typ": "budova",
+"url": "http://www.mszarici.cz/image.php?oid=13513336",
+"w": 750
 }
 ],
 "materska-skola-zdravicko-150562": [
@@ -1584,6 +1704,23 @@
 "w": 800
 }
 ],
+"ms-jersin-608081": [
+{
+"alt": "rekonstrukce školy Jersín ",
+"barva": "#79746a",
+"dh": "020242474e5e570b",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACIQAQABBAEDBQAAAAAAAAAAAAECAAMEESEFElEGFCIxcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARMSH/2gAMAwEAAhEDEQA/AE41wIQCc+doa+qp4mZG0EpEkPMdVAxMk9tbFeN7fPNPvSuyjpe3ZUgHSfXlb6f6hxMbHYTCUmTJe4OVorIvdb+MV1+FFG1Zf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msjersin.cz/i-nase-skolka-se-pres-prazdniny-dockala-zmeny/",
+"typ": "hygiena",
+"url": "https://msjersin.cz/wp-content/uploads/2026/09/22.jpeg",
+"w": 1200
+}
+],
 "reza-mb-materska-skola-a-jesle-104278": [
 {
 "alt": "",
@@ -1642,6 +1779,23 @@
 "typ": "budova",
 "url": "http://www.skolakraslice.cz/image.php?oid=5443784",
 "w": 800
+}
+],
+"zakladni-skola-a-materska-skola-dalecin-616343": [
+{
+"alt": "",
+"barva": "#8c8477",
+"dh": "d8f8dc5c70610d3e",
+"h": 725,
+"jistota": 0.767,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEESEFEhMxJFGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oADAMBAAIRAxEAPwByWfMoCYAZsAMo0Pups980F6pWVSQdhQVP4d5p6PgHMYDTSImfYxWNzY2Fj1Pd5gzjt5BnGj60KzVFGLm+PMY7ydGGiG0aKjPyADfCdViOwrociik4/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsmsdalecin.cz/vybaveni-skolni-kuchyne-v-zs-a-ms-dalecin/",
+"typ": "hygiena",
+"url": "https://zsmsdalecin.cz/wp-content/uploads/2026/09/3-vybaveni.jpg",
+"w": 963
 }
 ],
 "zakladni-skola-a-materska-skola-grygov-626462": [
