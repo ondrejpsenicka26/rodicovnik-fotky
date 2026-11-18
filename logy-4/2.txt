@@ -1,17 +1,2 @@
-[09:22:05] Část 3/20: webů 180, hotovo 191, zbývá 13
-[09:22:17] https://msujezdurosic.com: 7 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 9 fotek ke kontrole
-[09:22:17] https://ms-letni.webnode.cz: 4 stránek (galerie mimo web: 2 ['www.rajce.idnes.cz'], alb: 0), 10 obrázků, 9 fotek ke kontrole
-[09:22:26] https://mslipuvka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 5 fotek ke kontrole
-[09:22:28] https://zsknezdub.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
-[09:22:28] https://masarykovams.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 20 fotek ke kontrole
-[09:22:28] https://msmaj.jicin.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 0 fotek ke kontrole
-[09:22:41] https://mszsmerklin.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 1 fotek ke kontrole
-[09:22:49] https://mspalanek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 40 obrázků, 28 fotek ke kontrole
-[09:22:49] https://msamerlingova.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 0 fotek ke kontrole
-[09:22:50] https://mssvinosice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 49 obrázků, 8 fotek ke kontrole
-[09:22:51] https://msrasinova.cz: 29 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'www.zonerama.com'], alb: 0), 11 obrázků, 1 fotek ke kontrole
-[09:23:19] https://ms-krepice.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 351 obrázků, 0 fotek ke kontrole
-[09:23:20] https://obec-sviny.cz/materska-skola: 2 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 24 fotek ke kontrole
-[09:23:34] tříděno 0/105
-[09:23:43] Dávka 1: hotovo 204/180, se fotkami 47; {'ok': 7, 'lide': 14, 'jine': 80, 'sablona': 0}
-[09:23:43] Konec: školek s fotkami 47; {'ok': 7, 'lide': 14, 'jine': 80, 'sablona': 0}
+[09:44:24] Část 3/20: webů 176, hotovo 204, zbývá 0
+[09:44:24] Konec: školek s fotkami 47; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
