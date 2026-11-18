@@ -859,6 +859,49 @@
 "w": 1000
 }
 ],
+"materska-skola-svitavy-587368": [
+{
+"alt": "",
+"barva": "#7d807e",
+"dh": "d0d5cdccc841cbcb",
+"h": 901,
+"jistota": 0.97,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAhEAACAgICAwADAAAAAAAAAAABAgMRAAQSIQUxQVHB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMRE1H/2gAMAwEAAhEDEQA/AH29iN3jENrfZ5C/zmzMmnrqxK7EjOvQFUD+s5z7c5njiMlt9sd3l44q0alm+2W9f3JWy6Dgibc3fJTTcvGpGkAAFHjd/bvDEk8yqSMDyu/SDrDM7GOEf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-csarmady.cz/l/kopie-z-materska-skola2/",
+"typ": "budova",
+"url": "https://4ecbcfe4d0.clvaw-cdnwnd.com/8eb047caa58a90c2697d74b0ed6db867/200000016-04a1404a16/438221152_315396861380105_6853979608364219335_n.jpeg?ph=4ecbcfe4d0",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#aa9d89",
+"dh": "0021b1593d7647a3",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-csarmady.cz/l/kopie-z-materska-skola/",
+"typ": "interier",
+"url": "https://4ecbcfe4d0.clvaw-cdnwnd.com/8eb047caa58a90c2697d74b0ed6db867/200000326-6104461046/PS5_5744-HDR-23-09-2024-09-23-5936%20x%203958px%20%C2%A9%20Franti%C5%A1ek%20Koll%C3%A1r%20%28www.DronSky.cz%29-2.jpeg?ph=4ecbcfe4d0",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#898d5a",
+"dh": "0627033327068203",
+"h": 800,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-csarmady.cz/l/kopie-z-materska-skola-2/",
+"typ": "zahrada",
+"url": "https://4ecbcfe4d0.clvaw-cdnwnd.com/8eb047caa58a90c2697d74b0ed6db867/200000210-a0035a0037/PS5_4495-HDR-29-08-2024-15-05-5814%20x%203876px%20%C2%A9%20Franti%C5%A1ek%20Koll%C3%A1r%20%28www.DronSky.cz%29-8.jpeg?ph=4ecbcfe4d0",
+"w": 1200
+}
+],
 "materska-skola-tisnov-603993": [
 {
 "alt": "og",
@@ -1046,6 +1089,62 @@
 "typ": "budova",
 "url": "https://cbe53df718.clvaw-cdnwnd.com/b32769f61797b8408ceb1a63f2d9edc6/200003947-7857078572/IMG_0530.jpeg?ph=cbe53df718",
 "w": 900
+}
+],
+"zakladni-skola-a-materska-skola-belcice-534690": [
+{
+"alt": "",
+"barva": "#7b858f",
+"dh": "e0b6fc481e9a9a3b",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAkEAABAwMDBAMAAAAAAAAAAAABAgMRABIhBAVBExRhgTEzcv/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABsRAAMAAgMAAAAAAAAAAAAAAAABAgMEERRR/9oADAMBAAIRAxEAPwCYSlz6pX+RNP2Wo4ajEyogcTUdlbUDqX2l3Nttm5JkTIxWte4NvbsEISlTFk9QyDMEfHuPdPs3S8Ascop2JShGbiUgk8T4opG9506GkIsWLUgQnIHjNFatmkuCeOWf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsbelcice.cz/",
+"typ": "budova",
+"url": "https://zsbelcice.cz/wp-content/uploads/2024/05/20230531_084304824_iOS-scaled-1.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_1420",
+"barva": "#746e64",
+"dh": "29ada4a3ae8d711f",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsbelcice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://zsbelcice.cz/wp-content/uploads/2024/07/IMG_1420-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "Obrázek(2) (1)",
+"barva": "#9e7c66",
+"dh": "17152c9e2610998e",
+"h": 900,
+"jistota": 0.988,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsbelcice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://zsbelcice.cz/wp-content/uploads/2024/07/Obrazek2-1-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "Obrázek(3) (1)",
+"barva": "#827765",
+"dh": "07030f0f0282c686",
+"h": 900,
+"jistota": 0.767,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zsbelcice.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://zsbelcice.cz/wp-content/uploads/2024/07/Obrazek3-1-scaled.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-hladke-zivotice-624915": [
