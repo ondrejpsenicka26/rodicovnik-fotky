@@ -1,2 +1,11 @@
-[10:40:19] Část 17/20: webů 174, hotovo 208, zbývá 0
-[10:40:19] Konec: školek s fotkami 53; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[11:04:00] Část 17/20: webů 181, hotovo 208, zbývá 7
+[11:04:15] https://www.mspravonin.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
+[11:04:48] https://www.mskostelec.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 76 obrázků, 1 fotek ke kontrole
+[11:05:02] https://www.zspocinovice.cz: 12 stránek (galerie mimo web: 2 ['rajce.net', 'zspocinovice.rajce.idnes.cz'], alb: 1), 68 obrázků, 25 fotek ke kontrole
+[11:05:04] https://mstrnava.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 56 obrázků, 25 fotek ke kontrole
+[11:05:08] https://www.ms-chuderov.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 6 fotek ke kontrole
+[11:05:35] https://www.zsmsvycapy.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 697 obrázků, 39 fotek ke kontrole
+[11:06:10] https://www.mszbuzany.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 14 fotek ke kontrole
+[11:06:25] tříděno 0/110
+[11:06:34] Dávka 1: hotovo 215/181, se fotkami 57; {'ok': 11, 'lide': 10, 'jine': 73, 'sablona': 0}
+[11:06:34] Konec: školek s fotkami 57; {'ok': 11, 'lide': 10, 'jine': 73, 'sablona': 0}

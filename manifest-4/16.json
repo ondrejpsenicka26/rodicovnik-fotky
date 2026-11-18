@@ -932,6 +932,36 @@
 "w": 1200
 }
 ],
+"materska-skola-chuderov-568934": [
+{
+"alt": "",
+"barva": "#74675b",
+"dh": "6ed2601a139b94e4",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAhEAACAQMFAAMAAAAAAAAAAAABAgMAESEEBRITMRUycf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AMKTblIo6y5vkAP7TFG4MeMjMLAYLnFVbcooZhxjLJxtbkRUfL5d1hsCfA3lBu3Ilzo5Y9QBmQj9vRSm1Gjdi3XLk3+xoqbQsk//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-chuderov.cz/nase-skolka/",
+"typ": "budova",
+"url": "https://www.ms-chuderov.cz/wp-content/uploads/2025/09/MS-Chuderov-_zazemi_012.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#65774e",
+"dh": "d2736319c97b05cd",
+"h": 900,
+"jistota": 0.99,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-chuderov.cz/nase-skolka/",
+"typ": "zahrada",
+"url": "https://www.ms-chuderov.cz/wp-content/uploads/2025/09/MS-Chuderov-_zazemi_004-scaled.jpg",
+"w": 1200
+}
+],
 "materska-skola-chysky-053288": [
 {
 "alt": "og",
@@ -1175,6 +1205,23 @@
 "typ": "budova",
 "url": "https://www.jevany.cz/_uploadams/image/IMG_8547.jpeg",
 "w": 1200
+}
+],
+"materska-skola-kostelec-546655": [
+{
+"alt": "",
+"barva": "#6e6351",
+"dh": "7cf4d496948c3bb3",
+"h": 466,
+"jistota": 0.984,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACQAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAwQG/8QAKBAAAQMCAwcFAAAAAAAAAAAAAQACAwQRBSFxEhMUIiMxMkFCUWLB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDEVEh/9oADAMBAAIRAxEAPwCnHjFRWS7AbUNgYwDpyusAB6/F7InlphciWR7i4gc5OVsjolUHmdFOz3aD8Rte7pcWPqXHKQwji92JPqy1whZh/caISqyXQnXHh//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mskostelec.cz/materska-skola/rad-skolni-jidelny/",
+"typ": "budova",
+"url": "https://www.mskostelec.cz/data/headerfooter/header_images/foto.jpg",
+"w": 1000
 }
 ],
 "materska-skola-kynsperk-545641": [
@@ -1443,6 +1490,62 @@
 "w": 895
 }
 ],
+"materska-skola-trnava-606127": [
+{
+"alt": "",
+"barva": "#7b877f",
+"dh": "16c444647465343f",
+"h": 675,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EACMQAAEEAgEDBQAAAAAAAAAAAAEAAgMRBCEFEhNRIkFxkZL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAbEQACAgMBAAAAAAAAAAAAAAAAAgESExQhUf/aAAwDAQACEQMRAD8AfNyZ7EUkLu26zYJKx/KvmxH2Y7Lxoe58pGPiwmHbT+ilvxYQCAyh4so81I4RlsUGZeH0C2gOrer39oUVx9R+ULGw4dY8P//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mstrnava.cz",
+"typ": "budova",
+"url": "https://mstrnava.cz/wp-content/uploads/2025/09/3ca4c30b-05a3-45ad-ac61-64aa5917f7d4.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9a8471",
+"dh": "1010d08894ca8700",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mstrnava.cz/o-skolce/",
+"typ": "interier",
+"url": "http://mstrnava.cz/wp-content/uploads/2023/08/43b2f8ed-5336-43c9-96db-22c99c7cc77c.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7e8381",
+"dh": "676371392939991e",
+"h": 675,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mstrnava.cz",
+"typ": "budova",
+"url": "https://mstrnava.cz/wp-content/uploads/2025/09/dbc81fdc-f605-4483-9358-b3098387a4ef.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#906d4b",
+"dh": "81cecfc74324258d",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mstrnava.cz/o-skolce/",
+"typ": "interier",
+"url": "http://mstrnava.cz/wp-content/uploads/2023/08/fe532e83-c5de-424a-ab7c-4374ebaaf5e5.jpeg",
+"w": 1200
+}
+],
 "materska-skola-u-letiste-029260": [
 {
 "alt": "",
@@ -1599,6 +1702,62 @@
 "stranka": "https://napiliri.rajce.idnes.cz/",
 "typ": "interier",
 "url": "https://img45.rajce.idnes.cz/d4503/16/16640/16640032_47bd6ec992be54a7cd490f959b18c9d7/images/Adam_turnov.jpg",
+"w": 1200
+}
+],
+"materska-skola-zbuzany-038315": [
+{
+"alt": "",
+"barva": "#75716a",
+"dh": "0399cd85c78363cb",
+"h": 797,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACA//EACAQAAEDBAMBAQAAAAAAAAAAAAECAxEABBIhBTFREzL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/ADzfuM3WCAQQqAqY8pi25m+aQHi4t1OwphcSPOtzR5SgGMBM9nZrYXh+QBUyYbdcOY525fvAWXPilKAnFJ1PtVEXaYuVjvdVHQ//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mszbuzany.cz/",
+"typ": "budova",
+"url": "https://www.mszbuzany.cz/wp-content/uploads/2018/01/DSC0979.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#927c68",
+"dh": "fe70d0d1b6362787",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mszbuzany.cz/",
+"typ": "interier",
+"url": "https://www.mszbuzany.cz/wp-content/uploads/2021/04/IMG_20210420_163653.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5a5b4f",
+"dh": "b6f6900949430d06",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mszbuzany.cz/",
+"typ": "zahrada",
+"url": "https://www.mszbuzany.cz/wp-content/uploads/2021/04/IMG_20210420_163529.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#736a55",
+"dh": "3270834135b59486",
+"h": 797,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mszbuzany.cz/",
+"typ": "budova",
+"url": "https://www.mszbuzany.cz/wp-content/uploads/2018/01/DSC0985.jpg",
 "w": 1200
 }
 ],
