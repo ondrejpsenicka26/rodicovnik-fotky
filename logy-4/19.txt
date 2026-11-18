@@ -1,13 +1,2 @@
-[11:45:24] Část 20/20: webů 174, hotovo 210, zbývá 9
-[11:45:36] https://www.dskosticka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
-[11:45:38] https://www.dsrybicky.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 6 fotek ke kontrole
-[11:45:38] https://dshousenky.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
-[11:45:56] https://www.uzasnakov.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 7 fotek ke kontrole
-[11:46:03] https://dscesticka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 27 fotek ke kontrole
-[11:46:22] https://bublihafik.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 7 fotek ke kontrole
-[11:46:46] https://bibouch.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 66 obrázků, 37 fotek ke kontrole
-[11:46:59] https://dsstepanek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 9 fotek ke kontrole
-[11:47:01] https://www.dshnizdecko.cz: nedostupné nebo zakázané
-[11:47:24] tříděno 0/95
-[11:47:39] Dávka 1: hotovo 219/174, se fotkami 75; {'ok': 11, 'lide': 11, 'jine': 36, 'sablona': 0}
-[11:47:39] Konec: školek s fotkami 75; {'ok': 11, 'lide': 11, 'jine': 36, 'sablona': 0}
+[12:06:57] Část 20/20: webů 174, hotovo 219, zbývá 0
+[12:06:57] Konec: školek s fotkami 75; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
