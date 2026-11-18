@@ -1322,6 +1322,49 @@
 "w": 1124
 }
 ],
+"materska-skola-stankov-540487": [
+{
+"alt": "",
+"barva": "#7a6e55",
+"dh": "1f970727af3f373f",
+"h": 768,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAQME/8QAIRAAAQQBBAMBAAAAAAAAAAAAAQACAwQREiExYSIjQlH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/EABoRAAMBAAMAAAAAAAAAAAAAAAABAjEREiH/2gAMAwEAAhEDEQA/AM9O/cEsbg2bDecgkHYqZJJbFMSW3SPcRhpedxjkYTCG6Jq5JDTr+gMHHSX3rBcC2Uufp3H6UE21gtxyvBNI1ms+YHRBQq5n+w6eO0K+7CzUf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkastankov.cz/skolka/tridy-ve-skolce-1/berusky/",
+"typ": "interier",
+"url": "https://www.skolkastankov.cz/data/editor/132csabove_5.jpg?gcm_date=1642073271",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7f7057",
+"dh": "39693838329ed878",
+"h": 768,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkastankov.cz/skolka/tridy-ve-skolce-1/zabicky/",
+"typ": "interier",
+"url": "https://www.skolkastankov.cz/data/editor/129csabove_4.jpg?gcm_date=1642073095",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#6f6a64",
+"dh": "3f3e3e1e3a863cf8",
+"h": 768,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkastankov.cz/skolka/tridy-ve-skolce-1/motylci/",
+"typ": "hygiena",
+"url": "https://www.skolkastankov.cz/data/editor/126csabove_8.jpg?gcm_date=1642072947",
+"w": 1024
+}
+],
 "materska-skola-svetla-hora-501759": [
 {
 "alt": "",
@@ -1679,6 +1722,62 @@
 "w": 765
 }
 ],
+"ms-vseruby-540517": [
+{
+"alt": "",
+"barva": "#87827e",
+"dh": "0719d84044010e5c",
+"h": 801,
+"jistota": 0.921,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEGBAX/xAAmEAABAwMDAgcAAAAAAAAAAAABAgMRAAQSBSExUYETIiQzQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREiH/2gAMAwEAAhEDEQA/AG5rzTK0Fm2lMqScjvseR0rZZalcO3AedHpVgwgR5en33rit2iEFIk9tuad1kgYtqxg8mTt+TR7vrCylxFeq0aVipYAURJAMxRUj4RHuOLWr5MkUVVyJqJ//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-vseruby.cz/",
+"typ": "budova",
+"url": "https://2081ade725.clvaw-cdnwnd.com/5f8f512c262d4d48916fae086e460b27/200000053-f2696f2697/IMG_1611.jpeg?ph=2081ade725",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a18f7d",
+"dh": "541abab4b4c7c1c0",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-vseruby.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://2081ade725.clvaw-cdnwnd.com/5f8f512c262d4d48916fae086e460b27/200000045-2302423026/IMG_0770.jpeg?ph=2081ade725",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6e7a8c",
+"dh": "e0d06d65a6bd7c64",
+"h": 900,
+"jistota": 0.892,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-vseruby.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://2081ade725.clvaw-cdnwnd.com/5f8f512c262d4d48916fae086e460b27/200000015-9b1169b118/IMG_7813.jpeg?ph=2081ade725",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7b7766",
+"dh": "2c2c2e2f0f2d0fbf",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.ms-vseruby.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://2081ade725.clvaw-cdnwnd.com/5f8f512c262d4d48916fae086e460b27/200000043-0e3690e36b/ce3f7cf9-a066-4810-a2ff-f1eea5fc2239.jpeg?ph=2081ade725",
+"w": 1200
+}
+],
 "ms-zapy-800819": [
 {
 "alt": "",
@@ -1911,6 +2010,36 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-police-008082": [
+{
+"alt": "",
+"barva": "#ddb681",
+"dh": "0b4713918cce131f",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAgMG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIAAwQRMRIhE0EyUbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAETAgQSMUFh/9oADAMBAAIRAxEAPwDRi5RKnjZlDAezuRa+fk3NAi6Dlx+biFK0QcSzM5AHyOcy1rdMnPfej6me7hJaK4vRkGo4yrKRCJCmqjC5A+gYROdL4FGf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmspolice.cz/materska-skola/dokumenty-ms/",
+"typ": "interier",
+"url": "https://www.zsmspolice.cz/data/headerfooter/header_images/0h7a0689-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c4915e",
+"dh": "f3739c98b1b5b98b",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsmspolice.cz/materska-skola/dokumenty-ms/",
+"typ": "interier",
+"url": "https://www.zsmspolice.cz/data/headerfooter/header_images/0h7a0712-2.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-raskovice-622190": [
 {
 "alt": "",
@@ -1997,6 +2126,23 @@
 "w": 1000
 }
 ],
+"zakladni-skola-a-materska-skola-veprova-615860": [
+{
+"alt": "Rekonstrukce sociálního zařízení v MŠ",
+"barva": "#8a6852",
+"dh": "19095bf0a4c3c383",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAeEAACAgMAAwEAAAAAAAAAAAABAgMRAAQSBTFBIf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIREiFx/9oADAMBAAIRAxEAPwCk7UeqeeuWAqgP31kId+M7qywOyFKrpr9faxWbTfY8k8SGlNMxObun4XSZQkkIND39OQuzRiorojMJd2Qzzu/TVRurGGLb082puSwa0jiJGpR0RQww2hdn/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolaveprova.cz/rekonstrukce-socialniho-zarizeni-v-ms/",
+"typ": "hygiena",
+"url": "https://www.skolaveprova.cz/wp-content/uploads/2023/09/375338121_268897169427191_4678891969194248274_n-1.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-vysoky-chlumec-001219": [
 {
 "alt": "",
@@ -2029,6 +2175,49 @@
 "typ": "budova",
 "url": "http://www.zszabori.cz/image.php?oid=8161892",
 "w": 800
+}
+],
+"zakladni-skola-a-materska-skola-zlutava-606631": [
+{
+"alt": "",
+"barva": "#997e4d",
+"dh": "975a593d91555536",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAgMF/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDABESITEEQaETIzJRYf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDEiFR/9oADAMBAAIRAxEAPwBlGi2DgJVILAKOO1QkALsE2uVvlbvs1niR1RSMLq2WWOzzon63VYeQRuMgc3zuRsca8VldCl0ttDU0B9Q+yr/vFFJTK3VSGZnKluwJsPNFFUT9F2j/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zszlutava.cz/materska-skola/fotoarchiv-ms/skolni-rok-2022-2023/rekonstrukce-detskeho-hriste-pred-ms-1057cs.html",
+"typ": "budova",
+"url": "https://www.zszlutava.cz/data/headerfooter/header_images/foto-skoly.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b7ac94",
+"dh": "34b6b7b9bab5303b",
+"h": 800,
+"jistota": 0.986,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zszlutava.cz/materska-skola/fotoarchiv-ms/skolni-rok-2022-2023/rekonstrukce-detskeho-hriste-pred-ms-1057cs.html",
+"typ": "interier",
+"url": "https://www.zszlutava.cz/data/headerfooter/header_images/chatgpt-image-20-8-2026-193835.png",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b6561",
+"dh": "36336c8f0b0b1010",
+"h": 786,
+"jistota": 0.967,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zszlutava.cz/materska-skola/fotoarchiv-ms/skolni-rok-2022-2023/rekonstrukce-detskeho-hriste-pred-ms-1057cs.html",
+"typ": "budova",
+"url": "https://www.zszlutava.cz/data/headerfooter/header_images/zs.jpg",
+"w": 1180
 }
 ]
 }

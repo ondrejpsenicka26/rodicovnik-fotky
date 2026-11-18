@@ -1,5 +1,14 @@
-[10:40:16] Část 8/20: webů 169, hotovo 208, zbývá 1
-[10:40:28] http://mikrojeslemlynek.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 5 fotek ke kontrole
-[10:40:42] tříděno 0/5
-[10:40:42] Dávka 1: hotovo 209/169, se fotkami 53; {'ok': 3, 'lide': 0, 'jine': 2, 'sablona': 0}
-[10:40:42] Konec: školek s fotkami 53; {'ok': 3, 'lide': 0, 'jine': 2, 'sablona': 0}
+[11:04:10] Část 8/20: webů 178, hotovo 209, zbývá 10
+[11:04:26] https://www.ms-vseruby.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 14 fotek ke kontrole
+[11:04:36] https://www.ms-rochlov.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 0 fotek ke kontrole
+[11:04:48] https://www.skolkastankov.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 51 obrázků, 11 fotek ke kontrole
+[11:05:14] https://www.zsamsvelkadobra.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 331 obrázků, 2 fotek ke kontrole
+[11:05:14] https://www.zszlutava.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 609 obrázků, 32 fotek ke kontrole
+[11:05:21] https://skolkastradoun.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 1301 obrázků, 30 fotek ke kontrole
+[11:05:23] https://msmistrice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 472 obrázků, 45 fotek ke kontrole
+[11:05:27] https://www.zsmspolice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 190 obrázků, 4 fotek ke kontrole
+[11:05:27] https://zscastrov.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 663 obrázků, 42 fotek ke kontrole
+[11:08:25] https://www.skolaveprova.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 748 obrázků, 32 fotek ke kontrole
+[11:08:37] tříděno 0/212
+[11:09:08] Dávka 1: hotovo 219/178, se fotkami 58; {'ok': 13, 'lide': 9, 'jine': 172, 'sablona': 0}
+[11:09:08] Konec: školek s fotkami 58; {'ok': 13, 'lide': 9, 'jine': 172, 'sablona': 0}
