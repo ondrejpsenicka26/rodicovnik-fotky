@@ -1,2 +1,8 @@
-[10:40:15] Část 19/20: webů 155, hotovo 187, zbývá 0
-[10:40:15] Konec: školek s fotkami 47; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[11:05:45] Část 19/20: webů 159, hotovo 187, zbývá 4
+[11:05:52] https://www.msolesna.cz: nedostupné nebo zakázané
+[11:05:53] https://www.mstismice.cz: nedostupné nebo zakázané
+[11:06:00] https://www.zsstaryplzenec.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[11:08:10] https://mschropyne.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 142 obrázků, 40 fotek ke kontrole
+[11:08:21] tříděno 0/40
+[11:08:22] Dávka 1: hotovo 191/159, se fotkami 48; {'ok': 2, 'lide': 1, 'jine': 34, 'sablona': 0}
+[11:08:22] Konec: školek s fotkami 48; {'ok': 2, 'lide': 1, 'jine': 34, 'sablona': 0}

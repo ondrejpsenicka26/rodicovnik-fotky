@@ -807,6 +807,36 @@
 "w": 1200
 }
 ],
+"materska-skola-chropyne-800469": [
+{
+"alt": "",
+"barva": "#9b8660",
+"dh": "6070a41696165b14",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACIQAAICAQMFAQEAAAAAAAAAAAECAxEAEhMhBDEyQWEigf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgMRE1FB/9oADAMBAAIRAxEAPwBhJ4ZfB7vtWbVVKSODq2x+hXOSOhhdgJA0aluSSmo/y+2Ox9KBvAtoikA8OGJ+/MyKyGcejuuRTAXSoMg4Harr3hiEUUyJW8HHokUcMTauEa30/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mschropyne.cz/kategorie_fotogalerie/fotogalerie-tridy-2/",
+"typ": "interier",
+"url": "https://mschropyne.cz/wp-content/uploads/2026/09/img-0898.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b19879",
+"dh": "b21805958526a419",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mschropyne.cz/kategorie_fotogalerie/fotogalerie-tridy-3/",
+"typ": "interier",
+"url": "https://mschropyne.cz/wp-content/uploads/2026/09/img-1036.jpeg",
+"w": 1200
+}
+],
 "materska-skola-duha-467085": [
 {
 "alt": "Interiér školy",
