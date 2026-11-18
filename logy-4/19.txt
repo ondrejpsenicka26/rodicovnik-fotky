@@ -1,10 +1,11 @@
-[11:04:12] Část 20/20: webů 161, hotovo 197, zbývá 6
-[11:04:26] https://www.mschodskyujezd.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 18 fotek ke kontrole
-[11:04:27] https://www.skolauhelnapribram.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[11:04:36] https://www.ms-slavetin.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 10 fotek ke kontrole
-[11:05:37] https://www.ms-holedec.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 484 obrázků, 9 fotek ke kontrole
-[11:05:54] https://www.msoldris.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 394 obrázků, 28 fotek ke kontrole
-[11:06:23] https://msrabi.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 615 obrázků, 28 fotek ke kontrole
-[11:06:40] tříděno 0/93
-[11:06:52] Dávka 1: hotovo 203/161, se fotkami 69; {'ok': 8, 'lide': 6, 'jine': 69, 'sablona': 0}
-[11:06:52] Konec: školek s fotkami 69; {'ok': 8, 'lide': 6, 'jine': 69, 'sablona': 0}
+[11:38:28] Část 20/20: webů 165, hotovo 203, zbývá 7
+[11:38:34] https://ms-lucni.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[11:38:38] https://msbroucek.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 0 fotek ke kontrole
+[11:38:40] https://mspozorice.webnode.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[11:39:29] https://www.msbubovice.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 269 obrázků, 3 fotek ke kontrole
+[11:39:31] https://ms-medlovice.webnode.cz: 26 stránek (galerie mimo web: 2 ['msmedlovice.rajce.idnes.cz'], alb: 0), 6 obrázků, 0 fotek ke kontrole
+[11:40:05] https://ms-staremesto.cz: nedostupné nebo zakázané
+[11:41:10] https://msvamberk.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 11 fotek ke kontrole
+[11:41:22] tříděno 0/14
+[11:41:22] Dávka 1: hotovo 210/165, se fotkami 70; {'ok': 1, 'lide': 0, 'jine': 13, 'sablona': 0}
+[11:41:22] Konec: školek s fotkami 70; {'ok': 1, 'lide': 0, 'jine': 13, 'sablona': 0}
