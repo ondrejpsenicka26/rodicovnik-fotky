@@ -7957,6 +7957,14 @@
 "shoda": "",
 "web": "https://tatobity.cz/skola"
 },
+"materska-skola-a-sj-565382": {
+"duvod": "",
+"final": "https://obeckresin.cz/index.php?idx=186",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola, Obec Křesín Levousy",
+"web": "https://obeckresin.cz/index.php?idx=186"
+},
 "materska-skola-a-sj-565561": {
 "duvod": "",
 "final": "https://skolka.malezernoseky.cz",
@@ -8036,6 +8044,14 @@
 "shoda": "psc",
 "titulek": "MŠ Bavorov, okres Strakonice",
 "web": "https://msbavorov.cz"
+},
+"materska-skola-benatky-586981": {
+"duvod": "",
+"final": "https://www.obecbenatky.cz/materska-skola",
+"ok": true,
+"shoda": "ico",
+"titulek": "Obec Benátky | Mateřská škola",
+"web": "https://www.obecbenatky.cz/materska-skola"
 },
 "materska-skola-bezuchov-631032": {
 "duvod": "",
@@ -8356,6 +8372,14 @@
 "shoda": "ico",
 "titulek": "Úvodní stránka - MŠ Skořepka 5",
 "web": "https://msskorepka.cz"
+},
+"materska-skola-brod-nad-dyji-604485": {
+"duvod": "",
+"final": "https://www.brodnaddyji.cz/obec/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola - Oficiální stránky obce Brod nad Dyjí",
+"web": "https://www.brodnaddyji.cz/obec/materska-skola/"
 },
 "materska-skola-brodek-u-prostejova-609941": {
 "duvod": "",
@@ -9017,6 +9041,14 @@
 "titulek": "MATEŘSKÁ ŠKOLA DUCHCOV",
 "web": "https://msosecka.cz"
 },
+"materska-skola-duha-013860": {
+"duvod": "",
+"final": "https://www.trebusice.cz/ms/index.php?oid=13841805",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ DUHA Třebusice",
+"web": "https://www.trebusice.cz/ms/index.php?oid=13841805"
+},
 "materska-skola-duha-616581": {
 "duvod": "",
 "final": "https://ms-duha.cz",
@@ -9040,6 +9072,14 @@
 "shoda": "psc",
 "titulek": "MŠ Dvouletky, Praha Strašnice - Hrajeme si a učíme :)",
 "web": "https://www.msdvouletky.cz"
+},
+"materska-skola-francova-lhota-633817": {
+"duvod": "",
+"final": "https://skolka.francovalhota.cz/",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Francova Lhota",
+"web": "https://skolka.francovalhota.cz/"
 },
 "materska-skola-g-fristenskeho-626659": {
 "duvod": "",
@@ -9159,6 +9199,14 @@
 "shoda": "psc",
 "titulek": "Školka | Mš Lužní Hodonín",
 "web": "https://msluznihodonin.com"
+},
+"materska-skola-holasovice-628597": {
+"duvod": "",
+"final": "https://www.obec-holasovice.cz/obec-holasovice/materska-skola-holasovice/o-materske-skole/",
+"ok": true,
+"shoda": "psc",
+"titulek": "O mateřské škole - Oficiální stránky obce Holasovice",
+"web": "https://www.obec-holasovice.cz/obec-holasovice/materska-skola-holasovice/o-materske-skole/"
 },
 "materska-skola-holedec-039541": {
 "duvod": "",
@@ -9328,6 +9376,14 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Hraničky",
 "web": "https://mshranicky.cz"
+},
+"materska-skola-hribatka-kladruby-nad-labem-585146": {
+"duvod": "",
+"final": "https://www.kladrubynadlabem.cz/materska-skola-hribatka/",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola Hříbátka - Oficiální stránky obce Kladruby nad Labem",
+"web": "https://www.kladrubynadlabem.cz/materska-skola-hribatka/"
 },
 "materska-skola-hrisice-64-532689": {
 "duvod": "",
@@ -9589,6 +9645,22 @@
 "titulek": "Novinky - MŠ Kamarád",
 "web": "https://mskamaradhk.cz"
 },
+"materska-skola-kamen-533367": {
+"duvod": "",
+"final": "https://obeckamen.cz/obec/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola - Oficiální stránky obce Kámen",
+"web": "https://obeckamen.cz/obec/materska-skola/"
+},
+"materska-skola-kamenacek-kamenny-ujezd-089548": {
+"duvod": "",
+"final": "https://www.kamennyujezd.cz/materska-skola-detske-skupiny/ms-kamenacek/",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Kameňáček - Oficiální stránky obce Kamenný Újezd",
+"web": "https://www.kamennyujezd.cz/materska-skola-detske-skupiny/ms-kamenacek/"
+},
 "materska-skola-karla-capka-jesenik-633370": {
 "duvod": "bez-shody",
 "final": "https://nasjesenik.cz/univerzalni-objekty/102-materska-skola-karla-capka",
@@ -9762,6 +9834,14 @@
 "shoda": "psc",
 "titulek": "Home - Mateřská škola Kouřim",
 "web": "https://ms-kourim.cz"
+},
+"materska-skola-kozichovice-611686": {
+"duvod": "",
+"final": "https://www.kozichovice.cz/obec/materska-skola/kontakty-na-ms/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Kontakty na MŠ - Oficiální stránky obce Kožichovice",
+"web": "https://www.kozichovice.cz/obec/materska-skola/"
 },
 "materska-skola-kozojidky-606976": {
 "duvod": "",
@@ -9980,6 +10060,14 @@
 "titulek": "mslechotice",
 "web": "https://mslechotice.webnode.cz"
 },
+"materska-skola-ledce-514796": {
+"duvod": "",
+"final": "https://obecledce.cz/ms/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Ledce – kontaktní informace – OBEC LEDCE",
+"web": "https://obecledce.cz/ms/materska-skola/"
+},
 "materska-skola-lednice-604671": {
 "duvod": "",
 "final": "https://www.mslednice.cz/",
@@ -10011,6 +10099,14 @@
 "shoda": "ulice",
 "titulek": "O mateřské škole | Mateřská škola Letonice",
 "web": "https://msletonice.cz"
+},
+"materska-skola-libceves-566362": {
+"duvod": "",
+"final": "https://www.libceves.cz/obec/materska-skola-libceves/dokumenty-1/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dokumenty - Oficiální stránky obce Libčeves",
+"web": "https://www.libceves.cz/obec/materska-skola-libceves/"
 },
 "materska-skola-liberec-564394": {
 "duvod": "",
@@ -10234,6 +10330,14 @@
 "titulek": "Mateřská škola Malá Morávka",
 "web": "https://msmalamoravka.cz"
 },
+"materska-skola-mala-velen-562146": {
+"duvod": "",
+"final": "https://www.mala-velen.cz/obec/materska-skola/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská škola - Oficiální stránky obce Malá Veleň",
+"web": "https://www.mala-velen.cz/obec/materska-skola/"
+},
 "materska-skola-malesovice-603489": {
 "duvod": "",
 "final": "https://www.msmalesovice.cz/",
@@ -10297,6 +10401,14 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Markvartice | Úvod",
 "web": "https://msmarkvartice.webnode.cz"
+},
+"materska-skola-marsovice-510227": {
+"duvod": "",
+"final": "https://www.mestysmarsovice.cz/mestys/materska-skola-marsovice/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Maršovice - Oficiální stránky obce městyse Maršovice",
+"web": "https://www.mestysmarsovice.cz/mestys/materska-skola-marsovice/"
 },
 "materska-skola-martineves-565625": {
 "duvod": "",
@@ -10410,6 +10522,14 @@
 "titulek": "Mateřská škola Mladějov – příspěvková organizace obce Mladějov",
 "web": "https://msmladejov.e-obec.cz"
 },
+"materska-skola-mladejov-na-morave-587058": {
+"duvod": "",
+"final": "https://www.mladejovnamorave.cz/organizace/materska-skola-1/materska-skola-mladejov-na-morave/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Mladějov na Moravě - Oficiální stránky obce Mladějov na Moravě",
+"web": "https://www.mladejovnamorave.cz/organizace/materska-skola-1/materska-skola-mladejov-na-morave/"
+},
 "materska-skola-mlazovice-582929": {
 "duvod": "",
 "final": "https://www.mlazovice.cz/",
@@ -10509,6 +10629,14 @@
 "ok": false,
 "shoda": "",
 "web": "https://mourinov.cz/skolka-mourinov"
+},
+"materska-skola-mrakov-540347": {
+"duvod": "",
+"final": "https://www.mrakov.cz/nase-obec/materska-skola-mrakov-1/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská škola Mrákov - Oficiální stránky obce Mrákov",
+"web": "https://www.mrakov.cz/nase-obec/materska-skola-mrakov-1/"
 },
 "materska-skola-mstisov-567989": {
 "duvod": "",
@@ -10780,6 +10908,14 @@
 "titulek": "MŠ Obříství",
 "web": "https://www.msobristvi.cz"
 },
+"materska-skola-obyctov-615711": {
+"duvod": "",
+"final": "https://www.obyctov.cz/spolky-organizace/materska-skolka",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská školka | Obyčtov",
+"web": "https://www.obyctov.cz/spolky-organizace/materska-skolka"
+},
 "materska-skola-ohare-512376": {
 "duvod": "",
 "final": "https://msohare.cz",
@@ -10892,6 +11028,14 @@
 "shoda": "ico",
 "titulek": "MŠ Opava, Edvarda Beneše",
 "web": "https://msebeneseopava.cz"
+},
+"materska-skola-oplot-544059": {
+"duvod": "",
+"final": "https://www.oplot.cz/materska-skola/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská škola - Oficiální stránky obce Oplot",
+"web": "https://www.oplot.cz/materska-skola/"
 },
 "materska-skola-opocno-585642": {
 "duvod": "",
@@ -11101,6 +11245,14 @@
 "titulek": "Mateřská škola",
 "web": "https://paseky.cz/127-materska-skola"
 },
+"materska-skola-pasovice-612585": {
+"duvod": "",
+"final": "https://www.pasovice.cz/materska-skolka",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská školka | www.pasovice.cz",
+"web": "https://www.pasovice.cz/materska-skolka"
+},
 "materska-skola-pastelka-565986": {
 "duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
 "ok": false,
@@ -11250,6 +11402,12 @@
 "shoda": "ulice",
 "titulek": "Mateřská škola Pod Lipou – Mateřská škola Pod Lipou",
 "web": "https://ms-podlipou.cz"
+},
+"materska-skola-podesin-615631": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.podesin.cz/organizace/materska-skola/"
 },
 "materska-skola-podlesi-000701": {
 "duvod": "",
@@ -11418,6 +11576,14 @@
 "titulek": "MŠ Přibyslavice",
 "web": "https://mspribyslavice.webnode.cz"
 },
+"materska-skola-priluka-587228": {
+"duvod": "",
+"final": "https://priluka.cz/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Obec Příluka - Zápis dětí do MŠ - dokumenty",
+"web": "https://priluka.cz/materska-skola/"
+},
 "materska-skola-pritluky-605015": {
 "duvod": "",
 "final": "https://www.skolkapritluky.cz/",
@@ -11498,6 +11664,14 @@
 "titulek": "MŠ Rabí – Oficiální stránky mateřské školy Rabí",
 "web": "https://msrabi.cz"
 },
+"materska-skola-racetice-44-562553": {
+"duvod": "",
+"final": "https://www.racetice.cz/ms-35/",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ - Oficiální stránky obce Račetice",
+"web": "https://www.racetice.cz/ms-35/"
+},
 "materska-skola-racice-pistovice-613620": {
 "duvod": "",
 "final": "https://www.msracice.cz/",
@@ -11553,6 +11727,14 @@
 "shoda": "",
 "web": "https://msradslavice.cz"
 },
+"materska-skola-rakov-631326": {
+"duvod": "",
+"final": "https://www.rakov.cz/cs/obec/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola - Oficiální stránky obce Rakov",
+"web": "https://www.rakov.cz/cs/obec/materska-skola/"
+},
 "materska-skola-rakova-u-konice-610167": {
 "duvod": "",
 "final": "https://msrakova.cz",
@@ -11582,6 +11764,14 @@
 "shoda": "ulice",
 "titulek": "MŠ Řestoky - Mateřská škola Řestoky",
 "web": "https://msrestoky.cz"
+},
+"materska-skola-rimov-612020": {
+"duvod": "",
+"final": "https://obecrimov.cz/materska-skola/kontakt.html",
+"ok": true,
+"shoda": "ico",
+"titulek": "Kontakt - Obec Římov",
+"web": "https://obecrimov.cz/materska-skola/kontakt.html"
 },
 "materska-skola-rochlov-544491": {
 "duvod": "",
@@ -11974,6 +12164,14 @@
 "titulek": "MŠ Slavětín u Litovle",
 "web": "https://skolkaslavetin.cz"
 },
+"materska-skola-slavkov-612925": {
+"duvod": "",
+"final": "https://www.obecslavkov.cz/sluzby/skolka-druzina/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školka, družina - Oficiální stránky obce Slavkov",
+"web": "https://www.obecslavkov.cz/sluzby/skolka-druzina/"
+},
 "materska-skola-slavonov-584140": {
 "duvod": "robots",
 "ok": false,
@@ -12223,6 +12421,14 @@
 "shoda": "ulice",
 "titulek": "O naší mateřské škole - Oficiální stránky obce Starý Petřín",
 "web": "https://starypetrin.cz/obec/materska-skola/o-nasi-materske-skole"
+},
+"materska-skola-stary-smolivec-544393": {
+"duvod": "",
+"final": "https://www.mladysmolivec.cz/obec/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola - Oficiální stránky obce Mladý Smolivec",
+"web": "https://www.mladysmolivec.cz/obec/materska-skola/"
 },
 "materska-skola-stechovicka-504138": {
 "duvod": "",
@@ -12630,6 +12836,14 @@
 "shoda": "",
 "web": "https://ms-uparku.strakonice.eu"
 },
+"materska-skola-ublo-606381": {
+"duvod": "",
+"final": "https://www.ublo.cz/materska-skola-ublo",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Ublo | Obec Ublo",
+"web": "https://www.ublo.cz/materska-skola-ublo"
+},
 "materska-skola-uhelna-632322": {
 "duvod": "",
 "final": "https://msuhelna.cz",
@@ -12794,6 +13008,22 @@
 "titulek": "MŠ Vamberk – Mateřská školka Vamberk",
 "web": "https://msvamberk.cz"
 },
+"materska-skola-vavrinec-600498": {
+"duvod": "",
+"final": "https://www.vavrinec.cz/ms-97/",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ - Oficiální stránky Obce Vavřinec",
+"web": "https://www.vavrinec.cz/ms-97/"
+},
+"materska-skola-vazany-612569": {
+"duvod": "",
+"final": "https://www.obecvazany.cz/obec/informace-a-zajimavosti/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola - Oficiální stránka obce Vážany",
+"web": "https://www.obecvazany.cz/obec/informace-a-zajimavosti/materska-skola/"
+},
 "materska-skola-vazany-nad-litavou-613697": {
 "duvod": "",
 "final": "https://msvazanynl.cz",
@@ -12914,6 +13144,14 @@
 "titulek": "Mateřská škola Veselí: Hlavní strana",
 "web": "https://ms-veseli.cz"
 },
+"materska-skola-veselicko-631695": {
+"duvod": "",
+"final": "https://obec-veselicko.cz/spol/materska-skola",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská škola - Informace - Veselíčko",
+"web": "https://obec-veselicko.cz/spol/materska-skola"
+},
 "materska-skola-veverska-bityska-604124": {
 "duvod": "",
 "final": "https://www.msveverskabityska.cz/",
@@ -12945,6 +13183,14 @@
 "shoda": "ico",
 "titulek": "Home | MŠ Vidnava",
 "web": "https://skolka.vidnava.cz"
+},
+"materska-skola-vidonin-616301": {
+"duvod": "",
+"final": "https://www.vidonin.cz/materska-skola",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola | Obec Vidonín",
+"web": "https://www.vidonin.cz/materska-skola"
 },
 "materska-skola-vintirov-546108": {
 "duvod": "",
@@ -13057,6 +13303,14 @@
 "shoda": "psc",
 "titulek": "Žabka",
 "web": "https://mszabka.cz"
+},
+"materska-skola-zabori-nad-labem-513129": {
+"duvod": "",
+"final": "https://www.zaborinadlabem.cz/organizace/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola - Oficiální stránka obce Záboří nad Labem",
+"web": "https://www.zaborinadlabem.cz/organizace/materska-skola/"
 },
 "materska-skola-zabovresky-531003": {
 "duvod": "",
@@ -13206,6 +13460,14 @@
 "shoda": "psc",
 "titulek": "MŠ Žižkovo Pole",
 "web": "https://www.mszizkovopole.cz"
+},
+"materska-skola-zlamanec-612330": {
+"duvod": "",
+"final": "https://zlamanec.cz/materska-skola/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Obec Zlámanec - Mateřská škola",
+"web": "https://zlamanec.cz/materska-skola/"
 },
 "materska-skola-zlin-191127": {
 "duvod": "",
@@ -13537,6 +13799,14 @@
 "titulek": "",
 "web": "https://msbalonek.cz"
 },
+"ms-bitovcice-094177": {
+"duvod": "",
+"final": "https://www.bitovcice.cz/obec/materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola - Oficiální stránky obce Bítovčice",
+"web": "https://www.bitovcice.cz/obec/materska-skola/"
+},
 "ms-bitovska-004186": {
 "duvod": "",
 "final": "https://www.msbitovska.cz",
@@ -13560,6 +13830,14 @@
 "shoda": "ico",
 "titulek": "Mateřská škola Černošín - Mateřská škola Černošín",
 "web": "https://www.mscernosin.cz"
+},
+"ms-dankovice-616254": {
+"duvod": "",
+"final": "https://dankovice.cz/materska-skola",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola | Obec Daňkovice",
+"web": "https://dankovice.cz/materska-skola"
 },
 "ms-decin-ii-liliova-277-000281": {
 "duvod": "",
@@ -13601,6 +13879,14 @@
 "titulek": "Mateřská škola KAMECHY",
 "web": "https://mskamechy.webnode.cz"
 },
+"ms-kaminek-126419": {
+"duvod": "",
+"final": "https://www.obec-kamen.cz/materska-skola-kaminek",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Kamínek | Obec Kámen",
+"web": "https://www.obec-kamen.cz/materska-skola-kaminek"
+},
 "ms-kdyne-540631": {
 "duvod": "",
 "final": "https://www.msmarkovakdyne.cz",
@@ -13616,6 +13902,14 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Kdyně, Dělnická 35, příspěvková organizace - Oficiální stránky Mateřská škola Kdyně",
 "web": "https://www.msdelnickakdyne.cz"
+},
+"ms-kvicovice-540550": {
+"duvod": "",
+"final": "https://www.kvicovice.cz/obec-7/materska-skolka/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská školka - Oficiální stránky obce Kvíčovice",
+"web": "https://www.kvicovice.cz/obec-7/materska-skolka/"
 },
 "ms-materinka-045323": {
 "duvod": "",
@@ -13654,6 +13948,14 @@
 "ok": false,
 "shoda": "",
 "web": "https://msmutenicka.cz"
+},
+"ms-prikosice-000224": {
+"duvod": "",
+"final": "https://www.obecprikosice.cz/obec/materska-skola-prikosice/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Příkosice - Oficiální stránka obce Příkosice",
+"web": "https://www.obecprikosice.cz/obec/materska-skola-prikosice/"
 },
 "ms-rohozna-587244": {
 "duvod": "",
@@ -14165,6 +14467,14 @@
 "titulek": "ZŠ a MŠ Častrov – Základní škola a mateřská škola Častrov, okres Pelhřimov",
 "web": "https://zscastrov.cz"
 },
+"zakladni-skola-a-materska-skola-cejle-700600": {
+"duvod": "",
+"final": "https://zsams.cejle.cz/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní škola a mateřská škola Cejle - Oficiální stránky Základní školy a mateřské školy Cejle",
+"web": "https://zsams.cejle.cz/"
+},
 "zakladni-skola-a-materska-skola-cerncice-584000": {
 "duvod": "",
 "final": "https://www.skolacerncice.cz",
@@ -14411,12 +14721,12 @@
 "web": "https://skolahlavnice.cz"
 },
 "zakladni-skola-a-materska-skola-hlohovec-604540": {
-"duvod": "bez-shody",
-"final": "https://zshlohovec.cz",
-"ok": false,
-"shoda": "",
-"titulek": "",
-"web": "https://zshlohovec.cz"
+"duvod": "",
+"final": "https://www.hlohovec.cz/zakladni-skola-a-materska-skola",
+"ok": true,
+"shoda": "psc",
+"titulek": "Základní škola a mateřská škola | Obec Hlohovec",
+"web": "https://www.hlohovec.cz/zakladni-skola-a-materska-skola"
 },
 "zakladni-skola-a-materska-skola-hlubocany-613433": {
 "duvod": "",
@@ -14432,6 +14742,22 @@
 "opak": 1,
 "shoda": "",
 "web": "https://zshornibradlo.cz"
+},
+"zakladni-skola-a-materska-skola-horni-dubenky-608057": {
+"duvod": "",
+"final": "https://www.hornidubenky.cz/kontakty-zs-ms",
+"ok": true,
+"shoda": "ico",
+"titulek": "Kontakty ZŠ a MŠ | Obec Horní Dubenky",
+"web": "https://www.hornidubenky.cz/kontakty-zs-ms"
+},
+"zakladni-skola-a-materska-skola-horni-nemci-612402": {
+"duvod": "",
+"final": "https://www.horninemci.cz/spolky/zakladni-a-materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní a mateřská škola - Oficiální stránky obce Horní Němčí",
+"web": "https://www.horninemci.cz/spolky/zakladni-a-materska-skola/"
 },
 "zakladni-skola-a-materska-skola-hostejn-632268": {
 "duvod": "",
@@ -14791,6 +15117,14 @@
 "titulek": "ZŠ Libčany",
 "web": "https://zslibcany.cz"
 },
+"zakladni-skola-a-materska-skola-lipnik-611317": {
+"duvod": "",
+"final": "https://www.obeclipnik.cz/zs-a-ms-lipnik/",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZŠ a MŠ Lipník - Oficiální stránky obce Lipník",
+"web": "https://www.obeclipnik.cz/zs-a-ms-lipnik/"
+},
 "zakladni-skola-a-materska-skola-lipova-610671": {
 "duvod": "",
 "final": "https://www.zs-ms-lipova.cz/",
@@ -14902,12 +15236,12 @@
 "web": "https://www.zsmslukova.cz"
 },
 "zakladni-skola-a-materska-skola-mankovice-625385": {
-"duvod": "bez-shody",
-"final": "https://zs.mankovice.cz",
-"ok": false,
-"shoda": "",
-"titulek": "",
-"web": "https://zs.mankovice.cz"
+"duvod": "",
+"final": "https://www.mankovice.cz/obcan-1/zakladni-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní škola - Oficiální stránky obce Mankovice",
+"web": "https://www.mankovice.cz/obcan-1/zakladni-skola/"
 },
 "zakladni-skola-a-materska-skola-martinice-v-krkonosich-586606": {
 "duvod": "",
@@ -15128,6 +15462,14 @@
 "shoda": "ulice",
 "titulek": "Základní škola a Mateřská škola Orlické Záhoří – Oficiální stránky Základní školy a Mateřská školy v Orlickém Záhoří",
 "web": "https://www.skolaorlickezahori.cz"
+},
+"zakladni-skola-a-materska-skola-osek-nad-becvou-631806": {
+"duvod": "",
+"final": "https://www.oseknadbecvou.cz/zs-a-ms-osek-nad-becvou",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZŠ a MŠ Osek nad Bečvou | Osek nad Bečvou",
+"web": "https://www.oseknadbecvou.cz/zs-a-ms-osek-nad-becvou"
 },
 "zakladni-skola-a-materska-skola-oskava-633434": {
 "duvod": "",
@@ -15477,6 +15819,14 @@
 "titulek": "Základní škola a Mateřská škola Široká Niva",
 "web": "https://zsms-siroka-niva.cz"
 },
+"zakladni-skola-a-materska-skola-siroky-dul-038218": {
+"duvod": "",
+"final": "https://www.sirokydul.cz/nase-obec/zakladni-skola-a-materska-skola-siroky-dul/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Základní škola a mateřská škola Široký Důl - Oficiální stránky obce Široký Důl",
+"web": "https://www.sirokydul.cz/nase-obec/zakladni-skola-a-materska-skola-siroky-dul/"
+},
 "zakladni-skola-a-materska-skola-skalice-614537": {
 "duvod": "",
 "final": "https://zsamsskalice.cz",
@@ -15622,6 +15972,14 @@
 "titulek": "ZÁKLADNÍ ŠKOLA A MATEŘSKÁ ŠKOLA STRUŽNICE – okres Česká Lípa, příspěvková organizace",
 "web": "https://skolastruznice.cz"
 },
+"zakladni-skola-a-materska-skola-studenec-611937": {
+"duvod": "",
+"final": "https://www.obecstudenec.cz/kontakt/zs-a-ms-studenec/",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZŠ a MŠ Studenec - Oficiální stránky obce Studenec",
+"web": "https://www.obecstudenec.cz/kontakt/zs-a-ms-studenec/"
+},
 "zakladni-skola-a-materska-skola-studlov-062101": {
 "duvod": "",
 "final": "http://ms.studlov.cz",
@@ -15755,12 +16113,12 @@
 "web": "https://zsusobrno.cz"
 },
 "zakladni-skola-a-materska-skola-valec-542153": {
-"duvod": "bez-shody",
-"final": "https://www.zsvalec.cz/",
-"ok": false,
-"shoda": "",
-"titulek": "ZŠ a MŠ Valeč",
-"web": "https://zsvalec.cz"
+"duvod": "",
+"final": "https://www.valec.cz/obec/organizace/skolstvi-zs-ms/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školství (ZŠ, MŠ) - Oficiální stránky obce Valeč",
+"web": "https://www.valec.cz/obec/organizace/skolstvi-zs-ms/"
 },
 "zakladni-skola-a-materska-skola-vanovice-031031": {
 "duvod": "",
@@ -15827,10 +16185,12 @@
 "web": "https://zsvlasatice.cz"
 },
 "zakladni-skola-a-materska-skola-vlkos-631717": {
-"duvod": "chyba: HTTP Error 403: Forbidden",
-"ok": false,
-"shoda": "",
-"web": "https://zsvlkos.cz"
+"duvod": "",
+"final": "https://www.obecvlkos.cz/zs-a-ms-vlkos",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZŠ a MŠ Vlkoš | Obec Vlkoš",
+"web": "https://www.obecvlkos.cz/zs-a-ms-vlkos"
 },
 "zakladni-skola-a-materska-skola-vrhavec-542617": {
 "duvod": "",
@@ -15861,6 +16221,14 @@
 "shoda": "psc",
 "titulek": "Základní škola a Mateřská škola Vysočany - Oficiální stránky Základní škola a Mateřská škola Vysočany",
 "web": "https://zsmsvysocany.cz"
+},
+"zakladni-skola-a-materska-skola-vysoka-pec-562391": {
+"duvod": "",
+"final": "https://www.vysokapec.cz/obec-43/skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Škola - Oficiální stránky obce Vysoká Pec",
+"web": "https://www.vysokapec.cz/obec-43/skola/"
 },
 "zakladni-skola-a-materska-skola-zabreh-301130": {
 "duvod": "bez-shody",
@@ -16103,6 +16471,14 @@
 "shoda": "ulice",
 "titulek": "Základní škola a Mateřská škola, Hrádek - Oficiální stránky ZŠ a MŠ Hrádek",
 "web": "https://zshradek.cz"
+},
+"zs-t-g-masaryka-a-materska-skola-611511": {
+"duvod": "",
+"final": "https://www.pribyslavice.cz/obec/zakladni-a-materska-skola/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní a mateřská škola - Oficiální stránky obce Přibyslavice",
+"web": "https://www.pribyslavice.cz/obec/zakladni-a-materska-skola/"
 },
 "zs-t-g-masaryka-a-ms-621894": {
 "duvod": "",
