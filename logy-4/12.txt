@@ -1,14 +1,2 @@
-[09:22:18] Část 13/20: webů 173, hotovo 196, zbývá 10
-[09:22:31] https://zsmschomutice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 2 fotek ke kontrole
-[09:22:42] https://mssardice.cz: 7 stránek (galerie mimo web: 1 ['mssardice.rajce.idnes.cz'], alb: 0), 3 obrázků, 1 fotek ke kontrole
-[09:22:58] https://materska-skola-opatovice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[09:23:12] https://skolka.hrubavrbka.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 116 obrázků, 1 fotek ke kontrole
-[09:23:23] https://mshercikova.cz: 12 stránek (galerie mimo web: 1 ['mshercikova.rajce.idnes.cz'], alb: 0), 9 obrázků, 0 fotek ke kontrole
-[09:23:31] https://mspuskinova.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 2 fotek ke kontrole
-[09:23:35] https://korenec.cz/obec/materska-skola-: 33 stránek (galerie mimo web: 0 [], alb: 0), 677 obrázků, 7 fotek ke kontrole
-[09:23:44] https://mspuchyrova.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 585 obrázků, 2 fotek ke kontrole
-[09:23:50] https://zsamsbohutice.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 965 obrázků, 16 fotek ke kontrole
-[09:24:49] https://ms-bukovany.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 1589 obrázků, 1 fotek ke kontrole
-[09:25:05] tříděno 0/32
-[09:25:05] Dávka 1: hotovo 206/173, se fotkami 49; {'ok': 1, 'lide': 3, 'jine': 28, 'sablona': 0}
-[09:25:05] Konec: školek s fotkami 49; {'ok': 1, 'lide': 3, 'jine': 28, 'sablona': 0}
+[09:44:20] Část 13/20: webů 172, hotovo 206, zbývá 0
+[09:44:20] Konec: školek s fotkami 49; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
