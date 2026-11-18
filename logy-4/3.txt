@@ -1,7 +1,2 @@
-[11:45:35] Část 4/20: webů 181, hotovo 219, zbývá 3
-[11:45:54] https://www.slunickova.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 5 fotek ke kontrole
-[11:45:55] https://zsmasarykova.cz: 4 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[11:46:03] https://lamicka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 10 fotek ke kontrole
-[11:46:19] tříděno 0/15
-[11:46:20] Dávka 1: hotovo 222/181, se fotkami 65; {'ok': 5, 'lide': 1, 'jine': 8, 'sablona': 0}
-[11:46:20] Konec: školek s fotkami 65; {'ok': 5, 'lide': 1, 'jine': 8, 'sablona': 0}
+[12:06:15] Část 4/20: webů 181, hotovo 222, zbývá 0
+[12:06:15] Konec: školek s fotkami 65; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
