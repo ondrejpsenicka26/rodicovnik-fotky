@@ -1,7 +1,6 @@
-[11:38:35] Část 13/20: webů 181, hotovo 220, zbývá 3
-[11:38:46] https://www.mshusitska.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 3 fotek ke kontrole
-[11:38:49] https://www.pastelkaustek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 0 fotek ke kontrole
-[11:43:03] https://ms-satalice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 2118 obrázků, 41 fotek ke kontrole
-[11:43:23] tříděno 0/44
-[11:43:26] Dávka 1: hotovo 223/181, se fotkami 57; {'ok': 4, 'lide': 3, 'jine': 6, 'sablona': 0}
-[11:43:26] Konec: školek s fotkami 57; {'ok': 4, 'lide': 3, 'jine': 6, 'sablona': 0}
+[11:45:30] Část 13/20: webů 183, hotovo 223, zbývá 2
+[11:45:39] https://nuslicky.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 4 fotek ke kontrole
+[11:46:29] https://kulicek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 15 fotek ke kontrole
+[11:46:42] tříděno 0/19
+[11:46:43] Dávka 1: hotovo 225/183, se fotkami 58; {'ok': 1, 'lide': 0, 'jine': 18, 'sablona': 0}
+[11:46:43] Konec: školek s fotkami 58; {'ok': 1, 'lide': 0, 'jine': 18, 'sablona': 0}
