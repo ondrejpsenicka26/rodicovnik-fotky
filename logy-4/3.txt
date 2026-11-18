@@ -1,4 +1,13 @@
-[10:40:18] Část 4/20: webů 167, hotovo 203, zbývá 1
-[10:40:35] http://mskosmonautu.info: 11 stránek (galerie mimo web: 1 ['mskosmonautuinfo.rajce.idnes.cz'], alb: 0), 6 obrázků, 0 fotek ke kontrole
-[10:40:35] Dávka 1: hotovo 204/167, se fotkami 56; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
-[10:40:35] Konec: školek s fotkami 56; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[11:03:59] Část 4/20: webů 176, hotovo 204, zbývá 9
+[11:04:46] https://www.mskrucemburk.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 207 obrázků, 37 fotek ke kontrole
+[11:04:59] https://www.zsmsdalesice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 394 obrázků, 2 fotek ke kontrole
+[11:04:59] https://www.msujezdecek.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 241 obrázků, 1 fotek ke kontrole
+[11:05:01] https://www.ms-zamrsk.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 769 obrázků, 3 fotek ke kontrole
+[11:05:01] https://www.mslutopecny.cz: 9 stránek (galerie mimo web: 1 ['skolkalutopecny.rajce.idnes.cz'], alb: 0), 33 obrázků, 3 fotek ke kontrole
+[11:05:04] https://www.zsamsobrnice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 0 fotek ke kontrole
+[11:05:12] https://www.zsmstatenice.cz: 22 stránek (galerie mimo web: 3 ['eu.zonerama.com', 'mssttatenice.rajce.idnes.cz', 'zstatenice.rajce.idnes.cz'], alb: 1), 23 obrázků, 10 fotek ke kontrole
+[11:05:12] https://www.zsrozna.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 531 obrázků, 5 fotek ke kontrole
+[11:05:13] https://mszebrak.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 4 fotek ke kontrole
+[11:05:26] tříděno 0/65
+[11:05:31] Dávka 1: hotovo 213/176, se fotkami 61; {'ok': 8, 'lide': 10, 'jine': 41, 'sablona': 0}
+[11:05:31] Konec: školek s fotkami 61; {'ok': 8, 'lide': 10, 'jine': 41, 'sablona': 0}

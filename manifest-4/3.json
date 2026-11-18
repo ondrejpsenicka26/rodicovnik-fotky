@@ -1399,6 +1399,23 @@
 "w": 1200
 }
 ],
+"materska-skola-ujezdecek-568667": [
+{
+"alt": "",
+"barva": "#616b4c",
+"dh": "a9d94d2b7a5f070f",
+"h": 800,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAgP/xAAgEAACAgEEAwEAAAAAAAAAAAABAgMRABIhMkEEMVFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAABETYf/aAAwDAQACEQMRAD8AGIVdUmbxqC8h6D/mcngUuDEuyrZDVt33iEawCes2wU7lQT9IzPvxNBlkkkkaTRWo3SqKyxJVb4jLDY1//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msujezdecek.cz/aktuality/kalendar-akci/beseda-s-pani-ucitelkou-z-1tridy-852_294cs.html",
+"typ": "zahrada",
+"url": "https://www.msujezdecek.cz/data/headerfooter/header_images/dsc1083.jpg",
+"w": 1200
+}
+],
 "materska-skola-v-klinci-103671": [
 {
 "alt": "og",
@@ -1470,6 +1487,23 @@
 "typ": "zahrada",
 "url": "https://www.msvborek.cz/img/original/61/img_6867.jpg",
 "w": 1200
+}
+],
+"materska-skola-zamrsk-589885": [
+{
+"alt": "og",
+"barva": "#6d6149",
+"dh": "f084868e8e8a8a07",
+"h": 575,
+"jistota": 0.608,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACMQAAIBBAIABwAAAAAAAAAAAAECAwAEERIFIRMiMUFRwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRElH/2gAMAwEAAhEDEQA/AIU0zcly0krqFEjbYC4FUZeKSAOkMe7xKknlHZ2/KRtepCffXOa13gRm0aUoC7IgLfIAFEis3XCrsnWFxeW9vrNxk8zMdtyufuinwAmVToA+gNFTo8hYz//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-zamrsk.cz/fotogalerie/mame-novy-domecek",
+"typ": "zahrada",
+"url": "http://www.ms-zamrsk.cz/image.php?oid=12339266",
+"w": 1024
 }
 ],
 "materska-skola-zichovec-090511": [
@@ -1747,6 +1781,23 @@
 "w": 800
 }
 ],
+"zakladni-skola-a-materska-skola-dalesice-611881": [
+{
+"alt": "",
+"barva": "#78827e",
+"dh": "000084cac8c98982",
+"h": 509,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBgX/xAAlEAACAAUDAwUAAAAAAAAAAAABAgADBAUREhMhIkGhFDJxgbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACAxEEEiEF/9oADAMBAAIRAxEAPwBKp2aW4rSOhJIXnHc9o0hbU6RoUsck5bA/Ik0uTi4Sp85d3aYNhm933FRar0a+Zp9OksIpPDE5hS5UrTtZClsTK1IT0uzI6AlAPg58wQtVUhqZ7TRVVUnVjolTMKPEEA9TnVmcUXxf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmsdalesice.cz/materska-skola/fotogalerie/2025-2026-1/den-otevrenych-dveri-494cs.html",
+"typ": "budova",
+"url": "https://www.zsmsdalesice.cz/data/headerfooter/header_images/72cs1.jpg",
+"w": 765
+}
+],
 "zakladni-skola-a-materska-skola-jezov-607557": [
 {
 "alt": "",
@@ -1876,6 +1927,23 @@
 "w": 898
 }
 ],
+"zakladni-skola-a-materska-skola-rozna-012101": [
+{
+"alt": "og",
+"barva": "#7a7164",
+"dh": "0de2e182ceb071e8",
+"h": 1200,
+"jistota": 0.8,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACgQAAIBBAECBAcAAAAAAAAAAAECAwAEERIhBTETIkFxMlFhcoGRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAP/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIDERITIUH/2gAMAwEAAhEDEQA/AIMSXNqd7aXCeu3wn91asTPd2qSnjIz5R39s1murS3mumJNwAzHAGNQfpxVe2B6fEsceZ1UahWIU0W1WXVvkStnMwzoo+4nNFbIuobg7waMDhl2zg0UOzGeLNwu+kju0ezOrbbemM49s9qUkswJ8WVnB7g8/2rN7ZwaB/DAY9yCRWGO3idwGXP5NUqajbMWt1HEoRFbUD5UVXFnbxqAsKYxnkZorm46rtjLoT//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsrozna.cz/fotogalerie-zdroj/hlavni-stranka-animace",
+"typ": "interier",
+"url": "http://www.zsrozna.cz/image.php?oid=8748000",
+"w": 900
+}
+],
 "zakladni-skola-a-materska-skola-stare-krecany-561620": [
 {
 "alt": "ZŠ a MŠ Staré Křečany",
@@ -1950,6 +2018,62 @@
 "stranka": "https://zssulejovice.cz",
 "typ": "budova",
 "url": "https://zssulejovice.cz/wp-content/uploads/2024/08/20240830_120716-scaled.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-tatenice-590310": [
+{
+"alt": "",
+"barva": "#8898a4",
+"dh": "46a793652b2a2664",
+"h": 781,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEIRESUQUTMRVBYXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABsRAAICAwEAAAAAAAAAAAAAAAABAhIDE0FR/9oADAMBAAIRAxEAPwC1DKk8YkjGqMNRoCTTpoEngeJw6hx5AyM8Gl9Ohs7farSNtBGSPvj4qCWcR2yOisGLhckYHnim88/Qaorhl3XSysx7ExCkAkMACD+0V0sdhvjVu6cj3UUULsVEf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmstatenice.cz/o-nas/",
+"typ": "budova",
+"url": "https://www.zsmstatenice.cz/files/img/202609231110_foto-zs-new-2026-ulice.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#978e81",
+"dh": "cc6ab2943687337b",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsmstatenice.cz/slide-ucebna-ms/",
+"typ": "interier",
+"url": "https://www.zsmstatenice.cz/files/img/202609141131_foto-ms-new-2026-in.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#77776d",
+"dh": "94d5512361e4620d",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsmstatenice.cz/slideshow-ms-zahrada/",
+"typ": "zahrada",
+"url": "https://www.zsmstatenice.cz/files/img/202609141138_foto-ms-new-2026-hriste.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#858380",
+"dh": "0d841453b79c95f9",
+"h": 862,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.zsmstatenice.cz/slideshow-ms-z-boku/",
+"typ": "budova",
+"url": "https://www.zsmstatenice.cz/files/img/202609141140_foto-ms-new-2026-zezadu.jpg",
 "w": 1200
 }
 ],
