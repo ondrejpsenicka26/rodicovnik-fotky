@@ -1,2 +1,13 @@
-[09:44:18] Část 14/20: webů 168, hotovo 195, zbývá 0
-[09:44:18] Konec: školek s fotkami 44; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:03] Část 14/20: webů 177, hotovo 195, zbývá 9
+[09:54:09] https://msujezdec.cz: nedostupné nebo zakázané
+[09:54:24] https://zsamsblanicka.com: 3 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 30 fotek ke kontrole
+[09:54:47] https://msvendryne.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 6 fotek ke kontrole
+[09:55:04] https://ms-sady.cz: 6 stránek (galerie mimo web: 1 ['skolkazahrada.rajce.idnes.cz'], alb: 1), 57 obrázků, 22 fotek ke kontrole
+[09:55:24] https://msblahoslavova.cz: 14 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 52 obrázků, 32 fotek ke kontrole
+[09:55:31] https://zsbilykostel.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 507 obrázků, 4 fotek ke kontrole
+[09:56:07] https://msrtyne.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 88 obrázků, 23 fotek ke kontrole
+[09:56:12] https://dvorakovams.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 84 obrázků, 33 fotek ke kontrole
+[09:56:23] https://msokruzni.eu: 32 stránek (galerie mimo web: 0 [], alb: 0), 248 obrázků, 31 fotek ke kontrole
+[09:56:38] tříděno 0/181
+[09:57:03] Dávka 1: hotovo 204/177, se fotkami 51; {'ok': 21, 'lide': 6, 'jine': 85, 'sablona': 0}
+[09:57:03] Konec: školek s fotkami 51; {'ok': 21, 'lide': 6, 'jine': 85, 'sablona': 0}
