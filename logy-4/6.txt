@@ -1,2 +1,12 @@
-[09:44:20] Část 7/20: webů 152, hotovo 191, zbývá 0
-[09:44:21] Konec: školek s fotkami 59; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:13] Část 7/20: webů 160, hotovo 191, zbývá 8
+[09:54:15] https://msrynovice.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:40] https://mspolska-javornik.cz: 1 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 0), 20 obrázků, 0 fotek ke kontrole
+[09:54:44] https://zskomornilhotka.cz: 11 stránek (galerie mimo web: 37 ['photos.app.goo.gl'], alb: 4), 31 obrázků, 12 fotek ke kontrole
+[09:54:49] https://skolkabezuchov.cz: 3 stránek (galerie mimo web: 1 ['msbezuchov.zonerama.com'], alb: 1), 25 obrázků, 14 fotek ke kontrole
+[09:55:26] https://msdolnirokytnice.cz: 30 stránek (galerie mimo web: 33 ['msdolnirokytnice.rajce.idnes.cz', 'rokyt.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 3), 895 obrázků, 13 fotek ke kontrole
+[09:55:59] https://skolkaslavetin.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 215 obrázků, 29 fotek ke kontrole
+[09:56:42] https://msdolnibenesov.cz: 29 stránek (galerie mimo web: 13 ['eu.zonerama.com', 'www.rajce.idnes.cz'], alb: 10), 330 obrázků, 21 fotek ke kontrole
+[09:56:47] https://materskaskoladobre.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 36 fotek ke kontrole
+[09:57:12] tříděno 0/125
+[09:57:26] Dávka 1: hotovo 199/160, se fotkami 61; {'ok': 8, 'lide': 8, 'jine': 87, 'sablona': 0}
+[09:57:26] Konec: školek s fotkami 61; {'ok': 8, 'lide': 8, 'jine': 87, 'sablona': 0}

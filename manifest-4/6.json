@@ -716,6 +716,62 @@
 "w": 800
 }
 ],
+"materska-skola-bezuchov-631032": [
+{
+"alt": "MŠ Bezuchov",
+"barva": "#b29f77",
+"dh": "fef1e1b0224f1f03",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACAQAAIBBAMAAwAAAAAAAAAAAAECAwAEERIhMUEFInH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREiEx/9oADAMBAAIRAxEAPwDae+aWItFJIRrt9uPaX+ODyzM1y8jx69Ege95q9ZESKgdEOi4XjrOKcaNHXBUY/KzVnhVOMJkVnum0PEZ6yc0U01lFsSAy58DEUUKCn//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkabezuchov.cz/",
+"typ": "interier",
+"url": "https://skolkabezuchov.cz/assets/img/home/skolka/4-2640w.jpg",
+"w": 1200
+},
+{
+"alt": "MŠ Bezuchov",
+"barva": "#a69758",
+"dh": "769c0711b693b0b1",
+"h": 800,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkabezuchov.cz/",
+"typ": "zahrada",
+"url": "https://skolkabezuchov.cz/assets/img/home/skolka/2-2640w.jpg",
+"w": 1200
+},
+{
+"alt": "MŠ Bezuchov",
+"barva": "#90826e",
+"dh": "88d0dfcea8dc4e70",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolkabezuchov.cz/",
+"typ": "interier",
+"url": "https://skolkabezuchov.cz/assets/img/home/skolka/6-2640w.jpg",
+"w": 1200
+},
+{
+"alt": "Naši školkoví mazlíčci 🐹🐦",
+"barva": "#8d7c52",
+"dh": "6dd9691c1c284064",
+"h": 1200,
+"jistota": 0.882,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolkabezuchov.cz/nasi-skolkovi-mazlicci",
+"typ": "zahrada",
+"url": "https://myario.eu/uploads/articles/60/60-pc.jpeg",
+"w": 1200
+}
+],
 "materska-skola-cakovicky-516004": [
 {
 "alt": "",
@@ -756,6 +812,62 @@
 "stranka": "https://skolkacakovicky.cz/trida-kotatek/",
 "typ": "interier",
 "url": "https://skolkacakovicky.cz/wp-content/uploads/photo-gallery/20260820_152158.jpg?bwg=1788181314",
+"w": 1200
+}
+],
+"materska-skola-dobre-585855": [
+{
+"alt": "IMG_20260924_205802",
+"barva": "#728483",
+"dh": "39c58c4c4c6c1b3b",
+"h": 896,
+"jistota": 0.992,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAARABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAApEAACAgAFAgQHAAAAAAAAAAABAgADBAUREiExNAYTcbEiQVFygaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHREAAQQCAwAAAAAAAAAAAAAAAAECAzEEESFBYf/aAAwDAQACEQMRAD8Airy97Sm3Ta50DHgH+y42VCilLEofFO/IVgUUfjr7SrTsuFRoYg06bX39ADryNZFmN6Yplra65GqXlg2u79xuzJHeEWYsbebNOzKVubeyeSSB8KroIlCvxDbhcPTh6mXbVWF1Yck/WIUypETWxLDGq0Z2Xd232yEdzb6n3iJJ9lm9HbfL0EREzgWz/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://materskaskoladobre.cz/verejna-fotogalerie/",
+"typ": "budova",
+"url": "https://materskaskoladobre.cz/wp-content/uploads/IMG_20260924_205802.png",
+"w": 1044
+},
+{
+"alt": "IMG_2223",
+"barva": "#9c897f",
+"dh": "2336666a3c9ab63e",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://materskaskoladobre.cz/verejna-fotogalerie/",
+"typ": "interier",
+"url": "https://materskaskoladobre.cz/wp-content/uploads/IMG_2223-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "IMG-20260915-WA0034",
+"barva": "#6b6d52",
+"dh": "3131b56569382422",
+"h": 902,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://materskaskoladobre.cz/verejna-fotogalerie/",
+"typ": "zahrada",
+"url": "https://materskaskoladobre.cz/wp-content/uploads/IMG-20260915-WA0034.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_2219",
+"barva": "#9d7b6e",
+"dh": "29c5db3806ce9617",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://materskaskoladobre.cz/verejna-fotogalerie/",
+"typ": "interier",
+"url": "https://materskaskoladobre.cz/wp-content/uploads/IMG_2219-scaled.jpeg",
 "w": 1200
 }
 ],
