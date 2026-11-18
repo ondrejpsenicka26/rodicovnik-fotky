@@ -1,14 +1,9 @@
-[03:59:53] Část 17/20: webů 156, hotovo 168, zbývá 10
-[04:00:11] https://dshangarek.cz/broucek-zlin: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
-[04:00:23] https://oznicanek.oznice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 3 fotek ke kontrole
-[04:00:33] https://aktivnezivotem.cz/detska-skupina-aktivacek/detska-skupina-aktivacek-otrokovice: 2 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 7 fotek ke kontrole
-[04:00:36] https://dszelenka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 29 fotek ke kontrole
-[04:00:40] https://akropolis-uh.cz/miniskolka-uherske-hradiste: 5 stránek (galerie mimo web: 1 ['akropolisuh.rajce.idnes.cz'], alb: 0), 68 obrázků, 4 fotek ke kontrole
-[04:00:41] https://hb.charita.cz/jak-pomahame/detska-skupina-brodsti-broucci: 9 stránek (galerie mimo web: 0 [], alb: 0), 95 obrázků, 34 fotek ke kontrole
-[04:00:41] https://vsestary-obec.cz/obec/detska-skupina-vseslicky: 13 stránek (galerie mimo web: 0 [], alb: 0), 212 obrázků, 0 fotek ke kontrole
-[04:00:52] https://rckulihrasek.cz/locations/detska-skupina-kuliklubicko-rc-kulihrasek: 9 stránek (galerie mimo web: 1 ['kulihrasek-pce.rajce.idnes.cz'], alb: 0), 62 obrázků, 23 fotek ke kontrole
-[04:01:30] https://namestnosl.cz/detska-skupina-pri-ms-husova/ds-1187: nedostupné nebo zakázané
-[04:02:38] https://slunickopardubice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 21 fotek ke kontrole
-[04:02:53] tříděno 0/126
-[04:03:08] Dávka 1: hotovo 178/156, se fotkami 41; {'ok': 12, 'lide': 5, 'jine': 69, 'sablona': 0}
-[04:03:08] Konec: školek s fotkami 41; {'ok': 12, 'lide': 5, 'jine': 69, 'sablona': 0}
+[08:51:26] Část 17/20: webů 158, hotovo 178, zbývá 5
+[08:51:34] https://msoslov.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
+[08:51:39] https://zsamsstrizov.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 1 fotek ke kontrole
+[08:51:43] https://1msprotivin.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
+[08:52:34] https://mschysky.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 191 obrázků, 7 fotek ke kontrole
+[08:53:08] https://zspopelin.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 526 obrázků, 5 fotek ke kontrole
+[08:53:22] tříděno 0/25
+[08:53:23] Dávka 1: hotovo 183/158, se fotkami 43; {'ok': 6, 'lide': 1, 'jine': 17, 'sablona': 0}
+[08:53:23] Konec: školek s fotkami 43; {'ok': 6, 'lide': 1, 'jine': 17, 'sablona': 0}
