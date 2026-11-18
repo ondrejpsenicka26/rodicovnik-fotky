@@ -1,4 +1,2 @@
-[12:54:29] Část 14/20: webů 188, hotovo 233, zbývá 1
-[12:54:45] https://mocovice.cz/obec/materska-skola/o-skole: 7 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 0 fotek ke kontrole
-[12:54:45] Dávka 1: hotovo 234/188, se fotkami 67; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
-[12:54:45] Konec: školek s fotkami 67; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[13:31:10] Část 14/20: webů 186, hotovo 234, zbývá 0
+[13:31:10] Konec: školek s fotkami 67; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
