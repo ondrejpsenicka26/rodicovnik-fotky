@@ -102,6 +102,62 @@
 "w": 900
 }
 ],
+"detska-skupina-dubinek-semin-ds02178": [
+{
+"alt": "MŠ v roce 2015",
+"barva": "#ac9a83",
+"dh": "c4f0b99d39393779",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAE/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQREiExBQaBMlFhcZH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AEVzO88zaXUImNDByPO1Y4uszWlyUuJVmjLEAMMMoHsRz5/aPw3VxDa6FlBTGMFRx981nkvJGYkhdRPqxuKxrpfSkYvk7otI2wYpj8gCqhUt1JI2W3OMVU+tBcH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mssemin.cz/",
+"typ": "budova",
+"url": "https://www.mssemin.cz/wp-content/gallery/skolka/8703.jpg",
+"w": 900
+},
+{
+"alt": "MŠ v roce 2024 - interiér",
+"barva": "#785e53",
+"dh": "0ee7e96de1638690",
+"h": 675,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mssemin.cz/",
+"typ": "interier",
+"url": "https://www.mssemin.cz/wp-content/gallery/skolka/IMG_20240130_105216.jpg",
+"w": 900
+},
+{
+"alt": "MŠ v roce 2024",
+"barva": "#657b75",
+"dh": "4cd603252f67676f",
+"h": 514,
+"jistota": 0.995,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mssemin.cz/",
+"typ": "zahrada",
+"url": "https://www.mssemin.cz/wp-content/gallery/skolka/20240226_193856.jpg",
+"w": 900
+},
+{
+"alt": "MŠ v roce 2024",
+"barva": "#606362",
+"dh": "fedee4f07c7c4ead",
+"h": 675,
+"jistota": 0.998,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mssemin.cz/",
+"typ": "budova",
+"url": "https://www.mssemin.cz/wp-content/gallery/skolka/IMG_20240130_122040.jpg",
+"w": 900
+}
+],
 "detska-skupina-havranek-ds00875": [
 {
 "alt": "",
@@ -231,6 +287,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-kouzelny-kloboucek-ds00894": [
+{
+"alt": "",
+"barva": "#82764f",
+"dh": "1a0cae988c2e2b03",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABBESIRMiMUEjUVL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQT/xAAaEQADAAMBAAAAAAAAAAAAAAAAAREDEiFR/9oADAMBAAIRAxEAPwBGUW8ssKFBhu0uOGB8VPeXZMpYiPcgk6LhT9AViwuVBfqZ2/Xmr0WK+UbA6hC2fdZnke0nBpL05Wm0turSgo3sBqKQja2+LC9vHIzRTiLGf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.jinaskolka.cz/",
+"typ": "interier",
+"url": "https://www.jinaskolka.cz/wp-content/uploads/2025/07/20250715_092937.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#655f5a",
+"dh": "a7a7a7272f5cda5b",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.jinaskolka.cz/jina-skolka-syrovatka/",
+"typ": "interier",
+"url": "https://www.jinaskolka.cz/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-19.15.07-2.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-loucka-2-ds01776": [
 {
 "alt": "Jak funguje dětská skupina?",
@@ -351,6 +437,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-siska-ii-ds11032": [
+{
+"alt": "",
+"barva": "#847873",
+"dh": "d4d29dd7d1d5d117",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAiEAACAgICAQUBAAAAAAAAAAABAgMRAAQSMUETFSFRccH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQEAAwEAAAAAAAAAAAAAAAEAAhNREf/aAAwDAQACEQMRAD8AeSRDuwc+SsKrj0f3EQLJEFDLKlsQAaIN9jzeSsPrTRzq3wKNYntqAWZCKLHr7IP8wCgTQ9bNsb8OrKYnWTkB4TvDKd7TWacEXIFULyuusMrvy7S0nL//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.bory.cz/obec-bory/nase-projekty/skolni-jidelna",
+"typ": "budova",
+"url": "https://www.bory.cz/images/stories/P1060764.JPG",
+"w": 799
+},
+{
+"alt": "",
+"barva": "#bda489",
+"dh": "d217f6766733c34f",
+"h": 674,
+"jistota": 0.994,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.bory.cz/obec-bory/nase-projekty/skolni-jidelna",
+"typ": "interier",
+"url": "https://www.bory.cz/images/xgalerie/resized/1801-1900/250130__1__page_0003-1869-1200-900-90-center-middle.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#787783",
+"dh": "62cbb553d291e963",
+"h": 600,
+"jistota": 0.996,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.bory.cz/obec-bory/nase-projekty/re",
+"typ": "budova",
+"url": "https://www.bory.cz/images/stories/P1060386_copy.JPG",
+"w": 799
+},
+{
+"alt": "",
+"barva": "#bfa586",
+"dh": "a986c0c1d0cc6470",
+"h": 674,
+"jistota": 0.993,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.bory.cz/obec-bory/nase-projekty/skolni-jidelna",
+"typ": "interier",
+"url": "https://www.bory.cz/images/xgalerie/resized/1801-1900/250130__1__page_0002-1868-1200-900-90-center-middle.jpg",
+"w": 1200
+}
+],
 "detska-skupina-smoulka-ds00513": [
 {
 "alt": "Jak to u nás vypadá",
@@ -379,6 +521,53 @@
 "typ": "zahrada",
 "url": "https://smoulka.cz/assets/zahrada-zahrada-JEdrfEgB.webp",
 "w": 1200
+}
+],
+"detska-skupina-svet-objevu-ds02382": [
+{
+"alt": "Dětský hrací prostor s barevným měkkým sedacím nábytkem na béžovo-bílém koberci, dřevěný regál s různými plyšáky a dřevě",
+"barva": "#aba398",
+"dh": "0d12b2b015133e36",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACUQAAIBAgQGAwAAAAAAAAAAAAECAwARBAUSIRMiMVFh0UFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABoRAAMAAwEAAAAAAAAAAAAAAAABEQISIWH/2gAMAwEAAhEDEQA/AK0c0cLkPIGI7Dr9VnjzVrtqljN2JXULbfAp8EUQU6SGPYrbelzRSWk4aREFeQOOh9UHl2CSUo+HGhowZGQN4PuioeMyd8VKJTLwHZRrRdxq8flFW3pkP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolickasvetobjevu.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/678e1d5343cb29c3b6d009e7/67feb3ae9045a38d8829d584_svetobjevu-interier-1.webp",
+"w": 1200
+},
+{
+"alt": "Dětský herní prostor s barevnými polštářky na podlaze, modrým herním tunelem na černém koberci a dřevěnými policemi plný",
+"barva": "#b48f81",
+"dh": "d55137465733b54f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolickasvetobjevu.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/678e1d5343cb29c3b6d009e7/67feb3ae6ed394131688a112_svetobjevu-interier-4.webp",
+"w": 1200
+}
+],
+"detska-skupina-tlapicka-ds02296": [
+{
+"alt": "",
+"barva": "#8a7d62",
+"dh": "58110c1498c71159",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUG/8QAJRAAAgIBAwQBBQAAAAAAAAAAAQIAAxEEITESE0FhIgUkcZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABsRAAMAAgMAAAAAAAAAAAAAAAABAhESAyFS/9oADAMBAAIRAxEAPwBNPrKu4jWIxUHJHTz6kz6lNRa1l1nyY5Ox3/ETT29mw0lB3Fz1IynI8/yF2vrY2V2adthhSo5yIalNdCbNMcvSuPtwfdjEE/qEe9tNaa+hwAiKvnxCQVlFb4syO2QwCsCOQcSap6WsFfWBczKqr5IPJmYrMEG54lG4l/qBDEkCvI9TckZkJUzesVO4ytZSrKSpDkZ2PuE5h2ZrGLMSc8k5hB0r0dyf/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ymcastaryplzenec.cz/hernicka/",
+"typ": "interier",
+"url": "https://www.ymcastaryplzenec.cz/wp-content/uploads/2024/05/hernicka-foto.jpg",
+"w": 900
 }
 ],
 "detska-skupina-vcelicky-ds11243": [
