@@ -102,6 +102,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-misa-skolka-petrvald-ds10336": [
+{
+"alt": "trebovice4",
+"barva": "#848683",
+"dh": "3359c9bb94962384",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEABBIFIUEiMVEyYXGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAwDAQACEQMRAD8AcNWLlwGrNgvIgrK1qxzSDHTt55Nc7jVbVm7YbDRDbicnFrJTifEDkc0EsMm4D2JzEQMzG3ttWCytSgoUzKScvUZn53ppiIarWtPCiAp0iTBA7/Zqo7bDCG0oCJSkQMoJ/KqlYiP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.misaskolka.cz/o-skolce-trebovice/skolka/fotogalerie-skolka-2/",
+"typ": "budova",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2021/12/trebovice4.jpg",
+"w": 1200
+},
+{
+"alt": "senov5",
+"barva": "#65745e",
+"dh": "0d2227b33255052c",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.misaskolka.cz/misa-skolka-senov/fotogalerie-skolka-senov/",
+"typ": "zahrada",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2023/08/senov5.jpg",
+"w": 1200
+},
+{
+"alt": "trebovice1",
+"barva": "#8c8981",
+"dh": "8b9494a5600d286c",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.misaskolka.cz/o-skolce-trebovice/skolka/fotogalerie-skolka-2/",
+"typ": "budova",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2021/12/trebovice1.jpg",
+"w": 1200
+},
+{
+"alt": "trebovice6",
+"barva": "#7a8570",
+"dh": "1c1b726cec1c74de",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.misaskolka.cz/o-skolce-trebovice/skolka/fotogalerie-skolka-2/",
+"typ": "zahrada",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2021/12/trebovice6.jpg",
+"w": 1200
+}
+],
 "detska-skupina-pidi-midi-treboradice-ds01994": [
 {
 "alt": "",
@@ -158,6 +214,36 @@
 "w": 722
 }
 ],
+"detska-skupina-provazek-ds02011": [
+{
+"alt": "IMG_5843.JPEG",
+"barva": "#857f69",
+"dh": "88313496ce197864",
+"h": 900,
+"jistota": 0.983,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCA//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERITMSEiUUFhgZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAEgERIUH/2gAMAwEAAhEDEQA/AOtsqI+JRocnoNzBHyKPGsr7txIztkjDnGQP2pzFRAbi5BlkRwnc3Tz6UivHYNIIImjAAII8+/NSa4wXSnAkLx6o5lCk8Y4pWksYZY1dlkiJUdqvx9UouJD/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsprovazek.cz/cs/fotogalerie/16/",
+"typ": "interier",
+"url": "https://www.dsprovazek.cz/UserFiles/94/Image/1739797857IMG-5843.JPEG",
+"w": 1200
+},
+{
+"alt": "IMG_5842.JPEG",
+"barva": "#918c70",
+"dh": "38502c3ca68b8b1c",
+"h": 900,
+"jistota": 0.974,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsprovazek.cz/cs/fotogalerie/16/",
+"typ": "interier",
+"url": "https://www.dsprovazek.cz/UserFiles/94/Image/1739797856IMG-5842.JPEG",
+"w": 1200
+}
+],
 "detska-skupina-shining-smile-ds02287": [
 {
 "alt": "",
@@ -175,6 +261,36 @@
 "w": 960
 }
 ],
+"detska-skupina-vesela-skolicka-zuzanka-turany-ds00592": [
+{
+"alt": "Kobylnice",
+"barva": "#838e87",
+"dh": "839ff9c996c64b09",
+"h": 900,
+"jistota": 0.979,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACUQAAIBAwIFBQAAAAAAAAAAAAECAwAEEQUTEiEiMZEyQVJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAQACAwAAAAAAAAAAAAAAAAAREwECQf/aAAwDAQACEQMRAD8Aqm9t1BMYEjYzhXGKS+pXYlRE2Ioj6nxxlR9nH5UaFtpuODobsSvfFNkuZpY2heYMH5HoGfNG7HRhva5LHL6pMCfi6qPFFRdj2aRs0Vtuqh//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://veselaskolickazuzanka.cz/",
+"typ": "budova",
+"url": "https://veselaskolickazuzanka.cz/wp-content/uploads/2024/02/IMG_4079-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "Brno Tuřany",
+"barva": "#485867",
+"dh": "02162e66eee6831b",
+"h": 900,
+"jistota": 0.979,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://veselaskolickazuzanka.cz/",
+"typ": "budova",
+"url": "https://veselaskolickazuzanka.cz/wp-content/uploads/turany-web-scaled.jpg",
+"w": 1200
+}
+],
 "detska-skupina-veverky-ds01557": [
 {
 "alt": "",
@@ -190,6 +306,23 @@
 "typ": "budova",
 "url": "https://mspoznanska.cz/w/wp-content/uploads/2022/10/IMG_20221004_160932aaa.jpg",
 "w": 1200
+}
+],
+"detska-skupina-zvidalek-ds02002": [
+{
+"alt": "og",
+"barva": "#9c988c",
+"dh": "10381874f29a0f93",
+"h": 525,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBAX/xAAiEAACAgICAAcAAAAAAAAAAAABAgADBBESIRRBUWFxsfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/ANLwRUbZwvyYlQoZ+NoIU6JH73ki22ZWQqNYzMx2AOuzHjAHJuDEEMQe/MHv6mFaNdDOgIOx6wkFNt+IGrV9gtyhFwj/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zvidaleksardice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://5f5d0be14b.clvaw-cdnwnd.com/96747f5168c3dd17a3dc8d1fbd83b961/200000004-1b31f1b320/700/Herna%201.A.jpeg?ph=5f5d0be14b",
+"w": 700
 }
 ],
 "lesni-materska-skola-semicek-087812": [
@@ -669,6 +802,49 @@
 "stranka": "https://www.ms-zvidalek.cz",
 "typ": "budova",
 "url": "https://static.wixstatic.com/media/e1b3e0_acd37cc1efb24a6aa67252976101fc60~mv2.jpeg",
+"w": 1200
+}
+],
+"sovicky-detska-skupina-ds01077": [
+{
+"alt": "",
+"barva": "#737972",
+"dh": "777d7b690516c4c5",
+"h": 784,
+"jistota": 0.891,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EACAQAAICAQUAAwAAAAAAAAAAAAECAxEABAUhMWFBceH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABsRAAICAwEAAAAAAAAAAAAAAAACAVEDEhQx/9oADAMBAAIRAxEAPwB4960wgRBpnYqoHBv4+sKTc2LArAAvo/c5csYSZgnAFULPWaBHGY6K8NV895LZ2WPQlFHfdirEHTKfReWHQQBVBAHpyyOprDRaP//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://evakiedronova.cz/programy/rozcestnik-ds/detska-skupina-sovicky/",
+"typ": "zahrada",
+"url": "https://evakiedronova.cz/wp-content/uploads/2024/06/zahr-7-min.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7b7b5c",
+"dh": "36664c5c4fadbd9d",
+"h": 800,
+"jistota": 0.884,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://evakiedronova.cz/programy/rozcestnik-ds/detska-skupina-sovicky/",
+"typ": "les",
+"url": "https://evakiedronova.cz/wp-content/uploads/2024/06/zahr-3-min.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#918066",
+"dh": "cd8fcf5749c9d393",
+"h": 800,
+"jistota": 0.59,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://evakiedronova.cz/programy/rozcestnik-ds/detska-skupina-sovicky/",
+"typ": "les",
+"url": "https://evakiedronova.cz/wp-content/uploads/2024/06/kennypark-5-min.jpg",
 "w": 1200
 }
 ],
