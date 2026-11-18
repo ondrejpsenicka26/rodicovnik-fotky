@@ -1,9 +1,2 @@
-[10:15:22] Část 9/20: webů 151, hotovo 201, zbývá 5
-[10:15:36] https://prostejovicky.cz/o-obci/organizace-a-kluby/materska-skola-prostejovicky.html: 4 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 1 fotek ke kontrole
-[10:16:07] https://msbrodekupv.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 177 obrázků, 0 fotek ke kontrole
-[10:16:19] https://skolaskalicka.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 83 obrázků, 39 fotek ke kontrole
-[10:16:25] https://mshrochuvtynec.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 0 fotek ke kontrole
-[10:16:39] https://ms-starymaterov.eu: 24 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 13 fotek ke kontrole
-[10:16:52] tříděno 0/53
-[10:16:53] Dávka 1: hotovo 206/151, se fotkami 73; {'ok': 0, 'lide': 2, 'jine': 51, 'sablona': 0}
-[10:16:53] Konec: školek s fotkami 73; {'ok': 0, 'lide': 2, 'jine': 51, 'sablona': 0}
+[10:40:14] Část 9/20: webů 150, hotovo 206, zbývá 0
+[10:40:14] Konec: školek s fotkami 73; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
