@@ -153,6 +153,36 @@
 "w": 1024
 }
 ],
+"detska-skupina-kostelicek-ds11146": [
+{
+"alt": "",
+"barva": "#a18160",
+"dh": "59329bccda9b9b3d",
+"h": 639,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAhEAACAQMFAAMAAAAAAAAAAAABAgMABBESISJBURMjcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/ALEupk+KOUfWjALt7tWSXcVnIUuGeYrnnjcd9VJHKz8s8ffaXLpMju+dT4y34MVMaXNR5Bni94KWYOSM6gMZori3hkNw2idlXoAUU9I43//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dskostelicek.cz/",
+"typ": "interier",
+"url": "https://www.dskostelicek.cz/data/headerfooter/header_images/img20260713150347.png",
+"w": 852
+},
+{
+"alt": "",
+"barva": "#aa9484",
+"dh": "dee6e2d9597292dc",
+"h": 614,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dskostelicek.cz/",
+"typ": "interier",
+"url": "https://www.dskostelicek.cz/data/headerfooter/header_images/img20260713150412.png",
+"w": 819
+}
+],
 "detska-skupina-materidouska-ds00136": [
 {
 "alt": "Mateřídouška",
@@ -330,6 +360,49 @@
 "stranka": "https://www.skolickapodvysehradem.cz/o-nas/",
 "typ": "interier",
 "url": "https://2e3c6dbf47.clvaw-cdnwnd.com/aa95fed7f1b05e656452fd9f597ddd43/200000031-35efb35efd/393668635_1711040149377313_8167214958729031054_n.jpeg?ph=2e3c6dbf47",
+"w": 1200
+}
+],
+"detska-skupina-sovicka-ds01143": [
+{
+"alt": "",
+"barva": "#919e9e",
+"dh": "1033336343d60603",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDBAARBTETYRIhof/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQADAQADAAAAAAAAAAAAAAAAAQISIeHw/9oADAMBAAIRAxEAPwCanKmEM1lmkX6A9HG/GTx2K/kcqrAkEdfmLIqsRIYqux6ztSrH42UAAN3oaxVzTaBCcykytzkpK9p0ijMidgqm8MyZPGfiGYgdbww4rz6Fpn//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://dssovicka.cz/o-nas/",
+"typ": "interier",
+"url": "http://dssovicka.cz/wp-content/uploads/2020/08/Sovicka-4-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#959b96",
+"dh": "1125919585860707",
+"h": 800,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "http://dssovicka.cz/o-nas/",
+"typ": "interier",
+"url": "http://dssovicka.cz/wp-content/uploads/2020/08/Sovicka-2-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#d2c6ad",
+"dh": "3f4b1f171797b733",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "http://dssovicka.cz/o-nas/",
+"typ": "hygiena",
+"url": "http://dssovicka.cz/wp-content/uploads/2020/08/Sovicka-78-2.jpg",
 "w": 1200
 }
 ],
