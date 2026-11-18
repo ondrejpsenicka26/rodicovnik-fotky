@@ -1,4 +1,60 @@
 {
+"baby-resort-tabulovy-vrch-a-detska-skupina-ds01785": [
+{
+"alt": "",
+"barva": "#757d7d",
+"dh": "d32773b8fb734b31",
+"h": 544,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBP/EACMQAAICAgECBwAAAAAAAAAAAAECABEDBCESMRQiUWFxgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABcRAQEBAQAAAAAAAAAAAAAAAAARARL/2gAMAwEAAhEDEQA/ABy4gTd2LIJFcwm5jDUFftflYH9kVmdeenj2ksjsEHwsutEZybmsrU+Vb+zE5DouxvxL8+oBiNEf/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.babyresort.cz/detska-skupina-tabulovy-vrch-olomouc/",
+"typ": "budova",
+"url": "https://eefd7cac98.clvaw-cdnwnd.com/003c4230f50b0d7e0847ba0bec1149a6/200001020-0e9290e92a/provoz%20Tabulov%C3%BD%20vrch%201.jpeg?ph=eefd7cac98",
+"w": 868
+},
+{
+"alt": "",
+"barva": "#c4bab4",
+"dh": "80d08889880e0380",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.babyresort.cz/detska-skupina-tabulovy-vrch-olomouc/",
+"typ": "interier",
+"url": "https://eefd7cac98.clvaw-cdnwnd.com/003c4230f50b0d7e0847ba0bec1149a6/200001567-5509355096/08_IMG_1599_1.jpeg?ph=eefd7cac98",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#93958b",
+"dh": "262fc7305d83e33e",
+"h": 467,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.babyresort.cz/fotogalerie-tabulovy-vrch/",
+"typ": "budova",
+"url": "https://eefd7cac98.clvaw-cdnwnd.com/003c4230f50b0d7e0847ba0bec1149a6/200001747-d8830d8832/700/imgi_3_IMG_6433_1.jpeg?ph=eefd7cac98",
+"w": 700
+},
+{
+"alt": "",
+"barva": "#bcb9a5",
+"dh": "e0615adac8f4591a",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.babyresort.cz/detska-skupina-tabulovy-vrch-olomouc/",
+"typ": "interier",
+"url": "https://eefd7cac98.clvaw-cdnwnd.com/003c4230f50b0d7e0847ba0bec1149a6/200001779-14dd814dda/imgi_20_IMG_0862.jpeg?ph=eefd7cac98",
+"w": 1200
+}
+],
 "detska-skupina-bona-ds00427": [
 {
 "alt": "",
@@ -96,6 +152,36 @@
 "typ": "interier",
 "url": "https://kiddum.cz/storage/2022/04/01/8c985f1707004f719579e8907b51c0e597e0a8cc.png",
 "w": 1200
+}
+],
+"detska-skupina-ctyrlistek-ds01805": [
+{
+"alt": "",
+"barva": "#a4a195",
+"dh": "b690c46ceca29a3a",
+"h": 1200,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBBQYD/8QAKBAAAgEDAwMCBwAAAAAAAAAAAQIDAAQREiFBBTFRYXITMzRDcbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAjH/2gAMAwEAAhEDEQA/AGbbqkCXjrOzIzOVALZ58CpF8mt1GorrwCrb4z4pKfqMCocuruCSPhHfvyeK0EkUkvSrV7MKuuNSSVGTkcnzWIkXTaRysmgMTapsHUdmfcelFXMFvGIE1xRB8DVhABmiqkKZOM2rSy6bQHTIVbRGue/emB1WK3dImnlRAmxPG/b0xTlt973n91XX31Dfk0lHB+26nHJGSl4xGeWopCy+W3u/gorUJT//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.spolek-ctyrlistek.cz/herna/",
+"typ": "interier",
+"url": "https://86fa6067a6.clvaw-cdnwnd.com/8ca949565e036fe0371dd64e0978416e/200011458-b726fb7271/Pob%C5%99e%C5%BEn%C3%AD.png?ph=86fa6067a6",
+"w": 960
+},
+{
+"alt": "og",
+"barva": "#9c9285",
+"dh": "04040405350c2c3b",
+"h": 525,
+"jistota": 0.761,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.spolek-ctyrlistek.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://86fa6067a6.clvaw-cdnwnd.com/8ca949565e036fe0371dd64e0978416e/200000241-24ba624ba9/700/IMG_20230904_165921-2.jpeg?ph=86fa6067a6",
+"w": 700
 }
 ],
 "detska-skupina-flupik-i-ds00444": [
@@ -311,6 +397,36 @@
 "typ": "hygiena",
 "url": "https://2706c53fc2.clvaw-cdnwnd.com/780c85b1939a2c397ca3c2f43bfb23f4/200000278-a8a58a8a5a/%C5%A0atna.jpg?ph=2706c53fc2",
 "w": 674
+}
+],
+"detska-skupina-slunicka-lovosice-ii-ds01625": [
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgADERIxIUEFBFFhcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAARESE//aAAwDAQACEQMRAD8A0r+TR1OAqDIauOIy+bszIlC62sb9dbnIzOveMH+BzuH1UkWD1lIlruhIPOQI/DCRgL0oH1CHs3iv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+},
+{
+"alt": "Teplice",
+"barva": "#7f6f55",
+"dh": "929494a5a7f0f81d",
+"h": 683,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
+"w": 1024
 }
 ],
 "detska-skupina-smisek-ds00742": [

@@ -1,12 +1,13 @@
-[00:41:40] Část 9/20: webů 123, hotovo 146, zbývá 8
-[00:41:49] https://permonici.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 1 fotek ke kontrole
-[00:42:06] https://mcsedmikraskabrno.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 18 fotek ke kontrole
-[00:42:11] https://skolkasmisek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 12 fotek ke kontrole
-[00:42:34] https://dszvonicka.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 16 fotek ke kontrole
-[00:43:16] https://skolazso.edupage.org: nedostupné nebo zakázané
-[00:43:16] http://zskresice.cz: nedostupné nebo zakázané
-[00:43:16] http://www.zspotucky.cz: nedostupné nebo zakázané
-[00:43:16] http://www.zsprotivanov.cz: nedostupné nebo zakázané
-[00:43:32] tříděno 0/47
-[00:43:36] Dávka 1: hotovo 154/123, se fotkami 51; {'ok': 11, 'lide': 1, 'jine': 9, 'sablona': 0}
-[00:43:36] Konec: školek s fotkami 51; {'ok': 11, 'lide': 1, 'jine': 9, 'sablona': 0}
+[02:14:03] Část 9/20: webů 127, hotovo 154, zbývá 9
+[02:14:07] https://odrivousek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[02:14:07] https://skolka-amalka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
+[02:14:10] https://bimbonido.cz: nedostupné nebo zakázané
+[02:14:13] https://mamutikprerov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 3 fotek ke kontrole
+[02:14:16] https://duhovydum.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 5 fotek ke kontrole
+[02:14:21] https://babyresort.cz/detska-skupina-tabulovy-vrch-olomouc: 4 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 14 fotek ke kontrole
+[02:14:25] https://dsslunicka.cz/lovosice/detska-skupina-slunicka-lovosice-ii: 4 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 28 fotek ke kontrole
+[02:14:26] https://dsbabyjump.eschool.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 1 fotek ke kontrole
+[02:15:03] https://spolek-ctyrlistek.cz/detska-skupina-ctyrlitek: 20 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 20 fotek ke kontrole
+[02:15:22] tříděno 0/72
+[02:15:28] Dávka 1: hotovo 163/127, se fotkami 54; {'ok': 8, 'lide': 2, 'jine': 52, 'sablona': 0}
+[02:15:28] Konec: školek s fotkami 54; {'ok': 8, 'lide': 2, 'jine': 52, 'sablona': 0}
