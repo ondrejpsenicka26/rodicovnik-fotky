@@ -98,6 +98,36 @@
 "w": 1000
 }
 ],
+"detska-skupina-montessori-kladno-1-ds01278": [
+{
+"alt": "",
+"barva": "#7b736b",
+"dh": "456565ecdc935151",
+"h": 675,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEDBAUG/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDAAQRMRIhE0FRYXGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREiH/2gAMAwEAAhEDEQA/AFeXnmhWK2QO+Q3WxTnu5nt3hFu3bAk4Gd5rnxK6eNVbADch9+9SQ3U4bAlbBbO/mocky80b01zBI/JeXfoF1RVCVQzkn9ooyHD/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.montessorikladno.cz/sluzby/",
+"typ": "interier",
+"url": "https://33d455b2ce.clvaw-cdnwnd.com/8663d3c370c7a002c331d38c55768471/200000472-0121d0121f/20240830_173122.jpeg?ph=33d455b2ce",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#908a86",
+"dh": "53535bcb99303fff",
+"h": 675,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.montessorikladno.cz/sluzby/",
+"typ": "interier",
+"url": "https://33d455b2ce.clvaw-cdnwnd.com/8663d3c370c7a002c331d38c55768471/200000476-4b32d4b331/20240830_184534.jpeg?ph=33d455b2ce",
+"w": 1200
+}
+],
 "detska-skupina-progres-haje-ds02140": [
 {
 "alt": "",
@@ -863,6 +893,23 @@
 "stranka": "https://www.svabenice.cz/fotogalerie/rekonstrukce-toalet-ms-2020",
 "typ": "hygiena",
 "url": "http://www.svabenice.cz/image.php?oid=7744622",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-tehov-055112": [
+{
+"alt": "",
+"barva": "#71736d",
+"dh": "9333725287f5d31e",
+"h": 899,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2OTApLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQL/xAAiEAACAQMDBQEAAAAAAAAAAAABAgMABBEFIVESEyIygZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAbEQACAwADAAAAAAAAAAAAAAAAAgEREjFRYf/aAAwDAQACEQMRAD8AcOuWsMWWdpHbYLgjf82qfDrtyks7PECrNlQwOABxSpveo+LkfKyb1kBzI5BoqvEckZ11VDZ1czMXebtkn1BziipzXMbMSUGTyooplu5NbXw//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zstehov.cz/",
+"typ": "zahrada",
+"url": "https://cloud-6.edupage.org/cloud?z%3AGXwdvzXggRj4JZfccI7Qd0Mpjyrgg0Y2xwmoTY91RmOUNCioDvIAW7PIvR18yfoYe9Y5Y7DQlRlaGTXPuinOX4n7rEK1c%2F9l1sdW%2BLafjC3FfibwzoQ52U3yw1hyKlsE",
 "w": 1200
 }
 ],
