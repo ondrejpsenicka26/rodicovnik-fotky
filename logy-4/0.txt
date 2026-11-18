@@ -1,2 +1,12 @@
-[09:44:28] Část 1/20: webů 143, hotovo 185, zbývá 0
-[09:44:28] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:33] Část 1/20: webů 151, hotovo 185, zbývá 8
+[09:54:36] https://mssirokybrod.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:58] https://msuhricice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 67 obrázků, 44 fotek ke kontrole
+[09:55:25] https://skolamricna.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 311 obrázků, 13 fotek ke kontrole
+[09:55:27] https://msbilov.bilov.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 223 obrázků, 15 fotek ke kontrole
+[09:55:38] https://zsamskunratice.cz: 25 stránek (galerie mimo web: 86 ['zskunartice.rajce.idnes.cz'], alb: 16), 218 obrázků, 26 fotek ke kontrole
+[09:55:40] https://skolabrumovice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 168 obrázků, 44 fotek ke kontrole
+[09:55:42] https://mshoudkovice.cz: 7 stránek (galerie mimo web: 1 ['mshoudkovice.rajce.idnes.cz'], alb: 1), 85 obrázků, 20 fotek ke kontrole
+[09:57:42] https://ms-libstat.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 41 fotek ke kontrole
+[09:58:03] tříděno 0/203
+[09:58:29] Dávka 1: hotovo 193/151, se fotkami 69; {'ok': 12, 'lide': 15, 'jine': 137, 'sablona': 0}
+[09:58:29] Konec: školek s fotkami 69; {'ok': 12, 'lide': 15, 'jine': 137, 'sablona': 0}

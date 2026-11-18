@@ -685,6 +685,23 @@
 "w": 1200
 }
 ],
+"materska-skola-bilov-624737": [
+{
+"alt": "og",
+"barva": "#756f5b",
+"dh": "d272f29b638b62e2",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFA//EACEQAAICAgICAwEAAAAAAAAAAAECAxEABBIhBUETIjFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxIT/9oADAMBAAIRAxEAPwAm89Gzco9OQSAH7g9X6yTDNuNLO5anlPIkDom/zKe7KuqnIubsALXWaRSl0BNg+8ydrKwhNHyu5DrhJ13Haz2qAgD+k4YywAlj8rizdVhjtIYP/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msbilov.bilov.cz/fotogalerie/stare-herni-prvky-uz-doslouzily-a-proto-je-nahradily-nove",
+"typ": "zahrada",
+"url": "http://msbilov.bilov.cz/image.php?oid=13716334",
+"w": 1200
+}
+],
 "materska-skola-brno-555122": [
 {
 "alt": "",
@@ -1079,6 +1096,62 @@
 "w": 1200
 }
 ],
+"materska-skola-libstat-586576": [
+{
+"alt": "",
+"barva": "#b6a17d",
+"dh": "697079e161c0c0f0",
+"h": 798,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCA//EACIQAAEEAQQCAwAAAAAAAAAAAAEAAgMRIQQFEjEiQRRxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECEiFR/9oADAMBAAIRAxEAPwC1q9wg+JG0uNtIt1YU7Tz85mcdU11nFMIIN99LZ25krQeZ8R7FoyMR0B6yMdKWYbemNVpcRSdNLfk+E/bSi6ueSfxFViPAen//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-libstat.cz/fotografie-skoly/",
+"typ": "interier",
+"url": "https://ms-libstat.cz/wp-content/uploads/2021/09/dsc_5620.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#959383",
+"dh": "f3a62cd161c1c327",
+"h": 798,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-libstat.cz/fotografie-skoly/",
+"typ": "zahrada",
+"url": "https://ms-libstat.cz/wp-content/uploads/2019/09/dsc_5722u.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a8a191",
+"dh": "e0e4e169e9cb2c7f",
+"h": 798,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms-libstat.cz/fotografie-skoly/",
+"typ": "interier",
+"url": "https://ms-libstat.cz/wp-content/uploads/2021/09/dsc_5567.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#aea070",
+"dh": "2787b4666361e29e",
+"h": 798,
+"jistota": 0.994,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://ms-libstat.cz/fotografie-skoly/",
+"typ": "zahrada",
+"url": "https://ms-libstat.cz/wp-content/uploads/2019/09/dsc_5709u.jpg",
+"w": 1200
+}
+],
 "materska-skola-nova-ves-530678": [
 {
 "alt": "",
@@ -1192,6 +1265,62 @@
 "stranka": "https://www.ms-podlipou.cz/index.php/zahrada/",
 "typ": "interier",
 "url": "https://www.ms-podlipou.cz/wp-content/uploads/2021/09/DSCN4003-scaled.jpg",
+"w": 1200
+}
+],
+"materska-skola-rozmarynka-uhricice-631211": [
+{
+"alt": "Jídelna s dřevěnými stoly a židlemi",
+"barva": "#776f62",
+"dh": "acada564b19cd4e3",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAkEAACAQMCBgMAAAAAAAAAAAABAgMABBEhMgUTFDFRcSJBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AIx8SjRbxgrtHPqSEyB37+Kt5sV1EGVGwNCoOv7WTibxWd11UNvHIkiYZXG3TQjwaXQzyyITA/IOdibffujYow8K42qcfWfFFLXvJ8/LBIGKKHMLX//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msuhricice.cz/fotogalerie",
+"typ": "interier",
+"url": "https://msuhricice.cz/media/ms-uhricice-jidelna-stoly-2.webp",
+"w": 1200
+},
+{
+"alt": "Dřevěná věž se skluzavkou na zahradě školky",
+"barva": "#74716d",
+"dh": "d8ccf82666f61e01",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msuhricice.cz/fotogalerie",
+"typ": "zahrada",
+"url": "https://msuhricice.cz/media/ms-uhricice-zahrada-skluzavka.webp",
+"w": 1200
+},
+{
+"alt": "Herna s úložnými boxy a herním koutkem",
+"barva": "#776256",
+"dh": "0f6de8a9cd9d3eff",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msuhricice.cz/fotogalerie",
+"typ": "interier",
+"url": "https://msuhricice.cz/media/ms-uhricice-herna-ulozne-boxy.webp",
+"w": 1200
+},
+{
+"alt": "Točítko a didaktické herní prvky na zahradě",
+"barva": "#7c8272",
+"dh": "19191921028e9175",
+"h": 900,
+"jistota": 0.997,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msuhricice.cz/fotogalerie",
+"typ": "zahrada",
+"url": "https://msuhricice.cz/media/ms-uhricice-zahrada-tocitko-herni-prvky-2.webp",
 "w": 1200
 }
 ],
@@ -1521,6 +1650,36 @@
 "w": 900
 }
 ],
+"zakladni-skola-a-materska-skola-brumovice-629496": [
+{
+"alt": "Výdejna stravy ZŠ",
+"barva": "#8f7762",
+"dh": "a5642ea2f2071b66",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAhEAACAgICAgMBAAAAAAAAAAABAgMRAAQSIQUxFCJhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAzFREv/aAAwDAQACEQMRAD8AtNNEUkdwFIIJ76a79ZMW7qtAojZKUEkmxX8v3i5vGpAWm25HKFrJQ2w/e8bx62lFrsywpwZeRYrZIrAnmUHdbGji9KuGdfLaLoCwcEjscfWGLJd35D8tfhHGPqAY7OGMra0E0un/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolabrumovice.cz/cs/stravovani/jidelnicek-zs/a-4/",
+"typ": "interier",
+"url": "https://www.skolabrumovice.cz/UserFiles/117/Image/178742185620260822-184434.jpg",
+"w": 1200
+},
+{
+"alt": "Výdejna stravy ZŠ",
+"barva": "#927d6b",
+"dh": "85cccb4be4c61d3c",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolabrumovice.cz/cs/stravovani/jidelnicek-zs/a-4/",
+"typ": "interier",
+"url": "https://www.skolabrumovice.cz/UserFiles/117/Image/1787421856IMG-20260822-WA0002.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-dolni-habartice-561018": [
 {
 "alt": "og",
@@ -1626,6 +1785,23 @@
 "typ": "interier",
 "url": "https://www.zsmsjevisovice.cz/mbfile-21317431_1457908580997104_6275909324463044144_n-97.jpg",
 "w": 960
+}
+],
+"zakladni-skola-a-materska-skola-mricna-036596": [
+{
+"alt": "og",
+"barva": "#968c88",
+"dh": "1b773c1f86c5a1e8",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUBBv/EACQQAAIBAgYBBQAAAAAAAAAAAAECAwARBBIhMUFhBRMyYnGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIRgf/aAAwDAQACEQMRAD8As4LzCTRXikQHkHcfdZLIWZn9Ms53ZTe/5XElnhbMjlW+OlVMH5uaQpDiGsGNsy7nrqhwoVKynJNGHN5ZWPOWNtOtKUDxt7JJFA0sOKVOFaf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolamricna.cz/materska-skola/fotogalerie/2024-2025/nova-loznice-563cs.html",
+"typ": "interier",
+"url": "https://www.skolamricna.cz/evt_image.php?img=5446",
+"w": 800
 }
 ],
 "zakladni-skola-a-materska-skola-nedomice-513901": [
