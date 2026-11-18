@@ -1,2 +1,16 @@
-[09:44:21] Část 8/20: webů 158, hotovo 196, zbývá 0
-[09:44:21] Konec: školek s fotkami 51; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:53:57] Část 8/20: webů 170, hotovo 196, zbývá 12
+[09:54:03] https://msvykleky.cz: nedostupné nebo zakázané
+[09:54:04] https://skolajetrichov.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
+[09:54:09] https://skolka-pohadka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 1 fotek ke kontrole
+[09:54:20] https://domasovnadbystrici.cz/materska-skola: 3 stránek (galerie mimo web: 1 ['msdomasovnadbystrici.rajce.idnes.cz'], alb: 0), 14 obrázků, 3 fotek ke kontrole
+[09:54:26] https://mshornidomaslavice.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 10 fotek ke kontrole
+[09:54:39] https://mshrabuvka.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 1 fotek ke kontrole
+[09:54:42] https://msunicov.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 2 fotek ke kontrole
+[09:54:43] https://ustin.cz/materska-skola-ustin: 10 stránek (galerie mimo web: 0 [], alb: 0), 88 obrázků, 5 fotek ke kontrole
+[09:54:52] https://msplavy.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 6 fotek ke kontrole
+[09:55:01] https://ms-milenov.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 79 obrázků, 0 fotek ke kontrole
+[09:55:11] https://skolapotstejn.cz: 32 stránek (galerie mimo web: 1 ['skolka-potstejn.rajce.idnes.cz'], alb: 1), 340 obrázků, 6 fotek ke kontrole
+[09:56:20] https://skolky.turnov.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 266 obrázků, 5 fotek ke kontrole
+[09:56:29] tříděno 0/40
+[09:56:29] Dávka 1: hotovo 208/170, se fotkami 52; {'ok': 1, 'lide': 2, 'jine': 37, 'sablona': 0}
+[09:56:29] Konec: školek s fotkami 52; {'ok': 1, 'lide': 2, 'jine': 37, 'sablona': 0}
