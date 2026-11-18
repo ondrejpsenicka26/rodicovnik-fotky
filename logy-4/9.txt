@@ -1,13 +1,9 @@
-[00:41:57] Část 10/20: webů 142, hotovo 153, zbývá 9
-[00:42:05] https://dubovelistky.cz/aktivity/detska-skupina-me%C4%8Eove-modrice/13: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 2 fotek ke kontrole
-[00:42:18] http://www.ms-csarmady.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 18 fotek ke kontrole
-[00:42:19] https://chovanek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 0 fotek ke kontrole
-[00:42:45] http://www.listecek.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 7 fotek ke kontrole
-[00:43:13] http://www.zsbelcice.cz: 8 stránek (galerie mimo web: 3 ['msbelcice.rajce.idnes.cz', 'sdbelcice.rajce.idnes.cz', 'zsmsbelcice.rajce.idnes.cz'], alb: 0), 34 obrázků, 20 fotek ke kontrole
-[00:43:22] http://www.specialniskola.cz: nedostupné nebo zakázané
-[00:43:32] https://jazykova-skolka.cz/pobocky/kladno: 26 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 0 fotek ke kontrole
-[00:43:35] http://www.skolaperalec.cz: nedostupné nebo zakázané
-[00:43:35] http://www.zlataskola.cz: nedostupné nebo zakázané
-[00:43:54] tříděno 0/47
-[00:44:01] Dávka 1: hotovo 162/142, se fotkami 35; {'ok': 7, 'lide': 0, 'jine': 27, 'sablona': 0}
-[00:44:01] Konec: školek s fotkami 35; {'ok': 7, 'lide': 0, 'jine': 27, 'sablona': 0}
+[02:14:02] Část 10/20: webů 145, hotovo 162, zbývá 5
+[02:14:13] https://sovickamost.cz/spirala-pampeliska-zvonecek: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 2 fotek ke kontrole
+[02:14:27] https://rymarov.diakonie.cz/sluzbav2/detska-skupina-sovicka: 5 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 9 fotek ke kontrole
+[02:14:30] https://dsbublinka.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 16 fotek ke kontrole
+[02:15:45] https://sovickybilovec.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
+[02:16:48] https://ostruvekpoznani.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 58 obrázků, 25 fotek ke kontrole
+[02:17:03] tříděno 0/61
+[02:17:10] Dávka 1: hotovo 167/145, se fotkami 38; {'ok': 8, 'lide': 6, 'jine': 39, 'sablona': 0}
+[02:17:10] Konec: školek s fotkami 38; {'ok': 8, 'lide': 6, 'jine': 39, 'sablona': 0}

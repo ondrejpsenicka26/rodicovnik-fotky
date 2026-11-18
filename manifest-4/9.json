@@ -55,6 +55,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-bublinka-ds00974": [
+{
+"alt": "",
+"barva": "#6c6561",
+"dh": "465a3a2ccacae666",
+"h": 720,
+"jistota": 0.903,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACMQAAICAgECBwAAAAAAAAAAAAECAxEABCESMQUiQVFxkdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAQEAAgMAAAAAAAAAAAAAAAEAAxESITH/2gAMAwEAAhEDEQA/AGRJEsCO3TxEptjV+nGL2vEJISqRKFRlPlj9wSO5+MhzziQoSWpVAAPNH8zSsEUuodiNkUqtslH6GEEZcV73VNCd5dfqlADWRxhkaHfk1o+gRiu/LXhiWoY3Xt//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsbublinka.cz/galerie",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/faf49b_4b534be511a54ce28f24faa0e49ed437~mv2.jpg",
+"w": 960
+},
+{
+"alt": "IMG_4273.jpg",
+"barva": "#7e7b5a",
+"dh": "83ce5adcece47830",
+"h": 900,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsbublinka.cz/kopie-galerie-1",
+"typ": "zahrada",
+"url": "https://static.wixstatic.com/media/7a38a4_5f7c86e9e4ee4b2a87a2e796ffb5a733~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6e6f58",
+"dh": "2b4d43cbfe9d93c3",
+"h": 900,
+"jistota": 0.991,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dsbublinka.cz/kopie-galerie-1",
+"typ": "zahrada",
+"url": "https://static.wixstatic.com/media/7a38a4_344b4efc5394491ab66c13954f91b6a6~mv2.jpg",
+"w": 1200
+}
+],
 "detska-skupina-dubinek-ii-ds11031": [
 {
 "alt": "",
@@ -208,6 +251,79 @@
 "typ": "les",
 "url": "https://www.foxikovaskolka.cz/files/responsive/1280/0/3f0e488c-5078-4fee-97cf-3463d5b50f07-1-105-c.jpeg",
 "w": 1024
+}
+],
+"detska-skupina-ostruvek-poznani-ds01829": [
+{
+"alt": "",
+"barva": "#a49c92",
+"dh": "d6fc2d35e5849adb",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EAB8QAAICAgIDAQAAAAAAAAAAAAECAxEABBIhEyIxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARIC/9oADAMBAAIRAxEAPwCwVg7aQKjAXd5lK+t4i3lpW+1iJCiRpAvbty7/AA4tttK4YNKTGfkZAoYNQlDbnggkVCVHqCOxhkOXZlWV1ZuXE1dYYb2eH//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ostruvekpoznani.cz/our-services/miniskolka/",
+"typ": "interier",
+"url": "https://ostruvekpoznani.cz/wp-content/uploads/2026/03/DSD_4567-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7d8f69",
+"dh": "5f8c4c4c4d4c0800",
+"h": 664,
+"jistota": 0.883,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://ostruvekpoznani.cz/our-services/miniskolka/",
+"typ": "zahrada",
+"url": "https://ostruvekpoznani.cz/wp-content/uploads/2023/05/hriste.jpg",
+"w": 1000
+},
+{
+"alt": "og",
+"barva": "#8d9084",
+"dh": "ddcde2de2633b95f",
+"h": 765,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://ostruvekpoznani.cz/our-gallery/trida/",
+"typ": "interier",
+"url": "https://ostruvekpoznani.cz/wp-content/uploads/2023/06/ostruvek_poznani_prostory-5-scaled.jpeg",
+"w": 1200
+}
+],
+"detska-skupina-sovicky-bilovec-ds00475": [
+{
+"alt": "",
+"barva": "#c0a790",
+"dh": "a6b4b1f1e3a64d99",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAICAgEEAwEAAAAAAAAAAAECAwQAETESEyFRBTJBYf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhIhURH/2gAMAwEAAhEDEQA/ANFYsVoQ/clRT+DezxiMFzvsIyshJJ30DXj37yTUInuJAQVGyGYHbED1vjjKN2NI/katKFBHGw2zL9mHnxvAs3o9UsKSWqQUBj1f1ixOGJWKEaOBG7quuN7wy2lwz5Hp/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://sovickybilovec.cz/",
+"typ": "interier",
+"url": "https://sovickybilovec.cz/wp-content/uploads/2025/04/1_6E9A7529-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b9a896",
+"dh": "4c1286d2d88f9190",
+"h": 801,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://sovickybilovec.cz/",
+"typ": "interier",
+"url": "https://sovickybilovec.cz/wp-content/uploads/2025/04/1_6E9A7551-scaled.jpg",
+"w": 1200
 }
 ],
 "detska-skupina-vseznalkov-ds01480": [
