@@ -1,16 +1,8 @@
-[03:59:59] Část 8/20: webů 149, hotovo 166, zbývá 12
-[04:00:01] https://polnicka.cz/detska-skupina-polnatka: nedostupné nebo zakázané
-[04:00:09] https://dominoliberec.eu: 1 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[04:00:11] https://ds-poupatka.webnode.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 3 fotek ke kontrole
-[04:00:15] https://dshangarek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 4 fotek ke kontrole
-[04:00:16] https://utrimalychmysu.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 8 fotek ke kontrole
-[04:00:19] https://dshangarek.cz/jezecek-jihlava: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
-[04:00:23] https://pohodickachrudim.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 12 fotek ke kontrole
-[04:00:52] https://strapatasmecka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 19 fotek ke kontrole
-[04:01:08] https://rckulihrasek.cz/detska-skupina-kulicka-prelouc-2: 9 stránek (galerie mimo web: 1 ['kulihrasek-pce.rajce.idnes.cz'], alb: 0), 62 obrázků, 23 fotek ke kontrole
-[04:01:16] https://skolavolynka.cz/volyne/skupina2: 2 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 5 fotek ke kontrole
-[04:01:34] https://montessorinadlani.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 48 obrázků, 35 fotek ke kontrole
-[04:02:30] https://zs-zdarec.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 490 obrázků, 23 fotek ke kontrole
-[04:02:50] tříděno 0/137
-[04:03:14] Dávka 1: hotovo 178/149, se fotkami 45; {'ok': 12, 'lide': 5, 'jine': 83, 'sablona': 0}
-[04:03:14] Konec: školek s fotkami 45; {'ok': 12, 'lide': 5, 'jine': 83, 'sablona': 0}
+[08:52:20] Část 8/20: webů 148, hotovo 178, zbývá 4
+[08:53:41] https://laziste.cz/obec/materska-skola/o-skole: 32 stránek (galerie mimo web: 0 [], alb: 0), 222 obrázků, 0 fotek ke kontrole
+[08:53:43] https://kostelecnadvltavou.cz/zivot-v-obci/materska-skola: 26 stránek (galerie mimo web: 1 ['www.mskostelec.rajce.net'], alb: 0), 37 obrázků, 1 fotek ke kontrole
+[08:53:56] https://mslipi.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 695 obrázků, 3 fotek ke kontrole
+[08:56:30] https://zszdikov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 120 obrázků, 29 fotek ke kontrole
+[08:56:45] tříděno 0/33
+[08:56:45] Dávka 1: hotovo 182/148, se fotkami 46; {'ok': 1, 'lide': 1, 'jine': 31, 'sablona': 0}
+[08:56:45] Konec: školek s fotkami 46; {'ok': 1, 'lide': 1, 'jine': 31, 'sablona': 0}
