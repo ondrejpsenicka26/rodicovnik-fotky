@@ -1,7 +1,13 @@
-[08:51:28] Část 19/20: webů 149, hotovo 172, zbývá 3
-[08:51:48] https://msslunicko.org: 15 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
-[08:52:40] https://mshrisice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 893 obrázků, 1 fotek ke kontrole
-[08:52:52] https://zsamsstepanovice.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 465 obrázků, 6 fotek ke kontrole
-[08:53:35] tříděno 0/12
-[08:53:35] Dávka 1: hotovo 175/149, se fotkami 42; {'ok': 3, 'lide': 0, 'jine': 9, 'sablona': 0}
-[08:53:35] Konec: školek s fotkami 42; {'ok': 3, 'lide': 0, 'jine': 9, 'sablona': 0}
+[09:22:04] Část 19/20: webů 158, hotovo 175, zbývá 9
+[09:22:15] https://ms-straz.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 3 fotek ke kontrole
+[09:22:37] https://msnahabru.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 3 fotek ke kontrole
+[09:22:48] https://msracice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 10 fotek ke kontrole
+[09:22:53] https://msborsovska.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 284 obrázků, 13 fotek ke kontrole
+[09:23:05] https://skolavelesovice.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 470 obrázků, 16 fotek ke kontrole
+[09:23:06] https://msvolanice.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 92 obrázků, 0 fotek ke kontrole
+[09:23:12] https://zsamsunanov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 866 obrázků, 1 fotek ke kontrole
+[09:23:32] https://msbavorov.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 430 obrázků, 9 fotek ke kontrole
+[09:24:12] https://msplavec.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
+[09:24:25] tříděno 0/56
+[09:24:30] Dávka 1: hotovo 184/158, se fotkami 46; {'ok': 11, 'lide': 2, 'jine': 38, 'sablona': 0}
+[09:24:30] Konec: školek s fotkami 46; {'ok': 11, 'lide': 2, 'jine': 38, 'sablona': 0}

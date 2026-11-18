@@ -867,6 +867,36 @@
 "w": 1200
 }
 ],
+"materska-skola-na-habru-582741": [
+{
+"alt": "og",
+"barva": "#957c65",
+"dh": "0336746446072707",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAgP/xAAkEAACAQQBAgcAAAAAAAAAAAABAhEAAwQSIQUxExQiQVFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACERJRYf/aAAwDAQACEQMRAD8A4W821YURbVjtqeOZ/KbTIyji7raubmZASdY+Z5rfT8Sy0Ap37k0/mHynTZQSWGoPuKiHtVy6p/LLP4TKxYm36j9yaKnsl2S+4JnnvRRxWdl//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnahabru.cz/fotogalerie/interier/?p=1,1",
+"typ": "interier",
+"url": "https://www.msnahabru.cz/obrazek/3/lan-5720-jpg-5657/",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#62745a",
+"dh": "ebcd8eabbb9f0f07",
+"h": 800,
+"jistota": 0.991,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnahabru.cz/fotogalerie/exterier-713/",
+"typ": "zahrada",
+"url": "https://www.msnahabru.cz/obrazek/3/lan-5763-jpg/",
+"w": 1200
+}
+],
 "materska-skola-olesna-510926": [
 {
 "alt": "",
@@ -938,6 +968,79 @@
 "typ": "budova",
 "url": "http://www.msnavyhlidce.info/obrazky/skolka-jarose-2540x2540-1-768x768.jpg",
 "w": 768
+}
+],
+"materska-skola-plavec-614481": [
+{
+"alt": "",
+"barva": "#867c63",
+"dh": "2c6358641f052d38",
+"h": 900,
+"jistota": 0.992,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYBAgT/xAAiEAACAgEEAgMBAAAAAAAAAAABAgMRAAQFEzESYSEjUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABESEi/9oADAMBAAIRAxEAPwDSd7ll08Yi+q1Ft2xPr8y0O6zrIOV1ljoggABvRxfg18MMKhiV8R8Ejv8AmTJuqv48cRYX2TWR7tHg3DXRkAh1Fi6JAOGJ8qPO/Iqol9g4ZVNhh//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msplavec.cz/",
+"typ": "budova",
+"url": "https://msplavec.cz/images/budova.jpg",
+"w": 1200
+}
+],
+"materska-skola-racice-pistovice-613620": [
+{
+"alt": "",
+"barva": "#7b7b77",
+"dh": "1bf10c3e3e740989",
+"h": 582,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EACMQAAIBAwQBBQAAAAAAAAAAAAECAwAEEQUSEyJBQmGRodH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAMBAAMAAAAAAAAAAAAAAAABAhESEzH/2gAMAwEAAhEDEQA/AGWd3NLaJPyGMkehQB95pM+pSxuONXYjIZpMtvP5UcyOsmFdgPY1uOWRr6Lc7Hp5NG0nukpz5hZXVk2jktJQxGeuMUVDuHfmbs3zRVdlDwk//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msracice.cz/stravovani/",
+"typ": "budova",
+"url": "https://www.msracice.cz/wp-content/uploads/cropped-web-main-edit.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6e675c",
+"dh": "3636363627269c1c",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msracice.cz/o-nas/",
+"typ": "interier",
+"url": "https://www.msracice.cz/wp-content/uploads/IMG_20210831_145408.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f5b3a",
+"dh": "6c3c381e1e9e9a9a",
+"h": 900,
+"jistota": 0.971,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msracice.cz/o-nas/",
+"typ": "interier",
+"url": "https://www.msracice.cz/wp-content/uploads/IMG_20210831_145243.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#87786d",
+"dh": "2329293f4f4f2fbf",
+"h": 900,
+"jistota": 0.98,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msracice.cz/o-nas/",
+"typ": "hygiena",
+"url": "https://www.msracice.cz/wp-content/uploads/IMG_20210831_145226.jpg",
+"w": 1200
 }
 ],
 "materska-skola-roztoky-517132": [
@@ -1448,6 +1551,62 @@
 "typ": "zahrada",
 "url": "https://cloud-6.edupage.org/cloud?z%3AGXwdvzXggRj4JZfccI7Qd0Mpjyrgg0Y2xwmoTY91RmOUNCioDvIAW7PIvR18yfoYe9Y5Y7DQlRlaGTXPuinOX4n7rEK1c%2F9l1sdW%2BLafjC3FfibwzoQ52U3yw1hyKlsE",
 "w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-velesovice-613824": [
+{
+"alt": "",
+"barva": "#7a7667",
+"dh": "43a1b989dfc72745",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAGAgQF/8QAJRAAAgEEAAQHAAAAAAAAAAAAAQIDAAQFERITYXEGFCMxQZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAREiH/2gAMAwEAAhEDEQA/ALOQy2Shvpo47oKitpQYwCB1qVln8hzo45mgkVmALFdEbPSlZrqZmLPIxPetCKBZIF8xtmI+GIH5WYq+TpNN54mxlpcNDJcbdffgHEPsUUkS4n1DywCvfWqKvpjL/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolavelesovice.cz/materska-skola/fotogalerie-ms-1/skolni-rok-2026-2027/ms-pocasi-pokusy-ve-tride-slunicek-1229cs.html",
+"typ": "budova",
+"url": "https://www.skolavelesovice.cz/data/headerfooter/header_images/dscn3314.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#867e79",
+"dh": "ec7861738555c567",
+"h": 675,
+"jistota": 0.993,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolavelesovice.cz/materska-skola/fotogalerie-ms-1/skolni-rok-2026-2027/ms-pocasi-pokusy-ve-tride-slunicek-1229cs.html",
+"typ": "interier",
+"url": "https://www.skolavelesovice.cz/data/headerfooter/header_images/20240919103325.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c8a88",
+"dh": "5f6ed3251a6a720d",
+"h": 563,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolavelesovice.cz/materska-skola/fotogalerie-ms-1/skolni-rok-2026-2027/ms-pocasi-pokusy-ve-tride-slunicek-1229cs.html",
+"typ": "budova",
+"url": "https://www.skolavelesovice.cz/data/headerfooter/header_images/20240917105633.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#947959",
+"dh": "7470715565959c26",
+"h": 640,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolavelesovice.cz/materska-skola/fotogalerie-ms-1/skolni-rok-2026-2027/ms-pocasi-pokusy-ve-tride-slunicek-1229cs.html",
+"typ": "interier",
+"url": "https://www.skolavelesovice.cz/data/headerfooter/header_images/foto-hlava-skola01.jpg",
+"w": 955
 }
 ],
 "zs-a-ms-bely-jensen-587139": [
