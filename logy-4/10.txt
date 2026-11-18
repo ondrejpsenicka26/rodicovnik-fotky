@@ -1,7 +1,5 @@
-[10:15:23] Část 11/20: webů 169, hotovo 210, zbývá 3
-[10:16:06] https://ms.drevnovice.cz: 6 stránek (galerie mimo web: 4 ['drevnovicems.rajce.idnes.cz', 'drevnovicems.rajce.net'], alb: 0), 27 obrázků, 8 fotek ke kontrole
-[10:16:29] https://zsmssvebohov.cz: 34 stránek (galerie mimo web: 1 ['skolasvebohov.rajce.idnes.cz'], alb: 0), 420 obrázků, 0 fotek ke kontrole
-[10:17:09] https://mszafontanou.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 0 fotek ke kontrole
-[10:17:23] tříděno 0/8
-[10:17:24] Dávka 1: hotovo 213/169, se fotkami 62; {'ok': 4, 'lide': 1, 'jine': 1, 'sablona': 0}
-[10:17:24] Konec: školek s fotkami 62; {'ok': 4, 'lide': 1, 'jine': 1, 'sablona': 0}
+[10:40:12] Část 11/20: webů 169, hotovo 213, zbývá 1
+[10:40:53] http://msskalna.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 11 fotek ke kontrole
+[10:41:06] tříděno 0/11
+[10:41:06] Dávka 1: hotovo 214/169, se fotkami 62; {'ok': 0, 'lide': 1, 'jine': 10, 'sablona': 0}
+[10:41:06] Konec: školek s fotkami 62; {'ok': 0, 'lide': 1, 'jine': 10, 'sablona': 0}
