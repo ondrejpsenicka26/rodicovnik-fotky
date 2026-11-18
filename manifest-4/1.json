@@ -145,6 +145,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-komenskeho-i-sternberk-ds10339": [
+{
+"alt": "",
+"barva": "#9d9a96",
+"dh": "2787ab135f48c78b",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAfEAABBAMBAQEBAAAAAAAAAAABAAIDEQQSQRNhITH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABEhH/2gAMAwEAAhEDEQA/AHcOTjTuDYZNiRYFEWrBbUeobQrvVl95G+dPLNegKd0+4LXZDzfNfxG4ZCPMxXzZUj9wCT/Bz4hNPNwvyiZr9q0KNw8f/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkakomenskeho.cz",
+"typ": "budova",
+"url": "https://www.skolkakomenskeho.cz/wp-content/uploads/2026/01/1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9f7d57",
+"dh": "000155d58d1b1819",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkakomenskeho.cz",
+"typ": "interier",
+"url": "https://www.skolkakomenskeho.cz/wp-content/uploads/2026/01/4.jpg",
+"w": 1200
+},
+{
+"alt": "Multifunční průlezka na zahradě školy",
+"barva": "#86806c",
+"dh": "5ede0ed86303030b",
+"h": 684,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkakomenskeho.cz/zahrada/",
+"typ": "zahrada",
+"url": "https://www.skolkakomenskeho.cz/wp-content/gallery/zahrada/FCS_6316-1024x768.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#756f6d",
+"dh": "f6ee6d396a593929",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolkakomenskeho.cz",
+"typ": "budova",
+"url": "https://www.skolkakomenskeho.cz/wp-content/uploads/2026/01/2.jpg",
+"w": 1200
+}
+],
 "detska-skupina-little-hand-z-s-ds02302": [
 {
 "alt": "",
@@ -205,6 +261,118 @@
 "w": 1200
 }
 ],
+"detska-skupina-miniskolka-slunecnice-orlova-ds01935": [
+{
+"alt": "",
+"barva": "#7a7b87",
+"dh": "f0f633233b232092",
+"h": 750,
+"jistota": 0.786,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAkEAACAgIBAwQDAAAAAAAAAAABAgMRAAQhBRJBBhMxUWKB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AMjRi2NaZ1fmIcq3Pi/N4hoacjtGYnSJ2QtcbFG4/dZ0o0ZhrzRdyAy3z81YrE4uglK7plJAIsL/AHKWs+0IyRP1fqepJ7S7jSLQIala7H3WGWT6djdizzMSfxHGGZ9IcP/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.miniskolkaslunecnice.cz/Orlova/Fotogalerie",
+"typ": "budova",
+"url": "https://www.miniskolkaslunecnice.cz/assets/img/foto/orlova/big/2.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#888270",
+"dh": "9e8ccedacfa3d2b6",
+"h": 751,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.miniskolkaslunecnice.cz/Poruba/Fotogalerie",
+"typ": "interier",
+"url": "https://www.miniskolkaslunecnice.cz/assets/img/foto/poruba/big/image1.jpeg",
+"w": 1001
+},
+{
+"alt": "",
+"barva": "#8a7e68",
+"dh": "7fb3899d98371e8d",
+"h": 750,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.miniskolkaslunecnice.cz/Poruba/Fotogalerie",
+"typ": "interier",
+"url": "https://www.miniskolkaslunecnice.cz/assets/img/foto/poruba/big/image7.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#9f9d9a",
+"dh": "8c8cccccccc8dcdc",
+"h": 667,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.miniskolkaslunecnice.cz/Orlova/Fotogalerie",
+"typ": "hygiena",
+"url": "https://www.miniskolkaslunecnice.cz/assets/img/foto/orlova/big/5.JPG",
+"w": 1000
+}
+],
+"detska-skupina-tygri-letka-ds10891": [
+{
+"alt": "Vstup",
+"barva": "#919c9f",
+"dh": "0020c8c8c9fc7041",
+"h": 900,
+"jistota": 0.925,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACAQAAICAQQDAQAAAAAAAAAAAAECAxEABAUSITFBUbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQADAQAAAAAAAAAAAAAAAAAAARJR/9oADAMBAAIRAxEAPwCnI6QFej2av5jG1iwzRxNRZxY8+Miyb2XUEaZeQHticWu4auZg0jqDdDgKOWsMpaaYbggUWlWLHWGQDqpF6eONj9ZbP7hixJ//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://tygriletka.cz/prostory",
+"typ": "budova",
+"url": "https://tygriletka.cz/imgs/prostory/Triangle_vstup.jpeg",
+"w": 1200
+},
+{
+"alt": "Šatna",
+"barva": "#8d8378",
+"dh": "8b49c1a1c7e79fc3",
+"h": 900,
+"jistota": 0.988,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://tygriletka.cz/prostory",
+"typ": "interier",
+"url": "https://tygriletka.cz/imgs/prostory/Triangle_satna.jpeg",
+"w": 1200
+},
+{
+"alt": "Zahrada",
+"barva": "#7c878c",
+"dh": "0c8cf05ecafe3ff0",
+"h": 747,
+"jistota": 0.967,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://tygriletka.cz/prostory",
+"typ": "zahrada",
+"url": "https://tygriletka.cz/imgs/prostory/Triangle_zahrada.jpeg",
+"w": 1024
+},
+{
+"alt": "Prostor na odpočinek",
+"barva": "#93938e",
+"dh": "a4dd387cf421800c",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://tygriletka.cz/prostory",
+"typ": "interier",
+"url": "https://tygriletka.cz/imgs/prostory/Triangle_odpocinek.jpeg",
+"w": 900
+}
+],
 "detska-skupina-u-templu-ds00369": [
 {
 "alt": "",
@@ -233,6 +401,62 @@
 "typ": "interier",
 "url": "https://safariclub.cz/wp-content/uploads/2023/12/431664142_3829899807274380_6020472967481768009_n-1.jpg",
 "w": 1200
+}
+],
+"detska-skupina-zizalky-ds01791": [
+{
+"alt": "",
+"barva": "#8c8675",
+"dh": "a46424e0e46cbc2c",
+"h": 899,
+"jistota": 0.958,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAFBgEE/8QAHxAAAgMAAQUBAAAAAAAAAAAAAQIAAxEhBAUSIoFB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACEhP/2gAMAwEAAhEDEQA/ANa+9Kby4NVz54uw0EbyIyXuIs6ZV9VIO7sVFb7aieSg/S2TmsR6wFAA+zI0knNUUWO9ehjg4EJMAtnsFP0wj6K+bf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msalergo.cz/o-nas/prirodni-zahrada",
+"typ": "budova",
+"url": "https://www.msalergo.cz/storage/01K8BTTNK7AS0YHG4YXG7J17ZD.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7a774a",
+"dh": "87899a5c0002597a",
+"h": 899,
+"jistota": 0.984,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msalergo.cz/o-nas/prirodni-zahrada",
+"typ": "zahrada",
+"url": "https://www.msalergo.cz/storage/01K8BTTNK08AHAGE657NRZ40MB.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#788786",
+"dh": "808323ebdbffe58d",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msalergo.cz/o-nas/prirodni-zahrada",
+"typ": "les",
+"url": "https://www.msalergo.cz/storage/01K8BTTNJY1KAT63BJJAW4NYB9.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#777a55",
+"dh": "892d373331b23227",
+"h": 686,
+"jistota": 0.648,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msalergo.cz/o-nas/prirodni-zahrada",
+"typ": "budova",
+"url": "https://www.msalergo.cz/storage/01K8BTTNHDFJKMJJVQ1VPKX15R.jpg",
+"w": 1024
 }
 ],
 "lesni-materska-skola-kudlibabka-128004": [

@@ -1,15 +1,9 @@
-[00:41:57] Část 2/20: webů 141, hotovo 151, zbývá 11
-[00:42:03] https://duhaparticka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[00:42:04] https://montyklub.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[00:42:07] https://dsbublinky.cz/detska-skupina-bublinky-blazovice: 2 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 6 fotek ke kontrole
-[00:42:14] https://dsveverka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 5 fotek ke kontrole
-[00:42:18] https://targevacek.cz/detska-skupina-kladno: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 1 fotek ke kontrole
-[00:42:21] https://miniskolka-ententyky.cz/detska-skupina-brno-bystrc: 4 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 0 fotek ke kontrole
-[00:42:29] https://safariclub.cz/ds-boskovice-u-templu: 7 stránek (galerie mimo web: 0 [], alb: 0), 200 obrázků, 37 fotek ke kontrole
-[00:42:43] https://pastelka.net: 6 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 0 fotek ke kontrole
-[00:43:20] http://ms-liblice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 4 fotek ke kontrole
-[00:43:27] https://agentura-beranek.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 1202 obrázků, 13 fotek ke kontrole
-[00:43:41] http://www.zsvyhledy.cz: nedostupné nebo zakázané
-[00:43:58] tříděno 0/66
-[00:44:01] Dávka 1: hotovo 162/141, se fotkami 39; {'ok': 2, 'lide': 3, 'jine': 61, 'sablona': 0}
-[00:44:01] Konec: školek s fotkami 39; {'ok': 2, 'lide': 3, 'jine': 61, 'sablona': 0}
+[02:14:12] Část 2/20: webů 144, hotovo 162, zbývá 5
+[02:14:30] https://materidousky.cz: 4 stránek (galerie mimo web: 4 ['photos.app.goo.gl'], alb: 0), 18 obrázků, 16 fotek ke kontrole
+[02:14:40] https://tygriletka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 23 fotek ke kontrole
+[02:15:03] https://msalergo.cz/ds-zizalky: 12 stránek (galerie mimo web: 0 [], alb: 0), 169 obrázků, 37 fotek ke kontrole
+[02:15:12] https://miniskolkaslunecnice.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 119 obrázků, 29 fotek ke kontrole
+[02:15:46] https://skolkakomenskeho.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 62 obrázků, 21 fotek ke kontrole
+[02:16:06] tříděno 0/126
+[02:16:35] Dávka 1: hotovo 167/144, se fotkami 43; {'ok': 16, 'lide': 8, 'jine': 59, 'sablona': 0}
+[02:16:35] Konec: školek s fotkami 43; {'ok': 16, 'lide': 8, 'jine': 59, 'sablona': 0}
