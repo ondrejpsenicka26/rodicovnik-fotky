@@ -29,6 +29,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Nejnovější stav (fronta mohla mezitím doběhnout)
+        run: git pull -q --ff-only origin main || true
       - name: Ověřit weby
         run: python3 scripts/over_shodu.py
       - name: Uložit
