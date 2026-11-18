@@ -1,998 +1,574 @@
 {
-"49-materska-skola-plzen-546795": {
-"ico": "70941017",
-"web": "https://plzen.eu"
-},
-"c-i-e-l-materska-skola-055911": {
-"ico": "24152081",
-"web": "https://skolavsenory.cz"
-},
-"chytre-deti-smartkids-praha-9-detska-skupina-ds00672": {
-"ico": "06543758",
-"web": "https://smartkids-skolky.cz/smartkids-rubeska"
-},
-"creative-kids-materska-skola-079879": {
-"ico": "05274419",
-"web": "https://www.creativekids.cz"
-},
-"creative-life-detska-skupina-ds00594": {
-"ico": "06369936",
-"web": "https://creativekids.cz/skupina-creative-life"
-},
-"detska-skupina-babiccina-zahrada-ds01177": {
-"ico": "08237271",
-"web": "https://dlouhatrebova.cz/zivot-v-obci/detska-skupina-babiccina-zahrada"
-},
-"detska-skupina-berusky-ds10872": {
-"ico": "71006435",
-"web": "https://msdvorska-blansko.cz/berusky"
-},
-"detska-skupina-boruvka-ds00936": {
-"ico": "06325645",
-"web": "https://safariclub.cz/ds-chocen-boruvka"
-},
-"detska-skupina-devitka-ds00138": {
-"ico": "22829814",
-"web": "https://skolka-jesle.cz/detske-skupiny/devitka"
-},
-"detska-skupina-dubinek-i-ds10991": {
-"ico": "72052635",
-"web": "https://skolavsenory.cz/materska-skola/detska-skupina/dubinek-1"
-},
-"detska-skupina-dubinek-ii-ds11031": {
-"ico": "72052635",
-"web": "https://skolavsenory.cz/materska-skola/detska-skupina/dubinek-ii"
-},
-"detska-skupina-elanek-bulovicka-1-ds10881": {
-"ico": "17137781",
-"web": "https://elanek.cz/bulovka"
-},
-"detska-skupina-elanek-bulovicka-2-ds10882": {
-"ico": "17137781",
-"web": "https://elanek.cz/bulovka"
-},
-"detska-skupina-elanek-horovice-zelena-ds01340": {
-"ico": "02484544",
-"web": "https://elanek.cz"
-},
-"detska-skupina-elanek-horovice-zluta-ds01202": {
-"ico": "02484544",
-"web": "https://elanek.cz"
-},
-"detska-skupina-elanek-kladno-sever-ds01860": {
-"ico": "19076355",
-"web": "https://elanek.cz"
-},
-"detska-skupina-elanek-na-brezince-1-ds02336": {
-"ico": "21398046",
-"web": "https://elanek.cz/praha-brezinka"
-},
-"detska-skupina-elanek-na-brezince-2-ds02117": {
-"ico": "21398046",
-"web": "https://elanek.cz/praha-brezinka-II"
-},
-"detska-skupina-elanek-praha-10-ds01889": {
-"ico": "02484544",
-"web": "https://elanek.cz/praha-jablonova"
-},
-"detska-skupina-elanek-skola-vrbovka-i-ds11184": {
-"ico": "24379221",
-"web": "https://elanek.cz"
-},
-"detska-skupina-elanek-skola-vrbovka-ii-ds11185": {
-"ico": "24379221",
-"web": "https://elanek.cz"
-},
-"detska-skupina-elanek-starkoc-ds11214": {
-"ico": "19679351",
-"web": "https://elanek.cz"
-},
-"detska-skupina-elanek-zebrak-ds01872": {
-"ico": "02484544",
-"web": "https://elanek.cz"
-},
-"detska-skupina-elisek-ds00199": {
-"ico": "04766377",
-"web": "https://rozcestnik.skolkyslansko.cz/ds-elisek"
-},
-"detska-skupina-elisek-kladno-2-ds01218": {
-"ico": "04766377",
-"web": "https://elisek.cz"
-},
-"detska-skupina-elisek-kladno-3-ds01719": {
-"ico": "04766377",
-"web": "https://elisek.cz"
-},
-"detska-skupina-fialovy-cap-ds02054": {
-"ico": "17309352",
-"web": "https://dccap.cz/detske-skupiny/fialovy-cap"
-},
-"detska-skupina-foxik-budysinska-ds00482": {
-"ico": "02381265",
-"web": "https://foxikovaskolka.cz/ds-foxik-dchabry"
-},
-"detska-skupina-foxik-cimice-ds01233": {
-"ico": "02381265",
-"web": "https://foxikovaskolka.cz/ds-foxik-cimice"
-},
-"detska-skupina-foxik-krc-ds01377": {
-"ico": "02381265",
-"web": "https://foxikovaskolka.cz/ds-foxik-krc"
-},
-"detska-skupina-foxik-zizkov-ds00483": {
-"ico": "02381265",
-"web": "https://foxikovaskolka.cz/ds-foxik-zizkov"
-},
-"detska-skupina-grohova-ds11048": {
-"ico": "70998892",
-"web": "https://holesov.cz/4587-detska-skupina-grohova.html"
-},
-"detska-skupina-hajenka-ds11037": {
-"ico": "70993696",
-"web": "https://holesov.cz/4789-detska-skupina-hajenka.html"
-},
-"detska-skupina-happy-baby-ds01652": {
-"ico": "07645309",
-"web": "https://happypreschool.cz/cz/destkeskupiny"
-},
-"detska-skupina-happy-nest-pro-tpb-ds01485": {
-"ico": "05081645",
-"web": "https://www.happypreschool.cz"
-},
-"detska-skupina-harmonia-ds01465": {
-"ico": "09642137",
-"web": "https://harmonia.orangery.cz"
-},
-"detska-skupina-inskolka-hulvacka-ds01456": {
-"ico": "05761671",
-"web": "https://inskolka.cz"
-},
-"detska-skupina-inskolka-kaminskeho-ds00416": {
-"ico": "05761671",
-"web": "https://inskolka.cz"
-},
-"detska-skupina-jahoda-albertov-ds00832": {
-"ico": "67363300",
-"web": "https://jahoda.cz/centrum/albertov"
-},
-"detska-skupina-jahoda-andel-ds01444": {
-"ico": "67363300",
-"web": "https://jahoda.cz/zarizeni/skolka-jesle-andel"
-},
-"detska-skupina-jahoda-andel-ii-ds10354": {
-"ico": "67363300",
-"web": "https://jahoda.cz/zarizeni/skolka-jesle-andel-ii"
-},
-"detska-skupina-jahoda-cerny-most-ds00061": {
-"ico": "67363300",
-"web": "https://jahoda.cz/zarizeni/jesle-v-praze"
-},
-"detska-skupina-jiricky-ds10240": {
-"ico": "21328889",
-"web": "https://jsmemalihrdinove.cz/nase-pobocky/detska-skupina-jiricky-horni-jircany"
-},
-"detska-skupina-klubicek-chvalkovice-ds11127": {
-"ico": "19381743",
-"web": "https://klubicek.cz"
-},
-"detska-skupina-klubicek-rosice-2-ds01853": {
-"ico": "19381743",
-"web": "https://klubicek.cz"
-},
-"detska-skupina-klubicek-vyskov-ds01831": {
-"ico": "19381743",
-"web": "https://klubicek.cz"
-},
-"detska-skupina-klubicek-zbysov-ds11017": {
-"ico": "24049727",
-"web": "https://klubicek.cz"
-},
-"detska-skupina-kocour-z-s-ds01309": {
-"ico": "11930209",
-"web": "http://mskocour.cz"
-},
-"detska-skupina-koralky-i-ds10070": {
-"ico": "21235945",
-"web": "https://jsmemalihrdinove.cz"
-},
-"detska-skupina-koralky-ii-ds10076": {
-"ico": "21235945",
-"web": "https://jsmemalihrdinove.cz"
-},
-"detska-skupina-kosatky-v-pohybu-ds00457": {
-"ico": "05635527",
-"web": "https://kosatkyvpohybu.cz"
-},
-"detska-skupina-kosatky-v-pohybu-ii-ds02240": {
-"ico": "01874951",
-"web": "https://kosatkyvpohybu.cz"
-},
-"detska-skupina-landie-ricany-berusky-ds00139": {
-"ico": "02335247",
-"web": "https://landie.cz"
-},
-"detska-skupina-landie-ricany-broucci-ds00140": {
-"ico": "02335247",
-"web": "https://landie.cz"
-},
-"detska-skupina-lednacci-ds10845": {
-"ico": "00234591",
-"web": "https://rozcestnik.skolkyslansko.cz/detska-skupina-lednacci-ledce"
-},
-"detska-skupina-liscata-ds11051": {
-"ico": "75034492",
-"web": "https://msbystrice.cz/detske-skupiny/detska-skupina-liscata"
-},
-"detska-skupina-little-heroes-podoli-i-ds10256": {
-"ico": "23231041",
-"web": "https://jsmemalihrdinove.cz/nase-pobocky/detska-skupina-little-heroes-praha-4"
-},
-"detska-skupina-little-heroes-podoli-ii-ds10257": {
-"ico": "23231041",
-"web": "https://jsmemalihrdinove.cz/nase-pobocky/detska-skupina-little-heroes-praha-4"
-},
-"detska-skupina-little-heroes-smichov-i-ds10120": {
-"ico": "21441774",
-"web": "https://jsmemalihrdinove.cz/nase-pobocky/detska-skupina-little-heroes-praha-5"
-},
-"detska-skupina-little-heroes-smichov-ii-ds10121": {
-"ico": "21441774",
-"web": "https://jsmemalihrdinove.cz/nase-pobocky/detska-skupina-little-heroes-praha-5"
-},
-"detska-skupina-little-mice-1-ds01917": {
-"ico": "06509835",
-"web": "https://dslittlemice.cz"
-},
-"detska-skupina-little-mice-2-ds02000": {
-"ico": "06509835",
-"web": "https://dslittlemice.cz"
-},
-"detska-skupina-little-mice-3-ds02001": {
-"ico": "06509835",
-"web": "https://dslittlemice.cz"
-},
-"detska-skupina-little-mice-4-ds11305": {
-"ico": "29565812",
-"web": "https://dslittlemice.cz"
-},
-"detska-skupina-little-mice-5-ds11385": {
-"ico": "06509835",
-"web": "https://dslittlemice.cz"
-},
-"detska-skupina-lotty-ds01065": {
-"ico": "08234272",
-"web": "https://skolkalotty.cz"
-},
-"detska-skupina-malicek-ds00021": {
-"ico": "00075370",
-"web": "https://plzen.eu/socialni-sluzby/detska-skupina-malicek"
-},
-"detska-skupina-martanci-ds02176": {
-"ico": "19900686",
-"web": "https://planetkauffo.cz/martanci"
-},
-"detska-skupina-materidouska-ds01593": {
-"ico": "09822771",
-"web": "https://detskaskupinamateridouska.cz"
-},
-"detska-skupina-materidouska-ds10483": {
-"ico": "23487542",
-"web": "https://detskaskupinamateridouska.cz"
-},
-"detska-skupina-maxik-kladno-i-ds01668": {
-"ico": "17241740",
-"web": "https://jazykova-skolka.cz/pobocky/kladno"
-},
-"detska-skupina-maxik-kladno-ii-ds01669": {
-"ico": "17241740",
-"web": "https://jazykova-skolka.cz/pobocky/kladno"
-},
-"detska-skupina-medvidata-ds11052": {
-"ico": "75034492",
-"web": "https://msbystrice.cz/detske-skupiny/detska-skupina-medvidata"
-},
-"detska-skupina-modry-cap-ds02053": {
-"ico": "17309352",
-"web": "https://dccap.cz/detske-skupiny/modry-cap"
-},
-"detska-skupina-montessori-jesle-ds10860": {
-"ico": "22888624",
-"web": "https://montessori-namest.cz"
-},
-"detska-skupina-montessori-kampus-ds00904": {
-"ico": "06416012",
-"web": "https://montessorikampus.cz"
-},
-"detska-skupina-monty-ds00565": {
-"ico": "06449727",
-"web": "https://montyskola.cz"
-},
-"detska-skupina-mravenecci-ds10871": {
-"ico": "71006435",
-"web": "https://msdvorska-blansko.cz/mravenecci"
-},
-"detska-skupina-mrnousek-frydek-mistek-ds00883": {
-"ico": "05720079",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-frydlant-lvicata-ds00693": {
-"ico": "05720079",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-frydlant-medvidata-ds00367": {
-"ico": "05720079",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-havirov-ds00566": {
-"ico": "04333250",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-ostrava-bartovice-ds01966": {
-"ico": "05720079",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-ostrava-hrabuvka-ds00552": {
-"ico": "05720079",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-ostrava-poruba-ds00553": {
-"ico": "05720079",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-ostrava-poruba-motylci-ds10151": {
-"ico": "05720079",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-ostrava-svinov-ds00692": {
-"ico": "06483445",
-"web": "https://mujmrnousek.cz"
-},
-"detska-skupina-mrnousek-slezska-ostrava-u-zoo-motylci-ds02234": {
-"ico": "06483445",
-"web": "https://mujmrnousek.cz/detska-skupina-mrnousek-ostrava-slezska"
-},
-"detska-skupina-mrnousek-slezska-ostrava-u-zoo-tygrici-ds02233": {
-"ico": "06483445",
-"web": "https://mujmrnousek.cz/detska-skupina-mrnousek-ostrava-slezska"
-},
-"detska-skupina-mysicky-ds01837": {
-"ico": "70849439",
-"web": "https://msprahapetrovice.cz/nase-tridy/mysicky"
-},
-"detska-skupina-na-ceste-do-sveta-ds01490": {
-"ico": "22859551",
-"web": "https://skolasvetdecin.cz/materska-skola/na-ceste-do-sveta"
-},
-"detska-skupina-orangerypark-harmonia-ds11042": {
-"ico": "22605193",
-"web": "https://harmonia.orangery.cz"
-},
-"detska-skupina-pididomek-uvaly-18-ds02172": {
-"ico": "05109582",
-"web": "https://pididomek.com"
-},
-"detska-skupina-pididomek-uvaly-21-ds02222": {
-"ico": "06565361",
-"web": "https://pididomek.com"
-},
-"detska-skupina-planetka-ds02175": {
-"ico": "19900686",
-"web": "https://planetkauffo.cz"
-},
-"detska-skupina-planetka-uffo-ds01733": {
-"ico": "01689916",
-"web": "https://planetkauffo.cz"
-},
-"detska-skupina-raketka-ds02177": {
-"ico": "19900686",
-"web": "https://planetkauffo.cz/raketka"
-},
-"detska-skupina-sedmikvitek-i-ds10650": {
-"ico": "72743948",
-"web": "https://skolky.turnov.cz/cs/detska-skupina-sedmikvitek"
-},
-"detska-skupina-sedmikvitek-ii-ds10649": {
-"ico": "72743948",
-"web": "https://skolky.turnov.cz/cs/detska-skupina-sedmikvitek"
-},
-"detska-skupina-skolamysl-ds01912": {
-"ico": "02951037",
-"web": "https://skolamysl.cz"
-},
-"detska-skupina-smaragdovy-cap-ds10487": {
-"ico": "17618819",
-"web": "https://dccap.cz/detske-skupiny/smaragdovy-cap"
-},
-"detska-skupina-smartkids-i-ds00685": {
-"ico": "06493947",
-"web": "https://www.skolkasmartkids.cz"
-},
-"detska-skupina-smartkids-ii-ds00838": {
-"ico": "06462146",
-"web": "https://skolkasmartkids.cz"
-},
-"detska-skupina-smartkids-iii-ds01334": {
-"ico": "06462146",
-"web": "https://skolkasmartkids.cz"
-},
-"detska-skupina-smartkids-iv-ds01335": {
-"ico": "06493947",
-"web": "https://skolkasmartkids.cz"
-},
-"detska-skupina-smartkids-v-ds01336": {
-"ico": "06493947",
-"web": "https://skolkasmartkids.cz"
-},
-"detska-skupina-smartkids-vi-ds01725": {
-"ico": "06462146",
-"web": "https://skolkasmartkids.cz"
-},
-"detska-skupina-smartkids-vii-ds02027": {
-"ico": "06462146",
-"web": "https://skolkasmartkids.cz"
-},
-"detska-skupina-smile-studio-barrandov-ds01688": {
-"ico": "08243247",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-barrandov-ds01931": {
-"ico": "19358822",
-"web": "https://www.smilestudio.cz"
-},
-"detska-skupina-smile-studio-brandys-ds01464": {
-"ico": "14404397",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-cakovice-1-ds02203": {
-"ico": "21908354",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-cakovice-2-ds02204": {
-"ico": "21908354",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-harfa-ds01981": {
-"ico": "06373127",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-kbely-ds01331": {
-"ico": "08151491",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-milovice-ds01660": {
-"ico": "17572762",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-nehvizdy-ds01922": {
-"ico": "19836937",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-nusle-ds02205": {
-"ico": "21721424",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-nymburk-1-ds01910": {
-"ico": "19227698",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-nymburk-2-ds01911": {
-"ico": "19227698",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-prosek-ds00517": {
-"ico": "06373127",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-sokolovska-ds10248": {
-"ico": "21777802",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-sterboholy-ds01087": {
-"ico": "06251544",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-teplice-ds02227": {
-"ico": "21908354",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-uhrineves-ds01950": {
-"ico": "17572762",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-smile-studio-ujezd-ds11225": {
-"ico": "23601493",
-"web": "https://smilestudio.cz"
-},
-"detska-skupina-sovicka-ds01123": {
-"ico": "08393460",
-"web": "https://sovickamost.cz"
-},
-"detska-skupina-sovicka-mini-ds01496": {
-"ico": "08393460",
-"web": "https://sovickamost.cz"
-},
-"detska-skupina-sovicky-ds01158": {
-"ico": "00288845",
-"web": "https://subirov.cz/obec/detska-skupina-sovicky"
-},
-"detska-skupina-spirala-ds00414": {
-"ico": "05731534",
-"web": "https://sovickamost.cz/spirala-pampeliska-zvonecek"
+"borky-a-borci-brezolupy-detska-skupina-ds02316": {
+"ico": "19186151",
+"web": "https://borky-a-borci.cz/detska-skupina"
+},
+"detska-skupina-dubinek-semin-ds02178": {
+"ico": "70988820",
+"web": "https://mssemin.cz"
+},
+"detska-skupina-hlavenecek-ds00929": {
+"ico": "00474177",
+"web": "https://detska-skupina-hlavenecek.webnode.cz"
+},
+"detska-skupina-osecanek-ds01017": {
+"ico": "04806352",
+"web": "https://www.osecanek.cz"
+},
+"detska-skupina-panacci-3-ds01871": {
+"ico": "03312658",
+"web": "https://panacci.eu"
+},
+"detska-skupina-parnicek-ds02056": {
+"ico": "21184526",
+"web": "https://dsparnicek.cz"
+},
+"detska-skupina-pastelky-ds00991": {
+"ico": "00281557",
+"web": "https://pastelkybabice.cz"
 },
 "detska-skupina-stritez-ds01136": {
 "ico": "27034925",
 "web": "https://vidce.cz/spol/detska-skupina-stritez-nad-becvou"
 },
-"detska-skupina-tulipanek-litomysl-ds00328": {
-"ico": "05051304",
-"web": "https://litomysl.charita.cz/jak-pomahame/dobrovolnicke-centrum/detska-skupina-tulipanek-a-kvitecek"
-},
-"detska-skupina-u-templu-ds00369": {
-"ico": "05760127",
-"web": "https://safariclub.cz/ds-boskovice-u-templu"
-},
-"detska-skupina-vcelicky-ds01479": {
-"ico": "02268469",
-"web": "https://skolkaznojmo.cz/tridy/4-trida-vcelicky"
-},
-"detska-skupina-viki-kids-club-i-ds00600": {
-"ico": "05675014",
-"web": "https://vikikidsclub.cz"
-},
-"detska-skupina-viki-kids-club-iii-ds01121": {
-"ico": "05675014",
-"web": "https://vikikidsclub.cz"
-},
-"detska-skupina-vltavacek-ds00901": {
-"ico": "06349315",
-"web": "https://dsvltavacek.cz"
-},
-"detska-skupina-vltavacek-ii-ds10622": {
-"ico": "23510552",
-"web": "https://dsvltavacek.cz"
-},
-"detska-skupina-zabka-ds00203": {
-"ico": "25348221",
-"web": "https://studiozabka.cz"
-},
-"detska-skupina-zabka-ds00749": {
-"ico": "03304957",
-"web": "https://studiozabka.cz"
-},
-"detska-skupina-zdravotnicek-1-ds00643": {
-"ico": "05508363",
-"web": "https://elisek.cz/zdravotnicek/o-nas"
-},
-"detska-skupina-zdravotnicek-2-ds00642": {
-"ico": "05491819",
-"web": "https://elisek.cz/zdravotnicek/o-nas"
-},
-"detska-skupina-zdravotnicek-3-ds01114": {
-"ico": "05508363",
-"web": "https://elisek.cz/zdravotnicek/o-nas"
-},
-"detska-skupina-zeleny-cap-ds11149": {
-"ico": "17528658",
-"web": "https://dccap.cz/detske-skupiny/zeleny_cap"
-},
-"detska-skupina-zenklovka-ds10680": {
-"ico": "24068390",
-"web": "https://mszenklovka.cz"
-},
-"happy-point-detska-skupina-vrsovicka-ds00795": {
-"ico": "05734886",
-"web": "https://happypoint.cz"
-},
-"happy-point-materska-skola-089831": {
-"ico": "04101600",
-"web": "https://www.happypoint.cz"
-},
-"imsp-ms-a-zs-060591": {
-"ico": "27233464",
-"web": "https://www.montessori.cz"
-},
-"inskolka-034151": {
-"ico": "25381831",
-"web": "https://www.inskolka.cz"
-},
-"internation-countryside-school-ms-094606": {
-"ico": "03820955",
-"web": "https://countrysideschool.cz"
-},
-"international-countryside-school-detska-skupina-ds00648": {
-"ico": "05195802",
-"web": "https://countrysideschool.cz"
-},
-"international-montessori-school-of-prague-detska-skupina-1-ds01483": {
-"ico": "27374297",
-"web": "https://montessori.cz"
-},
-"international-montessori-school-of-prague-detska-skupina-2-ds01484": {
-"ico": "27374297",
-"web": "https://montessori.cz"
-},
-"little-family-breclav-detska-skupina-ds02263": {
-"ico": "21422346",
-"web": "https://littlefamily.cz"
-},
-"little-family-brno-ctpark-1-detska-skupina-ds10821": {
-"ico": "22552774",
-"web": "https://littlefamily.cz"
-},
-"little-family-brno-ctpark-2-detska-skupina-ds10822": {
-"ico": "22552774",
-"web": "https://littlefamily.cz"
-},
-"little-family-brno-nad-arboretem-1-detska-skupina-ds10268": {
-"ico": "21459592",
-"web": "https://littlefamily.cz"
-},
-"little-family-brno-nad-arboretem-2-detska-skupina-ds10269": {
-"ico": "21459592",
-"web": "https://littlefamily.cz"
-},
-"little-family-hodonin-2-detska-skupina-ds01963": {
-"ico": "17667330",
-"web": "https://littlefamily.cz"
-},
-"little-family-hodonin-detska-skupina-ds01694": {
-"ico": "17667330",
-"web": "https://littlefamily.cz"
-},
-"little-family-sumperk-2-detska-skupina-ds02194": {
-"ico": "22834095",
-"web": "https://littlefamily.cz"
-},
-"little-family-sumperk-detska-skupina-ds00770": {
-"ico": "22834095",
-"web": "https://littlefamily.cz"
-},
-"materska-skola-blansko-600714": {
-"ico": "71006427",
-"web": "http://www.msdvorska-blansko.cz"
-},
-"materska-skola-bystrice-510481": {
-"ico": "75034492",
-"web": "https://www.msbystrice.cz"
-},
-"materska-skola-bystrice-583160": {
-"ico": "75019728",
-"web": "https://msbystrice.cz"
-},
-"materska-skola-cejkovice-201145": {
-"ico": "70985138",
-"web": "https://mscejkovice.cz"
-},
-"materska-skola-cejkovice-606852": {
-"ico": "70995516",
-"web": "https://www.mscejkovice.cz"
-},
-"materska-skola-cheb-540789": {
-"ico": "70987149",
-"web": "https://waldorfcheb.cz/skolka"
-},
-"materska-skola-drozdov-633248": {
-"ico": "70985910",
-"web": "https://skoladrozdov.cz"
-},
-"materska-skola-harmonie-neratovice-513714": {
-"ico": "75001497",
-"web": "https://www.ms-neratovice.cz"
-},
-"materska-skola-kocour-060752": {
-"ico": "02933675",
-"web": "http://www.mskocour.cz"
-},
-"materska-skola-kynsperk-545641": {
-"ico": "63531054",
-"web": "https://mskynsperk.cz"
-},
-"materska-skola-kynsperk-nad-ohri-766961": {
-"ico": "49766961",
-"web": "https://mskynsperk.cz"
-},
-"materska-skola-landie-009447": {
-"ico": "27651363",
-"web": "https://www.landie.cz"
-},
-"materska-skola-lotty-125552": {
-"ico": "17053234",
-"web": "https://www.skolkalotty.cz"
-},
-"materska-skola-merklin-541831": {
-"ico": "71004769",
-"web": "https://mszsmerklin.cz"
-},
-"materska-skola-nemcice-097214": {
-"ico": "06000061",
-"web": "https://www.ms-nemcice.cz"
-},
-"materska-skola-nemcice-600374": {
-"ico": "75023041",
-"web": "https://ms-nemcice.cz"
-},
-"materska-skola-nova-ves-029499": {
-"ico": "72069724",
-"web": "http://www.skolkanovaves.cz"
-},
-"materska-skola-nova-ves-530678": {
-"ico": "70997403",
-"web": "https://skolkanovaves.cz"
-},
-"materska-skola-novosedly-042430": {
-"ico": "75000792",
-"web": "https://msnovosedly.cz"
-},
-"materska-skola-novosedly-604736": {
-"ico": "75022664",
-"web": "https://www.msnovosedly.cz"
-},
-"materska-skola-obora-544555": {
-"ico": "60611774",
-"web": "https://www.skolkaobora.cz"
-},
-"materska-skola-obora-600463": {
-"ico": "70992673",
-"web": "https://skolkaobora.cz"
-},
-"materska-skola-petrovice-018225": {
-"ico": "72050543",
-"web": "https://msprahapetrovice.cz"
-},
-"materska-skola-petrovice-614472": {
-"ico": "75012324",
-"web": "https://msprahapetrovice.cz"
-},
-"materska-skola-pididomek-103681": {
-"ico": "06584845",
-"web": "https://www.pididomek.com"
-},
-"materska-skola-przedszkole-622572": {
-"ico": "70640254",
-"web": "https://msvendryne.cz"
-},
-"materska-skola-risuty-072599": {
-"ico": "71294279",
-"web": "https://rozcestnik.skolkyslansko.cz"
-},
-"materska-skola-skolicka-053489": {
-"ico": "27131165",
-"web": "http://www.skolka-jesle.cz"
-},
-"materska-skola-slany-511649": {
-"ico": "75034697",
-"web": "https://rozcestnik.skolkyslansko.cz"
-},
-"materska-skola-studanka-546566": {
-"ico": "75006961",
-"web": "https://msstudanka.cz"
-},
-"materska-skola-studanka-601851": {
-"ico": "71004947",
-"web": "https://msstudanka.cz"
-},
-"materska-skola-subirov-610116": {
-"ico": "75022478",
-"web": "https://subirov.cz/obec/materska-skola"
-},
-"materska-skola-susice-542854": {
-"ico": "60610361",
-"web": "https://mssusice.cz"
-},
-"materska-skola-susice-631628": {
-"ico": "70989818",
-"web": "https://mssusice.cz"
-},
-"materska-skola-turnov-586746": {
-"ico": "72743719",
-"web": "https://skolky.turnov.cz"
-},
-"materska-skola-turnov-586762": {
-"ico": "72743794",
-"web": "https://skolky.turnov.cz"
-},
-"materska-skola-turnov-masov-586355": {
-"ico": "72743701",
-"web": "http://www.skolky.turnov.cz"
-},
-"materska-skola-uhercice-614626": {
-"ico": "70990247",
-"web": "https://zsuhercice.cz"
-},
-"materska-skola-v-libankach-800937": {
-"ico": "70156018",
-"web": "https://litomysl.charita.cz/jak-pomahame/dobrovolnicke-centrum/materska-skola-v-libankach"
-},
-"materska-skola-vendryne-c-1-622564": {
-"ico": "70640246",
-"web": "https://msvendryne.cz"
-},
-"materska-skola-vidce-634376": {
-"ico": "70936366",
-"web": "https://vidce.cz"
-},
-"materska-skola-viki-kids-club-013665": {
-"ico": "29282730",
-"web": "https://www.vikikidsclub.cz"
-},
-"materska-skola-vlcice-633205": {
-"ico": "75026244",
-"web": "https://zsvlcice.cz"
-},
-"materska-skola-zahradky-532743": {
-"ico": "70986657",
-"web": "https://skolazahradky.cz"
-},
-"materska-skola-zenklovka-016788": {
-"ico": "06391249",
-"web": "https://mszenklovka.cz"
-},
-"materska-skola-znojmo-614839": {
-"ico": "70983518",
-"web": "https://skolkaznojmo.cz"
-},
-"materska-skola-zvoleneves-511851": {
-"ico": "75031183",
-"web": "https://rozcestnik.skolkyslansko.cz"
-},
-"montessori-jesle-jaderko-detska-skupina-ds01384": {
-"ico": "07532806",
-"web": "https://montessori-namest.cz"
-},
-"montessori-jeslicky-namest-detska-skupina-ds00980": {
-"ico": "07532806",
-"web": "https://montessori-namest.cz"
-},
-"mrnouskova-materska-skola-046806": {
-"ico": "01709089",
-"web": "https://mujmrnousek.cz"
-},
-"ms-a-zs-merklin-544181": {
-"ico": "70971561",
-"web": "https://www.mszsmerklin.cz"
-},
-"ms-maxik-jazykova-skola-a-jesle-s-r-o-088398": {
-"ico": "04194896",
-"web": "https://www.jazykova-skolka.cz"
-},
-"ms-smartkids-nademlejnska-068613": {
-"ico": "28491661",
-"web": "https://www.smartkids-skolky.cz"
-},
-"safari-baby-club-materska-skola-033623": {
-"ico": "71341455",
-"web": "https://safariclub.cz"
-},
-"smartfox-education-ms-053934": {
-"ico": "01921061",
-"web": "https://www.foxikovaskolka.cz"
-},
-"smartfox-kiddies-materska-skola-087553": {
-"ico": "29042534",
-"web": "https://www.foxikovaskolka.cz"
-},
-"soukroma-materska-skola-jahoda-032988": {
-"ico": "71341463",
-"web": "https://jahoda.cz"
-},
-"soukroma-materska-skola-neratovice-883165": {
-"ico": "26132435",
-"web": "https://ms-neratovice.cz"
-},
-"soukroma-zs-a-ms-svet-026643": {
-"ico": "71341331",
-"web": "https://skolasvetdecin.cz"
-},
-"ss-zs-a-ms-monty-school-035944": {
-"ico": "71340912",
-"web": "https://montyskola.cz"
-},
-"waldorfska-zs-a-ms-cheb-122936": {
-"ico": "11689307",
-"web": "https://waldorfcheb.cz"
-},
-"zakladni-skola-a-lesni-ms-bez-lavice-125901": {
-"ico": "19589212",
-"web": "https://zschlebovice.cz"
-},
-"zakladni-skola-a-materska-skola-bulovka-564858": {
-"ico": "72744880",
-"web": "https://skolabulovka.cz"
-},
-"zakladni-skola-a-materska-skola-chrastany-516918": {
-"ico": "86594265",
-"web": "https://www.skola-chrastany.cz"
-},
-"zakladni-skola-a-materska-skola-chrastany-530457": {
-"ico": "70988862",
-"web": "https://skola-chrastany.cz"
-},
-"zakladni-skola-a-materska-skola-dlouha-trebova-589265": {
-"ico": "75017156",
-"web": "https://dlouhatrebova.cz"
-},
-"zakladni-skola-a-materska-skola-drozdov-510730": {
-"ico": "75034395",
-"web": "http://www.skoladrozdov.cz"
-},
-"zakladni-skola-a-materska-skola-frydek-mistek-chlebovice-621401": {
-"ico": "70971692",
-"web": "https://zschlebovice.cz"
-},
-"zakladni-skola-a-materska-skola-hradek-545349": {
-"ico": "75006120",
-"web": "https://www.zshradek.cz"
-},
-"zakladni-skola-a-materska-skola-lomnice-500698": {
-"ico": "75026520",
-"web": "https://zslomnice.cz"
-},
-"zakladni-skola-a-materska-skola-lovcice-581191": {
-"ico": "75015854",
-"web": "https://zslovcice.eu"
-},
-"zakladni-skola-a-materska-skola-lovcice-607441": {
-"ico": "70987131",
-"web": "https://www.zslovcice.eu"
-},
-"zakladni-skola-a-materska-skola-lukavice-585898": {
-"ico": "70979669",
-"web": "https://skolalukavice.cz"
-},
-"zakladni-skola-a-materska-skola-milikov-621975": {
-"ico": "75026392",
-"web": "https://www.zsmilikov.cz"
-},
-"zakladni-skola-a-materska-skola-olbramovice-510278": {
-"ico": "71001174",
-"web": "https://www.zsolbramovice.cz"
-},
-"zakladni-skola-a-materska-skola-olbramovice-615011": {
-"ico": "75022451",
-"web": "https://zsolbramovice.cz"
-},
-"zakladni-skola-a-materska-skola-uhercice-605066": {
-"ico": "70867984",
-"web": "https://www.zsuhercice.cz"
-},
-"zakladni-skola-a-materska-skola-zahradky-560640": {
-"ico": "72742437",
-"web": "https://www.skolazahradky.cz"
-},
-"zakladni-skola-skolamysl-018934": {
-"ico": "04840704",
-"web": "http://www.skolamysl.cz"
-},
-"zs-a-ms-j-a-komenskeho-588587": {
-"ico": "70998906",
-"web": "https://www.zsvlcice.cz"
-},
-"zs-a-ms-josefa-kubalka-517043": {
-"ico": "72052635",
-"web": "https://www.skolavsenory.cz"
-},
-"zs-a-ms-lukavice-057652": {
-"ico": "71009957",
-"web": "http://www.skolalukavice.cz"
-},
-"zs-a-ms-montessori-kampus-075041": {
-"ico": "03742725",
-"web": "https://www.montessorikampus.cz"
-},
-"zs-a-ms-pri-fn-bulovka-000757": {
-"ico": "63830795",
-"web": "https://www.skolabulovka.cz"
-},
-"zs-s-p-j-v-a-ms-przedszkole-621983": {
-"ico": "75026406",
-"web": "https://zsmilikov.cz"
-},
-"zs-s-p-v-j-a-ms-s-p-v-j-621754": {
-"ico": "70640181",
-"web": "https://zshradek.cz"
-},
-"zs-zus-a-ms-lomnice-100173": {
-"ico": "62072951",
-"web": "https://www.zslomnice.cz"
+"detska-skupina-troskotovice-ds00751": {
+"ico": "71011285",
+"web": "https://zstroskotovice.cz/detska-skupina"
+},
+"detska-skupina-zvidalek-ds02002": {
+"ico": "19509448",
+"web": "https://zvidaleksardice.cz"
+},
+"materska-skola-albrechtice-589460": {
+"ico": "70993513",
+"web": "https://www.ms-albrechtice.cz"
+},
+"materska-skola-bacetin-585880": {
+"ico": "70978093",
+"web": "https://www.ms-bacetin.cz"
+},
+"materska-skola-bila-lhota-626195": {
+"ico": "70989427",
+"web": "https://msbilalhota.cz"
+},
+"materska-skola-borotin-600595": {
+"ico": "62073010",
+"web": "https://msborotin.cz"
+},
+"materska-skola-brest-609614": {
+"ico": "70991294",
+"web": "https://www.msbrest.cz"
+},
+"materska-skola-brnany-565145": {
+"ico": "72743905",
+"web": "https://www.msbrnany.cz"
+},
+"materska-skola-cernovice-600625": {
+"ico": "62073401",
+"web": "https://ms-cernovice.cz"
+},
+"materska-skola-cernovice-97-562561": {
+"ico": "72742046",
+"web": "https://www.mscernovice.cz"
+},
+"materska-skola-chuderov-568934": {
+"ico": "70983348",
+"web": "https://www.ms-chuderov.cz"
+},
+"materska-skola-dasny-530511": {
+"ico": "75000407",
+"web": "https://msdasny.wz.cz"
+},
+"materska-skola-detrichov-u-moravske-trebove-587571": {
+"ico": "70999414",
+"web": "https://msdetrichov.cz"
+},
+"materska-skola-dobre-585855": {
+"ico": "70978719",
+"web": "https://materskaskoladobre.cz"
+},
+"materska-skola-dobrinsko-614405": {
+"ico": "75024497",
+"web": "https://msdobrinsko.cz"
+},
+"materska-skola-dolni-chvatliny-512554": {
+"ico": "75034140",
+"web": "https://dolnichvatliny.cz/materska-skola"
+},
+"materska-skola-doubravice-534771": {
+"ico": "70982767",
+"web": "https://ms.doubravicens.cz"
+},
+"materska-skola-hartmanice-587449": {
+"ico": "71008641",
+"web": "https://skolkahartmanice.cz"
+},
+"materska-skola-hnojice-626497": {
+"ico": "75027097",
+"web": "https://mshnojice.cz"
+},
+"materska-skola-horesedly-518007": {
+"ico": "71004521",
+"web": "https://ms-horesedly.estranky.cz"
+},
+"materska-skola-horni-brusnice-588684": {
+"ico": "75017598",
+"web": "https://mshornibrusnice.cz"
+},
+"materska-skola-horni-domaslavice-031680": {
+"ico": "72547839",
+"web": "https://mshornidomaslavice.cz"
+},
+"materska-skola-horni-zivotice-620219": {
+"ico": "70991057",
+"web": "https://www.mshornizivotice.cz"
+},
+"materska-skola-hribatka-kladruby-nad-labem-585146": {
+"ico": "70987084",
+"web": "https://www.kladrubynadlabem.cz/materska-skola-hribatka/"
+},
+"materska-skola-hrisice-64-532689": {
+"ico": "70989214",
+"web": "https://mshrisice.cz"
+},
+"materska-skola-hrubcice-609908": {
+"ico": "75021501",
+"web": "https://mshrubcice.cz"
+},
+"materska-skola-hvozdnice-013088": {
+"ico": "72039213",
+"web": "https://www.mshvozdnice.cz"
+},
+"materska-skola-jenikovice-581141": {
+"ico": "70983372",
+"web": "https://skolkajenikovice.cz"
+},
+"materska-skola-jirice-u-miroslavi-c-89-614961": {
+"ico": "70996270",
+"web": "https://ms-jiriceumiroslavi.cz"
+},
+"materska-skola-komorany-613891": {
+"ico": "70997322",
+"web": "http://mskomorany.cz"
+},
+"materska-skola-kostelec-nad-vltavou-053326": {
+"ico": "71006095",
+"web": "https://kostelecnadvltavou.cz/zivot-v-obci/materska-skola"
+},
+"materska-skola-kramolna-583771": {
+"ico": "70998370",
+"web": "https://mskramolna.cz"
+},
+"materska-skola-lipuvka-600315": {
+"ico": "75023962",
+"web": "https://mslipuvka.cz"
+},
+"materska-skola-losina-544024": {
+"ico": "70988781",
+"web": "https://www.mslosina.cz"
+},
+"materska-skola-lovcicky-613590": {
+"ico": "75023431",
+"web": "https://mslovcicky.cz"
+},
+"materska-skola-malovice-534401": {
+"ico": "75001373",
+"web": "https://skolka.malovice.cz"
+},
+"materska-skola-markvartice-582899": {
+"ico": "70981850",
+"web": "http://msmarkvartice.cz"
+},
+"materska-skola-medlovice-613336": {
+"ico": "71004548",
+"web": "https://msmedloviceuh.cz"
+},
+"materska-skola-merovice-nad-hanou-631202": {
+"ico": "70990174",
+"web": "https://msmerovice.cz"
+},
+"materska-skola-nedasova-lhota-605911": {
+"ico": "75022681",
+"web": "https://www.msnedasovalhota.cz"
+},
+"materska-skola-nova-hradecna-627531": {
+"ico": "70985421",
+"web": "https://ms.novahradecna.cz"
+},
+"materska-skola-novy-rychnov-533197": {
+"ico": "75000342",
+"web": "https://msnovyrychnov.cz"
+},
+"materska-skola-ohare-512376": {
+"ico": "70998451",
+"web": "https://msohare.cz"
+},
+"materska-skola-olesna-039893": {
+"ico": "71293990",
+"web": "https://www.msolesna.cz"
+},
+"materska-skola-olesnice-586525": {
+"ico": "72744022",
+"web": "https://zsamsolesnice.cz"
+},
+"materska-skola-ostruzno-583186": {
+"ico": "75017814",
+"web": "https://ms-ostruzno.webnode.cz"
+},
+"materska-skola-pod-dubovym-kopcem-099101": {
+"ico": "07368089",
+"web": "https://mssvinosice.cz"
+},
+"materska-skola-podlesi-000701": {
+"ico": "71000542",
+"web": "https://www.mspodlesi.cz"
+},
+"materska-skola-pravonin-510316": {
+"ico": "71002138",
+"web": "https://www.mspravonin.cz"
+},
+"materska-skola-prostejovicky-610876": {
+"ico": "70983992",
+"web": "https://prostejovicky.cz/o-obci/organizace-a-kluby/materska-skola-prostejovicky.html"
+},
+"materska-skola-racineves-565854": {
+"ico": "72744863",
+"web": "https://www.msracineves.cz"
+},
+"materska-skola-restoky-582406": {
+"ico": "71003444",
+"web": "https://msrestoky.cz"
+},
+"materska-skola-rtyne-nad-bilinou-568268": {
+"ico": "70983852",
+"web": "https://www.msrtynenadbilinou.cz"
+},
+"materska-skola-safov-614511": {
+"ico": "70997039",
+"web": "https://ms-safov.cz"
+},
+"materska-skola-sedlec-531062": {
+"ico": "75000644",
+"web": "https://mssedlec.cz"
+},
+"materska-skola-semin-584506": {
+"ico": "70988820",
+"web": "https://mssemin.cz"
+},
+"materska-skola-sosuvka-600480": {
+"ico": "75021757",
+"web": "https://ms.sosuvka.com"
+},
+"materska-skola-stare-herminovy-620227": {
+"ico": "75029766",
+"web": "https://www.msstareherminovy.cz"
+},
+"materska-skola-stare-mesto-620782": {
+"ico": "75029294",
+"web": "https://ms-staremesto.cz"
+},
+"materska-skola-stary-petrin-615231": {
+"ico": "70994790",
+"web": "https://starypetrin.cz/obec/materska-skola/o-nasi-materske-skole"
+},
+"materska-skola-strelna-633884": {
+"ico": "70996661",
+"web": "https://www.msstrelna.cz"
+},
+"materska-skola-strizovice-609258": {
+"ico": "75021218",
+"web": "https://www.msstrizovice.cz"
+},
+"materska-skola-susice-612216": {
+"ico": "75007428",
+"web": "https://www.skolkasusice.cz"
+},
+"materska-skola-svata-045192": {
+"ico": "21551341",
+"web": "https://ms-svata.cz"
+},
+"materska-skola-svatoslav-603195": {
+"ico": "75009412",
+"web": "https://ms-svatoslav.cz"
+},
+"materska-skola-sviny-535629": {
+"ico": "71002456",
+"web": "https://obec-sviny.cz/materska-skola"
+},
+"materska-skola-tismice-512180": {
+"ico": "71000313",
+"web": "https://www.mstismice.cz"
+},
+"materska-skola-trebnouseves-026945": {
+"ico": "72540931",
+"web": "https://mstrebnouseves.wbs.cz"
+},
+"materska-skola-tresovice-581531": {
+"ico": "75019019",
+"web": "https://mstresovice.cz"
+},
+"materska-skola-trstenice-541181": {
+"ico": "71008331",
+"web": "https://mstrstenice.cz"
+},
+"materska-skola-umyslovice-515636": {
+"ico": "75033101",
+"web": "https://msumyslovice.cz"
+},
+"materska-skola-v-a-z-a-n-y-613484": {
+"ico": "70989664",
+"web": "https://skolka-vazany.cz"
+},
+"materska-skola-vintirov-546108": {
+"ico": "60610697",
+"web": "https://materska-skola-vintirov.cz"
+},
+"materska-skola-vojnuv-mestec-615932": {
+"ico": "75022885",
+"web": "https://www.msvojnuvmestec.cz"
+},
+"materska-skola-vrutice-565091": {
+"ico": "72745398",
+"web": "https://www.msvrutice.cz"
+},
+"materska-skola-zabovresky-531003": {
+"ico": "75001349",
+"web": "https://mszabovresky.cz"
+},
+"materska-skola-zahorany-540533": {
+"ico": "75005956",
+"web": "https://obeczahorany.cz/skolka"
+},
+"materska-skola-zvonecek-055783": {
+"ico": "71294872",
+"web": "https://zvonecekbriza.cz"
+},
+"ms-druztova-544521": {
+"ico": "70995931",
+"web": "https://www.msdruztova.cz"
+},
+"ms-straz-546426": {
+"ico": "70992762",
+"web": "https://www.msstraz.cz"
+},
+"ms-vseruby-540517": {
+"ico": "60611413",
+"web": "https://www.ms-vseruby.cz"
+},
+"zakladni-skola-a-materska-skola-bernartice-589028": {
+"ico": "75018128",
+"web": "https://msbernartice.cz"
+},
+"zakladni-skola-a-materska-skola-borkovany-604931": {
+"ico": "75024004",
+"web": "https://skolaborkovany.cz"
+},
+"zakladni-skola-a-materska-skola-bratrusov-632993": {
+"ico": "70996237",
+"web": "https://zsmsbratrusov.cz"
+},
+"zakladni-skola-a-materska-skola-brezova-105941": {
+"ico": "70984557",
+"web": "https://zsbrezova.eu"
+},
+"zakladni-skola-a-materska-skola-bystrocice-626284": {
+"ico": "75029341",
+"web": "https://zsbystrocice.cz"
+},
+"zakladni-skola-a-materska-skola-cista-040135": {
+"ico": "70985642",
+"web": "https://zsamscista.cz"
+},
+"zakladni-skola-a-materska-skola-dalecin-616343": {
+"ico": "70981779",
+"web": "https://zsmsdalecin.cz"
+},
+"zakladni-skola-a-materska-skola-dalesice-611881": {
+"ico": "71005242",
+"web": "https://www.zsmsdalesice.cz"
+},
+"zakladni-skola-a-materska-skola-dobratice-621444": {
+"ico": "70640017",
+"web": "https://zsdobratice.cz"
+},
+"zakladni-skola-a-materska-skola-dolni-branna-587947": {
+"ico": "70985707",
+"web": "https://www.zsdolnibranna.cz"
+},
+"zakladni-skola-a-materska-skola-dolni-lanov-587980": {
+"ico": "71009761",
+"web": "https://www.zsmsdolnilanov.cz"
+},
+"zakladni-skola-a-materska-skola-hlubocany-613433": {
+"ico": "70987971",
+"web": "https://zsmshlubocany.webnode.cz"
+},
+"zakladni-skola-a-materska-skola-hostejn-632268": {
+"ico": "70989338",
+"web": "https://zsamshostejn.cz"
+},
+"zakladni-skola-a-materska-skola-hradek-144-621797": {
+"ico": "70640173",
+"web": "https://zsmshradek.cz"
+},
+"zakladni-skola-a-materska-skola-janovice-621878": {
+"ico": "73184357",
+"web": "https://skolajanovice.cz"
+},
+"zakladni-skola-a-materska-skola-jedli-005717": {
+"ico": "70987157",
+"web": "https://zsamsjedli.cz"
+},
+"zakladni-skola-a-materska-skola-kanice-028506": {
+"ico": "71001689",
+"web": "https://zskanice.cz"
+},
+"zakladni-skola-a-materska-skola-ketkovice-603390": {
+"ico": "70981345",
+"web": "https://zsketkovice.cz"
+},
+"zakladni-skola-a-materska-skola-klapy-565307": {
+"ico": "72742321",
+"web": "https://ms-klapy.webnode.cz"
+},
+"zakladni-skola-a-materska-skola-kosetice-533120": {
+"ico": "75000156",
+"web": "https://mskosetice.webnode.cz"
+},
+"zakladni-skola-a-materska-skola-krakovany-512368": {
+"ico": "75034174",
+"web": "https://zskrakovany.cz"
+},
+"zakladni-skola-a-materska-skola-krivoklat-518066": {
+"ico": "47017635",
+"web": "https://zskrivoklat.cz"
+},
+"zakladni-skola-a-materska-skola-krizanovice-036302": {
+"ico": "70991618",
+"web": "https://zskrizanovice.cz"
+},
+"zakladni-skola-a-materska-skola-listany-103443": {
+"ico": "75005948",
+"web": "https://www.skola-listany.cz"
+},
+"zakladni-skola-a-materska-skola-milavce-540321": {
+"ico": "69983305",
+"web": "https://zsmilavce.cz"
+},
+"zakladni-skola-a-materska-skola-moravske-branice-603217": {
+"ico": "75023628",
+"web": "https://zsmorbranice.cz"
+},
+"zakladni-skola-a-materska-skola-moutnice-603551": {
+"ico": "70983585",
+"web": "https://skolamoutnice.cz"
+},
+"zakladni-skola-a-materska-skola-nedasov-606640": {
+"ico": "70942846",
+"web": "https://zsnedasov.webnode.cz"
+},
+"zakladni-skola-a-materska-skola-oleksovice-615223": {
+"ico": "71010581",
+"web": "https://zsamsoleksovice.cz"
+},
+"zakladni-skola-a-materska-skola-olsovec-631105": {
+"ico": "70986185",
+"web": "https://zsolsovec.cz"
+},
+"zakladni-skola-a-materska-skola-orlicke-zahori-042657": {
+"ico": "28859235",
+"web": "https://www.skolaorlickezahori.cz"
+},
+"zakladni-skola-a-materska-skola-oskava-633434": {
+"ico": "70985197",
+"web": "https://zsmsoskava.cz"
+},
+"zakladni-skola-a-materska-skola-pisecne-616106": {
+"ico": "75021404",
+"web": "https://zsmspisecne.cz"
+},
+"zakladni-skola-a-materska-skola-pnovany-545021": {
+"ico": "70997101",
+"web": "https://www.zspnovany.cz"
+},
+"zakladni-skola-a-materska-skola-pocinovice-540401": {
+"ico": "75006081",
+"web": "https://www.zspocinovice.cz"
+},
+"zakladni-skola-a-materska-skola-popelin-532506": {
+"ico": "71002430",
+"web": "https://zspopelin.cz"
+},
+"zakladni-skola-a-materska-skola-predin-611520": {
+"ico": "70265992",
+"web": "https://www.zspredin.cz"
+},
+"zakladni-skola-a-materska-skola-radnovice-615681": {
+"ico": "75023881",
+"web": "https://zsradnovice.cz"
+},
+"zakladni-skola-a-materska-skola-sebkovice-611562": {
+"ico": "70885907",
+"web": "https://www.zssebkovice.cz"
+},
+"zakladni-skola-a-materska-skola-sebrov-100661": {
+"ico": "71009787",
+"web": "https://zssebrov.cz"
+},
+"zakladni-skola-a-materska-skola-sehradice-606364": {
+"ico": "70980039",
+"web": "https://www.zsmssehradice.cz"
+},
+"zakladni-skola-a-materska-skola-skalice-614537": {
+"ico": "71001778",
+"web": "https://zsamsskalice.cz"
+},
+"zakladni-skola-a-materska-skola-skripov-628881": {
+"ico": "75027186",
+"web": "https://zsamsskripov.cz"
+},
+"zakladni-skola-a-materska-skola-slopne-605783": {
+"ico": "75020483",
+"web": "https://www.zsmsslopne.cz"
+},
+"zakladni-skola-a-materska-skola-starnov-626233": {
+"ico": "70996482",
+"web": "https://zsamsstarnov.cz"
+},
+"zakladni-skola-a-materska-skola-struznice-560348": {
+"ico": "70982678",
+"web": "https://skolastruznice.cz"
+},
+"zakladni-skola-a-materska-skola-studlov-062101": {
+"ico": "70998418",
+"web": "http://ms.studlov.cz"
+},
+"zakladni-skola-a-materska-skola-suchohrdly-u-miroslavi-614375": {
+"ico": "75022214",
+"web": "https://skola.suchohrdlyumiroslavi.cz"
+},
+"zakladni-skola-a-materska-skola-sudomerice-607271": {
+"ico": "71010327",
+"web": "https://skola.obecsudomerice.cz"
+},
+"zakladni-skola-a-materska-skola-tatenice-590310": {
+"ico": "70985987",
+"web": "https://www.zsmstatenice.cz"
+},
+"zakladni-skola-a-materska-skola-uhelna-pribram-580489": {
+"ico": "70985961",
+"web": "https://www.skolauhelnapribram.cz"
+},
+"zakladni-skola-a-materska-skola-vlasatice-605287": {
+"ico": "70499969",
+"web": "https://zsvlasatice.cz"
+},
+"zakladni-skola-a-materska-skola-vrhavec-542617": {
+"ico": "75005816",
+"web": "https://skolavrhavec.cz"
+},
+"zakladni-skola-a-materska-skola-zdikov-534614": {
+"ico": "00583383",
+"web": "https://zszdikov.cz"
 }
 }
