@@ -1,14 +1,8 @@
-[03:59:58] Část 12/20: webů 152, hotovo 167, zbývá 10
-[04:00:20] https://skolickapipi.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 8 fotek ke kontrole
-[04:00:27] https://klicekds.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
-[04:00:27] https://dsdubina.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
-[04:00:30] https://mestovyssibrod.cz/mesto/samosprava/detska-skupina-brodska-srdicka: 12 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 4 fotek ke kontrole
-[04:00:37] https://hermanov.info/uvod/detska-skupina-hermanek: 1 stránek (galerie mimo web: 1 ['hermanov.rajce.idnes.cz'], alb: 0), 7 obrázků, 4 fotek ke kontrole
-[04:00:44] https://dracci-domazlice.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 6 fotek ke kontrole
-[04:00:46] https://hravepacicky.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 11 fotek ke kontrole
-[04:00:50] https://chrudimacek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 1 fotek ke kontrole
-[04:00:58] https://zelechovice.eu/obec/detska-skupina-kuratka: 24 stránek (galerie mimo web: 0 [], alb: 0), 342 obrázků, 11 fotek ke kontrole
-[04:01:18] https://domecekpacov.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 520 obrázků, 0 fotek ke kontrole
-[04:01:33] tříděno 0/56
-[04:01:38] Dávka 1: hotovo 177/152, se fotkami 45; {'ok': 8, 'lide': 0, 'jine': 39, 'sablona': 0}
-[04:01:38] Konec: školek s fotkami 45; {'ok': 8, 'lide': 0, 'jine': 39, 'sablona': 0}
+[08:51:42] Část 12/20: webů 152, hotovo 177, zbývá 4
+[08:52:12] https://msplesivec.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 0 fotek ke kontrole
+[08:53:00] https://ms-pisecne.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 88 obrázků, 0 fotek ke kontrole
+[08:53:03] https://msvitejovice.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 164 obrázků, 0 fotek ke kontrole
+[08:55:38] https://mshury.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 134 obrázků, 42 fotek ke kontrole
+[08:55:57] tříděno 0/42
+[08:55:58] Dávka 1: hotovo 181/152, se fotkami 46; {'ok': 4, 'lide': 3, 'jine': 25, 'sablona': 0}
+[08:55:58] Konec: školek s fotkami 46; {'ok': 4, 'lide': 3, 'jine': 25, 'sablona': 0}

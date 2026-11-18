@@ -850,6 +850,62 @@
 "w": 768
 }
 ],
+"materska-skola-hury-094835": [
+{
+"alt": "",
+"barva": "#798481",
+"dh": "022363cb999d4707",
+"h": 673,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACIQAAEEAgEEAwAAAAAAAAAAAAEAAgMEESESFDNBUVJhkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABoRAAICAwAAAAAAAAAAAAAAAAABAhIRQVH/2gAMAwEAAhEDEQA/AMdG6Y5WUowGyP8ALtEek36yapLwe6Fx3kneMfYSOnfsvkbylJx7AVCx5fDl3Ekn4hWZLZlRjwnpL9qjI6ON5IceeW5I2hNJu4dD8QmzCqP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mshury.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://mshury.cz/wp-content/uploads/2026/11/ms-hury-skolka-15.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#898574",
+"dh": "25edd6e623389c95",
+"h": 673,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mshury.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://mshury.cz/wp-content/uploads/2026/11/ms-hury-skolka-01.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#677764",
+"dh": "070f4b4b470e0707",
+"h": 673,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mshury.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://mshury.cz/wp-content/uploads/2026/11/ms-hury-skolka-17.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#84856c",
+"dh": "d3f3725406232909",
+"h": 673,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mshury.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://mshury.cz/wp-content/uploads/2026/11/ms-hury-skolka-09.webp",
+"w": 1200
+}
+],
 "materska-skola-loket-102058": [
 {
 "alt": "budova",
