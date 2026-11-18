@@ -1219,6 +1219,62 @@
 "w": 1200
 }
 ],
+"materska-skola-podlesi-000701": [
+{
+"alt": "",
+"barva": "#6e6556",
+"dh": "43814c6663d38e0d",
+"h": 675,
+"jistota": 0.586,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGAf/EACUQAAEDAwIGAwAAAAAAAAAAAAEAAgMEESETIgUGEjFxkSNBYf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8AXsE9P0Sa8gkadoExxjv38prTcSrgNSGqMrhf45pNp8/amYRcXOT+rZXEEDHpZKXRlBJzPMXm9PkYN32z6Qpx+HWCEtMlI//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mspodlesi.cz/kompletni_fotogalerie/nase-nova-zahrada",
+"typ": "budova",
+"url": "https://www.mspodlesi.cz/wp-content/gallery/nase-nova-zahrada/WP_20150708_007.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#98877f",
+"dh": "05051177656c3435",
+"h": 674,
+"jistota": 0.964,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mspodlesi.cz/kompletni_fotogalerie/nase-nova-zahrada",
+"typ": "zahrada",
+"url": "https://www.mspodlesi.cz/wp-content/gallery/nase-nova-zahrada/WP_20150713_002.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#766751",
+"dh": "21419dc6676b3b2f",
+"h": 675,
+"jistota": 0.795,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mspodlesi.cz/kompletni_fotogalerie/nase-nova-zahrada",
+"typ": "les",
+"url": "https://www.mspodlesi.cz/wp-content/gallery/nase-nova-zahrada/WP_20150709_016.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6d6553",
+"dh": "088692ebbf3fe745",
+"h": 675,
+"jistota": 0.55,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mspodlesi.cz/kompletni_fotogalerie/nase-nova-zahrada",
+"typ": "budova",
+"url": "https://www.mspodlesi.cz/wp-content/gallery/nase-nova-zahrada/WP_20150708_001.jpg",
+"w": 1200
+}
+],
 "materska-skola-predhradi-582210": [
 {
 "alt": "",
@@ -1457,6 +1513,23 @@
 "typ": "zahrada",
 "url": "https://www.msveverskabityska.cz/wp-content/uploads/2019/09/zahrada-9.jpg",
 "w": 1200
+}
+],
+"materska-skola-zdounky-609584": [
+{
+"alt": "og",
+"barva": "#948d8e",
+"dh": "3d4d5d4b6c676727",
+"h": 480,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACQQAAIBBAECBwAAAAAAAAAAAAECAwAEESESIlEjMUFhcYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIRESEzH/2gAMAwEAAhEDEQA/AGudzEIX8VFWXMigjYwR+kH6rK5iDNEUMSIgGSXA9c9/eqbxK8JRtg0jexLHZMFLa4435bFS4+CaNq0JyWs0xDkpjHSTIBkd90VEkuJA5HLPyBRSdGZHCCeLP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mszdounky.cz/akce/fotografovani-deti-v-ms",
+"typ": "interier",
+"url": "http://www.mszdounky.cz/image.php?oid=13980062",
+"w": 719
 }
 ],
 "materska-skola-zlin-605562": [
@@ -1738,6 +1811,23 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-skrdlovice-615754": [
+{
+"alt": "",
+"barva": "#a29d94",
+"dh": "3430f0e68b9b1ba7",
+"h": 762,
+"jistota": 0.959,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYDBAX/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABBESMQUhQWEUcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwBguOqlCyRRszg65bj7FVEv70EllVgRnXU1g/JnLuxdSR5we/Hv1UkQdmaUyHbQDHj8rO1eGy06jFJDmcxRODgrtRSRPCHlLMe55wKKSmP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skola.skrdlovice.cz/",
+"typ": "budova",
+"url": "https://skola.skrdlovice.cz/image.php?oid=11189097&nid=20916&width=1193",
+"w": 1193
+}
+],
 "zakladni-skola-a-materska-skola-strazek-616424": [
 {
 "alt": "",
@@ -1873,6 +1963,36 @@
 "typ": "zahrada",
 "url": "https://www.zs-msvraz.cz/data/headerfooter/header_images/20260827085058.jpg",
 "w": 750
+}
+],
+"zakladni-skola-a-materska-skola-vrhavec-542617": [
+{
+"alt": "",
+"barva": "#727d68",
+"dh": "667374d8e7e7dadc",
+"h": 959,
+"jistota": 0.903,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODYK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAEAQMFAv/EACoQAAIBAgUDAQkAAAAAAAAAAAECAwARBAUSEyEiMUFhRFFicYGRoeHx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABkRAQEBAQEBAAAAAAAAAAAAAAEAEQISIf/aAAwDAQACEQMRAD8A1MRhguF1S6UQcBSef1SckhKOHUNGbjcUg8fTtS2b4ssTFu6owrHp4vf+CsmXLnWUTaW2GsR7gbefWoUshluRPKgI0GQXJBDDtRSUOYbESxCJG0+W70UOEW3WMjVpBtHgrcAC3NSTJHAMPIQUi4W3k9/xervaD8LcelL45jvj5A/eneZE+S7ZfinVJI49ayLqBFFVySydPWw48GiuHJR4b//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolavrhavec.cz/skolavrhavec/fotogalerie.asp?copper=1926",
+"typ": "les",
+"url": "https://user.regiofoto.cz/foto/albums/userpics/10060/1657624680823.jpg",
+"w": 720
+},
+{
+"alt": "",
+"barva": "#757963",
+"dh": "525a33cb9b104253",
+"h": 959,
+"jistota": 0.863,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolavrhavec.cz/skolavrhavec/fotogalerie.asp?copper=1926",
+"typ": "les",
+"url": "https://user.regiofoto.cz/foto/albums/userpics/10060/1657624680807.jpg",
+"w": 720
 }
 ],
 "zakladni-skola-a-materska-skola-zlata-olesnice-300400": [

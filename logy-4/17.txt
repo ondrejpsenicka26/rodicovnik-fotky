@@ -1,2 +1,10 @@
-[10:40:16] Část 18/20: webů 149, hotovo 192, zbývá 0
-[10:40:16] Konec: školek s fotkami 57; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[11:04:06] Část 18/20: webů 155, hotovo 192, zbývá 6
+[11:04:17] https://www.mszdounky.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
+[11:04:38] https://skolachvateruby.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 18 fotek ke kontrole
+[11:04:45] https://skolavrhavec.cz: 15 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'zsvrhavec.rajce.idnes.cz'], alb: 0), 85 obrázků, 16 fotek ke kontrole
+[11:04:54] https://skola.skrdlovice.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 5 fotek ke kontrole
+[11:05:15] https://www.skolatrnava.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 1116 obrázků, 4 fotek ke kontrole
+[11:06:22] https://www.mspodlesi.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 1088 obrázků, 45 fotek ke kontrole
+[11:06:37] tříděno 0/93
+[11:06:49] Dávka 1: hotovo 198/155, se fotkami 61; {'ok': 8, 'lide': 12, 'jine': 61, 'sablona': 0}
+[11:06:49] Konec: školek s fotkami 61; {'ok': 8, 'lide': 12, 'jine': 61, 'sablona': 0}
