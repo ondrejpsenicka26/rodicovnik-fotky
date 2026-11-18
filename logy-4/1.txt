@@ -1,9 +1,9 @@
-[04:00:04] Část 2/20: webů 146, hotovo 167, zbývá 5
-[04:00:08] https://skolkacertik.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
-[04:00:36] https://bilovice.cz/default/report/335975_detska-skupina-vcelka-nedachlebice: 5 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 4 fotek ke kontrole
-[04:01:28] https://detskaskupinakrtecek.cz: 29 stránek (galerie mimo web: 1 ['detskaskupinakrtecek.rajce.idnes.cz'], alb: 0), 119 obrázků, 21 fotek ke kontrole
-[04:01:40] https://dcvlnka.cz: nedostupné nebo zakázané
-[04:01:40] https://skolamysl.cz: nedostupné nebo zakázané
-[04:01:55] tříděno 0/26
-[04:01:55] Dávka 1: hotovo 172/146, se fotkami 44; {'ok': 2, 'lide': 2, 'jine': 22, 'sablona': 0}
-[04:01:55] Konec: školek s fotkami 44; {'ok': 2, 'lide': 2, 'jine': 22, 'sablona': 0}
+[08:51:39] Část 2/20: webů 151, hotovo 172, zbývá 5
+[08:51:52] https://skolazahradky.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
+[08:52:10] https://2msprotivin.webnode.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
+[08:52:25] https://msostrovec.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 79 obrázků, 1 fotek ke kontrole
+[08:52:45] https://ms-strmilov.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 136 obrázků, 0 fotek ke kontrole
+[08:54:25] https://msjizerska.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 169 obrázků, 5 fotek ke kontrole
+[08:54:36] tříděno 0/6
+[08:54:37] Dávka 1: hotovo 177/151, se fotkami 45; {'ok': 1, 'lide': 0, 'jine': 5, 'sablona': 0}
+[08:54:37] Konec: školek s fotkami 45; {'ok': 1, 'lide': 0, 'jine': 5, 'sablona': 0}
