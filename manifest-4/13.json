@@ -158,6 +158,23 @@
 "w": 722
 }
 ],
+"detska-skupina-shining-smile-ds02287": [
+{
+"alt": "",
+"barva": "#898366",
+"dh": "977165138ef96397",
+"h": 997,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAVABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBf/EACcQAAICAgECBAcAAAAAAAAAAAECAAMEERIhMRQiIzNBUVKRocHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EAB0RAAIBBAMAAAAAAAAAAAAAAAABEQIDEjETIlH/2gAMAwEAAhEDEQA/ANfiqxWXXjv5b/Eicm1w3paDb7KekzY1VmGzWAB1YAlj01+5dc1nbjTbzY/UvEakIe0U5EZ8m7zqdd0ESjUs53azF/iQR/IhKFmiGPkWZLslp2muo1rcsaq0UmtArAHTDuIiO71qhaJI5jZV5Put94iJqxXgj//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://shiningsmile.cz/cs/",
+"typ": "interier",
+"url": "https://files.shiningsmile.cz/9zqa91fnku05/w960/Screenshot_20260515_111655_Gallery.jpg",
+"w": 960
+}
+],
 "detska-skupina-veverky-ds01557": [
 {
 "alt": "",
@@ -172,6 +189,23 @@
 "stranka": "https://mspoznanska.cz/w/nase-skolka/",
 "typ": "budova",
 "url": "https://mspoznanska.cz/w/wp-content/uploads/2022/10/IMG_20221004_160932aaa.jpg",
+"w": 1200
+}
+],
+"lesni-materska-skola-semicek-087812": [
+{
+"alt": "",
+"barva": "#67695b",
+"dh": "0c13ed87960c2d4d",
+"h": 803,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQACAxEEIRIiBTFxgdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/xAAcEQACAQUBAAAAAAAAAAAAAAAAAhMBAxEUUSH/2gAMAwEAAhEDEQA/ABY2S7JnbDDAHPd6t9JkuLO3GMzI45GtvkA4iq+RtZOFC3Hbscy7fb0ExzuVdQFnO3RpZXHoQ+Rs9YRX2pILjf5pSNh+lEp//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://www.skolkasemicek.cz/index.html",
+"typ": "les",
+"url": "http://www.skolkasemicek.cz/images/tp.jpg",
 "w": 1200
 }
 ],
@@ -309,6 +343,36 @@
 "stranka": "https://www.msoskorinek.cz/kdo-jsme/",
 "typ": "hygiena",
 "url": "https://www.msoskorinek.cz/wp-content/uploads/2023/04/IMG20230223151126-scaled.jpg",
+"w": 1200
+}
+],
+"materska-skola-sedmikraska-367820": [
+{
+"alt": "",
+"barva": "#949f84",
+"dh": "967a189b13630719",
+"h": 512,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAlEAACAQMDAgcAAAAAAAAAAAABAgMABAUREiEUMUFhYnKRwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRMVH/2gAMAwEAAhEDEQA/ANNvlmkKo1u6MRy5XgfNRkyFwXOzeV9KCrbGPqJArMQPKmqRpENqLpr3PiaKbuusxIQR58QgpJDM5B7kEfVFN5MJj5HLPbAn3H9opNr0sP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://ms7kraska.cz/zajickova-zahrada/",
+"typ": "budova",
+"url": "https://ms7kraska.cz/wp-content/uploads/2020/07/zahrada-sedmikraska-2.jpg",
+"w": 768
+},
+{
+"alt": "",
+"barva": "#879274",
+"dh": "14969bbbbb08101f",
+"h": 801,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "http://ms7kraska.cz/zajickova-zahrada/",
+"typ": "zahrada",
+"url": "https://ms7kraska.cz/wp-content/uploads/2026/07/zahrada-sedmikrska.jpg",
 "w": 1200
 }
 ],
