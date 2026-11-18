@@ -1,8 +1,2 @@
-[12:12:50] Část 16/20: webů 173, hotovo 213, zbývá 4
-[12:13:07] https://www.valec.cz/obec/organizace/skolstvi-zs-ms: 2 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 1 fotek ke kontrole
-[12:13:45] https://www.ublo.cz/materska-skola-ublo: 13 stránek (galerie mimo web: 0 [], alb: 0), 112 obrázků, 7 fotek ke kontrole
-[12:13:47] https://www.obyctov.cz/spolky-organizace/materska-skolka: 6 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 0 fotek ke kontrole
-[12:14:18] https://www.obec-holasovice.cz/obec-holasovice/materska-skola-holasovice/o-materske-skole: 32 stránek (galerie mimo web: 0 [], alb: 0), 300 obrázků, 1 fotek ke kontrole
-[12:14:29] tříděno 0/9
-[12:14:29] Dávka 1: hotovo 217/173, se fotkami 69; {'ok': 1, 'lide': 0, 'jine': 8, 'sablona': 0}
-[12:14:30] Konec: školek s fotkami 69; {'ok': 1, 'lide': 0, 'jine': 8, 'sablona': 0}
+[12:37:24] Část 16/20: webů 171, hotovo 217, zbývá 0
+[12:37:24] Konec: školek s fotkami 69; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
