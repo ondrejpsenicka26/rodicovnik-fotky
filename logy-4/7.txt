@@ -1,10 +1,16 @@
-[02:14:07] Část 8/20: webů 141, hotovo 160, zbývá 6
-[02:14:12] https://hejkalek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 3 fotek ke kontrole
-[02:14:24] https://mamincinkoutek.com: 5 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 20 fotek ke kontrole
-[02:14:24] https://dshrosik.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 15 fotek ke kontrole
-[02:14:30] https://skolkavlnenka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 628 obrázků, 45 fotek ke kontrole
-[02:14:43] https://hravaduha.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 21 fotek ke kontrole
-[02:15:34] https://skolickanafarme-markvartovice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 367 obrázků, 39 fotek ke kontrole
-[02:15:46] tříděno 0/143
-[02:15:57] Dávka 1: hotovo 166/141, se fotkami 40; {'ok': 10, 'lide': 14, 'jine': 107, 'sablona': 0}
-[02:15:57] Konec: školek s fotkami 40; {'ok': 10, 'lide': 14, 'jine': 107, 'sablona': 0}
+[03:59:59] Část 8/20: webů 149, hotovo 166, zbývá 12
+[04:00:01] https://polnicka.cz/detska-skupina-polnatka: nedostupné nebo zakázané
+[04:00:09] https://dominoliberec.eu: 1 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
+[04:00:11] https://ds-poupatka.webnode.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 3 fotek ke kontrole
+[04:00:15] https://dshangarek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 4 fotek ke kontrole
+[04:00:16] https://utrimalychmysu.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 8 fotek ke kontrole
+[04:00:19] https://dshangarek.cz/jezecek-jihlava: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
+[04:00:23] https://pohodickachrudim.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 12 fotek ke kontrole
+[04:00:52] https://strapatasmecka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 19 fotek ke kontrole
+[04:01:08] https://rckulihrasek.cz/detska-skupina-kulicka-prelouc-2: 9 stránek (galerie mimo web: 1 ['kulihrasek-pce.rajce.idnes.cz'], alb: 0), 62 obrázků, 23 fotek ke kontrole
+[04:01:16] https://skolavolynka.cz/volyne/skupina2: 2 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 5 fotek ke kontrole
+[04:01:34] https://montessorinadlani.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 48 obrázků, 35 fotek ke kontrole
+[04:02:30] https://zs-zdarec.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 490 obrázků, 23 fotek ke kontrole
+[04:02:50] tříděno 0/137
+[04:03:14] Dávka 1: hotovo 178/149, se fotkami 45; {'ok': 12, 'lide': 5, 'jine': 83, 'sablona': 0}
+[04:03:14] Konec: školek s fotkami 45; {'ok': 12, 'lide': 5, 'jine': 83, 'sablona': 0}
