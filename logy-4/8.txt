@@ -1,6 +1,18 @@
-[08:51:34] Část 9/20: webů 133, hotovo 174, zbývá 2
-[08:52:06] https://materska-skola-chlumany.cz: 8 stránek (galerie mimo web: 1 ['skolka-chlumany.rajce.idnes.cz'], alb: 0), 7 obrázků, 4 fotek ke kontrole
-[08:53:18] https://msdasny.wz.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 133 obrázků, 39 fotek ke kontrole
-[08:53:41] tříděno 0/43
-[08:53:44] Dávka 1: hotovo 176/133, se fotkami 61; {'ok': 5, 'lide': 0, 'jine': 18, 'sablona': 0}
-[08:53:44] Konec: školek s fotkami 61; {'ok': 5, 'lide': 0, 'jine': 18, 'sablona': 0}
+[09:22:12] Část 9/20: webů 147, hotovo 176, zbývá 14
+[09:22:34] https://skolaborkovany.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:23:02] https://mslomnicka.cz: 15 stránek (galerie mimo web: 1 ['materskaskolalomnicka.rajce.idnes.cz'], alb: 0), 7 obrázků, 5 fotek ke kontrole
+[09:23:05] https://msmalesovice.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 24 fotek ke kontrole
+[09:23:05] https://rychnovek.cz/nase-obec/materska-skola: 8 stránek (galerie mimo web: 0 [], alb: 0), 95 obrázků, 9 fotek ke kontrole
+[09:23:07] https://zschoustnik.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 15 fotek ke kontrole
+[09:23:07] https://ms-hrusovany.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 69 obrázků, 7 fotek ke kontrole
+[09:23:11] https://msvrchlickeho.webnode.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 64 obrázků, 3 fotek ke kontrole
+[09:23:20] https://mstresovice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 29 fotek ke kontrole
+[09:23:48] https://msbilovice.eu: nedostupné nebo zakázané
+[09:24:01] https://ms-nemcice.cz: 7 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'www.zonerama.com'], alb: 2), 49 obrázků, 5 fotek ke kontrole
+[09:24:02] https://ms-hronov-havlickova.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 4 fotek ke kontrole
+[09:24:02] https://waldorfcheb.cz/skolka: 9 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 19 fotek ke kontrole
+[09:24:05] https://msrozsec.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 113 obrázků, 33 fotek ke kontrole
+[09:24:15] https://zskrizanovice.cz: 31 stránek (galerie mimo web: 1 ['skolkakrizanovice.rajce.idnes.cz'], alb: 0), 4 obrázků, 0 fotek ke kontrole
+[09:24:34] tříděno 0/153
+[09:24:54] Dávka 1: hotovo 190/147, se fotkami 68; {'ok': 16, 'lide': 4, 'jine': 106, 'sablona': 0}
+[09:24:54] Konec: školek s fotkami 68; {'ok': 16, 'lide': 4, 'jine': 106, 'sablona': 0}

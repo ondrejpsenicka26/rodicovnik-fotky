@@ -957,6 +957,49 @@
 "w": 700
 }
 ],
+"materska-skola-hrusovany-nad-jevisovkou-615169": [
+{
+"alt": "",
+"barva": "#6d786c",
+"dh": "c3272727374133b3",
+"h": 509,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACAAUAwEiAAIRAQMRAf/EABcAAQADAAAAAAAAAAAAAAAAAAADBAX/xAAiEAABBAECBwAAAAAAAAAAAAABAAIDBBETIQUSIzFScaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxEhEv/aAAwDAQACEQMRAD8AggbcEfUpteceQyPqs1tW1GGwwsZJzZzqdh6RERO70ZZLc4/Rg8Qnmp3pYZXAPDskMOwzuiIk10tLh//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-hrusovany.cz/co-se-deje/fotografie/prostory-materske-skoly-1/",
+"typ": "budova",
+"url": "https://www.ms-hrusovany.cz/data/headerfooter/header_images/pano20250612122457.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5a6543",
+"dh": "1f1e7e660c183519",
+"h": 673,
+"jistota": 0.961,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-hrusovany.cz/co-se-deje/fotografie/prostory-materske-skoly-1/",
+"typ": "zahrada",
+"url": "https://www.ms-hrusovany.cz/data/headerfooter/header_images/pano20250612122706.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#748064",
+"dh": "c9cb8f9b9a1bfb17",
+"h": 673,
+"jistota": 0.919,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-hrusovany.cz/co-se-deje/fotografie/prostory-materske-skoly-1/",
+"typ": "zahrada",
+"url": "https://www.ms-hrusovany.cz/data/headerfooter/header_images/pano20250612122313_1.jpg",
+"w": 1200
+}
+],
 "materska-skola-kamarad-601141": [
 {
 "alt": "Veverky",
@@ -1079,6 +1122,92 @@
 "typ": "budova",
 "url": "https://www.skolaflow.cz/images/nase-skola/Balabenka-Office-Building.jpg",
 "w": 1200
+}
+],
+"materska-skola-lomnicka-604019": [
+{
+"alt": "",
+"barva": "#a29489",
+"dh": "fb33475b32260f07",
+"h": 540,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAACBAED/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIAAxESBCExEzNCUbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIhERL/2gAMAwEAAhEDEQA/AKqB1rpT6joQHycFsiV9CPk6tdtPZAOQ92v8i0+Z28ZmWSW7IXdQ2+YJ35hMrdwwgUHUj7TOz//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mslomnicka.cz/o-skolce/aktualne/zruseni-tp-367cs.html",
+"typ": "interier",
+"url": "https://www.mslomnicka.cz/data/headerfooter/header_images/20240901105418.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#91745a",
+"dh": "cb135bcb3c64d3e3",
+"h": 540,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mslomnicka.cz/o-skolce/aktualne/zruseni-tp-367cs.html",
+"typ": "interier",
+"url": "https://www.mslomnicka.cz/data/headerfooter/header_images/20240901105025.jpg",
+"w": 1200
+}
+],
+"materska-skola-malesovice-603489": [
+{
+"alt": "",
+"barva": "#bda982",
+"dh": "030339484a260e0e",
+"h": 666,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAgX/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMAERIEIUEFExQxMqGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQADAQADAAAAAAAAAAAAAAAAARECAyEx/9oADAMBAAIRAxEAPwDp+UkaZs4AvYEVvzmSYJ23cclR6ouj0yQhgtzl7vzSpPiQNtuKk47hej6yr0LifTzRiQTXVtxc2+qqL06JBA2eTnM7liPyqq06qA6mf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msmalesovice.cz/materska-skola-malesovice-fotogalerie.html",
+"typ": "interier",
+"url": "https://www.msmalesovice.cz/images/fotogalerie/1/15961112133526_IMG_6177.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#9f9c8c",
+"dh": "6431e6ebeb77cc1c",
+"h": 666,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msmalesovice.cz/materska-skola-malesovice-fotogalerie.html",
+"typ": "zahrada",
+"url": "https://www.msmalesovice.cz/images/fotogalerie/1/15961111275628_IMG_6157.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#a39b85",
+"dh": "af9e727efccc8694",
+"h": 666,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msmalesovice.cz/materska-skola-malesovice-fotogalerie.html",
+"typ": "interier",
+"url": "https://www.msmalesovice.cz/images/fotogalerie/1/15961111691178_IMG_6165.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#cbc8c2",
+"dh": "1733130b0b5a1303",
+"h": 666,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msmalesovice.cz/materska-skola-malesovice-fotogalerie.html",
+"typ": "hygiena",
+"url": "https://www.msmalesovice.cz/images/fotogalerie/1/15961111853941_IMG_6173.jpg",
+"w": 1000
 }
 ],
 "materska-skola-meceriz-100370": [
@@ -1313,6 +1442,66 @@
 "w": 1129
 }
 ],
+"materska-skola-rozsec-nad-kunstatem-600447": [
+{
+"alt": "40946772_2165141710393352_7000970222043660288_n",
+"barva": "#77705d",
+"dh": "831639c99c3e1aa4",
+"h": 900,
+"jistota": 0.991,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQG/8QAIhAAAgECBgMBAAAAAAAAAAAAAQIDABEEBhIhMVETFEFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGREBAAIDAAAAAAAAAAAAAAAAAAEREiFh/9oADAMBAAIRAxEAPwDWmYVhVRi4GR2FwIzq36PVWbMJllaDDqyakusj7EH6APprmUxJXgAfoqHk8gIN7Uect0cHxRHS/PO63opRHiZUQL7cm3YoqvpLh//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msrozsec.cz/fotoalbum/zahrada/",
+"typ": "budova",
+"url": "https://msrozsec.cz/img/original/41/40946772_2165141710393352_7000970222043660288_n.jpg",
+"w": 1200
+},
+{
+"alt": "40639583_264773334362257_2998336786964414464_n",
+"barva": "#726b4e",
+"dh": "898b89cb5b128831",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msrozsec.cz/fotoalbum/zahrada/",
+"typ": "zahrada",
+"url": "https://msrozsec.cz/img/original/34/40639583_264773334362257_2998336786964414464_n.jpg",
+"w": 1200
+},
+{
+"alt": "40779133_261873084459860_4132713846852812800_n",
+"barva": "#8d8575",
+"dh": "545595d291d92b32",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msrozsec.cz/fotoalbum/zahrada/",
+"typ": "zahrada",
+"url": "https://msrozsec.cz/img/original/39/40779133_261873084459860_4132713846852812800_n.jpg",
+"w": 1200
+}
+],
+"materska-skola-rychnovek-583879": [
+{
+"alt": "",
+"barva": "#556533",
+"dh": "5b6a9693690cc9e7",
+"h": 849,
+"jistota": 0.571,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADgAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAiEAACAgICAAcAAAAAAAAAAAABAgMRACEEEgUTIjFRYYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGREBAAIDAAAAAAAAAAAAAAAAAAEREjFR/9oADAMBAAIRAxEAPwCJFTPTTyKo32Is3jfH45eSo2cyUTHYIDn6+P3Gl8JIAEU1qNkOuay8VpuL3dlMYIoAUbGszTPQqtopjWJ2SZWMgPq2MMd8lD7IoA1hk8yv/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.rychnovek.cz/nase-obec/fotografie/nove-vybaveni-zs-2026-386cs.html",
+"typ": "budova",
+"url": "https://www.rychnovek.cz/data/headerfooter/header_images/rychnovekcbs202514.jpg",
+"w": 1200
+}
+],
 "materska-skola-skvorec-516161": [
 {
 "alt": "",
@@ -1434,6 +1623,36 @@
 "stranka": "https://mssvojetin-cz.webnode.page/",
 "typ": "budova",
 "url": "https://d7ad86af3a.cbaul-cdnwnd.com/99fbd8a172e0acb5476e60151c2ef24f/200000024-3c77c3c77f/Skolka-1.png?ph=d7ad86af3a",
+"w": 1200
+}
+],
+"materska-skola-tresovice-581531": [
+{
+"alt": "Mateřská škola Třesovice v roce 1981",
+"barva": "#bf9d8b",
+"dh": "efcf35512532f2d3",
+"h": 900,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEFBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEEQUSMQYhYRMiQZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABoRAQABBQAAAAAAAAAAAAAAAAABERIhQXH/2gAMAwEAAhEDEQA/ANIJJrqJWM+wOoO1QBz5zSkt5JsZl7AkcjxWRfXwgaJYS4ddpJwKdp1JJEGJjRyXL+4fJ5/BUetFs6VNTtTBdbfXfuoOBGGx9UVPXq2SMbTaRjHGAOKKVBl//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mstresovice.cz/o-nas/historie/",
+"typ": "budova",
+"url": "https://mstresovice.cz/wp-content/themes/ms-tresovice/assets/images/history/1981.jpg",
+"w": 1200
+},
+{
+"alt": "Mateřská škola Třesovice",
+"barva": "#908b7a",
+"dh": "d601c8b031b54acc",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mstresovice.cz/o-nas/prostory-a-ekodex/",
+"typ": "budova",
+"url": "https://mstresovice.cz/wp-content/themes/ms-tresovice/assets/images/spaces/nase-skola1.jpg",
 "w": 1200
 }
 ],
@@ -1671,6 +1890,23 @@
 "typ": "budova",
 "url": "https://www.ocnims.cz/wp-content/uploads/2017/01/skolka-budova-2.jpg",
 "w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-choustnik-535203": [
+{
+"alt": "",
+"barva": "#b78a5f",
+"dh": "26781b3b3d1545c5",
+"h": 532,
+"jistota": 0.986,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIAAxEhBBIxUWGB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAEREiECUf/aAAwDAQACEQMRAD8Av4daNUGRa11vPn99Q7GVSVNpKLrGZIaVVeqlgDvTGOlK2hwxYd9kgyRLqMZU4nQ3vatuqAAD48zSfnFxymxY40PXqaCrFZeH/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zschoustnik.cz/",
+"typ": "budova",
+"url": "https://www.zschoustnik.cz/data/headerfooter/header_images/podzimni-skola-v-teplem-svetle.png",
+"w": 900
 }
 ],
 "zakladni-skola-a-materska-skola-domousice-566869": [
