@@ -339,6 +339,79 @@
 "w": 1200
 }
 ],
+"detska-skupina-ovecka-ds10766": [
+{
+"alt": "Obecní úřad",
+"barva": "#686e76",
+"dh": "0380c09b93370f07",
+"h": 900,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAgME/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIRAAMEBRIhMUEGExaRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAIREv/aAAwDAQACEQMRAD8ArOp6nay3GPcVkZiyqwWY8d89Vps+oNSG2cWzdkcBTE/RpNZzSpVoUsBAJHipJl+0q7FUFZgkc0qwYo6+SXW5bTbk9Hbc4/KKQDPuWyQkKCZMDzRSrEyp/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ovcary.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://ovcary.cz/fotky/763/obecniurad.jpg",
+"w": 1200
+},
+{
+"alt": "Foto IV",
+"barva": "#696057",
+"dh": "2073333222723838",
+"h": 1200,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://ovcary.cz/detska-skupina-ovecka/",
+"typ": "interier",
+"url": "https://ovcary.cz/formular/IMG_20260227_121829966_HDR_69a18bb8d3a2a.jpg",
+"w": 900
+},
+{
+"alt": "Foto V",
+"barva": "#8a8b93",
+"dh": "ff85c0d8cc102284",
+"h": 1200,
+"jistota": 0.992,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://ovcary.cz/detska-skupina-ovecka/",
+"typ": "budova",
+"url": "https://ovcary.cz/formular/IMG_20260227_122554958_69a18c0c83449.jpg",
+"w": 900
+},
+{
+"alt": "Foto I",
+"barva": "#6b6157",
+"dh": "070f8fcbdac38383",
+"h": 1200,
+"jistota": 0.998,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://ovcary.cz/detska-skupina-ovecka/",
+"typ": "interier",
+"url": "https://ovcary.cz/formular/IMG_20260227_121809059_HDR_69a18a40834a7.jpg",
+"w": 900
+}
+],
+"detska-skupina-panacci-2-ds00187": [
+{
+"alt": "",
+"barva": "#a6a3a1",
+"dh": "cc61f1f5e1f0d249",
+"h": 800,
+"jistota": 0.986,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAiEAACAgIBAwUAAAAAAAAAAAABAgMRAAQSEyFBBRQxcfD/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAEQIS/9oADAMBAAIRAxEAPwDu77xQEU7/ABy5XZBuqyKOVdyJVliO0i9ylDkw7+DX4Ym1G21wPUKCqIqwcx04PZycUcsrgdj4yxIeyT1KGYbZ6SuqECh078YZad+VKAJP2bwwxn0X/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://panacci.eu/",
+"typ": "interier",
+"url": "https://panacci.eu/wp-content/uploads/2021/10/prostory_panacci_mestecko_11.jpg",
+"w": 1200
+}
+],
 "detska-skupina-v-risi-pribehu-ds01972": [
 {
 "alt": "Prostory školičky – pohled na policový systém s hračkami",
@@ -366,6 +439,62 @@
 "stranka": "https://www.vrisipribehu.cz/",
 "typ": "interier",
 "url": "https://cdn.prod.website-files.com/64522a05a56d84cd79d0a473/64522a05a56d84c971d0a548_prostory_slunicko_6.jpg",
+"w": 1200
+}
+],
+"detska-skupina-vcelicky-ds01973": [
+{
+"alt": "",
+"barva": "#90929a",
+"dh": "e7cd39551146e7fd",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACAQAAIBAwUBAQAAAAAAAAAAAAECAwAEERITITFhBUH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESMf/aAAwDAQACEQMRAD8A1LmST6bAXMhWE4Igj681H9pG+kQCQpFGgYLjOSalczxqqxSkKowM90hrq4XjeYGtSE6XXanfONajHStRWY11cE8ylvTRSoYZ/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.vcelickydubnany.cz/detska-skupina-vcelicky/",
+"typ": "budova",
+"url": "https://083db803ef.clvaw-cdnwnd.com/6bcafc951af196624fe8fe9121c232ed/200000126-d3d54d3d55/tempImagepm8VcW.png?ph=083db803ef",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9a907e",
+"dh": "1913b232f49c7141",
+"h": 900,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.vcelickydubnany.cz/detska-skupina-vcelicky/",
+"typ": "interier",
+"url": "https://083db803ef.clvaw-cdnwnd.com/6bcafc951af196624fe8fe9121c232ed/200000117-a20ada20af/tempImagesIycwu.png?ph=083db803ef",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8d929a",
+"dh": "37085a4a4e6fe786",
+"h": 900,
+"jistota": 0.937,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.vcelickydubnany.cz/detska-skupina-vcelicky/",
+"typ": "budova",
+"url": "https://083db803ef.clvaw-cdnwnd.com/6bcafc951af196624fe8fe9121c232ed/200000130-6e2456e247/tempImagel4nf1G.png?ph=083db803ef",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#948b78",
+"dh": "b0f0bcb466611bc7",
+"h": 900,
+"jistota": 0.913,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.vcelickydubnany.cz/detska-skupina-vcelicky/",
+"typ": "interier",
+"url": "https://083db803ef.clvaw-cdnwnd.com/6bcafc951af196624fe8fe9121c232ed/200000119-daf91daf92/tempImage8Ou0OP.png?ph=083db803ef",
 "w": 1200
 }
 ],
@@ -1122,6 +1251,49 @@
 "stranka": "https://szm-mohelnice.cz/",
 "typ": "budova",
 "url": "https://szm-mohelnice.cz/wp-content/uploads/2024/10/hlavni_stranka_final.png",
+"w": 1200
+}
+],
+"sunny-kids-detska-skupina-ds01426": [
+{
+"alt": "Sluníčková třída pro děti ve věku 3–4 roky",
+"barva": "#caa885",
+"dh": "d28c6da1910d0c72",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAjEAACAgIBAwUBAAAAAAAAAAABAgMRAAQSITFxEyJBUVKh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQATEf/aAAwDAQACEQMRAD8AbNLoKSWALoCCgNm/rLIJ9Zgq67LGSRzDd6rt1zIiFF9WRlY3fGuh85BtpNiUvoQCJxV86IYeMLqck5s2EgiUIQxI/K9MMV8ppPdK7q3yEeh/MMzuFcVv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.sunnykids.cz/",
+"typ": "interier",
+"url": "https://www.sunnykids.cz/images/gallery/sunny-kids-ricany-trida-slunicek-barevne-prostory-pro-deti-3-4-roky.webp",
+"w": 1200
+},
+{
+"alt": "Slunečná třída Obláčků plná hraček, pohody a kreativity pro děti ve věku 2–4 roky",
+"barva": "#a39883",
+"dh": "349434343476130c",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.sunnykids.cz/",
+"typ": "interier",
+"url": "https://www.sunnykids.cz/images/gallery/sunny-kids-ricany-trida-oblacku-prostorna-herna-pro-deti-2-4-roky.webp",
+"w": 1200
+},
+{
+"alt": "Prostorné a prosvětlené šatničky pro děti",
+"barva": "#918e84",
+"dh": "5fedbbb83cbc9e9f",
+"h": 800,
+"jistota": 0.679,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.sunnykids.cz/",
+"typ": "hygiena",
+"url": "https://www.sunnykids.cz/images/gallery/sunny-kids-ricany-satna-prosvetlene-detske-satny-komfortni-prostor.webp",
 "w": 1200
 }
 ],
