@@ -776,6 +776,62 @@
 "w": 1024
 }
 ],
+"materska-skola-hrivice-566303": [
+{
+"alt": "",
+"barva": "#786d5f",
+"dh": "db551a1b369e3373",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUC/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDEQAEEiETFDGxUVJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFxEBAQEBAAAAAAAAAAAAAAAAABIBYf/aAAwDAQACEQMRAD8A3DIkgBEqkoavdzWDNAWJ7mO/Fk3+5GbbGjOiKGrg1mNJN1i/WRH4+oHrM6XKqup0rCw8ZvzVH2MZEkibealcD4xhWGev/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mshrivice.cz/o-skolce/",
+"typ": "interier",
+"url": "https://www.mshrivice.cz/wp-content/uploads/2024/05/rizene-cinnosti.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f7e57",
+"dh": "8ece43528b898d66",
+"h": 800,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mshrivice.cz/o-skolce/",
+"typ": "zahrada",
+"url": "https://www.mshrivice.cz/wp-content/uploads/2024/05/pobyt-venku.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#686556",
+"dh": "da9b1b7dc7830f5a",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mshrivice.cz/o-skolce/",
+"typ": "interier",
+"url": "https://www.mshrivice.cz/wp-content/uploads/2024/05/pohybove-aktivity.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#686560",
+"dh": "93959292e373c08e",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mshrivice.cz/o-skolce/",
+"typ": "hygiena",
+"url": "https://www.mshrivice.cz/wp-content/uploads/2024/05/otuzovani.jpg",
+"w": 1200
+}
+],
 "materska-skola-hroznetin-541513": [
 {
 "alt": "",
@@ -834,6 +890,23 @@
 "typ": "budova",
 "url": "https://www.mshulin.cz/data/multipage/editor/editor-16-132-cs_1.png?gcm_date=1685893555",
 "w": 765
+}
+],
+"materska-skola-hvozdnice-013088": [
+{
+"alt": "",
+"barva": "#6c7d82",
+"dh": "61e5052a2b0d8c09",
+"h": 511,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAhEAABBAIBBQEAAAAAAAAAAAABAAIDEQQSkRMhMUFxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABwRAAMAAQUAAAAAAAAAAAAAAAABAhESEyExUf/aAAwDAQACEQMRAD8AZjtxMqMF0gpwsNoX+2miLBbEzaV0dt2BcRwuMjJ3Hf2tUxLhEHEkaeLSdV3kzmIXGCxmR4glbtlOjJaCW9RprhCkEBpIAFfEKa2LbXh//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mshvozdnice.cz/",
+"typ": "budova",
+"url": "https://www.mshvozdnice.cz/uploads/IMG_20160913_090114.jpg",
+"w": 910
 }
 ],
 "materska-skola-k-podjezdu-501431": [
@@ -1085,6 +1158,23 @@
 "w": 1200
 }
 ],
+"materska-skola-sedliste-587503": [
+{
+"alt": "og",
+"barva": "#8b8071",
+"dh": "5dfdc71f1f7d4cef",
+"h": 466,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAlEAACAQIFBAMBAAAAAAAAAAABAgMABAUREiExE0FRYSKBoZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAZEQEBAAMBAAAAAAAAAAAAAAABABIiMUH/2gAMAwEAAhEDEQA/AKcON3N90ZII1ijZDq1jUM/I/n7S+IC4cJItxM80b6h2UfXFYFk0cSRwzaETgFAdvFTMVtDMq5uqhOyqdzx59UavtvUOSGLSSzYhJJMfm+5A4Hrc0VwazyOXU/KKsiK//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolka-sedliste.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://7025dfbbe1.clvaw-cdnwnd.com/65b1d6465f54ec4a3dd6af5c20fb1dc3/200000025-c6026c6027/700/IMG_0572.JPG?ph=7025dfbbe1",
+"w": 700
+}
+],
 "materska-skola-slatinky-610540": [
 {
 "alt": "",
@@ -1334,6 +1424,62 @@
 "w": 1024
 }
 ],
+"ms-druztova-544521": [
+{
+"alt": "",
+"barva": "#757069",
+"dh": "67cf8eda594948f3",
+"h": 814,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMABBEFEiFBEzIiMWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAEREv/aAAwDAQACEQMRAD8Ad1LWJLk7DJ4rckLtRvbn6LD86FKwXsBlNtAmGTr1Fc6zui4Ujhg1bs5iLpZAoBTOKLKV6eF5ijGcxfHGFfGeTzRU46vC4Hlt2ZlGMhsd0UcnX//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msdruztova.cz/galerie/",
+"typ": "budova",
+"url": "https://www.msdruztova.cz/wp-content/uploads/2024/04/ms1.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#858357",
+"dh": "10030f8f0b039280",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msdruztova.cz/galerie/",
+"typ": "interier",
+"url": "https://www.msdruztova.cz/wp-content/uploads/2024/05/20210831_1404071-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#595552",
+"dh": "01e82a383c384205",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msdruztova.cz/galerie/",
+"typ": "budova",
+"url": "https://www.msdruztova.cz/wp-content/uploads/2024/04/ms.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#868149",
+"dh": "765444a7a78dc5f4",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msdruztova.cz/galerie/",
+"typ": "interier",
+"url": "https://www.msdruztova.cz/wp-content/uploads/2024/05/20210831_1402301-1-scaled.jpg",
+"w": 1200
+}
+],
 "ms-kocicka-koci-061309": [
 {
 "alt": "",
@@ -1388,6 +1534,23 @@
 "typ": "zahrada",
 "url": "https://www.ms-koci.cz/data/headerfooter/header_images/mskoci24.jpg",
 "w": 1200
+}
+],
+"ms-pasecnice-540088": [
+{
+"alt": "P1000494.JPG",
+"barva": "#847463",
+"dh": "67677535d7c6953c",
+"h": 768,
+"jistota": 0.986,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwAEEhEhMQWhExRRcYGR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABkRAAMAAwAAAAAAAAAAAAAAAAABEgIRUf/aAAwDAQACEQMRAD8Apia3mtY1jGLi3xYFcdSCPvg0tF1JIYQDbkguRkX0/c1Ai8S8kJSYoqgE7b6+/wAVqVEigZXGZLasx1370Tz0JAx1G9iN9KzKy5sWAPpRSPl4xwe1FVPhso//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.pasecnice.cz/",
+"typ": "interier",
+"url": "https://ms.pasecnice.cz/file.php?nid=15737&oid=5443160",
+"w": 1024
 }
 ],
 "ms-pstrossova-500116": [
