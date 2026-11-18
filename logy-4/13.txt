@@ -1,5 +1,2 @@
-[12:12:57] Část 14/20: webů 183, hotovo 228, zbývá 1
-[12:13:40] https://obecrimov.cz/materska-skola/kontakt.html: 18 stránek (galerie mimo web: 1 ['uvk.rajce.idnes.cz'], alb: 0), 97 obrázků, 10 fotek ke kontrole
-[12:13:49] tříděno 0/10
-[12:13:49] Dávka 1: hotovo 229/183, se fotkami 65; {'ok': 1, 'lide': 1, 'jine': 8, 'sablona': 0}
-[12:13:49] Konec: školek s fotkami 65; {'ok': 1, 'lide': 1, 'jine': 8, 'sablona': 0}
+[12:38:05] Část 14/20: webů 183, hotovo 229, zbývá 0
+[12:38:05] Konec: školek s fotkami 65; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
