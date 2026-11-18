@@ -1,18 +1,10 @@
-[00:41:52] Část 6/20: webů 126, hotovo 138, zbývá 14
-[00:41:59] https://dsmalicci.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[00:42:02] https://dsminiskolkavyskov.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 5 fotek ke kontrole
-[00:42:03] https://nejkrasnejsisvet.eu: 3 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 3 fotek ke kontrole
-[00:42:09] https://bambinohodonin.cz/skupiny: 1 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 1 fotek ke kontrole
-[00:42:13] https://teddy-ricany.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 15 fotek ke kontrole
-[00:42:22] https://spectrumcare.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 7 fotek ke kontrole
-[00:42:26] https://sokolikrevnice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 14 fotek ke kontrole
-[00:42:39] http://www.zsbohusovice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[00:42:41] https://klubicek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 90 obrázků, 44 fotek ke kontrole
-[00:42:43] http://skolachotysany.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 108 obrázků, 36 fotek ke kontrole
-[00:42:57] https://creativekids.cz/skupina-creative-life: 11 stránek (galerie mimo web: 0 [], alb: 0), 702 obrázků, 41 fotek ke kontrole
-[00:43:02] https://dsbambulky.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 14 fotek ke kontrole
-[00:43:12] http://www.zshrjesenik.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 175 obrázků, 0 fotek ke kontrole
-[00:43:12] https://skolkasmilovice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 14 fotek ke kontrole
-[00:43:25] tříděno 0/194
-[00:43:43] Dávka 1: hotovo 152/126, se fotkami 47; {'ok': 11, 'lide': 8, 'jine': 167, 'sablona': 0}
-[00:43:43] Konec: školek s fotkami 47; {'ok': 11, 'lide': 8, 'jine': 167, 'sablona': 0}
+[02:14:02] Část 6/20: webů 127, hotovo 152, zbývá 6
+[02:14:07] https://planetkauffo.cz/martanci: 2 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
+[02:14:21] https://usti.ymca.cz: nedostupné nebo zakázané
+[02:14:27] https://kolackove.cz/smiskove: 2 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 23 fotek ke kontrole
+[02:14:52] https://pliska-academy.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 29 fotek ke kontrole
+[02:15:01] https://vikikidsclub.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 142 obrázků, 34 fotek ke kontrole
+[02:16:49] https://skolickanafarme-bohumin.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 75 obrázků, 33 fotek ke kontrole
+[02:17:08] tříděno 0/119
+[02:17:22] Dávka 1: hotovo 158/127, se fotkami 48; {'ok': 3, 'lide': 6, 'jine': 90, 'sablona': 0}
+[02:17:22] Konec: školek s fotkami 48; {'ok': 3, 'lide': 6, 'jine': 90, 'sablona': 0}

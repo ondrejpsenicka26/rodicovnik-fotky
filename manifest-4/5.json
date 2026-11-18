@@ -1107,6 +1107,49 @@
 "w": 1200
 }
 ],
+"pliska-academy-detska-skupina-ds01951": [
+{
+"alt": "",
+"barva": "#b8a891",
+"dh": "6a43c59ab68cd932",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACQQAAICAgEBCQAAAAAAAAAAAAECAAMRIQQxEhQiI0FRYWKx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRIRL/2gAMAwEAAhEDEQA/ANV73e4VUUucZyxAA6Ro5fls3dwVGiwIwJFWgLgjXpqL4973WkHwqvQKf33kOtK1henIV1BBFf1bREIoVl1B7br8AwjUgNH/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.pliska-academy.cz/",
+"typ": "interier",
+"url": "https://www.pliska-academy.cz/assets/foto/IMG_4457.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b5a999",
+"dh": "5b8526e386325b36",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.pliska-academy.cz/",
+"typ": "interier",
+"url": "https://www.pliska-academy.cz/assets/foto/IMG_4458.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c5c4c1",
+"dh": "0b0b033bbbe68707",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.pliska-academy.cz/",
+"typ": "hygiena",
+"url": "https://www.pliska-academy.cz/assets/foto/IMG_4470.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-bechlin-565129": [
 {
 "alt": "",
