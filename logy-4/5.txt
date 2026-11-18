@@ -1,7 +1,6 @@
-[11:38:39] Část 6/20: webů 159, hotovo 210, zbývá 3
-[11:39:23] https://www.msparmska.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 15 fotek ke kontrole
-[11:39:34] https://msfugnerovazatec.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 17 fotek ke kontrole
-[11:40:30] https://www.msnadstolou.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 29 fotek ke kontrole
-[11:40:57] tříděno 0/61
-[11:41:03] Dávka 1: hotovo 213/159, se fotkami 76; {'ok': 8, 'lide': 4, 'jine': 46, 'sablona': 0}
-[11:41:03] Konec: školek s fotkami 76; {'ok': 8, 'lide': 4, 'jine': 46, 'sablona': 0}
+[11:45:29] Část 6/20: webů 161, hotovo 213, zbývá 2
+[11:45:38] https://www.dszvidalek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 2 fotek ke kontrole
+[11:45:39] https://www.skolickasedlec.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 5 fotek ke kontrole
+[11:45:52] tříděno 0/7
+[11:45:52] Dávka 1: hotovo 215/161, se fotkami 77; {'ok': 2, 'lide': 0, 'jine': 5, 'sablona': 0}
+[11:45:52] Konec: školek s fotkami 77; {'ok': 2, 'lide': 0, 'jine': 5, 'sablona': 0}

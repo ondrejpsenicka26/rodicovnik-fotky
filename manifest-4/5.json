@@ -308,6 +308,36 @@
 "w": 900
 }
 ],
+"detska-skupina-skolicka-sedlec-ds01711": [
+{
+"alt": "og",
+"barva": "#818b7f",
+"dh": "0ef9272790c973b6",
+"h": 525,
+"jistota": 0.94,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBf/EACYQAAIBAgUCBwAAAAAAAAAAAAECAwARBAUSITEVgRYiMjNBYXL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAZEQADAAMAAAAAAAAAAAAAAAAAARIDE2H/2gAMAwEAAhEDEQA/ALuuYKx90EfGnemc8wRjLNKfyy71mNlIYhmXzjmx2Pa9ODDrh2WSaFSi31IOG70VlYZKvEWXDguR9R0VGZy51DCRRg76fVbveit29KUf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolickasedlec.cz/",
+"typ": "budova",
+"url": "https://f33708a41a.clvaw-cdnwnd.com/44bfe85832e9e6a736db4f88b09dc97e/200000007-3167431677/700/skolicka_venku.jpg?ph=f33708a41a",
+"w": 700
+},
+{
+"alt": "",
+"barva": "#af9c84",
+"dh": "4f4dc1a3adf8e9c0",
+"h": 800,
+"jistota": 0.995,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolickasedlec.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://f33708a41a.clvaw-cdnwnd.com/44bfe85832e9e6a736db4f88b09dc97e/200000024-2ba382ba3a/hrad-skolicka-sedlec.jpeg?ph=f33708a41a",
+"w": 1200
+}
+],
 "detska-skupina-smilovice-havranik-ds10980": [
 {
 "alt": "",
