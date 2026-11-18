@@ -1391,6 +1391,62 @@
 "w": 1200
 }
 ],
+"materska-skola-manetin-544687": [
+{
+"alt": "",
+"barva": "#8d8767",
+"dh": "4206107573572b44",
+"h": 667,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAgMF/8QAJRAAAgIBAgUFAQAAAAAAAAAAAQIDEQASIQQiQVFhBQYTMaHw/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAB/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACERMxUf/aAAwDAQACEQMRAD8AOEhPDLFI7g8zMAVbY6b/ALvjKeuziNiyqdI3NON7HdfOZ4Jj2Q6QfuuuSLGrs2fOE5k6tE8nH9zGF2j+JeU1ZJ3/ADDKYoInTU8asT1IwxBnkm60X//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msmanetin.cz/materska-skola/zahrada/",
+"typ": "budova",
+"url": "https://www.msmanetin.cz/data/headerfooter/header_images/pano202505231053272.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#69733c",
+"dh": "83afbcbc3c695072",
+"h": 747,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msmanetin.cz/materska-skola/zahrada/",
+"typ": "zahrada",
+"url": "https://www.msmanetin.cz/data/headerfooter/header_images/pano202505231046071.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#677251",
+"dh": "72321cec73bc4c0e",
+"h": 564,
+"jistota": 0.943,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msmanetin.cz/materska-skola/zahrada/",
+"typ": "les",
+"url": "https://www.msmanetin.cz/data/headerfooter/header_images/pano202505231046502.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#78854d",
+"dh": "c686262e0e0bac64",
+"h": 747,
+"jistota": 0.656,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msmanetin.cz/materska-skola/zahrada/",
+"typ": "budova",
+"url": "https://www.msmanetin.cz/data/headerfooter/header_images/pano202505231043431.jpg",
+"w": 1200
+}
+],
 "materska-skola-mesta-benatky-nad-jizerou-514869": [
 {
 "alt": "",
