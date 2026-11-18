@@ -270,6 +270,161 @@
 "w": 903
 }
 ],
+"detska-skupina-sedmikraska-ds01869": [
+{
+"alt": "Herna - čistá zóna",
+"barva": "#746f63",
+"dh": "858105312874eaaa",
+"h": 674,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEERIFIQYiMWGBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAESESMf/aAAwDAQACEQMRAD8ATtlSDaZ5pFA7bVff9qtH5daLGFZWxjGfvNZGWeVhLs5IC9fFNrEjwqzrsdAO6z0ioipynJxXt4Z4D6GAxRUkIqqAFGKKO0SP/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mcsedmikraskabrno.cz/kopie-z-narozeninove-oslavy/",
+"typ": "interier",
+"url": "https://2706c53fc2.clvaw-cdnwnd.com/780c85b1939a2c397ca3c2f43bfb23f4/200000274-c6a88c6a8a/Herna%201.jpg?ph=2706c53fc2",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9a8c6a",
+"dh": "a96d69b9b9cddfff",
+"h": 674,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.mcsedmikraskabrno.cz/kopie-z-jsme-misto-family-point/",
+"typ": "interier",
+"url": "https://2706c53fc2.clvaw-cdnwnd.com/780c85b1939a2c397ca3c2f43bfb23f4/200000480-9d4f29d4f5/Herna%202-0.jpg?ph=2706c53fc2",
+"w": 1200
+},
+{
+"alt": "Šatna",
+"barva": "#7f7d67",
+"dh": "c9d6a3b333630706",
+"h": 1200,
+"jistota": 0.787,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.mcsedmikraskabrno.cz/kopie-z-narozeninove-oslavy/",
+"typ": "hygiena",
+"url": "https://2706c53fc2.clvaw-cdnwnd.com/780c85b1939a2c397ca3c2f43bfb23f4/200000278-a8a58a8a5a/%C5%A0atna.jpg?ph=2706c53fc2",
+"w": 674
+}
+],
+"detska-skupina-smisek-ds00742": [
+{
+"alt": "Gallery image 1",
+"barva": "#979086",
+"dh": "c647c5f1c3c9ce46",
+"h": 1055,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAASABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAkEAACAgAFBAMBAAAAAAAAAAABAgADERIhMVEEBSJBE2FxMv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAIDAAAAAAAAAAAAAAAAAAIxARES/9oADAMBAAIRAxEAPwDSvvqqsyOxzAZj4nbHCQs6im+kpU6tZxgfW84+7NmuWxW/qg6Z8vsHiRptr6ZyXatVGYli4049fcGCXN4MQwB4+hE6KKV6xDahDKToR+RFyO2ObbAtAFjgfCmmJ4lhseyh1sdnUjZjiIiA2j2JiO2VgEgYnb9iIl40jK3/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkasmisek.cz/s/galerie",
+"typ": "interier",
+"url": "https://www.skolkasmisek.cz/public/uploads/stranky/9d380b7d-33f9-493c-bc49-cd3feee7b419-f198b1e5-4d67-4546-8b77-ab2d0887fb9d-processed-d87dce7e-e59e-40ef-b2a0-0d82948d0b82_ryv8z6jm.jpeg",
+"w": 1200
+},
+{
+"alt": "Gallery image 1",
+"barva": "#786e64",
+"dh": "d7c4c38f881ba347",
+"h": 675,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkasmisek.cz/s/galerie",
+"typ": "zahrada",
+"url": "https://www.skolkasmisek.cz/public/uploads/stranky/d6d82d6c-b627-41eb-ae79-61606b5bcc63-22296b7f-d49c-43d3-a4a7-7e57bb5c3a47-processed-f4756cd2-54c0-4f6a-9068-2164e8f848e3_4w1pvvnx.jpeg",
+"w": 1200
+},
+{
+"alt": "Gallery image 1",
+"barva": "#8b837d",
+"dh": "30e66450e0b0e0f0",
+"h": 900,
+"jistota": 0.957,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkasmisek.cz/s/galerie",
+"typ": "interier",
+"url": "https://www.skolkasmisek.cz/public/uploads/stranky/46fbed3c-d34d-44f4-97d3-f11e165b2d58-63fae80e-8841-4c45-9340-65be4d35f3b5-processed-646f95c1-5761-4590-a57a-6ccc8e703c36_dvfez7ve.jpeg",
+"w": 1200
+},
+{
+"alt": "Gallery image 1",
+"barva": "#6c685e",
+"dh": "fd7f7725b1f480b9",
+"h": 1080,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolkasmisek.cz/s/galerie",
+"typ": "hygiena",
+"url": "https://www.skolkasmisek.cz/public/uploads/stranky/d87e741e-7ea6-4f34-ab4b-394d06c457f0-14a0effa-2177-47bc-9a04-88a1244d7ec0-processed-0b59edc1-b5e4-41e7-a94b-840999f12057_rrba9rdi.jpeg",
+"w": 810
+}
+],
+"detska-skupina-zvonicka-nemcice-ds10780": [
+{
+"alt": "",
+"barva": "#4f8698",
+"dh": "b0f0f8e49959f6fe",
+"h": 525,
+"jistota": 0.977,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQT/xAAhEAACAgICAQUAAAAAAAAAAAABAgMRACEEEmExMkFRcf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAFAFRYWL/2gAMAwEAAhEDEQA/AHS8cqxU1fyCcSeN021KPJrEyMAdWDdk2d/v3mSbq8xk2Gu6HoMu9FGNXorqiqouaMXv3DDI7yCZuzLvxrDFcwK+n//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dszvonicka.cz/aktualne/jidelnicek/",
+"typ": "budova",
+"url": "https://www.dszvonicka.cz/data/headerfooter/header_images/750569944275462956116478635862239722118458157n.jpg",
+"w": 700
+},
+{
+"alt": "",
+"barva": "#8e7b63",
+"dh": "2c33af09981c3e9e",
+"h": 600,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dszvonicka.cz/",
+"typ": "interier",
+"url": "https://www.dszvonicka.cz/evt_image.php?img=711&v=1789039405&width=800",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#8c7e6e",
+"dh": "d0eed8bebc3ed3cc",
+"h": 600,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dszvonicka.cz/",
+"typ": "interier",
+"url": "https://www.dszvonicka.cz/evt_image.php?img=720&v=1789101174&width=800",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#877352",
+"dh": "371d9c9c5ccecb1c",
+"h": 1019,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dszvonicka.cz/aktualne/fotogalerie/trida-zvoniku-32cs.html",
+"typ": "hygiena",
+"url": "https://www.dszvonicka.cz/evt_image.php?img=716&width=765&height=1019",
+"w": 765
+}
+],
 "krakonosova-zs-a-ms-586541": [
 {
 "alt": "",
