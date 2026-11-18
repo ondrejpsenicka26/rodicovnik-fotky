@@ -1,0 +1,20 @@
+[08:29:33] Část 7/8: webů 16, hotovo 0, zbývá 16
+[08:29:37] https://www.velenov.cz: 4 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 1), 0 obrázků, 0 fotek ke kontrole
+[08:29:54] https://www.skolaprisnotice.cz: 7 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 1), 1 obrázků, 0 fotek ke kontrole
+[08:29:54] https://materska-skola-pitin.webnode.cz: 4 stránek (galerie mimo web: 1 ['skolkapitin.rajce.idnes.cz'], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[08:29:55] https://mraveniste-prirodni-klub.webnode.cz: 5 stránek (galerie mimo web: 1 ['mravenisteklub.rajce.idnes.cz'], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[08:30:07] https://www.cotkytle.cz: 13 stránek (galerie mimo web: 1 ['cotkytle.rajce.idnes.cz'], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[08:30:07] https://www.slunicko-krnov.cz: 3 stránek (galerie mimo web: 1 ['mskcapka.rajce.idnes.cz'], alb: 0), 14 obrázků, 9 fotek ke kontrole
+[08:30:15] https://www.zszahorovice.cz: 3 stránek (galerie mimo web: 1 ['zszahorovice.rajce.idnes.cz'], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[08:30:22] https://www.zs.darkovice.cz: 13 stránek (galerie mimo web: 3 ['eu.zonerama.com', 'msdarkovice.rajce.idnes.cz', 'zsdarkovice1.rajce.net'], alb: 1), 4 obrázků, 0 fotek ke kontrole
+[08:30:24] https://www.msrb.cz: 14 stránek (galerie mimo web: 1 ['msrb.rajce.idnes.cz'], alb: 0), 132 obrázků, 0 fotek ke kontrole
+[08:30:32] https://www.zslitencice.cz: 21 stránek (galerie mimo web: 1 ['ms-litencice.rajce.idnes.cz'], alb: 0), 635 obrázků, 0 fotek ke kontrole
+[08:30:33] https://www.krecovice.cz: 23 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 2), 340 obrázků, 0 fotek ke kontrole
+[08:30:36] https://www.zspodomi.cz: 8 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 2), 47 obrázků, 2 fotek ke kontrole
+[08:30:43] https://www.zsvsetaty.cz: 24 stránek (galerie mimo web: 8 ['eu.zonerama.com'], alb: 8), 70 obrázků, 1 fotek ke kontrole
+[08:30:53] https://www.zsmitusova16.cz: 13 stránek (galerie mimo web: 3 ['mitusova16.rajce.idnes.cz', 'smoulove16.rajce.idnes.cz', 'zsmitusova.rajce.idnes.cz'], alb: 0), 17 obrázků, 9 fotek ke kontrole
+[08:30:55] https://www.zschrastice.cz: 21 stránek (galerie mimo web: 33 ['chrastice0910.rajce.idnes.cz', 'chrastice2003.rajce.idnes.cz', 'chrastice2006.rajce.idnes.cz'], alb: 0), 19 obrázků, 0 fotek ke kontrole
+[08:31:07] https://www.cizova.cz: 26 stránek (galerie mimo web: 179 ['eu.zonerama.com', 'infocizova.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 128), 156 obrázků, 1 fotek ke kontrole
+[08:31:21] tříděno 0/22
+[08:31:21] Dávka 1: hotovo 16/16, se fotkami 0; {'ok': 0, 'lide': 0, 'jine': 22, 'sablona': 0}
+[08:31:21] Konec: školek s fotkami 0; {'ok': 0, 'lide': 0, 'jine': 22, 'sablona': 0}
