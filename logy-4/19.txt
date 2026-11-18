@@ -1,9 +1,2 @@
-[09:22:11] Část 20/20: webů 147, hotovo 177, zbývá 5
-[09:22:17] https://msorlovice.cz: nedostupné nebo zakázané
-[09:22:45] https://zsmorbranice.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 3 fotek ke kontrole
-[09:22:53] https://mslednice.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 3 fotek ke kontrole
-[09:22:58] https://msdobrenice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 8 fotek ke kontrole
-[09:23:13] https://ms-safov.cz: 3 stránek (galerie mimo web: 1 ['mssafov.rajce.idnes.cz'], alb: 1), 60 obrázků, 21 fotek ke kontrole
-[09:23:26] tříděno 0/35
-[09:23:29] Dávka 1: hotovo 182/147, se fotkami 59; {'ok': 9, 'lide': 0, 'jine': 9, 'sablona': 0}
-[09:23:29] Konec: školek s fotkami 59; {'ok': 9, 'lide': 0, 'jine': 9, 'sablona': 0}
+[09:44:15] Část 20/20: webů 143, hotovo 182, zbývá 0
+[09:44:15] Konec: školek s fotkami 59; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
