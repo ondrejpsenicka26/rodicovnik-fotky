@@ -2083,6 +2083,49 @@
 "w": 1200
 }
 ],
+"ms-kostelni-502810": [
+{
+"alt": "",
+"barva": "#947655",
+"dh": "5d2d8f351e1f6f4f",
+"h": 682,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQQG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQRMRIhEyJSgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQAAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAhESQVH/2gAMAwEAAhEDEQA/AMNubll7lyOPXqC2cU+Zz4iVkkDj6i3VKxhit4lMMSoWAJI2f2nu5I7oym5Ji+3OyC7kctDJzTQIWiqslvEXJ44J3g0Vbs8Hpv/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mskostelni.cz/o-skole/tridy/zajicci/",
+"typ": "interier",
+"url": "https://www.mskostelni.cz/data/multipage/editor/editor-11-111-cs_1_big.jpg?gcm_date=1737373386",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#b39066",
+"dh": "b7b6c6393f030f07",
+"h": 682,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mskostelni.cz/o-skole/tridy/zajicci/",
+"typ": "interier",
+"url": "https://www.mskostelni.cz/data/multipage/editor/editor-11-111-cs_2_big.jpg?gcm_date=1737373399",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#9a916a",
+"dh": "93918d864e3a76e6",
+"h": 682,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mskostelni.cz/o-skole/tridy/zajicci/",
+"typ": "hygiena",
+"url": "https://www.mskostelni.cz/data/multipage/editor/editor-11-111-cs_4_big.jpg?gcm_date=1737373423",
+"w": 1024
+}
+],
 "pliska-academy-detska-skupina-ds01951": [
 {
 "alt": "",
