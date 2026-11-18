@@ -1,7 +1,10 @@
-[10:40:54] Část 14/20: webů 174, hotovo 205, zbývá 3
-[10:41:20] http://ricanek.com: 7 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 21 fotek ke kontrole
-[10:41:47] http://jeslekulisek.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 548 obrázků, 18 fotek ke kontrole
-[10:44:29] https://zsdobratice.cz: 33 stránek (galerie mimo web: 1140 ['skoladobratice.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 321), 30 obrázků, 2 fotek ke kontrole
-[10:44:48] tříděno 0/41
-[10:44:50] Dávka 1: hotovo 208/174, se fotkami 53; {'ok': 3, 'lide': 6, 'jine': 21, 'sablona': 0}
-[10:44:50] Konec: školek s fotkami 53; {'ok': 3, 'lide': 6, 'jine': 21, 'sablona': 0}
+[11:04:11] Část 14/20: webů 179, hotovo 208, zbývá 6
+[11:04:25] https://www.ms-cervenyujezd.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 2 fotek ke kontrole
+[11:04:45] https://www.msnekvasovy.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 6 fotek ke kontrole
+[11:05:05] https://www.mshostoun.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 9 fotek ke kontrole
+[11:05:13] https://www.skolkasteti.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 51 obrázků, 21 fotek ke kontrole
+[11:05:33] https://www.mscernovice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 107 obrázků, 4 fotek ke kontrole
+[11:06:20] https://www.mszeliv.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
+[11:06:33] tříděno 0/42
+[11:06:35] Dávka 1: hotovo 214/179, se fotkami 56; {'ok': 8, 'lide': 3, 'jine': 18, 'sablona': 0}
+[11:06:35] Konec: školek s fotkami 56; {'ok': 8, 'lide': 3, 'jine': 18, 'sablona': 0}

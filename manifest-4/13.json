@@ -561,6 +561,23 @@
 "w": 1200
 }
 ],
+"materska-skola-cernovice-97-562561": [
+{
+"alt": "",
+"barva": "#949190",
+"dh": "1f44e4ac2424fffe",
+"h": 1200,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgP/xAAlEAACAgIBAwMFAAAAAAAAAAABAgMRAAQhBRIxExRhIlFxgZH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AKfZ34NNVbYftDGgavML1fRcWuyn4PGJzur1Iz+2kV+2gljgfPOEmurwD044jJxyV4+cqZihEgItTYPgjDJ/0OwARs0YrkIxAvDGiEsUKa+pNAoBSXzclHg/es6z7qvpnXdYwlAUHIPGJixPkn+5hjmYTU9ZkjARR9KgAdhFV++cMU3hkH//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mscernovice.cz/fotogalerie/skolka/zahrada/",
+"typ": "budova",
+"url": "https://www.mscernovice.cz/data/headerfooter/header_images/img-20241127-wa0044.jpg",
+"w": 900
+}
+],
 "materska-skola-cesky-brod-512163": [
 {
 "alt": "og",
@@ -1055,6 +1072,62 @@
 "w": 1200
 }
 ],
+"materska-skola-steti-000175": [
+{
+"alt": "Budova",
+"barva": "#a49362",
+"dh": "090f277f6e6cebe7",
+"h": 680,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFAf/EACEQAAICAgIBBQAAAAAAAAAAAAEDAAIEESExBRIiQbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECERIiUf/aAAwDAQACEQMRAD8Apow1ClWkg7ANfiZkOUpKr0I9QHYPYP3JLPJONDRfsr3yd9RLby01c61t60K14AmXt3tTKpSpwh8nNzC3aib0I4Oj+QkZ+W5bbVFyQIRxfocn/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkasteti.cz/materska-skola-pastelka.html",
+"typ": "budova",
+"url": "https://www.skolkasteti.cz/images/galerie/pastelka/DSC_2985.jpg",
+"w": 1024
+},
+{
+"alt": "Učebna",
+"barva": "#836d4c",
+"dh": "069282b0e6616974",
+"h": 680,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkasteti.cz/materska-skola-pastelka.html",
+"typ": "interier",
+"url": "https://www.skolkasteti.cz/images/galerie/pastelka/DSC_2989.jpg",
+"w": 1024
+},
+{
+"alt": "Hřiště",
+"barva": "#8d9f85",
+"dh": "8391939715d7671f",
+"h": 680,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkasteti.cz/materska-skola-klubicko.html",
+"typ": "zahrada",
+"url": "https://www.skolkasteti.cz/images/galerie/klubicko/3.jpg",
+"w": 1024
+},
+{
+"alt": "Budova",
+"barva": "#8e8872",
+"dh": "6b2c2c1c2c0ec663",
+"h": 680,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolkasteti.cz/materska-skola-poupe.html",
+"typ": "budova",
+"url": "https://www.skolkasteti.cz/images/galerie/poupe/2.jpg",
+"w": 1024
+}
+],
 "materska-skola-stitna-nad-vlari-606429": [
 {
 "alt": "Třída s modrou stěnou, žlutým domečkem a hračkami",
@@ -1392,6 +1465,49 @@
 "typ": "budova",
 "url": "https://static.wixstatic.com/media/e1b3e0_acd37cc1efb24a6aa67252976101fc60~mv2.jpeg",
 "w": 1200
+}
+],
+"ms-nekvasovy-544199": [
+{
+"alt": "",
+"barva": "#8e8d7f",
+"dh": "e6ffdd1691d3532b",
+"h": 473,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAnEAACAAUCBAcAAAAAAAAAAAABAgADBBEhBRIGEzFRFBVxgbHB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREAAwADAAAAAAAAAAAAAAAAAAEhAhES/9oADAMBAAIRAxEAPwB9RpdC5cM20Atgq2CAPgn6hc7Q9PmCagfaA7Ai5xax/b+0Yvmta8h91Q5scdO8XaXUKrdibYuCWIAye5iG8nRFCNRw/QCaVWu5ewlSl+mfSCHS9TrCt/ENkwQ6Y0f/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnekvasovy.cz/fotogalerie/nase-skolka-21cs.html",
+"typ": "budova",
+"url": "https://www.msnekvasovy.cz/data/template_custom_fields/135_cs_foto-pata.jpg",
+"w": 890
+},
+{
+"alt": "",
+"barva": "#a39488",
+"dh": "3d6cf4b2be2f3777",
+"h": 567,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnekvasovy.cz/",
+"typ": "interier",
+"url": "https://www.msnekvasovy.cz/data/headerfooter/header_images/foto-hlava02.jpg",
+"w": 1200
+},
+{
+"alt": "Herna",
+"barva": "#6d5e59",
+"dh": "0393b3b3d2f40c07",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnekvasovy.cz/",
+"typ": "interier",
+"url": "https://www.msnekvasovy.cz/evt_image.php?img=693&v=1764320254&width=800",
+"w": 800
 }
 ],
 "sovicky-detska-skupina-ds01077": [
