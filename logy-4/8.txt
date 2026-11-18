@@ -1,5 +1,2 @@
-[12:12:56] Část 9/20: webů 164, hotovo 220, zbývá 2
-[12:13:29] https://www.hornidubenky.cz/kontakty-zs-ms: 15 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 0 fotek ke kontrole
-[12:13:51] https://www.mankovice.cz/obcan-1/zakladni-skola: 22 stránek (galerie mimo web: 0 [], alb: 0), 54 obrázků, 0 fotek ke kontrole
-[12:13:51] Dávka 1: hotovo 222/164, se fotkami 77; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
-[12:13:51] Konec: školek s fotkami 77; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:37:25] Část 9/20: webů 164, hotovo 222, zbývá 0
+[12:37:25] Konec: školek s fotkami 77; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
