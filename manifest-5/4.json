@@ -1,0 +1,75 @@
+{
+"detska-skupina-slunicko-nepomuk-sedmikrasky-ds10920": [
+{
+"alt": "",
+"barva": "#bfb3a1",
+"dh": "0339695d9f8f1c86",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDAAQRIRITBQYiMVFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AOisrsQw8BhnZiSM7FWP5Non2pYb0BSNIOpj7yx+6m8EjW5fubI/BRzVNt5hsufUqdzLDjipxkn5opPB4+N4+RJyTk0Vewz/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnepomuk.cz/",
+"typ": "budova",
+"url": "https://www.msnepomuk.cz/wp-content/uploads/2026/08/budova-exterier-detska-skupina-slunicko-nepomuk-082026-01-img_8285.jpg",
+"w": 1200
+},
+{
+"alt": "MŠ Nepomuk exteriér",
+"barva": "#8a846d",
+"dh": "333701073677161c",
+"h": 800,
+"jistota": 0.918,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnepomuk.cz/",
+"typ": "zahrada",
+"url": "https://www.msnepomuk.cz/wp-content/uploads/2022/11/ms-nepomuk-exterier-img_2668.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a7987e",
+"dh": "1327234b2b696b8f",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnepomuk.cz/detska-skupina-slunicko-nepomuk",
+"typ": "budova",
+"url": "https://www.msnepomuk.cz/wp-content/uploads/2026/08/budova-exterier-detska-skupina-slunicko-nepomuk-082026-04-img_8288.jpg",
+"w": 1200
+}
+],
+"zs-a-ms-jaromira-hlubika-607573": [
+{
+"alt": "VP MŠ",
+"barva": "#a8a590",
+"dh": "39383078353687b9",
+"h": 497,
+"jistota": 0.981,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgb/xAAlEAACAQMDAgcAAAAAAAAAAAABAhEAAwQFEkETMRQhIlFyobH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAEDERITQVH/2gAMAwEAAhEDEQA/AKWm42M2BIxEuQxkhF8ueax0MdbrzjqAIEiyv3SlvPam2p9IPbjtShklVhF2fEkflYObXB0RYGLpe1TctY6sRMPaANFcxdfIR9viWccdQbiB7SaKvK2FqP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zslipov.cz/ms-80/virtualni-prohlidka/",
+"typ": "budova",
+"url": "https://www.zslipov.cz/data/editor/148cs_1.png?gcm_date=1744279345",
+"w": 765
+},
+{
+"alt": "VP ZŠ",
+"barva": "#808b8e",
+"dh": "31357870742c0d31",
+"h": 497,
+"jistota": 0.919,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zslipov.cz/zs-79/virtualni-prohlidka/",
+"typ": "budova",
+"url": "https://www.zslipov.cz/data/editor/147cs_1.png?gcm_date=1744279272",
+"w": 765
+}
+]
+}
