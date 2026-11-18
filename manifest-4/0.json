@@ -976,6 +976,49 @@
 "w": 1200
 }
 ],
+"materska-skola-nova-ves-530678": [
+{
+"alt": "",
+"barva": "#4d758d",
+"dh": "8607a1a85f5664df",
+"h": 900,
+"jistota": 0.984,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQH/xAAiEAACAgEDBAMAAAAAAAAAAAABAgMRAAQFMRIhUXETFFL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIEAxEUUVL/2gAMAwEAAhEDEQA/AEPpooZ5I2jkcJw6r2b1jY9PonC9fzJf6jIr3k77LwLGEc9S8WOBmHcpwKLknzXGI5c9BnWgmVjtEZNxupXye2GRH3FzVc13LAGzhkreTox04emf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkanovaves.cz/akce/kalendar-akci/1111-lampionovy-pruvod-139_116cs.html",
+"typ": "budova",
+"url": "https://www.skolkanovaves.cz/data/headerfooter/header_images/img6715.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#95886a",
+"dh": "0d1bbadc33390f67",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkanovaves.cz/akce/kalendar-akci/1111-lampionovy-pruvod-139_116cs.html",
+"typ": "zahrada",
+"url": "https://www.skolkanovaves.cz/data/headerfooter/header_images/img6566.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6a664e",
+"dh": "0737170f034b6707",
+"h": 900,
+"jistota": 0.98,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkanovaves.cz/akce/kalendar-akci/1111-lampionovy-pruvod-139_116cs.html",
+"typ": "zahrada",
+"url": "https://www.skolkanovaves.cz/data/headerfooter/header_images/foto.jpeg",
+"w": 1200
+}
+],
 "materska-skola-nova-ves-i-103310": [
 {
 "alt": "",
