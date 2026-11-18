@@ -192,6 +192,23 @@
 "w": 1200
 }
 ],
+"detska-skupina-hola-hej-ds10492": [
+{
+"alt": "og",
+"barva": "#aa9f82",
+"dh": "6d4d7c6befce7170",
+"h": 467,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAADAgQF/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDEgARIQQxQVEVMqH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIREhMhQf/aAAwDAQACEQMRAD8A1XjKQlZUcsGHAOt7GvGImVdA0qNr343wfeNmd2UNd76+xPOUpZuonQxzTF09EceMynGSdeChTRCTqOnsbCp9d8Md8TZEcTauttV7fuGTWPOuH//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.detskaskupinaholahej.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://2ad3f3eefe.clvaw-cdnwnd.com/b2624ac0a5673dc7d2edcb03f0985677/200000207-d8486d8489/700/1000008138.jpeg?ph=2ad3f3eefe",
+"w": 700
+}
+],
 "detska-skupina-jahoda-andel-ii-ds10354": [
 {
 "alt": "",
@@ -405,6 +422,92 @@
 "typ": "budova",
 "url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9817.jpg",
 "w": 1200
+}
+],
+"detska-skupina-misa-skolka-senov-ds01891": [
+{
+"alt": "trebovice4",
+"barva": "#848683",
+"dh": "3359c9bb94962384",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEABBIFIUEiMVEyYXGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAwDAQACEQMRAD8AcNWLlwGrNgvIgrK1qxzSDHTt55Nc7jVbVm7YbDRDbicnFrJTifEDkc0EsMm4D2JzEQMzG3ttWCytSgoUzKScvUZn53ppiIarWtPCiAp0iTBA7/Zqo7bDCG0oCJSkQMoJ/KqlYiP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.misaskolka.cz/o-skolce-trebovice/skolka/fotogalerie-skolka-2/",
+"typ": "budova",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2021/12/trebovice4.jpg",
+"w": 1200
+},
+{
+"alt": "senov5",
+"barva": "#65745e",
+"dh": "0d2227b33255052c",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.misaskolka.cz/misa-skolka-senov/fotogalerie-skolka-senov/",
+"typ": "zahrada",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2023/08/senov5.jpg",
+"w": 1200
+},
+{
+"alt": "trebovice1",
+"barva": "#8c8981",
+"dh": "8b9494a5600d286c",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.misaskolka.cz/o-skolce-trebovice/skolka/fotogalerie-skolka-2/",
+"typ": "budova",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2021/12/trebovice1.jpg",
+"w": 1200
+},
+{
+"alt": "trebovice6",
+"barva": "#7a8570",
+"dh": "1c1b726cec1c74de",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.misaskolka.cz/o-skolce-trebovice/skolka/fotogalerie-skolka-2/",
+"typ": "zahrada",
+"url": "https://www.misaskolka.cz/wp-content/uploads/2021/12/trebovice6.jpg",
+"w": 1200
+}
+],
+"detska-skupina-slunicka-ds00233": [
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgADERIxIUEFBFFhcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAARESE//aAAwDAQACEQMRAD8A0r+TR1OAqDIauOIy+bszIlC62sb9dbnIzOveMH+BzuH1UkWD1lIlruhIPOQI/DCRgL0oH1CHs3iv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+},
+{
+"alt": "Teplice",
+"barva": "#7f6f55",
+"dh": "929494a5a7f0f81d",
+"h": 683,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
+"w": 1024
 }
 ],
 "materska-skola-akimova-skolicka-006693": [

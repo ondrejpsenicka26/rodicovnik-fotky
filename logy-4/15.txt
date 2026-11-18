@@ -1,14 +1,10 @@
-[00:41:47] Část 16/20: webů 135, hotovo 150, zbývá 10
-[00:42:03] https://bambinivyskov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 28 fotek ke kontrole
-[00:42:12] https://zspohorelice.cz/detska-skupina-smolin: 3 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 9 fotek ke kontrole
-[00:42:13] https://vlastovickyzs.webnode.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 20 fotek ke kontrole
-[00:42:21] https://klubikbreclav.webnode.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 317 obrázků, 0 fotek ke kontrole
-[00:42:26] https://skolkakulihrasci.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 0 fotek ke kontrole
-[00:42:35] http://www.obecjarosov.cz/47-kontakty: 14 stránek (galerie mimo web: 0 [], alb: 0), 139 obrázků, 17 fotek ke kontrole
-[00:42:39] https://skolkaindian.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 239 obrázků, 44 fotek ke kontrole
-[00:42:49] https://msbystrice.cz/detske-skupiny/detska-skupina-medvidata: 33 stránek (galerie mimo web: 0 [], alb: 0), 128 obrázků, 10 fotek ke kontrole
-[00:43:24] http://www.skolametylovice.cz: nedostupné nebo zakázané
-[00:43:24] http://www.skolatyn.cz: nedostupné nebo zakázané
-[00:43:38] tříděno 0/128
-[00:43:48] Dávka 1: hotovo 160/135, se fotkami 46; {'ok': 7, 'lide': 5, 'jine': 102, 'sablona': 0}
-[00:43:48] Konec: školek s fotkami 46; {'ok': 7, 'lide': 5, 'jine': 102, 'sablona': 0}
+[02:13:59] Část 16/20: webů 140, hotovo 160, zbývá 6
+[02:14:06] https://planetkauffo.cz/raketka: 2 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[02:14:07] https://mikrojeslemlynek.cz: nedostupné nebo zakázané
+[02:14:11] https://dsslunicka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 7 fotek ke kontrole
+[02:14:19] https://detskaskupinaholahej.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 10 fotek ke kontrole
+[02:14:37] https://uzasnakov.family: 3 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 6 fotek ke kontrole
+[02:15:57] https://misaskolka.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 156 obrázků, 43 fotek ke kontrole
+[02:16:10] tříděno 0/66
+[02:16:18] Dávka 1: hotovo 166/140, se fotkami 49; {'ok': 7, 'lide': 6, 'jine': 35, 'sablona': 0}
+[02:16:18] Konec: školek s fotkami 49; {'ok': 7, 'lide': 6, 'jine': 35, 'sablona': 0}
