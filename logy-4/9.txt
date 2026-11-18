@@ -1,4 +1,2 @@
-[12:54:18] Část 10/20: webů 186, hotovo 222, zbývá 1
-[12:54:43] https://dolnichvatliny.cz/materska-skola: 1 stránek (galerie mimo web: 1 ['skoladracek.rajce.idnes.cz'], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[12:54:43] Dávka 1: hotovo 223/186, se fotkami 60; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
-[12:54:43] Konec: školek s fotkami 60; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[13:31:20] Část 10/20: webů 185, hotovo 223, zbývá 0
+[13:31:20] Konec: školek s fotkami 60; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
