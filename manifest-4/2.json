@@ -115,6 +115,36 @@
 "w": 800
 }
 ],
+"detska-skupina-pod-duhou-ds02169": [
+{
+"alt": "",
+"barva": "#b0a386",
+"dh": "11029991111b7253",
+"h": 1080,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAgUG/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIAAwQRIUESIqETFGGR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABgRAQADAQAAAAAAAAAAAAAAAAABERIh/9oADAMBAAIRAxEAPwCSyqGu4oqrFznBI0cTYW9uFvHUHYYDIlaztzSqCtkI4YgEbAB8S3asKd1ghQFOSw5kOWpXGZCqSKvUzck0+rzEn91UbfpE/JZf2I9SzLm1vK/YpqMQdb3J6dVyzMWPeMEcREMNCccD6iIlAf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.podduhou.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/667087c6724ca084d7512c97/67c0c2788c65ec0f8d19f5fe_6.webp",
+"w": 1080
+},
+{
+"alt": "",
+"barva": "#baa89e",
+"dh": "001879f6d5919040",
+"h": 1080,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.podduhou.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/667087c6724ca084d7512c97/67c0c278970adb21a17e7a78_8.webp",
+"w": 1080
+}
+],
 "detska-skupina-pohoda-horomerice-ds00405": [
 {
 "alt": "IMG_6065",
@@ -156,6 +186,49 @@
 "typ": "hygiena",
 "url": "https://www.pohodahoromerice.cz/img/original/411/img_8083.jpg",
 "w": 1179
+}
+],
+"detska-skupina-severacci-ds10990": [
+{
+"alt": "",
+"barva": "#929293",
+"dh": "547d2934fcfac61f",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwL/xAAlEAACAQQBAwQDAAAAAAAAAAABAgMABBEhBRIiMQYTMkEkUWH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AHEgPt9rD5fRoaN841s01+LCpWSdEOc4LgGlJOTs4mBZ2DKcgDfg0GbNhioTONE0U+scRUOXQdfcMsNiipohXkqrdLDDaLK0gVydn+eBWi2fJtG00qJbqmXICgEjH681T9MyPLwkMkh6nJbJ+z3Gp/OXlwLxoFlZY8fFdVqI7sb5YLVUnHU42TInUd7oqSCceaK0j//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ds-severacci.cz/galerie/",
+"typ": "interier",
+"url": "https://ds-severacci.cz/wp-content/uploads/2026/10/IMG_5384-scaled-1.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#74614c",
+"dh": "3852c7d39086321a",
+"h": 720,
+"jistota": 0.998,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://ds-severacci.cz/galerie/",
+"typ": "zahrada",
+"url": "https://ds-severacci.cz/wp-content/uploads/2026/10/IMG_0094.jpeg",
+"w": 960
+},
+{
+"alt": "og",
+"barva": "#6a6e73",
+"dh": "f4de9936960f9f9f",
+"h": 1000,
+"jistota": 0.998,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://ds-severacci.cz/",
+"typ": "interier",
+"url": "https://vwh8405.253.vedos.website/wp-content/uploads/2026/10/IMG_9545.jpeg",
+"w": 750
 }
 ],
 "detska-skupina-slunicka-na-terase-ds01466": [
@@ -996,6 +1069,36 @@
 "typ": "hygiena",
 "url": "https://www.montessori-brno.cz/wp-content/uploads/2026/08/20260811_131537.jpg",
 "w": 1200
+}
+],
+"montysek-detska-skupina-z-s-ds01107": [
+{
+"alt": "",
+"barva": "#716d68",
+"dh": "b921da59dbe4f8ff",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzMK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAADAgQFAf/EACcQAAICAQEHBAMAAAAAAAAAAAECAAMRBBIUISIxMkEFE3HRQlGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AOjU1bTDZsRiR2vJKtRwfctU4/NPqVrGsoKjU2q1gcocDwRjP8MjvJPq+oXeCdMV5CTy5x4EMK6ypnhchHwfqEW2s0SMVD4A/YhJ+ujkZ91OO0t8MOkSHKniMzRtA2TM+3uMpRDBbSRzLxhKp6wmOP/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.montysek.cz/fotoalbum/",
+"typ": "interier",
+"url": "https://www.montysek.cz/wp-content/gallery/mecholupy/mecholupy1.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#a49986",
+"dh": "5b9797933f07c939",
+"h": 1200,
+"jistota": 0.997,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.montysek.cz/fotoalbum/",
+"typ": "interier",
+"url": "https://www.montysek.cz/wp-content/gallery/chodov/chodov4.jpg",
+"w": 900
 }
 ],
 "ms-letenska-500078": [

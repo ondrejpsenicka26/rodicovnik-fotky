@@ -1,8 +1,8 @@
-[11:38:39] Část 3/20: webů 197, hotovo 227, zbývá 4
-[11:39:06] https://www.msnestemice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 35 obrázků, 12 fotek ke kontrole
-[11:40:12] https://ms-pistalka.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 56 obrázků, 28 fotek ke kontrole
-[11:41:07] https://www.mslitvinovska.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 94 obrázků, 31 fotek ke kontrole
-[11:42:33] https://msolesinky.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 3072 obrázků, 35 fotek ke kontrole
-[11:42:51] tříděno 0/106
-[11:43:06] Dávka 1: hotovo 231/197, se fotkami 57; {'ok': 9, 'lide': 10, 'jine': 57, 'sablona': 0}
-[11:43:06] Konec: školek s fotkami 57; {'ok': 9, 'lide': 10, 'jine': 57, 'sablona': 0}
+[11:45:26] Část 3/20: webů 201, hotovo 231, zbývá 4
+[11:45:35] https://www.podduhou.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 10 fotek ke kontrole
+[11:45:47] https://skolickazahrada.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 29 fotek ke kontrole
+[11:46:16] https://www.montysek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 47 obrázků, 17 fotek ke kontrole
+[11:46:39] https://ds-severacci.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
+[11:46:53] tříděno 0/65
+[11:46:59] Dávka 1: hotovo 235/201, se fotkami 60; {'ok': 7, 'lide': 2, 'jine': 49, 'sablona': 0}
+[11:46:59] Konec: školek s fotkami 60; {'ok': 7, 'lide': 2, 'jine': 49, 'sablona': 0}
