@@ -1,2 +1,6 @@
-[12:43:16] Část 8/20: webů 186, hotovo 236, zbývá 0
-[12:43:16] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:54:32] Část 8/20: webů 188, hotovo 236, zbývá 2
+[12:55:14] https://ms-vsejany.datonet.cz: 8 stránek (galerie mimo web: 36 ['msvsejany.rajce.idnes.cz'], alb: 1), 38 obrázků, 2 fotek ke kontrole
+[12:55:18] https://ms-komarov.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
+[12:55:30] tříděno 0/5
+[12:55:30] Dávka 1: hotovo 238/188, se fotkami 64; {'ok': 0, 'lide': 0, 'jine': 5, 'sablona': 0}
+[12:55:30] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 5, 'sablona': 0}
