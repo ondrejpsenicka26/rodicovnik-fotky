@@ -167,6 +167,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-heroldynek-ds10445": [
+{
+"alt": "",
+"barva": "#cdb8a0",
+"dh": "2dee9a5dd7632707",
+"h": 834,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAhEAACAgICAQUAAAAAAAAAAAABAgADERIEUSEFFDJhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMB/8QAGhEAAgIDAAAAAAAAAAAAAAAAABIBAgMRYf/aAAwDAQACEQMRAD8A3y9nxdRUpBAYHJz+dRN3J1A2GF2ADfcmFFyrsT4jqqlqqCkBj3iA+xVgqe+RfDnJHUIi70vjtazA2psckK+BmEj2EiuPp//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.heroldynek.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/683ede6af077394405042a05/690cb301bbf7655cc4d0469e_DSC_0130.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b7af99",
+"dh": "a7ade4f6da166367",
+"h": 727,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.heroldynek.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/683ede6af077394405042a05/690c8ba3e9a61db7769482ab_DSC_0010.jpg",
+"w": 1089
+},
+{
+"alt": "",
+"barva": "#c2bbae",
+"dh": "0d6d4d1c9943e7e7",
+"h": 672,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.heroldynek.cz/",
+"typ": "hygiena",
+"url": "https://cdn.prod.website-files.com/683ede6af077394405042a05/690c82008dd91a8b79f6399f_DSC_0091.webp",
+"w": 1007
+}
+],
 "detska-skupina-jeskohlidova-skolicka-2a-ds02106": [
 {
 "alt": "",
@@ -412,6 +455,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-slunicka-teplice-i-ds00470": [
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAiEAACAQQCAQUAAAAAAAAAAAABAgADERIxIUEFBFFhcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAARESE//aAAwDAQACEQMRAD8A0r+TR1OAqDIauOIy+bszIlC62sb9dbnIzOveMH+BzuH1UkWD1lIlruhIPOQI/DCRgL0oH1CHs3iv/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+},
+{
+"alt": "Teplice",
+"barva": "#7f6f55",
+"dh": "929494a5a7f0f81d",
+"h": 683,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/87/conversions/01KE6KS9ZTJGYMXMY8N21R55JX-medium.webp?v=1767593931",
+"w": 1024
+}
+],
 "detska-skupina-v-risi-pribehu-ds01972": [
 {
 "alt": "Prostory školičky – pohled na policový systém s hračkami",
@@ -495,6 +568,36 @@
 "stranka": "https://www.vcelickydubnany.cz/detska-skupina-vcelicky/",
 "typ": "interier",
 "url": "https://083db803ef.clvaw-cdnwnd.com/6bcafc951af196624fe8fe9121c232ed/200000119-daf91daf92/tempImage8Ou0OP.png?ph=083db803ef",
+"w": 1200
+}
+],
+"detska-skupina-vesele-noticky-ds01819": [
+{
+"alt": "",
+"barva": "#d0b79d",
+"dh": "cbc2b6484677108c",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAeABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EACMQAAEEAgEEAwEAAAAAAAAAAAEAAgMRBBIhEzFBUSJSYYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwDT5oayXYgkBouhaciA2sEH4jsqSTP6cezopKe0GzxV8EX7XvEfDik4sWzRtyCSozrKe81dUhQRuGg1JqvaE5cZ1m4w4zCdgGNEgP3vuf55U2DLl5UEsYkOzHkAk24N/L7pKKR+PLtGaITM2OMnGdkYp6EsZt1difw+FGNXyzycgOYxha2VrgHHmRlEoXOufPJ9oR1B/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.veselenoticky.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/642976f05a7dd72739822222/65523551e379abf4a99871d4_KK_01669.jpg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#b29977",
+"dh": "353737377536d28e",
+"h": 800,
+"jistota": 0.925,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.veselenoticky.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/642976f05a7dd72739822222/65523553a9bdc46c4db8f44f_KK-26.jpg",
 "w": 1200
 }
 ],
@@ -1509,6 +1612,36 @@
 "typ": "budova",
 "url": "https://skola-zadnitreban.cz/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-14.04.43-1-e1787919061405.jpeg",
 "w": 1200
+}
+],
+"zemekvitek-detska-skupina-ds00373": [
+{
+"alt": "",
+"barva": "#79766c",
+"dh": "2f9558da9bb53f2f",
+"h": 546,
+"jistota": 0.987,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAmEAACAQMDAQkAAAAAAAAAAAABAhEAAwQFEiFBExQjMTNRYYHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGhEAAwADAQAAAAAAAAAAAAAAAAERAxIxAv/aAAwDAQACEQMRAD8AhLd5S3ZLsJXc3kIJ5+xS2yETIKNmKbXJ3kiQZ4HFX8T0R+60nU1W1iM6Kob3j5FCs3IhXh6qIL4M+Nf2P1ERRWFqQ7LKKoSBAMTRU1s6avOqlP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.brno-lisen.cz/lesni-skolka-zemekvitek/t6040?relatedTextsByTag-paginator-page=2&do=relatedTextsByTag-paginator-page",
+"typ": "interier",
+"url": "https://www.brno-lisen.cz/data/images/thumb/8414_ffce56079c.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#9d866b",
+"dh": "371a1a52f2c81109",
+"h": 720,
+"jistota": 0.979,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.brno-lisen.cz/lesni-skolka-zemekvitek/t6040?relatedTextsByTag-paginator-page=2&do=relatedTextsByTag-paginator-page",
+"typ": "interier",
+"url": "https://www.brno-lisen.cz/data/images/thumb/8415_ffce56079c.jpg",
+"w": 960
 }
 ],
 "ziraifka-materska-skola-053471": [

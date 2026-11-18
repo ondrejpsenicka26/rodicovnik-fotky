@@ -1,19 +1,15 @@
-[00:41:53] Část 13/20: webů 148, hotovo 157, zbývá 15
-[00:41:55] https://boskovice.cz/ds-skolka-na-rohu: nedostupné nebo zakázané
-[00:41:58] https://kulisci.info: 3 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[00:42:14] https://lokomoce.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 3 fotek ke kontrole
-[00:42:15] http://www.velichov.cz/index.php: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 0 fotek ke kontrole
-[00:42:17] https://skolkaslunickodobris.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 10 fotek ke kontrole
-[00:42:27] https://sunnykids.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 16 fotek ke kontrole
-[00:42:29] https://dsmontessorislany.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 10 fotek ke kontrole
-[00:42:35] https://ovcary.cz/detska-skupina-ovecka: 2 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 10 fotek ke kontrole
-[00:42:39] https://vcelickydubnany.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 24 fotek ke kontrole
-[00:42:42] https://msopatovice.cz/tridy/motylci: 10 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 2 fotek ke kontrole
-[00:42:46] https://obecvidice.cz/detska-skupina-u-rybnicku: 4 stránek (galerie mimo web: 0 [], alb: 0), 84 obrázků, 1 fotek ke kontrole
-[00:43:17] https://zsherspice.cz/detska-skupina-ctyrlistek: 5 stránek (galerie mimo web: 0 [], alb: 0), 125 obrázků, 27 fotek ke kontrole
-[00:43:18] https://panacci.eu: 3 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 16 fotek ke kontrole
-[00:43:29] https://montessorivlasim.cz: nedostupné nebo zakázané
-[00:43:29] http://www.skolanavalech.cz: nedostupné nebo zakázané
-[00:43:47] tříděno 0/119
-[00:44:01] Dávka 1: hotovo 172/148, se fotkami 41; {'ok': 12, 'lide': 3, 'jine': 93, 'sablona': 0}
-[00:44:01] Konec: školek s fotkami 41; {'ok': 12, 'lide': 3, 'jine': 93, 'sablona': 0}
+[02:14:08] Část 13/20: webů 154, hotovo 172, zbývá 11
+[02:14:15] https://aktivsenice.cz/aktivacci: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[02:14:16] https://sovickamost.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 3 fotek ke kontrole
+[02:14:17] https://dsjilovedc.cz/DS_Kulisek.html: nedostupné nebo zakázané
+[02:14:21] https://heroldynek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 16 fotek ke kontrole
+[02:14:26] https://veselenoticky.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 18 fotek ke kontrole
+[02:14:28] https://montessori-ceskytesin.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 3 fotek ke kontrole
+[02:14:33] https://kouzelnaskolicka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 11 fotek ke kontrole
+[02:14:35] https://dsklubicko.eschool.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 1 fotek ke kontrole
+[02:14:37] https://dsslunicka.cz/teplice/detska-skupina-slunicka-teplice: 4 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 36 fotek ke kontrole
+[02:14:48] https://brno-lisen.cz/lesni-skolka-zemekvitek/t6040: 16 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 4 fotek ke kontrole
+[02:14:52] https://charitausti.cz/jak-pomahame/centrum-pro-rodinu-ovecka/detska-skupina-ovecka: 17 stránek (galerie mimo web: 0 [], alb: 0), 135 obrázků, 10 fotek ke kontrole
+[02:15:09] tříděno 0/102
+[02:15:26] Dávka 1: hotovo 183/154, se fotkami 45; {'ok': 9, 'lide': 17, 'jine': 63, 'sablona': 0}
+[02:15:26] Konec: školek s fotkami 45; {'ok': 9, 'lide': 17, 'jine': 63, 'sablona': 0}
