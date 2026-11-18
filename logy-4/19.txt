@@ -1,15 +1,12 @@
-[00:41:50] Část 20/20: webů 127, hotovo 140, zbývá 11
-[00:42:04] https://lysanek.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 10 fotek ke kontrole
-[00:42:05] https://marypoppins.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 7 fotek ke kontrole
-[00:42:05] https://skritkove.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 9 fotek ke kontrole
-[00:42:11] https://pastelka.net/mikropastelka/c3: 2 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 0 fotek ke kontrole
-[00:42:33] https://skolkanahrazi.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 4 fotek ke kontrole
-[00:42:36] http://zshurka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 32 obrázků, 4 fotek ke kontrole
-[00:42:36] https://odetipostarano.cz/detska-skupina-oslavany: 3 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 16 fotek ke kontrole
-[00:42:41] https://unicornschool.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 33 fotek ke kontrole
-[00:42:50] https://msdvorska-blansko.cz/berusky: 10 stránek (galerie mimo web: 0 [], alb: 0), 54 obrázků, 1 fotek ke kontrole
-[00:43:27] https://zsbozice.edupage.org: nedostupné nebo zakázané
-[00:43:28] http://www.dobra-skolka.cz: nedostupné nebo zakázané
-[00:43:48] tříděno 0/84
-[00:43:55] Dávka 1: hotovo 151/127, se fotkami 45; {'ok': 9, 'lide': 10, 'jine': 61, 'sablona': 0}
-[00:43:55] Konec: školek s fotkami 45; {'ok': 9, 'lide': 10, 'jine': 61, 'sablona': 0}
+[02:14:07] Část 20/20: webů 129, hotovo 151, zbývá 8
+[02:14:09] https://boskovice.cz/skolicka-u-tri-ovecek: nedostupné nebo zakázané
+[02:14:21] https://minisovicky.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 7 fotek ke kontrole
+[02:14:25] https://dsduha.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 13 fotek ke kontrole
+[02:14:29] https://littlemonkeys.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 28 fotek ke kontrole
+[02:14:45] https://ddhlucin.cz/cs/detska-skupina-elanek-hlucin/438-r-10: 3 stránek (galerie mimo web: 0 [], alb: 0), 40 obrázků, 12 fotek ke kontrole
+[02:14:46] https://mujmrnousek.cz/detska-skupina-mrnousek-ostrava-slezska: 7 stránek (galerie mimo web: 0 [], alb: 0), 181 obrázků, 20 fotek ke kontrole
+[02:15:08] https://msceskakamenice.cz/detska-skupina/trida-motylci: 15 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 15 fotek ke kontrole
+[02:16:57] https://rosyostrava.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 68 obrázků, 43 fotek ke kontrole
+[02:17:10] tříděno 0/138
+[02:17:43] Dávka 1: hotovo 159/129, se fotkami 49; {'ok': 14, 'lide': 14, 'jine': 76, 'sablona': 0}
+[02:17:43] Konec: školek s fotkami 49; {'ok': 14, 'lide': 14, 'jine': 76, 'sablona': 0}

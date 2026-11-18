@@ -274,6 +274,161 @@
 "w": 1000
 }
 ],
+"detska-skupina-monkeys-ds00411": [
+{
+"alt": "",
+"barva": "#706c67",
+"dh": "1f7be327393f3f07",
+"h": 800,
+"jistota": 0.992,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAkEAACAQQABQUAAAAAAAAAAAABAgMABBEhEhNRYbEUIjEywf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAwDAQACEQMRAD8AWy38ure2VNH3SsOnQUqJY5Fi9TO5eQAcKocZIJHin217Kq/ORgjB71OG1SRYmGuUVOxnOAR+0Q1hJGsUkyE/Vz4FFVWkIkfu1FBf/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.littlemonkeys.cz/l/spolecne-tvoreni-a-tridni-schuzka/",
+"typ": "budova",
+"url": "https://faa69e1fcb.clvaw-cdnwnd.com/786f759018d6b5a7d43bfe0363bb45a7/200000063-63d8764cee/IMG_2209.JPG?ph=faa69e1fcb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#89867d",
+"dh": "8c21083e1b131a38",
+"h": 937,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.littlemonkeys.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://faa69e1fcb.clvaw-cdnwnd.com/786f759018d6b5a7d43bfe0363bb45a7/200000368-ce835ce837/herna_nejmen%C5%A1%C3%AD_3.jpeg?ph=faa69e1fcb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a2a197",
+"dh": "c0e0c090b0988805",
+"h": 765,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.littlemonkeys.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://faa69e1fcb.clvaw-cdnwnd.com/786f759018d6b5a7d43bfe0363bb45a7/200000363-e4a7ae4a7c/herna_cel%C3%A1.jpeg?ph=faa69e1fcb",
+"w": 1200
+},
+{
+"alt": "umývárna",
+"barva": "#b3a589",
+"dh": "3c757777756c7c58",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.littlemonkeys.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://faa69e1fcb.clvaw-cdnwnd.com/786f759018d6b5a7d43bfe0363bb45a7/200000075-ea166eb10f/IMG_2129.JPG?ph=faa69e1fcb",
+"w": 1200
+}
+],
+"detska-skupina-motylci-ds11242": [
+{
+"alt": "",
+"barva": "#5b6055",
+"dh": "426343434fcc8237",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAkEAACAgEDAgcAAAAAAAAAAAABAgMRAAQSIQUiBhMUMUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEBAQACAwAAAAAAAAAAAAAAAQAREhMUMf/aAAwDAQACEQMRAD8ASr1TUwaaOJGFc91XWP8AR6rXGPfMWqSMUriw9fH5xiP00rMLZERRW1bOammkIQGVuwUKORyoexgojxFIljZD78WOQMMp8qI8sgJ+6wx7DGpf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msceskakamenice.cz/",
+"typ": "budova",
+"url": "https://msceskakamenice.cz/images/2025/07/16/mskom01.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a06d27",
+"dh": "a5cc8cccb1b49521",
+"h": 901,
+"jistota": 0.984,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msceskakamenice.cz/detska-skupina/trida-motylci",
+"typ": "interier",
+"url": "https://msceskakamenice.cz/images/2026/05/28/ds_u_potoka_11.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6a6f5e",
+"dh": "1f1d0d854f3be7df",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msceskakamenice.cz/",
+"typ": "zahrada",
+"url": "https://msceskakamenice.cz/images/2025/07/16/mskom02.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#575b3f",
+"dh": "9f97276d1b8f0e4e",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msceskakamenice.cz/",
+"typ": "budova",
+"url": "https://msceskakamenice.cz/images/2025/07/16/kast02.jpg",
+"w": 1200
+}
+],
+"detska-skupina-mrnousek-slezska-ostrava-u-zoo-motylci-ds02234": [
+{
+"alt": "",
+"barva": "#8a795a",
+"dh": "0aa39c9b8e9f1563",
+"h": 675,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMABBESEyExQYEFBiIyUcHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAAIBBQAAAAAAAAAAAAAAAAABAhESISJR/9oADAMBAAIRAxEAPwCaQbdzJGsyKAxIBPLr251QqdRLSxPgcSX/ACsluIkZbieNimvBVMA4xzpkRfE4dyNNhPbocB8j67Vnb1KqLqcrXFuDwulPDotFJL5d9Z27pgvwyA4ooY6NYz//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mujmrnousek.cz/ms-mrnousek-ostrava-hrabuvka/",
+"typ": "interier",
+"url": "https://mujmrnousek.cz/wp-content/uploads/2024/05/9215177E-4A4E-45C6-A20C-BE6E514DC8EA.webp",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#766f66",
+"dh": "3e1ca8195c5f8f07",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mujmrnousek.cz/ms-mrnousek-ostrava-hrabuvka/",
+"typ": "interier",
+"url": "https://mujmrnousek.cz/wp-content/uploads/2024/05/AED9198F-9254-45CF-B98E-4180B93B2A0E.webp",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#878882",
+"dh": "91cb6e2b63634b34",
+"h": 675,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mujmrnousek.cz/ms-mrnousek-ostrava-trebovice/",
+"typ": "hygiena",
+"url": "https://mujmrnousek.cz/wp-content/uploads/2024/05/ms-mrnousek-trebovice-prohlidka-11.webp",
+"w": 900
+}
+],
 "detska-skupina-prazacka-ds01627": [
 {
 "alt": "",
@@ -302,6 +457,49 @@
 "typ": "interier",
 "url": "http://rpcprazacka.cz/wp-content/uploads/2023/05/IMG_9732_web.jpg",
 "w": 1200
+}
+],
+"detska-skupina-rosy-i-ds01670": [
+{
+"alt": "",
+"barva": "#787674",
+"dh": "1f1b77d32cacec2e",
+"h": 1200,
+"jistota": 0.964,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFEiExQRMUIjJRFSNhstH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRITFRQf/aAAwDAQACEQMRAD8Aawt0dQZlIiHfuape0Q7vAKrEOMn+VP8AUbaZS0cm5VGScYAGaWTUPLRl3kVY5D6citk+GRXSO7UJOQGLDHU8UVjcXAkZZEO9XXIOPyaKkTq8HbqykQTq3pDgLwego1JfsWqvGJFB9hO3PHzV+kuz3Bhc7oiCSp6VJqwCyxqPapYAUPRLTMkjjaGPYpVQCACc4G496Ka2A8rEfkH9jRTAf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://rosyostrava.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://rosyostrava.cz/wp-content/uploads/2023/09/IMG_0797-scaled.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#a19d93",
+"dh": "2b3b9296ce733333",
+"h": 900,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://rosyostrava.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://rosyostrava.cz/wp-content/uploads/2022/10/IMG_0325-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8d866d",
+"dh": "38f9d3c31b1d4737",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://rosyostrava.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://rosyostrava.cz/wp-content/uploads/2022/10/IMG_0323-scaled.jpeg",
+"w": 900
 }
 ],
 "detska-skupina-skolka-na-hrazi-ds00588": [
