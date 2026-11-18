@@ -1,2 +1,7 @@
-[12:37:25] Část 9/20: webů 164, hotovo 222, zbývá 0
-[12:37:25] Konec: školek s fotkami 77; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:13] Část 9/20: webů 167, hotovo 222, zbývá 3
+[12:43:42] https://mszdravickovendoli.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 11 fotek ke kontrole
+[12:44:00] https://skolacheznovice.eu: 22 stránek (galerie mimo web: 0 [], alb: 0), 758 obrázků, 2 fotek ke kontrole
+[12:46:22] https://novaskoladomazlice.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 24 fotek ke kontrole
+[12:46:36] tříděno 0/37
+[12:46:37] Dávka 1: hotovo 225/167, se fotkami 78; {'ok': 1, 'lide': 1, 'jine': 35, 'sablona': 0}
+[12:46:37] Konec: školek s fotkami 78; {'ok': 1, 'lide': 1, 'jine': 35, 'sablona': 0}
