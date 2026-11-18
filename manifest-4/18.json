@@ -957,6 +957,49 @@
 "w": 1200
 }
 ],
+"materska-skola-slunicko-532891": [
+{
+"alt": "",
+"barva": "#74755f",
+"dh": "8126866646d22109",
+"h": 750,
+"jistota": 0.879,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAE/8QAIxAAAgICAQMFAQAAAAAAAAAAAQIDBAARBRIhMRNBYYGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARExIf/aAAwDAQACEQMRAD8APLUsxKsvQ7Ix0JFG1J+MXcVZalwZlGmMaltsezH+YdHMzSSxyl2jCDQVTpfse+bqluS6DXllLJIh3tPH7mS0FtEHG32u0ksOoLOW30jt5OWZaStRg9GLoKbJG9jzllxjfWf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msslunicko.org/c-23-tridy-v-ms.html",
+"typ": "budova",
+"url": "https://www.msslunicko.org/UserFiles/images/msslunicko.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#b6b8ad",
+"dh": "c818f2f292988dcc",
+"h": 566,
+"jistota": 0.962,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msslunicko.org/c-23-tridy-v-ms.html",
+"typ": "zahrada",
+"url": "https://www.msslunicko.org/skin/img/floi_5.png",
+"w": 704
+},
+{
+"alt": "",
+"barva": "#728068",
+"dh": "eced2e37a50e0723",
+"h": 750,
+"jistota": 0.876,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msslunicko.org/c-23-tridy-v-ms.html",
+"typ": "budova",
+"url": "https://www.msslunicko.org/UserFiles/images/mskopecek.jpg",
+"w": 1000
+}
+],
 "materska-skola-sokolov-545764": [
 {
 "alt": "",
