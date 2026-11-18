@@ -1,7 +1,2 @@
-[12:12:50] Část 2/20: webů 182, hotovo 219, zbývá 3
-[12:13:02] https://www.obecprikosice.cz/obec/materska-skola-prikosice: 3 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[12:13:08] https://obeckresin.cz/index.php: 3 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 0 fotek ke kontrole
-[12:13:44] https://www.obec-kamen.cz/materska-skola-kaminek: 11 stránek (galerie mimo web: 1 ['dskaminek.rajce.idnes.cz'], alb: 0), 51 obrázků, 8 fotek ke kontrole
-[12:13:56] tříděno 0/8
-[12:13:56] Dávka 1: hotovo 222/182, se fotkami 61; {'ok': 3, 'lide': 0, 'jine': 2, 'sablona': 0}
-[12:13:56] Konec: školek s fotkami 61; {'ok': 3, 'lide': 0, 'jine': 2, 'sablona': 0}
+[12:37:27] Část 2/20: webů 179, hotovo 222, zbývá 0
+[12:37:27] Konec: školek s fotkami 61; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
