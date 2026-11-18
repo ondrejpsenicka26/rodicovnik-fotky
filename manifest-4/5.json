@@ -2126,6 +2126,36 @@
 "w": 1200
 }
 ],
+"soukroma-zs-a-ms-adelka-039087": [
+{
+"alt": "",
+"barva": "#828c83",
+"dh": "9bb1217497262633",
+"h": 800,
+"jistota": 0.979,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCBAX/xAAlEAABBAECBQUAAAAAAAAAAAABAgMEEQAFEhMVIUFRIjGBkdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGhEAAwADAQAAAAAAAAAAAAAAAAERAhITMf/aAAwDAQACEQMRAD8AupfkqW68iQtqS6riUDYSOySPY9KwiyZMSQiTKkuu9nQRuSQfA7V+4vs6k+w2opN7k7TfjJI1l6RHcQ4hPqTVjpk9FLAeDTlNPUn4GoSzI5iWtwrapCun1hiytzhqoC/nDM/R6n//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolaadelka.cz/materska-skola/",
+"typ": "budova",
+"url": "https://2edd9c978c.clvaw-cdnwnd.com/6f6b2850c580d304152098ac234649ba/200000054-608b361831/%C5%A1kola%20pohled.jpg?ph=2edd9c978c",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#95795e",
+"dh": "d492d0348766347c",
+"h": 525,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolaadelka.cz/materska-skola/",
+"typ": "interier",
+"url": "https://2edd9c978c.clvaw-cdnwnd.com/6f6b2850c580d304152098ac234649ba/200003768-c3e2ac3e2c/700/IMG_9895.jpeg?ph=2edd9c978c",
+"w": 700
+}
+],
 "zakladni-skola-a-materska-skola-adrspach-584051": [
 {
 "alt": "",
