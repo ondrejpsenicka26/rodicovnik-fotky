@@ -489,6 +489,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-zizala-ds10051": [
+{
+"alt": "",
+"barva": "#9d8e7d",
+"dh": "43c8e3301c35e7e7",
+"h": 563,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EACIQAQABBAIABwAAAAAAAAAAAAECAAMEESExBRIiYYGRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQASEf/aAAwDAQACEQMRAD8AXbtZOQMoXgB2Cv5zqsllTx47vvnF0NrkPvug50mLw69L1SbDvFgvet1IWpwup4hBNvHs1UC/bjK5t38KVUaZyX//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ds-zizala.cz/galerie/interier/",
+"typ": "interier",
+"url": "https://www.ds-zizala.cz/wp-content/uploads/2025/05/20250507_174747-1000.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#867e73",
+"dh": "c36323e7c3d5e58f",
+"h": 562,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.ds-zizala.cz/galerie/interier/",
+"typ": "interier",
+"url": "https://www.ds-zizala.cz/wp-content/uploads/2025/05/20250507_174257-1000.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#918e85",
+"dh": "0163232666446941",
+"h": 1000,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.ds-zizala.cz/galerie/interier/",
+"typ": "hygiena",
+"url": "https://www.ds-zizala.cz/wp-content/uploads/2025/05/IMG_6561-1000-rotated.jpg",
+"w": 750
+}
+],
 "lesni-materska-skola-dobrodej-091534": [
 {
 "alt": "",

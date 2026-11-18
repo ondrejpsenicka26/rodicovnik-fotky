@@ -1,8 +1,7 @@
-[11:38:39] Část 10/20: webů 182, hotovo 214, zbývá 4
-[11:38:45] https://msotinoves.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[11:38:56] https://mspostoloprty.webnode.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 0 fotek ke kontrole
-[11:39:22] https://www.kinder-city.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 0 fotek ke kontrole
-[11:39:40] https://zskatov.webnode.cz: 10 stránek (galerie mimo web: 61 ['zskatov.rajce.idnes.cz'], alb: 1), 21 obrázků, 2 fotek ke kontrole
-[11:39:52] tříděno 0/2
-[11:39:52] Dávka 1: hotovo 218/182, se fotkami 58; {'ok': 0, 'lide': 0, 'jine': 2, 'sablona': 0}
-[11:39:52] Konec: školek s fotkami 58; {'ok': 0, 'lide': 0, 'jine': 2, 'sablona': 0}
+[11:45:22] Část 10/20: webů 185, hotovo 218, zbývá 3
+[11:45:28] https://kidsacademy.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[11:46:27] https://www.ds-zizala.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 145 obrázků, 43 fotek ke kontrole
+[11:47:52] https://pupalek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 58 obrázků, 38 fotek ke kontrole
+[11:48:05] tříděno 0/81
+[11:48:11] Dávka 1: hotovo 221/185, se fotkami 59; {'ok': 3, 'lide': 1, 'jine': 57, 'sablona': 0}
+[11:48:11] Konec: školek s fotkami 59; {'ok': 3, 'lide': 1, 'jine': 57, 'sablona': 0}
