@@ -89,6 +89,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-klokajda-ds11362": [
+{
+"alt": "",
+"barva": "#a3a9a2",
+"dh": "800002652d9f9fa7",
+"h": 675,
+"jistota": 0.844,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACMQAAICAQMDBQAAAAAAAAAAAAECAAMRBCExBQYSExRBUrH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AGWh9rphlLBZYwGSdoxbqOnoRWcNuwXjiRnqv5lvI5HzNlQWIXfJY75yeZHUkTFHZ3To0bFStav24/YSPsRQ52EI6df/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://klokajda.cz/",
+"typ": "budova",
+"url": "https://klokajda.cz/wp-content/themes/klokajda/assets/images/DS%20vizualizace.jpg",
+"w": 1200
+},
+{
+"alt": "Denní místnost – vstupy",
+"barva": "#a79a88",
+"dh": "3331e0c6ef67feff",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://klokajda.cz/",
+"typ": "interier",
+"url": "https://klokajda.cz/wp-content/themes/klokajda/assets/images/2.07-denni-mistnost-vstupy.jpeg",
+"w": 1200
+},
+{
+"alt": "Denní místnost",
+"barva": "#9f8a71",
+"dh": "3e3f9f5ac4f6e69f",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://klokajda.cz/",
+"typ": "interier",
+"url": "https://klokajda.cz/wp-content/themes/klokajda/assets/images/2.07-denni-mistnost.jpeg",
+"w": 1200
+},
+{
+"alt": "Umývárna a skříňky",
+"barva": "#a29583",
+"dh": "18929a12d0c4d492",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://klokajda.cz/",
+"typ": "hygiena",
+"url": "https://klokajda.cz/wp-content/themes/klokajda/assets/images/2.04-umyvarna-skrinky.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-koralek-ii-ds01546": [
 {
 "alt": "",
@@ -282,6 +338,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-makovicka-ds02238": [
+{
+"alt": "",
+"barva": "#8b867e",
+"dh": "181b0a62b1bb8b8f",
+"h": 903,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAIRAAAgMAAQMFAAAAAAAAAAAAAQIAAxEhBBJBMlFhcdH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAwDAQACEQMRAD8A3UW1JhLL6szN38lhspucWIwKt5PtEA6tTYVCqNbtODzJIRUysN4+ZOaVDOqmR1JYgcng8QnPO1pbS2/ZhFgv/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsmakovicka.cz/zakladni-informace/nase-adresa-prostory-a-vybaveni/",
+"typ": "interier",
+"url": "https://dsmakovicka.cz/wp-content/uploads/2025/02/PXL_20250216_153653548.MP_.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#867f76",
+"dh": "8eaa0a028f8f9f9f",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsmakovicka.cz/zakladni-informace/nase-adresa-prostory-a-vybaveni/",
+"typ": "interier",
+"url": "https://dsmakovicka.cz/wp-content/uploads/2025/02/PXL_20250216_154126935.MP_.jpg",
+"w": 903
+}
+],
 "detska-skupina-materidouska-ds00046": [
 {
 "alt": "",
@@ -352,6 +438,62 @@
 "stranka": "https://montyskola.cz/budova-skolky/",
 "typ": "hygiena",
 "url": "https://montyskola.cz/wp-content/uploads/2018/10/IMG_20181015_144056.jpg",
+"w": 1200
+}
+],
+"detska-skupina-pavucinka-ds11148": [
+{
+"alt": "",
+"barva": "#617386",
+"dh": "015c8e3279b33ebe",
+"h": 900,
+"jistota": 0.843,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYDBAX/xAAhEAEAAgEEAgMBAAAAAAAAAAABAgMABBEhMRITUVJxYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECEgNB/9oADAMBAAIRAxEAPwDPjorGHs9cmsdmQcfmHXFciKfbsP5841yuqYWRsrJDuQGIEROuPzF+/Q2HkwqqsU23V7+ctXR34SmMlamyFtYyeTh3dsMhr0er1NZbCiMiQO/kGGDbFlH/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dspavucinka.cz/galerie.html",
+"typ": "budova",
+"url": "https://dspavucinka.cz/images/fotky/again/IMG-20241202-WA0001.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#746a52",
+"dh": "8ecc0c8ccc8c8080",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dspavucinka.cz/galerie.html",
+"typ": "interier",
+"url": "https://dspavucinka.cz/images/fotky/again/IMG-20241202-WA0002.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#637385",
+"dh": "211e8d73fa3b7f5f",
+"h": 1200,
+"jistota": 0.842,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://dspavucinka.cz/",
+"typ": "budova",
+"url": "https://dspavucinka.cz/media/yootheme/cache/2c/IMG-20241202-WA0001-2c02d862.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#87846f",
+"dh": "87cfe7f29f7e5f3f",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://dspavucinka.cz/galerie.html",
+"typ": "interier",
+"url": "https://dspavucinka.cz/images/fotky/again/IMG-20241202-WA0004.jpg",
 "w": 1200
 }
 ],
