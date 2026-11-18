@@ -1189,6 +1189,49 @@
 "w": 1200
 }
 ],
+"materska-skola-plav-po-100819": [
+{
+"alt": "g_4413_34106.jpg",
+"barva": "#625d4f",
+"dh": "032199392b0bb3c1",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQT/xAAgEAACAgICAgMAAAAAAAAAAAABAgMRAAQSMRMiIUGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhNh/9oADAMBAAIRAxEAPwCaIZUDsNheK0QSO8foyyyb6wtsF4mNK6rx5fuYVnWE+qdGxRoY5NhC3uioKIHAdfd4G6JYwo7OsBsyqhsIxXu8MjTQSpIfDO/BvYfNYZnr6VP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msplav.cz/fotografie-skolky-budova-zahrada.html",
+"typ": "interier",
+"url": "https://msplav.cz/img/7591/202591/max800/g_4413_34106.jpg",
+"w": 800
+},
+{
+"alt": "g_4413_34108.jpg",
+"barva": "#626156",
+"dh": "0fa7abaec70fffff",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msplav.cz/fotografie-skolky-budova-zahrada.html",
+"typ": "interier",
+"url": "https://msplav.cz/img/7591/202591/max800/g_4413_34108.jpg",
+"w": 800
+},
+{
+"alt": "g_4413_34096.jpg",
+"barva": "#6d7168",
+"dh": "f0f08030304080c0",
+"h": 600,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msplav.cz/fotografie-skolky-budova-zahrada.html",
+"typ": "hygiena",
+"url": "https://msplav.cz/img/7591/202591/max800/g_4413_34096.jpg",
+"w": 800
+}
+],
 "materska-skola-pod-spilberkem-602903": [
 {
 "alt": "",
@@ -1285,6 +1328,23 @@
 "stranka": "http://www.mspruhonice.cz/tridy/krtecci/",
 "typ": "hygiena",
 "url": "http://www.mspruhonice.cz/wp-content/uploads/2025/04/materska_skola_pruhonice-07.webp",
+"w": 1200
+}
+],
+"materska-skola-putim-053555": [
+{
+"alt": "",
+"barva": "#a88c68",
+"dh": "ca7b18d9d98fa7b3",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQIE/8QAHxAAAgIDAAIDAAAAAAAAAAAAAQIAAwQREjGRQUJy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAAMAAAAAAAAAAAAAAAAAARMRUWH/2gAMAwEAAhEDEQA/AKC5eMVUWhq7CfgH3MsyDINa2jrZUDQ3Eim4lu37XRIXQ37nMHryn5qpKXD7FyZIsFDQ+zLpx3NbZLoR5GjCTMmgi0iwN1+twizewacP/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msputim.cz/materska-skola/fotogalerie/",
+"typ": "interier",
+"url": "https://www.msputim.cz/data/headerfooter/header_images/img20260427063324.jpg",
 "w": 1200
 }
 ],
