@@ -1705,6 +1705,36 @@
 "w": 900
 }
 ],
+"ms-kout-na-sumave-540291": [
+{
+"alt": "",
+"barva": "#55787e",
+"dh": "405ad24287e6a38b",
+"h": 480,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACgAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAwUG/8QAIhAAAQQBAgcAAAAAAAAAAAAAAQACAxEEITESI0FRcYGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAwADAAAAAAAAAAAAAAABAwACBBEUIv/aAAwDAQACEQMRAD8ARkbOCwPieGsFm9QT6TWPiukxzO4ANDqptk7Xddd0w08xSSaHTsjVqZQciFZVGD0JXRZmLwU95B8boWfygBlSgAAB5+oVY1MhdZc//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.koutnasumave.cz/fotogalerie/fotogalerie-2022-2023/12projektovy-den-dopravni-vyuka-na-dopravnim-hristi-83cs.html",
+"typ": "budova",
+"url": "https://ms.koutnasumave.cz/data/headerfooter/header_images/m-vyska-480px-1.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#5f818d",
+"dh": "00001830e063a0bb",
+"h": 480,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms.koutnasumave.cz/fotogalerie/fotogalerie-2022-2023/12projektovy-den-dopravni-vyuka-na-dopravnim-hristi-83cs.html",
+"typ": "budova",
+"url": "https://ms.koutnasumave.cz/data/headerfooter/header_images/m-vyska-480px-4.jpg",
+"w": 960
+}
+],
 "ms-u-slunecnich-hodin-003876": [
 {
 "alt": "",
