@@ -205,6 +205,79 @@
 "w": 765
 }
 ],
+"detska-skupina-u-malych-pruzkumnicku-ds10202": [
+{
+"alt": "",
+"barva": "#c0ab98",
+"dh": "dadb95ad9cb9b1db",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABBESQQUTITFxgbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAACAQARIf/aAAwDAQACEQMRAD8AtPeRvfGTUjtICRn3k5FZN1S3iZVfK7jVR809ra1jlwYl2IHFSpelyyyszzkls5AHvzz9USVOUmLNuLkIyqneZQo8ohINFdS20glbEWueNsfhorFV1gnPd//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.umalychpruzkumnicku.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/67c183f2e4cfe7bea9f07d22/68ee2b378ab33f62e9012127_IMG_4511.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b5a396",
+"dh": "f60445532a6e4609",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.umalychpruzkumnicku.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/67c183f2e4cfe7bea9f07d22/68ee292924f9c580cff27365_IMG_4522.webp",
+"w": 1200
+}
+],
+"detska-skupina-v-chaloupce-1-ds11029": [
+{
+"alt": "",
+"barva": "#918178",
+"dh": "c9c9c9483c9a1a38",
+"h": 1200,
+"jistota": 0.564,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQEE/8QAKBAAAgAFAgMJAAAAAAAAAAAAAQIAAwQFERIhEzFhMkFSYnGBkaGi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwBd5Om6W8+J1H6inXb3FF8gH2Yl1EibVy5M12PElHKBRz3zvDqqfNavSpY6VUAMmOePWImReVaOGZj1xBCkbUoI794IMCHa11zZkwcQY2Ks+oZ6Q+q1CeQoRiVBwWwYyxsZlAHbdiTk+8cV/YpUSSpxlSD8w5xa3b5hekTUCrDYg8xiCJNsmuKXAY9owQosf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.obecvraclav.cz/fotogalerie?parentId=1184&do=show",
+"typ": "interier",
+"url": "https://www.obecvraclav.cz/assets/photogallery/1_1280xnull/y7e5m2ekkt.IMG-20230718-121353.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#808879",
+"dh": "c5336743631cc8e4",
+"h": 1200,
+"jistota": 0.842,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.obecvraclav.cz/fotogalerie?parentId=542&do=show",
+"typ": "zahrada",
+"url": "https://www.obecvraclav.cz/assets/photogallery/1_1280xnull/zep77dlcso.Bagr-1-17.8..jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#919681",
+"dh": "00400449030e0203",
+"h": 1200,
+"jistota": 0.783,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.obecvraclav.cz/fotogalerie?parentId=542&do=show",
+"typ": "zahrada",
+"url": "https://www.obecvraclav.cz/assets/photogallery/1_1280xnull/mr5f6zkno2.foto-24.8..jpg",
+"w": 900
+}
+],
 "lesni-materska-skola-stromecek-088584": [
 {
 "alt": "Zámek Měšice",
