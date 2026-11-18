@@ -1,4 +1,21 @@
 {
+"detska-skupina-berusky-palonin-ds11150": [
+{
+"alt": "",
+"barva": "#895a3c",
+"dh": "4e0e1616195f9793",
+"h": 504,
+"jistota": 0.924,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EAB4QAAICAgIDAAAAAAAAAAAAAAECABEDBBIhBhNh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AMzTyEZERAGINgOepezNtZVZeSGl4ApdgXfV/YiErTGblIcPkGxqJ6sbZAinriaERE06ZHhH/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://berusky.palonin.cz/o-nas/",
+"typ": "interier",
+"url": "https://berusky.palonin.cz/wp-content/uploads/2023/11/about-us-scaled.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-deti-od-botice-ds01678": [
 {
 "alt": "",
@@ -141,6 +158,62 @@
 "w": 795
 }
 ],
+"detska-skupina-klubicko-ds01450": [
+{
+"alt": "",
+"barva": "#788188",
+"dh": "50048363a1610811",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACYQAAEDAwMCBwAAAAAAAAAAAAECAxEABCEFEhMjQTFRYWJxkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhFR/9oADAMBAAIRAxEAPwDRGqPInfxOADOYPby+aY29+w4DydMjHjun6qLbvluJlQSN3cDJ/RTGxfecw2EwkyVKAxSm6C5RRuaraNrKSFmPbFFJ3WuRe5SzPpRT2+kxcP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msfugnerova.cz/klubicko-o-nas/",
+"typ": "budova",
+"url": "https://www.msfugnerova.cz/wp-content/uploads/2024/09/uhel.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f6b69",
+"dh": "808552706c030001",
+"h": 1200,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msfugnerova.cz/klubicko-o-nas/",
+"typ": "interier",
+"url": "https://www.msfugnerova.cz/wp-content/uploads/2024/09/trida.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#77836f",
+"dh": "1f9e99190f274b09",
+"h": 900,
+"jistota": 0.978,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msfugnerova.cz/ms-fugnerova/",
+"typ": "zahrada",
+"url": "https://www.msfugnerova.cz/wp-content/uploads/2024/09/zahrada.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#748089",
+"dh": "80310f8b49197063",
+"h": 900,
+"jistota": 0.989,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msfugnerova.cz/klubicko/",
+"typ": "budova",
+"url": "https://www.msfugnerova.cz/wp-content/uploads/2024/09/vchod.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-kopretinka-ds00460": [
 {
 "alt": "",
@@ -261,6 +334,23 @@
 "w": 1200
 }
 ],
+"detska-skupina-rodinka-ds00137": [
+{
+"alt": "Dětské skupiny Rodinka.cz",
+"barva": "#c2b28c",
+"dh": "90f087f89fe1381e",
+"h": 1200,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAArEAACAgEDAQQLAAAAAAAAAAABAwACBBESMXEFEyEiMkFRUlNjgZGhsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIREjEyYf/aAAwDAQACEQMRAD8A2sliqMNauqm/zKHT78ScNWUfNe62V9q/H9SXF9WW3UGQojXZs8w6H+iUBjY7XhimsxmfDsdunQiZt5DVAS1LsNDoas+gJiZllds0sQvNJr6taVP5MQ6+Ec1nFyGHua2O4X5168yHVDGvpYegBpYcxEq+CnlcELNF7QxmgPvREQQ3GPqX/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://rodinka.cz/detske-skupiny",
+"typ": "interier",
+"url": "https://rodinka.cz/img/detske-skupiny/detske-skupiny-3-pc.jpg",
+"w": 1200
+}
+],
 "detska-skupina-smoulka-ds00513": [
 {
 "alt": "Jak to u nás vypadá",
@@ -288,6 +378,62 @@
 "stranka": "https://smoulka.cz/fotogalerie",
 "typ": "zahrada",
 "url": "https://smoulka.cz/assets/zahrada-zahrada-JEdrfEgB.webp",
+"w": 1200
+}
+],
+"detska-skupina-vcelicky-ds11243": [
+{
+"alt": "",
+"barva": "#5b6055",
+"dh": "426343434fcc8237",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAkEAACAgEDAgcAAAAAAAAAAAABAgMRAAQSIQUiBhMUMUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEBAQACAwAAAAAAAAAAAAAAAQAREhMUMf/aAAwDAQACEQMRAD8ASr1TUwaaOJGFc91XWP8AR6rXGPfMWqSMUriw9fH5xiP00rMLZERRW1bOammkIQGVuwUKORyoexgojxFIljZD78WOQMMp8qI8sgJ+6wx7DGpf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msceskakamenice.cz/",
+"typ": "budova",
+"url": "https://msceskakamenice.cz/images/2025/07/16/mskom01.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a06d27",
+"dh": "a5cc8cccb1b49521",
+"h": 901,
+"jistota": 0.984,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msceskakamenice.cz/detska-skupina/trida-motylci",
+"typ": "interier",
+"url": "https://msceskakamenice.cz/images/2026/05/28/ds_u_potoka_11.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6a6f5e",
+"dh": "1f1d0d854f3be7df",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msceskakamenice.cz/",
+"typ": "zahrada",
+"url": "https://msceskakamenice.cz/images/2025/07/16/mskom02.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#575b3f",
+"dh": "9f97276d1b8f0e4e",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msceskakamenice.cz/",
+"typ": "budova",
+"url": "https://msceskakamenice.cz/images/2025/07/16/kast02.jpg",
 "w": 1200
 }
 ],

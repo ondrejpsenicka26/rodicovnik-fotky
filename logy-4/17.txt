@@ -1,14 +1,12 @@
-[00:41:44] Část 18/20: webů 119, hotovo 133, zbývá 10
-[00:41:49] https://smartbaby.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[00:41:52] https://stastneditekozojidky.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 3 fotek ke kontrole
-[00:41:56] https://smoulka.lovable.app: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 6 fotek ke kontrole
-[00:41:57] https://medvidkovaskolka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[00:42:00] https://louckavbrne.com: 1 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 12 fotek ke kontrole
-[00:42:09] https://happypreschool.cz/cz/destkeskupiny: 2 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 26 fotek ke kontrole
-[00:42:21] https://pandaclub.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 172 obrázků, 44 fotek ke kontrole
-[00:42:26] http://www.ms-borislav.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 1 fotek ke kontrole
-[00:44:22] https://studanka-tisnov.cz/pece-o-deti/detska-skupina-potucek: 2 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 33 fotek ke kontrole
-[00:44:54] https://mikesovaskolka.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 192 obrázků, 21 fotek ke kontrole
-[00:45:06] tříděno 0/147
-[00:45:23] Dávka 1: hotovo 143/119, se fotkami 38; {'ok': 13, 'lide': 12, 'jine': 108, 'sablona': 0}
-[00:45:23] Konec: školek s fotkami 38; {'ok': 13, 'lide': 12, 'jine': 108, 'sablona': 0}
+[02:13:58] Část 18/20: webů 123, hotovo 143, zbývá 8
+[02:14:12] https://dswaldik.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 17 fotek ke kontrole
+[02:14:35] https://berusky.palonin.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 18 fotek ke kontrole
+[02:14:39] https://chaloupkakravare.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 5 fotek ke kontrole
+[02:14:39] https://rodinka.cz/detske-skupiny: 2 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 29 fotek ke kontrole
+[02:14:48] https://msfugnerova.cz/klubicko: 4 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 11 fotek ke kontrole
+[02:15:10] https://msceskakamenice.cz/detska-skupina/trida-vcelicky: 15 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 15 fotek ke kontrole
+[02:15:34] https://skolasvetdecin.cz/materska-skola/na-ceste-do-sveta: 8 stránek (galerie mimo web: 0 [], alb: 0), 213 obrázků, 26 fotek ke kontrole
+[02:17:33] https://dsmohelnicko.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 364 obrázků, 43 fotek ke kontrole
+[02:17:50] tříděno 0/164
+[02:18:07] Dávka 1: hotovo 151/123, se fotkami 42; {'ok': 10, 'lide': 10, 'jine': 134, 'sablona': 0}
+[02:18:07] Konec: školek s fotkami 42; {'ok': 10, 'lide': 10, 'jine': 134, 'sablona': 0}
