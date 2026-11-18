@@ -1,7 +1,2 @@
-[10:15:28] Část 17/20: webů 175, hotovo 205, zbývá 3
-[10:15:37] https://msbudulinek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
-[10:16:07] https://celcice.eu/materska-skola-celcice: 8 stránek (galerie mimo web: 0 [], alb: 0), 245 obrázků, 0 fotek ke kontrole
-[10:16:28] https://skola-velke-losiny.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 386 obrázků, 3 fotek ke kontrole
-[10:16:39] tříděno 0/6
-[10:16:39] Dávka 1: hotovo 208/175, se fotkami 53; {'ok': 1, 'lide': 0, 'jine': 5, 'sablona': 0}
-[10:16:39] Konec: školek s fotkami 53; {'ok': 1, 'lide': 0, 'jine': 5, 'sablona': 0}
+[10:40:19] Část 17/20: webů 174, hotovo 208, zbývá 0
+[10:40:19] Konec: školek s fotkami 53; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
