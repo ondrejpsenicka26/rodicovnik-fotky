@@ -1,14 +1,8 @@
-[02:14:05] Část 7/20: webů 150, hotovo 164, zbývá 10
-[02:14:16] https://msricany.cz/ds-vlnka: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 2 fotek ke kontrole
-[02:14:22] https://littlestarschool.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 14 fotek ke kontrole
-[02:14:27] https://dsslunicka.cz/litomerice/detska-skupina-slunicka-litomerice: 4 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 22 fotek ke kontrole
-[02:14:28] https://littlemonkeys.cz/tiny-tigers: 4 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 24 fotek ke kontrole
-[02:14:29] https://dseccehomo.cz/skritecek: 1 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 12 fotek ke kontrole
-[02:14:30] https://rodinka.cz/detska-skupina/praminek: 2 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 22 fotek ke kontrole
-[02:15:03] https://univerzitka.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 1280 obrázků, 44 fotek ke kontrole
-[02:15:06] https://jeslickypianko.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 136 obrázků, 43 fotek ke kontrole
-[02:15:16] https://msjirkov.cz/ds-lvicek: 34 stránek (galerie mimo web: 0 [], alb: 0), 427 obrázků, 29 fotek ke kontrole
-[02:17:52] https://montyskola.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 11 fotek ke kontrole
-[02:18:09] tříděno 0/223
-[02:18:46] Dávka 1: hotovo 174/150, se fotkami 46; {'ok': 22, 'lide': 22, 'jine': 136, 'sablona': 0}
-[02:18:46] Konec: školek s fotkami 46; {'ok': 22, 'lide': 22, 'jine': 136, 'sablona': 0}
+[04:00:00] Část 7/20: webů 150, hotovo 174, zbývá 4
+[04:00:34] https://abacuscb.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 10 fotek ke kontrole
+[04:00:45] https://sportkids-cz.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 37 fotek ke kontrole
+[04:00:58] https://kamennyujezd.cz/materska-skola-detske-skupiny/ds-kamenacek: 23 stránek (galerie mimo web: 0 [], alb: 0), 104 obrázků, 6 fotek ke kontrole
+[04:01:25] https://dslaska.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 9 fotek ke kontrole
+[04:01:44] tříděno 0/62
+[04:01:51] Dávka 1: hotovo 178/150, se fotkami 50; {'ok': 9, 'lide': 8, 'jine': 28, 'sablona': 0}
+[04:01:51] Konec: školek s fotkami 50; {'ok': 9, 'lide': 8, 'jine': 28, 'sablona': 0}

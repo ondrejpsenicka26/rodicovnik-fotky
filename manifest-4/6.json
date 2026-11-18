@@ -1,4 +1,34 @@
 {
+"detska-skupina-abacus-ii-ds01425": [
+{
+"alt": "Abacus English Preschool ",
+"barva": "#c0a886",
+"dh": "331c1ccbcd07e3e3",
+"h": 720,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAACBQEE/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDABESBAUhMaEiQVFhYnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAD/8QAHREAAgEEAwAAAAAAAAAAAAAAAQIAAwQRMRITYf/aAAwDAQACEQMRAD8AuRSR6bFJpVIseALk+486TcX1kUdtFJCsxsbSgsuPPe9qla8vo5SrXnZbugksAL/XNd2kmbclZni8KjHIkflGesCOWIhbd13qbNuRjZVZlVsRkMBwbc9T60Usu2h5CxUm/wAunais+4SC+T//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://abacuscb.cz/galerie",
+"typ": "interier",
+"url": "https://abacuscb.cz/data/image/w1024h1024/2/galerie-192.jpg",
+"w": 960
+},
+{
+"alt": "Abacus English Preschool ",
+"barva": "#c69373",
+"dh": "291e0e25add13131",
+"h": 720,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://abacuscb.cz/galerie",
+"typ": "interier",
+"url": "https://abacuscb.cz/data/image/w1024h1024/4/galerie-194.jpg",
+"w": 960
+}
+],
 "detska-skupina-jdeme-do-sveta-ii-ds01888": [
 {
 "alt": "og",
@@ -29,6 +59,36 @@
 "w": 700
 }
 ],
+"detska-skupina-kamenacek-ds11102": [
+{
+"alt": "foto",
+"barva": "#747f85",
+"dh": "7a58ff9c9d1d13e0",
+"h": 900,
+"jistota": 0.983,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACIQAAMAAQQCAgMAAAAAAAAAAAECAwAEBREhEhYyRGGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMREv/aAAwDAQACEQMRAD8A0tZusIXppwL0ZG4PhPnvM228aWVSTG6kj4sgH9yOLx07lmFWJbz6IGVttC7my2c0ivHXBBJxK2SYXWhfY4r0unYj8kYY3qsT9mv6GGY56XJ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kamennyujezd.cz/materska-skola-detske-skupiny/ms-kamenacek/dokumenty-ms/",
+"typ": "budova",
+"url": "https://www.kamennyujezd.cz/data/template_custom_fields/28_cs_fb-img-1775627270372.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7b8284",
+"dh": "230202e0b0980c56",
+"h": 900,
+"jistota": 0.992,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.kamennyujezd.cz/materska-skola-detske-skupiny/ds-kamenacek/fotogalerie-ds/ds-budova-167cs.html",
+"typ": "budova",
+"url": "https://www.kamennyujezd.cz/evt_image.php?img=5124",
+"w": 1200
+}
+],
 "detska-skupina-koralek-ii-ds01546": [
 {
 "alt": "",
@@ -43,6 +103,36 @@
 "stranka": "https://www.starykolin.eu/sluzby-obcanum/zakladni-a-materska-skola-stary-kolin/",
 "typ": "budova",
 "url": "https://www.starykolin.eu/wp-content/uploads/2026/08/zs.png",
+"w": 1200
+}
+],
+"detska-skupina-laska-ds01642": [
+{
+"alt": "",
+"barva": "#9f948b",
+"dh": "041814909803090c",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAIxAAAgEEAQMFAAAAAAAAAAAAAQIDAAQREiETMUEyUVKRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEREiExUf/aAAwDAQACEQMRAD8AVHJb7lC5DDuK06qHhJAzfGg21oWdnmzsWz6smkypa2es0gZedd1GSPui9CjI6IMV5bz4xVQ1uoGGYrt9T7xg/lVTTXRVZ//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dslaska.cz/",
+"typ": "interier",
+"url": "https://dslaska.cz/wp-content/uploads/2022/11/20221117_175529.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a09488",
+"dh": "1824242511200494",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dslaska.cz/",
+"typ": "interier",
+"url": "https://dslaska.cz/wp-content/uploads/2022/11/20221117_175435.jpg",
 "w": 1200
 }
 ],
@@ -396,6 +486,49 @@
 "typ": "budova",
 "url": "https://skolkasmartkids.cz/wp-content/uploads/2022/03/270348994_226963592945665_2322086682518843870_n.jpg",
 "w": 896
+}
+],
+"detska-skupina-sport-kids-ds00210": [
+{
+"alt": "",
+"barva": "#8e7567",
+"dh": "d763590b96ccecc4",
+"h": 1199,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAlEAACAQMEAgEFAAAAAAAAAAABAgMABBEFEiExImFBE1FxwfD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACE1ERYf/aAAwDAQACEQMRAD8AufUZJYo5LMlZH5YcD8/3uttPv5pGlgucmRlJVRzx8/qvJke20zUGieISJnKny8Tx8iui41XbEXihEcxXCOi7iBn7nqpK4vysBkeFOqW0rXW76TYIyMj2fdK6oY3uYVeWeQsCw8xzjce8UpbXkNWPatQtYpLlNy9qc++qltOtzGrbSDwBz1zSlFkW8ahUwviMngClKVrl/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.sportkids-cz.cz/galerie",
+"typ": "interier",
+"url": "https://www.sportkids-cz.cz/files/20231009-090947.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#958276",
+"dh": "44cc34060ec8d8f6",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.sportkids-cz.cz/galerie",
+"typ": "interier",
+"url": "https://www.sportkids-cz.cz/files/20231009-090927.jpg",
+"w": 675
+},
+{
+"alt": "",
+"barva": "#998f86",
+"dh": "757171f4743cb87c",
+"h": 1200,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.sportkids-cz.cz/galerie",
+"typ": "hygiena",
+"url": "https://www.sportkids-cz.cz/files/20231009-091631.jpg",
+"w": 1200
 }
 ],
 "detska-skupina-tiny-tigers-ds02376": [
