@@ -519,6 +519,36 @@
 "w": 900
 }
 ],
+"materska-skola-budisov-nad-budisovkou-628147": [
+{
+"alt": "og",
+"barva": "#907f70",
+"dh": "0f0fcf4a6b471b0b",
+"h": 900,
+"jistota": 0.977,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABkAAAEFAAAAAAAAAAAAAAAAAAACAwQFBv/EACEQAAIBAwUAAwAAAAAAAAAAAAECAAMREgQFITFBE0KB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAMAwEAAhEDEQA/ALU75RRhYZofsD7DVbpQrUSisVuL3PEzYcEAeDqKykr1SDlPWLVyb5EHPTmxhIr4lrkA/kI2I1//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.budisov.eu/mesto/fotogalerie/foto-2013/otevreni-oranzoveho-hriste-502cs.html",
+"typ": "zahrada",
+"url": "https://www.budisov.eu/evt_image.php?img=2092",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#777875",
+"dh": "2b1b331f0f97979d",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.budisov.eu/mesto/fotogalerie/foto-2022/rekonstrukce-socialniho-zazemi-v-svc-1061cs.html",
+"typ": "hygiena",
+"url": "https://www.budisov.eu/evt_image.php?img=3991",
+"w": 1200
+}
+],
 "materska-skola-ceske-mezirici-585502": [
 {
 "alt": "",
@@ -1444,6 +1474,23 @@
 "typ": "interier",
 "url": "https://skoladoudleby.cz/storage/2024/03/skola-v-prirode-2.jpg",
 "w": 897
+}
+],
+"zakladni-skola-a-materska-skola-hradek-144-621797": [
+{
+"alt": "",
+"barva": "#76796d",
+"dh": "e048901e2b193945",
+"h": 657,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2OTApLCBxdWFsaXR5ID0gODEK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMABBEFEhMUITGRQUJRYaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAGxEAAwACAwAAAAAAAAAAAAAAAAEDESECEmH/2gAMAwEAAhEDEQA/AJ4NNlucFFAQ+9jhfNH06VXxwWwOmUO8dvkVRYaoY7ONDGGbbgFWxn8rLi4vGuYpo25dFIO1Wznx6UjvXtkFLjgmhtxMm6PqASD9EUrg25WSRkldQ7FyB2BNK0q+tok5+n//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmshradek.cz/materska-skola/",
+"typ": "budova",
+"url": "https://www.zsmshradek.cz/wp-content/gallery/materska-skola/slider_1.jpg",
+"w": 876
 }
 ],
 "zakladni-skola-a-materska-skola-krenovice-631792": [
