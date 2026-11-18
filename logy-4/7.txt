@@ -1,8 +1,2 @@
-[11:45:18] Část 8/20: webů 187, hotovo 228, zbývá 4
-[11:45:37] https://detskaskupinatomik.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 23 fotek ke kontrole
-[11:45:38] https://ds-sympatie.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 10 fotek ke kontrole
-[11:46:02] https://dsmonty.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 83 obrázků, 41 fotek ke kontrole
-[11:46:22] https://filianek.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 214 obrázků, 38 fotek ke kontrole
-[11:46:37] tříděno 0/112
-[11:46:42] Dávka 1: hotovo 232/187, se fotkami 63; {'ok': 5, 'lide': 4, 'jine': 103, 'sablona': 0}
-[11:46:42] Konec: školek s fotkami 63; {'ok': 5, 'lide': 4, 'jine': 103, 'sablona': 0}
+[12:06:22] Část 8/20: webů 187, hotovo 232, zbývá 0
+[12:06:22] Konec: školek s fotkami 63; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
