@@ -489,6 +489,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-puntik-ds00551": [
+{
+"alt": "Návrh bez názvu - 2026-10-15T225222.296",
+"barva": "#ab9e8c",
+"dh": "19073733263d750d",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EACQQAAIBAwIGAwAAAAAAAAAAAAECAwAEETFBBRITISNRM6HB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhEhElH/2gAMAwEAAhEDEQA/AKPCk8IJlK4jGFB9+6eG6iluWNh3IfG1TLWVhGqrgcygEjXAFOubZoIkfrM+/fXB2+6nqWDOscDyKydxBxJcCQaMoIorL75UHpB+0UZ9ma/LM//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkapuntik.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://skolkapuntik.cz/wp-content/uploads/2026/10/Navrh-bez-nazvu-2026-10-15T225222.296.png",
+"w": 1200
+},
+{
+"alt": "Návrh bez názvu - 2026-10-15T225241.189",
+"barva": "#9e978b",
+"dh": "1b4d1f9c9c8c1319",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkapuntik.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://skolkapuntik.cz/wp-content/uploads/2026/10/Navrh-bez-nazvu-2026-10-15T225241.189.png",
+"w": 1200
+},
+{
+"alt": "Návrh bez názvu - 2026-10-15T225208.484",
+"barva": "#c0b8aa",
+"dh": "191f477357533327",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolkapuntik.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://skolkapuntik.cz/wp-content/uploads/2026/10/Navrh-bez-nazvu-2026-10-15T225208.484.png",
+"w": 1200
+}
+],
 "detska-skupina-sedmikraska-ds01869": [
 {
 "alt": "Herna - čistá zóna",

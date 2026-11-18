@@ -1,2 +1,10 @@
-[11:38:36] Část 9/20: webů 156, hotovo 214, zbývá 0
-[11:38:36] Konec: školek s fotkami 76; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[11:45:24] Část 9/20: webů 162, hotovo 214, zbývá 6
+[11:45:30] https://slunickov.com: nedostupné nebo zakázané
+[11:45:32] https://www.skolkaslovanka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
+[11:45:40] https://www.dsandilci.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 8 fotek ke kontrole
+[11:45:42] https://www.detska-skupina-karamelka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 9 fotek ke kontrole
+[11:45:55] https://dsdino.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 11 fotek ke kontrole
+[11:46:05] https://skolkapuntik.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 17 fotek ke kontrole
+[11:46:18] tříděno 0/47
+[11:46:19] Dávka 1: hotovo 220/162, se fotkami 77; {'ok': 3, 'lide': 2, 'jine': 31, 'sablona': 0}
+[11:46:19] Konec: školek s fotkami 77; {'ok': 3, 'lide': 2, 'jine': 31, 'sablona': 0}
