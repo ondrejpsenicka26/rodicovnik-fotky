@@ -887,6 +887,36 @@
 "w": 700
 }
 ],
+"materska-skola-mezholezy-540444": [
+{
+"alt": "",
+"barva": "#868b8b",
+"dh": "841bbb64adb3e6e2",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCAwX/xAAhEAACAgIDAAIDAAAAAAAAAAABAgMEABESITEFQWFxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABwRAAICAgMAAAAAAAAAAAAAAAECAAMRQSExUf/aAAwDAQACEQMRAD8A2TboRjk7BfRtuXu8riv1zPzeNUrkbXYJ7/mLVv5eWqJhFDCGbRDFfD+B5ka0heJi0hZm7HIb4frIZY8TLGFa5O+o0m3XY7jlQL9DesMVo6UtgvIJiSW7113hiIbyEWLjc//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.materskaskolamezholezy.cz/interier-ms/",
+"typ": "interier",
+"url": "https://f7faab418c.clvaw-cdnwnd.com/b969cba6124b4427322094c1e2a5c4c1/200000162-3eacb3eace/20250328_110247~3.jpeg?ph=f7faab418c",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#778088",
+"dh": "3b37ef6cf3cf9d3f",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.materskaskolamezholezy.cz/interier-ms/",
+"typ": "interier",
+"url": "https://f7faab418c.clvaw-cdnwnd.com/b969cba6124b4427322094c1e2a5c4c1/200000160-d2800d2802/20250328_110324~2.jpeg?ph=f7faab418c",
+"w": 1200
+}
+],
 "materska-skola-nebovidy-603543": [
 {
 "alt": "",
@@ -1714,6 +1744,49 @@
 "typ": "budova",
 "url": "https://static.wixstatic.com/media/e1b3e0_acd37cc1efb24a6aa67252976101fc60~mv2.jpeg",
 "w": 1200
+}
+],
+"ms-horsovsky-tyn-000046": [
+{
+"alt": "",
+"barva": "#8e836f",
+"dh": "406a487273757280",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQL/xAAmEAACAQMBBwUAAAAAAAAAAAABAgMAETEEBRIhIjJBURMUcYKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREgL/2gAMAwEAAhEDEQA/AHmOAwMysptIRv2xx6a1pzCZQqS7x5uCkjBt+YqedpH0yqxL1FsADPilw6x4SxRFuWLXOeJvass9F1FmDVIycupkYeRIR2+aKk++l7LGPrRTlhUf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mshtyn.cz/ms-vancurova/kontakty-na-tridy/",
+"typ": "budova",
+"url": "https://www.mshtyn.cz/data/headerfooter/header_images/skolka1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#807f52",
+"dh": "8c84429211ed55b9",
+"h": 480,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mshtyn.cz/ms-vancurova/kontakty-na-tridy/",
+"typ": "zahrada",
+"url": "https://www.mshtyn.cz/data/headerfooter/header_images/20240830100511.jpg",
+"w": 949
+},
+{
+"alt": "",
+"barva": "#788c96",
+"dh": "e0e4b0b929212218",
+"h": 480,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mshtyn.cz/ms-vancurova/kontakty-na-tridy/",
+"typ": "budova",
+"url": "https://www.mshtyn.cz/data/headerfooter/header_images/20240830093942.jpg",
+"w": 950
 }
 ],
 "ms-kdyne-540631": [

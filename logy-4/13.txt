@@ -1,2 +1,8 @@
-[12:38:05] Část 14/20: webů 183, hotovo 229, zbývá 0
-[12:38:05] Konec: školek s fotkami 65; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:19] Část 14/20: webů 187, hotovo 229, zbývá 4
+[12:43:58] https://materskaskolamezholezy.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 19 fotek ke kontrole
+[12:44:09] https://obec-cizkov.cz/cs/obec-cizkov/materska-skola/R18-A0: 7 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 4 fotek ke kontrole
+[12:44:32] https://mshtyn.cz: 25 stránek (galerie mimo web: 2 ['mspionyru.rajce.idnes.cz', 'msvancurova.rajce.idnes.cz'], alb: 0), 54 obrázků, 3 fotek ke kontrole
+[12:44:45] https://obeczahorany.cz/skolka: 19 stránek (galerie mimo web: 0 [], alb: 0), 112 obrázků, 45 fotek ke kontrole
+[12:45:03] tříděno 0/71
+[12:45:08] Dávka 1: hotovo 233/187, se fotkami 67; {'ok': 5, 'lide': 4, 'jine': 60, 'sablona': 0}
+[12:45:08] Konec: školek s fotkami 67; {'ok': 5, 'lide': 4, 'jine': 60, 'sablona': 0}
