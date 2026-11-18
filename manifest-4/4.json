@@ -917,6 +917,23 @@
 "w": 1200
 }
 ],
+"materska-skola-treben-541149": [
+{
+"alt": "og",
+"barva": "#69664c",
+"dh": "b1c16330e4e062a0",
+"h": 1200,
+"jistota": 0.993,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUB/8QAIxAAAgEEAgEFAQAAAAAAAAAAAQIDAAQREiExBRMUQXGhMv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQISESEDMVH/2gAMAwEAAhEDEQA/AJP5TRWeSIlQOcEcVp+FuPWvpFCa6Jnv6pZmIgjMc8uxbtUxnvPdTsPISWspkgVRkakEZ4oJckq1NorZGbykyi8ZSCdQB+UVlx7z7TNLEGkbYgnr9oqRwTHbFqVnZd2ALdEL8V22kEkeRwtVnZvcMM8AnirNvGruuwzxVD6EvZeikdYwEwV+s0Uw2ltCtrEBEn8j4opLYeH6f//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mstreben.cz/fotogalerie/nase-skolka",
+"typ": "zahrada",
+"url": "http://www.mstreben.cz/image.php?oid=9651235",
+"w": 900
+}
+],
 "ms-pisnicky-domecek-064855": [
 {
 "alt": "og",
@@ -1025,6 +1042,23 @@
 "stranka": "https://www.skolakoberice.cz/fotogalerie-zs/land-art-v-8-tridach",
 "typ": "les",
 "url": "http://www.skolakoberice.cz/image.php?oid=12596385",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-kratonohy-581159": [
+{
+"alt": "og",
+"barva": "#aa9071",
+"dh": "fb999efe581966cf",
+"h": 798,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACQQAAEEAQMDBQAAAAAAAAAAAAEAAgMRBBITMRQhQUJRYaHx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhJR/9oADAMBAAIRAxEAPwCo/OwrB6mFwdwAbvvXhJzZeOXgxvJHsGkD74S0enc2Y2hgHnnlUBgRjS4El59T+/4s+lK5k9l21I3UGAfFoWHyGORzKB0mrFi0JOyOG//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmskratonohy.cz/fotogalerie-zs/pocitace-ve-iii-tride",
+"typ": "interier",
+"url": "http://www.zsmskratonohy.cz/image.php?oid=8740463",
 "w": 1200
 }
 ],
