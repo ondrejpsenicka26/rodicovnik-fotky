@@ -111,6 +111,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-babyland-ds01682": [
+{
+"alt": "",
+"barva": "#5b6772",
+"dh": "3c18b06286870b89",
+"h": 667,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQH/xAAhEAACAgEEAgMAAAAAAAAAAAABAgADEQQSITEUYTKRof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEwMRQf/aAAwDAQACEQMRAD8A2zUrSh22Cxh0ickxUXPZue+h60Xj4k/v1ItOpNj4NaY9iOeU5G3GFx1LeSeyVBdKFeq0ZQE2hPTKcwk0uc8YEI3SCtH/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsbabyland.cz/galerie-babyland-ii/",
+"typ": "budova",
+"url": "https://www.dsbabyland.cz/wp-content/gallery/babyland-ii/DSC_6583.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#c49948",
+"dh": "80c3c884c86827c3",
+"h": 1000,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsbabyland.cz/galerie/",
+"typ": "interier",
+"url": "https://www.dsbabyland.cz/wp-content/gallery/galerie/JRT_0426-ub.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#677f41",
+"dh": "b3b7a52c085a1a70",
+"h": 668,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dsbabyland.cz/galerie/",
+"typ": "zahrada",
+"url": "https://www.dsbabyland.cz/wp-content/gallery/galerie/DSC_6661.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#a37b40",
+"dh": "3333b3b1901e1f0f",
+"h": 667,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dsbabyland.cz/galerie/",
+"typ": "interier",
+"url": "https://www.dsbabyland.cz/wp-content/gallery/galerie/DSC_6630.jpg",
+"w": 1000
+}
+],
 "detska-skupina-ctyrlistek-mini-iv-ds10754": [
 {
 "alt": "",
@@ -241,6 +297,49 @@
 "stranka": "https://www.dsbylany.cz/fotogalerie/",
 "typ": "hygiena",
 "url": "https://www.dsbylany.cz/photo/mysicky/original/20250807-mysicky-6.webp",
+"w": 900
+}
+],
+"detska-skupina-linden-kids-ds11308": [
+{
+"alt": "Fotografie ze školky Křenová",
+"barva": "#818e98",
+"dh": "c29bbbceda5b5b85",
+"h": 1200,
+"jistota": 0.763,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIDBQYH/8QAJhABAAEDAwMDBQAAAAAAAAAAAQIAAxEEEjETISIFgZEUMkFhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAMABP/EABsRAAICAwEAAAAAAAAAAAAAAAABAxECEiEx/9oADAMBAAIRAxEAPwB2EtyJxzVbfWLkrQQzt4ZPj35yZ+CjUNqMm3J3M0iJlZ5cPHB2aNRC5Y1c+jcn1Qc3Jz3qfzgrTLPvxeAYRa9ZJvTsu0jemPfMbZE9hV+aKX6O5f8AOcr0pPKuKKC0LTK3fTNd47LhPMzIPET8GajpPS9bZ1hLUObDuEy57iFZ4WRmSr+6WV2Y4JON4e1DbEo0GUr2nnK3fLu+K/cSGiuiZoq2RUf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://lindenkids.cz/o-skolce/",
+"typ": "budova",
+"url": "https://lindenkids.cz/_astro/01.BFE78eFg_1LO0Lk.webp",
+"w": 900
+},
+{
+"alt": "Fotografie ze školky Křenová",
+"barva": "#aaa08d",
+"dh": "9b4f0fd636204ac2",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://lindenkids.cz/o-skolce/",
+"typ": "interier",
+"url": "https://lindenkids.cz/_astro/05.DaqUDfGm_1d1M5u.webp",
+"w": 900
+},
+{
+"alt": "Fotografie ze školky Křenová",
+"barva": "#998660",
+"dh": "4f636733e3ced8f0",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://lindenkids.cz/o-skolce/",
+"typ": "interier",
+"url": "https://lindenkids.cz/_astro/03.k-aub9bY_Z1jwgwR.webp",
 "w": 900
 }
 ],
@@ -473,6 +572,62 @@
 "typ": "budova",
 "url": "https://www.msnepomuk.cz/wp-content/uploads/2026/08/budova-exterier-detska-skupina-slunicko-nepomuk-082026-04-img_8288.jpg",
 "w": 1200
+}
+],
+"detska-skupina-sykorky-ds00197": [
+{
+"alt": "",
+"barva": "#936538",
+"dh": "c5595959d9d9643f",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAeEAADAAMAAwEBAAAAAAAAAAABAgMAESEEBRITUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAyFREf/aAAwDAQACEQMRAD8AiPBD0QUmCPoA87rM9S0/bW8eJAirbUAa0dDLr0esetpx1XA0VOLK0p+pZqM9Ceux6cHjmVDTfrGUrdLWhk4P10neGLn9pRW000Y/3oww6xX0s6XD/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dssykorky.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://dssykorky.cz/wp-content/uploads/2016/08/DSC_0834.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#7d7c6d",
+"dh": "4375b7a082c2fc1d",
+"h": 600,
+"jistota": 0.997,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dssykorky.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://dssykorky.cz/wp-content/uploads/2016/08/DSC_0850.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#766448",
+"dh": "cfd7d7c5775f5f1f",
+"h": 600,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dssykorky.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://dssykorky.cz/wp-content/uploads/2016/08/DSC_0826.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#70664e",
+"dh": "e7e777bbfbd39bc9",
+"h": 600,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://dssykorky.cz/fotogalerie/",
+"typ": "hygiena",
+"url": "https://dssykorky.cz/wp-content/uploads/2016/08/DSC_0849.jpg",
+"w": 900
 }
 ],
 "detska-skupina-targevacek-kobylisy-ds10422": [
