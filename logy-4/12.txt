@@ -1,2 +1,10 @@
-[09:44:20] Část 13/20: webů 172, hotovo 206, zbývá 0
-[09:44:20] Konec: školek s fotkami 49; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:05] Část 13/20: webů 178, hotovo 206, zbývá 6
+[09:54:55] https://zsbranka.cz: 28 stránek (galerie mimo web: 1 ['zsbranka.rajce.idnes.cz'], alb: 0), 13 obrázků, 5 fotek ke kontrole
+[09:54:55] https://zsdolniolesnice.cz: 6 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 1), 19 obrázků, 9 fotek ke kontrole
+[09:55:02] https://okruzni.msorlova.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 149 obrázků, 33 fotek ke kontrole
+[09:55:14] https://ms.sumvald.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 42 fotek ke kontrole
+[09:55:16] https://skolkatover.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 0 fotek ke kontrole
+[09:56:23] https://msmirujavornik.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 329 obrázků, 44 fotek ke kontrole
+[09:56:40] tříděno 0/133
+[09:56:58] Dávka 1: hotovo 212/178, se fotkami 52; {'ok': 12, 'lide': 4, 'jine': 43, 'sablona': 0}
+[09:56:58] Konec: školek s fotkami 52; {'ok': 12, 'lide': 4, 'jine': 43, 'sablona': 0}

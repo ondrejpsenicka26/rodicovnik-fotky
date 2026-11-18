@@ -936,6 +936,62 @@
 "w": 1200
 }
 ],
+"materska-skola-javornik-632314": [
+{
+"alt": "",
+"barva": "#7d816d",
+"dh": "0e08298183a7b929",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUG/8QAIxAAAgEEAAYDAAAAAAAAAAAAAQIDAAQRIQUGEhMxQVGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EABsRAQACAgMAAAAAAAAAAAAAAAEAAgNREjEy/9oADAMBAAIRAxEAPwDGtI5AxA264Gfyuit7q8k62PaKqgODo7OM5pVihYsTHs+cGmEbBAInKRscsnnO/miLp5ZcR7JV4hzA1rePAiRt28BiDnfuipJrO1MzM0RLMeokt7+qKQyX3MuOup//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msmirujavornik.cz/fotogalerie-skolka/",
+"typ": "budova",
+"url": "https://msmirujavornik.cz/wp-content/uploads/2021/04/pred_skolkou-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#99958c",
+"dh": "0878b6b438343d7d",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msmirujavornik.cz/fotogalerie-skolka/",
+"typ": "interier",
+"url": "https://msmirujavornik.cz/wp-content/uploads/2021/04/herna_motylku.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#89946a",
+"dh": "13070f0f8e47d311",
+"h": 800,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msmirujavornik.cz/fotogalerie-skolka/",
+"typ": "zahrada",
+"url": "https://msmirujavornik.cz/wp-content/uploads/2021/04/zahrada_skolky.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#ad8f6b",
+"dh": "3afcfa7a78f89b2f",
+"h": 1200,
+"jistota": 0.937,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msmirujavornik.cz/fotogalerie-skolka/",
+"typ": "budova",
+"url": "https://msmirujavornik.cz/wp-content/uploads/2021/04/hlavni_vchod_do_skolky.jpg",
+"w": 800
+}
+],
 "materska-skola-jevicko-586931": [
 {
 "alt": "",
@@ -1177,6 +1233,62 @@
 "w": 1200
 }
 ],
+"materska-skola-orlova-lutyne-okruzni-917-623943": [
+{
+"alt": "",
+"barva": "#8c7c5d",
+"dh": "13864c69cc866391",
+"h": 600,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAFAgMEBv/EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAEESESBRMxIkGBobH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAxFB/9oADAMBAAIRAxEAPwDSLiJQrxsOLjlg696nFdwkqI+0HlOSx8t8UgQ20kpUOxbGSeOhViXFk68JO4zNgED0/lTCnZnGz9Y4kGGLAnelFFc2/UJYQqhQ2vJZlP0aKqEYdX//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://okruzni.msorlova.cz/nase-tridy/",
+"typ": "interier",
+"url": "https://okruzni.msorlova.cz/wp-content/gallery/4-trida-vcelicky/trida.jpeg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#7d7c61",
+"dh": "c6d4cc6a6b732768",
+"h": 900,
+"jistota": 0.993,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://okruzni.msorlova.cz/zahrada-ms-okruzni-ma-nove-vzdelavaci-prvky/",
+"typ": "zahrada",
+"url": "https://okruzni.msorlova.cz/wp-content/uploads/2024/10/fotografie-8-1-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#73756d",
+"dh": "5b4b73d3ec584fed",
+"h": 900,
+"jistota": 0.665,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://okruzni.msorlova.cz/zahrada-ms-okruzni-ma-nove-vzdelavaci-prvky/",
+"typ": "les",
+"url": "https://okruzni.msorlova.cz/wp-content/uploads/2024/10/fotografie-6-1-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#584e2c",
+"dh": "0d31919197de5a37",
+"h": 600,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://okruzni.msorlova.cz/nase-tridy/",
+"typ": "interier",
+"url": "https://okruzni.msorlova.cz/wp-content/gallery/1-trida-berusky_1/P1190372.jpg",
+"w": 800
+}
+],
 "materska-skola-palackeho-587180": [
 {
 "alt": "",
@@ -1351,6 +1463,62 @@
 "typ": "zahrada",
 "url": "https://www.jmyslivecka.cz/custom/img/mskvetinka.jpg",
 "w": 1200
+}
+],
+"materska-skola-sumvald-627965": [
+{
+"alt": "Budova",
+"barva": "#6d7d89",
+"dh": "4160c4c6d4f3f37c",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBgEE/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDAAQREgUhEzFhcYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQACAgMBAAAAAAAAAAAAAAAAARNBAhIhYf/aAAwDAQACEQMRAD8AyV1UogjQEknbvJ79KZEHMRddCARkYNcFxd7orLG32R+Uu05RbeKZJwzM+NcNjv36qkmSXGDVWUKWgnQP48/Ioqfk5uUuxim0QnpSpOKKUrtBj9P/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.sumvald.cz/galerie/budova-a-okoli-ms",
+"typ": "budova",
+"url": "https://ms.sumvald.cz/images/com_droppics/17/full/Budova.jpg",
+"w": 1200
+},
+{
+"alt": "Trida-Vcelicky-2",
+"barva": "#825c3d",
+"dh": "969104143469691c",
+"h": 833,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms.sumvald.cz/galerie/trida-vcelicky-satna-loznice",
+"typ": "interier",
+"url": "https://ms.sumvald.cz/images/com_droppics/20/full/Trida-Vcelicky-2.jpg",
+"w": 1110
+},
+{
+"alt": "Loznice",
+"barva": "#737475",
+"dh": "e48e2f27719c9b0a",
+"h": 833,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms.sumvald.cz/galerie/trida-vcelicky-satna-loznice",
+"typ": "interier",
+"url": "https://ms.sumvald.cz/images/com_droppics/20/full/Loznice.jpg",
+"w": 1110
+},
+{
+"alt": "",
+"barva": "#837460",
+"dh": "3f87b7376d8d4767",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://ms.sumvald.cz/galerie/budova-a-okoli-ms",
+"typ": "hygiena",
+"url": "https://ms.sumvald.cz/images/com_droppics/17/Umyvarna-1.jpg",
+"w": 800
 }
 ],
 "materska-skola-trinec-622491": [
