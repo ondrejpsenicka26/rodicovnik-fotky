@@ -205,6 +205,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-u-templu-ds00369": [
+{
+"alt": "",
+"barva": "#86887b",
+"dh": "8fcf1b213939193f",
+"h": 679,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACAQAAEEAwACAwAAAAAAAAAAAAECAwQRABIhBTETQeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAT/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQISIQMR/9oADAMBAAIRAxEAPwBWERpXyFtJSetqNV9/maXIyJB5rR9VkfGsOx21h4p6sqFX6xlLZakhy9tU6ga9GCMKv1MnpldglCykjDI+QkOPSdmXVNpoCim8M0Lrmgof/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://safariclub.cz/ms-hradec-kralove/",
+"typ": "budova",
+"url": "https://safariclub.cz/wp-content/uploads/2023/12/mshk.jpg",
+"w": 922
+},
+{
+"alt": "",
+"barva": "#928d82",
+"dh": "cd98672f961f1dff",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://safariclub.cz/ms-pardubice/",
+"typ": "interier",
+"url": "https://safariclub.cz/wp-content/uploads/2023/12/431664142_3829899807274380_6020472967481768009_n-1.jpg",
+"w": 1200
+}
+],
 "lesni-materska-skola-kudlibabka-128004": [
 {
 "alt": "",
