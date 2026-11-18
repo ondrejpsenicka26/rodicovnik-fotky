@@ -1,17 +1,8 @@
-[11:04:09] Část 12/20: webů 180, hotovo 202, zbývá 13
-[11:04:24] https://www.materska-skola-praskolesy.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 1 fotek ke kontrole
-[11:04:31] https://mssirejovice.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
-[11:04:32] https://ms-kourim.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[11:04:53] https://www.msracineves.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 3 fotek ke kontrole
-[11:05:12] https://www.zsuncin.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 99 obrázků, 23 fotek ke kontrole
-[11:05:15] https://www.msrocov.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 81 obrázků, 0 fotek ke kontrole
-[11:05:27] https://www.skolkarokycany.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 11 fotek ke kontrole
-[11:05:33] https://www.mstrhanov.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 659 obrázků, 7 fotek ke kontrole
-[11:05:34] https://www.skola-listany.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 281 obrázků, 1 fotek ke kontrole
-[11:05:52] https://www.zsmslukova.cz: 37 stránek (galerie mimo web: 246 ['cadovci.rajce.idnes.cz', 'majurka.rajce.idnes.cz', 'majurka.rajce.net'], alb: 6), 294 obrázků, 23 fotek ke kontrole
-[11:06:10] https://www.msvranany.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[11:06:44] https://msborovy.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 1 fotek ke kontrole
-[11:08:08] https://zsmirosov.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 147 obrázků, 38 fotek ke kontrole
-[11:08:22] tříděno 0/108
-[11:08:38] Dávka 1: hotovo 215/180, se fotkami 55; {'ok': 9, 'lide': 10, 'jine': 79, 'sablona': 0}
-[11:08:38] Konec: školek s fotkami 55; {'ok': 9, 'lide': 10, 'jine': 79, 'sablona': 0}
+[11:39:30] Část 12/20: webů 180, hotovo 215, zbývá 4
+[11:39:40] https://mslechotice.webnode.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 4 fotek ke kontrole
+[11:39:41] https://www.msrychlov.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
+[11:40:41] https://mscentrum.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 65 obrázků, 13 fotek ke kontrole
+[11:40:56] https://www.ms-kroupova.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 110 obrázků, 35 fotek ke kontrole
+[11:41:15] tříděno 0/53
+[11:41:18] Dávka 1: hotovo 219/180, se fotkami 58; {'ok': 8, 'lide': 1, 'jine': 38, 'sablona': 0}
+[11:41:18] Konec: školek s fotkami 58; {'ok': 8, 'lide': 1, 'jine': 38, 'sablona': 0}

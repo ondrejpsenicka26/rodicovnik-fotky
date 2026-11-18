@@ -747,6 +747,36 @@
 "w": 1200
 }
 ],
+"materska-skola-centrum-569469": [
+{
+"alt": "IMG 20210120 151320",
+"barva": "#837663",
+"dh": "e6939688c483314d",
+"h": 898,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EACQQAAIBBAAFBQAAAAAAAAAAAAECEQADBBITITFRcQUUIjJh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAAICAwAAAAAAAAAAAAAAAAABAhESIVH/2gAMAwEAAhEDEQA/AMp6hYuXdSB0JgyDHiKc2XjcMKwHMfBW6Dz2qD21pyGuAu37ThoBropHYiayUaLbRVj5aIrAsiCZA0J5RRUTcOfrFFGL6LR//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mscentrum.cz/",
+"typ": "interier",
+"url": "https://www.mscentrum.cz/images/IMG_20210120_151320.jpg",
+"w": 1200
+},
+{
+"alt": "IMG 20210120 151023",
+"barva": "#886c57",
+"dh": "d62425794b43526c",
+"h": 898,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mscentrum.cz/",
+"typ": "interier",
+"url": "https://www.mscentrum.cz/images/IMG_20210120_151023.jpg",
+"w": 1200
+}
+],
 "materska-skola-ceska-trebova-590069": [
 {
 "alt": "",
@@ -903,6 +933,92 @@
 "stranka": "https://mshury.cz/fotogalerie/",
 "typ": "interier",
 "url": "https://mshury.cz/wp-content/uploads/2026/11/ms-hury-skolka-09.webp",
+"w": 1200
+}
+],
+"materska-skola-kroupova-501759": [
+{
+"alt": "",
+"barva": "#827466",
+"dh": "909c9a9c1c96fafc",
+"h": 600,
+"jistota": 0.99,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIAA8AFAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAADBAD/xAAlEAABAwQBAgcAAAAAAAAAAAABAgMEAAUREiFBYRMiMUJRcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIREjFR/9oADAMBAAIRAxEAPwBbbamXpwEmKhKB6kDGePkGobtCjQ5zoYGgUAU+7oMjP7TGayy4VNeKO25xUT11Q7ul9kL44V1TRcL6JSodA8ifoVqmTcowSM7p7YzWrLmXhbSP/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-kroupova.cz/jak-to-u-nas-vypada/",
+"typ": "budova",
+"url": "https://www.ms-kroupova.cz/wp-content/uploads/IMG_0243.jpeg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#847a66",
+"dh": "654d4803db8eb3b6",
+"h": 600,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-kroupova.cz/jak-to-u-nas-vypada/",
+"typ": "zahrada",
+"url": "https://www.ms-kroupova.cz/wp-content/uploads/2019-03-24-3.jpeg",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#615c54",
+"dh": "f1f2e68c9771f886",
+"h": 600,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-kroupova.cz/jak-to-u-nas-vypada/",
+"typ": "zahrada",
+"url": "https://www.ms-kroupova.cz/wp-content/uploads/2019-03-24-1.jpeg",
+"w": 800
+}
+],
+"materska-skola-lechotice-609355": [
+{
+"alt": "",
+"barva": "#6e737b",
+"dh": "7070d4b0b0b3dbfe",
+"h": 552,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAD/xAAhEAACAQQBBQEAAAAAAAAAAAABAgADBBEhQRIiMTJhof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAxIT/9oADAMBAAIRAxEAPwCaiDUZMkFNsAPyFpBiWAL56sdyaJ451GXqICgCr6nj7Aui7OBJyKwAThc2qqA1zSBxsZ8SgRSQjaymurGpf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mslechotice.webnode.cz/",
+"typ": "budova",
+"url": "https://a07bed41af.cbaul-cdnwnd.com/c3de9db2304e23d6d2895d800e86262f/200000000-e64dde64e0/budova.JPG?ph=a07bed41af",
+"w": 1045
+},
+{
+"alt": "",
+"barva": "#7b7e5c",
+"dh": "d9b8d84b1bcf7b23",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mslechotice.webnode.cz/",
+"typ": "zahrada",
+"url": "https://a07bed41af.cbaul-cdnwnd.com/c3de9db2304e23d6d2895d800e86262f/200000006-abc39abc3c/DSCN3305.JPG?ph=a07bed41af",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e8861",
+"dh": "f97a667a9297070e",
+"h": 900,
+"jistota": 0.783,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mslechotice.webnode.cz/",
+"typ": "les",
+"url": "https://a07bed41af.cbaul-cdnwnd.com/c3de9db2304e23d6d2895d800e86262f/200000005-9511595118/DSCN3316.JPG?ph=a07bed41af",
 "w": 1200
 }
 ],
