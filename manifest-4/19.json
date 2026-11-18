@@ -42,6 +42,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-hnizdo-ds02113": [
+{
+"alt": "",
+"barva": "#8c8675",
+"dh": "c4d0ded0c94dce8c",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACUQAAEDAgYBBQAAAAAAAAAAAAEAAgMEEQUSEyIxQRQhJGGhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAEhMf/aAAwDAQACEQMRAD8A3xKNjZIdrWgtcCePUJb25J05TILnLlHI6+07iR8h4ia0DSffMTzdJVwNPJGHtBcRdrh38KcyFeqdNJlhAftI6KFJdR1NUdbfuHRFv1CBP//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dshnizdo.cz/",
+"typ": "interier",
+"url": "https://dshnizdo.cz/wp-content/uploads/2024/08/image8.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#717b73",
+"dh": "01e4d39f0f3f87cf",
+"h": 1200,
+"jistota": 0.968,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dshnizdo.cz/",
+"typ": "zahrada",
+"url": "https://dshnizdo.cz/wp-content/uploads/2024/08/image12.webp",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#74756e",
+"dh": "94d6d8b4ce1970e0",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dshnizdo.cz/",
+"typ": "interier",
+"url": "https://dshnizdo.cz/wp-content/uploads/2024/08/image1.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#959287",
+"dh": "2ce8682b292c3c38",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://dshnizdo.cz/",
+"typ": "hygiena",
+"url": "https://dshnizdo.cz/wp-content/uploads/2024/08/image4.webp",
+"w": 1200
+}
+],
 "detska-skupina-jezecek-i-ds01341": [
 {
 "alt": "",
@@ -83,6 +139,23 @@
 "typ": "interier",
 "url": "https://framerusercontent.com/images/qwKPtSJhmZQTK4bj4iB3UGYy2M0.jpg?width=2048&height=1365",
 "w": 1200
+}
+],
+"detska-skupina-junikorn-plzen-ds00162": [
+{
+"alt": "",
+"barva": "#5b6559",
+"dh": "f8c31c961e9c8920",
+"h": 519,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gODIK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAEAgMFBv/EACIQAAEDAwQDAQAAAAAAAAAAAAECAwQABRESISJBFHGBwf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECEhP/2gAMAwEAAhEDEQA/AFIF/uM2c005MKUqO+wGcfKuk3iZGCz5CV6SByAOfdc2lRb5IOCexT8M69GoA8ewKE2zDCjYYvr6mgpckpJ6DaT+UVARWXEhSkb46JFFHpYSP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.junikorn.cz/skolicka/",
+"typ": "budova",
+"url": "https://www.junikorn.cz/wp-content/uploads/2020/01/IMG-20170805-WA0000-e1579448088225.jpg",
+"w": 958
 }
 ],
 "detska-skupina-laskava-naruc-ds01251": [
@@ -242,6 +315,36 @@
 "typ": "interier",
 "url": "https://cdn.prod.website-files.com/6a02cd01a75fac34138c0835/6a90086570b4fa85bae0b69f_IMG_4420.webp",
 "w": 1200
+}
+],
+"detska-skupina-malina-ds10989": [
+{
+"alt": "",
+"barva": "#5c6d61",
+"dh": "25df7f59d4672301",
+"h": 1200,
+"jistota": 0.969,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAGwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAACBAUD/8QAJRAAAgICAQIGAwAAAAAAAAAAAQIAAwQRIRJRBSIkQWFxMkLR/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwACBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMREjFh/9oADAMBAAIRAxEAPwBFx7sZgbK+CD2IInPJzfTrjJ1qEJL+bhj9Tg2WakRLa9Nv8usb19Ayay0WMXJQLvnXeLZerI4gYV4/RXtrLfsPiEXKGMLd1Wh1I3voPEIIhewrsAFiq2u8qwsHFvosVqtEnXBPaRLyR8zSwOKnPvv+TNDUyyRnX+EtVYVALD2OoTbcncInP0nCP//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.vysokepole.cz/fotogalerie-1/rok-2024/budovani-nove-cesty-v-lokalite-uk-10-chrastova-ve-vysokem-poli-1411cs.html",
+"typ": "budova",
+"url": "https://www.vysokepole.cz/data/headerfooter/header_images/6802340921222591306643057498303666504749866789n.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#5b7276",
+"dh": "ff283a6b430c5980",
+"h": 1200,
+"jistota": 0.597,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.vysokepole.cz/fotogalerie-1/rok-2024/budovani-nove-cesty-v-lokalite-uk-10-chrastova-ve-vysokem-poli-1411cs.html",
+"typ": "budova",
+"url": "https://www.vysokepole.cz/data/headerfooter/header_images/6807093181222591290263057498388302079464355988n.jpg",
+"w": 900
 }
 ],
 "detska-skupina-mary-poppins-ii-oddeleni-ds00591": [
@@ -459,6 +562,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-rechtajici-kralicek-ds02193": [
+{
+"alt": "",
+"barva": "#7c6d66",
+"dh": "c06f2222a7879188",
+"h": 1000,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQD/8QAJxAAAgEDAwIGAwAAAAAAAAAAAQIDAAQREiExE0EFFBUiM1FxksH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECAxESIVFx/9oADAMBAAIRAxEAPwDP5FjbtOoxGpwTnioiWaP3ISR9kZFNetBF4bcW+pcsyuFJye2arYdKKJ3NwqnSyafyKG+h4MPqMybFE/air6ohFGrSqGVSCDzyT/aKQhRLO013IxZEGSMlsbVqtb11VY0lVWLAkquoEfW+KUp84HY812XcknsMip44LSs2fgwaPVjqTyAgY+PNFMLaNJLWJ3GWKjJoqDtNqCP/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.rechtajicikralicek.cz/gallery/gal-01/gal-01.html",
+"typ": "interier",
+"url": "https://www.rechtajicikralicek.cz/gallery/gal-01/images/fulls/01.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#906657",
+"dh": "9bcecf8dde88d09e",
+"h": 1000,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.rechtajicikralicek.cz/gallery/gal-01/gal-01.html",
+"typ": "interier",
+"url": "https://www.rechtajicikralicek.cz/gallery/gal-01/images/fulls/02.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#8e7257",
+"dh": "cb4c61133b870e26",
+"h": 1000,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.rechtajicikralicek.cz/gallery/gal-01/gal-01.html",
+"typ": "hygiena",
+"url": "https://www.rechtajicikralicek.cz/gallery/gal-01/images/fulls/08.jpg",
+"w": 750
+}
+],
 "detska-skupina-rosy-i-ds01670": [
 {
 "alt": "",
@@ -590,6 +736,49 @@
 "typ": "interier",
 "url": "https://cdn.prod.website-files.com/645ce6bdcfc59827bf071ed7/645ce6bdcfc5980ff8071f3c_prostory_slunicko_6.jpg",
 "w": 1200
+}
+],
+"detska-skupina-u-mlyna-i-ds11255": [
+{
+"alt": "6dceac07-d3e1-44d0-ac4e-05ac228c01b8.jpg",
+"barva": "#646765",
+"dh": "53336f47171717bb",
+"h": 769,
+"jistota": 0.594,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBv/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwARIQQFMRITQXEiUZL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBSbzBJACGJkOAljn7PqsV3N4+67BZAwPxbBHo1z2m1cUDqWvgZsKQd2gtaz/mlSDtqA5uxN/J6uaqBz5FVKR//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://novasidla.cz/",
+"typ": "budova",
+"url": "https://novasidla.cz/soubory-zahlavi/6dceac07-d3e1-44d0-ac4e-05ac228c01b8.jpg",
+"w": 1024
+},
+{
+"alt": "e5dc829f-a5c6-4419-b8b7-d439ef0887ca.jpg",
+"barva": "#726862",
+"dh": "d539726bd3aebdc4",
+"h": 768,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://novasidla.cz/",
+"typ": "les",
+"url": "https://novasidla.cz/soubory-zahlavi/e5dc829f-a5c6-4419-b8b7-d439ef0887ca.jpg",
+"w": 1024
+},
+{
+"alt": "65fee174-3e48-4748-bd1f-ea0282bafd47.jpg",
+"barva": "#554126",
+"dh": "c8e8d2d250010942",
+"h": 1024,
+"jistota": 0.997,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://novasidla.cz/",
+"typ": "les",
+"url": "https://novasidla.cz/soubory-zahlavi/65fee174-3e48-4748-bd1f-ea0282bafd47.jpg",
+"w": 768
 }
 ],
 "detska-skupina-unicorn-school-ds01772": [
