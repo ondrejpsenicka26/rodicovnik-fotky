@@ -1785,6 +1785,36 @@
 "w": 1200
 }
 ],
+"ms-litohlavy-000321": [
+{
+"alt": "3",
+"barva": "#9e9a96",
+"dh": "01391e3ab747334c",
+"h": 573,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBAIF/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQAEEjEhQVGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAFxEBAQEBAAAAAAAAAAAAAAAAACEBcf/aAAwDAQACEQMRAD8A6cGiWF9nuzk8ksUcpQTpY9BhiBsOEDySsoJrsm/rKFmjVVG1AoRjRZAO/Xg9YcOMpOsy8klIF15NYYp9bUmbmOQB+YwT+4ZUR//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.litohlavy.cz/materska-skola/",
+"typ": "interier",
+"url": "https://www.litohlavy.cz/data/multipage/editor/editor-13-109-cs_3.jpg?gcm_date=1666683269",
+"w": 765
+},
+{
+"alt": "4",
+"barva": "#637277",
+"dh": "0123a2b034478303",
+"h": 573,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.litohlavy.cz/materska-skola/",
+"typ": "interier",
+"url": "https://www.litohlavy.cz/data/multipage/editor/editor-13-109-cs_4.jpg?gcm_date=1666683281",
+"w": 765
+}
+],
 "smartfox-kiddies-materska-skola-087553": [
 {
 "alt": "",
