@@ -1644,6 +1644,49 @@
 "w": 1100
 }
 ],
+"ms-kaminek-126419": [
+{
+"alt": "Dětská skupina Kámen",
+"barva": "#9b9485",
+"dh": "c9c2d44cece1e160",
+"h": 562,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACMQAAICAQQABwAAAAAAAAAAAAECAxEABBIhMQUTFCIjQcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhETUf/aAAwDAQACEQMRAD8A3a2Z4mVp41jG0bl32VJ/MS+qXeFhTzSTXGN8cRfTF69xIFnurydphYYnsdZOcqTFFWWRp0kAKSxHim+QcH7wyXLGkpDSIrNVWRhg2XCmTP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.obec-kamen.cz/materska-skola-kaminek",
+"typ": "interier",
+"url": "https://www.obec-kamen.cz/file.php?nid=2130&oid=5178903",
+"w": 1000
+},
+{
+"alt": "Dětská skupina Kámen",
+"barva": "#a6a289",
+"dh": "4c5818b48c52ccdc",
+"h": 562,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.obec-kamen.cz/materska-skola-kaminek",
+"typ": "interier",
+"url": "https://www.obec-kamen.cz/file.php?nid=2130&oid=5178906",
+"w": 1000
+},
+{
+"alt": "Dětská skupina Kámen",
+"barva": "#998f6c",
+"dh": "9393b6b6b64e5173",
+"h": 562,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.obec-kamen.cz/materska-skola-kaminek",
+"typ": "hygiena",
+"url": "https://www.obec-kamen.cz/file.php?nid=2130&oid=5178904",
+"w": 1000
+}
+],
 "ms-simonovice-122693": [
 {
 "alt": "",
