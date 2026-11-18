@@ -4595,10 +4595,6 @@
 "jen_ms": false,
 "slug": "materska-skola-nemcice-600374"
 },
-"https://ms-neratovice.cz": {
-"jen_ms": false,
-"slug": "soukroma-materska-skola-neratovice-883165"
-},
 "https://ms-novavcelnice.cz": {
 "jen_ms": false,
 "slug": "materska-skola-nova-vcelnice-prisp-org-022974"
@@ -5511,10 +5507,6 @@
 "jen_ms": true,
 "slug": "zakladni-skola-a-materska-skola-pozorice-603683"
 },
-"https://msprahapetrovice.cz": {
-"jen_ms": false,
-"slug": "materska-skola-petrovice-614472"
-},
 "https://msprahapetrovice.cz/nase-tridy/mysicky": {
 "jen_ms": false,
 "slug": "detska-skupina-mysicky-ds01837"
@@ -5681,7 +5673,7 @@
 },
 "https://mssusice.cz": {
 "jen_ms": false,
-"slug": "materska-skola-susice-631628"
+"slug": "materska-skola-susice-542854"
 },
 "https://mssvermova.webnode.cz": {
 "jen_ms": false,
@@ -7398,10 +7390,6 @@
 "https://waldorfcheb.cz": {
 "jen_ms": true,
 "slug": "waldorfska-zs-a-ms-cheb-122936"
-},
-"https://waldorfcheb.cz/skolka": {
-"jen_ms": false,
-"slug": "materska-skola-cheb-540789"
 },
 "https://wp.skolahlavnovice.info": {
 "jen_ms": true,
