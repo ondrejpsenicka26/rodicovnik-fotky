@@ -201,6 +201,62 @@
 "w": 1200
 }
 ],
+"detska-skupina-kouzelny-dvorecek-ds11060": [
+{
+"alt": "",
+"barva": "#a39992",
+"dh": "ff3db4ccc8cf1b5a",
+"h": 572,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUA/8QAJRAAAgEEAQEJAAAAAAAAAAAAAQIDAAQRIRIiBSMxMlFSgZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACUQMRQf/aAAwDAQACEQMRAD8Ap3HacokEawhyQM5B0fihmupY34mBX14hT+VKidkQBGK9WdHG6RZpOZ7x/L7jWbyPkgNVJb20ZQWTi2Ooeh+q1BY7gyd9RrUjJ3Tov//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kouzelny-dvorecek.cz/o-nas/",
+"typ": "budova",
+"url": "https://5b503f3ceb.clvaw-cdnwnd.com/b0d02358a62dd771396115bbbcf3f380/200000115-03dff03e01/IMG_4006.jpeg?ph=5b503f3ceb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#cab99f",
+"dh": "24dcf4e427362868",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.kouzelny-dvorecek.cz/o-nas/",
+"typ": "interier",
+"url": "https://5b503f3ceb.clvaw-cdnwnd.com/b0d02358a62dd771396115bbbcf3f380/200000111-6e3346e336/48623CD4-23FD-4125-B012-33AA0A2E6D1E.png?ph=5b503f3ceb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#887751",
+"dh": "a56565a7f3723813",
+"h": 900,
+"jistota": 0.997,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.kouzelny-dvorecek.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://5b503f3ceb.clvaw-cdnwnd.com/b0d02358a62dd771396115bbbcf3f380/200000123-d3619d361b/IMG_3210.jpeg?ph=5b503f3ceb",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#bea275",
+"dh": "17314659c8cc1571",
+"h": 675,
+"jistota": 0.648,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.kouzelny-dvorecek.cz/",
+"typ": "budova",
+"url": "https://5b503f3ceb.clvaw-cdnwnd.com/b0d02358a62dd771396115bbbcf3f380/200000079-105491054b/4BCE4BB0-FFA5-4071-81CB-43FCBEB08EE8.png?ph=5b503f3ceb",
+"w": 1200
+}
+],
 "detska-skupina-kulisek-zahorskeho-ds00018": [
 {
 "alt": "",
@@ -232,6 +288,36 @@
 "stranka": "https://jsmemalihrdinove.cz/nase-pobocky/detska-skupina-little-heroes-praha-4/",
 "typ": "interier",
 "url": "https://jsmemalihrdinove.cz/wp-content/uploads/2022/11/little-heroes-03.jpg",
+"w": 1200
+}
+],
+"detska-skupina-lotty-ds01065": [
+{
+"alt": "",
+"barva": "#878886",
+"dh": "6db6b8b898181919",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAjEAACAQMEAQUAAAAAAAAAAAABAgMABBESISIxBRNBQlFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECQVH/2gAMAwEAAhEDEQA/AKTx7+iJAAOQRjjf22qMbmUzrFKCrnvV8f2uvj4jKgmmI198ehW5IVNxGAAQzAHNNLxjN6hizsWmgDucljRTS3ckI0RFVX6K5opCU//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkalotty.cz/",
+"typ": "interier",
+"url": "https://8c06ea34aa.clvaw-cdnwnd.com/127187e72900c19792e622b14c0eb54e/200000749-b1b37b1b39/4c06f28f-b1e8-46d6-978c-4a3fc01e4cd0.jpeg?ph=8c06ea34aa",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#818177",
+"dh": "7fffc6c5cddbf3e5",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkalotty.cz/",
+"typ": "interier",
+"url": "https://8c06ea34aa.clvaw-cdnwnd.com/127187e72900c19792e622b14c0eb54e/200000750-c8bf8c8bfa/att.EjziwCePG3tVX6m0ktwvnATWAxxuJAYyu8KuAqtoPXI.jpeg?ph=8c06ea34aa",
 "w": 1200
 }
 ],
