@@ -1250,6 +1250,62 @@
 "w": 1200
 }
 ],
+"materska-skola-uhelna-632322": [
+{
+"alt": "",
+"barva": "#525747",
+"dh": "1e2c999253227353",
+"h": 675,
+"jistota": 0.98,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAIBAAAgIBBQADAAAAAAAAAAAAAQIDEQAEEhMhMQVBcf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABoRAAMBAAMAAAAAAAAAAAAAAAABEQIDIVH/2gAMAwEAAhEDEQA/ABNP8hLGasbCe7Hmb9HLJqzKzuiolDyt1+d/WCEbUUDoHNOkkeJX43Zb9o5lvU6YRDjScdAOBYuhZGWDvNK7W0jn9Y5YXk9KZP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msuhelna.cz/domu/o-skolce/",
+"typ": "budova",
+"url": "https://msuhelna.cz/wp-content/uploads/2022/10/P1360306-1-Edited-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#59614e",
+"dh": "5f4366616513b33f",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msuhelna.cz/domu/o-skolce/",
+"typ": "interier",
+"url": "https://msuhelna.cz/wp-content/uploads/2022/10/P1360412-47-Edited-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#484a47",
+"dh": "07470a9c5a4aa331",
+"h": 675,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msuhelna.cz/domu/o-skolce/",
+"typ": "zahrada",
+"url": "https://msuhelna.cz/wp-content/uploads/2022/10/P1360355-32-Edited-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#717a85",
+"dh": "014761e5f0fef477",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msuhelna.cz/domu/o-skolce/",
+"typ": "interier",
+"url": "https://msuhelna.cz/wp-content/uploads/2022/10/P1360347-25-Edited-scaled.jpg",
+"w": 1200
+}
+],
 "materska-skola-vranov-nad-dyji-614669": [
 {
 "alt": "",
