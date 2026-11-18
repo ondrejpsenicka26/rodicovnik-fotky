@@ -1,4 +1,34 @@
 {
+"detska-skupina-jdeme-do-sveta-ii-ds01888": [
+{
+"alt": "og",
+"barva": "#8f7f6a",
+"dh": "7121607061012323",
+"h": 525,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAABBAX/xAAjEAACAQMEAgMBAAAAAAAAAAABAgMABBEFEhMhMUFRocHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIRITEy/9oADAMBAAIRAxEAPwBm9vHgDFosEe1/tOyui3FlWkO4E7e8/dRx6VFxryM8m32zflaNnCsJBXwo6+KCta18mReXuVGBSByIFOPBFFYOo64Irx4yjNs6yWxRVAuQ0J//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.jdemedosveta.cz/prostory-zborovska-35/",
+"typ": "interier",
+"url": "https://7d73cc8b91.clvaw-cdnwnd.com/52696adf5effa2acc3975a24075d0db4/200004137-73ed873ed9/700/20250717_195731.jpeg?ph=7d73cc8b91",
+"w": 700
+},
+{
+"alt": "og",
+"barva": "#896c4e",
+"dh": "787a08181a1a3b13",
+"h": 700,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.jdemedosveta.cz/prostory-ceskoslovenske-armady-1029/",
+"typ": "interier",
+"url": "https://7d73cc8b91.clvaw-cdnwnd.com/52696adf5effa2acc3975a24075d0db4/200004146-ade14ade16/700/472368818_600739728982017_6278469746116370395_n.jpeg?ph=7d73cc8b91",
+"w": 700
+}
+],
 "detska-skupina-koralek-ii-ds01546": [
 {
 "alt": "",
@@ -102,6 +132,92 @@
 "w": 1200
 }
 ],
+"detska-skupina-materidouska-ds00046": [
+{
+"alt": "",
+"barva": "#876858",
+"dh": "8f8b8ff7cc382082",
+"h": 849,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAgEAACAwACAQUAAAAAAAAAAAABAgADEQQSIUFCUWFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMRBCH/2gAMAwEAAhEDEQA/AJm1Vsx3UfhlXIsrdA53AAp0ZszKubarFR1Ln3sNI+hGVraw973Nh+CfElOx2LMNEOeNXrYuHNdlgDWMpYlSCcwwjwwekIcYuI//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://cprhodonin.cz/herna-a-hriste/",
+"typ": "interier",
+"url": "https://cprhodonin.cz/wp-content/uploads/2024/01/4.png",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#8a9e70",
+"dh": "fcfeac99996be5c3",
+"h": 849,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://cprhodonin.cz/herna-a-hriste/",
+"typ": "interier",
+"url": "https://cprhodonin.cz/wp-content/uploads/2024/01/3.png",
+"w": 1200
+}
+],
+"detska-skupina-smaragdovy-cap-ds10487": [
+{
+"alt": "Rozkvétající předzahrádka v Budínku",
+"barva": "#828782",
+"dh": "132332ce4fcfe2cc",
+"h": 1000,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAABAgUD/8QAKBAAAgICAQIDCQAAAAAAAAAAAQIDEQAEIRITBUFRBiMxMnGBofDx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIREhNB/9oADAMBAAIRAxEAPwDbX0U14mkcdTgXzzjvCj3UcEU3zEfX9GDlZYVUM7hWNUOcy+w2pZhk7bAiz0+v8wxll2cyWlR2uxfllnM1/aRYYQk0Y2H5t+sL+KyxvZCuTA7kiHoViQQQQL5zzmmWey0TdphZtfTCp77bYyUxVLBPkbxW1wEUcA0CBkknbKlD1gG1jMxaKOVF+HSAAAfvljOoqzAGucsyBk//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dccap.cz/category/zahrada-u-capa/",
+"typ": "budova",
+"url": "https://www.dccap.cz/2020_06_zahrada_ucapa/01Rozkv%C3%A9taj%C3%ADc%C3%AD-p%C5%99edzahr%C3%A1dka.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#939b80",
+"dh": "0f973737657fb93f",
+"h": 668,
+"jistota": 0.965,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dccap.cz/category/prirodni-zahrada-bestin/",
+"typ": "zahrada",
+"url": "https://www.dccap.cz/2020_04_pzb/2020_04_BB_zahrada2.JPG",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#837d72",
+"dh": "e3eb71d90137cc35",
+"h": 960,
+"jistota": 0.969,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dccap.cz/category/zahrada-u-capa/",
+"typ": "les",
+"url": "https://www.dccap.cz/2019_07_zahrada/2019_07_Zahrada04a.jpg",
+"w": 720
+},
+{
+"alt": "Pohled na dvorek z bylinkové spirály",
+"barva": "#717f7b",
+"dh": "77eeb0610c931e14",
+"h": 656,
+"jistota": 0.735,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dccap.cz/category/zahrada-u-capa/",
+"typ": "budova",
+"url": "https://www.dccap.cz/2020_06_zahrada_ucapa/02Pohled-z-bylinkov%C3%A9-spir%C3%A1ly.jpg",
+"w": 922
+}
+],
 "detska-skupina-smartkids-ii-ds00838": [
 {
 "alt": "IMG_6850",
@@ -130,6 +246,36 @@
 "typ": "budova",
 "url": "https://skolkasmartkids.cz/wp-content/uploads/2022/03/270348994_226963592945665_2322086682518843870_n.jpg",
 "w": 896
+}
+],
+"hanny-jesle-detska-skupina-ds01062": [
+{
+"alt": "IMG-5424.JPG",
+"barva": "#908c81",
+"dh": "0283c0905c98342c",
+"h": 897,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACYQAAIBAwMBCQAAAAAAAAAAAAECAwAEEQUSIYEUIzEyUVJhcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhEv/aAAwDAQACEQMRAD8AXklvI5NhdiQPZn8FUdOv38jIzDADJIpwfkenNZFdyjJ7TOWU8IQu36PGcdaXmurpO9llZ0J4DYxWFG4OrSuiEqDuz0opWPVbcxqZSysR4AZFFXI0/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.hanny-skolka.cz/skolka",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/91f5d8_45b95e2d8c3948ecb7f3a1cfd2a133ab~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_0865.jpg",
+"barva": "#898476",
+"dh": "0c60633130259fba",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.hanny-skolka.cz/skolka",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/91f5d8_91b4b06b2d14400aa6369d48bd64ecab~mv2.jpg",
+"w": 900
 }
 ],
 "lesni-materska-skola-zijem-lesem-125994": [
@@ -464,6 +610,62 @@
 "stranka": "https://www.ms-srdicko.cz/trida-berusky",
 "typ": "budova",
 "url": "https://www.ms-srdicko.cz/data-img/thumbs/gallery-galleryLBox/trida-berusky/obrazek-1953-2.jpg",
+"w": 800
+}
+],
+"materska-skola-tyn-nad-vltavou-077204": [
+{
+"alt": "og",
+"barva": "#786068",
+"dh": "663686bc3ff10707",
+"h": 677,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEEQUSEzEhIlGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhIT/9oADAMBAAIRAxEAPwDeIKuHvIWCjaokC9ftJXhla2kiimjYuuPUk+M9UhaKpAJFUek8fKpsJ1zagWWpvp1qls/LJs6O4DA+UVLuSTMc0VqBn//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mstyn.cz/ms-komenskeho/",
+"typ": "budova",
+"url": "https://mstyn.cz/ms-komenskeho/wp-content/uploads/sites/5/2023/05/foto_ms_komenskeho_001.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#a4a396",
+"dh": "3f1d07266f4e0eb0",
+"h": 600,
+"jistota": 0.957,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mstyn.cz/ms-dewetterova/",
+"typ": "zahrada",
+"url": "https://mstyn.cz/ms-dewetterova/wp-content/uploads/sites/3/2023/05/foto_dewetterova_002_2.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#918b5f",
+"dh": "67e7e627273294c6",
+"h": 771,
+"jistota": 0.989,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mstyn.cz/ms-hlinecka/",
+"typ": "budova",
+"url": "https://mstyn.cz/ms-hlinecka/wp-content/uploads/sites/2/2023/05/foto_hlinecka_002.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#828862",
+"dh": "039294c2c14141e1",
+"h": 600,
+"jistota": 0.967,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mstyn.cz/projekt/zahady-kouzelne-zahrady/",
+"typ": "zahrada",
+"url": "https://mstyn.cz/wp-content/uploads/2023/05/20170929_083633.jpg",
 "w": 800
 }
 ],
