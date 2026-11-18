@@ -214,6 +214,62 @@
 "w": 795
 }
 ],
+"detska-skupina-kacenka-ds00982": [
+{
+"alt": "",
+"barva": "#597181",
+"dh": "0f24e2d2c65716c6",
+"h": 800,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACQQAAIBAwMEAwEAAAAAAAAAAAECEQADBAUSEyEiUXEVQWGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAECERMSFCL/2gAMAwEAAhEDEQA/AJtQujCu8FlGNyJLxIX15puJqOLwbc4G2UE8m0w3seakfLuIw2qhKkwWExIg0/LsL8fbaF7yvbHQRMf2kvevUhYNiCg52jmDzxInr90VlJhWbyB2Uyf2isbbiVof/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://detska-skupina-kacenka.cz/",
+"typ": "budova",
+"url": "http://detska-skupina-kacenka.cz/assets/images/img-1382-b-2000x1333.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#aea6a2",
+"dh": "2727a9aea7254c8f",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "http://detska-skupina-kacenka.cz/",
+"typ": "interier",
+"url": "http://detska-skupina-kacenka.cz/assets/images/img-1373-2000x1333.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a19a95",
+"dh": "3fd376763d66747d",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "http://detska-skupina-kacenka.cz/",
+"typ": "interier",
+"url": "http://detska-skupina-kacenka.cz/assets/images/img-1372-2000x1333.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9c958e",
+"dh": "765f7f2f1f933377",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "http://detska-skupina-kacenka.cz/",
+"typ": "hygiena",
+"url": "http://detska-skupina-kacenka.cz/assets/images/img-1365-2000x1333.jpg",
+"w": 1200
+}
+],
 "detska-skupina-klubicko-ds01450": [
 {
 "alt": "",
@@ -360,6 +416,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-montik-ds01209": [
+{
+"alt": "",
+"barva": "#8d8459",
+"dh": "d153556509da4b4b",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABBESITETQSIy0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAERIh/9oADAMBAAIRAxEAPwAmjtpjYTSto9uMlB76/KhDOIGLCJnEsxblTkKT0KuKR22njVQfqVC4zx3mnDbh3D51U8/E4PNZdVyfgWDJdX+xxcxgeh4RRTYlVnkDQ+bWRlDHGcA9ciil0U2//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ds-montik.cz/jidelnicek/",
+"typ": "interier",
+"url": "https://ds-montik.cz/wp-content/uploads/2025/03/stolecky.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a1926a",
+"dh": "a7a999b1179f3f7f",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://ds-montik.cz/jidelnicek/",
+"typ": "interier",
+"url": "https://ds-montik.cz/wp-content/uploads/2025/03/roh-u-dveri.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a09583",
+"dh": "1043c5e1c3c24664",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://ds-montik.cz/jidelnicek/",
+"typ": "hygiena",
+"url": "https://ds-montik.cz/wp-content/uploads/2020/09/sprcha.jpg",
+"w": 1200
+}
+],
 "detska-skupina-panda-club-ds01804": [
 {
 "alt": "",
@@ -490,6 +589,62 @@
 "stranka": "https://www.bory.cz/obec-bory/nase-projekty/skolni-jidelna",
 "typ": "interier",
 "url": "https://www.bory.cz/images/xgalerie/resized/1801-1900/250130__1__page_0002-1868-1200-900-90-center-middle.jpg",
+"w": 1200
+}
+],
+"detska-skupina-skolicka-krasna-i-ds00306": [
+{
+"alt": "",
+"barva": "#7e7972",
+"dh": "656d6d6d2d0c5cb8",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAFAQMEBv/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEESExQQUTIkJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8AtdoWi+LqxB3g8Uxu0s18dAYmj9pK5w2+N1yMTIiENs/b9qbi9MiLGFRcdhalapWlODS6crNgHqisEU0jICdkazmimhD/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolickakrasna.cz/prostory-skolky/",
+"typ": "interier",
+"url": "https://www.skolickakrasna.cz/wp-content/uploads/2023/03/Herna_1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#64654b",
+"dh": "696933722224123c",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolickakrasna.cz/prostory-skolky/",
+"typ": "zahrada",
+"url": "https://www.skolickakrasna.cz/wp-content/uploads/2023/03/Zahrada_2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a8978c",
+"dh": "1808888c8c50c886",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolickakrasna.cz/prostory-skolky/",
+"typ": "interier",
+"url": "https://www.skolickakrasna.cz/wp-content/uploads/2023/03/Loznice_0.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6d7254",
+"dh": "9818183828cd88c8",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolickakrasna.cz/prostory-skolky/",
+"typ": "zahrada",
+"url": "https://www.skolickakrasna.cz/wp-content/uploads/2023/03/Zahrada_3-2048x1536.jpg",
 "w": 1200
 }
 ],
