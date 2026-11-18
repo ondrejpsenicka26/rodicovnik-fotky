@@ -712,6 +712,36 @@
 "w": 1024
 }
 ],
+"materska-skola-brnirov-540223": [
+{
+"alt": "",
+"barva": "#88754f",
+"dh": "5a5a0e3633c98d07",
+"h": 480,
+"jistota": 0.991,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAQAA//EACIQAAICAQQBBQAAAAAAAAAAAAEDAgQAERIhQRMFIzFhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAIEBf/EAB0RAAICAQUAAAAAAAAAAAAAAAECABEDBBJBkfD/2gAMAwEAAhEDEQA/AB0WVVmBsT9xczOMQdN37imXa3k804SU/YYiDZ/OvfA+82qoUZklcCR3piWVks5mqEiOyMz8mpXG20xs6g0ZhT9frVqsEtUzdAaExI0PfeWHclYZxAZZSrGhUVA8e7n/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkabrnirov.cz/",
+"typ": "interier",
+"url": "https://www.skolkabrnirov.cz/data/headerfooter/header_images/slide-4-2.jpg",
+"w": 890
+},
+{
+"alt": "",
+"barva": "#9c9e99",
+"dh": "185a5a2232937272",
+"h": 480,
+"jistota": 0.565,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkabrnirov.cz/",
+"typ": "les",
+"url": "https://www.skolkabrnirov.cz/data/headerfooter/header_images/slide-4.jpg",
+"w": 890
+}
+],
 "materska-skola-brno-603021": [
 {
 "alt": "",
@@ -770,6 +800,49 @@
 "typ": "interier",
 "url": "http://www.skolkalipa.cz/image.php?oid=13831072",
 "w": 1200
+}
+],
+"materska-skola-chotimer-500743": [
+{
+"alt": "",
+"barva": "#827241",
+"dh": "2b21b3323b393d0f",
+"h": 456,
+"jistota": 0.831,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwQF/8QAIRAAAQQCAgIDAAAAAAAAAAAAAgABAxEEBRIyE4EzQrH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAL/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAMREiExof/aAAwDAQACEQMRAD8Ay6jVTHEb5Iytzd6iexqvs7/ijH2OTFkeOUHYOrE8b+rTVH1Vx9UBtRzEaCYiZPtJQmIZBISZ6rjSF38r5fSFF/HXsy1T/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mschotimer.cz/stravovani/jidelnicek/",
+"typ": "budova",
+"url": "https://www.mschotimer.cz/data/headerfooter/header_images/foto-hlava02.png",
+"w": 1054
+},
+{
+"alt": "",
+"barva": "#87746a",
+"dh": "849c8cec6420a018",
+"h": 456,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mschotimer.cz/stravovani/jidelnicek/",
+"typ": "interier",
+"url": "https://www.mschotimer.cz/data/headerfooter/header_images/foto-hlava03.png",
+"w": 1054
+},
+{
+"alt": "",
+"barva": "#686353",
+"dh": "02cb6f43194cae3b",
+"h": 456,
+"jistota": 0.755,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mschotimer.cz/stravovani/jidelnicek/",
+"typ": "zahrada",
+"url": "https://www.mschotimer.cz/data/headerfooter/header_images/foto-hlava04.png",
+"w": 1054
 }
 ],
 "materska-skola-ctyrlistek-mlada-boleslav-514591": [
@@ -1129,6 +1202,62 @@
 "w": 1200
 }
 ],
+"materska-skola-kysice-015005": [
+{
+"alt": "",
+"barva": "#8e9883",
+"dh": "c6060646321e0b0b",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACIQAAIBBAIBBQAAAAAAAAAAAAECEQADBAUhQTETIkJRof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEREhMxUf/aAAwDAQACEQMRAD8ApWNtZichgoPgr4ijY7K1ewbi4WUnrNwIPXdTcRYHtQEGYLfVMtbDgpMBgQYFRkemEISsbfPt2lU5IPHaA/tFafExwQAq8AfGips+hKP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://materskaskolakysice.cz/o-nas/",
+"typ": "budova",
+"url": "https://materskaskolakysice.cz/wp-content/uploads/2026/08/IMG_4397.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#958c85",
+"dh": "fefb75c5a9a83e1f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://materskaskolakysice.cz/o-nas/",
+"typ": "interier",
+"url": "https://materskaskolakysice.cz/wp-content/uploads/2026/08/IMG_4365.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#616b4f",
+"dh": "078bdb5465ac0c0a",
+"h": 900,
+"jistota": 0.93,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://materskaskolakysice.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://materskaskolakysice.cz/wp-content/uploads/2026/09/20260828_124411157_iOS.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#969387",
+"dh": "2d3fc9cdc1d393a0",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://materskaskolakysice.cz/o-nas/",
+"typ": "interier",
+"url": "https://materskaskolakysice.cz/wp-content/uploads/2026/08/IMG_4370.jpeg",
+"w": 1200
+}
+],
 "materska-skola-montessori-plzen-033453": [
 {
 "alt": "",
@@ -1392,6 +1521,62 @@
 "stranka": "https://www.mssedlec.cz/fotogalerie/ostatni/rekonstrukce-ms-sedlec-21cs.html",
 "typ": "zahrada",
 "url": "https://www.mssedlec.cz/data/headerfooter/header_images/img5038.JPG",
+"w": 1200
+}
+],
+"materska-skola-trebiz-511762": [
+{
+"alt": "",
+"barva": "#858770",
+"dh": "434e1f36260f0d0d",
+"h": 576,
+"jistota": 0.987,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQB/8QAIhAAAQQCAQQDAAAAAAAAAAAAAQACAxEEBRIVIUFhJDGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIREyH/2gAMAwEAAhEDEQA/AM1+zyMjGhD5Q4NHslWSbncmMO+PDyFBpBcRXm1LiRtZG0MaAPSZ7jzaL7I62VpW9RnV9tQvJiuvLLP4ijJN/aIu1B+H/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkatrebiz.cz/foto/",
+"typ": "budova",
+"url": "https://www.skolkatrebiz.cz/wp-content/uploads/2026/09/Code_Generated_Image-13.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#a28d7c",
+"dh": "dcd6f69de585a068",
+"h": 576,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkatrebiz.cz/foto/",
+"typ": "interier",
+"url": "https://www.skolkatrebiz.cz/wp-content/uploads/2026/09/Code_Generated_Image-10.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7d806d",
+"dh": "85c70b9387830303",
+"h": 576,
+"jistota": 0.811,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkatrebiz.cz/foto/",
+"typ": "zahrada",
+"url": "https://www.skolkatrebiz.cz/wp-content/uploads/2026/09/Code_Generated_Image-3.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#82897b",
+"dh": "ed69591d0fd79dac",
+"h": 675,
+"jistota": 0.787,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolkatrebiz.cz/foto/",
+"typ": "les",
+"url": "https://www.skolkatrebiz.cz/wp-content/uploads/2026/06/20250703_185547.jpg",
 "w": 1200
 }
 ],
@@ -2008,6 +2193,23 @@
 "typ": "les",
 "url": "https://647ecd2066.clvaw-cdnwnd.com/d7751e5fc1fc48fc8302cc5f7474d691/200012014-5ecea5ecef/700/sta%C5%BEen%C3%BD%20soubor%20%281%29-76.jpg?ph=647ecd2066",
 "w": 700
+}
+],
+"zakladni-skola-a-materska-skola-kozlov-700626": [
+{
+"alt": "og",
+"barva": "#897b71",
+"dh": "2819090d99181e4f",
+"h": 900,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACQQAAEEAQMDBQAAAAAAAAAAAAEAAgMRBAUSIRMiMUFRYYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERJR/9oADAMBAAIRAxEAPwBbRJmwOLTFw/3Pj5/VeE0DJonEUCeAPVZbBk6RD8p7iTYsd3P2mzpE9skxphdXTiaCOLpCSVs0GVrUseQ5sbINg8biAUKGIXkVPjs6jeCd12hWzMPp/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zskozlov.cz/galerie-skolka/rekostrukce-skolni-vydejny-2023",
+"typ": "hygiena",
+"url": "http://www.zskozlov.cz/image.php?oid=10602289",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-kozusany-tazaly-626616": [
