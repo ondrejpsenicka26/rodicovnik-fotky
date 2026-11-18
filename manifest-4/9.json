@@ -949,6 +949,23 @@
 "w": 1024
 }
 ],
+"materska-skola-lubenec-566508": [
+{
+"alt": "og",
+"barva": "#5e615c",
+"dh": "bf7f71afd3f93fe7",
+"h": 753,
+"jistota": 0.971,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACMQAAEDAwMFAQAAAAAAAAAAAAECAxEABCEGEjETFiJBYVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8AeNXM7ExbOqVHlBAAPyaX3ShRHVtVJCkyNrgUefY9VEdS25lSc/owazrYjKHDPMETUIpXmo3zcE2rUNQI3pz9oqRDyCR4ZM8UU0j/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mslubenec.cz/fotogalerie/prostory-skoly",
+"typ": "budova",
+"url": "http://www.mslubenec.cz/image.php?oid=12461845",
+"w": 1000
+}
+],
 "materska-skola-mala-moravka-620570": [
 {
 "alt": "og",
@@ -1258,6 +1275,53 @@
 "w": 1000
 }
 ],
+"materska-skola-stribrnice-612313": [
+{
+"alt": "",
+"barva": "#9b8b72",
+"dh": "fae378d28af2c0f1",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAIxAAAgEEAgICAwAAAAAAAAAAAQIDAAQREiExBUEUQlFhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAbEQACAQUAAAAAAAAAAAAAAAAAARECAxMxUf/aAAwDAQACEQMRAD8A6N21nHMImliSY8lNuqWEkYl1EbbDPLMO/WB7qPJ+O3vTIdAZFJ4UZ/Hf6rC1sY4zuHkYgYOW6/lBRaexW1AyjqY1Kzuox1vjFFV+HZoArIOB9sminxvoMo//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msstribrnice.cz/",
+"typ": "interier",
+"url": "https://a99979f130.clvaw-cdnwnd.com/c1ff68f73c583ade8aceb0cd2497296b/200004436-879fb879fd/IMG_0102.jpeg?ph=a99979f130",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#91815e",
+"dh": "cf02cda7a58389cb",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msstribrnice.cz/",
+"typ": "interier",
+"url": "https://a99979f130.clvaw-cdnwnd.com/c1ff68f73c583ade8aceb0cd2497296b/200004434-810e6810e7/IMG_0107.jpeg?ph=a99979f130",
+"w": 1200
+}
+],
+"materska-skola-susice-612216": [
+{
+"alt": "VP MŠ",
+"barva": "#7d796e",
+"dh": "0c8cbdbf378ce8f0",
+"h": 497,
+"jistota": 0.629,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQRIQUSFCNhUf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABkRAQACAwAAAAAAAAAAAAAAAAABESExQf/aAAwDAQACEQMRAD8Abj7OI3U+Io1SML0BAIbI3o/lU8haG9WNVSCNQx3GmN1FwZYbiQRzOp1sfQKTyJZX9zs+B12carEaPWDxAAOkSEY32Uk5orupcTKoAkOPu6KcK5f/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkasusice.cz/o-skole/virtualni-prohlidka/",
+"typ": "budova",
+"url": "https://www.skolkasusice.cz/data/editor/129cs_1.png?gcm_date=1684305488",
+"w": 765
+}
+],
 "materska-skola-svitavy-587368": [
 {
 "alt": "",
@@ -1419,6 +1483,49 @@
 "typ": "interier",
 "url": "https://images.squarespace-cdn.com/content/v1/648241ccfc294c149ad63286/a60c7f8c-a471-4af5-9b0d-518950524882/1-98.jpg?format=2500w",
 "w": 1200
+}
+],
+"materska-skola-zachotin-533294": [
+{
+"alt": "og",
+"barva": "#795a4e",
+"dh": "3333330753973430",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAjEAABAwMEAgMAAAAAAAAAAAABAgMEABESBSExQRMiFFGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACEhP/2gAMAwEAAhEDEQA/AKYWtNIZkB5hw5psjFNwDvyf2p0+f4o0gLYWsqskFO9ueawR5ZzSQrLD3x3sCOAfukiampkLCIrIW6SCvsA80TkJ8nQzStbPmOLCLdXG9FL8ZB9rkX3PdFXZZ82//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mszachotin.cz/fotogalerie/ze-zivota-nasi-skolky",
+"typ": "interier",
+"url": "http://www.mszachotin.cz/image.php?oid=13840376",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#676547",
+"dh": "3c1d0ea731330b70",
+"h": 1059,
+"jistota": 0.944,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mszachotin.cz/",
+"typ": "zahrada",
+"url": "https://www.mszachotin.cz/image.php?oid=13881257&nid=21938",
+"w": 1059
+},
+{
+"alt": "",
+"barva": "#8c7664",
+"dh": "e0e25a1830f350d4",
+"h": 1059,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mszachotin.cz/",
+"typ": "interier",
+"url": "https://www.mszachotin.cz/image.php?oid=13881256&nid=21938",
+"w": 1059
 }
 ],
 "materska-skola-zlin-605554": [
