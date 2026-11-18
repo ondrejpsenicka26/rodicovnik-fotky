@@ -1,11 +1,2 @@
-[11:45:27] Část 5/20: webů 157, hotovo 186, zbývá 7
-[11:45:36] https://www.detskaskupinabenjaminek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 6 fotek ke kontrole
-[11:45:39] https://www.dsctyrlistek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
-[11:45:46] https://www.dskostelicek.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 6 fotek ke kontrole
-[11:45:50] https://www.trebesacek.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 0 fotek ke kontrole
-[11:45:56] https://www.dsspalicek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 15 fotek ke kontrole
-[11:46:16] https://permonicci.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 13 fotek ke kontrole
-[11:46:29] http://dssovicka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 19 fotek ke kontrole
-[11:46:43] tříděno 0/59
-[11:46:48] Dávka 1: hotovo 193/157, se fotkami 53; {'ok': 5, 'lide': 6, 'jine': 46, 'sablona': 0}
-[11:46:48] Konec: školek s fotkami 53; {'ok': 5, 'lide': 6, 'jine': 46, 'sablona': 0}
+[12:06:09] Část 5/20: webů 157, hotovo 193, zbývá 0
+[12:06:09] Konec: školek s fotkami 53; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
