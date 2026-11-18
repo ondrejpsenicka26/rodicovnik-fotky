@@ -604,6 +604,62 @@
 "w": 800
 }
 ],
+"materska-skola-bystrice-pod-hostynem-609657": [
+{
+"alt": "DSC_0113",
+"barva": "#636a5e",
+"dh": "4d33232f6f8fe77b",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAiEAACAgEDBAMAAAAAAAAAAAABAgMRAAQSMQUTIUEUIjL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EAB4RAAICAAcAAAAAAAAAAAAAAAABAgMREiEiMUFR/9oADAMBAAIRAxEAPwCjQH5UPcdVQEfQG7ahZyVVIYg0ru+4BvxxfAxp+nRFS0RaM8kA2DmXLuViha695M7rVyyVGC6EdTrnMzbGYL6AGGL6hTFMQNhvz5QYYzt64sbfD//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msbelidla.cz/foto-skoly/",
+"typ": "budova",
+"url": "https://msbelidla.cz/wp-content/uploads/2021/06/DSC_0113.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_6038",
+"barva": "#947b60",
+"dh": "344849e325abacc9",
+"h": 603,
+"jistota": 0.584,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msbelidla.cz/foto-skoly/",
+"typ": "interier",
+"url": "https://msbelidla.cz/wp-content/uploads/2021/06/IMG_6038.jpeg",
+"w": 1200
+},
+{
+"alt": "DSC_0145",
+"barva": "#4f433c",
+"dh": "5181d3d18ca5d39c",
+"h": 800,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msbelidla.cz/foto-skoly/",
+"typ": "zahrada",
+"url": "https://msbelidla.cz/wp-content/uploads/2021/06/DSC_0145.jpg",
+"w": 1200
+},
+{
+"alt": "DSC_0154",
+"barva": "#546f6b",
+"dh": "93cbceeccc7c5e49",
+"h": 800,
+"jistota": 0.933,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msbelidla.cz/foto-skoly/",
+"typ": "les",
+"url": "https://msbelidla.cz/wp-content/uploads/2021/06/DSC_0154-1.jpg",
+"w": 1200
+}
+],
 "materska-skola-chrudim-582619": [
 {
 "alt": "skolka-rekonstrukce-01",
@@ -969,6 +1025,23 @@
 "w": 900
 }
 ],
+"materska-skola-kromeriz-609231": [
+{
+"alt": "",
+"barva": "#8e9378",
+"dh": "3b1b9bcbe9e9cb8c",
+"h": 651,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EAB8QAAICAgMBAQEAAAAAAAAAAAECAyEAEQQFEqExwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMSIf/aAAwDAQACEQMRAD8AvfsB1YYmVzEGB0+zoFgD/cUd3HN2axxuPBid9jZsGvmY0btPyAkzF1MvkgmtCxl3cxJHGkiL5YHzsVWsFWyUSyn0Xnc5I+QVKlq3QavmGZJv9wwdmso//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-stitneho.cz/",
+"typ": "budova",
+"url": "https://967aad6a98.clvaw-cdnwnd.com/8cc907b5aaa8a77b7e0af394b083849e/200000426-74f6074f61/image00013-72.jpeg?ph=967aad6a98",
+"w": 1200
+}
+],
 "materska-skola-moravicany-632705": [
 {
 "alt": "og",
@@ -1233,6 +1306,62 @@
 "typ": "interier",
 "url": "https://www.mszamostni.cz/doc/cms_library/img_6690-306.jpeg",
 "w": 1200
+}
+],
+"materska-skola-svojsovicka-501619": [
+{
+"alt": "",
+"barva": "#767455",
+"dh": "0f1f3b3bab2f7fe6",
+"h": 683,
+"jistota": 0.96,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAiEAABBAIBBAMAAAAAAAAAAAABAAIDEQQhEwUSIjJBcXL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERIh/9oADAMBAAIRAxEAPwCjBnwWYodlSnks+AsmvilPkZMcswFHtPrQqha5cnVHxOMbIwB+jtJfnyvAGgAKFXpY7nXWNuJnKcOawNEX9oSC4nZKEWTpH//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mssvojsovicka.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://www.mssvojsovicka.cz/wp-content/gallery/skolni-zahrada/9b.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#806e50",
+"dh": "1a02076033cfc765",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mssvojsovicka.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.mssvojsovicka.cz/wp-content/gallery/tridy-a-zazemi/3d.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#697f5a",
+"dh": "e376662209073321",
+"h": 795,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mssvojsovicka.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.mssvojsovicka.cz/wp-content/gallery/skolni-zahrada/1c.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5e5e4b",
+"dh": "1a8a8b8393d3028a",
+"h": 683,
+"jistota": 0.654,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mssvojsovicka.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://www.mssvojsovicka.cz/wp-content/gallery/skolni-zahrada/9c.jpg",
+"w": 1024
 }
 ],
 "materska-skola-tuchoraz-512589": [

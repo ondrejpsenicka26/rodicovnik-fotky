@@ -1,12 +1,8 @@
-[11:03:59] Část 16/20: webů 169, hotovo 197, zbývá 8
-[11:04:19] https://www.msbrest.cz: 4 stránek (galerie mimo web: 1 ['www.msbrest.zonerama.com'], alb: 0), 15 obrázků, 6 fotek ke kontrole
-[11:04:30] https://www.skolka-sedliste.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 16 fotek ke kontrole
-[11:04:34] https://www.mshvozdnice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 1 fotek ke kontrole
-[11:04:44] https://ms.pasecnice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 52 obrázků, 1 fotek ke kontrole
-[11:04:49] https://www.msdruztova.cz: 4 stránek (galerie mimo web: 1 ['materinkadruztova42.rajce.idnes.cz'], alb: 0), 17 obrázků, 14 fotek ke kontrole
-[11:05:05] https://www.mshrivice.cz: 5 stránek (galerie mimo web: 3 ['photos.app.goo.gl'], alb: 0), 27 obrázků, 12 fotek ke kontrole
-[11:05:29] https://www.msobristvi.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 603 obrázků, 12 fotek ke kontrole
-[11:05:31] https://www.zshvozdna.cz: 30 stránek (galerie mimo web: 1 ['mshvozdna.rajce.idnes.cz'], alb: 0), 909 obrázků, 11 fotek ke kontrole
-[11:05:47] tříděno 0/73
-[11:05:51] Dávka 1: hotovo 205/169, se fotkami 63; {'ok': 11, 'lide': 3, 'jine': 48, 'sablona': 0}
-[11:05:51] Konec: školek s fotkami 63; {'ok': 11, 'lide': 3, 'jine': 48, 'sablona': 0}
+[11:38:37] Část 16/20: webů 168, hotovo 205, zbývá 4
+[11:38:54] https://www.ms-stitneho.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 4 fotek ke kontrole
+[11:39:42] https://www.mssvojsovicka.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 44 fotek ke kontrole
+[11:40:07] https://www.msupice.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 164 obrázků, 0 fotek ke kontrole
+[11:42:47] https://msbelidla.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 583 obrázků, 30 fotek ke kontrole
+[11:43:09] tříděno 0/78
+[11:43:26] Dávka 1: hotovo 209/168, se fotkami 66; {'ok': 9, 'lide': 2, 'jine': 8, 'sablona': 0}
+[11:43:26] Konec: školek s fotkami 66; {'ok': 9, 'lide': 2, 'jine': 8, 'sablona': 0}
