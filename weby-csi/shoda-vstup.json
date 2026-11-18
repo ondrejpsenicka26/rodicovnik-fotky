@@ -5255,6 +5255,12 @@
 "ulice": "",
 "web": "https://lmsnavetvi.cz"
 },
+"lesni-materska-skola-zahradka-125951": {
+"ico": "04642155",
+"psc": "742 66",
+"ulice": "",
+"web": "https://lmszahradka.cz"
+},
 "little-family-breclav-detska-skupina-ds02263": {
 "ico": "21422346",
 "psc": "690 02",
@@ -5333,6 +5339,12 @@
 "ulice": "Malá Čermná",
 "web": "https://zscermna.cz"
 },
+"masarykova-zs-a-ms-586347": {
+"ico": "70986088",
+"psc": "512 53",
+"ulice": "Tatobity",
+"web": "https://tatobity.cz/skola"
+},
 "materska-skola-as-540720": {
 "ico": "47722801",
 "psc": "352 01",
@@ -5356,6 +5368,12 @@
 "psc": "387 73",
 "ulice": "Útěšovská",
 "web": "https://msbavorov.cz"
+},
+"materska-skola-bilov-624737": {
+"ico": "75026210",
+"psc": "743 01",
+"ulice": "Bílov",
+"web": "https://msbilov.bilov.cz"
 },
 "materska-skola-bilovice-nad-svitavou-603101": {
 "ico": "71001891",
@@ -5525,6 +5543,18 @@
 "ulice": "Tišnovská",
 "web": "https://brtov-jenec.cz/materska-skola"
 },
+"materska-skola-bruntal-620146": {
+"ico": "62352768",
+"psc": "792 01",
+"ulice": "Okružní",
+"web": "https://msokruzni.eu"
+},
+"materska-skola-budisov-nad-budisovkou-628147": {
+"ico": "71002537",
+"psc": "747 87",
+"ulice": "Československé armády",
+"web": "https://budisov.eu/sluzby/skoly-a-zarizeni-pro-deti/materska-skola"
+},
 "materska-skola-bukovany-546019": {
 "ico": "75006898",
 "psc": "357 55",
@@ -5675,6 +5705,18 @@
 "ulice": "Mírová",
 "web": "https://msctyrlistekrk.cz"
 },
+"materska-skola-ctyrlistek-621088": {
+"ico": "45234639",
+"psc": "794 01",
+"ulice": "Svatováclavská",
+"web": "https://krnov.cz/materske-skoly/d-35550"
+},
+"materska-skola-ctyrlistek-622807": {
+"ico": "70983704",
+"psc": "739 61",
+"ulice": "",
+"web": "https://msctyrlistektrinec.cz"
+},
 "materska-skola-cucice-603403": {
 "ico": "71001492",
 "psc": "664 91",
@@ -5728,6 +5770,12 @@
 "psc": "672 01",
 "ulice": "Dobřínsko",
 "web": "https://msdobrinsko.cz"
+},
+"materska-skola-dolni-benesov-629321": {
+"ico": "70944717",
+"psc": "747 22",
+"ulice": "Hájecká",
+"web": "https://msdolnibenesov.cz"
 },
 "materska-skola-dolni-rychnov-545748": {
 "ico": "75007185",
@@ -5806,6 +5854,12 @@
 "psc": "503 03",
 "ulice": "Školní",
 "web": "https://skolkaholohlavy.cz"
+},
+"materska-skola-horni-domaslavice-031680": {
+"ico": "72547839",
+"psc": "739 51",
+"ulice": "Horní Domaslavice",
+"web": "https://mshornidomaslavice.cz"
 },
 "materska-skola-horni-kalna-587971": {
 "ico": "71001573",
@@ -5945,6 +5999,12 @@
 "ulice": "Československé armády",
 "web": "https://msrynovice.cz"
 },
+"materska-skola-jakartovice-628376": {
+"ico": "75029383",
+"psc": "747 53",
+"ulice": "Jakartovice",
+"web": "https://skolka-jakartovice.cz"
+},
 "materska-skola-jakubov-000074": {
 "ico": "71181709",
 "psc": "363 01",
@@ -6023,6 +6083,12 @@
 "ulice": "Kosice",
 "web": "https://mskosice.cz"
 },
+"materska-skola-kostalov-586193": {
+"ico": "70156573",
+"psc": "512 02",
+"ulice": "Košťálov",
+"web": "https://mskostalov.cz"
+},
 "materska-skola-kostelec-nad-vltavou-053326": {
 "ico": "71006095",
 "psc": "399 01",
@@ -6070,6 +6136,18 @@
 "psc": "691 65",
 "ulice": "Křepice",
 "web": "https://ms-krepice.cz"
+},
+"materska-skola-krestanska-opava-629453": {
+"ico": "47813237",
+"psc": "746 01",
+"ulice": "Mnišská",
+"web": "https://mskrestanska.cz"
+},
+"materska-skola-kruh-586274": {
+"ico": "70695555",
+"psc": "514 01",
+"ulice": "",
+"web": "https://obeckruh.cz/skolka"
 },
 "materska-skola-kynsperk-545641": {
 "ico": "63531054",
@@ -6125,6 +6203,12 @@
 "ulice": "Libotov",
 "web": "https://ms.libotov.cz"
 },
+"materska-skola-libstat-586576": {
+"ico": "75016249",
+"psc": "512 03",
+"ulice": "Libštát",
+"web": "https://ms-libstat.cz"
+},
 "materska-skola-lipi-103275": {
 "ico": "75107970",
 "psc": "373 84",
@@ -6142,6 +6226,12 @@
 "psc": "671 78",
 "ulice": "Litobratřice",
 "web": "https://mslitobratrice.cz"
+},
+"materska-skola-litultovice-106726": {
+"ico": "01844440",
+"psc": "747 55",
+"ulice": "Litultovice",
+"web": "https://mslitultovice.cz"
 },
 "materska-skola-lomnicka-604019": {
 "ico": "70996334",
@@ -6166,6 +6256,12 @@
 "psc": "506 01",
 "ulice": "Pod Koželuhy",
 "web": "https://msmaj.jicin.cz"
+},
+"materska-skola-mala-moravka-620570": {
+"ico": "70997900",
+"psc": "793 36",
+"ulice": "Malá Morávka",
+"web": "https://msmalamoravka.cz"
 },
 "materska-skola-malesovice-603489": {
 "ico": "70994871",
@@ -6257,11 +6353,23 @@
 "ulice": "Mokrá",
 "web": "https://msmokrahorakov.cz"
 },
+"materska-skola-mokre-lazce-628571": {
+"ico": "70981671",
+"psc": "747 62",
+"ulice": "Hájová",
+"web": "https://msmokrelazce.cz"
+},
 "materska-skola-montessori-005671": {
 "ico": "86797034",
 "psc": "466 06",
 "ulice": "Zámecká",
 "web": "https://montessori-zs-jablonec.cz"
+},
+"materska-skola-moravskoslezsky-kocov-046393": {
+"ico": "71295020",
+"psc": "792 01",
+"ulice": "Moravský Kočov",
+"web": "https://ms-kocov.cz"
 },
 "materska-skola-moravsky-zizkov-604701": {
 "ico": "70996091",
@@ -6280,6 +6388,12 @@
 "psc": "508 01",
 "ulice": "Jablonského",
 "web": "https://msnahabru.cz"
+},
+"materska-skola-na-olesce-700029": {
+"ico": "71166289",
+"psc": "513 01",
+"ulice": "Na Olešce",
+"web": "https://materska-skola-specialni-semily.webnode.cz"
 },
 "materska-skola-na-paloucku-015315": {
 "ico": "72049634",
@@ -6383,6 +6497,12 @@
 "ulice": "Obora",
 "web": "https://skolkaobora.cz"
 },
+"materska-skola-oborna-620111": {
+"ico": "70640122",
+"psc": "792 01",
+"ulice": "Oborná",
+"web": "https://msoborna.cz"
+},
 "materska-skola-okrouhla-600587": {
 "ico": "75022231",
 "psc": "680 01",
@@ -6395,17 +6515,47 @@
 "ulice": "Olbramkostel",
 "web": "https://olbramkostel.cz/mestys/materska-skola"
 },
+"materska-skola-oldrisov-628627": {
+"ico": "75029791",
+"psc": "747 33",
+"ulice": "Svobody",
+"web": "https://materska-skolka-oldrisov.webnode.cz"
+},
+"materska-skola-olesnice-586525": {
+"ico": "72744022",
+"psc": "511 01",
+"ulice": "Olešnice",
+"web": "https://zsamsolesnice.cz"
+},
 "materska-skola-opatovice-a-rychtarov-613930": {
 "ico": "70986843",
 "psc": "682 01",
 "ulice": "Opatovice",
 "web": "https://materska-skola-opatovice.cz"
 },
+"materska-skola-opava-17-listopadu-087499": {
+"ico": "06115616",
+"psc": "747 06",
+"ulice": "",
+"web": "https://msopava.cz"
+},
+"materska-skola-opava-628635": {
+"ico": "71000101",
+"psc": "747 05",
+"ulice": "Edvarda Beneše",
+"web": "https://msebeneseopava.cz"
+},
 "materska-skola-opocno-585642": {
 "ico": "75016206",
 "psc": "517 73",
 "ulice": "Jana Pitry",
 "web": "https://msopocno.cz"
+},
+"materska-skola-orlova-lutyne-okruzni-917-623943": {
+"ico": "48806188",
+"psc": "735 11",
+"ulice": "Husova",
+"web": "https://okruzni.msorlova.cz"
 },
 "materska-skola-orlovice-613573": {
 "ico": "70984760",
@@ -6442,6 +6592,18 @@
 "psc": "682 01",
 "ulice": "Čtvrtníčkova",
 "web": "https://mspalanek.cz"
+},
+"materska-skola-paseky-nad-jizerou-586622": {
+"ico": "71006753",
+"psc": "512 47",
+"ulice": "Paseky nad Jizerou",
+"web": "https://paseky.cz/127-materska-skola"
+},
+"materska-skola-pastelka-620421": {
+"ico": "63024578",
+"psc": "794 01",
+"ulice": "Jiráskova",
+"web": "https://mspastelkakrnov.cz"
 },
 "materska-skola-perna-604752": {
 "ico": "75023288",
@@ -6533,6 +6695,12 @@
 "ulice": "Prosečné",
 "web": "https://msprosecne.cz"
 },
+"materska-skola-przedszkole-622572": {
+"ico": "70640254",
+"psc": "739 94",
+"ulice": "Vendryně",
+"web": "https://msvendryne.cz"
+},
 "materska-skola-puskinova-614031": {
 "ico": "70986959",
 "psc": "682 01",
@@ -6587,6 +6755,12 @@
 "ulice": "Rohoznice",
 "web": "https://ms.rohoznice.eu"
 },
+"materska-skola-rokytnice-nad-jizerou-586657": {
+"ico": "70698031",
+"psc": "512 44",
+"ulice": "Dolní Rokytnice",
+"web": "https://msdolnirokytnice.cz"
+},
 "materska-skola-rosnicka-564483": {
 "ico": "72741783",
 "psc": "460 01",
@@ -6629,6 +6803,12 @@
 "ulice": "Šabina",
 "web": "https://obec-sabina.cz/materska-skola-sabina"
 },
+"materska-skola-sady-novy-jicin-625881": {
+"ico": "62330128",
+"psc": "741 01",
+"ulice": "Revoluční",
+"web": "https://ms-sady.cz"
+},
 "materska-skola-safov-614511": {
 "ico": "70997039",
 "psc": "671 06",
@@ -6652,6 +6832,12 @@
 "psc": "615 00",
 "ulice": "Zengrova",
 "web": "https://zidenice.brno.cz/materska-skola-sedmikraska-brno-zengrova-3"
+},
+"materska-skola-sedmikrasky-628716": {
+"ico": "70999953",
+"psc": "746 01",
+"ulice": "Čajkovského",
+"web": "https://mssedmikrasky.webnode.cz"
 },
 "materska-skola-sidliste-429-755579": {
 "ico": "49755579",
@@ -6785,6 +6971,12 @@
 "ulice": "Komenského",
 "web": "https://msstarapaka.cz"
 },
+"materska-skola-stare-mesto-620782": {
+"ico": "75029294",
+"psc": "792 01",
+"ulice": "Staré Město",
+"web": "https://skolastaremesto.cz"
+},
 "materska-skola-stary-petrin-615231": {
 "ico": "70994790",
 "psc": "671 06",
@@ -6820,6 +7012,12 @@
 "psc": "364 71",
 "ulice": "Stružná",
 "web": "https://msstruzna.cz"
+},
+"materska-skola-studanka-560305": {
+"ico": "71013083",
+"psc": "471 25",
+"ulice": "U Školy",
+"web": "https://ms-studanka.cz"
 },
 "materska-skola-studanka-601851": {
 "ico": "71004947",
@@ -6917,6 +7115,24 @@
 "ulice": "Trstěnice",
 "web": "https://mstrstenice.cz"
 },
+"materska-skola-turnov-586363": {
+"ico": "72743549",
+"psc": "511 01",
+"ulice": "",
+"web": "https://skolky.turnov.cz"
+},
+"materska-skola-turnov-586746": {
+"ico": "72743719",
+"psc": "511 01",
+"ulice": "Bezručova",
+"web": "https://skolky.turnov.cz"
+},
+"materska-skola-turnov-586762": {
+"ico": "72743794",
+"psc": "511 01",
+"ulice": "Zborovská",
+"web": "https://skolky.turnov.cz"
+},
 "materska-skola-tvorihraz-614189": {
 "ico": "75022150",
 "psc": "671 34",
@@ -6983,11 +7199,23 @@
 "ulice": "Školní",
 "web": "https://msvelesin.cz"
 },
+"materska-skola-velka-stahle-620057": {
+"ico": "73184772",
+"psc": "793 51",
+"ulice": "Velká Štáhle",
+"web": "https://velkastahle.cz/obec/materska-skola"
+},
 "materska-skola-velke-hosteradky-604892": {
 "ico": "75022419",
 "psc": "691 74",
 "ulice": "Velké Hostěrádky",
 "web": "https://msvhosteradky.eu"
+},
+"materska-skola-velke-hostice-629097": {
+"ico": "70961549",
+"psc": "747 31",
+"ulice": "Pekliska",
+"web": "https://msvelkehostice.cz"
 },
 "materska-skola-velke-nemcice-604906": {
 "ico": "71003266",
@@ -7000,6 +7228,12 @@
 "psc": "628 00",
 "ulice": "Velkopavlovická",
 "web": "https://msvelkopavlovicka15.cz"
+},
+"materska-skola-vendryne-c-1-622564": {
+"ico": "70640246",
+"psc": "739 94",
+"ulice": "Vendryně",
+"web": "https://msvendryne.cz"
 },
 "materska-skola-veverska-bityska-604124": {
 "ico": "70994633",
@@ -7043,6 +7277,12 @@
 "ulice": "Zátiší",
 "web": "https://msvranov.cz"
 },
+"materska-skola-vrbno-pod-pradedem-620871": {
+"ico": "70947538",
+"psc": "793 26",
+"ulice": "Ve Svahu",
+"web": "https://msvesvahu.cz"
+},
 "materska-skola-vrchlabi-588625": {
 "ico": "71005951",
 "psc": "543 01",
@@ -7072,6 +7312,12 @@
 "psc": "696 49",
 "ulice": "Žádovice",
 "web": "https://ms-zadovice.cz"
+},
+"materska-skola-zahori-586312": {
+"ico": "75016320",
+"psc": "513 01",
+"ulice": "Záhoří - Pipice č.p.",
+"web": "https://obeczahori.cz/materska-skola"
 },
 "materska-skola-zahradky-532743": {
 "ico": "70986657",
@@ -7433,6 +7679,12 @@
 "ulice": "V Sadě",
 "web": "https://montessorivlasim.cz"
 },
+"zakladni-skola-a-lesni-ms-bez-lavice-125901": {
+"ico": "19589212",
+"psc": "739 42",
+"ulice": "",
+"web": "https://zschlebovice.cz"
+},
 "zakladni-skola-a-mater-skola-velichovky-583941": {
 "ico": "75016796",
 "psc": "552 11",
@@ -7450,6 +7702,12 @@
 "psc": "542 04",
 "ulice": "Bernartice",
 "web": "https://zsbernartice.eu"
+},
+"zakladni-skola-a-materska-skola-bily-kostel-nad-nisou-563801": {
+"ico": "72742071",
+"psc": "463 31",
+"ulice": "Bílý Kostel nad Nisou",
+"web": "https://zsbilykostel.cz"
 },
 "zakladni-skola-a-materska-skola-bohutice-614391": {
 "ico": "71010670",
@@ -7469,11 +7727,41 @@
 "ulice": "Bošovice",
 "web": "https://zsbosovice.cz"
 },
+"zakladni-skola-a-materska-skola-bozkov-586100": {
+"ico": "70979812",
+"psc": "512 13",
+"ulice": "Bozkov",
+"web": "https://zsamsbozkov.cz"
+},
+"zakladni-skola-a-materska-skola-branka-u-opavy-629348": {
+"ico": "70999651",
+"psc": "747 41",
+"ulice": "Školní",
+"web": "https://zsbranka.cz"
+},
 "zakladni-skola-a-materska-skola-brezina-100301": {
 "ico": "75020858",
 "psc": "679 05",
 "ulice": "Březina",
 "web": "https://zsbrezina.cz"
+},
+"zakladni-skola-a-materska-skola-brezova-105941": {
+"ico": "70984557",
+"psc": "747 44",
+"ulice": "Březová",
+"web": "https://zsbrezova.eu"
+},
+"zakladni-skola-a-materska-skola-brumovice-629496": {
+"ico": "75027054",
+"psc": "747 71",
+"ulice": "Malá Strana",
+"web": "https://skolabrumovice.cz"
+},
+"zakladni-skola-a-materska-skola-bulovka-564858": {
+"ico": "72744880",
+"psc": "464 01",
+"ulice": "Bulovka",
+"web": "https://skolabulovka.cz"
 },
 "zakladni-skola-a-materska-skola-chomutice-582694": {
 "ico": "70983216",
@@ -7510,6 +7798,12 @@
 "psc": "507 24",
 "ulice": "Dětenice",
 "web": "https://zsdetenice.cz"
+},
+"zakladni-skola-a-materska-skola-dobratice-621444": {
+"ico": "70640017",
+"psc": "739 51",
+"ulice": "Dobratice",
+"web": "https://zsdobratice.cz"
 },
 "zakladni-skola-a-materska-skola-dolni-dvoriste-531658": {
 "ico": "75000440",
@@ -7565,6 +7859,18 @@
 "ulice": "Hostim",
 "web": "https://zshostim-com.webnode.cz"
 },
+"zakladni-skola-a-materska-skola-hradek-144-621797": {
+"ico": "70640173",
+"psc": "739 97",
+"ulice": "Hrádek",
+"web": "https://zsmshradek.cz"
+},
+"zakladni-skola-a-materska-skola-hradek-nad-nisou-400897": {
+"ico": "70983127",
+"psc": "463 34",
+"ulice": "Hartavská",
+"web": "https://skolahradek.cz"
+},
 "zakladni-skola-a-materska-skola-hrusky-613379": {
 "ico": "70994188",
 "psc": "683 52",
@@ -7577,11 +7883,29 @@
 "ulice": "Huntířov nad Jizerou",
 "web": "https://skola-huntirov.cz"
 },
+"zakladni-skola-a-materska-skola-jakubcovice-nad-odrou-625962": {
+"ico": "75027062",
+"psc": "742 36",
+"ulice": "Sídliště",
+"web": "https://skolajakubcovice.cz"
+},
+"zakladni-skola-a-materska-skola-janovice-621878": {
+"ico": "73184357",
+"psc": "739 11",
+"ulice": "Janovice",
+"web": "https://skolajanovice.cz"
+},
 "zakladni-skola-a-materska-skola-javornik-607344": {
 "ico": "71003495",
 "psc": "696 74",
 "ulice": "Javorník",
 "web": "https://zsmsjavornik.cz"
+},
+"zakladni-skola-a-materska-skola-jesenik-nad-odrou-095602": {
+"ico": "70985871",
+"psc": "741 01",
+"ulice": "Polouvsí",
+"web": "https://zsamsjeseniknadodrou.cz"
 },
 "zakladni-skola-a-materska-skola-jetrichov-583861": {
 "ico": "75016478",
@@ -7600,6 +7924,12 @@
 "psc": "664 01",
 "ulice": "Kanice",
 "web": "https://zskanice.cz"
+},
+"zakladni-skola-a-materska-skola-karlova-studanka-501708": {
+"ico": "70982546",
+"psc": "793 24",
+"ulice": "Karlova Studánka",
+"web": "https://zskarlovastudanka.cz"
 },
 "zakladni-skola-a-materska-skola-katov-112949": {
 "ico": "75021544",
@@ -7685,6 +8015,12 @@
 "ulice": "Lnáře",
 "web": "https://zs.lnare-obec.cz"
 },
+"zakladni-skola-a-materska-skola-lomnice-500698": {
+"ico": "75026520",
+"psc": "793 02",
+"ulice": "Lomnice",
+"web": "https://zslomnice.cz"
+},
 "zakladni-skola-a-materska-skola-louka-607051": {
 "ico": "75023768",
 "psc": "696 76",
@@ -7703,6 +8039,18 @@
 "ulice": "Lukavice",
 "web": "https://skolalukavice.cz"
 },
+"zakladni-skola-a-materska-skola-mankovice-625385": {
+"ico": "75027267",
+"psc": "742 35",
+"ulice": "Mankovice",
+"web": "https://zs.mankovice.cz"
+},
+"zakladni-skola-a-materska-skola-martinice-v-krkonosich-586606": {
+"ico": "70695148",
+"psc": "512 32",
+"ulice": "Martinice v Krkonoších",
+"web": "https://skolymartinice.cz"
+},
 "zakladni-skola-a-materska-skola-milesovice-613603": {
 "ico": "70984069",
 "psc": "683 54",
@@ -7714,6 +8062,12 @@
 "psc": "696 50",
 "ulice": "Moravany",
 "web": "https://zsmoravany.estranky.cz"
+},
+"zakladni-skola-a-materska-skola-moravka-622009": {
+"ico": "70942129",
+"psc": "739 04",
+"ulice": "Morávka",
+"web": "https://zsmoravka.cz"
 },
 "zakladni-skola-a-materska-skola-moravske-branice-603217": {
 "ico": "75023628",
@@ -7732,6 +8086,12 @@
 "psc": "664 55",
 "ulice": "Moutnice",
 "web": "https://skolamoutnice.cz"
+},
+"zakladni-skola-a-materska-skola-mricna-036596": {
+"ico": "70698112",
+"psc": "512 04",
+"ulice": "Mříčná",
+"web": "https://skolamricna.cz"
 },
 "zakladni-skola-a-materska-skola-mudr-k-a-machacka-607387": {
 "ico": "70299668",
@@ -7889,11 +8249,23 @@
 "ulice": "Rasošky",
 "web": "https://skola-rasosky.cz"
 },
+"zakladni-skola-a-materska-skola-raspenava-565099": {
+"ico": "72744189",
+"psc": "464 01",
+"ulice": "Luhová",
+"web": "https://skola-raspenava.cz"
+},
 "zakladni-skola-a-materska-skola-rovna-003147": {
 "ico": "60611952",
 "psc": "356 01",
 "ulice": "Rovná",
 "web": "https://skolarovna.cz"
+},
+"zakladni-skola-a-materska-skola-roztoky-u-jilemnice-586282": {
+"ico": "75017512",
+"psc": "512 31",
+"ulice": "Roztoky u Jilemnice",
+"web": "https://skolaroztoky.cz"
 },
 "zakladni-skola-a-materska-skola-rybna-nad-zdobnici-585707": {
 "ico": "75017261",
@@ -7925,6 +8297,12 @@
 "ulice": "Sokolská",
 "web": "https://siluvky.cz/obecni-urad/zakladni-a-materska-skola"
 },
+"zakladni-skola-a-materska-skola-siroka-niva-620758": {
+"ico": "70640319",
+"psc": "792 01",
+"ulice": "Široká Niva",
+"web": "https://zsms-siroka-niva.cz"
+},
 "zakladni-skola-a-materska-skola-skalice-614537": {
 "ico": "71001778",
 "psc": "671 71",
@@ -7936,6 +8314,12 @@
 "psc": "471 17",
 "ulice": "Skalice u České Lípy",
 "web": "https://zsms-skalice.cz"
+},
+"zakladni-skola-a-materska-skola-slana-586711": {
+"ico": "70188416",
+"psc": "512 01",
+"ulice": "Slaná",
+"web": "https://skolaslana.cz"
 },
 "zakladni-skola-a-materska-skola-sloup-600471": {
 "ico": "62075942",
@@ -8027,6 +8411,12 @@
 "ulice": "Rooseveltova",
 "web": "https://zsteplicenm.cz"
 },
+"zakladni-skola-a-materska-skola-tranovice-007663": {
+"ico": "75027089",
+"psc": "739 53",
+"ulice": "Horní Tošanovice",
+"web": "https://zsamstranovice.cz"
+},
 "zakladni-skola-a-materska-skola-unanov-615061": {
 "ico": "70992274",
 "psc": "671 31",
@@ -8080,6 +8470,12 @@
 "psc": "696 34",
 "ulice": "Žarošice",
 "web": "https://zszarosice.cz"
+},
+"zakladni-skola-a-materska-skola-zavisice-625121": {
+"ico": "70994781",
+"psc": "742 21",
+"ulice": "Závišice",
+"web": "https://zszavisice.cz"
 },
 "zakladni-skola-a-materska-skola-zdikov-534614": {
 "ico": "00583383",
@@ -8147,6 +8543,12 @@
 "ulice": "Dubnice",
 "web": "https://zsdubnice.cz"
 },
+"zs-a-ms-gustawa-przeczka-s-p-j-v-622386": {
+"ico": "70983721",
+"psc": "739 61",
+"ulice": "",
+"web": "https://pzstrinec.cz"
+},
 "zs-a-ms-mudr-josefa-moravce-588234": {
 "ico": "71003835",
 "psc": "544 61",
@@ -8170,5 +8572,23 @@
 "psc": "397 01",
 "ulice": "třída Přátelství",
 "web": "https://zsjanahusa.cz"
+},
+"zs-s-p-j-v-a-ms-przedszkole-621983": {
+"ico": "75026406",
+"psc": "739 81",
+"ulice": "Milíkov",
+"web": "https://zsmilikov.cz"
+},
+"zs-s-p-v-j-a-ms-s-p-v-j-621754": {
+"ico": "70640181",
+"psc": "739 97",
+"ulice": "Hrádek",
+"web": "https://zshradek.cz"
+},
+"zs-t-g-masaryka-a-ms-621894": {
+"ico": "73184209",
+"psc": "739 53",
+"ulice": "Komorní Lhotka",
+"web": "https://zskomornilhotka.cz"
 }
 }
