@@ -833,6 +833,49 @@
 "w": 800
 }
 ],
+"materska-skola-biskupice-587473": [
+{
+"alt": "",
+"barva": "#7f7a70",
+"dh": "63b5797171116d3a",
+"h": 684,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAwX/xAAkEAACAQQBAgcAAAAAAAAAAAABAgMABBIhEQUiEzFRkbHB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAQEAAwAAAAAAAAAAAAAAAQACERJR/9oADAMBAAIRAxEAPwB9ry1aBWzCpIdegP15GsLW/iZggkCq42x1quQGfwc1K5jfcvI9qTHVLWF2xt5eSd9y/lA0rJxxUHVJYVmiKOAGiB4A442aKnZ+rC4ZWWNwFGPc+R+KKqaPIdW//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.biskupice.cz/divadelka-v-ms/",
+"typ": "interier",
+"url": "https://ms.biskupice.cz/wp-content/uploads/2019/02/IMG_20190206_160431.jpg",
+"w": 912
+},
+{
+"alt": "",
+"barva": "#786b5d",
+"dh": "cc0c66a223933048",
+"h": 684,
+"jistota": 0.978,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms.biskupice.cz/divadelka-v-ms/",
+"typ": "interier",
+"url": "https://ms.biskupice.cz/wp-content/uploads/2019/02/IMG_20190206_161101.jpg",
+"w": 912
+},
+{
+"alt": "",
+"barva": "#898477",
+"dh": "c7464169ee96b67d",
+"h": 684,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms.biskupice.cz/divadelka-v-ms/",
+"typ": "hygiena",
+"url": "https://ms.biskupice.cz/wp-content/uploads/2019/02/IMG_20190206_160533.jpg",
+"w": 912
+}
+],
 "materska-skola-brno-601036": [
 {
 "alt": "Budova školy",
@@ -1901,6 +1944,23 @@
 "w": 1200
 }
 ],
+"materska-skola-umyslovice-515636": [
+{
+"alt": "",
+"barva": "#959999",
+"dh": "4f4acc8e0f01fe3f",
+"h": 900,
+"jistota": 0.98,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBA//EACUQAAIBAwMCBwAAAAAAAAAAAAECAwAEEQUSIRMjQVFicaGxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAIDAQAAAAAAAAAAAAAAAAABERJRIf/aAAwDAQACEQMRAD8Aqu9YN1titnkhKsGZkwSR5V1utXkVl6YOMZI24pDZrGvZZV94lP5WnrglVFrJ44KFfqrpkEA1ScqCVZyeck/HFKqJnB5sUz6ZaU7LA1en/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msumyslovice.cz/fotogalerie",
+"typ": "budova",
+"url": "https://msumyslovice.cz/sites/default/files/inline-images/20221214_150301.jpg",
+"w": 1200
+}
+],
 "materska-skola-vorlina-023580": [
 {
 "alt": "",
@@ -2422,6 +2482,49 @@
 "typ": "budova",
 "url": "https://www.vilemov.cz/data/multipage/editor/editor-21-138-cs_1.jpg?gcm_date=1778760316",
 "w": 765
+}
+],
+"zakladni-skola-a-materska-skola-vir-077858": [
+{
+"alt": "Hlavní vchod do budovy naší mateřské školy zdobí jarní dekorace",
+"barva": "#89816d",
+"dh": "d9c6335858fa9793",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAkEAACAQMCBgMAAAAAAAAAAAABAgMAERIEMRMUIVFhgSIyQf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAQEAAwEAAAAAAAAAAAAAAAEAAhESIf/aAAwDAQACEQMRAD8A3E0zskskzxM9rYi5v5ok18TytzU8iTL8cgGA9W/KXbUSiVkViuJt3peVBI+bsch0BJ3rLbLyoSS8EgFnkDDIMFXb2PFFS0ziUJ9wNix2HaimZJTkv//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmsvir.cz/materska-skola",
+"typ": "budova",
+"url": "https://www.zsmsvir.cz/image.php?nid=21940&oid=13930019",
+"w": 1200
+},
+{
+"alt": "Herna naší družiny nabízí deskové hry i stolky pro barevně rozlišené skupiny",
+"barva": "#796a5c",
+"dh": "1c56c444f88c6831",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsmsvir.cz/materska-skola",
+"typ": "interier",
+"url": "https://www.zsmsvir.cz/image.php?nid=21940&oid=13930024",
+"w": 1200
+},
+{
+"alt": "Herna naší materské školy nabízí dvoupodlažní dřevěný domeček a dětské kočárky",
+"barva": "#8a8471",
+"dh": "498d4e46606f873d",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsmsvir.cz/materska-skola",
+"typ": "interier",
+"url": "https://www.zsmsvir.cz/image.php?nid=21940&oid=13930026",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-zlonice-136490": [
