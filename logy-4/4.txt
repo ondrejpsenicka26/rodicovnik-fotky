@@ -1,2 +1,6 @@
-[12:37:20] Část 5/20: webů 156, hotovo 195, zbývá 0
-[12:37:20] Konec: školek s fotkami 55; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:06] Část 5/20: webů 158, hotovo 195, zbývá 2
+[12:44:09] https://1mshornibriza.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 140 obrázků, 38 fotek ke kontrole
+[12:44:10] https://mskysice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 487 obrázků, 3 fotek ke kontrole
+[12:44:23] tříděno 0/41
+[12:44:24] Dávka 1: hotovo 197/158, se fotkami 56; {'ok': 1, 'lide': 1, 'jine': 39, 'sablona': 0}
+[12:44:24] Konec: školek s fotkami 56; {'ok': 1, 'lide': 1, 'jine': 39, 'sablona': 0}
