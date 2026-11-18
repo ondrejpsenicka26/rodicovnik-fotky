@@ -872,6 +872,23 @@
 "w": 1200
 }
 ],
+"materska-skola-buk-631601": [
+{
+"alt": "og",
+"barva": "#868f95",
+"dh": "4979e18c282c86ce",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCBAX/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABBEhBRITMVGh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhETUf/aAAwDAQACEQMRAD8A0DdkDrGvYqcZbQqAuJEnjknkLKrZMa6GjS+nKSLIY5YgwbWVYj97q0/IRFgzRPkFiDkaz7rXOwjPdtK1wzQmRFOyFA2fmil+PmTJGpM5jwAOvjz90UtIFT6f/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skola.obecbuk.eu/fotogalerie/novy-skolni-rok-nova-ms",
+"typ": "budova",
+"url": "http://skola.obecbuk.eu/image.php?oid=12579528",
+"w": 1200
+}
+],
 "materska-skola-cetkovice-600145": [
 {
 "alt": "",
@@ -1568,6 +1585,23 @@
 "w": 1200
 }
 ],
+"materska-skola-zacler-588668": [
+{
+"alt": "",
+"barva": "#937b65",
+"dh": "490884a231bdc747",
+"h": 675,
+"jistota": 0.677,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAQTGF2YzU4LjM1LjEwMAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgMG/8QAIRAAAgEEAQUBAAAAAAAAAAAAAQIRAAMEIRIFEzFBYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EABwRAAICAgMAAAAAAAAAAAAAAAABAgMSMREhQf/aAAwDAQACEQMRAD8AmxnMttl7AdQAQG0QQau3VuS8rdlLF46lhyET41FLmUSNDzTJ0V8AhlUwk7Hujyliti7aXDtaNR1PEdFOUqPeAhiLcifnyiuTI37/AGirYSXoblH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://napiliri.rajce.idnes.cz/",
+"typ": "interier",
+"url": "https://img45.rajce.idnes.cz/d4503/16/16640/16640032_47bd6ec992be54a7cd490f959b18c9d7/images/Adam_turnov.jpg",
+"w": 1200
+}
+],
 "ms-novy-kramolin-540436": [
 {
 "alt": "",
@@ -1986,6 +2020,23 @@
 "stranka": "https://skola-visky.webnode.cz/materska-skola/",
 "typ": "interier",
 "url": "https://feec3daf11.cbaul-cdnwnd.com/551fd3408d2d5d8c9c8faa575068d073/200000112-1813a190fd/DSCN1529.JPG?ph=feec3daf11",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-zavisice-625121": [
+{
+"alt": "",
+"barva": "#6f7568",
+"dh": "8b868fd339df963f",
+"h": 675,
+"jistota": 0.634,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAQTGF2YzU4LjM1LjEwMAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBv/EACMQAAICAgECBwAAAAAAAAAAAAECAAMEESEFExIiMUJRYXL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQISESFR/9oADAMBAAIRAxEAPwAtaZdWR3VPA584MdmdZ6ldQ1CKlL60bEQ75+z6RlC9/DF9pZ7T7ixgM+itVIAIH6MxZxWg4o598DKLnxOpPzsncpu9SAjQlF5dJg//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-zavisice.rajce.idnes.cz/",
+"typ": "les",
+"url": "https://img45.rajce.idnes.cz/d4503/16/16746/16746957_304568cd22e61becef19aa6645bef091/images/Silberkarklamm,_Silberkarhutte_1250_m_-_27.8.2019.jpg",
 "w": 1200
 }
 ]
