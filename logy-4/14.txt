@@ -1,11 +1,8 @@
-[03:59:57] Část 15/20: webů 151, hotovo 177, zbývá 7
-[04:00:02] https://slunickodomazlice.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 3 fotek ke kontrole
-[04:00:07] https://slunicka.com/detska-skupina-slunicka-hradec: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[04:00:07] https://klubkomontessori.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
-[04:00:15] https://dsbystrehlavicky.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 0 fotek ke kontrole
-[04:00:19] https://dsparnicek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 8 fotek ke kontrole
-[04:00:53] https://vidce.cz/spol/detska-skupina-stritez-nad-becvou: 11 stránek (galerie mimo web: 0 [], alb: 0), 397 obrázků, 27 fotek ke kontrole
-[04:02:27] https://msnovedomky.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 1051 obrázků, 45 fotek ke kontrole
-[04:02:38] tříděno 0/83
-[04:02:43] Dávka 1: hotovo 184/151, se fotkami 52; {'ok': 5, 'lide': 10, 'jine': 65, 'sablona': 0}
-[04:02:43] Konec: školek s fotkami 52; {'ok': 5, 'lide': 10, 'jine': 65, 'sablona': 0}
+[08:51:34] Část 15/20: webů 152, hotovo 184, zbývá 4
+[08:51:49] https://skolatemelin.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 0 fotek ke kontrole
+[08:52:32] https://zsmsbujanov.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 577 obrázků, 16 fotek ke kontrole
+[08:52:32] https://ms-novavcelnice.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 1463 obrázků, 0 fotek ke kontrole
+[08:53:10] https://msdlouha.cz: nedostupné nebo zakázané
+[08:53:22] tříděno 0/16
+[08:53:22] Dávka 1: hotovo 188/152, se fotkami 52; {'ok': 0, 'lide': 1, 'jine': 15, 'sablona': 0}
+[08:53:22] Konec: školek s fotkami 52; {'ok': 0, 'lide': 1, 'jine': 15, 'sablona': 0}
