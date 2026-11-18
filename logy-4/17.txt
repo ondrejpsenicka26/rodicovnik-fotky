@@ -1,2 +1,5 @@
-[12:37:23] Část 18/20: webů 159, hotovo 206, zbývá 0
-[12:37:23] Konec: školek s fotkami 65; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:14] Část 18/20: webů 160, hotovo 206, zbývá 1
+[12:43:31] https://msluzenice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
+[12:43:43] tříděno 0/5
+[12:43:43] Dávka 1: hotovo 207/160, se fotkami 66; {'ok': 1, 'lide': 0, 'jine': 4, 'sablona': 0}
+[12:43:43] Konec: školek s fotkami 66; {'ok': 1, 'lide': 0, 'jine': 4, 'sablona': 0}
