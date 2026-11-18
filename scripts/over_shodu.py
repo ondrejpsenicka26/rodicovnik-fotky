@@ -153,7 +153,8 @@ with ThreadPoolExecutor(4) as ex:
         if OPAKOVAT:
             v["opak"] = 1
         vystup[s] = v
-        if n % 100 == 0:
+        if n % 25 == 0:
             print(n, flush=True)
+            json.dump(vystup, open("weby-csi/shoda.json", "w"), ensure_ascii=False, indent=0, sort_keys=True)
 json.dump(vystup, open("weby-csi/shoda.json", "w"), ensure_ascii=False, indent=0, sort_keys=True)
 print("hotovo", len(vystup), "ok", sum(1 for v in vystup.values() if v["ok"]))
