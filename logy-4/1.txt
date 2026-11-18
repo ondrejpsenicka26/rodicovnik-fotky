@@ -1,9 +1,8 @@
-[09:54:13] Část 2/20: webů 163, hotovo 191, zbývá 5
-[09:54:36] https://zskarlovastudanka.cz: 2 stránek (galerie mimo web: 1 ['kszs.rajce.idnes.cz'], alb: 0), 4 obrázků, 3 fotek ke kontrole
-[09:54:44] https://zsmshradek.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 10 fotek ke kontrole
-[09:54:56] https://msluzice.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 116 obrázků, 8 fotek ke kontrole
-[09:55:08] https://budisov.eu/sluzby/skoly-a-zarizeni-pro-deti/materska-skola: 31 stránek (galerie mimo web: 0 [], alb: 0), 257 obrázků, 3 fotek ke kontrole
-[09:55:35] https://ms.libotov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 936 obrázků, 39 fotek ke kontrole
-[09:55:50] tříděno 0/63
-[09:55:54] Dávka 1: hotovo 196/163, se fotkami 53; {'ok': 3, 'lide': 3, 'jine': 56, 'sablona': 0}
-[09:55:54] Konec: školek s fotkami 53; {'ok': 3, 'lide': 3, 'jine': 56, 'sablona': 0}
+[10:15:28] Část 2/20: webů 166, hotovo 196, zbývá 4
+[10:15:44] https://msskripov.cz: 2 stránek (galerie mimo web: 1 ['msskripov.zonerama.com'], alb: 1), 7 obrázků, 1 fotek ke kontrole
+[10:16:07] https://zsnemile.cz: 30 stránek (galerie mimo web: 1 ['skolanemile.rajce.idnes.cz'], alb: 0), 20 obrázků, 15 fotek ke kontrole
+[10:16:12] https://sumperk.cz/dr-cs/2664-materska-skola-pohadka-sumperk-nerudova-4b-prispevkova-organizace.html: 7 stránek (galerie mimo web: 0 [], alb: 0), 112 obrázků, 19 fotek ke kontrole
+[10:16:26] https://zsamshostejn.cz: 32 stránek (galerie mimo web: 373 ['eu.zonerama.com', 'www.zonerama.com'], alb: 24), 259 obrázků, 1 fotek ke kontrole
+[10:16:39] tříděno 0/36
+[10:16:39] Dávka 1: hotovo 200/166, se fotkami 54; {'ok': 1, 'lide': 3, 'jine': 32, 'sablona': 0}
+[10:16:39] Konec: školek s fotkami 54; {'ok': 1, 'lide': 3, 'jine': 32, 'sablona': 0}
