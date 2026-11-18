@@ -1133,6 +1133,36 @@
 "w": 1200
 }
 ],
+"materska-skola-komorany-613891": [
+{
+"alt": "",
+"barva": "#7f7761",
+"dh": "3962d2224f8fe088",
+"h": 900,
+"jistota": 0.565,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EACIQAAICAgAGAwAAAAAAAAAAAAECAxEABAYSEyExYSJSYv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhEx/9oADAMBAAIRAxEAPwBjcSSSwp0EmhUKA78oJLesUqDZkMkzSSMCfk7XeQjekBBWV/Aq/GOG479mUG/r2zJ0s5TyoTXiZbaMA/qycM0a7MLNr6vDDrXy/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://mskomorany.cz/",
+"typ": "budova",
+"url": "http://mskomorany.cz/images/os_imagegallery_98/original/img-0053.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#848069",
+"dh": "72932b56fc3f0760",
+"h": 900,
+"jistota": 0.954,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "http://mskomorany.cz/",
+"typ": "zahrada",
+"url": "http://mskomorany.cz/images/os_imagegallery_98/original/img-0054.jpg",
+"w": 1200
+}
+],
 "materska-skola-kounice-515059": [
 {
 "alt": "",
@@ -1859,6 +1889,62 @@
 "stranka": "https://www.zsamsbozkov.cz/materska-skola/aktuality-ms/",
 "typ": "budova",
 "url": "https://www.zsamsbozkov.cz/data/headerfooter/header_images/img20220325121413.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-brnicko-632144": [
+{
+"alt": "",
+"barva": "#a1a17f",
+"dh": "6fe7954d1f1b13c7",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCBP/EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEERIhBRMxQRQiUf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQMC/9oADAMBAAIRAxEAPwCw8015CO25ijbDAoPsR591q76hLbW+7Rh8EAnx7qR8IRtqssnH6aLbJE7O20hYYwx4FZJaUXk6rvrtnDNoQ7HGTjHFKjy2cYfjIFKPaOMiH//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://zsbrnicko.cz/prohlidka-druziny/",
+"typ": "budova",
+"url": "http://zsbrnicko.cz/wp-content/uploads/2020/09/NIK_2554-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6c633f",
+"dh": "cdcececd8d162f07",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "http://zsbrnicko.cz/prohlidka-skolky/",
+"typ": "interier",
+"url": "http://zsbrnicko.cz/wp-content/uploads/2020/09/NIK_2665.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e997f",
+"dh": "1ba6e1cc8e9b9143",
+"h": 800,
+"jistota": 0.997,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "http://zsbrnicko.cz/prohlidka-skoly/",
+"typ": "budova",
+"url": "http://zsbrnicko.cz/wp-content/uploads/2020/09/NIK_2242-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9c7c45",
+"dh": "4b64a43836234383",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "http://zsbrnicko.cz/prohlidka-skoly/",
+"typ": "interier",
+"url": "http://zsbrnicko.cz/wp-content/uploads/2020/09/NIK_2269.jpg",
 "w": 1200
 }
 ],

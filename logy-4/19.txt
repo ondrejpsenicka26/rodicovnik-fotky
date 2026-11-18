@@ -1,8 +1,6 @@
-[10:15:16] Část 20/20: webů 155, hotovo 191, zbývá 4
-[10:15:35] https://mshalkova.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 8 fotek ke kontrole
-[10:15:58] https://msdobromilice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 89 obrázků, 6 fotek ke kontrole
-[10:17:09] https://zsbochor.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 0 fotek ke kontrole
-[10:17:48] https://msnemcicenadhanou.cz: 19 stránek (galerie mimo web: 16 ['rajce.net', 'www.rajce.idnes.cz'], alb: 5), 341 obrázků, 30 fotek ke kontrole
-[10:17:58] tříděno 0/44
-[10:17:59] Dávka 1: hotovo 195/155, se fotkami 65; {'ok': 1, 'lide': 0, 'jine': 43, 'sablona': 0}
-[10:17:59] Konec: školek s fotkami 65; {'ok': 1, 'lide': 0, 'jine': 43, 'sablona': 0}
+[10:40:28] Část 20/20: webů 156, hotovo 195, zbývá 2
+[10:41:00] http://mskomorany.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 9 fotek ke kontrole
+[10:42:16] http://zsbrnicko.cz: 32 stránek (galerie mimo web: 2 ['brnicko.rajce.idnes.cz', 'zsbrnicko.rajce.idnes.cz'], alb: 0), 267 obrázků, 39 fotek ke kontrole
+[10:42:34] tříděno 0/48
+[10:42:39] Dávka 1: hotovo 197/156, se fotkami 67; {'ok': 6, 'lide': 2, 'jine': 30, 'sablona': 0}
+[10:42:39] Konec: školek s fotkami 67; {'ok': 6, 'lide': 2, 'jine': 30, 'sablona': 0}
