@@ -557,6 +557,23 @@
 "w": 1200
 }
 ],
+"materska-skola-blansko-600048": [
+{
+"alt": "og",
+"barva": "#7d838b",
+"dh": "e4ec5c74ecc0209c",
+"h": 903,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBv/EACAQAAICAwADAAMAAAAAAAAAAAECAwQAESEFEhMxcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABsRAAICAwEAAAAAAAAAAAAAAAABEhMRMVFB/9oADAMBAAIRAxEAPwBm38IYzJ7KQDo6Ycwe9fd/aOoCq6654T+sOel5C1MAzLsEsBvh7vNvXuQMBNXHeAiQHFdlbDWl4dfTIenC2vyi/wAyw2h5OGGlFHN9A6DRAG8shN9KxXD/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msdivisova.cz/o-nas/o-nasi-skolce",
+"typ": "budova",
+"url": "http://www.msdivisova.cz/image.php?oid=13282694",
+"w": 1200
+}
+],
 "materska-skola-breclav-604949": [
 {
 "alt": "og",
@@ -643,6 +660,62 @@
 "w": 800
 }
 ],
+"materska-skola-chynov-535211": [
+{
+"alt": "",
+"barva": "#626860",
+"dh": "968ee5d49c1f2390",
+"h": 900,
+"jistota": 0.921,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBQb/xAAnEAACAQMCAwkAAAAAAAAAAAABAgMABBEhIgUxYQYWQUJDcYGh8f/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIhIv/aAAwDAQACEQMRAD8ATZ8Rn4bcs1oI2aQYdZM4wOR0+aoXHaeR7ZVURxT+oeePYGsvb3ywsTh3yPMaY15Bc7ZEwfD9qJRRMZOlzvBOAAJIn6uuv0RRWda03bZNOoop2Z7P/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mschynov.cz/o-nas/materska-skola/",
+"typ": "budova",
+"url": "https://www.mschynov.cz/www/mschynov/fs/img_20220907_062550083_20220911191901789.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#858666",
+"dh": "1151594b070f1f1f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mschynov.cz/o-nas/3-trida/",
+"typ": "interier",
+"url": "https://www.mschynov.cz/www/mschynov/fs/3_3.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#717d62",
+"dh": "7c1f272394055a54",
+"h": 900,
+"jistota": 0.995,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mschynov.cz/o-nas/materska-skola/",
+"typ": "zahrada",
+"url": "https://www.mschynov.cz/www/mschynov/fs/img_20220905_133800716_hdr.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7f796b",
+"dh": "6ded32338f0f0f0f",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mschynov.cz/o-nas/4-trida/",
+"typ": "interier",
+"url": "https://www.mschynov.cz/www/mschynov/fs/4_1.jpg",
+"w": 1200
+}
+],
 "materska-skola-holice-159735": [
 {
 "alt": "",
@@ -658,6 +731,49 @@
 "typ": "budova",
 "url": "https://mspardubicka.cz/wp-content/uploads/2025/06/srdce.jpg",
 "w": 1024
+}
+],
+"materska-skola-hroznetin-541513": [
+{
+"alt": "",
+"barva": "#787763",
+"dh": "4a4a4b9148766533",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAIxAAAgEEAQQDAQAAAAAAAAAAAQIDAAQREkETFCFhBTFxUf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAwDAQACEQMRAD8Awv7y11VI1IdJAzdQrjH6DSe8gur8dtCsS9NuMZPBGOPdZLcIPjGWGNUdJDqVGMeBRhdSXCMkkjO/g7uSWH4eKztOTWGp1K5wAM/2qgpK8a6h2Ps/dVToYr//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mshroznetin.cz/fotogalerie-2/",
+"typ": "interier",
+"url": "https://mshroznetin.cz/wp-content/uploads/2025/02/IMG_2135-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#777867",
+"dh": "db7b1a2327163336",
+"h": 900,
+"jistota": 0.856,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mshroznetin.cz/fotogalerie-2/",
+"typ": "les",
+"url": "https://mshroznetin.cz/wp-content/uploads/2025/09/IMG_6095.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#817c77",
+"dh": "784446d6761e0f77",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mshroznetin.cz/fotogalerie-2/",
+"typ": "interier",
+"url": "https://mshroznetin.cz/wp-content/uploads/2025/02/IMG_2140.jpeg",
+"w": 1200
 }
 ],
 "materska-skola-hulin-609789": [
@@ -735,6 +851,62 @@
 "typ": "zahrada",
 "url": "https://www.msnovedomky.cz/wp-content/uploads/photo-gallery/Zahradka_2223/20221017_095154_(1).jpg?bwg=1699880931",
 "w": 900
+}
+],
+"materska-skola-nevojice-613239": [
+{
+"alt": "",
+"barva": "#72716d",
+"dh": "9d9b8b8e9f4b64d0",
+"h": 554,
+"jistota": 0.886,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACIQAAICAgEDBQAAAAAAAAAAAAECABEDEgQFITETIiNBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAABIBEf/aAAwDAQACEQMRAD8ASnIA5bZ08ZEA7qY889FKVjLGzdCQ87t6hXYgBjQBm3pXybK/cAir+pO6px6opdtgVINEfkJSXEmg9o8QiyX/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnevojice.cz/",
+"typ": "zahrada",
+"url": "https://www.msnevojice.cz/data/headerfooter/header_images/foto-hlava04-2.png",
+"w": 1052
+},
+{
+"alt": "",
+"barva": "#5a552e",
+"dh": "4b4d8d981b042a26",
+"h": 554,
+"jistota": 0.677,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnevojice.cz/",
+"typ": "les",
+"url": "https://www.msnevojice.cz/data/headerfooter/header_images/foto-hlava01-2.png",
+"w": 1052
+},
+{
+"alt": "",
+"barva": "#958b76",
+"dh": "cc0e0b361b582033",
+"h": 554,
+"jistota": 0.688,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msnevojice.cz/",
+"typ": "zahrada",
+"url": "https://www.msnevojice.cz/data/headerfooter/header_images/foto-hlava03-2.png",
+"w": 1052
+},
+{
+"alt": "",
+"barva": "#7f6f67",
+"dh": "b1b9b33520b696c9",
+"h": 554,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msnevojice.cz/",
+"typ": "hygiena",
+"url": "https://www.msnevojice.cz/data/headerfooter/header_images/foto-hlava02-2.png",
+"w": 1052
 }
 ],
 "materska-skola-okrouhlo-061015": [
