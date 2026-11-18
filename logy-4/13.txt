@@ -1,13 +1,6 @@
-[03:59:55] Část 14/20: webů 163, hotovo 174, zbývá 9
-[03:59:59] https://dssvetpoznani.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[04:00:09] https://holesov.cz/4789-detska-skupina-hajenka.html: nedostupné nebo zakázané
-[04:00:12] https://skolanahoru.cz: 16 stránek (galerie mimo web: 1 ['nahorujilemnice.rajce.idnes.cz'], alb: 0), 17 obrázků, 0 fotek ke kontrole
-[04:00:13] https://pastelkapardubice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 9 fotek ke kontrole
-[04:01:08] https://stararise.cz/detska-skupina-stara-rise: 3 stránek (galerie mimo web: 1 ['mestysstararise.rajce.idnes.cz'], alb: 0), 14 obrázků, 2 fotek ke kontrole
-[04:01:22] https://detskaskupinamateridouska.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 21 fotek ke kontrole
-[04:01:23] https://lisakliberec.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 16 fotek ke kontrole
-[04:01:32] https://novavesnm.cz/detska-skupina-motylek/ms-5022: nedostupné nebo zakázané
-[04:01:57] https://beruskazlin.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 443 obrázků, 44 fotek ke kontrole
-[04:02:07] tříděno 0/93
-[04:02:16] Dávka 1: hotovo 183/163, se fotkami 38; {'ok': 8, 'lide': 4, 'jine': 72, 'sablona': 0}
-[04:02:16] Konec: školek s fotkami 38; {'ok': 8, 'lide': 4, 'jine': 72, 'sablona': 0}
+[08:51:27] Část 14/20: webů 162, hotovo 183, zbývá 2
+[08:51:35] https://msradosovice.webnode.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 3 fotek ke kontrole
+[08:53:08] https://zsmszimutice.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 2376 obrázků, 3 fotek ke kontrole
+[08:53:19] tříděno 0/6
+[08:53:20] Dávka 1: hotovo 185/162, se fotkami 39; {'ok': 2, 'lide': 2, 'jine': 2, 'sablona': 0}
+[08:53:20] Konec: školek s fotkami 39; {'ok': 2, 'lide': 2, 'jine': 2, 'sablona': 0}

@@ -595,6 +595,36 @@
 "w": 1200
 }
 ],
+"materska-skola-radosovice-530091": [
+{
+"alt": "",
+"barva": "#857b7f",
+"dh": "4759716539122707",
+"h": 1200,
+"jistota": 0.744,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAQP/xAAlEAACAQIFAwUAAAAAAAAAAAABAgADEQQSITFRBRNBIjNxgZH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEREiEC/9oADAMBAAIRAxEAPwClFQZR8iYmJR6rUwbMpky3Wq1ah7eS4LXUeB+2iqY4UsxDVS7GyldbbS2xQWbb6kwkdV6xiw9hiKijjKYQsgqcsBVoq7d5TZhbbQDz98QoAZ2caDUKOIol28mNr6FCb2Exbw251jHe51hFWexhFJdUf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msradosovice.webnode.cz/o-nas/",
+"typ": "budova",
+"url": "https://f7981e8b0a.clvaw-cdnwnd.com/3e2c7cb32ccb2c4e0f4473be832072ce/200000375-5ead15ead4/DSC_0330.JPG?ph=f7981e8b0a",
+"w": 800
+},
+{
+"alt": "",
+"barva": "#757864",
+"dh": "140c2c24d7f1b13e",
+"h": 900,
+"jistota": 0.713,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msradosovice.webnode.cz/",
+"typ": "zahrada",
+"url": "https://f7981e8b0a.clvaw-cdnwnd.com/3e2c7cb32ccb2c4e0f4473be832072ce/200000280-4bade4ca83/DSC01518.JPG?ph=f7981e8b0a",
+"w": 1200
+}
+],
 "materska-skola-sedmikraska-367820": [
 {
 "alt": "",
