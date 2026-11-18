@@ -1,7 +1,6 @@
-[10:15:35] Část 7/20: webů 161, hotovo 199, zbývá 3
-[10:15:45] https://mshrubcice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
-[10:16:26] https://ms.klopina.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 40 obrázků, 7 fotek ke kontrole
-[10:17:35] https://materskaskolachrast.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 453 obrázků, 3 fotek ke kontrole
-[10:17:45] tříděno 0/10
-[10:17:45] Dávka 1: hotovo 202/161, se fotkami 62; {'ok': 1, 'lide': 1, 'jine': 8, 'sablona': 0}
-[10:17:45] Konec: školek s fotkami 62; {'ok': 1, 'lide': 1, 'jine': 8, 'sablona': 0}
+[10:40:09] Část 7/20: webů 161, hotovo 202, zbývá 2
+[10:40:38] http://dsorisek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 14 fotek ke kontrole
+[10:40:40] http://msmarkvartice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 173 obrázků, 0 fotek ke kontrole
+[10:40:53] tříděno 0/14
+[10:40:53] Dávka 1: hotovo 204/161, se fotkami 63; {'ok': 1, 'lide': 2, 'jine': 11, 'sablona': 0}
+[10:40:53] Konec: školek s fotkami 63; {'ok': 1, 'lide': 2, 'jine': 11, 'sablona': 0}
