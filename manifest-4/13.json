@@ -522,6 +522,62 @@
 "w": 1200
 }
 ],
+"materska-skola-klimentov-541157": [
+{
+"alt": "skola",
+"barva": "#9a9669",
+"dh": "99a9332bd6164d9d",
+"h": 600,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACQQAAICAgEEAQUAAAAAAAAAAAECAxEABBIhIjFBFFFhcaHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACIRH/2gAMAwEAAhEDEQA/ANDUYJrz7DbXx5bCleHFia6Xfk3/AH64yLZ5y859hQaoBSB6+2Y2vBOJAiqkjHzfr30/WUbEMiPKioO+rsi1/GZrWXDIqgbHboGzsFll5AAKCTeGQJIdcujqD3dCfNYYjoS4M//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msklimentov.cz/cs/fotogalerie/materska-skola-klimentov",
+"typ": "budova",
+"url": "https://www.msklimentov.cz/system/files/styles/box_800_x_600/private/obrazky/d%C5%AFm.jpg.webp?itok=FOeCoPEO",
+"w": 800
+},
+{
+"alt": "Přístavba MŠ",
+"barva": "#7f8668",
+"dh": "c5f5b7767351c739",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msklimentov.cz/cs/fotogalerie/pristavba-ms",
+"typ": "interier",
+"url": "https://www.msklimentov.cz/system/files/styles/box_800_x_600/private/obrazky/pristavba4.jpg.webp?itok=im_mSXGg",
+"w": 800
+},
+{
+"alt": "zahrada2",
+"barva": "#596044",
+"dh": "e6e6c68d9933670f",
+"h": 600,
+"jistota": 0.943,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msklimentov.cz/cs/fotogalerie/materska-skola-klimentov",
+"typ": "zahrada",
+"url": "https://www.msklimentov.cz/system/files/styles/box_800_x_600/private/obrazky/prolejzka.jpg.webp?itok=jaVIwMqm",
+"w": 800
+},
+{
+"alt": "Přístavba MŠ",
+"barva": "#8a7c6d",
+"dh": "5c5699f14bc6e75b",
+"h": 600,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msklimentov.cz/cs/fotogalerie/pristavba-ms",
+"typ": "interier",
+"url": "https://www.msklimentov.cz/system/files/styles/box_800_x_600/private/obrazky/pristavba5.jpg.webp?itok=LFzC7alU",
+"w": 800
+}
+],
 "materska-skola-kralupy-nad-vltavou-514141": [
 {
 "alt": "",
@@ -550,6 +606,49 @@
 "typ": "budova",
 "url": "https://fbb556bc03.clvaw-cdnwnd.com/54c5a58b435bbcc5cf641b4e22fe82d2/200000185-e8128e812b/otevreni%20ms%202%2022.jpg?ph=fbb556bc03",
 "w": 1200
+}
+],
+"materska-skola-nebovidy-603543": [
+{
+"alt": "",
+"barva": "#998179",
+"dh": "3f0f822a4e9e1e0e",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAgEAABBAMAAgMAAAAAAAAAAAABAAIDEQQSIRNRMUHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiFR/9oADAMBAAIRAxEAPwB8MrGGUs18QeQzawSPr9TnvjIO4A5fFk4kznO70jlk/KfPIdbpYjGWb0niePMgEx1ZZIpx9IVSPLdEymNFEl3faFRh3Pp//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://materska-skola-nebovidy.webnode.cz/trida-zabky/",
+"typ": "interier",
+"url": "https://092e36b1ef.clvaw-cdnwnd.com/a96ad94a9bb22e7579117de1a3b1f43c/200000024-25c7325c74/DSC_0836.JPG?ph=092e36b1ef",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#797663",
+"dh": "267e6868d162e695",
+"h": 801,
+"jistota": 0.947,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://materska-skola-nebovidy.webnode.cz/",
+"typ": "les",
+"url": "https://092e36b1ef.clvaw-cdnwnd.com/a96ad94a9bb22e7579117de1a3b1f43c/200000000-859d1859d2/DSC_0005.JPG?ph=092e36b1ef",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#95774d",
+"dh": "9f0f1f3f0f1c3c3f",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://materska-skola-nebovidy.webnode.cz/jidelna/",
+"typ": "interier",
+"url": "https://092e36b1ef.clvaw-cdnwnd.com/a96ad94a9bb22e7579117de1a3b1f43c/200000435-cfafccfafe/IMG_5867.jpeg?ph=092e36b1ef",
+"w": 900
 }
 ],
 "materska-skola-oskorinek-515245": [
@@ -687,6 +786,49 @@
 "typ": "budova",
 "url": "http://www.suchonice.cz/image.php?oid=11910230",
 "w": 900
+}
+],
+"materska-skola-valtice-604868": [
+{
+"alt": "Prostor v třídě Veverky v Mateřkské škole Valtice",
+"barva": "#58503d",
+"dh": "2a2b6373393b1f0f",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2OTApLCBxdWFsaXR5ID0gODIK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAQAAQP/xAAiEAEAAgEDAwUAAAAAAAAAAAABAgMABBEhEjFxBRQiUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRMSH/2gAMAwEAAhEDEQA/ABe5g6KXRXNsT4rHt5zaPVyBYO8JOmaeIDv+vHnD032Mdupw2tqOolHhe+Zxgo4N90422BPYkH2bmWCmJJ5cstBpH//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkavaltice.cz/tridy/trida-veverky",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/656f4bf7ef5560da09b2d640/65a55983cfb297661441f339_DSC_0663-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#795d34",
+"dh": "8592b2a28b818999",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkavaltice.cz/tridy/trida-kuratka",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/656f4bf7ef5560da09b2d640/65a5599c22c624a11e3f4673_DSC_0650-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "Umyvadla v třídě Žabičky v Mateřkské škole Valtice",
+"barva": "#62624a",
+"dh": "0ba3890b2fd1e4a8",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkavaltice.cz/tridy/trida-zabicky",
+"typ": "hygiena",
+"url": "https://cdn.prod.website-files.com/656f4bf7ef5560da09b2d640/65a559579fc4ecc118c1f4c4_DSC_0636-scaled.jpg",
+"w": 1200
 }
 ],
 "materska-skola-vesela-skolka-sumperk-633639": [
@@ -1226,6 +1368,23 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-sentice-604043": [
+{
+"alt": "",
+"barva": "#9c825f",
+"dh": "4cce87092569636f",
+"h": 541,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUD/8QAIxAAAgEEAgAHAAAAAAAAAAAAAQIDAAQRIRIiFDFRUmFiof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECESEiMUH/2gAMAwEAAhEDEQA/AMILBpWMs+Y4Q2QjtgnfmTVCawtJddY2AB6sAR8008KhgDlfT61PnuJY1i4MByVc9Rupapt5bG1KF2nhZzEboa9ynP5So19NI907MxJJ2aUyu8dhcX4f/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zs-sentice.cz/smernice-k-vedeni-tridnich-fondu/",
+"typ": "budova",
+"url": "https://zs-sentice.cz/fotky/864/1631741150_614264dea9f6c.png",
+"w": 971
+}
+],
 "zakladni-skola-a-materska-skola-sopotnice-590247": [
 {
 "alt": "",
@@ -1254,6 +1413,62 @@
 "typ": "budova",
 "url": "https://www.zssopotnice.cz/media/ntfexupb/488920292_4054804434754854_7872247671468561067_n.jpg",
 "w": 1102
+}
+],
+"zakladni-skola-a-materska-skola-stadlec-035758": [
+{
+"alt": "Ilustrace budovy mateřské školy Stádlec — žlutý domek s cihlovou střechou a duhou nad vchodem",
+"barva": "#ccb485",
+"dh": "3e99c312918f27a3",
+"h": 733,
+"jistota": 0.83,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACIQAAICAQQCAwEAAAAAAAAAAAECAxEABBIhIhNBMVJhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EABsRAAMAAgMAAAAAAAAAAAAAAAABEQIhAxIT/9oADAMBAAIRAxEAPwBnSrLKxWHUzcDkSICB+XmiaV5mcPLqAFaueob+V6wfytuLMzlm97jd53QTTPAu6aQ1wOxFZix5KoOl2jkERp3rofEPrW6ssClklWRgZZDR+Sxyye7Wgm8btH//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmsstadlec.cz/skolka.html",
+"typ": "budova",
+"url": "https://www.zsmsstadlec.cz/img/skolka-1.png",
+"w": 1100
+},
+{
+"alt": "Třída mateřské školy — kulaté stolky s modrými židličkami, tabule, police s hračkami a koberec pro společné kruhy",
+"barva": "#cea769",
+"dh": "8ef03407d54c1843",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsmsstadlec.cz/skolka.html",
+"typ": "interier",
+"url": "https://www.zsmsstadlec.cz/img/skolka/01-trida.jpg",
+"w": 900
+},
+{
+"alt": "Přírodní vrbový tunel na zahradě mateřské školy pro environmentální výchovu",
+"barva": "#9ea24c",
+"dh": "180f193464f0e6c4",
+"h": 900,
+"jistota": 0.911,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsmsstadlec.cz/skolka.html",
+"typ": "zahrada",
+"url": "https://www.zsmsstadlec.cz/img/skolka/12-tunel.jpg",
+"w": 900
+},
+{
+"alt": "Herna mateřské školy s prostorem pro volnou hru, měkkými prvky a policemi s hračkami",
+"barva": "#d9b87e",
+"dh": "9e64e1cdcf290c14",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.zsmsstadlec.cz/skolka.html",
+"typ": "interier",
+"url": "https://www.zsmsstadlec.cz/img/skolka/02-herna.jpg",
+"w": 900
 }
 ],
 "zakladni-skola-a-materska-skola-tman-014511": [
