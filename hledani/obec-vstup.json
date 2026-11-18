@@ -1,0 +1,7590 @@
+{
+"1-ms-ves-544547": {
+"domeny": [
+"obechornibriza.cz",
+"hornibriza.cz",
+"ouhornibriza.cz",
+"mestohornibriza.cz",
+"obec-horni-briza.cz",
+"horni-briza.cz",
+"ou-horni-briza.cz",
+"mesto-horni-briza.cz",
+"obechorni-briza.cz",
+"mestyshornibriza.cz"
+],
+"ico": "60610778",
+"nazev": "1. MŠ - ves",
+"obec": "Horní Bříza",
+"psc": "330 12",
+"ulice": "Třída",
+"zs": false
+},
+"brana-ss-zs-a-ms-102722": {
+"domeny": [
+"obecnovapaka.cz",
+"novapaka.cz",
+"ounovapaka.cz",
+"mestonovapaka.cz",
+"obec-nova-paka.cz",
+"nova-paka.cz",
+"ou-nova-paka.cz",
+"mesto-nova-paka.cz",
+"obecnova-paka.cz",
+"mestysnovapaka.cz"
+],
+"ico": "71340947",
+"nazev": "Brána,SŠ, ZŠ a MŠ",
+"obec": "Nová Paka",
+"psc": "509 01",
+"ulice": "Heřmanická",
+"zs": false
+},
+"c-i-e-l-materska-skola-055911": {
+"domeny": [
+"obecvsenory.cz",
+"vsenory.cz",
+"ouvsenory.cz",
+"mestovsenory.cz",
+"obec-vsenory.cz",
+"ou-vsenory.cz",
+"mesto-vsenory.cz",
+"mestysvsenory.cz"
+],
+"ico": "24152081",
+"nazev": "C.I.E.L. - Mateřská škola",
+"obec": "Všenory",
+"psc": "252 31",
+"ulice": "Karla Majera",
+"zs": false
+},
+"i-materska-skola-366952": {
+"domeny": [
+"obecmoravskatrebova.cz",
+"moravskatrebova.cz",
+"oumoravskatrebova.cz",
+"mestomoravskatrebova.cz",
+"obec-moravska-trebova.cz",
+"moravska-trebova.cz",
+"ou-moravska-trebova.cz",
+"mesto-moravska-trebova.cz",
+"obecmoravska-trebova.cz",
+"mestysmoravskatrebova.cz"
+],
+"ico": "70880611",
+"nazev": "I. Mateřská škola",
+"obec": "Moravská Třebová",
+"psc": "571 01",
+"ulice": "Sušice",
+"zs": false
+},
+"i-materska-skola-pomezi-283-587201": {
+"domeny": [
+"obecpomezi.cz",
+"pomezi.cz",
+"oupomezi.cz",
+"mestopomezi.cz",
+"obec-pomezi.cz",
+"ou-pomezi.cz",
+"mesto-pomezi.cz",
+"mestyspomezi.cz"
+],
+"ico": "70985791",
+"nazev": "I. Mateřská škola Pomezí 283",
+"obec": "Pomezí",
+"psc": "569 71",
+"ulice": "",
+"zs": false
+},
+"integrovana-zs-a-ms-589672": {
+"domeny": [
+"obecsruby.cz",
+"sruby.cz",
+"ousruby.cz",
+"mestosruby.cz",
+"obec-sruby.cz",
+"ou-sruby.cz",
+"mesto-sruby.cz",
+"mestyssruby.cz"
+],
+"ico": "00856801",
+"nazev": "Integrovaná ZŠ a MŠ",
+"obec": "Sruby",
+"psc": "565 44",
+"ulice": "",
+"zs": false
+},
+"jubilejni-zs-t-g-masaryka-a-ms-609011": {
+"domeny": [
+"obecrusava.cz",
+"rusava.cz",
+"ourusava.cz",
+"mestorusava.cz",
+"obec-rusava.cz",
+"ou-rusava.cz",
+"mesto-rusava.cz",
+"mestysrusava.cz"
+],
+"ico": "75023989",
+"nazev": "Jubilejní ZŠ T.G.Masaryka a MŠ",
+"obec": "Rusava",
+"psc": "768 41",
+"ulice": "",
+"zs": false
+},
+"lesni-materska-skola-085909": {
+"domeny": [
+"obecprobostov.cz",
+"probostov.cz",
+"ouprobostov.cz",
+"mestoprobostov.cz",
+"obec-probostov.cz",
+"ou-probostov.cz",
+"mesto-probostov.cz",
+"mestysprobostov.cz"
+],
+"ico": "03299716",
+"nazev": "Lesní mateřská škola",
+"obec": "Proboštov",
+"psc": "417 12",
+"ulice": "",
+"zs": false
+},
+"lesni-materska-skola-cilek-087766": {
+"domeny": [
+"obecsadska.cz",
+"sadska.cz",
+"ousadska.cz",
+"mestosadska.cz",
+"obec-sadska.cz",
+"ou-sadska.cz",
+"mesto-sadska.cz",
+"mestyssadska.cz"
+],
+"ico": "03202216",
+"nazev": "Lesní mateřská škola Cílek",
+"obec": "Sadská",
+"psc": "289 12",
+"ulice": "parc. č.",
+"zs": false
+},
+"lesni-materska-skola-lechuvka-000768": {
+"domeny": [
+"obeclechovice.cz",
+"lechovice.cz",
+"oulechovice.cz",
+"mestolechovice.cz",
+"obec-lechovice.cz",
+"ou-lechovice.cz",
+"mesto-lechovice.cz",
+"mestyslechovice.cz"
+],
+"ico": "22625968",
+"nazev": "Lesní mateřská škola Lechůvka",
+"obec": "Lechovice",
+"psc": "671 63",
+"ulice": "",
+"zs": false
+},
+"lesni-materska-skola-petrklic-141426": {
+"domeny": [
+"obecobecbzenec.cz",
+"obecbzenec.cz",
+"ouobecbzenec.cz",
+"mestoobecbzenec.cz",
+"obec-obec-bzenec.cz",
+"obec-bzenec.cz",
+"ou-obec-bzenec.cz",
+"mesto-obec-bzenec.cz",
+"obecobec-bzenec.cz",
+"mestysobecbzenec.cz"
+],
+"ico": "21477949",
+"nazev": "Lesní mateřská škola Petrklíč",
+"obec": "obec Bzenec",
+"psc": "696 81",
+"ulice": "pozemek p. č.",
+"zs": false
+},
+"lesni-materska-skola-studanka-086310": {
+"domeny": [
+"obeckublov.cz",
+"kublov.cz",
+"oukublov.cz",
+"mestokublov.cz",
+"obec-kublov.cz",
+"ou-kublov.cz",
+"mesto-kublov.cz",
+"mestyskublov.cz"
+],
+"ico": "06071147",
+"nazev": "Lesní mateřská škola Studánka",
+"obec": "Kublov",
+"psc": "",
+"ulice": "",
+"zs": false
+},
+"lesni-ms-clavicula-093961": {
+"domeny": [
+"obecmodra.cz",
+"modra.cz",
+"oumodra.cz",
+"mestomodra.cz",
+"obec-modra.cz",
+"ou-modra.cz",
+"mesto-modra.cz",
+"mestysmodra.cz"
+],
+"ico": "06393691",
+"nazev": "Lesní MŠ Clavicula",
+"obec": "Modrá",
+"psc": "",
+"ulice": "",
+"zs": false
+},
+"lesni-ms-duhovka-088614": {
+"domeny": [
+"obecvlcice.cz",
+"vlcice.cz",
+"ouvlcice.cz",
+"mestovlcice.cz",
+"obec-vlcice.cz",
+"ou-vlcice.cz",
+"mesto-vlcice.cz",
+"mestysvlcice.cz"
+],
+"ico": "06212751",
+"nazev": "Lesní MŠ Duhovka",
+"obec": "Vlčice",
+"psc": "",
+"ulice": "parcelní číslo",
+"zs": false
+},
+"lms-felbianek-140799": {
+"domeny": [
+"obecfelbabka.cz",
+"felbabka.cz",
+"oufelbabka.cz",
+"mestofelbabka.cz",
+"obec-felbabka.cz",
+"ou-felbabka.cz",
+"mesto-felbabka.cz",
+"mestysfelbabka.cz"
+],
+"ico": "21120897",
+"nazev": "LMŠ Felbiánek",
+"obec": "Felbabka",
+"psc": "268 01",
+"ulice": "parc. č.",
+"zs": false
+},
+"masarykova-zakladni-skola-a-ms-036698": {
+"domeny": [
+"obecbobnice.cz",
+"bobnice.cz",
+"oubobnice.cz",
+"mestobobnice.cz",
+"obec-bobnice.cz",
+"ou-bobnice.cz",
+"mesto-bobnice.cz",
+"mestysbobnice.cz"
+],
+"ico": "75034158",
+"nazev": "Masarykova základní škola a MŠ",
+"obec": "Bobnice",
+"psc": "289 31",
+"ulice": "Kovanská",
+"zs": true
+},
+"masarykova-zs-a-ms-585481": {
+"domeny": [
+"obeccermnanadorlici.cz",
+"cermnanadorlici.cz",
+"oucermnanadorlici.cz",
+"mestocermnanadorlici.cz",
+"obec-cermna-nad-orlici.cz",
+"cermna-nad-orlici.cz",
+"ou-cermna-nad-orlici.cz",
+"mesto-cermna-nad-orlici.cz",
+"obeccermna-nad-orlici.cz",
+"mestyscermnanadorlici.cz"
+],
+"ico": "75017971",
+"nazev": "Masarykova ZŠ a MŠ",
+"obec": "Čermná nad Orlicí",
+"psc": "517 25",
+"ulice": "Malá Čermná",
+"zs": false
+},
+"masarykova-zs-a-ms-586347": {
+"domeny": [
+"obectatobity.cz",
+"tatobity.cz",
+"outatobity.cz",
+"mestotatobity.cz",
+"obec-tatobity.cz",
+"ou-tatobity.cz",
+"mesto-tatobity.cz",
+"mestystatobity.cz"
+],
+"ico": "70986088",
+"nazev": "Masarykova ZŠ a MŠ",
+"obec": "Tatobity",
+"psc": "512 53",
+"ulice": "",
+"zs": false
+},
+"masarykova-zs-a-ms-kunvald-589451": {
+"domeny": [
+"obeckunvald.cz",
+"kunvald.cz",
+"oukunvald.cz",
+"mestokunvald.cz",
+"obec-kunvald.cz",
+"ou-kunvald.cz",
+"mesto-kunvald.cz",
+"mestyskunvald.cz"
+],
+"ico": "70985855",
+"nazev": "Masarykova ZŠ a MŠ Kunvald",
+"obec": "Kunvald",
+"psc": "561 81",
+"ulice": "",
+"zs": false
+},
+"mater-skola-zakl-skola-a-prakt-skola-003608": {
+"domeny": [
+"obectrutnov.cz",
+"trutnov.cz",
+"outrutnov.cz",
+"mestotrutnov.cz",
+"obec-trutnov.cz",
+"ou-trutnov.cz",
+"mesto-trutnov.cz",
+"mestystrutnov.cz"
+],
+"ico": "70841179",
+"nazev": "Mateř. škola, Zákl. škola a Prakt. škola",
+"obec": "Trutnov",
+"psc": "541 01",
+"ulice": "Maxima Gorkého",
+"zs": false
+},
+"materska-skola-a-sj-565382": {
+"domeny": [
+"obeckresin.cz",
+"kresin.cz",
+"oukresin.cz",
+"mestokresin.cz",
+"obec-kresin.cz",
+"ou-kresin.cz",
+"mesto-kresin.cz",
+"mestyskresin.cz"
+],
+"ico": "72742283",
+"nazev": "Mateřská škola a ŠJ",
+"obec": "Křesín",
+"psc": "410 02",
+"ulice": "",
+"zs": false
+},
+"materska-skola-bambinarium-104316": {
+"domeny": [
+"obecrevnice.cz",
+"revnice.cz",
+"ourevnice.cz",
+"mestorevnice.cz",
+"obec-revnice.cz",
+"ou-revnice.cz",
+"mesto-revnice.cz",
+"mestysrevnice.cz"
+],
+"ico": "71340866",
+"nazev": "Mateřská škola Bambinárium",
+"obec": "Řevnice",
+"psc": "252 30",
+"ulice": "Čs. armády",
+"zs": false
+},
+"materska-skola-benatky-586981": {
+"domeny": [
+"obecbenatky.cz",
+"benatky.cz",
+"oubenatky.cz",
+"mestobenatky.cz",
+"obec-benatky.cz",
+"ou-benatky.cz",
+"mesto-benatky.cz",
+"mestysbenatky.cz"
+],
+"ico": "70189005",
+"nazev": "Mateřská škola Benátky",
+"obec": "Benátky",
+"psc": "570 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-beranek-608791": {
+"domeny": [
+"obecmalyberanov.cz",
+"malyberanov.cz",
+"oumalyberanov.cz",
+"mestomalyberanov.cz",
+"obec-maly-beranov.cz",
+"maly-beranov.cz",
+"ou-maly-beranov.cz",
+"mesto-maly-beranov.cz",
+"obecmaly-beranov.cz",
+"mestysmalyberanov.cz"
+],
+"ico": "71002375",
+"nazev": "Mateřská škola Beránek",
+"obec": "Malý Beranov",
+"psc": "586 03",
+"ulice": "",
+"zs": false
+},
+"materska-skola-bezkov-614731": {
+"domeny": [
+"obecbezkov.cz",
+"bezkov.cz",
+"oubezkov.cz",
+"mestobezkov.cz",
+"obec-bezkov.cz",
+"ou-bezkov.cz",
+"mesto-bezkov.cz",
+"mestysbezkov.cz"
+],
+"ico": "71008713",
+"nazev": "Mateřská škola Bezkov",
+"obec": "Bezkov",
+"psc": "669 02",
+"ulice": "",
+"zs": false
+},
+"materska-skola-blatna-100608": {
+"domeny": [
+"obecblatna.cz",
+"blatna.cz",
+"oublatna.cz",
+"mestoblatna.cz",
+"obec-blatna.cz",
+"ou-blatna.cz",
+"mesto-blatna.cz",
+"mestysblatna.cz"
+],
+"ico": "75048523",
+"nazev": "Mateřská škola Blatná, U Jeslí",
+"obec": "Blatná",
+"psc": "388 01",
+"ulice": "U Jeslí",
+"zs": false
+},
+"materska-skola-bobrova-616068": {
+"domeny": [
+"obecbobrova.cz",
+"bobrova.cz",
+"oubobrova.cz",
+"mestobobrova.cz",
+"obec-bobrova.cz",
+"ou-bobrova.cz",
+"mesto-bobrova.cz",
+"mestysbobrova.cz"
+],
+"ico": "71011889",
+"nazev": "Mateřská škola Bobrová",
+"obec": "Bobrová",
+"psc": "592 55",
+"ulice": "",
+"zs": false
+},
+"materska-skola-bojkovice-612283": {
+"domeny": [
+"obecbojkovice.cz",
+"bojkovice.cz",
+"oubojkovice.cz",
+"mestobojkovice.cz",
+"obec-bojkovice.cz",
+"ou-bojkovice.cz",
+"mesto-bojkovice.cz",
+"mestysbojkovice.cz"
+],
+"ico": "75020726",
+"nazev": "Mateřská škola Bojkovice",
+"obec": "Bojkovice",
+"psc": "687 71",
+"ulice": "Čtvrť",
+"zs": false
+},
+"materska-skola-borotice-000018": {
+"domeny": [
+"obecborotice.cz",
+"borotice.cz",
+"ouborotice.cz",
+"mestoborotice.cz",
+"obec-borotice.cz",
+"ou-borotice.cz",
+"mesto-borotice.cz",
+"mestysborotice.cz"
+],
+"ico": "75033259",
+"nazev": "Mateřská škola Borotice",
+"obec": "Borotice",
+"psc": "262 15",
+"ulice": "",
+"zs": false
+},
+"materska-skola-brezany-ii-512465": {
+"domeny": [
+"obecbrezanyii.cz",
+"brezanyii.cz",
+"oubrezanyii.cz",
+"mestobrezanyii.cz",
+"obec-brezany-ii.cz",
+"brezany-ii.cz",
+"ou-brezany-ii.cz",
+"mesto-brezany-ii.cz",
+"obecbrezany-ii.cz",
+"mestysbrezanyii.cz"
+],
+"ico": "70989796",
+"nazev": "Mateřská škola Břežany II.",
+"obec": "Břežany II",
+"psc": "282 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-brezova-olesko-086387": {
+"domeny": [
+"obecbrezovaolesko.cz",
+"brezovaolesko.cz",
+"oubrezovaolesko.cz",
+"mestobrezovaolesko.cz",
+"obec-brezova-olesko.cz",
+"brezova-olesko.cz",
+"ou-brezova-olesko.cz",
+"mesto-brezova-olesko.cz",
+"obecbrezova-olesko.cz",
+"mestysbrezovaolesko.cz"
+],
+"ico": "05915279",
+"nazev": "Mateřská škola Březová - Oleško",
+"obec": "Březová-Oleško",
+"psc": "252 45",
+"ulice": "Ke Křížku",
+"zs": false
+},
+"materska-skola-brod-nad-dyji-604485": {
+"domeny": [
+"obecbrodnaddyji.cz",
+"brodnaddyji.cz",
+"oubrodnaddyji.cz",
+"mestobrodnaddyji.cz",
+"obec-brod-nad-dyji.cz",
+"brod-nad-dyji.cz",
+"ou-brod-nad-dyji.cz",
+"mesto-brod-nad-dyji.cz",
+"obecbrod-nad-dyji.cz",
+"mestysbrodnaddyji.cz"
+],
+"ico": "70988668",
+"nazev": "Mateřská škola Brod nad Dyjí",
+"obec": "Brod nad Dyjí",
+"psc": "691 81",
+"ulice": "",
+"zs": false
+},
+"materska-skola-budisov-019871": {
+"domeny": [
+"obecbudisov.cz",
+"budisov.cz",
+"oubudisov.cz",
+"mestobudisov.cz",
+"obec-budisov.cz",
+"ou-budisov.cz",
+"mesto-budisov.cz",
+"mestysbudisov.cz"
+],
+"ico": "70987769",
+"nazev": "Mateřská škola Budišov",
+"obec": "Budišov",
+"psc": "675 03",
+"ulice": "",
+"zs": false
+},
+"materska-skola-budyne-nad-ohri-565188": {
+"domeny": [
+"obecbudynenadohri.cz",
+"budynenadohri.cz",
+"oubudynenadohri.cz",
+"mestobudynenadohri.cz",
+"obec-budyne-nad-ohri.cz",
+"budyne-nad-ohri.cz",
+"ou-budyne-nad-ohri.cz",
+"mesto-budyne-nad-ohri.cz",
+"obecbudyne-nad-ohri.cz",
+"mestysbudynenadohri.cz"
+],
+"ico": "72742721",
+"nazev": "Mateřská škola Budyně nad Ohří",
+"obec": "Budyně nad Ohří",
+"psc": "411 18",
+"ulice": "Ladova",
+"zs": false
+},
+"materska-skola-bykovice-600641": {
+"domeny": [
+"obecbykovice.cz",
+"bykovice.cz",
+"oubykovice.cz",
+"mestobykovice.cz",
+"obec-bykovice.cz",
+"ou-bykovice.cz",
+"mesto-bykovice.cz",
+"mestysbykovice.cz"
+],
+"ico": "71011188",
+"nazev": "Mateřská škola Býkovice",
+"obec": "Býkovice",
+"psc": "679 71",
+"ulice": "",
+"zs": false
+},
+"materska-skola-bzany-567946": {
+"domeny": [
+"obecbzany.cz",
+"bzany.cz",
+"oubzany.cz",
+"mestobzany.cz",
+"obec-bzany.cz",
+"ou-bzany.cz",
+"mesto-bzany.cz",
+"mestysbzany.cz"
+],
+"ico": "72745363",
+"nazev": "Mateřská škola Bžany",
+"obec": "Bžany",
+"psc": "415 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-cechtice-510430": {
+"domeny": [
+"obeccechtice.cz",
+"cechtice.cz",
+"oucechtice.cz",
+"mestocechtice.cz",
+"obec-cechtice.cz",
+"ou-cechtice.cz",
+"mesto-cechtice.cz",
+"mestyscechtice.cz"
+],
+"ico": "70996920",
+"nazev": "Mateřská škola Čechtice",
+"obec": "Čechtice",
+"psc": "257 65",
+"ulice": "Na Lázni",
+"zs": false
+},
+"materska-skola-cechtin-611864": {
+"domeny": [
+"obeccechtin.cz",
+"cechtin.cz",
+"oucechtin.cz",
+"mestocechtin.cz",
+"obec-cechtin.cz",
+"ou-cechtin.cz",
+"mesto-cechtin.cz",
+"mestyscechtin.cz"
+],
+"ico": "75002876",
+"nazev": "Mateřská škola Čechtín",
+"obec": "Čechtín",
+"psc": "675 07",
+"ulice": "",
+"zs": false
+},
+"materska-skola-cervena-recice-306-533553": {
+"domeny": [
+"obeccervenarecice.cz",
+"cervenarecice.cz",
+"oucervenarecice.cz",
+"mestocervenarecice.cz",
+"obec-cervena-recice.cz",
+"cervena-recice.cz",
+"ou-cervena-recice.cz",
+"mesto-cervena-recice.cz",
+"obeccervena-recice.cz",
+"mestyscervenarecice.cz"
+],
+"ico": "75000962",
+"nazev": "Mateřská škola Červená Řečice 306",
+"obec": "Červená Řečice",
+"psc": "394 46",
+"ulice": "",
+"zs": false
+},
+"materska-skola-chlumcany-566265": {
+"domeny": [
+"obecchlumcany.cz",
+"chlumcany.cz",
+"ouchlumcany.cz",
+"mestochlumcany.cz",
+"obec-chlumcany.cz",
+"ou-chlumcany.cz",
+"mesto-chlumcany.cz",
+"mestyschlumcany.cz"
+],
+"ico": "72741775",
+"nazev": "Mateřská škola Chlumčany",
+"obec": "Chlumčany",
+"psc": "439 03",
+"ulice": "",
+"zs": false
+},
+"materska-skola-chomyz-608995": {
+"domeny": [
+"obecchomyz.cz",
+"chomyz.cz",
+"ouchomyz.cz",
+"mestochomyz.cz",
+"obec-chomyz.cz",
+"ou-chomyz.cz",
+"mesto-chomyz.cz",
+"mestyschomyz.cz"
+],
+"ico": "75021862",
+"nazev": "Mateřská škola Chomýž",
+"obec": "Chomýž",
+"psc": "768 61",
+"ulice": "",
+"zs": false
+},
+"materska-skola-chotesov-544008": {
+"domeny": [
+"obecchotesov.cz",
+"chotesov.cz",
+"ouchotesov.cz",
+"mestochotesov.cz",
+"obec-chotesov.cz",
+"ou-chotesov.cz",
+"mesto-chotesov.cz",
+"mestyschotesov.cz"
+],
+"ico": "70947716",
+"nazev": "Mateřská škola Chotěšov",
+"obec": "Chotěšov",
+"psc": "332 14",
+"ulice": "Luční",
+"zs": false
+},
+"materska-skola-chroboly-534495": {
+"domeny": [
+"obecchroboly.cz",
+"chroboly.cz",
+"ouchroboly.cz",
+"mestochroboly.cz",
+"obec-chroboly.cz",
+"ou-chroboly.cz",
+"mesto-chroboly.cz",
+"mestyschroboly.cz"
+],
+"ico": "75001667",
+"nazev": "Mateřská škola Chroboly",
+"obec": "Chroboly",
+"psc": "384 04",
+"ulice": "",
+"zs": false
+},
+"materska-skola-chromec-632101": {
+"domeny": [
+"obecchromec.cz",
+"chromec.cz",
+"ouchromec.cz",
+"mestochromec.cz",
+"obec-chromec.cz",
+"ou-chromec.cz",
+"mesto-chromec.cz",
+"mestyschromec.cz"
+],
+"ico": "70985243",
+"nazev": "Mateřská škola Chromeč",
+"obec": "Chromeč",
+"psc": "789 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-cvrcovice-511223": {
+"domeny": [
+"obeccvrcovice.cz",
+"cvrcovice.cz",
+"oucvrcovice.cz",
+"mestocvrcovice.cz",
+"obec-cvrcovice.cz",
+"ou-cvrcovice.cz",
+"mesto-cvrcovice.cz",
+"mestyscvrcovice.cz"
+],
+"ico": "75031086",
+"nazev": "Mateřská škola Cvrčovice",
+"obec": "Cvrčovice",
+"psc": "273 41",
+"ulice": "Sokolská",
+"zs": false
+},
+"materska-skola-cvrcovice-604507": {
+"domeny": [
+"obeccvrcovice.cz",
+"cvrcovice.cz",
+"oucvrcovice.cz",
+"mestocvrcovice.cz",
+"obec-cvrcovice.cz",
+"ou-cvrcovice.cz",
+"mesto-cvrcovice.cz",
+"mestyscvrcovice.cz"
+],
+"ico": "75022613",
+"nazev": "Mateřská škola Cvrčovice",
+"obec": "Cvrčovice",
+"psc": "691 23",
+"ulice": "",
+"zs": false
+},
+"materska-skola-detrichov-u-moravske-trebove-587571": {
+"domeny": [
+"obecdetrichovumoravsketrebove.cz",
+"detrichovumoravsketrebove.cz",
+"oudetrichovumoravsketrebove.cz",
+"mestodetrichovumoravsketrebove.cz",
+"obec-detrichov-u-moravske-trebove.cz",
+"detrichov-u-moravske-trebove.cz",
+"ou-detrichov-u-moravske-trebove.cz",
+"mesto-detrichov-u-moravske-trebove.cz",
+"obecdetrichov-u-moravske-trebove.cz",
+"mestysdetrichovumoravsketrebove.cz"
+],
+"ico": "70999414",
+"nazev": "Mateřská škola Dětřichov u Moravské Třebové",
+"obec": "Dětřichov u Moravské Třebové",
+"psc": "571 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-dobev-053296": {
+"domeny": [
+"obecdobev.cz",
+"dobev.cz",
+"oudobev.cz",
+"mestodobev.cz",
+"obec-dobev.cz",
+"ou-dobev.cz",
+"mesto-dobev.cz",
+"mestysdobev.cz"
+],
+"ico": "71005994",
+"nazev": "Mateřská škola Dobev",
+"obec": "Dobev",
+"psc": "397 01",
+"ulice": "Oldřichov",
+"zs": false
+},
+"materska-skola-dolni-chvatliny-512554": {
+"domeny": [
+"obecdolnichvatliny.cz",
+"dolnichvatliny.cz",
+"oudolnichvatliny.cz",
+"mestodolnichvatliny.cz",
+"obec-dolni-chvatliny.cz",
+"dolni-chvatliny.cz",
+"ou-dolni-chvatliny.cz",
+"mesto-dolni-chvatliny.cz",
+"obecdolni-chvatliny.cz",
+"mestysdolnichvatliny.cz"
+],
+"ico": "75034140",
+"nazev": "Mateřská škola Dolní Chvatliny",
+"obec": "Dolní Chvatliny",
+"psc": "281 44",
+"ulice": "",
+"zs": false
+},
+"materska-skola-domasov-u-sternberka-627400": {
+"domeny": [
+"obecdomasovusternberka.cz",
+"domasovusternberka.cz",
+"oudomasovusternberka.cz",
+"mestodomasovusternberka.cz",
+"obec-domasov-u-sternberka.cz",
+"domasov-u-sternberka.cz",
+"ou-domasov-u-sternberka.cz",
+"mesto-domasov-u-sternberka.cz",
+"obecdomasov-u-sternberka.cz",
+"mestysdomasovusternberka.cz"
+],
+"ico": "71000674",
+"nazev": "Mateřská škola Domašov u Šternberka",
+"obec": "Domašov u Šternberka",
+"psc": "785 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-doubravice-nad-svitavou-600161": {
+"domeny": [
+"obecdoubravicenadsvitavou.cz",
+"doubravicenadsvitavou.cz",
+"oudoubravicenadsvitavou.cz",
+"mestodoubravicenadsvitavou.cz",
+"obec-doubravice-nad-svitavou.cz",
+"doubravice-nad-svitavou.cz",
+"ou-doubravice-nad-svitavou.cz",
+"mesto-doubravice-nad-svitavou.cz",
+"obecdoubravice-nad-svitavou.cz",
+"mestysdoubravicenadsvitavou.cz"
+],
+"ico": "62072765",
+"nazev": "Mateřská škola Doubravice nad Svitavou",
+"obec": "Doubravice nad Svitavou",
+"psc": "679 11",
+"ulice": "Dolní",
+"zs": false
+},
+"materska-skola-drhovy-087472": {
+"domeny": [
+"obecdrhovy.cz",
+"drhovy.cz",
+"oudrhovy.cz",
+"mestodrhovy.cz",
+"obec-drhovy.cz",
+"ou-drhovy.cz",
+"mesto-drhovy.cz",
+"mestysdrhovy.cz"
+],
+"ico": "06263232",
+"nazev": "Mateřská škola Drhovy",
+"obec": "Drhovy",
+"psc": "263 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-dubovice-036339": {
+"domeny": [
+"obecdubovice.cz",
+"dubovice.cz",
+"oudubovice.cz",
+"mestodubovice.cz",
+"obec-dubovice.cz",
+"ou-dubovice.cz",
+"mesto-dubovice.cz",
+"mestysdubovice.cz"
+],
+"ico": "71342222",
+"nazev": "Mateřská škola Dubovice",
+"obec": "Dubovice",
+"psc": "393 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-duha-013860": {
+"domeny": [
+"obectrebusice.cz",
+"trebusice.cz",
+"outrebusice.cz",
+"mestotrebusice.cz",
+"obec-trebusice.cz",
+"ou-trebusice.cz",
+"mesto-trebusice.cz",
+"mestystrebusice.cz"
+],
+"ico": "72035285",
+"nazev": "Mateřská škola DUHA",
+"obec": "Třebusice",
+"psc": "273 41",
+"ulice": "",
+"zs": false
+},
+"materska-skola-duha-634554": {
+"domeny": [
+"obeczubri.cz",
+"zubri.cz",
+"ouzubri.cz",
+"mestozubri.cz",
+"obec-zubri.cz",
+"ou-zubri.cz",
+"mesto-zubri.cz",
+"mestyszubri.cz"
+],
+"ico": "70874590",
+"nazev": "Mateřská škola DUHA",
+"obec": "Zubří",
+"psc": "756 54",
+"ulice": "Na Potoku",
+"zs": false
+},
+"materska-skola-erpuzice-546736": {
+"domeny": [
+"obecerpuzice.cz",
+"erpuzice.cz",
+"ouerpuzice.cz",
+"mestoerpuzice.cz",
+"obec-erpuzice.cz",
+"ou-erpuzice.cz",
+"mesto-erpuzice.cz",
+"mestyserpuzice.cz"
+],
+"ico": "60611766",
+"nazev": "Mateřská škola Erpužice",
+"obec": "Erpužice",
+"psc": "349 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-francova-lhota-633817": {
+"domeny": [
+"obecfrancovalhota.cz",
+"francovalhota.cz",
+"oufrancovalhota.cz",
+"mestofrancovalhota.cz",
+"obec-francova-lhota.cz",
+"francova-lhota.cz",
+"ou-francova-lhota.cz",
+"mesto-francova-lhota.cz",
+"obecfrancova-lhota.cz",
+"mestysfrancovalhota.cz"
+],
+"ico": "70984085",
+"nazev": "Mateřská škola Francova Lhota",
+"obec": "Francova Lhota",
+"psc": "756 14",
+"ulice": "",
+"zs": false
+},
+"materska-skola-hlinsko-582635": {
+"domeny": [
+"obechlinsko.cz",
+"hlinsko.cz",
+"ouhlinsko.cz",
+"mestohlinsko.cz",
+"obec-hlinsko.cz",
+"ou-hlinsko.cz",
+"mesto-hlinsko.cz",
+"mestyshlinsko.cz"
+],
+"ico": "70971269",
+"nazev": "Mateřská škola Hlinsko, Rubešova",
+"obec": "Hlinsko",
+"psc": "539 01",
+"ulice": "Rubešova",
+"zs": false
+},
+"materska-skola-hlizov-101-512874": {
+"domeny": [
+"obechlizov.cz",
+"hlizov.cz",
+"ouhlizov.cz",
+"mestohlizov.cz",
+"obec-hlizov.cz",
+"ou-hlizov.cz",
+"mesto-hlizov.cz",
+"mestyshlizov.cz"
+],
+"ico": "75031167",
+"nazev": "Mateřská škola Hlízov 101",
+"obec": "Hlízov",
+"psc": "285 32",
+"ulice": "",
+"zs": false
+},
+"materska-skola-hluboka-nad-vltavou-000182": {
+"domeny": [
+"obechlubokanadvltavou.cz",
+"hlubokanadvltavou.cz",
+"ouhlubokanadvltavou.cz",
+"mestohlubokanadvltavou.cz",
+"obec-hluboka-nad-vltavou.cz",
+"hluboka-nad-vltavou.cz",
+"ou-hluboka-nad-vltavou.cz",
+"mesto-hluboka-nad-vltavou.cz",
+"obechluboka-nad-vltavou.cz",
+"mestyshlubokanadvltavou.cz"
+],
+"ico": "75000181",
+"nazev": "Mateřská škola Hluboká nad Vltavou",
+"obec": "Hluboká nad Vltavou",
+"psc": "373 41",
+"ulice": "Ruská",
+"zs": false
+},
+"materska-skola-holasovice-628597": {
+"domeny": [
+"obecholasovice.cz",
+"holasovice.cz",
+"ouholasovice.cz",
+"mestoholasovice.cz",
+"obec-holasovice.cz",
+"ou-holasovice.cz",
+"mesto-holasovice.cz",
+"mestysholasovice.cz"
+],
+"ico": "70997829",
+"nazev": "Mateřská škola Holasovice",
+"obec": "Holasovice",
+"psc": "747 74",
+"ulice": "Loděnice",
+"zs": false
+},
+"materska-skola-holesov-609037": {
+"domeny": [
+"obecholesov.cz",
+"holesov.cz",
+"ouholesov.cz",
+"mestoholesov.cz",
+"obec-holesov.cz",
+"ou-holesov.cz",
+"mesto-holesov.cz",
+"mestysholesov.cz"
+],
+"ico": "70998892",
+"nazev": "Mateřská škola Holešov, Grohova",
+"obec": "Holešov",
+"psc": "769 01",
+"ulice": "Grohova",
+"zs": false
+},
+"materska-skola-horesedly-518007": {
+"domeny": [
+"obechoresedly.cz",
+"horesedly.cz",
+"ouhoresedly.cz",
+"mestohoresedly.cz",
+"obec-horesedly.cz",
+"ou-horesedly.cz",
+"mesto-horesedly.cz",
+"mestyshoresedly.cz"
+],
+"ico": "71004521",
+"nazev": "Mateřská škola Hořesedly",
+"obec": "Hořesedly",
+"psc": "270 04",
+"ulice": "",
+"zs": false
+},
+"materska-skola-horni-bojanovice-604558": {
+"domeny": [
+"obechornibojanovice.cz",
+"hornibojanovice.cz",
+"ouhornibojanovice.cz",
+"mestohornibojanovice.cz",
+"obec-horni-bojanovice.cz",
+"horni-bojanovice.cz",
+"ou-horni-bojanovice.cz",
+"mesto-horni-bojanovice.cz",
+"obechorni-bojanovice.cz",
+"mestyshornibojanovice.cz"
+],
+"ico": "75020505",
+"nazev": "Mateřská škola Horní Bojanovice",
+"obec": "Horní Bojanovice",
+"psc": "693 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-horni-krupa-580063": {
+"domeny": [
+"obechornikrupa.cz",
+"hornikrupa.cz",
+"ouhornikrupa.cz",
+"mestohornikrupa.cz",
+"obec-horni-krupa.cz",
+"horni-krupa.cz",
+"ou-horni-krupa.cz",
+"mesto-horni-krupa.cz",
+"obechorni-krupa.cz",
+"mestyshornikrupa.cz"
+],
+"ico": "70986720",
+"nazev": "Mateřská škola Horní Krupá",
+"obec": "Horní Krupá",
+"psc": "580 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-horni-lhota-605775": {
+"domeny": [
+"obechornilhota.cz",
+"hornilhota.cz",
+"ouhornilhota.cz",
+"mestohornilhota.cz",
+"obec-horni-lhota.cz",
+"horni-lhota.cz",
+"ou-horni-lhota.cz",
+"mesto-horni-lhota.cz",
+"obechorni-lhota.cz",
+"mestyshornilhota.cz"
+],
+"ico": "75020611",
+"nazev": "Mateřská škola Horní Lhota",
+"obec": "Horní Lhota",
+"psc": "763 23",
+"ulice": "",
+"zs": false
+},
+"materska-skola-horni-radechova-584026": {
+"domeny": [
+"obechorniradechova.cz",
+"horniradechova.cz",
+"ouhorniradechova.cz",
+"mestohorniradechova.cz",
+"obec-horni-radechova.cz",
+"horni-radechova.cz",
+"ou-horni-radechova.cz",
+"mesto-horni-radechova.cz",
+"obechorni-radechova.cz",
+"mestyshorniradechova.cz"
+],
+"ico": "75016397",
+"nazev": "Mateřská škola Horní Radechová",
+"obec": "Horní Radechová",
+"psc": "549 46",
+"ulice": "",
+"zs": false
+},
+"materska-skola-horni-slavkov-546060": {
+"domeny": [
+"obechornislavkov.cz",
+"hornislavkov.cz",
+"ouhornislavkov.cz",
+"mestohornislavkov.cz",
+"obec-horni-slavkov.cz",
+"horni-slavkov.cz",
+"ou-horni-slavkov.cz",
+"mesto-horni-slavkov.cz",
+"obechorni-slavkov.cz",
+"mestyshornislavkov.cz"
+],
+"ico": "75005506",
+"nazev": "Mateřská škola Horní Slavkov",
+"obec": "Horní Slavkov",
+"psc": "357 31",
+"ulice": "Sportovní",
+"zs": false
+},
+"materska-skola-hosteradky-resov-613905": {
+"domeny": [
+"obechosteradkyresov.cz",
+"hosteradkyresov.cz",
+"ouhosteradkyresov.cz",
+"mestohosteradkyresov.cz",
+"obec-hosteradky-resov.cz",
+"hosteradky-resov.cz",
+"ou-hosteradky-resov.cz",
+"mesto-hosteradky-resov.cz",
+"obechosteradky-resov.cz",
+"mestyshosteradkyresov.cz"
+],
+"ico": "71005048",
+"nazev": "Mateřská škola Hostěrádky-Rešov",
+"obec": "Hostěrádky-Rešov",
+"psc": "683 52",
+"ulice": "Hostěrádky-Rešov",
+"zs": false
+},
+"materska-skola-hostice-heroltice-613301": {
+"domeny": [
+"obechosticeheroltice.cz",
+"hosticeheroltice.cz",
+"ouhosticeheroltice.cz",
+"mestohosticeheroltice.cz",
+"obec-hostice-heroltice.cz",
+"hostice-heroltice.cz",
+"ou-hostice-heroltice.cz",
+"mesto-hostice-heroltice.cz",
+"obechostice-heroltice.cz",
+"mestyshosticeheroltice.cz"
+],
+"ico": "70987637",
+"nazev": "Mateřská škola Hoštice-Heroltice",
+"obec": "Hoštice-Heroltice",
+"psc": "682 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-hostomice-568578": {
+"domeny": [
+"obechostomice.cz",
+"hostomice.cz",
+"ouhostomice.cz",
+"mestohostomice.cz",
+"obec-hostomice.cz",
+"ou-hostomice.cz",
+"mesto-hostomice.cz",
+"mestyshostomice.cz"
+],
+"ico": "72745240",
+"nazev": "Mateřská škola Hostomice",
+"obec": "Hostomice",
+"psc": "417 52",
+"ulice": "Husova",
+"zs": false
+},
+"materska-skola-hovezi-633914": {
+"domeny": [
+"obechovezi.cz",
+"hovezi.cz",
+"ouhovezi.cz",
+"mestohovezi.cz",
+"obec-hovezi.cz",
+"ou-hovezi.cz",
+"mesto-hovezi.cz",
+"mestyshovezi.cz"
+],
+"ico": "70873828",
+"nazev": "Mateřská škola Hovězí",
+"obec": "Hovězí",
+"psc": "756 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-hradiskova-590123": {
+"domeny": [
+"obecjablonnenadorlici.cz",
+"jablonnenadorlici.cz",
+"oujablonnenadorlici.cz",
+"mestojablonnenadorlici.cz",
+"obec-jablonne-nad-orlici.cz",
+"jablonne-nad-orlici.cz",
+"ou-jablonne-nad-orlici.cz",
+"mesto-jablonne-nad-orlici.cz",
+"obecjablonne-nad-orlici.cz",
+"mestysjablonnenadorlici.cz"
+],
+"ico": "70984948",
+"nazev": "Mateřská škola Hradisková",
+"obec": "Jablonné nad Orlicí",
+"psc": "561 64",
+"ulice": "Hradisková",
+"zs": false
+},
+"materska-skola-hribatka-kladruby-nad-labem-585146": {
+"domeny": [
+"obeckladrubynadlabem.cz",
+"kladrubynadlabem.cz",
+"oukladrubynadlabem.cz",
+"mestokladrubynadlabem.cz",
+"obec-kladruby-nad-labem.cz",
+"kladruby-nad-labem.cz",
+"ou-kladruby-nad-labem.cz",
+"mesto-kladruby-nad-labem.cz",
+"obeckladruby-nad-labem.cz",
+"mestyskladrubynadlabem.cz"
+],
+"ico": "70987084",
+"nazev": "Mateřská škola Hříbátka Kladruby nad Labem",
+"obec": "Kladruby nad Labem",
+"psc": "533 14",
+"ulice": "",
+"zs": false
+},
+"materska-skola-hrobice-606054": {
+"domeny": [
+"obechrobice.cz",
+"hrobice.cz",
+"ouhrobice.cz",
+"mestohrobice.cz",
+"obec-hrobice.cz",
+"ou-hrobice.cz",
+"mesto-hrobice.cz",
+"mestyshrobice.cz"
+],
+"ico": "75021561",
+"nazev": "Mateřská škola Hrobice",
+"obec": "Hrobice",
+"psc": "763 15",
+"ulice": "",
+"zs": false
+},
+"materska-skola-hrusovany-15-562341": {
+"domeny": [
+"obechrusovany.cz",
+"hrusovany.cz",
+"ouhrusovany.cz",
+"mestohrusovany.cz",
+"obec-hrusovany.cz",
+"ou-hrusovany.cz",
+"mesto-hrusovany.cz",
+"mestyshrusovany.cz"
+],
+"ico": "70694966",
+"nazev": "Mateřská škola Hrušovany 15",
+"obec": "Hrušovany",
+"psc": "431 43",
+"ulice": "",
+"zs": false
+},
+"materska-skola-i-606879": {
+"domeny": [
+"obecdubnany.cz",
+"dubnany.cz",
+"oudubnany.cz",
+"mestodubnany.cz",
+"obec-dubnany.cz",
+"ou-dubnany.cz",
+"mesto-dubnany.cz",
+"mestysdubnany.cz"
+],
+"ico": "75022524",
+"nazev": "Mateřská škola I",
+"obec": "Dubňany",
+"psc": "696 03",
+"ulice": "Hornická",
+"zs": false
+},
+"materska-skola-ivan-610396": {
+"domeny": [
+"obecivan.cz",
+"ivan.cz",
+"ouivan.cz",
+"mestoivan.cz",
+"obec-ivan.cz",
+"ou-ivan.cz",
+"mesto-ivan.cz",
+"mestysivan.cz"
+],
+"ico": "75023113",
+"nazev": "Mateřská škola Ivaň",
+"obec": "Ivaň",
+"psc": "798 23",
+"ulice": "",
+"zs": false
+},
+"materska-skola-jakubov-000074": {
+"domeny": [
+"obecvojkovice.cz",
+"vojkovice.cz",
+"ouvojkovice.cz",
+"mestovojkovice.cz",
+"obec-vojkovice.cz",
+"ou-vojkovice.cz",
+"mesto-vojkovice.cz",
+"mestysvojkovice.cz"
+],
+"ico": "71181709",
+"nazev": "Mateřská škola Jakubov",
+"obec": "Vojkovice",
+"psc": "363 01",
+"ulice": "Jakubov",
+"zs": false
+},
+"materska-skola-jamy-615568": {
+"domeny": [
+"obecjamy.cz",
+"jamy.cz",
+"oujamy.cz",
+"mestojamy.cz",
+"obec-jamy.cz",
+"ou-jamy.cz",
+"mesto-jamy.cz",
+"mestysjamy.cz"
+],
+"ico": "71011790",
+"nazev": "Mateřská škola Jámy",
+"obec": "Jámy",
+"psc": "592 32",
+"ulice": "",
+"zs": false
+},
+"materska-skola-janovice-nad-uhlavou-542498": {
+"domeny": [
+"obecjanovicenaduhlavou.cz",
+"janovicenaduhlavou.cz",
+"oujanovicenaduhlavou.cz",
+"mestojanovicenaduhlavou.cz",
+"obec-janovice-nad-uhlavou.cz",
+"janovice-nad-uhlavou.cz",
+"ou-janovice-nad-uhlavou.cz",
+"mesto-janovice-nad-uhlavou.cz",
+"obecjanovice-nad-uhlavou.cz",
+"mestysjanovicenaduhlavou.cz"
+],
+"ico": "70998621",
+"nazev": "Mateřská škola Janovice nad Úhlavou",
+"obec": "Janovice nad Úhlavou",
+"psc": "340 21",
+"ulice": "Klenovská",
+"zs": false
+},
+"materska-skola-jikev-133687": {
+"domeny": [
+"obecjikev.cz",
+"jikev.cz",
+"oujikev.cz",
+"mestojikev.cz",
+"obec-jikev.cz",
+"ou-jikev.cz",
+"mesto-jikev.cz",
+"mestysjikev.cz"
+],
+"ico": "17373808",
+"nazev": "Mateřská škola Jíkev",
+"obec": "Jíkev",
+"psc": "289 32",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kamen-533367": {
+"domeny": [
+"obeckamen.cz",
+"kamen.cz",
+"oukamen.cz",
+"mestokamen.cz",
+"obec-kamen.cz",
+"ou-kamen.cz",
+"mesto-kamen.cz",
+"mestyskamen.cz"
+],
+"ico": "70984336",
+"nazev": "Mateřská škola Kámen",
+"obec": "Kámen",
+"psc": "394 13",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kamenacek-kamenny-ujezd-089548": {
+"domeny": [
+"obeckamennyujezd.cz",
+"kamennyujezd.cz",
+"oukamennyujezd.cz",
+"mestokamennyujezd.cz",
+"obec-kamenny-ujezd.cz",
+"kamenny-ujezd.cz",
+"ou-kamenny-ujezd.cz",
+"mesto-kamenny-ujezd.cz",
+"obeckamenny-ujezd.cz",
+"mestyskamennyujezd.cz"
+],
+"ico": "06170480",
+"nazev": "Mateřská škola Kameňáček Kamenný Újezd",
+"obec": "Kamenný Újezd",
+"psc": "337 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kelcice-610043": {
+"domeny": [
+"obecvranovicekelcice.cz",
+"vranovicekelcice.cz",
+"ouvranovicekelcice.cz",
+"mestovranovicekelcice.cz",
+"obec-vranovice-kelcice.cz",
+"vranovice-kelcice.cz",
+"ou-vranovice-kelcice.cz",
+"mesto-vranovice-kelcice.cz",
+"obecvranovice-kelcice.cz",
+"mestysvranovicekelcice.cz"
+],
+"ico": "75022141",
+"nazev": "Mateřská škola Kelčice",
+"obec": "Vranovice-Kelčice",
+"psc": "798 08",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kestrany-053300": {
+"domeny": [
+"obeckestrany.cz",
+"kestrany.cz",
+"oukestrany.cz",
+"mestokestrany.cz",
+"obec-kestrany.cz",
+"ou-kestrany.cz",
+"mesto-kestrany.cz",
+"mestyskestrany.cz"
+],
+"ico": "70997667",
+"nazev": "Mateřská škola Kestřany",
+"obec": "Kestřany",
+"psc": "397 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kladruby-546302": {
+"domeny": [
+"obeckladruby.cz",
+"kladruby.cz",
+"oukladruby.cz",
+"mestokladruby.cz",
+"obec-kladruby.cz",
+"ou-kladruby.cz",
+"mesto-kladruby.cz",
+"mestyskladruby.cz"
+],
+"ico": "60611642",
+"nazev": "Mateřská škola Kladruby",
+"obec": "Kladruby",
+"psc": "349 61",
+"ulice": "Husova",
+"zs": false
+},
+"materska-skola-klentnice-604612": {
+"domeny": [
+"obecklentnice.cz",
+"klentnice.cz",
+"ouklentnice.cz",
+"mestoklentnice.cz",
+"obec-klentnice.cz",
+"ou-klentnice.cz",
+"mesto-klentnice.cz",
+"mestysklentnice.cz"
+],
+"ico": "71011412",
+"nazev": "Mateřská škola Klentnice",
+"obec": "Klentnice",
+"psc": "692 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kojice-585049": {
+"domeny": [
+"obeckojice.cz",
+"kojice.cz",
+"oukojice.cz",
+"mestokojice.cz",
+"obec-kojice.cz",
+"ou-kojice.cz",
+"mesto-kojice.cz",
+"mestyskojice.cz"
+],
+"ico": "71005455",
+"nazev": "Mateřská škola Kojice",
+"obec": "Kojice",
+"psc": "533 12",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kolec-037726": {
+"domeny": [
+"obeckolec.cz",
+"kolec.cz",
+"oukolec.cz",
+"mestokolec.cz",
+"obec-kolec.cz",
+"ou-kolec.cz",
+"mesto-kolec.cz",
+"mestyskolec.cz"
+],
+"ico": "72555408",
+"nazev": "Mateřská škola Koleč",
+"obec": "Koleč",
+"psc": "273 29",
+"ulice": "",
+"zs": false
+},
+"materska-skola-komarov-511167": {
+"domeny": [
+"obeckomarov.cz",
+"komarov.cz",
+"oukomarov.cz",
+"mestokomarov.cz",
+"obec-komarov.cz",
+"ou-komarov.cz",
+"mesto-komarov.cz",
+"mestyskomarov.cz"
+],
+"ico": "71006494",
+"nazev": "Mateřská škola Komárov",
+"obec": "Komárov",
+"psc": "267 62",
+"ulice": "Buzulucká",
+"zs": false
+},
+"materska-skola-korkyne-000409": {
+"domeny": [
+"obeckorkyne.cz",
+"korkyne.cz",
+"oukorkyne.cz",
+"mestokorkyne.cz",
+"obec-korkyne.cz",
+"ou-korkyne.cz",
+"mesto-korkyne.cz",
+"mestyskorkyne.cz"
+],
+"ico": "75030187",
+"nazev": "Mateřská škola Korkyně",
+"obec": "Korkyně",
+"psc": "262 06",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kosiky-612666": {
+"domeny": [
+"obeckosiky.cz",
+"kosiky.cz",
+"oukosiky.cz",
+"mestokosiky.cz",
+"obec-kosiky.cz",
+"ou-kosiky.cz",
+"mesto-kosiky.cz",
+"mestyskosiky.cz"
+],
+"ico": "75008815",
+"nazev": "Mateřská škola Košíky",
+"obec": "Košíky",
+"psc": "687 04",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kostalov-586193": {
+"domeny": [
+"obeckostalov.cz",
+"kostalov.cz",
+"oukostalov.cz",
+"mestokostalov.cz",
+"obec-kostalov.cz",
+"ou-kostalov.cz",
+"mesto-kostalov.cz",
+"mestyskostalov.cz"
+],
+"ico": "70156573",
+"nazev": "Mateřská škola Košťálov",
+"obec": "Košťálov",
+"psc": "512 02",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kostany-568063": {
+"domeny": [
+"obeckostany.cz",
+"kostany.cz",
+"oukostany.cz",
+"mestokostany.cz",
+"obec-kostany.cz",
+"ou-kostany.cz",
+"mesto-kostany.cz",
+"mestyskostany.cz"
+],
+"ico": "70879923",
+"nazev": "Mateřská škola Košťany",
+"obec": "Košťany",
+"psc": "417 23",
+"ulice": "Husova",
+"zs": false
+},
+"materska-skola-kostelany-nad-moravou-612739": {
+"domeny": [
+"obeckostelanynadmoravou.cz",
+"kostelanynadmoravou.cz",
+"oukostelanynadmoravou.cz",
+"mestokostelanynadmoravou.cz",
+"obec-kostelany-nad-moravou.cz",
+"kostelany-nad-moravou.cz",
+"ou-kostelany-nad-moravou.cz",
+"mesto-kostelany-nad-moravou.cz",
+"obeckostelany-nad-moravou.cz",
+"mestyskostelanynadmoravou.cz"
+],
+"ico": "70982708",
+"nazev": "Mateřská škola Kostelany nad Moravou",
+"obec": "Kostelany nad Moravou",
+"psc": "686 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kostelec-nad-cernymi-lesy-663921": {
+"domeny": [
+"obeckostelecnadcernymilesy.cz",
+"kostelecnadcernymilesy.cz",
+"oukostelecnadcernymilesy.cz",
+"mestokostelecnadcernymilesy.cz",
+"obec-kostelec-nad-cernymi-lesy.cz",
+"kostelec-nad-cernymi-lesy.cz",
+"ou-kostelec-nad-cernymi-lesy.cz",
+"mesto-kostelec-nad-cernymi-lesy.cz",
+"obeckostelec-nad-cernymi-lesy.cz",
+"mestyskostelecnadcernymilesy.cz"
+],
+"ico": "48663921",
+"nazev": "Mateřská škola Kostelec nad Černými lesy",
+"obec": "Kostelec nad Černými lesy",
+"psc": "281 63",
+"ulice": "K Jatkám",
+"zs": false
+},
+"materska-skola-kostelec-u-holesova-609517": {
+"domeny": [
+"obeckostelecuholesova.cz",
+"kostelecuholesova.cz",
+"oukostelecuholesova.cz",
+"mestokostelecuholesova.cz",
+"obec-kostelec-u-holesova.cz",
+"kostelec-u-holesova.cz",
+"ou-kostelec-u-holesova.cz",
+"mesto-kostelec-u-holesova.cz",
+"obeckostelec-u-holesova.cz",
+"mestyskostelecuholesova.cz"
+],
+"ico": "75022770",
+"nazev": "Mateřská škola Kostelec u Holešova",
+"obec": "Kostelec u Holešova",
+"psc": "768 43",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kozichovice-611686": {
+"domeny": [
+"obeckozichovice.cz",
+"kozichovice.cz",
+"oukozichovice.cz",
+"mestokozichovice.cz",
+"obec-kozichovice.cz",
+"ou-kozichovice.cz",
+"mesto-kozichovice.cz",
+"mestyskozichovice.cz"
+],
+"ico": "71009001",
+"nazev": "Mateřská škola Kožichovice",
+"obec": "Kožichovice",
+"psc": "674 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-krasensko-045391": {
+"domeny": [
+"obeckrasensko.cz",
+"krasensko.cz",
+"oukrasensko.cz",
+"mestokrasensko.cz",
+"obec-krasensko.cz",
+"ou-krasensko.cz",
+"mesto-krasensko.cz",
+"mestyskrasensko.cz"
+],
+"ico": "71012354",
+"nazev": "Mateřská škola Krásensko",
+"obec": "Krásensko",
+"psc": "683 04",
+"ulice": "",
+"zs": false
+},
+"materska-skola-kravare-560372": {
+"domeny": [
+"obeckravare.cz",
+"kravare.cz",
+"oukravare.cz",
+"mestokravare.cz",
+"obec-kravare.cz",
+"ou-kravare.cz",
+"mesto-kravare.cz",
+"mestyskravare.cz"
+],
+"ico": "71011129",
+"nazev": "Mateřská škola Kravaře",
+"obec": "Kravaře",
+"psc": "471 03",
+"ulice": "Úštěcká",
+"zs": false
+},
+"materska-skola-kysice-544636": {
+"domeny": [
+"obeckysice.cz",
+"kysice.cz",
+"oukysice.cz",
+"mestokysice.cz",
+"obec-kysice.cz",
+"ou-kysice.cz",
+"mesto-kysice.cz",
+"mestyskysice.cz"
+],
+"ico": "75005972",
+"nazev": "Mateřská škola Kyšice",
+"obec": "Kyšice",
+"psc": "330 01",
+"ulice": "Náves",
+"zs": false
+},
+"materska-skola-lasenice-532409": {
+"domeny": [
+"obeclasenice.cz",
+"lasenice.cz",
+"oulasenice.cz",
+"mestolasenice.cz",
+"obec-lasenice.cz",
+"ou-lasenice.cz",
+"mesto-lasenice.cz",
+"mestyslasenice.cz"
+],
+"ico": "71006761",
+"nazev": "Mateřská škola Lásenice",
+"obec": "Lásenice",
+"psc": "378 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-lavicky-616289": {
+"domeny": [
+"obeclavicky.cz",
+"lavicky.cz",
+"oulavicky.cz",
+"mestolavicky.cz",
+"obec-lavicky.cz",
+"ou-lavicky.cz",
+"mesto-lavicky.cz",
+"mestyslavicky.cz"
+],
+"ico": "75022257",
+"nazev": "Mateřská škola Lavičky",
+"obec": "Lavičky",
+"psc": "594 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-lazne-libverda-564190": {
+"domeny": [
+"obeclaznelibverda.cz",
+"laznelibverda.cz",
+"oulaznelibverda.cz",
+"mestolaznelibverda.cz",
+"obec-lazne-libverda.cz",
+"lazne-libverda.cz",
+"ou-lazne-libverda.cz",
+"mesto-lazne-libverda.cz",
+"obeclazne-libverda.cz",
+"mestyslaznelibverda.cz"
+],
+"ico": "72741511",
+"nazev": "Mateřská škola Lázně Libverda",
+"obec": "Lázně Libverda",
+"psc": "463 62",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ledce-514796": {
+"domeny": [
+"obecledce.cz",
+"ledce.cz",
+"ouledce.cz",
+"mestoledce.cz",
+"obec-ledce.cz",
+"ou-ledce.cz",
+"mesto-ledce.cz",
+"mestysledce.cz"
+],
+"ico": "75033232",
+"nazev": "Mateřská škola Ledce",
+"obec": "Ledce",
+"psc": "294 47",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ledvice-568152": {
+"domeny": [
+"obecledvice.cz",
+"ledvice.cz",
+"ouledvice.cz",
+"mestoledvice.cz",
+"obec-ledvice.cz",
+"ou-ledvice.cz",
+"mesto-ledvice.cz",
+"mestysledvice.cz"
+],
+"ico": "70698350",
+"nazev": "Mateřská škola Ledvice",
+"obec": "Ledvice",
+"psc": "417 72",
+"ulice": "Mírová",
+"zs": false
+},
+"materska-skola-lesna-614570": {
+"domeny": [
+"obeclesna.cz",
+"lesna.cz",
+"oulesna.cz",
+"mestolesna.cz",
+"obec-lesna.cz",
+"ou-lesna.cz",
+"mesto-lesna.cz",
+"mestyslesna.cz"
+],
+"ico": "70987921",
+"nazev": "Mateřská škola Lesná",
+"obec": "Lesná",
+"psc": "671 02",
+"ulice": "",
+"zs": false
+},
+"materska-skola-libceves-566362": {
+"domeny": [
+"obeclibceves.cz",
+"libceves.cz",
+"oulibceves.cz",
+"mestolibceves.cz",
+"obec-libceves.cz",
+"ou-libceves.cz",
+"mesto-libceves.cz",
+"mestyslibceves.cz"
+],
+"ico": "70698406",
+"nazev": "Mateřská škola Libčeves",
+"obec": "Libčeves",
+"psc": "439 26",
+"ulice": "K Zámku",
+"zs": false
+},
+"materska-skola-liben-516624": {
+"domeny": [
+"obecliber.cz",
+"liber.cz",
+"ouliber.cz",
+"mestoliber.cz",
+"obec-liber.cz",
+"ou-liber.cz",
+"mesto-liber.cz",
+"mestysliber.cz"
+],
+"ico": "71002685",
+"nazev": "Mateřská škola Libeň",
+"obec": "Libeř",
+"psc": "252 41",
+"ulice": "Libeň",
+"zs": false
+},
+"materska-skola-liblice-513871": {
+"domeny": [
+"obecliblice.cz",
+"liblice.cz",
+"ouliblice.cz",
+"mestoliblice.cz",
+"obec-liblice.cz",
+"ou-liblice.cz",
+"mesto-liblice.cz",
+"mestysliblice.cz"
+],
+"ico": "71009701",
+"nazev": "Mateřská škola Liblice",
+"obec": "Liblice",
+"psc": "277 32",
+"ulice": "",
+"zs": false
+},
+"materska-skola-lidecko-633876": {
+"domeny": [
+"obeclidecko.cz",
+"lidecko.cz",
+"oulidecko.cz",
+"mestolidecko.cz",
+"obec-lidecko.cz",
+"ou-lidecko.cz",
+"mesto-lidecko.cz",
+"mestyslidecko.cz"
+],
+"ico": "70986053",
+"nazev": "Mateřská škola Lidečko",
+"obec": "Lidečko",
+"psc": "756 12",
+"ulice": "",
+"zs": false
+},
+"materska-skola-loucka-606151": {
+"domeny": [
+"obecloucka.cz",
+"loucka.cz",
+"ouloucka.cz",
+"mestoloucka.cz",
+"obec-loucka.cz",
+"ou-loucka.cz",
+"mesto-loucka.cz",
+"mestysloucka.cz"
+],
+"ico": "75020416",
+"nazev": "Mateřská škola Loučka",
+"obec": "Loučka",
+"psc": "763 25",
+"ulice": "",
+"zs": false
+},
+"materska-skola-lovosice-566168": {
+"domeny": [
+"obeclovosice.cz",
+"lovosice.cz",
+"oulovosice.cz",
+"mestolovosice.cz",
+"obec-lovosice.cz",
+"ou-lovosice.cz",
+"mesto-lovosice.cz",
+"mestyslovosice.cz"
+],
+"ico": "46772111",
+"nazev": "Mateřská škola Lovosice",
+"obec": "Lovosice",
+"psc": "410 02",
+"ulice": "Sady pionýrů",
+"zs": false
+},
+"materska-skola-lubna-609177": {
+"domeny": [
+"obeclubna.cz",
+"lubna.cz",
+"oulubna.cz",
+"mestolubna.cz",
+"obec-lubna.cz",
+"ou-lubna.cz",
+"mesto-lubna.cz",
+"mestyslubna.cz"
+],
+"ico": "70993840",
+"nazev": "Mateřská škola Lubná",
+"obec": "Lubná",
+"psc": "767 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ludslavice-609363": {
+"domeny": [
+"obecludslavice.cz",
+"ludslavice.cz",
+"ouludslavice.cz",
+"mestoludslavice.cz",
+"obec-ludslavice.cz",
+"ou-ludslavice.cz",
+"mesto-ludslavice.cz",
+"mestysludslavice.cz"
+],
+"ico": "75020971",
+"nazev": "Mateřská škola Ludslavice",
+"obec": "Ludslavice",
+"psc": "768 52",
+"ulice": "",
+"zs": false
+},
+"materska-skola-luzenice-540142": {
+"domeny": [
+"obecluzenicky.cz",
+"luzenicky.cz",
+"ouluzenicky.cz",
+"mestoluzenicky.cz",
+"obec-luzenicky.cz",
+"ou-luzenicky.cz",
+"mesto-luzenicky.cz",
+"mestysluzenicky.cz"
+],
+"ico": "75006243",
+"nazev": "Mateřská škola Luženice",
+"obec": "Luženičky",
+"psc": "344 01",
+"ulice": "Luženice",
+"zs": false
+},
+"materska-skola-mala-velen-562146": {
+"domeny": [
+"obecmalavelen.cz",
+"malavelen.cz",
+"oumalavelen.cz",
+"mestomalavelen.cz",
+"obec-mala-velen.cz",
+"mala-velen.cz",
+"ou-mala-velen.cz",
+"mesto-mala-velen.cz",
+"obecmala-velen.cz",
+"mestysmalavelen.cz"
+],
+"ico": "75012995",
+"nazev": "Mateřská škola Malá Veleň",
+"obec": "Malá Veleň",
+"psc": "405 02",
+"ulice": "Jedlka",
+"zs": false
+},
+"materska-skola-malcin-68-000320": {
+"domeny": [
+"obecmalcin.cz",
+"malcin.cz",
+"oumalcin.cz",
+"mestomalcin.cz",
+"obec-malcin.cz",
+"ou-malcin.cz",
+"mesto-malcin.cz",
+"mestysmalcin.cz"
+],
+"ico": "71232737",
+"nazev": "Mateřská škola Malčín, 68",
+"obec": "Malčín",
+"psc": "582 91",
+"ulice": "",
+"zs": false
+},
+"materska-skola-malhostovice-603284": {
+"domeny": [
+"obecmalhostovice.cz",
+"malhostovice.cz",
+"oumalhostovice.cz",
+"mestomalhostovice.cz",
+"obec-malhostovice.cz",
+"ou-malhostovice.cz",
+"mesto-malhostovice.cz",
+"mestysmalhostovice.cz"
+],
+"ico": "75023971",
+"nazev": "Mateřská škola Malhostovice",
+"obec": "Malhostovice",
+"psc": "666 03",
+"ulice": "",
+"zs": false
+},
+"materska-skola-manetin-544687": {
+"domeny": [
+"obecmanetin.cz",
+"manetin.cz",
+"oumanetin.cz",
+"mestomanetin.cz",
+"obec-manetin.cz",
+"ou-manetin.cz",
+"mesto-manetin.cz",
+"mestysmanetin.cz"
+],
+"ico": "75157411",
+"nazev": "Mateřská škola Manětín",
+"obec": "Manětín",
+"psc": "331 62",
+"ulice": "",
+"zs": false
+},
+"materska-skola-marsovice-510227": {
+"domeny": [
+"obecmarsovice.cz",
+"marsovice.cz",
+"oumarsovice.cz",
+"mestomarsovice.cz",
+"obec-marsovice.cz",
+"ou-marsovice.cz",
+"mesto-marsovice.cz",
+"mestysmarsovice.cz"
+],
+"ico": "70993432",
+"nazev": "Mateřská škola Maršovice",
+"obec": "Maršovice",
+"psc": "257 55",
+"ulice": "",
+"zs": false
+},
+"materska-skola-maxik-bilina-567938": {
+"domeny": [
+"obecbilina.cz",
+"bilina.cz",
+"oubilina.cz",
+"mestobilina.cz",
+"obec-bilina.cz",
+"ou-bilina.cz",
+"mesto-bilina.cz",
+"mestysbilina.cz"
+],
+"ico": "70200467",
+"nazev": "Mateřská škola Maxík Bílina",
+"obec": "Bílina",
+"psc": "418 01",
+"ulice": "Čapkova",
+"zs": false
+},
+"materska-skola-mcely-515148": {
+"domeny": [
+"obecmcely.cz",
+"mcely.cz",
+"oumcely.cz",
+"mestomcely.cz",
+"obec-mcely.cz",
+"ou-mcely.cz",
+"mesto-mcely.cz",
+"mestysmcely.cz"
+],
+"ico": "75030772",
+"nazev": "Mateřská škola Mcely",
+"obec": "Mcely",
+"psc": "289 36",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mecholupy-566524": {
+"domeny": [
+"obecmecholupy.cz",
+"mecholupy.cz",
+"oumecholupy.cz",
+"mestomecholupy.cz",
+"obec-mecholupy.cz",
+"ou-mecholupy.cz",
+"mesto-mecholupy.cz",
+"mestysmecholupy.cz"
+],
+"ico": "72745371",
+"nazev": "Mateřská škola Měcholupy",
+"obec": "Měcholupy",
+"psc": "439 31",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mezholezy-540444": {
+"domeny": [
+"obecmezholezy.cz",
+"mezholezy.cz",
+"oumezholezy.cz",
+"mestomezholezy.cz",
+"obec-mezholezy.cz",
+"ou-mezholezy.cz",
+"mesto-mezholezy.cz",
+"mestysmezholezy.cz"
+],
+"ico": "70989133",
+"nazev": "Mateřská škola Mezholezy",
+"obec": "Mezholezy",
+"psc": "346 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-milonice-613549": {
+"domeny": [
+"obecmilonice.cz",
+"milonice.cz",
+"oumilonice.cz",
+"mestomilonice.cz",
+"obec-milonice.cz",
+"ou-milonice.cz",
+"mesto-milonice.cz",
+"mestysmilonice.cz"
+],
+"ico": "70987912",
+"nazev": "Mateřská škola Milonice",
+"obec": "Milonice",
+"psc": "683 33",
+"ulice": "",
+"zs": false
+},
+"materska-skola-milotice-nad-becvou-631148": {
+"domeny": [
+"obecmiloticenadbecvou.cz",
+"miloticenadbecvou.cz",
+"oumiloticenadbecvou.cz",
+"mestomiloticenadbecvou.cz",
+"obec-milotice-nad-becvou.cz",
+"milotice-nad-becvou.cz",
+"ou-milotice-nad-becvou.cz",
+"mesto-milotice-nad-becvou.cz",
+"obecmilotice-nad-becvou.cz",
+"mestysmiloticenadbecvou.cz"
+],
+"ico": "71005374",
+"nazev": "Mateřská škola Milotice nad Bečvou",
+"obec": "Milotice nad Bečvou",
+"psc": "753 67",
+"ulice": "",
+"zs": false
+},
+"materska-skola-miskovice-609339": {
+"domeny": [
+"obecmiskovice.cz",
+"miskovice.cz",
+"oumiskovice.cz",
+"mestomiskovice.cz",
+"obec-miskovice.cz",
+"ou-miskovice.cz",
+"mesto-miskovice.cz",
+"mestysmiskovice.cz"
+],
+"ico": "75021587",
+"nazev": "Mateřská škola Míškovice",
+"obec": "Míškovice",
+"psc": "768 52",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mladejov-na-morave-587058": {
+"domeny": [
+"obecmladejovnamorave.cz",
+"mladejovnamorave.cz",
+"oumladejovnamorave.cz",
+"mestomladejovnamorave.cz",
+"obec-mladejov-na-morave.cz",
+"mladejov-na-morave.cz",
+"ou-mladejov-na-morave.cz",
+"mesto-mladejov-na-morave.cz",
+"obecmladejov-na-morave.cz",
+"mestysmladejovnamorave.cz"
+],
+"ico": "70995125",
+"nazev": "Mateřská škola Mladějov na Moravě",
+"obec": "Mladějov na Moravě",
+"psc": "569 35",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mnisek-pod-brdy-517167": {
+"domeny": [
+"obecmnisekpodbrdy.cz",
+"mnisekpodbrdy.cz",
+"oumnisekpodbrdy.cz",
+"mestomnisekpodbrdy.cz",
+"obec-mnisek-pod-brdy.cz",
+"mnisek-pod-brdy.cz",
+"ou-mnisek-pod-brdy.cz",
+"mesto-mnisek-pod-brdy.cz",
+"obecmnisek-pod-brdy.cz",
+"mestysmnisekpodbrdy.cz"
+],
+"ico": "75033411",
+"nazev": "Mateřská škola Mníšek pod Brdy",
+"obec": "Mníšek pod Brdy",
+"psc": "252 10",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mocovice-512823": {
+"domeny": [
+"obecmocovice.cz",
+"mocovice.cz",
+"oumocovice.cz",
+"mestomocovice.cz",
+"obec-mocovice.cz",
+"ou-mocovice.cz",
+"mesto-mocovice.cz",
+"mestysmocovice.cz"
+],
+"ico": "75033356",
+"nazev": "Mateřská škola Močovice",
+"obec": "Močovice",
+"psc": "286 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-modlanska-rolnicka-568161": {
+"domeny": [
+"obecmodlany.cz",
+"modlany.cz",
+"oumodlany.cz",
+"mestomodlany.cz",
+"obec-modlany.cz",
+"ou-modlany.cz",
+"mesto-modlany.cz",
+"mestysmodlany.cz"
+],
+"ico": "72742402",
+"nazev": "Mateřská škola Modlanská rolnička",
+"obec": "Modlany",
+"psc": "417 13",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mohelnice-632659": {
+"domeny": [
+"obecmohelnice.cz",
+"mohelnice.cz",
+"oumohelnice.cz",
+"mestomohelnice.cz",
+"obec-mohelnice.cz",
+"ou-mohelnice.cz",
+"mesto-mohelnice.cz",
+"mestysmohelnice.cz"
+],
+"ico": "63696380",
+"nazev": "Mateřská škola Mohelnice, Zámecká",
+"obec": "Mohelnice",
+"psc": "789 85",
+"ulice": "Zámecká",
+"zs": false
+},
+"materska-skola-mohelno-611350": {
+"domeny": [
+"obecmohelno.cz",
+"mohelno.cz",
+"oumohelno.cz",
+"mestomohelno.cz",
+"obec-mohelno.cz",
+"ou-mohelno.cz",
+"mesto-mohelno.cz",
+"mestysmohelno.cz"
+],
+"ico": "70978841",
+"nazev": "Mateřská škola Mohelno",
+"obec": "Mohelno",
+"psc": "675 75",
+"ulice": "",
+"zs": false
+},
+"materska-skola-moravske-budejovice-611376": {
+"domeny": [
+"obecmoravskebudejovice.cz",
+"moravskebudejovice.cz",
+"oumoravskebudejovice.cz",
+"mestomoravskebudejovice.cz",
+"obec-moravske-budejovice.cz",
+"moravske-budejovice.cz",
+"ou-moravske-budejovice.cz",
+"mesto-moravske-budejovice.cz",
+"obecmoravske-budejovice.cz",
+"mestysmoravskebudejovice.cz"
+],
+"ico": "75023644",
+"nazev": "Mateřská škola Moravské Budějovice",
+"obec": "Moravské Budějovice",
+"psc": "676 02",
+"ulice": "Fišerova",
+"zs": false
+},
+"materska-skola-moravsky-beroun-620634": {
+"domeny": [
+"obecmoravskyberoun.cz",
+"moravskyberoun.cz",
+"oumoravskyberoun.cz",
+"mestomoravskyberoun.cz",
+"obec-moravsky-beroun.cz",
+"moravsky-beroun.cz",
+"ou-moravsky-beroun.cz",
+"mesto-moravsky-beroun.cz",
+"obecmoravsky-beroun.cz",
+"mestysmoravskyberoun.cz"
+],
+"ico": "63024586",
+"nazev": "Mateřská škola Moravský Beroun",
+"obec": "Moravský Beroun",
+"psc": "793 05",
+"ulice": "náměstí",
+"zs": false
+},
+"materska-skola-moravsky-zizkov-604701": {
+"domeny": [
+"obecmoravskyzizkov.cz",
+"moravskyzizkov.cz",
+"oumoravskyzizkov.cz",
+"mestomoravskyzizkov.cz",
+"obec-moravsky-zizkov.cz",
+"moravsky-zizkov.cz",
+"ou-moravsky-zizkov.cz",
+"mesto-moravsky-zizkov.cz",
+"obecmoravsky-zizkov.cz",
+"mestysmoravskyzizkov.cz"
+],
+"ico": "70996091",
+"nazev": "Mateřská škola Moravský Žižkov",
+"obec": "Moravský Žižkov",
+"psc": "691 01",
+"ulice": "U Školky",
+"zs": false
+},
+"materska-skola-morkovice-609371": {
+"domeny": [
+"obecmorkoviceslizany.cz",
+"morkoviceslizany.cz",
+"oumorkoviceslizany.cz",
+"mestomorkoviceslizany.cz",
+"obec-morkovice-slizany.cz",
+"morkovice-slizany.cz",
+"ou-morkovice-slizany.cz",
+"mesto-morkovice-slizany.cz",
+"obecmorkovice-slizany.cz",
+"mestysmorkoviceslizany.cz"
+],
+"ico": "75022184",
+"nazev": "Mateřská škola Morkovice",
+"obec": "Morkovice-Slížany",
+"psc": "768 33",
+"ulice": "",
+"zs": false
+},
+"materska-skola-motylek-kostany-strelna-568675": {
+"domeny": [
+"obeckostany.cz",
+"kostany.cz",
+"oukostany.cz",
+"mestokostany.cz",
+"obec-kostany.cz",
+"ou-kostany.cz",
+"mesto-kostany.cz",
+"mestyskostany.cz"
+],
+"ico": "70879907",
+"nazev": "Mateřská škola Motýlek Košťany-Střelná",
+"obec": "Košťany",
+"psc": "417 23",
+"ulice": "Sídliště",
+"zs": false
+},
+"materska-skola-mourinov-057393": {
+"domeny": [
+"obecmourinov.cz",
+"mourinov.cz",
+"oumourinov.cz",
+"mestomourinov.cz",
+"obec-mourinov.cz",
+"ou-mourinov.cz",
+"mesto-mourinov.cz",
+"mestysmourinov.cz"
+],
+"ico": "75007762",
+"nazev": "Mateřská škola Mouřínov",
+"obec": "Mouřínov",
+"psc": "685 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mrakov-540347": {
+"domeny": [
+"obecmrakov.cz",
+"mrakov.cz",
+"oumrakov.cz",
+"mestomrakov.cz",
+"obec-mrakov.cz",
+"ou-mrakov.cz",
+"mesto-mrakov.cz",
+"mestysmrakov.cz"
+],
+"ico": "60610824",
+"nazev": "Mateřská škola Mrákov",
+"obec": "Mrákov",
+"psc": "345 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-mukarov-516039": {
+"domeny": [
+"obecmukarov.cz",
+"mukarov.cz",
+"oumukarov.cz",
+"mestomukarov.cz",
+"obec-mukarov.cz",
+"ou-mukarov.cz",
+"mesto-mukarov.cz",
+"mestysmukarov.cz"
+],
+"ico": "70986428",
+"nazev": "Mateřská škola Mukařov",
+"obec": "Mukařov",
+"psc": "251 62",
+"ulice": "U zelené cesty",
+"zs": false
+},
+"materska-skola-navojna-605902": {
+"domeny": [
+"obecnavojna.cz",
+"navojna.cz",
+"ounavojna.cz",
+"mestonavojna.cz",
+"obec-navojna.cz",
+"ou-navojna.cz",
+"mesto-navojna.cz",
+"mestysnavojna.cz"
+],
+"ico": "70987661",
+"nazev": "Mateřská škola Návojná",
+"obec": "Návojná",
+"psc": "763 32",
+"ulice": "",
+"zs": false
+},
+"materska-skola-nemochovice-031138": {
+"domeny": [
+"obecnemochovice.cz",
+"nemochovice.cz",
+"ounemochovice.cz",
+"mestonemochovice.cz",
+"obec-nemochovice.cz",
+"ou-nemochovice.cz",
+"mesto-nemochovice.cz",
+"mestysnemochovice.cz"
+],
+"ico": "75007908",
+"nazev": "Mateřská škola Nemochovice",
+"obec": "Nemochovice",
+"psc": "683 33",
+"ulice": "",
+"zs": false
+},
+"materska-skola-nevcehle-608332": {
+"domeny": [
+"obecnevcehle.cz",
+"nevcehle.cz",
+"ounevcehle.cz",
+"mestonevcehle.cz",
+"obec-nevcehle.cz",
+"ou-nevcehle.cz",
+"mesto-nevcehle.cz",
+"mestysnevcehle.cz"
+],
+"ico": "70995036",
+"nazev": "Mateřská škola Nevcehle",
+"obec": "Nevcehle",
+"psc": "588 62",
+"ulice": "",
+"zs": false
+},
+"materska-skola-nove-homole-530040": {
+"domeny": [
+"obechomole.cz",
+"homole.cz",
+"ouhomole.cz",
+"mestohomole.cz",
+"obec-homole.cz",
+"ou-homole.cz",
+"mesto-homole.cz",
+"mestyshomole.cz"
+],
+"ico": "75000890",
+"nazev": "Mateřská škola Nové Homole",
+"obec": "Homole",
+"psc": "370 01",
+"ulice": "Hlavní",
+"zs": false
+},
+"materska-skola-nove-mesto-pod-smrkem-564700": {
+"domeny": [
+"obecnovemestopodsmrkem.cz",
+"novemestopodsmrkem.cz",
+"ounovemestopodsmrkem.cz",
+"mestonovemestopodsmrkem.cz",
+"obec-nove-mesto-pod-smrkem.cz",
+"nove-mesto-pod-smrkem.cz",
+"ou-nove-mesto-pod-smrkem.cz",
+"mesto-nove-mesto-pod-smrkem.cz",
+"obecnove-mesto-pod-smrkem.cz",
+"mestysnovemestopodsmrkem.cz"
+],
+"ico": "72741911",
+"nazev": "Mateřská škola Nové Město pod Smrkem",
+"obec": "Nové Město pod Smrkem",
+"psc": "463 65",
+"ulice": "Mánesova",
+"zs": false
+},
+"materska-skola-novy-bydzov-581256": {
+"domeny": [
+"obecnovybydzov.cz",
+"novybydzov.cz",
+"ounovybydzov.cz",
+"mestonovybydzov.cz",
+"obec-novy-bydzov.cz",
+"novy-bydzov.cz",
+"ou-novy-bydzov.cz",
+"mesto-novy-bydzov.cz",
+"obecnovy-bydzov.cz",
+"mestysnovybydzov.cz"
+],
+"ico": "70189013",
+"nazev": "Mateřská škola Nový Bydžov",
+"obec": "Nový Bydžov",
+"psc": "504 01",
+"ulice": "F. Palackého",
+"zs": false
+},
+"materska-skola-obyctov-615711": {
+"domeny": [
+"obecobyctov.cz",
+"obyctov.cz",
+"ouobyctov.cz",
+"mestoobyctov.cz",
+"obec-obyctov.cz",
+"ou-obyctov.cz",
+"mesto-obyctov.cz",
+"mestysobyctov.cz"
+],
+"ico": "75023831",
+"nazev": "Mateřská škola Obyčtov",
+"obec": "Obyčtov",
+"psc": "591 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ohnic-568195": {
+"domeny": [
+"obecohnic.cz",
+"ohnic.cz",
+"ouohnic.cz",
+"mestoohnic.cz",
+"obec-ohnic.cz",
+"ou-ohnic.cz",
+"mesto-ohnic.cz",
+"mestysohnic.cz"
+],
+"ico": "70698082",
+"nazev": "Mateřská škola Ohníč",
+"obec": "Ohníč",
+"psc": "417 65",
+"ulice": "Němečky",
+"zs": false
+},
+"materska-skola-okrisky-611490": {
+"domeny": [
+"obecokrisky.cz",
+"okrisky.cz",
+"ouokrisky.cz",
+"mestookrisky.cz",
+"obec-okrisky.cz",
+"ou-okrisky.cz",
+"mesto-okrisky.cz",
+"mestysokrisky.cz"
+],
+"ico": "60417986",
+"nazev": "Mateřská škola Okříšky",
+"obec": "Okříšky",
+"psc": "675 21",
+"ulice": "J. A. Komenského",
+"zs": false
+},
+"materska-skola-oplot-544059": {
+"domeny": [
+"obecoplot.cz",
+"oplot.cz",
+"ouoplot.cz",
+"mestooplot.cz",
+"obec-oplot.cz",
+"ou-oplot.cz",
+"mesto-oplot.cz",
+"mestysoplot.cz"
+],
+"ico": "70989141",
+"nazev": "Mateřská škola Oplot",
+"obec": "Oplot",
+"psc": "334 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-pacov-533219": {
+"domeny": [
+"obecpacov.cz",
+"pacov.cz",
+"oupacov.cz",
+"mestopacov.cz",
+"obec-pacov.cz",
+"ou-pacov.cz",
+"mesto-pacov.cz",
+"mestyspacov.cz"
+],
+"ico": "75000687",
+"nazev": "Mateřská škola Pacov",
+"obec": "Pacov",
+"psc": "395 01",
+"ulice": "Jatecká",
+"zs": false
+},
+"materska-skola-palovacek-625946": {
+"domeny": [
+"obecsenovunovehojicina.cz",
+"senovunovehojicina.cz",
+"ousenovunovehojicina.cz",
+"mestosenovunovehojicina.cz",
+"obec-senov-u-noveho-jicina.cz",
+"senov-u-noveho-jicina.cz",
+"ou-senov-u-noveho-jicina.cz",
+"mesto-senov-u-noveho-jicina.cz",
+"obecsenov-u-noveho-jicina.cz",
+"mestyssenovunovehojicina.cz"
+],
+"ico": "25388355",
+"nazev": "Mateřská škola Palováček",
+"obec": "Šenov u Nového Jičína",
+"psc": "742 42",
+"ulice": "Suvorovova",
+"zs": false
+},
+"materska-skola-paseka-627264": {
+"domeny": [
+"obecpaseka.cz",
+"paseka.cz",
+"oupaseka.cz",
+"mestopaseka.cz",
+"obec-paseka.cz",
+"ou-paseka.cz",
+"mesto-paseka.cz",
+"mestyspaseka.cz"
+],
+"ico": "70645949",
+"nazev": "Mateřská škola Paseka",
+"obec": "Paseka",
+"psc": "783 97",
+"ulice": "",
+"zs": false
+},
+"materska-skola-pasovice-612585": {
+"domeny": [
+"obecpasovice.cz",
+"pasovice.cz",
+"oupasovice.cz",
+"mestopasovice.cz",
+"obec-pasovice.cz",
+"ou-pasovice.cz",
+"mesto-pasovice.cz",
+"mestyspasovice.cz"
+],
+"ico": "70994021",
+"nazev": "Mateřská škola Pašovice",
+"obec": "Pašovice",
+"psc": "687 56",
+"ulice": "",
+"zs": false
+},
+"materska-skola-pastelka-568250": {
+"domeny": [
+"obecprobostov.cz",
+"probostov.cz",
+"ouprobostov.cz",
+"mestoprobostov.cz",
+"obec-probostov.cz",
+"ou-probostov.cz",
+"mesto-probostov.cz",
+"mestysprobostov.cz"
+],
+"ico": "60232765",
+"nazev": "Mateřská škola Pastelka",
+"obec": "Proboštov",
+"psc": "417 12",
+"ulice": "Krátká",
+"zs": false
+},
+"materska-skola-plana-546337": {
+"domeny": [
+"obecplana.cz",
+"plana.cz",
+"ouplana.cz",
+"mestoplana.cz",
+"obec-plana.cz",
+"ou-plana.cz",
+"mesto-plana.cz",
+"mestysplana.cz"
+],
+"ico": "75005611",
+"nazev": "Mateřská škola Planá",
+"obec": "Planá",
+"psc": "348 15",
+"ulice": "Havlíčkova",
+"zs": false
+},
+"materska-skola-podborany-566991": {
+"domeny": [
+"obecpodborany.cz",
+"podborany.cz",
+"oupodborany.cz",
+"mestopodborany.cz",
+"obec-podborany.cz",
+"ou-podborany.cz",
+"mesto-podborany.cz",
+"mestyspodborany.cz"
+],
+"ico": "72745061",
+"nazev": "Mateřská škola Podbořany, Žatecká",
+"obec": "Podbořany",
+"psc": "441 01",
+"ulice": "Žatecká",
+"zs": false
+},
+"materska-skola-podesin-615631": {
+"domeny": [
+"obecpodesin.cz",
+"podesin.cz",
+"oupodesin.cz",
+"mestopodesin.cz",
+"obec-podesin.cz",
+"ou-podesin.cz",
+"mesto-podesin.cz",
+"mestyspodesin.cz"
+],
+"ico": "70990298",
+"nazev": "Mateřská škola Poděšín",
+"obec": "Poděšín",
+"psc": "592 12",
+"ulice": "",
+"zs": false
+},
+"materska-skola-podhradni-lhota-609444": {
+"domeny": [
+"obecpodhradnilhota.cz",
+"podhradnilhota.cz",
+"oupodhradnilhota.cz",
+"mestopodhradnilhota.cz",
+"obec-podhradni-lhota.cz",
+"podhradni-lhota.cz",
+"ou-podhradni-lhota.cz",
+"mesto-podhradni-lhota.cz",
+"obecpodhradni-lhota.cz",
+"mestyspodhradnilhota.cz"
+],
+"ico": "75023717",
+"nazev": "Mateřská škola Podhradní Lhota",
+"obec": "Podhradní Lhota",
+"psc": "768 71",
+"ulice": "",
+"zs": false
+},
+"materska-skola-police-001705": {
+"domeny": [
+"obecpolice.cz",
+"police.cz",
+"oupolice.cz",
+"mestopolice.cz",
+"obec-police.cz",
+"ou-police.cz",
+"mesto-police.cz",
+"mestyspolice.cz"
+],
+"ico": "75133849",
+"nazev": "Mateřská škola Police",
+"obec": "Police",
+"psc": "675 34",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ponetovice-603870": {
+"domeny": [
+"obecponetovice.cz",
+"ponetovice.cz",
+"ouponetovice.cz",
+"mestoponetovice.cz",
+"obec-ponetovice.cz",
+"ou-ponetovice.cz",
+"mesto-ponetovice.cz",
+"mestysponetovice.cz"
+],
+"ico": "75023351",
+"nazev": "Mateřská škola Ponětovice",
+"obec": "Ponětovice",
+"psc": "664 51",
+"ulice": "",
+"zs": false
+},
+"materska-skola-pouzdrany-604795": {
+"domeny": [
+"obecpouzdrany.cz",
+"pouzdrany.cz",
+"oupouzdrany.cz",
+"mestopouzdrany.cz",
+"obec-pouzdrany.cz",
+"ou-pouzdrany.cz",
+"mesto-pouzdrany.cz",
+"mestyspouzdrany.cz"
+],
+"ico": "70979448",
+"nazev": "Mateřská škola Pouzdřany",
+"obec": "Pouzdřany",
+"psc": "691 26",
+"ulice": "Za Kostelem",
+"zs": false
+},
+"materska-skola-praminek-634228": {
+"domeny": [
+"obecvalasskabystrice.cz",
+"valasskabystrice.cz",
+"ouvalasskabystrice.cz",
+"mestovalasskabystrice.cz",
+"obec-valasska-bystrice.cz",
+"valasska-bystrice.cz",
+"ou-valasska-bystrice.cz",
+"mesto-valasska-bystrice.cz",
+"obecvalasska-bystrice.cz",
+"mestysvalasskabystrice.cz"
+],
+"ico": "70938067",
+"nazev": "Mateřská škola Pramínek",
+"obec": "Valašská Bystřice",
+"psc": "756 27",
+"ulice": "",
+"zs": false
+},
+"materska-skola-prepere-586649": {
+"domeny": [
+"obecprepere.cz",
+"prepere.cz",
+"ouprepere.cz",
+"mestoprepere.cz",
+"obec-prepere.cz",
+"ou-prepere.cz",
+"mesto-prepere.cz",
+"mestysprepere.cz"
+],
+"ico": "72742135",
+"nazev": "Mateřská škola Přepeře",
+"obec": "Přepeře",
+"psc": "512 61",
+"ulice": "",
+"zs": false
+},
+"materska-skola-prestice-544466": {
+"domeny": [
+"obecprestice.cz",
+"prestice.cz",
+"ouprestice.cz",
+"mestoprestice.cz",
+"obec-prestice.cz",
+"ou-prestice.cz",
+"mesto-prestice.cz",
+"mestysprestice.cz"
+],
+"ico": "49181939",
+"nazev": "Mateřská škola Přeštice, Dukelská",
+"obec": "Přeštice",
+"psc": "334 01",
+"ulice": "Dukelská",
+"zs": false
+},
+"materska-skola-priluka-587228": {
+"domeny": [
+"obecpriluka.cz",
+"priluka.cz",
+"oupriluka.cz",
+"mestopriluka.cz",
+"obec-priluka.cz",
+"ou-priluka.cz",
+"mesto-priluka.cz",
+"mestyspriluka.cz"
+],
+"ico": "70990018",
+"nazev": "Mateřská škola Příluka",
+"obec": "Příluka",
+"psc": "539 44",
+"ulice": "",
+"zs": false
+},
+"materska-skola-primda-546361": {
+"domeny": [
+"obecprimda.cz",
+"primda.cz",
+"ouprimda.cz",
+"mestoprimda.cz",
+"obec-primda.cz",
+"ou-primda.cz",
+"mesto-primda.cz",
+"mestysprimda.cz"
+],
+"ico": "60611618",
+"nazev": "Mateřská škola Přimda",
+"obec": "Přimda",
+"psc": "348 06",
+"ulice": "Severní",
+"zs": false
+},
+"materska-skola-prisimasy-512414": {
+"domeny": [
+"obecprisimasy.cz",
+"prisimasy.cz",
+"ouprisimasy.cz",
+"mestoprisimasy.cz",
+"obec-prisimasy.cz",
+"ou-prisimasy.cz",
+"mesto-prisimasy.cz",
+"mestysprisimasy.cz"
+],
+"ico": "75034328",
+"nazev": "Mateřská škola Přišimasy",
+"obec": "Přišimasy",
+"psc": "282 01",
+"ulice": "Ke Kostelu",
+"zs": false
+},
+"materska-skola-racetice-44-562553": {
+"domeny": [
+"obecracetice.cz",
+"racetice.cz",
+"ouracetice.cz",
+"mestoracetice.cz",
+"obec-racetice.cz",
+"ou-racetice.cz",
+"mesto-racetice.cz",
+"mestysracetice.cz"
+],
+"ico": "72744847",
+"nazev": "Mateřská škola Račetice 44",
+"obec": "Račetice",
+"psc": "438 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-radkovice-u-hrotovic-612011": {
+"domeny": [
+"obecradkoviceuhrotovic.cz",
+"radkoviceuhrotovic.cz",
+"ouradkoviceuhrotovic.cz",
+"mestoradkoviceuhrotovic.cz",
+"obec-radkovice-u-hrotovic.cz",
+"radkovice-u-hrotovic.cz",
+"ou-radkovice-u-hrotovic.cz",
+"mesto-radkovice-u-hrotovic.cz",
+"obecradkovice-u-hrotovic.cz",
+"mestysradkoviceuhrotovic.cz"
+],
+"ico": "70981051",
+"nazev": "Mateřská škola Radkovice u Hrotovic",
+"obec": "Radkovice u Hrotovic",
+"psc": "675 59",
+"ulice": "",
+"zs": false
+},
+"materska-skola-radovesnice-ii-512449": {
+"domeny": [
+"obecradovesniceii.cz",
+"radovesniceii.cz",
+"ouradovesniceii.cz",
+"mestoradovesniceii.cz",
+"obec-radovesnice-ii.cz",
+"radovesnice-ii.cz",
+"ou-radovesnice-ii.cz",
+"mesto-radovesnice-ii.cz",
+"obecradovesnice-ii.cz",
+"mestysradovesniceii.cz"
+],
+"ico": "75033321",
+"nazev": "Mateřská škola Radovesnice II",
+"obec": "Radovesnice II",
+"psc": "281 28",
+"ulice": "",
+"zs": false
+},
+"materska-skola-radslavice-91-613875": {
+"domeny": [
+"obecradslavice.cz",
+"radslavice.cz",
+"ouradslavice.cz",
+"mestoradslavice.cz",
+"obec-radslavice.cz",
+"ou-radslavice.cz",
+"mesto-radslavice.cz",
+"mestysradslavice.cz"
+],
+"ico": "70983666",
+"nazev": "Mateřská škola Radslavice 91",
+"obec": "Radslavice",
+"psc": "683 21",
+"ulice": "",
+"zs": false
+},
+"materska-skola-rakov-631326": {
+"domeny": [
+"obecrakov.cz",
+"rakov.cz",
+"ourakov.cz",
+"mestorakov.cz",
+"obec-rakov.cz",
+"ou-rakov.cz",
+"mesto-rakov.cz",
+"mestysrakov.cz"
+],
+"ico": "75029227",
+"nazev": "Mateřská škola Rakov",
+"obec": "Rakov",
+"psc": "753 54",
+"ulice": "",
+"zs": false
+},
+"materska-skola-repice-050463": {
+"domeny": [
+"obecrepice.cz",
+"repice.cz",
+"ourepice.cz",
+"mestorepice.cz",
+"obec-repice.cz",
+"ou-repice.cz",
+"mesto-repice.cz",
+"mestysrepice.cz"
+],
+"ico": "01915886",
+"nazev": "Mateřská škola Řepice",
+"obec": "Řepice",
+"psc": "386 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-resslova-974-566150": {
+"domeny": [
+"obeclovosice.cz",
+"lovosice.cz",
+"oulovosice.cz",
+"mestolovosice.cz",
+"obec-lovosice.cz",
+"ou-lovosice.cz",
+"mesto-lovosice.cz",
+"mestyslovosice.cz"
+],
+"ico": "46772090",
+"nazev": "Mateřská škola Resslova 974",
+"obec": "Lovosice",
+"psc": "410 02",
+"ulice": "Resslova",
+"zs": false
+},
+"materska-skola-rimov-612020": {
+"domeny": [
+"obecrimov.cz",
+"rimov.cz",
+"ourimov.cz",
+"mestorimov.cz",
+"obec-rimov.cz",
+"ou-rimov.cz",
+"mesto-rimov.cz",
+"mestysrimov.cz"
+],
+"ico": "71011579",
+"nazev": "Mateřská škola Římov",
+"obec": "Římov",
+"psc": "675 22",
+"ulice": "",
+"zs": false
+},
+"materska-skola-rosteni-609525": {
+"domeny": [
+"obecrosteni.cz",
+"rosteni.cz",
+"ourosteni.cz",
+"mestorosteni.cz",
+"obec-rosteni.cz",
+"ou-rosteni.cz",
+"mesto-rosteni.cz",
+"mestysrosteni.cz"
+],
+"ico": "75023598",
+"nazev": "Mateřská škola Roštění",
+"obec": "Roštění",
+"psc": "768 43",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ruda-nad-moravou-632861": {
+"domeny": [
+"obecrudanadmoravou.cz",
+"rudanadmoravou.cz",
+"ourudanadmoravou.cz",
+"mestorudanadmoravou.cz",
+"obec-ruda-nad-moravou.cz",
+"ruda-nad-moravou.cz",
+"ou-ruda-nad-moravou.cz",
+"mesto-ruda-nad-moravou.cz",
+"obecruda-nad-moravou.cz",
+"mestysrudanadmoravou.cz"
+],
+"ico": "75029413",
+"nazev": "Mateřská škola Ruda nad Moravou",
+"obec": "Ruda nad Moravou",
+"psc": "789 63",
+"ulice": "Dlouhá",
+"zs": false
+},
+"materska-skola-rudna-516896": {
+"domeny": [
+"obecrudna.cz",
+"rudna.cz",
+"ourudna.cz",
+"mestorudna.cz",
+"obec-rudna.cz",
+"ou-rudna.cz",
+"mesto-rudna.cz",
+"mestysrudna.cz"
+],
+"ico": "49855239",
+"nazev": "Mateřská škola Rudná",
+"obec": "Rudná",
+"psc": "252 19",
+"ulice": "Ke Školce",
+"zs": false
+},
+"materska-skola-ruprechtov-613646": {
+"domeny": [
+"obecruprechtov.cz",
+"ruprechtov.cz",
+"ouruprechtov.cz",
+"mestoruprechtov.cz",
+"obec-ruprechtov.cz",
+"ou-ruprechtov.cz",
+"mesto-ruprechtov.cz",
+"mestysruprechtov.cz"
+],
+"ico": "70994552",
+"nazev": "Mateřská škola Ruprechtov",
+"obec": "Ruprechtov",
+"psc": "683 04",
+"ulice": "",
+"zs": false
+},
+"materska-skola-rybka-053039": {
+"domeny": [
+"obechusinec.cz",
+"husinec.cz",
+"ouhusinec.cz",
+"mestohusinec.cz",
+"obec-husinec.cz",
+"ou-husinec.cz",
+"mesto-husinec.cz",
+"mestyshusinec.cz"
+],
+"ico": "02142317",
+"nazev": "Mateřská škola Rybka",
+"obec": "Husinec",
+"psc": "384 21",
+"ulice": "Komenského",
+"zs": false
+},
+"materska-skola-rybnice-032108": {
+"domeny": [
+"obecrybnice.cz",
+"rybnice.cz",
+"ourybnice.cz",
+"mestorybnice.cz",
+"obec-rybnice.cz",
+"ou-rybnice.cz",
+"mesto-rybnice.cz",
+"mestysrybnice.cz"
+],
+"ico": "75005859",
+"nazev": "Mateřská škola Rybnice",
+"obec": "Rybnice",
+"psc": "331 51",
+"ulice": "",
+"zs": false
+},
+"materska-skola-sabina-545667": {
+"domeny": [
+"obecsabina.cz",
+"sabina.cz",
+"ousabina.cz",
+"mestosabina.cz",
+"obec-sabina.cz",
+"ou-sabina.cz",
+"mesto-sabina.cz",
+"mestyssabina.cz"
+],
+"ico": "70995982",
+"nazev": "Mateřská škola Šabina",
+"obec": "Šabina",
+"psc": "356 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-se-sj-565323": {
+"domeny": [
+"obeclibkovicepodripem.cz",
+"libkovicepodripem.cz",
+"oulibkovicepodripem.cz",
+"mestolibkovicepodripem.cz",
+"obec-libkovice-pod-ripem.cz",
+"libkovice-pod-ripem.cz",
+"ou-libkovice-pod-ripem.cz",
+"mesto-libkovice-pod-ripem.cz",
+"obeclibkovice-pod-ripem.cz",
+"mestyslibkovicepodripem.cz"
+],
+"ico": "71011137",
+"nazev": "Mateřská škola se ŠJ",
+"obec": "Libkovice pod Řípem",
+"psc": "413 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-sedmikraska-800872": {
+"domeny": [
+"obeclitomysl.cz",
+"litomysl.cz",
+"oulitomysl.cz",
+"mestolitomysl.cz",
+"obec-litomysl.cz",
+"ou-litomysl.cz",
+"mesto-litomysl.cz",
+"mestyslitomysl.cz"
+],
+"ico": "70156026",
+"nazev": "Mateřská škola Sedmikráska",
+"obec": "Litomyšl",
+"psc": "570 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-sedmikraska-vrbicany-142210": {
+"domeny": [
+"obecvrbicany.cz",
+"vrbicany.cz",
+"ouvrbicany.cz",
+"mestovrbicany.cz",
+"obec-vrbicany.cz",
+"ou-vrbicany.cz",
+"mesto-vrbicany.cz",
+"mestysvrbicany.cz"
+],
+"ico": "19987200",
+"nazev": "Mateřská škola Sedmikráska Vrbičany",
+"obec": "Vrbičany",
+"psc": "411 21",
+"ulice": "",
+"zs": false
+},
+"materska-skola-skastice-609223": {
+"domeny": [
+"obecskastice.cz",
+"skastice.cz",
+"ouskastice.cz",
+"mestoskastice.cz",
+"obec-skastice.cz",
+"ou-skastice.cz",
+"mesto-skastice.cz",
+"mestysskastice.cz"
+],
+"ico": "75024179",
+"nazev": "Mateřská škola Skaštice",
+"obec": "Skaštice",
+"psc": "767 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-slavce-530821": {
+"domeny": [
+"obecslavce.cz",
+"slavce.cz",
+"ouslavce.cz",
+"mestoslavce.cz",
+"obec-slavce.cz",
+"ou-slavce.cz",
+"mesto-slavce.cz",
+"mestysslavce.cz"
+],
+"ico": "75000881",
+"nazev": "Mateřská škola Slavče",
+"obec": "Slavče",
+"psc": "373 21",
+"ulice": "",
+"zs": false
+},
+"materska-skola-slavkov-612925": {
+"domeny": [
+"obecslavkov.cz",
+"slavkov.cz",
+"ouslavkov.cz",
+"mestoslavkov.cz",
+"obec-slavkov.cz",
+"ou-slavkov.cz",
+"mesto-slavkov.cz",
+"mestysslavkov.cz"
+],
+"ico": "70983844",
+"nazev": "Mateřská škola Slavkov",
+"obec": "Slavkov",
+"psc": "687 64",
+"ulice": "",
+"zs": false
+},
+"materska-skola-slavonov-584140": {
+"domeny": [
+"obecslavonov.cz",
+"slavonov.cz",
+"ouslavonov.cz",
+"mestoslavonov.cz",
+"obec-slavonov.cz",
+"ou-slavonov.cz",
+"mesto-slavonov.cz",
+"mestysslavonov.cz"
+],
+"ico": "70985847",
+"nazev": "Mateřská škola Slavoňov",
+"obec": "Slavoňov",
+"psc": "549 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-slunicko-holesov-609711": {
+"domeny": [
+"obecholesov.cz",
+"holesov.cz",
+"ouholesov.cz",
+"mestoholesov.cz",
+"obec-holesov.cz",
+"ou-holesov.cz",
+"mesto-holesov.cz",
+"mestysholesov.cz"
+],
+"ico": "70993696",
+"nazev": "Mateřská škola Sluníčko Holešov",
+"obec": "Holešov",
+"psc": "769 01",
+"ulice": "Sokolská",
+"zs": false
+},
+"materska-skola-smrzovka-563444": {
+"domeny": [
+"obecsmrzovka.cz",
+"smrzovka.cz",
+"ousmrzovka.cz",
+"mestosmrzovka.cz",
+"obec-smrzovka.cz",
+"ou-smrzovka.cz",
+"mesto-smrzovka.cz",
+"mestyssmrzovka.cz"
+],
+"ico": "70695377",
+"nazev": "Mateřská škola Smržovka",
+"obec": "Smržovka",
+"psc": "468 51",
+"ulice": "Havlíčkova",
+"zs": false
+},
+"materska-skola-sosnova-560151": {
+"domeny": [
+"obecsosnova.cz",
+"sosnova.cz",
+"ousosnova.cz",
+"mestososnova.cz",
+"obec-sosnova.cz",
+"ou-sosnova.cz",
+"mesto-sosnova.cz",
+"mestyssosnova.cz"
+],
+"ico": "72742160",
+"nazev": "Mateřská škola Sosnová",
+"obec": "Sosnová",
+"psc": "470 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-stare-hodejovice-530848": {
+"domeny": [
+"obecstarehodejovice.cz",
+"starehodejovice.cz",
+"oustarehodejovice.cz",
+"mestostarehodejovice.cz",
+"obec-stare-hodejovice.cz",
+"stare-hodejovice.cz",
+"ou-stare-hodejovice.cz",
+"mesto-stare-hodejovice.cz",
+"obecstare-hodejovice.cz",
+"mestysstarehodejovice.cz"
+],
+"ico": "71000151",
+"nazev": "Mateřská škola Staré Hodějovice",
+"obec": "Staré Hodějovice",
+"psc": "370 08",
+"ulice": "Obecní",
+"zs": false
+},
+"materska-skola-stary-smolivec-544393": {
+"domeny": [
+"obecmladysmolivec.cz",
+"mladysmolivec.cz",
+"oumladysmolivec.cz",
+"mestomladysmolivec.cz",
+"obec-mlady-smolivec.cz",
+"mlady-smolivec.cz",
+"ou-mlady-smolivec.cz",
+"mesto-mlady-smolivec.cz",
+"obecmlady-smolivec.cz",
+"mestysmladysmolivec.cz"
+],
+"ico": "60611812",
+"nazev": "Mateřská škola Starý Smolivec",
+"obec": "Mladý Smolivec",
+"psc": "335 01",
+"ulice": "Starý Smolivec",
+"zs": false
+},
+"materska-skola-strachotice-614545": {
+"domeny": [
+"obecstrachotice.cz",
+"strachotice.cz",
+"oustrachotice.cz",
+"mestostrachotice.cz",
+"obec-strachotice.cz",
+"ou-strachotice.cz",
+"mesto-strachotice.cz",
+"mestysstrachotice.cz"
+],
+"ico": "71000909",
+"nazev": "Mateřská škola Strachotice",
+"obec": "Strachotice",
+"psc": "671 29",
+"ulice": "",
+"zs": false
+},
+"materska-skola-straskov-vodochody-565820": {
+"domeny": [
+"obecstraskovvodochody.cz",
+"straskovvodochody.cz",
+"oustraskovvodochody.cz",
+"mestostraskovvodochody.cz",
+"obec-straskov-vodochody.cz",
+"straskov-vodochody.cz",
+"ou-straskov-vodochody.cz",
+"mesto-straskov-vodochody.cz",
+"obecstraskov-vodochody.cz",
+"mestysstraskovvodochody.cz"
+],
+"ico": "72741449",
+"nazev": "Mateřská škola Straškov-Vodochody",
+"obec": "Straškov-Vodochody",
+"psc": "411 84",
+"ulice": "",
+"zs": false
+},
+"materska-skola-strasnov-514516": {
+"domeny": [
+"obecstrasnov.cz",
+"strasnov.cz",
+"oustrasnov.cz",
+"mestostrasnov.cz",
+"obec-strasnov.cz",
+"ou-strasnov.cz",
+"mesto-strasnov.cz",
+"mestysstrasnov.cz"
+],
+"ico": "75033828",
+"nazev": "Mateřská škola Strašnov",
+"obec": "Strašnov",
+"psc": "294 31",
+"ulice": "",
+"zs": false
+},
+"materska-skola-stritez-608421": {
+"domeny": [
+"obecstritez.cz",
+"stritez.cz",
+"oustritez.cz",
+"mestostritez.cz",
+"obec-stritez.cz",
+"ou-stritez.cz",
+"mesto-stritez.cz",
+"mestysstritez.cz"
+],
+"ico": "75020564",
+"nazev": "Mateřská škola Střítež",
+"obec": "Střítež",
+"psc": "588 11",
+"ulice": "",
+"zs": false
+},
+"materska-skola-stritez-nad-becvou-634201": {
+"domeny": [
+"obecstriteznadbecvou.cz",
+"striteznadbecvou.cz",
+"oustriteznadbecvou.cz",
+"mestostriteznadbecvou.cz",
+"obec-stritez-nad-becvou.cz",
+"stritez-nad-becvou.cz",
+"ou-stritez-nad-becvou.cz",
+"mesto-stritez-nad-becvou.cz",
+"obecstritez-nad-becvou.cz",
+"mestysstriteznadbecvou.cz"
+],
+"ico": "70984573",
+"nazev": "Mateřská škola Střítež nad Bečvou",
+"obec": "Střítež nad Bečvou",
+"psc": "756 52",
+"ulice": "",
+"zs": false
+},
+"materska-skola-studanka-546566": {
+"domeny": [
+"obecstudanka.cz",
+"studanka.cz",
+"oustudanka.cz",
+"mestostudanka.cz",
+"obec-studanka.cz",
+"ou-studanka.cz",
+"mesto-studanka.cz",
+"mestysstudanka.cz"
+],
+"ico": "75006961",
+"nazev": "Mateřská škola Studánka",
+"obec": "Studánka",
+"psc": "347 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-studnice-613701": {
+"domeny": [
+"obecstudnice.cz",
+"studnice.cz",
+"oustudnice.cz",
+"mestostudnice.cz",
+"obec-studnice.cz",
+"ou-studnice.cz",
+"mesto-studnice.cz",
+"mestysstudnice.cz"
+],
+"ico": "71003711",
+"nazev": "Mateřská škola Studnice",
+"obec": "Studnice",
+"psc": "683 08",
+"ulice": "",
+"zs": false
+},
+"materska-skola-studnicka-608561": {
+"domeny": [
+"obecvysokestudnice.cz",
+"vysokestudnice.cz",
+"ouvysokestudnice.cz",
+"mestovysokestudnice.cz",
+"obec-vysoke-studnice.cz",
+"vysoke-studnice.cz",
+"ou-vysoke-studnice.cz",
+"mesto-vysoke-studnice.cz",
+"obecvysoke-studnice.cz",
+"mestysvysokestudnice.cz"
+],
+"ico": "71011552",
+"nazev": "Mateřská škola Studnička",
+"obec": "Vysoké Studnice",
+"psc": "588 21",
+"ulice": "",
+"zs": false
+},
+"materska-skola-sudice-611538": {
+"domeny": [
+"obecsudice.cz",
+"sudice.cz",
+"ousudice.cz",
+"mestosudice.cz",
+"obec-sudice.cz",
+"ou-sudice.cz",
+"mesto-sudice.cz",
+"mestyssudice.cz"
+],
+"ico": "71012397",
+"nazev": "Mateřská škola Sudice",
+"obec": "Sudice",
+"psc": "675 73",
+"ulice": "",
+"zs": false
+},
+"materska-skola-sukorady-se-skolni-jidelnou-565871": {
+"domeny": [
+"obecsnedovice.cz",
+"snedovice.cz",
+"ousnedovice.cz",
+"mestosnedovice.cz",
+"obec-snedovice.cz",
+"ou-snedovice.cz",
+"mesto-snedovice.cz",
+"mestyssnedovice.cz"
+],
+"ico": "72745231",
+"nazev": "Mateřská škola Sukorady se školní jídelnou",
+"obec": "Snědovice",
+"psc": "411 74",
+"ulice": "",
+"zs": false
+},
+"materska-skola-sv-josefa-017130": {
+"domeny": [
+"obeckojetin.cz",
+"kojetin.cz",
+"oukojetin.cz",
+"mestokojetin.cz",
+"obec-kojetin.cz",
+"ou-kojetin.cz",
+"mesto-kojetin.cz",
+"mestyskojetin.cz"
+],
+"ico": "71341188",
+"nazev": "Mateřská škola sv. Josefa",
+"obec": "Kojetín",
+"psc": "752 01",
+"ulice": "Komenského náměstí",
+"zs": false
+},
+"materska-skola-svata-045192": {
+"domeny": [
+"obecsvata.cz",
+"svata.cz",
+"ousvata.cz",
+"mestosvata.cz",
+"obec-svata.cz",
+"ou-svata.cz",
+"mesto-svata.cz",
+"mestyssvata.cz"
+],
+"ico": "21551341",
+"nazev": "Mateřská škola Svatá",
+"obec": "Svatá",
+"psc": "267 51",
+"ulice": "",
+"zs": false
+},
+"materska-skola-svatoslav-611104": {
+"domeny": [
+"obecsvatoslav.cz",
+"svatoslav.cz",
+"ousvatoslav.cz",
+"mestosvatoslav.cz",
+"obec-svatoslav.cz",
+"ou-svatoslav.cz",
+"mesto-svatoslav.cz",
+"mestyssvatoslav.cz"
+],
+"ico": "70983658",
+"nazev": "Mateřská škola Svatoslav",
+"obec": "Svatoslav",
+"psc": "675 07",
+"ulice": "",
+"zs": false
+},
+"materska-skola-svaty-mikulas-142-512998": {
+"domeny": [
+"obecsvatymikulas.cz",
+"svatymikulas.cz",
+"ousvatymikulas.cz",
+"mestosvatymikulas.cz",
+"obec-svaty-mikulas.cz",
+"svaty-mikulas.cz",
+"ou-svaty-mikulas.cz",
+"mesto-svaty-mikulas.cz",
+"obecsvaty-mikulas.cz",
+"mestyssvatymikulas.cz"
+],
+"ico": "70990620",
+"nazev": "Mateřská škola Svatý Mikuláš 142",
+"obec": "Svatý Mikuláš",
+"psc": "284 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-svetla-nad-sazavou-580454": {
+"domeny": [
+"obecsvetlanadsazavou.cz",
+"svetlanadsazavou.cz",
+"ousvetlanadsazavou.cz",
+"mestosvetlanadsazavou.cz",
+"obec-svetla-nad-sazavou.cz",
+"svetla-nad-sazavou.cz",
+"ou-svetla-nad-sazavou.cz",
+"mesto-svetla-nad-sazavou.cz",
+"obecsvetla-nad-sazavou.cz",
+"mestyssvetlanadsazavou.cz"
+],
+"ico": "75017211",
+"nazev": "Mateřská škola Světlá nad Sázavou",
+"obec": "Světlá nad Sázavou",
+"psc": "582 91",
+"ulice": "Lánecká",
+"zs": false
+},
+"materska-skola-svor-560607": {
+"domeny": [
+"obecsvor.cz",
+"svor.cz",
+"ousvor.cz",
+"mestosvor.cz",
+"obec-svor.cz",
+"ou-svor.cz",
+"mesto-svor.cz",
+"mestyssvor.cz"
+],
+"ico": "71010513",
+"nazev": "Mateřská škola Svor",
+"obec": "Svor",
+"psc": "471 51",
+"ulice": "",
+"zs": false
+},
+"materska-skola-tasov-125-606984": {
+"domeny": [
+"obectasov.cz",
+"tasov.cz",
+"outasov.cz",
+"mestotasov.cz",
+"obec-tasov.cz",
+"ou-tasov.cz",
+"mesto-tasov.cz",
+"mestystasov.cz"
+],
+"ico": "70991693",
+"nazev": "Mateřská škola Tasov 125",
+"obec": "Tasov",
+"psc": "696 63",
+"ulice": "",
+"zs": false
+},
+"materska-skola-terezinska-ul-lovosice-565579": {
+"domeny": [
+"obeclovosice.cz",
+"lovosice.cz",
+"oulovosice.cz",
+"mestolovosice.cz",
+"obec-lovosice.cz",
+"ou-lovosice.cz",
+"mesto-lovosice.cz",
+"mestyslovosice.cz"
+],
+"ico": "46772103",
+"nazev": "Mateřská škola Terezínská ul. Lovosice",
+"obec": "Lovosice",
+"psc": "410 02",
+"ulice": "Terezínská",
+"zs": false
+},
+"materska-skola-tis-031001": {
+"domeny": [
+"obectis.cz",
+"tis.cz",
+"outis.cz",
+"mestotis.cz",
+"obec-tis.cz",
+"ou-tis.cz",
+"mesto-tis.cz",
+"mestystis.cz"
+],
+"ico": "72544104",
+"nazev": "Mateřská škola Tis",
+"obec": "Tis",
+"psc": "582 43",
+"ulice": "",
+"zs": false
+},
+"materska-skola-travcice-155-565919": {
+"domeny": [
+"obectravcice.cz",
+"travcice.cz",
+"outravcice.cz",
+"mestotravcice.cz",
+"obec-travcice.cz",
+"ou-travcice.cz",
+"mesto-travcice.cz",
+"mestystravcice.cz"
+],
+"ico": "72754656",
+"nazev": "Mateřská škola Travčice 155",
+"obec": "Travčice",
+"psc": "412 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-trmice-569124": {
+"domeny": [
+"obectrmice.cz",
+"trmice.cz",
+"outrmice.cz",
+"mestotrmice.cz",
+"obec-trmice.cz",
+"ou-trmice.cz",
+"mesto-trmice.cz",
+"mestystrmice.cz"
+],
+"ico": "72743336",
+"nazev": "Mateřská škola Trmice",
+"obec": "Trmice",
+"psc": "400 04",
+"ulice": "Lovecká",
+"zs": false
+},
+"materska-skola-tucin-184787": {
+"domeny": [
+"obectucin.cz",
+"tucin.cz",
+"outucin.cz",
+"mestotucin.cz",
+"obec-tucin.cz",
+"ou-tucin.cz",
+"mesto-tucin.cz",
+"mestystucin.cz"
+],
+"ico": "47184787",
+"nazev": "Mateřská škola Tučín",
+"obec": "Tučín",
+"psc": "751 16",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ublo-606381": {
+"domeny": [
+"obecublo.cz",
+"ublo.cz",
+"ouublo.cz",
+"mestoublo.cz",
+"obec-ublo.cz",
+"ou-ublo.cz",
+"mesto-ublo.cz",
+"mestysublo.cz"
+],
+"ico": "70984034",
+"nazev": "Mateřská škola Ublo",
+"obec": "Ublo",
+"psc": "763 12",
+"ulice": "",
+"zs": false
+},
+"materska-skola-uhlirske-janovice-513056": {
+"domeny": [
+"obecuhlirskejanovice.cz",
+"uhlirskejanovice.cz",
+"ouuhlirskejanovice.cz",
+"mestouhlirskejanovice.cz",
+"obec-uhlirske-janovice.cz",
+"uhlirske-janovice.cz",
+"ou-uhlirske-janovice.cz",
+"mesto-uhlirske-janovice.cz",
+"obecuhlirske-janovice.cz",
+"mestysuhlirskejanovice.cz"
+],
+"ico": "70877513",
+"nazev": "Mateřská škola Uhlířské Janovice",
+"obec": "Uhlířské Janovice",
+"psc": "285 04",
+"ulice": "Třebízského",
+"zs": false
+},
+"materska-skola-unesov-544946": {
+"domeny": [
+"obecunesov.cz",
+"unesov.cz",
+"ouunesov.cz",
+"mestounesov.cz",
+"obec-unesov.cz",
+"ou-unesov.cz",
+"mesto-unesov.cz",
+"mestysunesov.cz"
+],
+"ico": "60611103",
+"nazev": "Mateřská škola Úněšov",
+"obec": "Úněšov",
+"psc": "330 38",
+"ulice": "",
+"zs": false
+},
+"materska-skola-v-libankach-800937": {
+"domeny": [
+"obeclitomysl.cz",
+"litomysl.cz",
+"oulitomysl.cz",
+"mestolitomysl.cz",
+"obec-litomysl.cz",
+"ou-litomysl.cz",
+"mesto-litomysl.cz",
+"mestyslitomysl.cz"
+],
+"ico": "70156018",
+"nazev": "Mateřská škola v Líbánkách",
+"obec": "Litomyšl",
+"psc": "570 01",
+"ulice": "Lidická",
+"zs": false
+},
+"materska-skola-valasska-senice-400642": {
+"domeny": [
+"obecvalasskasenice.cz",
+"valasskasenice.cz",
+"ouvalasskasenice.cz",
+"mestovalasskasenice.cz",
+"obec-valasska-senice.cz",
+"valasska-senice.cz",
+"ou-valasska-senice.cz",
+"mesto-valasska-senice.cz",
+"obecvalasska-senice.cz",
+"mestysvalasskasenice.cz"
+],
+"ico": "70988587",
+"nazev": "Mateřská škola Valašská Senice",
+"obec": "Valašská Senice",
+"psc": "756 14",
+"ulice": "",
+"zs": false
+},
+"materska-skola-valasske-klobouky-606160": {
+"domeny": [
+"obecvalasskeklobouky.cz",
+"valasskeklobouky.cz",
+"ouvalasskeklobouky.cz",
+"mestovalasskeklobouky.cz",
+"obec-valasske-klobouky.cz",
+"valasske-klobouky.cz",
+"ou-valasske-klobouky.cz",
+"mesto-valasske-klobouky.cz",
+"obecvalasske-klobouky.cz",
+"mestysvalasskeklobouky.cz"
+],
+"ico": "71002332",
+"nazev": "Mateřská škola Valašské Klobouky",
+"obec": "Valašské Klobouky",
+"psc": "766 01",
+"ulice": "Školní",
+"zs": false
+},
+"materska-skola-vatin-616521": {
+"domeny": [
+"obecvatin.cz",
+"vatin.cz",
+"ouvatin.cz",
+"mestovatin.cz",
+"obec-vatin.cz",
+"ou-vatin.cz",
+"mesto-vatin.cz",
+"mestysvatin.cz"
+],
+"ico": "75021943",
+"nazev": "Mateřská škola Vatín",
+"obec": "Vatín",
+"psc": "591 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-vavrinec-600498": {
+"domeny": [
+"obecvavrinec.cz",
+"vavrinec.cz",
+"ouvavrinec.cz",
+"mestovavrinec.cz",
+"obec-vavrinec.cz",
+"ou-vavrinec.cz",
+"mesto-vavrinec.cz",
+"mestysvavrinec.cz"
+],
+"ico": "75023750",
+"nazev": "Mateřská škola Vavřinec",
+"obec": "Vavřinec",
+"psc": "679 13",
+"ulice": "",
+"zs": false
+},
+"materska-skola-vazany-612569": {
+"domeny": [
+"obecvazany.cz",
+"vazany.cz",
+"ouvazany.cz",
+"mestovazany.cz",
+"obec-vazany.cz",
+"ou-vazany.cz",
+"mesto-vazany.cz",
+"mestysvazany.cz"
+],
+"ico": "70997080",
+"nazev": "Mateřská škola Vážany",
+"obec": "Vážany",
+"psc": "687 37",
+"ulice": "",
+"zs": false
+},
+"materska-skola-vcelka-631016": {
+"domeny": [
+"obeclisna.cz",
+"lisna.cz",
+"oulisna.cz",
+"mestolisna.cz",
+"obec-lisna.cz",
+"ou-lisna.cz",
+"mesto-lisna.cz",
+"mestyslisna.cz"
+],
+"ico": "75029979",
+"nazev": "Mateřská škola Včelka",
+"obec": "Líšná",
+"psc": "751 15",
+"ulice": "",
+"zs": false
+},
+"materska-skola-ve-velesine-075425": {
+"domeny": [
+"obecvelesin.cz",
+"velesin.cz",
+"ouvelesin.cz",
+"mestovelesin.cz",
+"obec-velesin.cz",
+"ou-velesin.cz",
+"mesto-velesin.cz",
+"mestysvelesin.cz"
+],
+"ico": "75000377",
+"nazev": "Mateřská škola ve Velešíně",
+"obec": "Velešín",
+"psc": "382 32",
+"ulice": "Školní",
+"zs": false
+},
+"materska-skola-vechnov-615495": {
+"domeny": [
+"obecvechnov.cz",
+"vechnov.cz",
+"ouvechnov.cz",
+"mestovechnov.cz",
+"obec-vechnov.cz",
+"ou-vechnov.cz",
+"mesto-vechnov.cz",
+"mestysvechnov.cz"
+],
+"ico": "75020556",
+"nazev": "Mateřská škola Věchnov",
+"obec": "Věchnov",
+"psc": "593 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-velka-bukovina-561034": {
+"domeny": [
+"obecvelkabukovina.cz",
+"velkabukovina.cz",
+"ouvelkabukovina.cz",
+"mestovelkabukovina.cz",
+"obec-velka-bukovina.cz",
+"velka-bukovina.cz",
+"ou-velka-bukovina.cz",
+"mesto-velka-bukovina.cz",
+"obecvelka-bukovina.cz",
+"mestysvelkabukovina.cz"
+],
+"ico": "72745401",
+"nazev": "Mateřská škola Velká Bukovina",
+"obec": "Velká Bukovina",
+"psc": "407 29",
+"ulice": "",
+"zs": false
+},
+"materska-skola-velke-bilovice-604884": {
+"domeny": [
+"obecvelkebilovice.cz",
+"velkebilovice.cz",
+"ouvelkebilovice.cz",
+"mestovelkebilovice.cz",
+"obec-velke-bilovice.cz",
+"velke-bilovice.cz",
+"ou-velke-bilovice.cz",
+"mesto-velke-bilovice.cz",
+"obecvelke-bilovice.cz",
+"mestysvelkebilovice.cz"
+],
+"ico": "70941777",
+"nazev": "Mateřská škola Velké Bílovice",
+"obec": "Velké Bílovice",
+"psc": "691 02",
+"ulice": "Fabian",
+"zs": false
+},
+"materska-skola-velke-zernoseky-566036": {
+"domeny": [
+"obecvelkezernoseky.cz",
+"velkezernoseky.cz",
+"ouvelkezernoseky.cz",
+"mestovelkezernoseky.cz",
+"obec-velke-zernoseky.cz",
+"velke-zernoseky.cz",
+"ou-velke-zernoseky.cz",
+"mesto-velke-zernoseky.cz",
+"obecvelke-zernoseky.cz",
+"mestysvelkezernoseky.cz"
+],
+"ico": "72743506",
+"nazev": "Mateřská škola Velké Žernoseky",
+"obec": "Velké Žernoseky",
+"psc": "412 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-veselicko-631695": {
+"domeny": [
+"obecveselicko.cz",
+"veselicko.cz",
+"ouveselicko.cz",
+"mestoveselicko.cz",
+"obec-veselicko.cz",
+"ou-veselicko.cz",
+"mesto-veselicko.cz",
+"mestysveselicko.cz"
+],
+"ico": "75029961",
+"nazev": "Mateřská škola Veselíčko",
+"obec": "Veselíčko",
+"psc": "751 25",
+"ulice": "Tupec",
+"zs": false
+},
+"materska-skola-vidonin-616301": {
+"domeny": [
+"obecvidonin.cz",
+"vidonin.cz",
+"ouvidonin.cz",
+"mestovidonin.cz",
+"obec-vidonin.cz",
+"ou-vidonin.cz",
+"mesto-vidonin.cz",
+"mestysvidonin.cz"
+],
+"ico": "71011820",
+"nazev": "Mateřská škola Vidonín",
+"obec": "Vidonín",
+"psc": "594 57",
+"ulice": "",
+"zs": false
+},
+"materska-skola-viska-580284": {
+"domeny": [
+"obecviska.cz",
+"viska.cz",
+"ouviska.cz",
+"mestoviska.cz",
+"obec-viska.cz",
+"ou-viska.cz",
+"mesto-viska.cz",
+"mestysviska.cz"
+],
+"ico": "70991863",
+"nazev": "Mateřská škola Víska",
+"obec": "Víska",
+"psc": "583 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-vochov-544610": {
+"domeny": [
+"obecvochov.cz",
+"vochov.cz",
+"ouvochov.cz",
+"mestovochov.cz",
+"obec-vochov.cz",
+"ou-vochov.cz",
+"mesto-vochov.cz",
+"mestysvochov.cz"
+],
+"ico": "75009013",
+"nazev": "Mateřská škola Vochov",
+"obec": "Vochov",
+"psc": "330 23",
+"ulice": "",
+"zs": false
+},
+"materska-skola-vrbno-nad-lesy-566745": {
+"domeny": [
+"obecvrbnonadlesy.cz",
+"vrbnonadlesy.cz",
+"ouvrbnonadlesy.cz",
+"mestovrbnonadlesy.cz",
+"obec-vrbno-nad-lesy.cz",
+"vrbno-nad-lesy.cz",
+"ou-vrbno-nad-lesy.cz",
+"mesto-vrbno-nad-lesy.cz",
+"obecvrbno-nad-lesy.cz",
+"mestysvrbnonadlesy.cz"
+],
+"ico": "72745282",
+"nazev": "Mateřská škola Vrbno nad Lesy",
+"obec": "Vrbno nad Lesy",
+"psc": "439 06",
+"ulice": "",
+"zs": false
+},
+"materska-skola-vsechlapy-515229": {
+"domeny": [
+"obecvsechlapy.cz",
+"vsechlapy.cz",
+"ouvsechlapy.cz",
+"mestovsechlapy.cz",
+"obec-vsechlapy.cz",
+"ou-vsechlapy.cz",
+"mesto-vsechlapy.cz",
+"mestysvsechlapy.cz"
+],
+"ico": "75030900",
+"nazev": "Mateřská škola Všechlapy",
+"obec": "Všechlapy",
+"psc": "288 02",
+"ulice": "",
+"zs": false
+},
+"materska-skola-vsejany-514800": {
+"domeny": [
+"obecvsejany.cz",
+"vsejany.cz",
+"ouvsejany.cz",
+"mestovsejany.cz",
+"obec-vsejany.cz",
+"ou-vsejany.cz",
+"mesto-vsejany.cz",
+"mestysvsejany.cz"
+],
+"ico": "75034352",
+"nazev": "Mateřská škola Všejany",
+"obec": "Všejany",
+"psc": "294 43",
+"ulice": "U Školy",
+"zs": false
+},
+"materska-skola-zabori-nad-labem-513129": {
+"domeny": [
+"obeczaborinadlabem.cz",
+"zaborinadlabem.cz",
+"ouzaborinadlabem.cz",
+"mestozaborinadlabem.cz",
+"obec-zabori-nad-labem.cz",
+"zabori-nad-labem.cz",
+"ou-zabori-nad-labem.cz",
+"mesto-zabori-nad-labem.cz",
+"obeczabori-nad-labem.cz",
+"mestyszaborinadlabem.cz"
+],
+"ico": "75030705",
+"nazev": "Mateřská škola Záboří nad Labem",
+"obec": "Záboří nad Labem",
+"psc": "285 74",
+"ulice": "K Havaji",
+"zs": false
+},
+"materska-skola-zahorany-540533": {
+"domeny": [
+"obeczahorany.cz",
+"zahorany.cz",
+"ouzahorany.cz",
+"mestozahorany.cz",
+"obec-zahorany.cz",
+"ou-zahorany.cz",
+"mesto-zahorany.cz",
+"mestyszahorany.cz"
+],
+"ico": "75005956",
+"nazev": "Mateřská škola Zahořany",
+"obec": "Zahořany",
+"psc": "344 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-zar-530708": {
+"domeny": [
+"obeczar.cz",
+"zar.cz",
+"ouzar.cz",
+"mestozar.cz",
+"obec-zar.cz",
+"ou-zar.cz",
+"mesto-zar.cz",
+"mestyszar.cz"
+],
+"ico": "75001080",
+"nazev": "Mateřská škola Žár",
+"obec": "Žár",
+"psc": "374 01",
+"ulice": "",
+"zs": false
+},
+"materska-skola-zasova-634511": {
+"domeny": [
+"obeczasova.cz",
+"zasova.cz",
+"ouzasova.cz",
+"mestozasova.cz",
+"obec-zasova.cz",
+"ou-zasova.cz",
+"mesto-zasova.cz",
+"mestyszasova.cz"
+],
+"ico": "70923965",
+"nazev": "Mateřská škola Zašová",
+"obec": "Zašová",
+"psc": "756 51",
+"ulice": "Veselá",
+"zs": false
+},
+"materska-skola-zbraslav-604230": {
+"domeny": [
+"obeczbraslav.cz",
+"zbraslav.cz",
+"ouzbraslav.cz",
+"mestozbraslav.cz",
+"obec-zbraslav.cz",
+"ou-zbraslav.cz",
+"mesto-zbraslav.cz",
+"mestyszbraslav.cz"
+],
+"ico": "70994072",
+"nazev": "Mateřská škola Zbraslav",
+"obec": "Zbraslav",
+"psc": "664 84",
+"ulice": "Komenského",
+"zs": false
+},
+"materska-skola-zbysov-613395": {
+"domeny": [
+"obeczbysov.cz",
+"zbysov.cz",
+"ouzbysov.cz",
+"mestozbysov.cz",
+"obec-zbysov.cz",
+"ou-zbysov.cz",
+"mesto-zbysov.cz",
+"mestyszbysov.cz"
+],
+"ico": "71003550",
+"nazev": "Mateřská škola Zbýšov",
+"obec": "Zbýšov",
+"psc": "683 52",
+"ulice": "",
+"zs": false
+},
+"materska-skola-zdechovice-156660": {
+"domeny": [
+"obeczdechovice.cz",
+"zdechovice.cz",
+"ouzdechovice.cz",
+"mestozdechovice.cz",
+"obec-zdechovice.cz",
+"ou-zdechovice.cz",
+"mesto-zdechovice.cz",
+"mestyszdechovice.cz"
+],
+"ico": "60156660",
+"nazev": "Mateřská škola Zdechovice",
+"obec": "Zdechovice",
+"psc": "533 11",
+"ulice": "",
+"zs": false
+},
+"materska-skola-zilina-511321": {
+"domeny": [
+"obeczilina.cz",
+"zilina.cz",
+"ouzilina.cz",
+"mestozilina.cz",
+"obec-zilina.cz",
+"ou-zilina.cz",
+"mesto-zilina.cz",
+"mestyszilina.cz"
+],
+"ico": "75030799",
+"nazev": "Mateřská škola Žilina",
+"obec": "Žilina",
+"psc": "273 01",
+"ulice": "Kladenská",
+"zs": false
+},
+"materska-skola-zlamanec-612330": {
+"domeny": [
+"obeczlamanec.cz",
+"zlamanec.cz",
+"ouzlamanec.cz",
+"mestozlamanec.cz",
+"obec-zlamanec.cz",
+"ou-zlamanec.cz",
+"mesto-zlamanec.cz",
+"mestyszlamanec.cz"
+],
+"ico": "70990387",
+"nazev": "Mateřská škola Zlámanec",
+"obec": "Zlámanec",
+"psc": "687 12",
+"ulice": "",
+"zs": false
+},
+"materska-skola-zubri-634741": {
+"domeny": [
+"obeczubri.cz",
+"zubri.cz",
+"ouzubri.cz",
+"mestozubri.cz",
+"obec-zubri.cz",
+"ou-zubri.cz",
+"mesto-zubri.cz",
+"mestyszubri.cz"
+],
+"ico": "70874581",
+"nazev": "Mateřská škola Zubří",
+"obec": "Zubří",
+"psc": "756 54",
+"ulice": "Sídliště",
+"zs": false
+},
+"ms-a-zs-slunecnice-033682": {
+"domeny": [
+"obecokrouhlice.cz",
+"okrouhlice.cz",
+"ouokrouhlice.cz",
+"mestookrouhlice.cz",
+"obec-okrouhlice.cz",
+"ou-okrouhlice.cz",
+"mesto-okrouhlice.cz",
+"mestysokrouhlice.cz"
+],
+"ico": "71341439",
+"nazev": "MŠ a ZŠ Slunečnice",
+"obec": "Okrouhlice",
+"psc": "582 31",
+"ulice": "",
+"zs": false
+},
+"ms-bitovcice-094177": {
+"domeny": [
+"obecbitovcice.cz",
+"bitovcice.cz",
+"oubitovcice.cz",
+"mestobitovcice.cz",
+"obec-bitovcice.cz",
+"ou-bitovcice.cz",
+"mesto-bitovcice.cz",
+"mestysbitovcice.cz"
+],
+"ico": "06701400",
+"nazev": "MŠ Bítovčice",
+"obec": "Bítovčice",
+"psc": "588 22",
+"ulice": "",
+"zs": false
+},
+"ms-cizkov-544032": {
+"domeny": [
+"obeccizkov.cz",
+"cizkov.cz",
+"oucizkov.cz",
+"mestocizkov.cz",
+"obec-cizkov.cz",
+"ou-cizkov.cz",
+"mesto-cizkov.cz",
+"mestyscizkov.cz"
+],
+"ico": "70993637",
+"nazev": "MŠ Čížkov",
+"obec": "Čížkov",
+"psc": "335 64",
+"ulice": "",
+"zs": false
+},
+"ms-dankovice-616254": {
+"domeny": [
+"obecdankovice.cz",
+"dankovice.cz",
+"oudankovice.cz",
+"mestodankovice.cz",
+"obec-dankovice.cz",
+"ou-dankovice.cz",
+"mesto-dankovice.cz",
+"mestysdankovice.cz"
+],
+"ico": "70998850",
+"nazev": "MŠ Daňkovice",
+"obec": "Daňkovice",
+"psc": "592 03",
+"ulice": "",
+"zs": false
+},
+"ms-horsovsky-tyn-000046": {
+"domeny": [
+"obechorsovskytyn.cz",
+"horsovskytyn.cz",
+"ouhorsovskytyn.cz",
+"mestohorsovskytyn.cz",
+"obec-horsovsky-tyn.cz",
+"horsovsky-tyn.cz",
+"ou-horsovsky-tyn.cz",
+"mesto-horsovsky-tyn.cz",
+"obechorsovsky-tyn.cz",
+"mestyshorsovskytyn.cz"
+],
+"ico": "75006278",
+"nazev": "MŠ Horšovský Týn",
+"obec": "Horšovský Týn",
+"psc": "346 01",
+"ulice": "Pionýrů",
+"zs": false
+},
+"ms-kaminek-126419": {
+"domeny": [
+"obeckamen.cz",
+"kamen.cz",
+"oukamen.cz",
+"mestokamen.cz",
+"obec-kamen.cz",
+"ou-kamen.cz",
+"mesto-kamen.cz",
+"mestyskamen.cz"
+],
+"ico": "17419719",
+"nazev": "MŠ Kamínek",
+"obec": "Kámen",
+"psc": "582 42",
+"ulice": "",
+"zs": false
+},
+"ms-klubicko-tlumacov-500636": {
+"domeny": [
+"obectlumacov.cz",
+"tlumacov.cz",
+"outlumacov.cz",
+"mestotlumacov.cz",
+"obec-tlumacov.cz",
+"ou-tlumacov.cz",
+"mesto-tlumacov.cz",
+"mestystlumacov.cz"
+],
+"ico": "25571079",
+"nazev": "MŠ Klubíčko Tlumačov",
+"obec": "Tlumačov",
+"psc": "763 62",
+"ulice": "U Trojice",
+"zs": false
+},
+"ms-kout-na-sumave-540291": {
+"domeny": [
+"obeckoutnasumave.cz",
+"koutnasumave.cz",
+"oukoutnasumave.cz",
+"mestokoutnasumave.cz",
+"obec-kout-na-sumave.cz",
+"kout-na-sumave.cz",
+"ou-kout-na-sumave.cz",
+"mesto-kout-na-sumave.cz",
+"obeckout-na-sumave.cz",
+"mestyskoutnasumave.cz"
+],
+"ico": "70990476",
+"nazev": "MŠ Kout na Šumavě",
+"obec": "Kout na Šumavě",
+"psc": "345 02",
+"ulice": "",
+"zs": false
+},
+"ms-kvicovice-540550": {
+"domeny": [
+"obeckvicovice.cz",
+"kvicovice.cz",
+"oukvicovice.cz",
+"mestokvicovice.cz",
+"obec-kvicovice.cz",
+"ou-kvicovice.cz",
+"mesto-kvicovice.cz",
+"mestyskvicovice.cz"
+],
+"ico": "75006588",
+"nazev": "MŠ Kvíčovice",
+"obec": "Kvíčovice",
+"psc": "345 62",
+"ulice": "",
+"zs": false
+},
+"ms-litohlavy-000321": {
+"domeny": [
+"obeclitohlavy.cz",
+"litohlavy.cz",
+"oulitohlavy.cz",
+"mestolitohlavy.cz",
+"obec-litohlavy.cz",
+"ou-litohlavy.cz",
+"mesto-litohlavy.cz",
+"mestyslitohlavy.cz"
+],
+"ico": "75006944",
+"nazev": "MŠ Litohlavy",
+"obec": "Litohlavy",
+"psc": "337 01",
+"ulice": "",
+"zs": false
+},
+"ms-prikosice-000224": {
+"domeny": [
+"obecprikosice.cz",
+"prikosice.cz",
+"ouprikosice.cz",
+"mestoprikosice.cz",
+"obec-prikosice.cz",
+"ou-prikosice.cz",
+"mesto-prikosice.cz",
+"mestysprikosice.cz"
+],
+"ico": "70983691",
+"nazev": "MŠ Příkosice",
+"obec": "Příkosice",
+"psc": "338 43",
+"ulice": "",
+"zs": false
+},
+"ms-racek-059088": {
+"domeny": [
+"obecrakova.cz",
+"rakova.cz",
+"ourakova.cz",
+"mestorakova.cz",
+"obec-rakova.cz",
+"ou-rakova.cz",
+"mesto-rakova.cz",
+"mestysrakova.cz"
+],
+"ico": "71294741",
+"nazev": "MŠ Ráček",
+"obec": "Raková",
+"psc": "337 01",
+"ulice": "",
+"zs": false
+},
+"ms-repovanka-514664": {
+"domeny": [
+"obecrepov.cz",
+"repov.cz",
+"ourepov.cz",
+"mestorepov.cz",
+"obec-repov.cz",
+"ou-repov.cz",
+"mesto-repov.cz",
+"mestysrepov.cz"
+],
+"ico": "25724771",
+"nazev": "MŠ Řepovanka",
+"obec": "Řepov",
+"psc": "293 01",
+"ulice": "",
+"zs": false
+},
+"ms-rozvadov-546370": {
+"domeny": [
+"obecrozvadov.cz",
+"rozvadov.cz",
+"ourozvadov.cz",
+"mestorozvadov.cz",
+"obec-rozvadov.cz",
+"ou-rozvadov.cz",
+"mesto-rozvadov.cz",
+"mestysrozvadov.cz"
+],
+"ico": "60610328",
+"nazev": "MŠ Rozvadov",
+"obec": "Rozvadov",
+"psc": "348 06",
+"ulice": "",
+"zs": false
+},
+"ms-sec-543974": {
+"domeny": [
+"obecsec.cz",
+"sec.cz",
+"ousec.cz",
+"mestosec.cz",
+"obec-sec.cz",
+"ou-sec.cz",
+"mesto-sec.cz",
+"mestyssec.cz"
+],
+"ico": "75005778",
+"nazev": "MŠ Seč",
+"obec": "Seč",
+"psc": "336 01",
+"ulice": "",
+"zs": false
+},
+"ms-sedlejov-096439": {
+"domeny": [
+"obecsedlejov.cz",
+"sedlejov.cz",
+"ousedlejov.cz",
+"mestosedlejov.cz",
+"obec-sedlejov.cz",
+"ou-sedlejov.cz",
+"mesto-sedlejov.cz",
+"mestyssedlejov.cz"
+],
+"ico": "07197713",
+"nazev": "MŠ Sedlejov",
+"obec": "Sedlejov",
+"psc": "588 62",
+"ulice": "",
+"zs": false
+},
+"ms-stritez-611724": {
+"domeny": [
+"obecstritez.cz",
+"stritez.cz",
+"oustritez.cz",
+"mestostritez.cz",
+"obec-stritez.cz",
+"ou-stritez.cz",
+"mesto-stritez.cz",
+"mestysstritez.cz"
+],
+"ico": "71012141",
+"nazev": "MŠ Střítež",
+"obec": "Střítež",
+"psc": "674 01",
+"ulice": "",
+"zs": false
+},
+"ms-vselibice-113953": {
+"domeny": [
+"obecvselibice.cz",
+"vselibice.cz",
+"ouvselibice.cz",
+"mestovselibice.cz",
+"obec-vselibice.cz",
+"ou-vselibice.cz",
+"mesto-vselibice.cz",
+"mestysvselibice.cz"
+],
+"ico": "09360379",
+"nazev": "MŠ Všelibice",
+"obec": "Všelibice",
+"psc": "463 48",
+"ulice": "",
+"zs": false
+},
+"ms-zdravicko-101398": {
+"domeny": [
+"obecvendoli.cz",
+"vendoli.cz",
+"ouvendoli.cz",
+"mestovendoli.cz",
+"obec-vendoli.cz",
+"ou-vendoli.cz",
+"mesto-vendoli.cz",
+"mestysvendoli.cz"
+],
+"ico": "75113678",
+"nazev": "MŠ Zdravíčko",
+"obec": "Vendolí",
+"psc": "569 14",
+"ulice": "",
+"zs": false
+},
+"soukroma-materska-skola-neratovice-883165": {
+"domeny": [
+"obecneratovice.cz",
+"neratovice.cz",
+"ouneratovice.cz",
+"mestoneratovice.cz",
+"obec-neratovice.cz",
+"ou-neratovice.cz",
+"mesto-neratovice.cz",
+"mestysneratovice.cz"
+],
+"ico": "26132435",
+"nazev": "Soukromá mateřská škola Neratovice",
+"obec": "Neratovice",
+"psc": "277 11",
+"ulice": "Květnová",
+"zs": false
+},
+"soukroma-ms-bambino-126353": {
+"domeny": [
+"obecsvetlanadsazavou.cz",
+"svetlanadsazavou.cz",
+"ousvetlanadsazavou.cz",
+"mestosvetlanadsazavou.cz",
+"obec-svetla-nad-sazavou.cz",
+"svetla-nad-sazavou.cz",
+"ou-svetla-nad-sazavou.cz",
+"mesto-svetla-nad-sazavou.cz",
+"obecsvetla-nad-sazavou.cz",
+"mestyssvetlanadsazavou.cz"
+],
+"ico": "25265695",
+"nazev": "Soukromá MŠ Bambino",
+"obec": "Světlá nad Sázavou",
+"psc": "582 91",
+"ulice": "Haškova",
+"zs": false
+},
+"soukroma-zs-a-ms-adelka-039087": {
+"domeny": [
+"obecmeclov.cz",
+"meclov.cz",
+"oumeclov.cz",
+"mestomeclov.cz",
+"obec-meclov.cz",
+"ou-meclov.cz",
+"mesto-meclov.cz",
+"mestysmeclov.cz"
+],
+"ico": "25221272",
+"nazev": "Soukromá ZŠ a MŠ Adélka",
+"obec": "Meclov",
+"psc": "346 01",
+"ulice": "Mašovice",
+"zs": false
+},
+"specialni-materska-skola-vilik-063123": {
+"domeny": [
+"obecdecinviiidolnioldrichov.cz",
+"decinviiidolnioldrichov.cz",
+"oudecinviiidolnioldrichov.cz",
+"mestodecinviiidolnioldrichov.cz",
+"obec-decin-viii-dolni-oldrichov.cz",
+"decin-viii-dolni-oldrichov.cz",
+"ou-decin-viii-dolni-oldrichov.cz",
+"mesto-decin-viii-dolni-oldrichov.cz",
+"obecdecin-viii-dolni-oldrichov.cz",
+"mestysdecinviiidolnioldrichov.cz"
+],
+"ico": "03719995",
+"nazev": "Speciální mateřská škola Vilík",
+"obec": "Děčín VIII - Dolní Oldřichov",
+"psc": "405 02",
+"ulice": "Teplická",
+"zs": false
+},
+"zaklad-skola-a-lesni-mater-skola-4listek-084911": {
+"domeny": [
+"obecusovice35301marianskelazne.cz",
+"usovice35301marianskelazne.cz",
+"ouusovice35301marianskelazne.cz",
+"mestousovice35301marianskelazne.cz",
+"obec-usovice-353-01-marianske-lazne.cz",
+"usovice-353-01-marianske-lazne.cz",
+"ou-usovice-353-01-marianske-lazne.cz",
+"mesto-usovice-353-01-marianske-lazne.cz",
+"obecusovice-353-01-marianske-lazne.cz",
+"mestysusovice35301marianskelazne.cz"
+],
+"ico": "01407104",
+"nazev": "Základ.škola a lesní mateř.škola 4lístek",
+"obec": "Úšovice, 353 01 Mariánské Lázně",
+"psc": "",
+"ulice": "pozemek p. č.",
+"zs": false
+},
+"zakladni-skola-a-materska-skola-bohdalec-014252": {
+"domeny": [
+"obecbohdalec.cz",
+"bohdalec.cz",
+"oubohdalec.cz",
+"mestobohdalec.cz",
+"obec-bohdalec.cz",
+"ou-bohdalec.cz",
+"mesto-bohdalec.cz",
+"mestysbohdalec.cz"
+],
+"ico": "75020947",
+"nazev": "Základní škola a mateřská škola Bohdalec",
+"obec": "Bohdalec",
+"psc": "592 55",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-bohuslavice-u-zlina-606305": {
+"domeny": [
+"obecbohuslaviceuzlina.cz",
+"bohuslaviceuzlina.cz",
+"oubohuslaviceuzlina.cz",
+"mestobohuslaviceuzlina.cz",
+"obec-bohuslavice-u-zlina.cz",
+"bohuslavice-u-zlina.cz",
+"ou-bohuslavice-u-zlina.cz",
+"mesto-bohuslavice-u-zlina.cz",
+"obecbohuslavice-u-zlina.cz",
+"mestysbohuslaviceuzlina.cz"
+],
+"ico": "70299862",
+"nazev": "Základní škola a mateřská škola Bohuslavice u Zlína",
+"obec": "Bohuslavice u Zlína",
+"psc": "763 51",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-borsice-u-blatnice-612909": {
+"domeny": [
+"obecborsiceublatnice.cz",
+"borsiceublatnice.cz",
+"ouborsiceublatnice.cz",
+"mestoborsiceublatnice.cz",
+"obec-borsice-u-blatnice.cz",
+"borsice-u-blatnice.cz",
+"ou-borsice-u-blatnice.cz",
+"mesto-borsice-u-blatnice.cz",
+"obecborsice-u-blatnice.cz",
+"mestysborsiceublatnice.cz"
+],
+"ico": "29540321",
+"nazev": "Základní škola a mateřská škola Boršice u Blatnice",
+"obec": "Boršice u Blatnice",
+"psc": "687 63",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-bosovice-613948": {
+"domeny": [
+"obecbosovice.cz",
+"bosovice.cz",
+"oubosovice.cz",
+"mestobosovice.cz",
+"obec-bosovice.cz",
+"ou-bosovice.cz",
+"mesto-bosovice.cz",
+"mestysbosovice.cz"
+],
+"ico": "75021617",
+"nazev": "Základní škola a mateřská škola Bošovice",
+"obec": "Bošovice",
+"psc": "683 54",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-brezuvky-605376": {
+"domeny": [
+"obecbrezuvky.cz",
+"brezuvky.cz",
+"oubrezuvky.cz",
+"mestobrezuvky.cz",
+"obec-brezuvky.cz",
+"ou-brezuvky.cz",
+"mesto-brezuvky.cz",
+"mestysbrezuvky.cz"
+],
+"ico": "75022044",
+"nazev": "Základní škola a mateřská škola Březůvky",
+"obec": "Březůvky",
+"psc": "763 45",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-brzkov-608901": {
+"domeny": [
+"obecbrzkov.cz",
+"brzkov.cz",
+"oubrzkov.cz",
+"mestobrzkov.cz",
+"obec-brzkov.cz",
+"ou-brzkov.cz",
+"mesto-brzkov.cz",
+"mestysbrzkov.cz"
+],
+"ico": "71001417",
+"nazev": "Základní škola a mateřská škola Brzkov",
+"obec": "Brzkov",
+"psc": "588 13",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-bystrice-pod-lopenikem-612356": {
+"domeny": [
+"obecbystricepodlopenikem.cz",
+"bystricepodlopenikem.cz",
+"oubystricepodlopenikem.cz",
+"mestobystricepodlopenikem.cz",
+"obec-bystrice-pod-lopenikem.cz",
+"bystrice-pod-lopenikem.cz",
+"ou-bystrice-pod-lopenikem.cz",
+"mesto-bystrice-pod-lopenikem.cz",
+"obecbystrice-pod-lopenikem.cz",
+"mestysbystricepodlopenikem.cz"
+],
+"ico": "70984701",
+"nazev": "Základní škola a mateřská škola Bystřice pod Lopeníkem",
+"obec": "Bystřice pod Lopeníkem",
+"psc": "687 55",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-cejle-700600": {
+"domeny": [
+"obeccejle.cz",
+"cejle.cz",
+"oucejle.cz",
+"mestocejle.cz",
+"obec-cejle.cz",
+"ou-cejle.cz",
+"mesto-cejle.cz",
+"mestyscejle.cz"
+],
+"ico": "75022117",
+"nazev": "Základní škola a mateřská škola Cejle",
+"obec": "Cejle",
+"psc": "588 51",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-ceske-kopisty-566125": {
+"domeny": [
+"obecterezin.cz",
+"terezin.cz",
+"outerezin.cz",
+"mestoterezin.cz",
+"obec-terezin.cz",
+"ou-terezin.cz",
+"mesto-terezin.cz",
+"mestysterezin.cz"
+],
+"ico": "72753765",
+"nazev": "Základní škola a mateřská škola České Kopisty",
+"obec": "Terezín",
+"psc": "412 01",
+"ulice": "České Kopisty",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-ceske-libchavy-589893": {
+"domeny": [
+"obecceskelibchavy.cz",
+"ceskelibchavy.cz",
+"ouceskelibchavy.cz",
+"mestoceskelibchavy.cz",
+"obec-ceske-libchavy.cz",
+"ceske-libchavy.cz",
+"ou-ceske-libchavy.cz",
+"mesto-ceske-libchavy.cz",
+"obecceske-libchavy.cz",
+"mestysceskelibchavy.cz"
+],
+"ico": "75015145",
+"nazev": "Základní škola a mateřská škola České Libchavy",
+"obec": "České Libchavy",
+"psc": "561 14",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-chanovice-014473": {
+"domeny": [
+"obecchanovice.cz",
+"chanovice.cz",
+"ouchanovice.cz",
+"mestochanovice.cz",
+"obec-chanovice.cz",
+"ou-chanovice.cz",
+"mesto-chanovice.cz",
+"mestyschanovice.cz"
+],
+"ico": "70988960",
+"nazev": "Základní škola a mateřská škola Chanovice",
+"obec": "Chanovice",
+"psc": "341 01",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-cheznovice-545128": {
+"domeny": [
+"obeccheznovice.cz",
+"cheznovice.cz",
+"oucheznovice.cz",
+"mestocheznovice.cz",
+"obec-cheznovice.cz",
+"ou-cheznovice.cz",
+"mesto-cheznovice.cz",
+"mestyscheznovice.cz"
+],
+"ico": "69983411",
+"nazev": "Základní škola a mateřská škola Cheznovice",
+"obec": "Cheznovice",
+"psc": "338 06",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-chuchelna-586118": {
+"domeny": [
+"obecchuchelna.cz",
+"chuchelna.cz",
+"ouchuchelna.cz",
+"mestochuchelna.cz",
+"obec-chuchelna.cz",
+"ou-chuchelna.cz",
+"mesto-chuchelna.cz",
+"mestyschuchelna.cz"
+],
+"ico": "70985375",
+"nazev": "Základní škola a mateřská škola Chuchelna",
+"obec": "Chuchelna",
+"psc": "513 01",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-cista-040135": {
+"domeny": [
+"obeccista.cz",
+"cista.cz",
+"oucista.cz",
+"mestocista.cz",
+"obec-cista.cz",
+"ou-cista.cz",
+"mesto-cista.cz",
+"mestyscista.cz"
+],
+"ico": "70985642",
+"nazev": "Základní škola a mateřská škola Čistá",
+"obec": "Čistá",
+"psc": "569 56",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-desov-611899": {
+"domeny": [
+"obecdesov.cz",
+"desov.cz",
+"oudesov.cz",
+"mestodesov.cz",
+"obec-desov.cz",
+"ou-desov.cz",
+"mesto-desov.cz",
+"mestysdesov.cz"
+],
+"ico": "70283192",
+"nazev": "Základní škola a mateřská škola Dešov",
+"obec": "Dešov",
+"psc": "675 33",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-dlouha-ves-580331": {
+"domeny": [
+"obecdlouhaves.cz",
+"dlouhaves.cz",
+"oudlouhaves.cz",
+"mestodlouhaves.cz",
+"obec-dlouha-ves.cz",
+"dlouha-ves.cz",
+"ou-dlouha-ves.cz",
+"mesto-dlouha-ves.cz",
+"obecdlouha-ves.cz",
+"mestysdlouhaves.cz"
+],
+"ico": "71004092",
+"nazev": "Základní škola a mateřská škola Dlouhá Ves",
+"obec": "Dlouhá Ves",
+"psc": "582 22",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-dobronin-019855": {
+"domeny": [
+"obecdobronin.cz",
+"dobronin.cz",
+"oudobronin.cz",
+"mestodobronin.cz",
+"obec-dobronin.cz",
+"ou-dobronin.cz",
+"mesto-dobronin.cz",
+"mestysdobronin.cz"
+],
+"ico": "71001433",
+"nazev": "Základní škola a mateřská škola Dobronín",
+"obec": "Dobronín",
+"psc": "588 12",
+"ulice": "Jarní",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-dobsice-614740": {
+"domeny": [
+"obecdobsice.cz",
+"dobsice.cz",
+"oudobsice.cz",
+"mestodobsice.cz",
+"obec-dobsice.cz",
+"ou-dobsice.cz",
+"mesto-dobsice.cz",
+"mestysdobsice.cz"
+],
+"ico": "71012222",
+"nazev": "Základní škola a mateřská škola Dobšice",
+"obec": "Dobšice",
+"psc": "671 82",
+"ulice": "Brněnská",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-dolni-kalna-587963": {
+"domeny": [
+"obecdolnikalna.cz",
+"dolnikalna.cz",
+"oudolnikalna.cz",
+"mestodolnikalna.cz",
+"obec-dolni-kalna.cz",
+"dolni-kalna.cz",
+"ou-dolni-kalna.cz",
+"mesto-dolni-kalna.cz",
+"obecdolni-kalna.cz",
+"mestysdolnikalna.cz"
+],
+"ico": "75017351",
+"nazev": "Základní škola a mateřská škola Dolní Kalná",
+"obec": "Dolní Kalná",
+"psc": "543 74",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-dolni-mesto-580071": {
+"domeny": [
+"obecdolnimesto.cz",
+"dolnimesto.cz",
+"oudolnimesto.cz",
+"mestodolnimesto.cz",
+"obec-dolni-mesto.cz",
+"dolni-mesto.cz",
+"ou-dolni-mesto.cz",
+"mesto-dolni-mesto.cz",
+"obecdolni-mesto.cz",
+"mestysdolnimesto.cz"
+],
+"ico": "75017067",
+"nazev": "Základní škola a mateřská škola Dolní Město",
+"obec": "Dolní Město",
+"psc": "582 33",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-dolni-moravice-501724": {
+"domeny": [
+"obecdolnimoravice.cz",
+"dolnimoravice.cz",
+"oudolnimoravice.cz",
+"mestodolnimoravice.cz",
+"obec-dolni-moravice.cz",
+"dolni-moravice.cz",
+"ou-dolni-moravice.cz",
+"mesto-dolni-moravice.cz",
+"obecdolni-moravice.cz",
+"mestysdolnimoravice.cz"
+],
+"ico": "70988595",
+"nazev": "Základní škola a mateřská škola Dolní Moravice",
+"obec": "Dolní Moravice",
+"psc": "795 01",
+"ulice": "Horní Moravice",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-domazlice-021251": {
+"domeny": [
+"obecdomazlice.cz",
+"domazlice.cz",
+"oudomazlice.cz",
+"mestodomazlice.cz",
+"obec-domazlice.cz",
+"ou-domazlice.cz",
+"mesto-domazlice.cz",
+"mestysdomazlice.cz"
+],
+"ico": "75005743",
+"nazev": "Základní škola a mateřská škola Domažlice",
+"obec": "Domažlice",
+"psc": "344 01",
+"ulice": "Petrovická",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-drnovice-011151": {
+"domeny": [
+"obecdrnovice.cz",
+"drnovice.cz",
+"oudrnovice.cz",
+"mestodrnovice.cz",
+"obec-drnovice.cz",
+"ou-drnovice.cz",
+"mesto-drnovice.cz",
+"mestysdrnovice.cz"
+],
+"ico": "75020068",
+"nazev": "Základní škola a mateřská škola Drnovice",
+"obec": "Drnovice",
+"psc": "763 25",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-drnovice-600358": {
+"domeny": [
+"obecdrnovice.cz",
+"drnovice.cz",
+"oudrnovice.cz",
+"mestodrnovice.cz",
+"obec-drnovice.cz",
+"ou-drnovice.cz",
+"mesto-drnovice.cz",
+"mestysdrnovice.cz"
+],
+"ico": "70873861",
+"nazev": "Základní škola a mateřská škola Drnovice",
+"obec": "Drnovice",
+"psc": "679 76",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hamry-nad-sazavou-615959": {
+"domeny": [
+"obechamrynadsazavou.cz",
+"hamrynadsazavou.cz",
+"ouhamrynadsazavou.cz",
+"mestohamrynadsazavou.cz",
+"obec-hamry-nad-sazavou.cz",
+"hamry-nad-sazavou.cz",
+"ou-hamry-nad-sazavou.cz",
+"mesto-hamry-nad-sazavou.cz",
+"obechamry-nad-sazavou.cz",
+"mestyshamrynadsazavou.cz"
+],
+"ico": "75023873",
+"nazev": "Základní škola a mateřská škola Hamry nad Sázavou",
+"obec": "Hamry nad Sázavou",
+"psc": "591 01",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-havlickova-borova-580152": {
+"domeny": [
+"obechavlickovaborova.cz",
+"havlickovaborova.cz",
+"ouhavlickovaborova.cz",
+"mestohavlickovaborova.cz",
+"obec-havlickova-borova.cz",
+"havlickova-borova.cz",
+"ou-havlickova-borova.cz",
+"mesto-havlickova-borova.cz",
+"obechavlickova-borova.cz",
+"mestyshavlickovaborova.cz"
+],
+"ico": "70985669",
+"nazev": "Základní škola a mateřská škola Havlíčkova Borová",
+"obec": "Havlíčkova Borová",
+"psc": "582 23",
+"ulice": "U Hřiště",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-heraltice-611481": {
+"domeny": [
+"obecheraltice.cz",
+"heraltice.cz",
+"ouheraltice.cz",
+"mestoheraltice.cz",
+"obec-heraltice.cz",
+"ou-heraltice.cz",
+"mesto-heraltice.cz",
+"mestysheraltice.cz"
+],
+"ico": "70881600",
+"nazev": "Základní škola a mateřská škola Heraltice",
+"obec": "Heraltice",
+"psc": "675 21",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hlavnice-024410": {
+"domeny": [
+"obechlavnice.cz",
+"hlavnice.cz",
+"ouhlavnice.cz",
+"mestohlavnice.cz",
+"obec-hlavnice.cz",
+"ou-hlavnice.cz",
+"mesto-hlavnice.cz",
+"mestyshlavnice.cz"
+],
+"ico": "75026945",
+"nazev": "Základní škola a mateřská škola Hlavnice",
+"obec": "Hlavnice",
+"psc": "747 52",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hlohovec-604540": {
+"domeny": [
+"obechlohovec.cz",
+"hlohovec.cz",
+"ouhlohovec.cz",
+"mestohlohovec.cz",
+"obec-hlohovec.cz",
+"ou-hlohovec.cz",
+"mesto-hlohovec.cz",
+"mestyshlohovec.cz"
+],
+"ico": "70982554",
+"nazev": "Základní škola a mateřská škola Hlohovec",
+"obec": "Hlohovec",
+"psc": "691 43",
+"ulice": "Dědina",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hnevkovice-580560": {
+"domeny": [
+"obechnevkovice.cz",
+"hnevkovice.cz",
+"ouhnevkovice.cz",
+"mestohnevkovice.cz",
+"obec-hnevkovice.cz",
+"ou-hnevkovice.cz",
+"mesto-hnevkovice.cz",
+"mestyshnevkovice.cz"
+],
+"ico": "70988846",
+"nazev": "Základní škola a mateřská škola Hněvkovice",
+"obec": "Hněvkovice",
+"psc": "582 94",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hodice-608464": {
+"domeny": [
+"obechodice.cz",
+"hodice.cz",
+"ouhodice.cz",
+"mestohodice.cz",
+"obec-hodice.cz",
+"ou-hodice.cz",
+"mesto-hodice.cz",
+"mestyshodice.cz"
+],
+"ico": "71010521",
+"nazev": "Základní škola a mateřská škola Hodice",
+"obec": "Hodice",
+"psc": "589 01",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-horni-bradlo-582040": {
+"domeny": [
+"obechornibradlo.cz",
+"hornibradlo.cz",
+"ouhornibradlo.cz",
+"mestohornibradlo.cz",
+"obec-horni-bradlo.cz",
+"horni-bradlo.cz",
+"ou-horni-bradlo.cz",
+"mesto-horni-bradlo.cz",
+"obechorni-bradlo.cz",
+"mestyshornibradlo.cz"
+],
+"ico": "70985677",
+"nazev": "Základní škola a mateřská škola Horní Bradlo",
+"obec": "Horní Bradlo",
+"psc": "539 53",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-horni-dubenky-608057": {
+"domeny": [
+"obechornidubenky.cz",
+"hornidubenky.cz",
+"ouhornidubenky.cz",
+"mestohornidubenky.cz",
+"obec-horni-dubenky.cz",
+"horni-dubenky.cz",
+"ou-horni-dubenky.cz",
+"mesto-horni-dubenky.cz",
+"obechorni-dubenky.cz",
+"mestyshornidubenky.cz"
+],
+"ico": "75021773",
+"nazev": "Základní škola a mateřská škola Horní Dubenky",
+"obec": "Horní Dubenky",
+"psc": "588 52",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-horni-nemci-612402": {
+"domeny": [
+"obechorninemci.cz",
+"horninemci.cz",
+"ouhorninemci.cz",
+"mestohorninemci.cz",
+"obec-horni-nemci.cz",
+"horni-nemci.cz",
+"ou-horni-nemci.cz",
+"mesto-horni-nemci.cz",
+"obechorni-nemci.cz",
+"mestyshorninemci.cz"
+],
+"ico": "70993912",
+"nazev": "Základní škola a mateřská škola Horní Němčí",
+"obec": "Horní Němčí",
+"psc": "687 64",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-horsice-544113": {
+"domeny": [
+"obechorsice.cz",
+"horsice.cz",
+"ouhorsice.cz",
+"mestohorsice.cz",
+"obec-horsice.cz",
+"ou-horsice.cz",
+"mesto-horsice.cz",
+"mestyshorsice.cz"
+],
+"ico": "60611871",
+"nazev": "Základní škola a mateřská škola Horšice",
+"obec": "Horšice",
+"psc": "334 55",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hrabetice-614201": {
+"domeny": [
+"obechrabetice.cz",
+"hrabetice.cz",
+"ouhrabetice.cz",
+"mestohrabetice.cz",
+"obec-hrabetice.cz",
+"ou-hrabetice.cz",
+"mesto-hrabetice.cz",
+"mestyshrabetice.cz"
+],
+"ico": "70990336",
+"nazev": "Základní škola a mateřská škola Hrabětice",
+"obec": "Hrabětice",
+"psc": "671 68",
+"ulice": "Hrušovanská",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hrivinuv-ujezd-606208": {
+"domeny": [
+"obechrivinuvujezd.cz",
+"hrivinuvujezd.cz",
+"ouhrivinuvujezd.cz",
+"mestohrivinuvujezd.cz",
+"obec-hrivinuv-ujezd.cz",
+"hrivinuv-ujezd.cz",
+"ou-hrivinuv-ujezd.cz",
+"mesto-hrivinuv-ujezd.cz",
+"obechrivinuv-ujezd.cz",
+"mestyshrivinuvujezd.cz"
+],
+"ico": "75023008",
+"nazev": "Základní škola a mateřská škola Hřivínův Újezd",
+"obec": "Hřivínův Újezd",
+"psc": "763 07",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-hrusky-613379": {
+"domeny": [
+"obechrusky.cz",
+"hrusky.cz",
+"ouhrusky.cz",
+"mestohrusky.cz",
+"obec-hrusky.cz",
+"ou-hrusky.cz",
+"mesto-hrusky.cz",
+"mestyshrusky.cz"
+],
+"ico": "70994188",
+"nazev": "Základní škola a mateřská škola Hrušky",
+"obec": "Hrušky",
+"psc": "683 52",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-huntirov-553904": {
+"domeny": [
+"obechuntirov.cz",
+"huntirov.cz",
+"ouhuntirov.cz",
+"mestohuntirov.cz",
+"obec-huntirov.cz",
+"ou-huntirov.cz",
+"mesto-huntirov.cz",
+"mestyshuntirov.cz"
+],
+"ico": "72742241",
+"nazev": "Základní škola a mateřská škola Huntířov",
+"obec": "Huntířov",
+"psc": "405 02",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-husinec-rez-516098": {
+"domeny": [
+"obechusinec.cz",
+"husinec.cz",
+"ouhusinec.cz",
+"mestohusinec.cz",
+"obec-husinec.cz",
+"ou-husinec.cz",
+"mesto-husinec.cz",
+"mestyshusinec.cz"
+],
+"ico": "70991073",
+"nazev": "Základní škola a mateřská škola Husinec - Řež",
+"obec": "Husinec",
+"psc": "250 68",
+"ulice": "Ke Škole",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-huzova-620260": {
+"domeny": [
+"obechuzova.cz",
+"huzova.cz",
+"ouhuzova.cz",
+"mestohuzova.cz",
+"obec-huzova.cz",
+"ou-huzova.cz",
+"mesto-huzova.cz",
+"mestyshuzova.cz"
+],
+"ico": "70640220",
+"nazev": "Základní škola a mateřská škola Huzová",
+"obec": "Huzová",
+"psc": "793 51",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-jamne-608073": {
+"domeny": [
+"obecjamne.cz",
+"jamne.cz",
+"oujamne.cz",
+"mestojamne.cz",
+"obec-jamne.cz",
+"ou-jamne.cz",
+"mesto-jamne.cz",
+"mestysjamne.cz"
+],
+"ico": "75021048",
+"nazev": "Základní škola a mateřská škola Jamné",
+"obec": "Jamné",
+"psc": "588 27",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-jehnedi-589419": {
+"domeny": [
+"obecjehnedi.cz",
+"jehnedi.cz",
+"oujehnedi.cz",
+"mestojehnedi.cz",
+"obec-jehnedi.cz",
+"ou-jehnedi.cz",
+"mesto-jehnedi.cz",
+"mestysjehnedi.cz"
+],
+"ico": "75016133",
+"nazev": "Základní škola a mateřská škola Jehnědí",
+"obec": "Jehnědí",
+"psc": "562 01",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-jetrichovice-561352": {
+"domeny": [
+"obecjetrichovice.cz",
+"jetrichovice.cz",
+"oujetrichovice.cz",
+"mestojetrichovice.cz",
+"obec-jetrichovice.cz",
+"ou-jetrichovice.cz",
+"mesto-jetrichovice.cz",
+"mestysjetrichovice.cz"
+],
+"ico": "72744685",
+"nazev": "Základní škola a mateřská škola Jetřichovice",
+"obec": "Jetřichovice",
+"psc": "407 16",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-jezerany-marsovice-614987": {
+"domeny": [
+"obecjezeranymarsovice.cz",
+"jezeranymarsovice.cz",
+"oujezeranymarsovice.cz",
+"mestojezeranymarsovice.cz",
+"obec-jezerany-marsovice.cz",
+"jezerany-marsovice.cz",
+"ou-jezerany-marsovice.cz",
+"mesto-jezerany-marsovice.cz",
+"obecjezerany-marsovice.cz",
+"mestysjezeranymarsovice.cz"
+],
+"ico": "75021781",
+"nazev": "Základní škola a mateřská škola Jezeřany-Maršovice",
+"obec": "Jezeřany-Maršovice",
+"psc": "671 75",
+"ulice": "Jezeřany-Maršovice",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kamenicky-senov-560364": {
+"domeny": [
+"obeckamenickysenov.cz",
+"kamenickysenov.cz",
+"oukamenickysenov.cz",
+"mestokamenickysenov.cz",
+"obec-kamenicky-senov.cz",
+"kamenicky-senov.cz",
+"ou-kamenicky-senov.cz",
+"mesto-kamenicky-senov.cz",
+"obeckamenicky-senov.cz",
+"mestyskamenickysenov.cz"
+],
+"ico": "72744995",
+"nazev": "Základní škola a mateřská škola Kamenický Šenov, Prácheň",
+"obec": "Kamenický Šenov",
+"psc": "471 14",
+"ulice": "Prácheň",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kamenna-005652": {
+"domeny": [
+"obeckamenna.cz",
+"kamenna.cz",
+"oukamenna.cz",
+"mestokamenna.cz",
+"obec-kamenna.cz",
+"ou-kamenna.cz",
+"mesto-kamenna.cz",
+"mestyskamenna.cz"
+],
+"ico": "70982759",
+"nazev": "Základní škola a mateřská škola Kamenná",
+"obec": "Kamenná",
+"psc": "789 74",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kasava-605759": {
+"domeny": [
+"obeckasava.cz",
+"kasava.cz",
+"oukasava.cz",
+"mestokasava.cz",
+"obec-kasava.cz",
+"ou-kasava.cz",
+"mesto-kasava.cz",
+"mestyskasava.cz"
+],
+"ico": "71003746",
+"nazev": "Základní škola a mateřská škola Kašava",
+"obec": "Kašava",
+"psc": "763 19",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kluky-053318": {
+"domeny": [
+"obeckluky.cz",
+"kluky.cz",
+"oukluky.cz",
+"mestokluky.cz",
+"obec-kluky.cz",
+"ou-kluky.cz",
+"mesto-kluky.cz",
+"mestyskluky.cz"
+],
+"ico": "70984328",
+"nazev": "Základní škola a mateřská škola Kluky",
+"obec": "Kluky",
+"psc": "398 19",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kolsov-632977": {
+"domeny": [
+"obeckolsov.cz",
+"kolsov.cz",
+"oukolsov.cz",
+"mestokolsov.cz",
+"obec-kolsov.cz",
+"ou-kolsov.cz",
+"mesto-kolsov.cz",
+"mestyskolsov.cz"
+],
+"ico": "75027046",
+"nazev": "Základní škola a mateřská škola Kolšov",
+"obec": "Kolšov",
+"psc": "788 21",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-korenov-563401": {
+"domeny": [
+"obeckorenov.cz",
+"korenov.cz",
+"oukorenov.cz",
+"mestokorenov.cz",
+"obec-korenov.cz",
+"ou-korenov.cz",
+"mesto-korenov.cz",
+"mestyskorenov.cz"
+],
+"ico": "72744561",
+"nazev": "Základní škola a mateřská škola Kořenov",
+"obec": "Kořenov",
+"psc": "468 50",
+"ulice": "Polubný",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kostice-566311": {
+"domeny": [
+"obeckostice.cz",
+"kostice.cz",
+"oukostice.cz",
+"mestokostice.cz",
+"obec-kostice.cz",
+"ou-kostice.cz",
+"mesto-kostice.cz",
+"mestyskostice.cz"
+],
+"ico": "70695474",
+"nazev": "Základní škola a mateřská škola Koštice",
+"obec": "Koštice",
+"psc": "439 21",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kostomlaty-pod-milesovkou-568071": {
+"domeny": [
+"obeckostomlatypodmilesovkou.cz",
+"kostomlatypodmilesovkou.cz",
+"oukostomlatypodmilesovkou.cz",
+"mestokostomlatypodmilesovkou.cz",
+"obec-kostomlaty-pod-milesovkou.cz",
+"kostomlaty-pod-milesovkou.cz",
+"ou-kostomlaty-pod-milesovkou.cz",
+"mesto-kostomlaty-pod-milesovkou.cz",
+"obeckostomlaty-pod-milesovkou.cz",
+"mestyskostomlatypodmilesovkou.cz"
+],
+"ico": "72745380",
+"nazev": "Základní škola a mateřská škola Kostomlaty pod Milešovkou",
+"obec": "Kostomlaty pod Milešovkou",
+"psc": "417 54",
+"ulice": "Školní",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-kridla-615657": {
+"domeny": [
+"obeckridla.cz",
+"kridla.cz",
+"oukridla.cz",
+"mestokridla.cz",
+"obec-kridla.cz",
+"ou-kridla.cz",
+"mesto-kridla.cz",
+"mestyskridla.cz"
+],
+"ico": "75021421",
+"nazev": "Základní škola a mateřská škola Křídla",
+"obec": "Křídla",
+"psc": "592 31",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-krivoklat-518066": {
+"domeny": [
+"obeckrivoklat.cz",
+"krivoklat.cz",
+"oukrivoklat.cz",
+"mestokrivoklat.cz",
+"obec-krivoklat.cz",
+"ou-krivoklat.cz",
+"mesto-krivoklat.cz",
+"mestyskrivoklat.cz"
+],
+"ico": "47017635",
+"nazev": "Základní škola a mateřská škola Křivoklát",
+"obec": "Křivoklát",
+"psc": "270 23",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-libesice-600152": {
+"domeny": [
+"obeclibesice.cz",
+"libesice.cz",
+"oulibesice.cz",
+"mestolibesice.cz",
+"obec-libesice.cz",
+"ou-libesice.cz",
+"mesto-libesice.cz",
+"mestyslibesice.cz"
+],
+"ico": "72741732",
+"nazev": "Základní škola a mateřská škola Liběšice",
+"obec": "Liběšice",
+"psc": "439 63",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-libouchec-568802": {
+"domeny": [
+"obeclibouchec.cz",
+"libouchec.cz",
+"oulibouchec.cz",
+"mestolibouchec.cz",
+"obec-libouchec.cz",
+"ou-libouchec.cz",
+"mesto-libouchec.cz",
+"mestyslibouchec.cz"
+],
+"ico": "70942927",
+"nazev": "Základní škola a mateřská škola Libouchec",
+"obec": "Libouchec",
+"psc": "403 35",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-lipnik-611317": {
+"domeny": [
+"obeclipnik.cz",
+"lipnik.cz",
+"oulipnik.cz",
+"mestolipnik.cz",
+"obec-lipnik.cz",
+"ou-lipnik.cz",
+"mesto-lipnik.cz",
+"mestyslipnik.cz"
+],
+"ico": "70988803",
+"nazev": "Základní škola a mateřská škola Lipník",
+"obec": "Lipník",
+"psc": "675 52",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-lipoltice-584531": {
+"domeny": [
+"obeclipoltice.cz",
+"lipoltice.cz",
+"oulipoltice.cz",
+"mestolipoltice.cz",
+"obec-lipoltice.cz",
+"ou-lipoltice.cz",
+"mesto-lipoltice.cz",
+"mestyslipoltice.cz"
+],
+"ico": "70189081",
+"nazev": "Základní škola a mateřská škola Lipoltice",
+"obec": "Lipoltice",
+"psc": "533 64",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-lnare-535076": {
+"domeny": [
+"obeclnare.cz",
+"lnare.cz",
+"oulnare.cz",
+"mestolnare.cz",
+"obec-lnare.cz",
+"ou-lnare.cz",
+"mesto-lnare.cz",
+"mestyslnare.cz"
+],
+"ico": "71006265",
+"nazev": "Základní škola a mateřská škola Lnáře",
+"obec": "Lnáře",
+"psc": "387 42",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-mala-hrastice-000514": {
+"domeny": [
+"obecmalahrastice.cz",
+"malahrastice.cz",
+"oumalahrastice.cz",
+"mestomalahrastice.cz",
+"obec-mala-hrastice.cz",
+"mala-hrastice.cz",
+"ou-mala-hrastice.cz",
+"mesto-mala-hrastice.cz",
+"obecmala-hrastice.cz",
+"mestysmalahrastice.cz"
+],
+"ico": "75033607",
+"nazev": "Základní škola a mateřská škola Malá Hraštice",
+"obec": "Malá Hraštice",
+"psc": "262 03",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-malec-580276": {
+"domeny": [
+"obecmalec.cz",
+"malec.cz",
+"oumalec.cz",
+"mestomalec.cz",
+"obec-malec.cz",
+"ou-malec.cz",
+"mesto-malec.cz",
+"mestysmalec.cz"
+],
+"ico": "71001735",
+"nazev": "Základní škola a mateřská škola Maleč",
+"obec": "Maleč",
+"psc": "582 76",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-mankovice-625385": {
+"domeny": [
+"obecmankovice.cz",
+"mankovice.cz",
+"oumankovice.cz",
+"mestomankovice.cz",
+"obec-mankovice.cz",
+"ou-mankovice.cz",
+"mesto-mankovice.cz",
+"mestysmankovice.cz"
+],
+"ico": "75027267",
+"nazev": "Základní škola a mateřská škola Mankovice",
+"obec": "Mankovice",
+"psc": "742 35",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-mezibori-040450": {
+"domeny": [
+"obecmezibori.cz",
+"mezibori.cz",
+"oumezibori.cz",
+"mestomezibori.cz",
+"obec-mezibori.cz",
+"ou-mezibori.cz",
+"mesto-mezibori.cz",
+"mestysmezibori.cz"
+],
+"ico": "62209051",
+"nazev": "Základní škola a mateřská škola Meziboří",
+"obec": "Meziboří",
+"psc": "435 13",
+"ulice": "Žižkova",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-mikulasovice-121573": {
+"domeny": [
+"obecmikulasovice.cz",
+"mikulasovice.cz",
+"oumikulasovice.cz",
+"mestomikulasovice.cz",
+"obec-mikulasovice.cz",
+"ou-mikulasovice.cz",
+"mesto-mikulasovice.cz",
+"mestysmikulasovice.cz"
+],
+"ico": "10780700",
+"nazev": "Základní škola a mateřská škola Mikulášovice",
+"obec": "Mikulášovice",
+"psc": "407 79",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-moravske-prusy-613492": {
+"domeny": [
+"obecprusyboskuvky.cz",
+"prusyboskuvky.cz",
+"ouprusyboskuvky.cz",
+"mestoprusyboskuvky.cz",
+"obec-prusy-boskuvky.cz",
+"prusy-boskuvky.cz",
+"ou-prusy-boskuvky.cz",
+"mesto-prusy-boskuvky.cz",
+"obecprusy-boskuvky.cz",
+"mestysprusyboskuvky.cz"
+],
+"ico": "70984891",
+"nazev": "Základní škola a mateřská škola Moravské Prusy",
+"obec": "Prusy-Boškůvky",
+"psc": "682 01",
+"ulice": "Moravské Prusy",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-mostkovice-610426": {
+"domeny": [
+"obecmostkovice.cz",
+"mostkovice.cz",
+"oumostkovice.cz",
+"mestomostkovice.cz",
+"obec-mostkovice.cz",
+"ou-mostkovice.cz",
+"mesto-mostkovice.cz",
+"mestysmostkovice.cz"
+],
+"ico": "70880883",
+"nazev": "Základní škola a mateřská škola Mostkovice",
+"obec": "Mostkovice",
+"psc": "798 02",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-mrakotin-014970": {
+"domeny": [
+"obecmrakotin.cz",
+"mrakotin.cz",
+"oumrakotin.cz",
+"mestomrakotin.cz",
+"obec-mrakotin.cz",
+"ou-mrakotin.cz",
+"mesto-mrakotin.cz",
+"mestysmrakotin.cz"
+],
+"ico": "70994846",
+"nazev": "Základní škola a mateřská škola Mrákotín",
+"obec": "Mrákotín",
+"psc": "588 54",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-mudr-k-a-machacka-607387": {
+"domeny": [
+"obecvlkos.cz",
+"vlkos.cz",
+"ouvlkos.cz",
+"mestovlkos.cz",
+"obec-vlkos.cz",
+"ou-vlkos.cz",
+"mesto-vlkos.cz",
+"mestysvlkos.cz"
+],
+"ico": "70299668",
+"nazev": "Základní škola a mateřská škola MUDr. K. A. Macháčka",
+"obec": "Vlkoš",
+"psc": "696 41",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-nova-ves-u-noveho-mesta-na-morave-055291": {
+"domeny": [
+"obecnovavesunovehomestanamorave.cz",
+"novavesunovehomestanamorave.cz",
+"ounovavesunovehomestanamorave.cz",
+"mestonovavesunovehomestanamorave.cz",
+"obec-nova-ves-u-noveho-mesta-na-morave.cz",
+"nova-ves-u-noveho-mesta-na-morave.cz",
+"ou-nova-ves-u-noveho-mesta-na-morave.cz",
+"mesto-nova-ves-u-noveho-mesta-na-morave.cz",
+"obecnova-ves-u-noveho-mesta-na-morave.cz",
+"mestysnovavesunovehomestanamorave.cz"
+],
+"ico": "75020408",
+"nazev": "Základní škola a mateřská škola Nová Ves u Nového Města na Moravě",
+"obec": "Nová Ves u Nového Města na Moravě",
+"psc": "592 31",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-nove-syrovice-611473": {
+"domeny": [
+"obecnovesyrovice.cz",
+"novesyrovice.cz",
+"ounovesyrovice.cz",
+"mestonovesyrovice.cz",
+"obec-nove-syrovice.cz",
+"nove-syrovice.cz",
+"ou-nove-syrovice.cz",
+"mesto-nove-syrovice.cz",
+"obecnove-syrovice.cz",
+"mestysnovesyrovice.cz"
+],
+"ico": "70983909",
+"nazev": "Základní škola a mateřská škola Nové Syrovice",
+"obec": "Nové Syrovice",
+"psc": "675 41",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-opocnice-515237": {
+"domeny": [
+"obecopocnice.cz",
+"opocnice.cz",
+"ouopocnice.cz",
+"mestoopocnice.cz",
+"obec-opocnice.cz",
+"ou-opocnice.cz",
+"mesto-opocnice.cz",
+"mestysopocnice.cz"
+],
+"ico": "75031311",
+"nazev": "Základní škola a mateřská škola Opočnice",
+"obec": "Opočnice",
+"psc": "289 04",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-orlicky-589605": {
+"domeny": [
+"obecorlicky.cz",
+"orlicky.cz",
+"ouorlicky.cz",
+"mestoorlicky.cz",
+"obec-orlicky.cz",
+"ou-orlicky.cz",
+"mesto-orlicky.cz",
+"mestysorlicky.cz"
+],
+"ico": "70989222",
+"nazev": "Základní škola a mateřská škola Orličky",
+"obec": "Orličky",
+"psc": "561 55",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-osek-nad-becvou-631806": {
+"domeny": [
+"obecoseknadbecvou.cz",
+"oseknadbecvou.cz",
+"ouoseknadbecvou.cz",
+"mestooseknadbecvou.cz",
+"obec-osek-nad-becvou.cz",
+"osek-nad-becvou.cz",
+"ou-osek-nad-becvou.cz",
+"mesto-osek-nad-becvou.cz",
+"obecosek-nad-becvou.cz",
+"mestysoseknadbecvou.cz"
+],
+"ico": "43541712",
+"nazev": "Základní škola a mateřská škola Osek nad Bečvou",
+"obec": "Osek nad Bečvou",
+"psc": "751 22",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-pavlovice-u-prerova-631334": {
+"domeny": [
+"obecpavloviceuprerova.cz",
+"pavloviceuprerova.cz",
+"oupavloviceuprerova.cz",
+"mestopavloviceuprerova.cz",
+"obec-pavlovice-u-prerova.cz",
+"pavlovice-u-prerova.cz",
+"ou-pavlovice-u-prerova.cz",
+"mesto-pavlovice-u-prerova.cz",
+"obecpavlovice-u-prerova.cz",
+"mestyspavloviceuprerova.cz"
+],
+"ico": "73184098",
+"nazev": "Základní škola a mateřská škola Pavlovice u Přerova",
+"obec": "Pavlovice u Přerova",
+"psc": "751 11",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-petrovice-u-karvine-624036": {
+"domeny": [
+"obecpetroviceukarvine.cz",
+"petroviceukarvine.cz",
+"oupetroviceukarvine.cz",
+"mestopetroviceukarvine.cz",
+"obec-petrovice-u-karvine.cz",
+"petrovice-u-karvine.cz",
+"ou-petrovice-u-karvine.cz",
+"mesto-petrovice-u-karvine.cz",
+"obecpetrovice-u-karvine.cz",
+"mestyspetroviceukarvine.cz"
+],
+"ico": "75028913",
+"nazev": "Základní škola a mateřská škola Petrovice u Karviné",
+"obec": "Petrovice u Karviné",
+"psc": "735 72",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-ploskovice-565633": {
+"domeny": [
+"obecploskovice.cz",
+"ploskovice.cz",
+"ouploskovice.cz",
+"mestoploskovice.cz",
+"obec-ploskovice.cz",
+"ou-ploskovice.cz",
+"mesto-ploskovice.cz",
+"mestysploskovice.cz"
+],
+"ico": "72745126",
+"nazev": "Základní škola a mateřská škola Ploskovice",
+"obec": "Ploskovice",
+"psc": "411 42",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-pocenice-tetetice-609550": {
+"domeny": [
+"obecpocenicetetetice.cz",
+"pocenicetetetice.cz",
+"oupocenicetetetice.cz",
+"mestopocenicetetetice.cz",
+"obec-pocenice-tetetice.cz",
+"pocenice-tetetice.cz",
+"ou-pocenice-tetetice.cz",
+"mesto-pocenice-tetetice.cz",
+"obecpocenice-tetetice.cz",
+"mestyspocenicetetetice.cz"
+],
+"ico": "70993262",
+"nazev": "Základní škola a mateřská škola Počenice - Tetětice",
+"obec": "Počenice-Tetětice",
+"psc": "768 33",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-podoli-603675": {
+"domeny": [
+"obecpodoli.cz",
+"podoli.cz",
+"oupodoli.cz",
+"mestopodoli.cz",
+"obec-podoli.cz",
+"ou-podoli.cz",
+"mesto-podoli.cz",
+"mestyspodoli.cz"
+],
+"ico": "70997152",
+"nazev": "Základní škola a mateřská škola Podolí",
+"obec": "Podolí",
+"psc": "664 03",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-povrly-568853": {
+"domeny": [
+"obecpovrly.cz",
+"povrly.cz",
+"oupovrly.cz",
+"mestopovrly.cz",
+"obec-povrly.cz",
+"ou-povrly.cz",
+"mesto-povrly.cz",
+"mestyspovrly.cz"
+],
+"ico": "72743921",
+"nazev": "Základní škola a mateřská škola Povrly",
+"obec": "Povrly",
+"psc": "403 32",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-praminek-589184": {
+"domeny": [
+"obecsemanin.cz",
+"semanin.cz",
+"ousemanin.cz",
+"mestosemanin.cz",
+"obec-semanin.cz",
+"ou-semanin.cz",
+"mesto-semanin.cz",
+"mestyssemanin.cz"
+],
+"ico": "75015986",
+"nazev": "Základní škola a mateřská škola Pramínek",
+"obec": "Semanín",
+"psc": "560 02",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-puklice-608383": {
+"domeny": [
+"obecpuklice.cz",
+"puklice.cz",
+"oupuklice.cz",
+"mestopuklice.cz",
+"obec-puklice.cz",
+"ou-puklice.cz",
+"mesto-puklice.cz",
+"mestyspuklice.cz"
+],
+"ico": "75024128",
+"nazev": "Základní škola a mateřská škola Puklice",
+"obec": "Puklice",
+"psc": "588 31",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-pustimer-613611": {
+"domeny": [
+"obecpustimer.cz",
+"pustimer.cz",
+"oupustimer.cz",
+"mestopustimer.cz",
+"obec-pustimer.cz",
+"ou-pustimer.cz",
+"mesto-pustimer.cz",
+"mestyspustimer.cz"
+],
+"ico": "46271015",
+"nazev": "Základní škola a mateřská škola Pustiměř",
+"obec": "Pustiměř",
+"psc": "683 21",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-rasosky-583852": {
+"domeny": [
+"obecrasosky.cz",
+"rasosky.cz",
+"ourasosky.cz",
+"mestorasosky.cz",
+"obec-rasosky.cz",
+"ou-rasosky.cz",
+"mesto-rasosky.cz",
+"mestysrasosky.cz"
+],
+"ico": "75016559",
+"nazev": "Základní škola a mateřská škola Rasošky",
+"obec": "Rasošky",
+"psc": "552 21",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-rokytnice-nad-rokytnou-611554": {
+"domeny": [
+"obecrokytnicenadrokytnou.cz",
+"rokytnicenadrokytnou.cz",
+"ourokytnicenadrokytnou.cz",
+"mestorokytnicenadrokytnou.cz",
+"obec-rokytnice-nad-rokytnou.cz",
+"rokytnice-nad-rokytnou.cz",
+"ou-rokytnice-nad-rokytnou.cz",
+"mesto-rokytnice-nad-rokytnou.cz",
+"obecrokytnice-nad-rokytnou.cz",
+"mestysrokytnicenadrokytnou.cz"
+],
+"ico": "70993271",
+"nazev": "Základní škola a mateřská škola Rokytnice nad Rokytnou",
+"obec": "Rokytnice nad Rokytnou",
+"psc": "675 25",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-rostin-609461": {
+"domeny": [
+"obecrostin.cz",
+"rostin.cz",
+"ourostin.cz",
+"mestorostin.cz",
+"obec-rostin.cz",
+"ou-rostin.cz",
+"mesto-rostin.cz",
+"mestysrostin.cz"
+],
+"ico": "75023792",
+"nazev": "Základní škola a mateřská škola Roštín",
+"obec": "Roštín",
+"psc": "768 03",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-ruzena-608596": {
+"domeny": [
+"obecruzena.cz",
+"ruzena.cz",
+"ouruzena.cz",
+"mestoruzena.cz",
+"obec-ruzena.cz",
+"ou-ruzena.cz",
+"mesto-ruzena.cz",
+"mestysruzena.cz"
+],
+"ico": "70986711",
+"nazev": "Základní škola a mateřská škola Růžená",
+"obec": "Růžená",
+"psc": "589 01",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-samotisky-626578": {
+"domeny": [
+"obecsamotisky.cz",
+"samotisky.cz",
+"ousamotisky.cz",
+"mestosamotisky.cz",
+"obec-samotisky.cz",
+"ou-samotisky.cz",
+"mesto-samotisky.cz",
+"mestyssamotisky.cz"
+],
+"ico": "70640203",
+"nazev": "Základní škola a mateřská škola Samotišky",
+"obec": "Samotišky",
+"psc": "779 00",
+"ulice": "Vybíralova",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-siroky-dul-038218": {
+"domeny": [
+"obecsirokydul.cz",
+"sirokydul.cz",
+"ousirokydul.cz",
+"mestosirokydul.cz",
+"obec-siroky-dul.cz",
+"siroky-dul.cz",
+"ou-siroky-dul.cz",
+"mesto-siroky-dul.cz",
+"obecsiroky-dul.cz",
+"mestyssirokydul.cz"
+],
+"ico": "75017172",
+"nazev": "Základní škola a mateřská škola Široký Důl",
+"obec": "Široký Důl",
+"psc": "572 01",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-skalice-u-ceske-lipy-560569": {
+"domeny": [
+"obecskaliceuceskelipy.cz",
+"skaliceuceskelipy.cz",
+"ouskaliceuceskelipy.cz",
+"mestoskaliceuceskelipy.cz",
+"obec-skalice-u-ceske-lipy.cz",
+"skalice-u-ceske-lipy.cz",
+"ou-skalice-u-ceske-lipy.cz",
+"mesto-skalice-u-ceske-lipy.cz",
+"obecskalice-u-ceske-lipy.cz",
+"mestysskaliceuceskelipy.cz"
+],
+"ico": "72744481",
+"nazev": "Základní škola a mateřská škola Skalice u České Lípy",
+"obec": "Skalice u České Lípy",
+"psc": "471 17",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-slavkov-pod-hostynem-608979": {
+"domeny": [
+"obecslavkovpodhostynem.cz",
+"slavkovpodhostynem.cz",
+"ouslavkovpodhostynem.cz",
+"mestoslavkovpodhostynem.cz",
+"obec-slavkov-pod-hostynem.cz",
+"slavkov-pod-hostynem.cz",
+"ou-slavkov-pod-hostynem.cz",
+"mesto-slavkov-pod-hostynem.cz",
+"obecslavkov-pod-hostynem.cz",
+"mestysslavkovpodhostynem.cz"
+],
+"ico": "70983429",
+"nazev": "Základní škola a mateřská škola Slavkov pod Hostýnem",
+"obec": "Slavkov pod Hostýnem",
+"psc": "768 61",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-sloup-600471": {
+"domeny": [
+"obecsloup.cz",
+"sloup.cz",
+"ousloup.cz",
+"mestosloup.cz",
+"obec-sloup.cz",
+"ou-sloup.cz",
+"mesto-sloup.cz",
+"mestyssloup.cz"
+],
+"ico": "62075942",
+"nazev": "Základní škola a mateřská škola Sloup",
+"obec": "Sloup",
+"psc": "679 13",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-srbsko-510845": {
+"domeny": [
+"obecsrbsko.cz",
+"srbsko.cz",
+"ousrbsko.cz",
+"mestosrbsko.cz",
+"obec-srbsko.cz",
+"ou-srbsko.cz",
+"mesto-srbsko.cz",
+"mestyssrbsko.cz"
+],
+"ico": "70998477",
+"nazev": "Základní škola a mateřská škola Srbsko",
+"obec": "Srbsko",
+"psc": "267 18",
+"ulice": "K Závěrce",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-stare-mesto-pod-landstejnem-532557": {
+"domeny": [
+"obecstaremestopodlandstejnem.cz",
+"staremestopodlandstejnem.cz",
+"oustaremestopodlandstejnem.cz",
+"mestostaremestopodlandstejnem.cz",
+"obec-stare-mesto-pod-landstejnem.cz",
+"stare-mesto-pod-landstejnem.cz",
+"ou-stare-mesto-pod-landstejnem.cz",
+"mesto-stare-mesto-pod-landstejnem.cz",
+"obecstare-mesto-pod-landstejnem.cz",
+"mestysstaremestopodlandstejnem.cz"
+],
+"ico": "71005188",
+"nazev": "Základní škola a mateřská škola Staré Město pod Landštejnem",
+"obec": "Staré Město pod Landštejnem",
+"psc": "378 82",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-stod-544369": {
+"domeny": [
+"obecstod.cz",
+"stod.cz",
+"oustod.cz",
+"mestostod.cz",
+"obec-stod.cz",
+"ou-stod.cz",
+"mesto-stod.cz",
+"mestysstod.cz"
+],
+"ico": "70831815",
+"nazev": "Základní škola a mateřská škola Stod",
+"obec": "Stod",
+"psc": "333 01",
+"ulice": "Krandova",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-stoky-012292": {
+"domeny": [
+"obecstoky.cz",
+"stoky.cz",
+"oustoky.cz",
+"mestostoky.cz",
+"obec-stoky.cz",
+"ou-stoky.cz",
+"mesto-stoky.cz",
+"mestysstoky.cz"
+],
+"ico": "75016362",
+"nazev": "Základní škola a mateřská škola Štoky",
+"obec": "Štoky",
+"psc": "582 53",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-strazny-534274": {
+"domeny": [
+"obecstrazny.cz",
+"strazny.cz",
+"oustrazny.cz",
+"mestostrazny.cz",
+"obec-strazny.cz",
+"ou-strazny.cz",
+"mesto-strazny.cz",
+"mestysstrazny.cz"
+],
+"ico": "70993424",
+"nazev": "Základní škola a mateřská škola Strážný",
+"obec": "Strážný",
+"psc": "384 43",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-studenec-611937": {
+"domeny": [
+"obecstudenec.cz",
+"studenec.cz",
+"oustudenec.cz",
+"mestostudenec.cz",
+"obec-studenec.cz",
+"ou-studenec.cz",
+"mesto-studenec.cz",
+"mestysstudenec.cz"
+],
+"ico": "70875081",
+"nazev": "Základní škola a mateřská škola Studenec",
+"obec": "Studenec",
+"psc": "675 02",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-sucha-loz-612950": {
+"domeny": [
+"obecsuchaloz.cz",
+"suchaloz.cz",
+"ousuchaloz.cz",
+"mestosuchaloz.cz",
+"obec-sucha-loz.cz",
+"sucha-loz.cz",
+"ou-sucha-loz.cz",
+"mesto-sucha-loz.cz",
+"obecsucha-loz.cz",
+"mestyssuchaloz.cz"
+],
+"ico": "75023911",
+"nazev": "Základní škola a mateřská škola Suchá Loz",
+"obec": "Suchá Loz",
+"psc": "687 53",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-tavikovice-012085": {
+"domeny": [
+"obectavikovice.cz",
+"tavikovice.cz",
+"outavikovice.cz",
+"mestotavikovice.cz",
+"obec-tavikovice.cz",
+"ou-tavikovice.cz",
+"mesto-tavikovice.cz",
+"mestystavikovice.cz"
+],
+"ico": "70992045",
+"nazev": "Základní škola a mateřská škola Tavíkovice",
+"obec": "Tavíkovice",
+"psc": "671 40",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-teplice-nad-metuji-584263": {
+"domeny": [
+"obecteplicenadmetuji.cz",
+"teplicenadmetuji.cz",
+"outeplicenadmetuji.cz",
+"mestoteplicenadmetuji.cz",
+"obec-teplice-nad-metuji.cz",
+"teplice-nad-metuji.cz",
+"ou-teplice-nad-metuji.cz",
+"mesto-teplice-nad-metuji.cz",
+"obecteplice-nad-metuji.cz",
+"mestysteplicenadmetuji.cz"
+],
+"ico": "71003401",
+"nazev": "Základní škola a mateřská škola Teplice nad Metují",
+"obec": "Teplice nad Metují",
+"psc": "549 57",
+"ulice": "Rooseveltova",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-tisa-568926": {
+"domeny": [
+"obectisa.cz",
+"tisa.cz",
+"outisa.cz",
+"mestotisa.cz",
+"obec-tisa.cz",
+"ou-tisa.cz",
+"mesto-tisa.cz",
+"mestystisa.cz"
+],
+"ico": "70698287",
+"nazev": "Základní škola a mateřská škola Tisá",
+"obec": "Tisá",
+"psc": "403 36",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-valec-542153": {
+"domeny": [
+"obecvalec.cz",
+"valec.cz",
+"ouvalec.cz",
+"mestovalec.cz",
+"obec-valec.cz",
+"ou-valec.cz",
+"mesto-valec.cz",
+"mestysvalec.cz"
+],
+"ico": "75006219",
+"nazev": "Základní škola a mateřská škola Valeč",
+"obec": "Valeč",
+"psc": "364 53",
+"ulice": "Podbořanská",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vecov-615801": {
+"domeny": [
+"obecjimramov.cz",
+"jimramov.cz",
+"oujimramov.cz",
+"mestojimramov.cz",
+"obec-jimramov.cz",
+"ou-jimramov.cz",
+"mesto-jimramov.cz",
+"mestysjimramov.cz"
+],
+"ico": "75024055",
+"nazev": "Základní škola a mateřská škola Věcov",
+"obec": "Jimramov",
+"psc": "592 42",
+"ulice": "Věcov-Roženecké Paseky",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-velemin-566010": {
+"domeny": [
+"obecvelemin.cz",
+"velemin.cz",
+"ouvelemin.cz",
+"mestovelemin.cz",
+"obec-velemin.cz",
+"ou-velemin.cz",
+"mesto-velemin.cz",
+"mestysvelemin.cz"
+],
+"ico": "46773703",
+"nazev": "Základní škola a mateřská škola Velemín",
+"obec": "Velemín",
+"psc": "411 32",
+"ulice": "Milešov",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-velke-mezirici-616459": {
+"domeny": [
+"obecvelkemezirici.cz",
+"velkemezirici.cz",
+"ouvelkemezirici.cz",
+"mestovelkemezirici.cz",
+"obec-velke-mezirici.cz",
+"velke-mezirici.cz",
+"ou-velke-mezirici.cz",
+"mesto-velke-mezirici.cz",
+"obecvelke-mezirici.cz",
+"mestysvelkemezirici.cz"
+],
+"ico": "70993131",
+"nazev": "Základní škola a mateřská škola Velké Meziříčí, Lhotky",
+"obec": "Velké Meziříčí",
+"psc": "594 01",
+"ulice": "Lhotky",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vesela-606062": {
+"domeny": [
+"obecvesela.cz",
+"vesela.cz",
+"ouvesela.cz",
+"mestovesela.cz",
+"obec-vesela.cz",
+"ou-vesela.cz",
+"mesto-vesela.cz",
+"mestysvesela.cz"
+],
+"ico": "75022737",
+"nazev": "Základní škola a mateřská škola Veselá",
+"obec": "Veselá",
+"psc": "763 15",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vetrny-jenikov-608502": {
+"domeny": [
+"obecvetrnyjenikov.cz",
+"vetrnyjenikov.cz",
+"ouvetrnyjenikov.cz",
+"mestovetrnyjenikov.cz",
+"obec-vetrny-jenikov.cz",
+"vetrny-jenikov.cz",
+"ou-vetrny-jenikov.cz",
+"mesto-vetrny-jenikov.cz",
+"obecvetrny-jenikov.cz",
+"mestysvetrnyjenikov.cz"
+],
+"ico": "70987556",
+"nazev": "Základní škola a mateřská škola Větrný Jeníkov",
+"obec": "Větrný Jeníkov",
+"psc": "588 42",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vitonice-608961": {
+"domeny": [
+"obecvitonice.cz",
+"vitonice.cz",
+"ouvitonice.cz",
+"mestovitonice.cz",
+"obec-vitonice.cz",
+"ou-vitonice.cz",
+"mesto-vitonice.cz",
+"mestysvitonice.cz"
+],
+"ico": "70983461",
+"nazev": "Základní škola a mateřská škola Vítonice",
+"obec": "Vítonice",
+"psc": "768 61",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vlkos-631717": {
+"domeny": [
+"obecvlkos.cz",
+"vlkos.cz",
+"ouvlkos.cz",
+"mestovlkos.cz",
+"obec-vlkos.cz",
+"ou-vlkos.cz",
+"mesto-vlkos.cz",
+"mestysvlkos.cz"
+],
+"ico": "70989362",
+"nazev": "Základní škola a mateřská škola Vlkoš",
+"obec": "Vlkoš",
+"psc": "751 19",
+"ulice": "Náves",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vysoka-514133": {
+"domeny": [
+"obecvysoka.cz",
+"vysoka.cz",
+"ouvysoka.cz",
+"mestovysoka.cz",
+"obec-vysoka.cz",
+"ou-vysoka.cz",
+"mesto-vysoka.cz",
+"mestysvysoka.cz"
+],
+"ico": "70986797",
+"nazev": "Základní škola a mateřská škola Vysoká",
+"obec": "Vysoká",
+"psc": "277 24",
+"ulice": "Strážnice",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vysoka-pec-562391": {
+"domeny": [
+"obecvysokapec.cz",
+"vysokapec.cz",
+"ouvysokapec.cz",
+"mestovysokapec.cz",
+"obec-vysoka-pec.cz",
+"vysoka-pec.cz",
+"ou-vysoka-pec.cz",
+"mesto-vysoka-pec.cz",
+"obecvysoka-pec.cz",
+"mestysvysokapec.cz"
+],
+"ico": "72745169",
+"nazev": "Základní škola a mateřská škola Vysoká Pec",
+"obec": "Vysoká Pec",
+"psc": "431 59",
+"ulice": "Julia Fučíka",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vysoke-pole-606437": {
+"domeny": [
+"obecvysokepole.cz",
+"vysokepole.cz",
+"ouvysokepole.cz",
+"mestovysokepole.cz",
+"obec-vysoke-pole.cz",
+"vysoke-pole.cz",
+"ou-vysoke-pole.cz",
+"mesto-vysoke-pole.cz",
+"obecvysoke-pole.cz",
+"mestysvysokepole.cz"
+],
+"ico": "75021609",
+"nazev": "Základní škola a mateřská škola Vysoké Pole",
+"obec": "Vysoké Pole",
+"psc": "763 25",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-vysoky-ujezd-511001": {
+"domeny": [
+"obecvysokyujezd.cz",
+"vysokyujezd.cz",
+"ouvysokyujezd.cz",
+"mestovysokyujezd.cz",
+"obec-vysoky-ujezd.cz",
+"vysoky-ujezd.cz",
+"ou-vysoky-ujezd.cz",
+"mesto-vysoky-ujezd.cz",
+"obecvysoky-ujezd.cz",
+"mestysvysokyujezd.cz"
+],
+"ico": "71004513",
+"nazev": "Základní škola a mateřská škola Vysoký Újezd",
+"obec": "Vysoký Újezd",
+"psc": "267 16",
+"ulice": "Ke Kuchaři",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-zadverice-rakova-606232": {
+"domeny": [
+"obeczadvericerakova.cz",
+"zadvericerakova.cz",
+"ouzadvericerakova.cz",
+"mestozadvericerakova.cz",
+"obec-zadverice-rakova.cz",
+"zadverice-rakova.cz",
+"ou-zadverice-rakova.cz",
+"mesto-zadverice-rakova.cz",
+"obeczadverice-rakova.cz",
+"mestyszadvericerakova.cz"
+],
+"ico": "75022826",
+"nazev": "Základní škola a mateřská škola Zádveřice - Raková",
+"obec": "Zádveřice-Raková",
+"psc": "763 12",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-zarosice-607646": {
+"domeny": [
+"obeczarosice.cz",
+"zarosice.cz",
+"ouzarosice.cz",
+"mestozarosice.cz",
+"obec-zarosice.cz",
+"ou-zarosice.cz",
+"mesto-zarosice.cz",
+"mestyszarosice.cz"
+],
+"ico": "70924538",
+"nazev": "Základní škola a mateřská škola Žarošice",
+"obec": "Žarošice",
+"psc": "696 34",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-zavlekov-542901": {
+"domeny": [
+"obeczavlekov.cz",
+"zavlekov.cz",
+"ouzavlekov.cz",
+"mestozavlekov.cz",
+"obec-zavlekov.cz",
+"ou-zavlekov.cz",
+"mesto-zavlekov.cz",
+"mestyszavlekov.cz"
+],
+"ico": "69983925",
+"nazev": "Základní škola a mateřská škola Zavlekov",
+"obec": "Zavlekov",
+"psc": "341 42",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-zhor-014171": {
+"domeny": [
+"obeczhor.cz",
+"zhor.cz",
+"ouzhor.cz",
+"mestozhor.cz",
+"obec-zhor.cz",
+"ou-zhor.cz",
+"mesto-zhor.cz",
+"mestyszhor.cz"
+],
+"ico": "75023555",
+"nazev": "Základní škola a mateřská škola Zhoř",
+"obec": "Zhoř",
+"psc": "588 26",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-zivanice-585022": {
+"domeny": [
+"obeczivanice.cz",
+"zivanice.cz",
+"ouzivanice.cz",
+"mestozivanice.cz",
+"obec-zivanice.cz",
+"ou-zivanice.cz",
+"mesto-zivanice.cz",
+"mestyszivanice.cz"
+],
+"ico": "60156589",
+"nazev": "Základní škola a mateřská škola Živanice",
+"obec": "Živanice",
+"psc": "533 42",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-materska-skola-zubri-615690": {
+"domeny": [
+"obeczubri.cz",
+"zubri.cz",
+"ouzubri.cz",
+"mestozubri.cz",
+"obec-zubri.cz",
+"ou-zubri.cz",
+"mesto-zubri.cz",
+"mestyszubri.cz"
+],
+"ico": "70993084",
+"nazev": "Základní škola a mateřská škola Zubří",
+"obec": "Zubří",
+"psc": "592 31",
+"ulice": "",
+"zs": true
+},
+"zakladni-skola-a-ms-j-schrotha-632527": {
+"domeny": [
+"obeclipovalazne.cz",
+"lipovalazne.cz",
+"oulipovalazne.cz",
+"mestolipovalazne.cz",
+"obec-lipova-lazne.cz",
+"lipova-lazne.cz",
+"ou-lipova-lazne.cz",
+"mesto-lipova-lazne.cz",
+"obeclipova-lazne.cz",
+"mestyslipovalazne.cz"
+],
+"ico": "00853364",
+"nazev": "Základní škola a MŠ J. Schrotha",
+"obec": "Lipová-lázně",
+"psc": "790 61",
+"ulice": "Lipová-lázně",
+"zs": true
+},
+"zakladni-skola-boleslava-hrbka-a-ms-632454": {
+"domeny": [
+"obeclestina.cz",
+"lestina.cz",
+"oulestina.cz",
+"mestolestina.cz",
+"obec-lestina.cz",
+"ou-lestina.cz",
+"mesto-lestina.cz",
+"mestyslestina.cz"
+],
+"ico": "70985472",
+"nazev": "Základní škola Boleslava Hrbka a MŠ",
+"obec": "Leština",
+"psc": "789 71",
+"ulice": "Sokolská",
+"zs": true
+},
+"zakladni-skola-lipnice-nad-sazavou-000647": {
+"domeny": [
+"obeclipnicenadsazavou.cz",
+"lipnicenadsazavou.cz",
+"oulipnicenadsazavou.cz",
+"mestolipnicenadsazavou.cz",
+"obec-lipnice-nad-sazavou.cz",
+"lipnice-nad-sazavou.cz",
+"ou-lipnice-nad-sazavou.cz",
+"mesto-lipnice-nad-sazavou.cz",
+"obeclipnice-nad-sazavou.cz",
+"mestyslipnicenadsazavou.cz"
+],
+"ico": "70892857",
+"nazev": "Základní škola Lipnice nad Sázavou",
+"obec": "Lipnice nad Sázavou",
+"psc": "582 32",
+"ulice": "",
+"zs": true
+},
+"zakladni-umelecka-skola-a-materska-skola-vlachovo-brezi-534606": {
+"domeny": [
+"obecvlachovobrezi.cz",
+"vlachovobrezi.cz",
+"ouvlachovobrezi.cz",
+"mestovlachovobrezi.cz",
+"obec-vlachovo-brezi.cz",
+"vlachovo-brezi.cz",
+"ou-vlachovo-brezi.cz",
+"mesto-vlachovo-brezi.cz",
+"obecvlachovo-brezi.cz",
+"mestysvlachovobrezi.cz"
+],
+"ico": "60098767",
+"nazev": "Základní umělecká škola a mateřská škola Vlachovo Březí",
+"obec": "Vlachovo Březí",
+"psc": "384 22",
+"ulice": "Komenského",
+"zs": true
+},
+"zs-a-ms-cachrov-542391": {
+"domeny": [
+"obeccachrov.cz",
+"cachrov.cz",
+"oucachrov.cz",
+"mestocachrov.cz",
+"obec-cachrov.cz",
+"ou-cachrov.cz",
+"mesto-cachrov.cz",
+"mestyscachrov.cz"
+],
+"ico": "69983615",
+"nazev": "ZŠ a MŠ Čachrov",
+"obec": "Čachrov",
+"psc": "339 01",
+"ulice": "",
+"zs": false
+},
+"zs-a-ms-dubnice-560267": {
+"domeny": [
+"obecdubnice.cz",
+"dubnice.cz",
+"oudubnice.cz",
+"mestodubnice.cz",
+"obec-dubnice.cz",
+"ou-dubnice.cz",
+"mesto-dubnice.cz",
+"mestysdubnice.cz"
+],
+"ico": "72742631",
+"nazev": "ZŠ a MŠ Dubnice",
+"obec": "Dubnice",
+"psc": "471 26",
+"ulice": "",
+"zs": false
+},
+"zs-a-ms-hnatnice-589338": {
+"domeny": [
+"obechnatnice.cz",
+"hnatnice.cz",
+"ouhnatnice.cz",
+"mestohnatnice.cz",
+"obec-hnatnice.cz",
+"ou-hnatnice.cz",
+"mesto-hnatnice.cz",
+"mestyshnatnice.cz"
+],
+"ico": "70984913",
+"nazev": "ZŠ a MŠ Hnátnice",
+"obec": "Hnátnice",
+"psc": "561 01",
+"ulice": "",
+"zs": false
+},
+"zs-a-ms-hugo-sanky-100882": {
+"domeny": [
+"obecrudice.cz",
+"rudice.cz",
+"ourudice.cz",
+"mestorudice.cz",
+"obec-rudice.cz",
+"ou-rudice.cz",
+"mesto-rudice.cz",
+"mestysrudice.cz"
+],
+"ico": "68685718",
+"nazev": "ZŠ a MŠ Hugo Sáňky",
+"obec": "Rudice",
+"psc": "679 06",
+"ulice": "",
+"zs": false
+},
+"zs-a-ms-j-a-komenskeho-589117": {
+"domeny": [
+"obecbrandysnadorlici.cz",
+"brandysnadorlici.cz",
+"oubrandysnadorlici.cz",
+"mestobrandysnadorlici.cz",
+"obec-brandys-nad-orlici.cz",
+"brandys-nad-orlici.cz",
+"ou-brandys-nad-orlici.cz",
+"mesto-brandys-nad-orlici.cz",
+"obecbrandys-nad-orlici.cz",
+"mestysbrandysnadorlici.cz"
+],
+"ico": "75015439",
+"nazev": "ZŠ a MŠ J. A. Komenského",
+"obec": "Brandýs nad Orlicí",
+"psc": "561 12",
+"ulice": "Tyršova",
+"zs": false
+},
+"zs-a-ms-jana-blahoslava-611309": {
+"domeny": [
+"obeckralicenadoslavou.cz",
+"kralicenadoslavou.cz",
+"oukralicenadoslavou.cz",
+"mestokralicenadoslavou.cz",
+"obec-kralice-nad-oslavou.cz",
+"kralice-nad-oslavou.cz",
+"ou-kralice-nad-oslavou.cz",
+"mesto-kralice-nad-oslavou.cz",
+"obeckralice-nad-oslavou.cz",
+"mestyskralicenadoslavou.cz"
+],
+"ico": "75024551",
+"nazev": "ZŠ a MŠ Jana Blahoslava",
+"obec": "Kralice nad Oslavou",
+"psc": "675 73",
+"ulice": "V Zahradách",
+"zs": false
+},
+"zs-a-ms-rosice-582317": {
+"domeny": [
+"obecrosice.cz",
+"rosice.cz",
+"ourosice.cz",
+"mestorosice.cz",
+"obec-rosice.cz",
+"ou-rosice.cz",
+"mesto-rosice.cz",
+"mestysrosice.cz"
+],
+"ico": "70986401",
+"nazev": "ZŠ a MŠ Rosice",
+"obec": "Rosice",
+"psc": "538 34",
+"ulice": "",
+"zs": false
+},
+"zs-ludvika-svobody-a-ms-612046": {
+"domeny": [
+"obecrudikov.cz",
+"rudikov.cz",
+"ourudikov.cz",
+"mestorudikov.cz",
+"obec-rudikov.cz",
+"ou-rudikov.cz",
+"mesto-rudikov.cz",
+"mestysrudikov.cz"
+],
+"ico": "70283001",
+"nazev": "ZŠ Ludvíka Svobody a MŠ",
+"obec": "Rudíkov",
+"psc": "675 05",
+"ulice": "",
+"zs": false
+},
+"zs-t-g-masaryka-a-materska-skola-611511": {
+"domeny": [
+"obecpribyslavice.cz",
+"pribyslavice.cz",
+"oupribyslavice.cz",
+"mestopribyslavice.cz",
+"obec-pribyslavice.cz",
+"ou-pribyslavice.cz",
+"mesto-pribyslavice.cz",
+"mestyspribyslavice.cz"
+],
+"ico": "70879893",
+"nazev": "ZŠ T.G.Masaryka a mateřská škola",
+"obec": "Přibyslavice",
+"psc": "675 21",
+"ulice": "Školní",
+"zs": false
+}
+}
