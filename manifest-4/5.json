@@ -832,6 +832,23 @@
 "w": 1200
 }
 ],
+"materska-skola-ctyrlistek-622807": [
+{
+"alt": "",
+"barva": "#57603e",
+"dh": "34989cdec42cf8f1",
+"h": 900,
+"jistota": 0.985,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABBEhE1EFEjFC0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABwRAAEDBQAAAAAAAAAAAAAAAAABAiEDExRBUf/aAAwDAQACEQMRAD8AkW0bcojkD8bjJx+Urc2ssUihNqSQMkbq49nbr9Tr4yxrkiQlwqN64PVYNqxJK1TfjfNx2thFCcFlG8g90U0vFCoT1zroUUMl+g204f/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msctyrlistektrinec.cz/2-9-2024-nastup-deti-do-ms/",
+"typ": "zahrada",
+"url": "https://msctyrlistektrinec.cz/wp-content/uploads/2024/09/IMG_7842.jpg",
+"w": 1200
+}
+],
 "materska-skola-damnice-123436": [
 {
 "alt": "",
@@ -1230,6 +1247,62 @@
 "typ": "zahrada",
 "url": "https://www.skolkanovaves.cz/data/headerfooter/header_images/foto.jpeg",
 "w": 1200
+}
+],
+"materska-skola-oldrisov-628627": [
+{
+"alt": "",
+"barva": "#90917c",
+"dh": "6377246c0a03170b",
+"h": 675,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCAwX/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABBEhBVESYUGSof/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABsRAAIDAAMAAAAAAAAAAAAAAAACARESITFR/9oADAMBAAIRAxEAPwCw87FJZHxDSTLpFZCqgdnX4K0bO6mhhQNIjOwHkyqRnfx1S6kaLggYNTUnOAcDqjfbdTRVhY5oYRyPHSgObtWJ97HrZopXZEJ2ifUUUu2MYXw//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://materska-skolka-oldrisov.webnode.cz/tridy/",
+"typ": "budova",
+"url": "https://0416ae1ebb.cbaul-cdnwnd.com/ac44a8fa738d862572d115e059c460ce/200000483-f089ff08a1/SKOLKA_OLDRISOV.jpeg?ph=0416ae1ebb",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#6a635b",
+"dh": "07662626d62e0607",
+"h": 525,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://materska-skolka-oldrisov.webnode.cz/ii-trida-motylci/",
+"typ": "interier",
+"url": "https://0416ae1ebb.cbaul-cdnwnd.com/ac44a8fa738d862572d115e059c460ce/200000126-db908db90a/700/IMG_20210225_070629-1.jpg?ph=0416ae1ebb",
+"w": 700
+},
+{
+"alt": "og",
+"barva": "#59544e",
+"dh": "472b0dad2506c401",
+"h": 525,
+"jistota": 0.744,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://materska-skolka-oldrisov.webnode.cz/tridy/",
+"typ": "interier",
+"url": "https://0416ae1ebb.cbaul-cdnwnd.com/ac44a8fa738d862572d115e059c460ce/200000119-b44efb44f1/700/IMG_20210225_071559-50.jpg?ph=0416ae1ebb",
+"w": 700
+},
+{
+"alt": "og",
+"barva": "#978e85",
+"dh": "1c8e8eca6ded797b",
+"h": 525,
+"jistota": 0.699,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://materska-skolka-oldrisov.webnode.cz/iii-trida-vcelky/",
+"typ": "hygiena",
+"url": "https://0416ae1ebb.cbaul-cdnwnd.com/ac44a8fa738d862572d115e059c460ce/200000146-d9ae9d9aec/700/IMG_20210225_071012.jpg?ph=0416ae1ebb",
+"w": 700
 }
 ],
 "materska-skola-ostrava-630036": [
@@ -1696,6 +1769,36 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-adrspach-584051": [
+{
+"alt": "",
+"barva": "#76736b",
+"dh": "0d277f2f0f0f1b33",
+"h": 597,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBv/EACIQAAIBBAICAwEAAAAAAAAAAAECBAADBTEREhNBIUJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AE47JRpMMXLPZbo2rDX91S5WVvx4pPhiufoXudfzke642M72FJ7cA6C0ky714KbjFlQ8jsdGs90yQHIZeVMlvdvFQ2uqr8AD0Kq1KIGJ8a8k8ndVWjH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolaadrspach.cz/vize-a-smerovani-zs-a-ms-adrspach/",
+"typ": "budova",
+"url": "https://www.skolaadrspach.cz/wp-content/uploads/2018/05/skola_02.jpg",
+"w": 850
+},
+{
+"alt": "",
+"barva": "#777571",
+"dh": "bebaede7c5c75716",
+"h": 560,
+"jistota": 0.984,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolaadrspach.cz/materska-skola/",
+"typ": "budova",
+"url": "https://skolaadrspach.cz/wp-content/uploads/2018/05/skolka_02.jpg",
+"w": 850
+}
+],
 "zakladni-skola-a-materska-skola-bechlin-565129": [
 {
 "alt": "",
@@ -1978,6 +2081,49 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-starnov-626233": [
+{
+"alt": "",
+"barva": "#889caa",
+"dh": "8fc0f02f6bf860e6",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAjEAACAQQBAwUAAAAAAAAAAAABAgMABBESBRMxQRQhIlFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBESFh/9oADAMBAAIRAxEAPwC3PzHqY1l4+X47aHZfPesTyV2pHVW2OT9kE0pyayC3AguRMwOrK8QC1PVbrO89yRjsEGPGKRNXYDa7K787arIyPaS7KcHUgjNFIwWUBjyy+5Ocnuf2isy0lrh//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsamsstarnov.cz/materska-skola/fotogalerie-ms/rok-2026/ms-dopravni-hriste-ve-sternberku-1089cs.html",
+"typ": "budova",
+"url": "https://www.zsamsstarnov.cz/data/headerfooter/header_images/ms-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#85785f",
+"dh": "cbcbcbc3cbcf9999",
+"h": 675,
+"jistota": 0.721,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsamsstarnov.cz/materska-skola/fotogalerie-ms/rok-2026/ms-dopravni-hriste-ve-sternberku-1089cs.html",
+"typ": "zahrada",
+"url": "https://www.zsamsstarnov.cz/data/headerfooter/header_images/20250520-dji0071.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8f8377",
+"dh": "f5b77e2f1b0f1213",
+"h": 675,
+"jistota": 0.979,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsamsstarnov.cz/materska-skola/fotogalerie-ms/rok-2026/ms-dopravni-hriste-ve-sternberku-1089cs.html",
+"typ": "budova",
+"url": "https://www.zsamsstarnov.cz/data/headerfooter/header_images/20250520-dji0090.jpeg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-vladislav-611783": [
 {
 "alt": "",
@@ -2087,6 +2233,36 @@
 "typ": "budova",
 "url": "https://skolaunetice.cz/wp-content/uploads/2020/09/20200831_111_RyszawyCom-1-scaled.jpg",
 "w": 1200
+}
+],
+"zs-s-p-v-j-a-ms-s-p-v-j-621754": [
+{
+"alt": "",
+"barva": "#787268",
+"dh": "e772fcf6f6666570",
+"h": 640,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAUAAwT/xAAhEAACAgIBBQEBAAAAAAAAAAABAgMRAAQSBRMhMUEi8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABgRAQEBAQEAAAAAAAAAAAAAAAERAAID/9oADAMBAAIRAxEAPwBTq3UA8PaSJCrICHJuh88YINrZjjcxlO3dcSP6s4Xmca0bWP2T89VmQ2ZAvG/t5htpqdchHP6rptQhzE7easkZYEjyAHi/EX6AyxT0MTy3f//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zshradek.cz/materska-skola/fotogalerie-ms/2022/ms-balon-nove-hriste-127cs.html",
+"typ": "budova",
+"url": "https://www.zshradek.cz/data/headerfooter/header_images/foto-hlava-01.jpg",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#727449",
+"dh": "7b264892f2d89070",
+"h": 640,
+"jistota": 0.642,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zshradek.cz/materska-skola/fotogalerie-ms/2022/ms-balon-nove-hriste-127cs.html",
+"typ": "budova",
+"url": "https://www.zshradek.cz/data/headerfooter/header_images/foto-hlava-02.jpg",
+"w": 960
 }
 ]
 }
