@@ -21,8 +21,9 @@ import urllib.robotparser
 from concurrent.futures import ThreadPoolExecutor
 
 UA = "RodicovnikBot/1.0 (+https://github.com/ondrejpsenicka26/rodicovnik-fotky; prehled skolek v CR)"
-vstup = json.load(open("hledani/hadej-vstup.json"))
-VYSTUP = "hledani/hadej.json"
+VSTUP = os.environ.get("HADEJ_VSTUP", "hledani/hadej-vstup.json")
+VYSTUP = os.environ.get("HADEJ_VYSTUP", "hledani/hadej.json")
+vstup = json.load(open(VSTUP))
 vystup = json.load(open(VYSTUP)) if os.path.exists(VYSTUP) else {}
 CIZI = re.compile(r"casino|kasino|sázk|poker|viagra|porn|escort|doména je na prodej|domain (is )?for sale|"
                   r"buy this domain|parkovan|parked|webhosting|tato doména|this domain", re.I)
@@ -90,20 +91,27 @@ def text_z(t):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", t)))
 
 
-def shoda(text, z):
+def shoda(text, z, prisne=False):
+    """prisne: adresa nevychází z názvu obce, takže stačí jen IČO, nebo ulice spolu s PSČ."""
     t = bez(text)
     cisla = re.sub(r"\s", "", t)
     if z.get("ico") and z["ico"].lstrip("0") and z["ico"] in cisla:
         return "ico"
     ul = bez(z.get("ulice") or "")
-    if len(ul) >= 5 and ul in t:
+    ma_ulici = len(ul) >= 5 and ul in t
+    ma_psc = bool(z.get("psc")) and re.sub(r"\D", "", z["psc"]) in cisla
+    if ma_ulici and ma_psc:
+        return "ulice+psc"
+    if prisne:
+        return ""
+    if ma_ulici and z.get("ulice_staci", True):
         return "ulice"
-    if z.get("psc_staci") and z.get("psc") and re.sub(r"\D", "", z["psc"]) in cisla:
+    if z.get("psc_staci") and ma_psc:
         return "psc"
     return ""
 
 
-def zkus(host, z):
+def zkus(host, z, prisne=False):
     for sch in ("https://", "http://"):
         web = sch + host + "/"
         try:
@@ -123,7 +131,7 @@ def zkus(host, z):
     text = text_z(t)
     if CIZI.search(titulek) or (len(text) < 3000 and CIZI.search(text)):
         return None
-    s = shoda(text, z)
+    s = shoda(text, z, prisne)
     if not s:
         odkazy = []
         for m in re.finditer(r'<a[^>]+href=["\']([^"\'#]+)["\']', t, re.I):
@@ -140,7 +148,7 @@ def zkus(host, z):
                 _, t2 = nacti(u)
             except Exception:  # noqa: BLE001
                 continue
-            s = shoda(text_z(t2), z)
+            s = shoda(text_z(t2), z, prisne)
             if s:
                 break
     if not s:
@@ -150,15 +158,18 @@ def zkus(host, z):
 
 def hledej(item):
     slug, z = item
-    hosty = [h for h in z["kand"] if existuje(h) or existuje("www." + h)]
+    hosty = [(h, False) for h in z["kand"] if existuje(h) or existuje("www." + h)]
     for h in z["sub"]:
         dom = h.split(".", 1)[1]
         if existuje(h) and not wildcard(dom):
-            hosty.append(h)
-    for h in hosty:
+            hosty.append((h, False))
+    # Hosting s libovolnými subdoménami (webnode): rozhodne až odpověď webu, ne DNS.
+    hosty += [(h, False) for h in z.get("hosting", [])]
+    hosty += [(h, True) for h in z.get("prisne", []) if existuje(h) or existuje("www." + h)]
+    for h, prisne in hosty:
         if not existuje(h):
             h = "www." + h
-        v = zkus(h, z)
+        v = zkus(h, z, prisne)
         if v:
             v["host"] = h
             return slug, v

@@ -1,0 +1,44 @@
+# Hledá weby školek mezi obvyklými tvary adres a přijme jen ty, kde sedí IČO, ulice nebo PSČ (scripts/hadej_weby.py).
+name: Hádání webů školek – 2. kolo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "hledani/hadej2-vstup.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hadej-weby-2
+  cancel-in-progress: false
+
+jobs:
+  hadej:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+            hledani
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Hledat
+        run: python3 scripts/hadej_weby.py
+        env:
+          HADEJ_VSTUP: hledani/hadej2-vstup.json
+          HADEJ_VYSTUP: hledani/hadej2.json
+      - name: Uložit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add hledani/hadej2.json
+          git commit -q -m "Hádání webů 2: $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin main && break; sleep $((RANDOM % 20 + 5)); done
