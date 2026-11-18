@@ -1,2 +1,6 @@
-[12:37:27] Část 2/20: webů 179, hotovo 222, zbývá 0
-[12:37:27] Konec: školek s fotkami 61; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:12] Část 2/20: webů 181, hotovo 222, zbývá 2
+[12:43:18] https://ms32.plzen.eu: 7 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
+[12:43:59] https://unesov.cz/cs/obec/materska-skola-unesov: 17 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 0 fotek ke kontrole
+[12:44:07] tříděno 0/1
+[12:44:07] Dávka 1: hotovo 224/181, se fotkami 61; {'ok': 0, 'lide': 0, 'jine': 1, 'sablona': 0}
+[12:44:07] Konec: školek s fotkami 61; {'ok': 0, 'lide': 0, 'jine': 1, 'sablona': 0}
