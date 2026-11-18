@@ -55,6 +55,23 @@
 "w": 920
 }
 ],
+"64-materska-skola-plzen-543818": [
+{
+"alt": "og",
+"barva": "#98957f",
+"dh": "15a3b0842666a406",
+"h": 900,
+"jistota": 0.917,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDBAAhERIFMUKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACERIhUf/aAAwDAQACEQMRAD8APQtx05rA6hmOlB51vGJ5ca7xKAdcjHR0aa12hWIRqfpRv9zRfF1YqUkbE9SOS5GxmNrnBlaC5mAmimRXB416D8cZYyKrWhjVAvYAe2UEnLB0fYuZ/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms64.plzen.eu/dalsi-faze-uprav-zahrady/",
+"typ": "zahrada",
+"url": "https://ms64.plzen.eu/wp-content/uploads/2020/09/119514662_630862344470205_5586682646980454410_n.jpg",
+"w": 1200
+}
+],
 "detska-skupina-agata-ds01265": [
 {
 "alt": "og",
@@ -1411,6 +1428,23 @@
 "typ": "interier",
 "url": "https://ms.obecpravice.cz/images/cwgallery/1_a0ae33eefbf95005b4d67597df190fd2.jpg",
 "w": 1200
+}
+],
+"materska-skola-rybnice-032108": [
+{
+"alt": "Foto",
+"barva": "#6d8465",
+"dh": "91b3939dac4f7afb",
+"h": 482,
+"jistota": 0.611,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgP/xAAkEAACAgECBQUAAAAAAAAAAAABAgADEQQFEhQjMUE1UXShwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABsRAAMAAgMAAAAAAAAAAAAAAAABAgQSMVGh/9oADAMBAAIRAxEAPwCRXuaWm2ypGUgjCuAR7SvM6rRFegljNkvm7OBjvmNLYnv9ZX47fsJORafpLlcGL76bXLrxAHwPH3CIoRG99mR//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolka-rybnice.cz/jidelnicek/",
+"typ": "budova",
+"url": "https://www.skolka-rybnice.cz/skins/msrybnice_lego2/images/foto.png",
+"w": 1080
 }
 ],
 "materska-skola-slunecni-040786": [
