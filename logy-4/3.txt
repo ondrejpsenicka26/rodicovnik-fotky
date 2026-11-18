@@ -1,6 +1,18 @@
-[08:52:03] Část 4/20: webů 153, hotovo 179, zbývá 2
-[08:52:12] https://skolka.malovice.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 0 fotek ke kontrole
-[08:53:22] https://mssvojicestou.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 1 fotek ke kontrole
-[08:53:33] tříděno 0/1
-[08:53:33] Dávka 1: hotovo 181/153, se fotkami 47; {'ok': 0, 'lide': 0, 'jine': 1, 'sablona': 0}
-[08:53:33] Konec: školek s fotkami 47; {'ok': 0, 'lide': 0, 'jine': 1, 'sablona': 0}
+[09:22:14] Část 4/20: webů 166, hotovo 181, zbývá 14
+[09:22:21] https://msmokrahorakov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:22:21] https://msletonice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
+[09:22:36] https://msnejdek.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 11 fotek ke kontrole
+[09:22:45] https://skolazdarec.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 1 fotek ke kontrole
+[09:22:47] https://skolaprasek.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 2 fotek ke kontrole
+[09:22:52] https://msradimovice.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 176 obrázků, 1 fotek ke kontrole
+[09:22:52] https://msdubova.estranky.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 6 fotek ke kontrole
+[09:22:55] https://ms-krizikova.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 48 obrázků, 3 fotek ke kontrole
+[09:22:57] https://msslunickomiroslav.cz: 16 stránek (galerie mimo web: 1 ['photos.google.com'], alb: 0), 135 obrázků, 0 fotek ke kontrole
+[09:22:58] https://brtov-jenec.cz/materska-skola: 13 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 6 fotek ke kontrole
+[09:23:20] https://msstruzna.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 170 obrázků, 0 fotek ke kontrole
+[09:23:28] https://zsamsstedra.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 1431 obrázků, 45 fotek ke kontrole
+[09:23:50] https://mstrstenice.cz: nedostupné nebo zakázané
+[09:25:55] https://2msvelkeopatovice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 129 obrázků, 19 fotek ke kontrole
+[09:26:17] tříděno 0/95
+[09:26:35] Dávka 1: hotovo 195/166, se fotkami 54; {'ok': 16, 'lide': 6, 'jine': 43, 'sablona': 0}
+[09:26:35] Konec: školek s fotkami 54; {'ok': 16, 'lide': 6, 'jine': 43, 'sablona': 0}
