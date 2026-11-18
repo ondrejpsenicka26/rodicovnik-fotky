@@ -86,10 +86,14 @@
 "web": "https://babyresort.cz/detska-skupina-tabulovy-vrch-olomouc"
 },
 "barborka-materska-skola-060990": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
+"duvod": "bez-shody",
+"final": "http://skolkabarborka.cz",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://skolkabarborka.cz"
+"titulek": "Barborka - Školka Barborka",
+"web": "https://skolkabarborka.cz",
+"web_pouzit": "http://skolkabarborka.cz"
 },
 "borky-a-borci-brezolupy-detska-skupina-ds02316": {
 "duvod": "",
@@ -588,9 +592,12 @@
 "web": "https://berusky.palonin.cz"
 },
 "detska-skupina-bobrici-ds01721": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "http://www.dsbobrici.cz/",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "BOBŘÍCI - Dětská skupina",
 "web": "https://dsbobrici.cz"
 },
 "detska-skupina-bodlinka-ds02043": {
@@ -626,8 +633,9 @@
 "web": "https://safariclub.cz/ds-chocen-boruvka"
 },
 "detska-skupina-brezanek-ds00134": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://dolnibrezany.cz/miniskolka-v-centru-brezanek"
 },
@@ -816,9 +824,12 @@
 "web": "https://chrudimacek.cz"
 },
 "detska-skupina-cinelky-ds11198": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "http://www.cinelky.cz/",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Mateřská školka a jesličky Činelky - Praha 9",
 "web": "https://cinelky.cz"
 },
 "detska-skupina-cirkus-cakovice-ds01702": {
@@ -1006,9 +1017,12 @@
 "web": "https://skolka-jesle.cz/detske-skupiny/devitka"
 },
 "detska-skupina-do-maleho-sveta-ds01472": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://www.prostorprorodinu.cz/do-maleho-sveta",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Do Malého Světa | Prostor Pro Rodinu",
 "web": "https://prostorprorodinu.cz/do-maleho-sveta"
 },
 "detska-skupina-dobra-voda-ds01770": {
@@ -1052,15 +1066,21 @@
 "web": "https://domici.cz"
 },
 "detska-skupina-domino-liberec-2-ds02275": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "http://dominoliberec.eu/cz/",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Úvod - Dětská skupina DOMINO Liberec z.s.",
 "web": "https://dominoliberec.eu"
 },
 "detska-skupina-domino-liberec-ds00092": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "http://dominoliberec.eu/cz/",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Úvod - Dětská skupina DOMINO Liberec z.s.",
 "web": "https://dominoliberec.eu"
 },
 "detska-skupina-dracci-domazlice-i-ds02077": {
@@ -1704,9 +1724,12 @@
 "web": "https://romodrom.cz/detska-skupina-hradcany-prostejov"
 },
 "detska-skupina-hrajeme-si-ds00192": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://www.prostorprorodinu.cz/detska-skupina-hrajeme-si",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Dětská skupina \"Hrajeme si\" | Prostor Pro Rodinu",
 "web": "https://prostorprorodinu.cz/detska-skupina-hrajeme-si"
 },
 "detska-skupina-hrava-duha-ds02314": {
@@ -1752,6 +1775,7 @@
 "detska-skupina-hrosici-ds01315": {
 "duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://klubhrosici.cz"
 },
@@ -1868,9 +1892,12 @@
 "web": "https://jablickov.cz"
 },
 "detska-skupina-jablonka-ds01938": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://www.prostorprorodinu.cz/detska-skupina-jablonka",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Dětská skupina Jabloňka | Prostor Pro Rodinu",
 "web": "https://prostorprorodinu.cz/detska-skupina-jablonka"
 },
 "detska-skupina-jahoda-albertov-ds00832": {
@@ -2072,9 +2099,12 @@
 "web": "https://ds-jezecek.cz"
 },
 "detska-skupina-jezek-ds00944": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "http://www.dsjezek.cz/",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "JEŽEK - Dětská skupina",
 "web": "https://dsjezek.cz"
 },
 "detska-skupina-jezirko-ds01383": {
@@ -2190,14 +2220,16 @@
 "web": "https://kastankov.cuni.cz"
 },
 "detska-skupina-klicek-ds00650": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://muunhost.cz/rodinne-centrum-klicek-a-skolka-klicek/ds-4146"
 },
 "detska-skupina-klub-hrosik-ds01190": {
 "duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://klubhrosici.cz"
 },
@@ -2334,14 +2366,19 @@
 "web": "https://dsbylany.cz/kocicky"
 },
 "detska-skupina-kocour-z-s-ds01309": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://mskocour.cz"
+"duvod": "",
+"final": "http://mskocour.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "HOME | Mateřská školka KOCOUR",
+"web": "https://mskocour.cz",
+"web_pouzit": "http://mskocour.cz"
 },
 "detska-skupina-kolousek-ds10961": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://dasice.cz/detska-skupina-kolousek-zminny"
 },
@@ -2444,12 +2481,14 @@
 "detska-skupina-kostelacek-1-ds10782": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kostelecncl.cz/detska-skupina-kostelacek/ms-22156"
 },
 "detska-skupina-kostelacek-2-ds11384": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kostelecncl.cz/detska-skupina-kostelacek/ds-1388"
 },
@@ -2486,14 +2525,16 @@
 "web": "https://jinaskolka.cz/kouzelny-kloboucek/o-skupince"
 },
 "detska-skupina-kraluv-dvur-i-ds10836": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kraluv-dvur.cz/detske-skupiny-kraluv-dvur/ms-35394"
 },
 "detska-skupina-kraluv-dvur-ii-ds10837": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kraluv-dvur.cz/detske-skupiny-kraluv-dvur/ms-35394"
 },
@@ -2782,6 +2823,7 @@
 "detska-skupina-listicka-holice-ds01941": {
 "duvod": "chyba: Remote end closed connection without response",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://detskaskupinabublinka.cz/programs/holice"
 },
@@ -2884,6 +2926,7 @@
 "detska-skupina-little-portus-ds02015": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://portusprachatice.cz/prorodinne-aktivity/detske-skupiny/detska-skupina-little-portus"
 },
@@ -2976,8 +3019,9 @@
 "web": "https://lumpikove.cz"
 },
 "detska-skupina-luzacci-ds01113": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://luzecnadcidlinou-luzacci.cz"
 },
@@ -3158,8 +3202,9 @@
 "web": "https://marypoppins.cz"
 },
 "detska-skupina-masinka-dasice-ds00313": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://dasice.cz/detska-skupina-masinka-dasice-kd-dasice"
 },
@@ -3276,9 +3321,12 @@
 "web": "https://msbystrice.cz/detske-skupiny/detska-skupina-medvidata"
 },
 "detska-skupina-medvidek-v-beroune-ds00366": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://www.prostorprorodinu.cz/detska-skupina-medvidek-v-beroune",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Dětská skupina Medvídek v Berouně | Prostor Pro Rodinu",
 "web": "https://prostorprorodinu.cz/detska-skupina-medvidek-v-beroune"
 },
 "detska-skupina-mesta-kromerize-ds01024": {
@@ -3522,10 +3570,14 @@
 "web": "https://centrin.cz/mlynek-unhost"
 },
 "detska-skupina-mlynek-ds01275": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://mikrojeslemlynek.cz"
+"duvod": "",
+"final": "http://mikrojeslemlynek.cz",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "Mikrojesle Mlýnek",
+"web": "https://mikrojeslemlynek.cz",
+"web_pouzit": "http://mikrojeslemlynek.cz"
 },
 "detska-skupina-modry-cap-ds02053": {
 "duvod": "",
@@ -3744,8 +3796,9 @@
 "web": "https://zsliptal.cz/o-skole/detska-skupina-motylci"
 },
 "detska-skupina-motylek-ds10123": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://novavesnm.cz/detska-skupina-motylek/ms-5022"
 },
@@ -3928,6 +3981,7 @@
 "detska-skupina-na-paloucku-ds02189": {
 "duvod": "chyba: Remote end closed connection without response",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://detskaskupinabublinka.cz/programs/detska-skupina-na-paloucku-pardubice"
 },
@@ -4276,8 +4330,9 @@
 "web": "https://dspenkavka.eschool.cz"
 },
 "detska-skupina-perinka-ds00335": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://dsperinka.cz"
 },
@@ -4448,20 +4503,23 @@
 "web": "https://pohodickachrudim.cz"
 },
 "detska-skupina-polnatka-ds10885": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://polnicka.cz/detska-skupina-polnatka"
 },
 "detska-skupina-portusacek-2-ds00438": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://portusprachatice.cz/prorodinne-aktivity/detske-skupiny/portusacek-2"
 },
 "detska-skupina-portusacek-ds00218": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://portusprachatice.cz/prorodinne-aktivity/detske-skupiny/portusacek-2"
 },
@@ -4564,12 +4622,14 @@
 "detska-skupina-pri-ms-husova-i-ds10745": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://namestnosl.cz/detska-skupina-pri-ms-husova/ds-1187"
 },
 "detska-skupina-pri-ms-husova-ii-ds10746": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://namestnosl.cz/detska-skupina-pri-ms-husova/ds-1187"
 },
@@ -4638,34 +4698,53 @@
 "web": "https://obeczdetin.cz/fotogalerie/detska-skupina-prtata"
 },
 "detska-skupina-prvni-slova-ds00916": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://www.prostorprorodinu.cz/detska-skupina-prvni-slova",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Dětská skupina \"První slova\" | Prostor Pro Rodinu",
 "web": "https://prostorprorodinu.cz/detska-skupina-prvni-slova"
 },
 "detska-skupina-pytel-blech-v-mesicke-i-ds01746": {
-"duvod": "chyba: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ss",
+"duvod": "bez-shody",
+"final": "http://pytelblech.cz",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://pytelblech.cz"
+"titulek": "",
+"web": "https://pytelblech.cz",
+"web_pouzit": "http://pytelblech.cz"
 },
 "detska-skupina-pytel-blech-v-mesicke-ii-ds01747": {
-"duvod": "chyba: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ss",
+"duvod": "bez-shody",
+"final": "http://pytelblech.cz",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://pytelblech.cz"
+"titulek": "",
+"web": "https://pytelblech.cz",
+"web_pouzit": "http://pytelblech.cz"
 },
 "detska-skupina-pytel-blech-v-mratinske-i-ds01567": {
-"duvod": "chyba: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ss",
+"duvod": "bez-shody",
+"final": "http://pytelblech.cz",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://pytelblech.cz"
+"titulek": "",
+"web": "https://pytelblech.cz",
+"web_pouzit": "http://pytelblech.cz"
 },
 "detska-skupina-pytel-blech-v-mratinske-ii-ds01568": {
-"duvod": "chyba: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ss",
+"duvod": "bez-shody",
+"final": "http://pytelblech.cz",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://pytelblech.cz"
+"titulek": "",
+"web": "https://pytelblech.cz",
+"web_pouzit": "http://pytelblech.cz"
 },
 "detska-skupina-raketka-ds02177": {
 "duvod": "",
@@ -4692,16 +4771,24 @@
 "web": "https://rechtajicikralicek.cz"
 },
 "detska-skupina-ricanek-zlata-ds00577": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://ricanek.com"
+"duvod": "",
+"final": "http://ricanek.com",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "Dětská skupina ZLATÁ/ZLATÁ II",
+"web": "https://ricanek.com",
+"web_pouzit": "http://ricanek.com"
 },
 "detska-skupina-ricanek-zlata-ii-ds01347": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://ricanek.com"
+"duvod": "",
+"final": "http://ricanek.com",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "Dětská skupina ZLATÁ/ZLATÁ II",
+"web": "https://ricanek.com",
+"web_pouzit": "http://ricanek.com"
 },
 "detska-skupina-rodinka-ds00084": {
 "duvod": "",
@@ -4838,8 +4925,9 @@
 "web": "https://dsrybickastraznice.webnode.cz"
 },
 "detska-skupina-rybicky-ds11201": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://hrusovany.cz/detska-skupina-rybicky-v-hrusovanech-nad-jevisovkou/d-18332"
 },
@@ -4996,8 +5084,9 @@
 "web": "https://skolkanahrazi.cz"
 },
 "detska-skupina-skolka-na-rohu-ds00403": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://boskovice.cz/ds-skolka-na-rohu"
 },
@@ -5178,8 +5267,9 @@
 "web": "https://ostrovskeslunicko.cz"
 },
 "detska-skupina-slunicko-cechtice-ds11169": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mestyscechtice.cz/detska-skupina-slunicko"
 },
@@ -5504,8 +5594,9 @@
 "web": "https://volnycaspraha.cz/centra-pro-predskolni-deti/58-cpd-snecci"
 },
 "detska-skupina-snehurka-ds10748": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kc12.cz/snehurka"
 },
@@ -5518,8 +5609,9 @@
 "web": "https://sokolikberoun.cz"
 },
 "detska-skupina-soptik-ds00834": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://obec-okrouhlice.cz/detska-skupina-soptik/ds-2957"
 },
@@ -5580,8 +5672,9 @@
 "web": "https://subirov.cz/obec/detska-skupina-sovicky"
 },
 "detska-skupina-sovicky-ds10596": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://obeclovcice.cz/fotogalerie-detske-skupiny-sovicky/ms-12724/p1_12724"
 },
@@ -6026,10 +6119,14 @@
 "web": "https://vrisipribehu.cz"
 },
 "detska-skupina-v-zahradce-ds01018": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://vzahradce.cz"
+"duvod": "",
+"final": "http://vzahradce.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Dětská skupina V Zahrádce, Plzeň",
+"web": "https://vzahradce.cz",
+"web_pouzit": "http://vzahradce.cz"
 },
 "detska-skupina-vceli-akademie-ds01740": {
 "duvod": "",
@@ -6368,16 +6465,24 @@
 "web": "https://amelie-centrum.cz/ds-vseznalkov-podminky"
 },
 "detska-skupina-vykutaleny-orisek-2-ds01036": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
-"ok": false,
-"shoda": "",
-"web": "https://dsorisek.cz"
+"duvod": "",
+"final": "http://dsorisek.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Dětská skupina Oříšek",
+"web": "https://dsorisek.cz",
+"web_pouzit": "http://dsorisek.cz"
 },
 "detska-skupina-vykutaleny-orisek-ds00943": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
-"ok": false,
-"shoda": "",
-"web": "https://dsorisek.cz"
+"duvod": "",
+"final": "http://dsorisek.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Dětská skupina Oříšek",
+"web": "https://dsorisek.cz",
+"web_pouzit": "http://dsorisek.cz"
 },
 "detska-skupina-waldik-radvanice-ds01880": {
 "duvod": "",
@@ -6396,10 +6501,14 @@
 "web": "https://wonderspaceprague.com"
 },
 "detska-skupina-ymca-ds00476": {
-"duvod": "chyba: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake fail",
-"ok": false,
-"shoda": "",
-"web": "https://usti.ymca.cz"
+"duvod": "",
+"final": "http://usti.ymca.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "YMCA Ústí nad Labem",
+"web": "https://usti.ymca.cz",
+"web_pouzit": "http://usti.ymca.cz"
 },
 "detska-skupina-ymca-plzen-slunicko-tlucna-ds01898": {
 "duvod": "",
@@ -6498,14 +6607,16 @@
 "web": "https://im-perfect.cz/detske-skupiny/zbusska-vlcata"
 },
 "detska-skupina-zbuzanek-i-ds10877": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zbuzany.eu/detsky-klub-zbuzanek/ds-8819"
 },
 "detska-skupina-zbuzanek-ii-ds10878": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zbuzany.eu/detsky-klub-zbuzanek/ds-8819"
 },
@@ -6582,9 +6693,12 @@
 "web": "https://mszenklovka.cz"
 },
 "detska-skupina-zizalky-ds01791": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://www.msalergo.cz/ds-zizalky",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "Dětská skupina Žížalky | MŠ Alergo",
 "web": "https://msalergo.cz/ds-zizalky"
 },
 "detska-skupina-zizkovska-skolicka-i-ds00025": {
@@ -6762,10 +6876,14 @@
 "web": "https://talk-e.cz"
 },
 "jesle-kulisek-detska-skupina-ds00561": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://jeslekulisek.cz"
+"duvod": "",
+"final": "http://jeslekulisek.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Jesle Kulíšek - hlídání dětí - Frýdlant nad Ostravicí",
+"web": "https://jeslekulisek.cz",
+"web_pouzit": "http://jeslekulisek.cz"
 },
 "jeslicky-pianko-detska-skupina-ds01333": {
 "duvod": "",
@@ -6832,26 +6950,30 @@
 "web": "https://kralovskaskolka.cz"
 },
 "kralovska-skolka-detska-skupina-vimperk-ds01116": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://vimperk.cz/detska-skupina-kralovska-skolka/ms-16699"
 },
 "kralovska-skolka-v-cb-detska-skupina-ds00671": {
 "duvod": "chyba: <urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1011)>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kralovskaskolkacb.cz"
 },
 "kralovska-skolka-v-cb-ii-detska-skupina-ds01019": {
 "duvod": "chyba: <urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1011)>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kralovskaskolkacb.cz"
 },
 "kralovska-skolka-v-cb-iii-detska-skupina-ds01812": {
 "duvod": "chyba: <urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1011)>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://kralovskaskolkacb.cz"
 },
@@ -7206,8 +7328,9 @@
 "web": "https://materska-skola-fanderlikova.webnode.cz"
 },
 "materska-skola-brno-601311": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mscihelni.malomerice.cz"
 },
@@ -7220,10 +7343,14 @@
 "web": "https://msbrnovaleji.eu"
 },
 "materska-skola-brno-601591": {
-"duvod": "chyba: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ss",
-"ok": false,
-"shoda": "",
-"web": "https://mskosmonautu.info"
+"duvod": "",
+"final": "http://mskosmonautu.info",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Mateřská škola, ulice Kosmonautů 2",
+"web": "https://mskosmonautu.info",
+"web_pouzit": "http://mskosmonautu.info"
 },
 "materska-skola-brno-602288": {
 "duvod": "",
@@ -7258,8 +7385,9 @@
 "web": "https://msklasterskeho.unas.cz"
 },
 "materska-skola-brno-602741": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msproskovo.cz"
 },
@@ -7424,6 +7552,7 @@
 "materska-skola-ceske-budejovice-675970": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mskstecha.cz"
 },
@@ -7492,8 +7621,9 @@
 "web": "https://materskaskolachrast.cz"
 },
 "materska-skola-chroboly-534495": {
-"duvod": "chyba: <urlopen error timed out>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://chroboly.cz/materska-skola-4"
 },
@@ -7542,14 +7672,16 @@
 "web": "https://ms-milenov.cz"
 },
 "materska-skola-ctyrlistek-585995": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msctyrlistekrk.cz"
 },
 "materska-skola-ctyrlistek-621088": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://krnov.cz/materske-skoly/d-35550"
 },
@@ -7570,8 +7702,9 @@
 "web": "https://ms.cucice.cz"
 },
 "materska-skola-cvrcovice-604507": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mscvrcovice.cz"
 },
@@ -7592,8 +7725,9 @@
 "web": "https://msdedicka.cz"
 },
 "materska-skola-dobev-053296": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://skolkadobev.cz"
 },
@@ -7678,8 +7812,9 @@
 "web": "https://domasovnadbystrici.cz/materska-skola"
 },
 "materska-skola-domasov-u-sternberka-627400": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://domasovusternberka.cz/materska-skola/os-1001"
 },
@@ -7692,9 +7827,12 @@
 "web": "https://ms.doubravicens.cz"
 },
 "materska-skola-drahonice-535092": {
-"duvod": "chyba: HTTP Error 429: Too Many Requests",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://msdrahonice.blogspot.com",
+"ok": true,
+"opak": 1,
+"shoda": "ico",
+"titulek": "MATEŘSKÁ ŠKOLA DRAHONICE",
 "web": "https://msdrahonice.blogspot.com"
 },
 "materska-skola-drevnovice-610256": {
@@ -7780,6 +7918,7 @@
 "materska-skola-hluboka-nad-vltavou-000182": {
 "duvod": "chyba: HTTP Error 500: Internal Server Error",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://ms.hluboka.cz"
 },
@@ -7864,16 +8003,21 @@
 "web": "https://mshosteradice.cz"
 },
 "materska-skola-hosteradky-resov-613905": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://hosteradky-resov.cz/materska-skola/os-1006"
 },
 "materska-skola-hostice-heroltice-613301": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
+"duvod": "bez-shody",
+"final": "http://ms.hostice-heroltice.cz",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://ms.hostice-heroltice.cz"
+"titulek": "",
+"web": "https://ms.hostice-heroltice.cz",
+"web_pouzit": "http://ms.hostice-heroltice.cz"
 },
 "materska-skola-houdkovice-718717": {
 "duvod": "",
@@ -8060,12 +8204,14 @@
 "materska-skola-jakubov-000074": {
 "duvod": "chyba: HTTP Error 500: Internal Server Error",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msjakubov.cz"
 },
 "materska-skola-jarni-613719": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msjarni4.cz"
 },
@@ -8126,8 +8272,9 @@
 "web": "https://nasjesenik.cz/univerzalni-objekty/102-materska-skola-karla-capka"
 },
 "materska-skola-kestrany-053300": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://ms.kestrany-pisecko.cz"
 },
@@ -8140,8 +8287,9 @@
 "web": "https://msklenovicenahane.cz"
 },
 "materska-skola-klicek-585987": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msklicekrk.cz"
 },
@@ -8170,10 +8318,14 @@
 "web": "https://ms.klopina.cz"
 },
 "materska-skola-komorany-613891": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://mskomorany.cz"
+"duvod": "",
+"final": "http://mskomorany.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Úvod",
+"web": "https://mskomorany.cz",
+"web_pouzit": "http://mskomorany.cz"
 },
 "materska-skola-konecchlumi-582813": {
 "duvod": "",
@@ -8256,6 +8408,7 @@
 "materska-skola-krasensko-045391": {
 "duvod": "chyba: HTTP Error 429: Too Many Requests",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mskrasensko.cz"
 },
@@ -8520,10 +8673,14 @@
 "web": "https://msholubova.cz"
 },
 "materska-skola-markvartice-582899": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-",
-"ok": false,
-"shoda": "",
-"web": "https://msmarkvartice.cz"
+"duvod": "",
+"final": "http://msmarkvartice.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "MŠ Markvartice",
+"web": "https://msmarkvartice.cz",
+"web_pouzit": "http://msmarkvartice.cz"
 },
 "materska-skola-medlovice-613336": {
 "duvod": "",
@@ -8606,8 +8763,9 @@
 "web": "https://mlazovice.cz/materska-skola-zakladni-informace"
 },
 "materska-skola-mohelnice-632659": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mohelnice.cz/materska-skola-mohelnice-na-zamecku-10/os-8738"
 },
@@ -8662,6 +8820,7 @@
 "materska-skola-moravsky-beroun-620634": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://morberoun.cz/materska-skola-moravsky-beroun-p-o/os-5925"
 },
@@ -8698,6 +8857,7 @@
 "materska-skola-na-paloucku-015315": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://tisnov.cz/materska-skola-na-paloucku-tisnov/os-1021"
 },
@@ -8742,8 +8902,9 @@
 "web": "https://msnejdek.cz"
 },
 "materska-skola-nejdek-101849": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
+"duvod": "chyba: http vede zpět na https",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://ms-lipova-nejdek.cz"
 },
@@ -8890,9 +9051,12 @@
 "web": "https://materska-skolka-oldrisov.webnode.cz"
 },
 "materska-skola-olesnice-586525": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://zsamsolesnice.cz",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Úvod | ZŠ a MŠ města Olešnice",
 "web": "https://zsamsolesnice.cz"
 },
 "materska-skola-olomouc-000530": {
@@ -8984,10 +9148,14 @@
 "web": "https://sokolovskams.cz"
 },
 "materska-skola-ostrava-630656": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://mshornicka.cz"
+"duvod": "",
+"final": "http://mshornicka.cz",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "Aktuality",
+"web": "https://mshornicka.cz",
+"web_pouzit": "http://mshornicka.cz"
 },
 "materska-skola-ostrava-plesna-629895": {
 "duvod": "",
@@ -9030,8 +9198,9 @@
 "web": "https://ms-ostruzno.webnode.cz"
 },
 "materska-skola-otinoves-610761": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://obecotinoves.cz/materska-skola-otinoves/os-53"
 },
@@ -9202,8 +9371,9 @@
 "web": "https://postrelmuvek.cz/obec/materska-skola-postrelmuvek/informace-o-skole-1"
 },
 "materska-skola-pouzdrany-604795": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://ms-pouzdrany.cz"
 },
@@ -9336,8 +9506,9 @@
 "web": "https://msradosovice.webnode.cz"
 },
 "materska-skola-radslavice-91-613875": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msradslavice.cz"
 },
@@ -9414,8 +9585,9 @@
 "web": "https://msrtyne.cz"
 },
 "materska-skola-ruda-nad-moravou-632861": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msruda.cz"
 },
@@ -9430,6 +9602,7 @@
 "materska-skola-ruprechtov-613646": {
 "duvod": "chyba: HTTP Error 429: Too Many Requests",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://ms-ruprechtov.cz"
 },
@@ -9556,10 +9729,14 @@
 "web": "https://zsamsskalice.cz"
 },
 "materska-skola-skalna-541114": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
-"ok": false,
-"shoda": "",
-"web": "https://msskalna.cz"
+"duvod": "",
+"final": "http://msskalna.cz",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "Mateřská škola Skalná",
+"web": "https://msskalna.cz",
+"web_pouzit": "http://msskalna.cz"
 },
 "materska-skola-skripov-609932": {
 "duvod": "",
@@ -9588,6 +9765,7 @@
 "materska-skola-slavce-530821": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msslavce.cz"
 },
@@ -9614,14 +9792,16 @@
 "web": "https://msslunicko.org"
 },
 "materska-skola-slunicko-585715": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://msslunickork.cz"
 },
 "materska-skola-slunicko-604027": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://tisnov.cz/materska-skola-slunicko-tisnov/os-1022"
 },
@@ -9652,14 +9832,19 @@
 "materska-skola-smrzovka-563444": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://smrzovka.cz/materska-skola-smrzovka"
 },
 "materska-skola-snehurka-555602": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
-"ok": false,
-"shoda": "",
-"web": "https://skolkasnehurka.cz"
+"duvod": "",
+"final": "http://www.skolkasnehurka.cz/",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Domů - MŠ Sněhurka",
+"web": "https://skolkasnehurka.cz",
+"web_pouzit": "http://skolkasnehurka.cz"
 },
 "materska-skola-sobcice-582996": {
 "duvod": "",
@@ -9810,6 +9995,7 @@
 "materska-skola-studnice-613701": {
 "duvod": "chyba: HTTP Error 429: Too Many Requests",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://ms-studnice.cz"
 },
@@ -9888,6 +10074,7 @@
 "materska-skola-tabor-535793": {
 "duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certi",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mssokolovska-tabor.cz"
 },
@@ -10316,8 +10503,9 @@
 "web": "https://skolazahradky.cz"
 },
 "materska-skola-zar-530708": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mszar.cz"
 },
@@ -10472,10 +10660,14 @@
 "web": "https://montessorichotikov.cz"
 },
 "montessori-detska-skupina-bimbonido-ds01321": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://bimbonido.cz"
+"duvod": "",
+"final": "http://bimbonido.cz",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "BimboNido",
+"web": "https://bimbonido.cz",
+"web_pouzit": "http://bimbonido.cz"
 },
 "montessori-detska-skupina-boticka-ds00869": {
 "duvod": "",
@@ -10600,6 +10792,7 @@
 "ms-materinka-045323": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://vyskov.cz/materska-skola-materinka-s-r-o/os-98639/p1_135875"
 },
@@ -10810,8 +11003,9 @@
 "web": "https://svobodnaskolaprerov.cz"
 },
 "u-3-ovecek-detska-skupina-ds00639": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://boskovice.cz/skolicka-u-tri-ovecek"
 },
@@ -10862,10 +11056,14 @@
 "web": "https://skolaadrspach.cz"
 },
 "zakladni-skola-a-materska-skola-bernartice-589028": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-",
+"duvod": "bez-shody",
+"final": "http://zsbernartice.eu",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://zsbernartice.eu"
+"titulek": "",
+"web": "https://zsbernartice.eu",
+"web_pouzit": "http://zsbernartice.eu"
 },
 "zakladni-skola-a-materska-skola-bily-kostel-nad-nisou-563801": {
 "duvod": "",
@@ -10894,6 +11092,7 @@
 "zakladni-skola-a-materska-skola-bosovice-613948": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zsbosovice.cz"
 },
@@ -10938,10 +11137,14 @@
 "web": "https://zsbrezova.eu"
 },
 "zakladni-skola-a-materska-skola-brnicko-632144": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-",
-"ok": false,
-"shoda": "",
-"web": "https://zsbrnicko.cz"
+"duvod": "",
+"final": "http://zsbrnicko.cz",
+"ok": true,
+"opak": 1,
+"shoda": "psc",
+"titulek": "Základní škola a mateřská škola Brníčko",
+"web": "https://zsbrnicko.cz",
+"web_pouzit": "http://zsbrnicko.cz"
 },
 "zakladni-skola-a-materska-skola-brumovice-629496": {
 "duvod": "",
@@ -11016,10 +11219,14 @@
 "web": "https://skola-chrastany.cz"
 },
 "zakladni-skola-a-materska-skola-chvalkovice-583518": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
-"ok": false,
-"shoda": "",
-"web": "https://zschvalkovice.cz"
+"duvod": "",
+"final": "http://www.zschvalkovice.cz/",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "přesměrování na http://www.zschvalkovice.cz/cz/uvod/",
+"web": "https://zschvalkovice.cz",
+"web_pouzit": "http://zschvalkovice.cz"
 },
 "zakladni-skola-a-materska-skola-dalovice-541581": {
 "duvod": "bez-shody",
@@ -11038,9 +11245,12 @@
 "web": "https://zsdetenice.cz"
 },
 "zakladni-skola-a-materska-skola-dobratice-621444": {
-"duvod": "chyba: <urlopen error _ssl.c:994: The handshake operation timed out>",
-"ok": false,
-"shoda": "",
+"duvod": "",
+"final": "https://www.zsdobratice.cz/",
+"ok": true,
+"opak": 1,
+"shoda": "ulice",
+"titulek": "Základní škola Dobratice",
 "web": "https://zsdobratice.cz"
 },
 "zakladni-skola-a-materska-skola-dolni-dvoriste-531658": {
@@ -11052,8 +11262,9 @@
 "web": "https://zsdolnidvoriste.cz"
 },
 "zakladni-skola-a-materska-skola-dolni-kalna-587963": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "robots",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://dolnikalna.cz/zakladni-skola"
 },
@@ -11066,8 +11277,9 @@
 "web": "https://zsdolniolesnice.cz"
 },
 "zakladni-skola-a-materska-skola-drnovice-600358": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://skoladrnovice.cz"
 },
@@ -11110,8 +11322,9 @@
 "web": "https://zsmshlubocany.webnode.cz"
 },
 "zakladni-skola-a-materska-skola-horni-bradlo-582040": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zshornibradlo.cz"
 },
@@ -11278,8 +11491,9 @@
 "web": "https://zskladky.cz"
 },
 "zakladni-skola-a-materska-skola-kluky-053318": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zsamskluky.cz"
 },
@@ -11300,8 +11514,9 @@
 "web": "https://skolakobylnice.cz"
 },
 "zakladni-skola-a-materska-skola-kolsov-632977": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zsamskolsov.cz"
 },
@@ -11376,8 +11591,9 @@
 "web": "https://zs-ms-lipova.cz"
 },
 "zakladni-skola-a-materska-skola-lnare-535076": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zs.lnare-obec.cz"
 },
@@ -11398,8 +11614,9 @@
 "web": "https://zslomnice.cz"
 },
 "zakladni-skola-a-materska-skola-loucka-631270": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://mesto-lipnik.cz/zakladni-skola-a-materska-skola-loucka/os-1017"
 },
@@ -11648,10 +11865,14 @@
 "web": "https://zsvojice.cz"
 },
 "zakladni-skola-a-materska-skola-podoli-603675": {
-"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
+"duvod": "bez-shody",
+"final": "http://zsmspodoli.cz",
 "ok": false,
+"opak": 1,
 "shoda": "",
-"web": "https://zsmspodoli.cz"
+"titulek": "Doména je registrována na serverech Web4U s.r.o.",
+"web": "https://zsmspodoli.cz",
+"web_pouzit": "http://zsmspodoli.cz"
 },
 "zakladni-skola-a-materska-skola-polkovice-631369": {
 "duvod": "",
@@ -11688,6 +11909,7 @@
 "zakladni-skola-a-materska-skola-pozorice-603683": {
 "duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zspozorice.cz"
 },
@@ -11734,6 +11956,7 @@
 "zakladni-skola-a-materska-skola-pustimer-613611": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zspustimer.cz"
 },
@@ -11756,6 +11979,7 @@
 "zakladni-skola-a-materska-skola-rasosky-583852": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://skola-rasosky.cz"
 },
@@ -11840,8 +12064,9 @@
 "web": "https://zsamsskalice.cz"
 },
 "zakladni-skola-a-materska-skola-skalice-u-ceske-lipy-560569": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zsms-skalice.cz"
 },
@@ -12104,6 +12329,7 @@
 "zakladni-skola-a-materska-skola-zarosice-607646": {
 "duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zszarosice.cz"
 },
@@ -12140,8 +12366,9 @@
 "web": "https://skola.zlata-olesnice.cz"
 },
 "zakladni-skola-a-ms-j-schrotha-632527": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zslipova.cz"
 },
@@ -12156,12 +12383,14 @@
 "zakladni-skola-boleslava-hrbka-a-ms-632454": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zs-lestina.cz"
 },
 "zakladni-skola-bratri-capku-588536": {
 "duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zsbcupice.cz"
 },
@@ -12222,8 +12451,9 @@
 "web": "https://zsmsbujanov.cz"
 },
 "zs-a-ms-dubnice-560267": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zsdubnice.cz"
 },
@@ -12260,8 +12490,9 @@
 "web": "https://zsorlik.cz"
 },
 "zs-a-ms-rosice-582317": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://skola-rosice.net"
 },
@@ -12276,6 +12507,7 @@
 "zs-jana-husa-a-ms-pisek-husovo-nam-725-053580": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "https://zsjanahusa.cz"
 },
