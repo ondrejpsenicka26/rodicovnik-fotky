@@ -832,6 +832,62 @@
 "w": 1200
 }
 ],
+"materska-skola-chlum-544377": [
+{
+"alt": "MŠ Chlum - rekonstrukce léto 2025",
+"barva": "#8d7b64",
+"dh": "2425c56464a44060",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIRMUMUEiUTJhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAhJR/9oADAMBAAIRAxEAPwCaHqKzLICSDwQuOKtIrCLLbN/7O0Vg3Wou1o0sMvTYOPH5fz3U9tq57a3Msqy4lBLbsscEesYoMPUsE0lYbqyeQkLuBwSBxmin2eqQpbrJK7KZiZQPoE0U1QcfhycejSrnEyDPnjNW4tHbYF7oA/YQVf8AVOU4FCmxmJHoIuIYy90/wUIMDHAorStWIgGDRSpKEdM//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-chlum.cz/cs/fotogalerie/19/",
+"typ": "interier",
+"url": "https://www.ms-chlum.cz/UserFiles/101/Image/1752582318IMG-6859.jpg",
+"w": 900
+},
+{
+"alt": "Areál zahrady MŠ Chlum",
+"barva": "#786e51",
+"dh": "56b19adc3f374622",
+"h": 900,
+"jistota": 0.975,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-chlum.cz/cs/fotogalerie/22/",
+"typ": "zahrada",
+"url": "https://www.ms-chlum.cz/UserFiles/101/Image/1756987650IMG-7902.jpg",
+"w": 1200
+},
+{
+"alt": "Areál zahrady MŠ Chlum",
+"barva": "#5a5342",
+"dh": "b6c6d9ec654653e7",
+"h": 1200,
+"jistota": 0.997,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-chlum.cz/cs/fotogalerie/22/",
+"typ": "les",
+"url": "https://www.ms-chlum.cz/UserFiles/101/Image/1756987650IMG-7901.jpg",
+"w": 900
+},
+{
+"alt": "MŠ Chlum - rekonstrukce léto 2025",
+"barva": "#93795c",
+"dh": "0f86d286c3301f7f",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.ms-chlum.cz/cs/fotogalerie/19/",
+"typ": "interier",
+"url": "https://www.ms-chlum.cz/UserFiles/101/Image/1752582318IMG-6858.jpg",
+"w": 900
+}
+],
 "materska-skola-chrast-581922": [
 {
 "alt": "og",
@@ -1225,6 +1281,49 @@
 "typ": "budova",
 "url": "https://www.puclice.cz/data/headerfooter/header_images/obcepohadkove-2023foto34561-puclice28.jpg",
 "w": 1200
+}
+],
+"materska-skola-rtyne-nad-bilinou-568268": [
+{
+"alt": "",
+"barva": "#a79688",
+"dh": "3271ecd4cb172b0b",
+"h": 712,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACUQAAIBAwIFBQAAAAAAAAAAAAECAwAEEQUhBhIxMlETYXGCof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREv/aAAwDAQACEQMRAD8AfarrEkExt4EAyuTJncZ8ClsOq3dqD6ZDg7lZMkfgpVallQBXcfaty7kd7b7denv81JXagGVEOI7ADEkvK47lAJwfGcUVFXEQe4diWBJzsaKfTBC//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msrtynenadbilinou.cz/fotogalerie/fotogalerie-2025-2026/dopravni-policie-v-ms-548cs.html",
+"typ": "budova",
+"url": "https://www.msrtynenadbilinou.cz/data/headerfooter/header_images/dscn1427.png",
+"w": 1176
+},
+{
+"alt": "",
+"barva": "#756956",
+"dh": "07b2b2b2d2a7973e",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msrtynenadbilinou.cz/fotogalerie/fotogalerie-2025-2026/dopravni-policie-v-ms-548cs.html",
+"typ": "interier",
+"url": "https://www.msrtynenadbilinou.cz/data/headerfooter/header_images/dscn1451.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#948b6e",
+"dh": "968e6836869a9604",
+"h": 750,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msrtynenadbilinou.cz/fotogalerie/fotogalerie-2025-2026/dopravni-policie-v-ms-548cs.html",
+"typ": "interier",
+"url": "https://www.msrtynenadbilinou.cz/data/headerfooter/header_images/dscn1446.jpg",
+"w": 1000
 }
 ],
 "materska-skola-skutec-000214": [
@@ -1799,6 +1898,62 @@
 "stranka": "https://www.zslhotapodlibcany.cz/fotogalerie-ms/skolka",
 "typ": "budova",
 "url": "http://www.zslhotapodlibcany.cz/image.php?oid=10279045",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-lukov-611961": [
+{
+"alt": "",
+"barva": "#817d7b",
+"dh": "3705c58737745b77",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2OTApLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAgEAACAgIDAQADAAAAAAAAAAABAgMRABIEBSEiE6HR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAISE//aAAwDAQACEQMRAD8ASgi7UOViM347NEg615/f0ctcMxt1ck7RxzFWb6K1tRxVuW6IAC1L8gbHJ8mupOvgshQTWAylr3HLTi8mNY4QA8SvSnwXeGSJezYOQIloeem8MvplRqX/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolalukov.cz/page/default/172?album_id=1",
+"typ": "budova",
+"url": "https://www.skolalukov.cz/data/photogallery/1/ms1-7tpnvagc2r.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c755e",
+"dh": "cb8ba7ad8f8f7361",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolalukov.cz/page/default/172?album_id=1",
+"typ": "interier",
+"url": "https://www.skolalukov.cz/data/photogallery/1/zs1-j9kmk4nqjp.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#85868e",
+"dh": "ff7cf8faea7bf87c",
+"h": 801,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolalukov.cz/page/default/172?album_id=1",
+"typ": "budova",
+"url": "https://www.skolalukov.cz/data/photogallery/1/zs3-9z4g1blwcm.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#957e69",
+"dh": "6d6db91339498d97",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolalukov.cz/page/default/172?album_id=1",
+"typ": "interier",
+"url": "https://www.skolalukov.cz/data/photogallery/1/zs2-dhf1vl51hu.jpg",
 "w": 1200
 }
 ],

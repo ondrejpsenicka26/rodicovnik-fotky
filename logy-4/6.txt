@@ -1,6 +1,11 @@
-[10:40:09] Část 7/20: webů 161, hotovo 202, zbývá 2
-[10:40:38] http://dsorisek.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 14 fotek ke kontrole
-[10:40:40] http://msmarkvartice.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 173 obrázků, 0 fotek ke kontrole
-[10:40:53] tříděno 0/14
-[10:40:53] Dávka 1: hotovo 204/161, se fotkami 63; {'ok': 1, 'lide': 2, 'jine': 11, 'sablona': 0}
-[10:40:53] Konec: školek s fotkami 63; {'ok': 1, 'lide': 2, 'jine': 11, 'sablona': 0}
+[11:04:09] Část 7/20: webů 168, hotovo 204, zbývá 7
+[11:04:17] https://www.msvelkyosek.cz: nedostupné nebo zakázané
+[11:04:23] https://www.zsmsslopne.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
+[11:04:26] https://www.zsamsmoravec.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 0 fotek ke kontrole
+[11:05:07] https://www.skolalukov.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 18 fotek ke kontrole
+[11:05:20] https://www.msrtynenadbilinou.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 220 obrázků, 7 fotek ke kontrole
+[11:05:58] https://www.ms-chlum.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 47 obrázků, 32 fotek ke kontrole
+[11:06:43] https://skolalochovice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 14786 obrázků, 45 fotek ke kontrole
+[11:06:52] tříděno 0/102
+[11:07:05] Dávka 1: hotovo 211/168, se fotkami 66; {'ok': 11, 'lide': 6, 'jine': 65, 'sablona': 0}
+[11:07:05] Konec: školek s fotkami 66; {'ok': 11, 'lide': 6, 'jine': 65, 'sablona': 0}
