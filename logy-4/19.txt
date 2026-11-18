@@ -1,5 +1,2 @@
-[12:43:16] Část 20/20: webů 175, hotovo 224, zbývá 1
-[12:45:02] https://mschotesov.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 154 obrázků, 34 fotek ke kontrole
-[12:45:25] tříděno 0/34
-[12:45:26] Dávka 1: hotovo 225/175, se fotkami 79; {'ok': 3, 'lide': 2, 'jine': 1, 'sablona': 0}
-[12:45:26] Konec: školek s fotkami 79; {'ok': 3, 'lide': 2, 'jine': 1, 'sablona': 0}
+[12:54:26] Část 20/20: webů 175, hotovo 225, zbývá 0
+[12:54:26] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
