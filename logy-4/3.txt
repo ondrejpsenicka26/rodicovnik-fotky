@@ -1,2 +1,11 @@
-[09:44:20] Část 4/20: webů 160, hotovo 195, zbývá 0
-[09:44:20] Konec: školek s fotkami 54; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:53:57] Část 4/20: webů 167, hotovo 195, zbývá 7
+[09:54:00] https://ms-mechova.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:54:07] https://obecnovyoldrichov.cz/zivot-v-obci/zakladni-a-materska-skola: 1 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 3 fotek ke kontrole
+[09:54:16] https://msdaisy.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 6 fotek ke kontrole
+[09:54:37] https://msprosecne.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 94 obrázků, 1 fotek ke kontrole
+[09:54:40] https://skolabulovka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 264 obrázků, 43 fotek ke kontrole
+[09:55:13] https://mssenov.cz: 16 stránek (galerie mimo web: 16 ['broucci-ms-lipova.rajce.idnes.cz', 'brouccimssenov.rajce.idnes.cz', 'eu.zonerama.com'], alb: 1), 73 obrázků, 10 fotek ke kontrole
+[09:55:15] https://mscvjesenicka.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 289 obrázků, 5 fotek ke kontrole
+[09:55:25] tříděno 0/68
+[09:55:28] Dávka 1: hotovo 202/167, se fotkami 55; {'ok': 3, 'lide': 9, 'jine': 55, 'sablona': 0}
+[09:55:28] Konec: školek s fotkami 55; {'ok': 3, 'lide': 9, 'jine': 55, 'sablona': 0}

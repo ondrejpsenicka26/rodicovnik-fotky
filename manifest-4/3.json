@@ -1618,6 +1618,49 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-bulovka-564858": [
+{
+"alt": "",
+"barva": "#7a8277",
+"dh": "1050e6b4b2ea0ce7",
+"h": 980,
+"jistota": 0.858,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAlEAACAgEEAQMFAAAAAAAAAAABAgMEABESITEFE0FhIlFxwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwCiXxdCnXYvXlkO5Q26TT78+2Qr16YeaVY1WMzhUiZdwUaDUanN9iOVhN6IWZWIIHbKB8fzM/oiszRWox9TGVBqGBw1OXXa8TZgtV3dayRgSFQAB7afGMxUp0pwlGUAs7Np1pyR+sY9HECNp44y2CNLsyR2FDbuA/TL+DjGZxdcny0XoWhGsjkKvZPJ5PeMYyqH/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolabulovka.cz/galerie",
+"typ": "budova",
+"url": "https://www.skolabulovka.cz/gallery/34/642542aa5f5c84.45481678.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#a09d60",
+"dh": "ed6d1d8e8c8ccd5c",
+"h": 1000,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolabulovka.cz/galerie",
+"typ": "interier",
+"url": "https://www.skolabulovka.cz/gallery/39/67063e6e614f09.28466486.jpeg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#8f843d",
+"dh": "82969ee91b186d67",
+"h": 1000,
+"jistota": 0.94,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolabulovka.cz/galerie",
+"typ": "interier",
+"url": "https://www.skolabulovka.cz/gallery/39/67063e014d5fa1.46126904.jpeg",
+"w": 1000
+}
+],
 "zakladni-skola-a-materska-skola-caslavice-611139": [
 {
 "alt": "",
