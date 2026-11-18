@@ -1,2 +1,7 @@
-[09:44:24] Část 19/20: webů 153, hotovo 184, zbývá 0
-[09:44:24] Konec: školek s fotkami 46; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:02] Část 19/20: webů 156, hotovo 184, zbývá 3
+[09:54:22] https://materska-skola-specialni-semily.webnode.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 0 fotek ke kontrole
+[09:55:45] https://msebeneseopava.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 628 obrázků, 8 fotek ke kontrole
+[09:56:28] https://ms-mesto.tyniste.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 535 obrázků, 0 fotek ke kontrole
+[09:56:39] tříděno 0/8
+[09:56:39] Dávka 1: hotovo 187/156, se fotkami 47; {'ok': 2, 'lide': 0, 'jine': 6, 'sablona': 0}
+[09:56:39] Konec: školek s fotkami 47; {'ok': 2, 'lide': 0, 'jine': 6, 'sablona': 0}

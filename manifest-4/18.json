@@ -953,6 +953,36 @@
 "w": 1024
 }
 ],
+"materska-skola-opava-628635": [
+{
+"alt": "og",
+"barva": "#838b92",
+"dh": "fffff7d75ef7f3fc",
+"h": 750,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBRMxEiJBFEJRkbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAABERMxAv/aAAwDAQACEQMRAD8Au3Wp2odULlywyCoyPugXVxC1vK8ZHWnCtyaPLZQe0yKRx3ZNF9JCFKy7r587hH5Ts6WArT0hyTzyuWJLZ8itVVtOts9jyoPgYrVJyysn/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msebeneseopava.cz/fotogalerie-skoly/ms-po-rekonstrukci-2016",
+"typ": "budova",
+"url": "http://www.msebeneseopava.cz/image.php?oid=8197739",
+"w": 1000
+},
+{
+"alt": "og",
+"barva": "#6b6949",
+"dh": "8f8d899900849392",
+"h": 508,
+"jistota": 0.951,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msebeneseopava.cz/fotogalerie-skoly/hriste",
+"typ": "zahrada",
+"url": "http://www.msebeneseopava.cz/image.php?oid=8541435",
+"w": 1200
+}
+],
 "materska-skola-orlova-lutyne-na-vyhlidce-1143-701821": [
 {
 "alt": "",
