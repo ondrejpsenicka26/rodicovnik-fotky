@@ -1181,6 +1181,49 @@
 "w": 1200
 }
 ],
+"materska-skola-little-elephant-079968": [
+{
+"alt": "Herna s hračkami",
+"barva": "#928a76",
+"dh": "d2c2e6e038126a4a",
+"h": 882,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EACMQAAIBBAEDBQAAAAAAAAAAAAECAwAREiEEBRNhIjFBUXH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8A4c7BCzqMkDWWx0ab0/n9PgQmPBZmGwPcn6vWMrwxnhoHMkoS7jQ8nYpRifjytGY+47R3uuIAPzYndv2sq1wpnpkE6yRBmIU3IIyBtuqhRgqgzGRO/Va48aFVJX//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkaelephant.cz/o-nas/",
+"typ": "interier",
+"url": "https://skolkaelephant.cz/img/herna.jpg",
+"w": 1200
+},
+{
+"alt": "Naše barevná zahrada s prolézačkami",
+"barva": "#797c5c",
+"dh": "a8cc5198a972386e",
+"h": 882,
+"jistota": 0.972,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkaelephant.cz/",
+"typ": "zahrada",
+"url": "https://skolkaelephant.cz/img/zahrada.jpg",
+"w": 1200
+},
+{
+"alt": "Klidná ložnice pro odpočinek",
+"barva": "#958c82",
+"dh": "1f67e4c6c640fccf",
+"h": 1200,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolkaelephant.cz/o-nas/",
+"typ": "interier",
+"url": "https://skolkaelephant.cz/img/loznice.jpg",
+"w": 870
+}
+],
 "materska-skola-markusova-500973": [
 {
 "alt": "og",
