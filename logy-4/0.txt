@@ -1,5 +1,2 @@
-[12:43:14] Část 1/20: webů 167, hotovo 220, zbývá 1
-[12:44:05] https://msprestice.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 58 obrázků, 4 fotek ke kontrole
-[12:44:16] tříděno 0/4
-[12:44:17] Dávka 1: hotovo 221/167, se fotkami 79; {'ok': 2, 'lide': 0, 'jine': 2, 'sablona': 0}
-[12:44:17] Konec: školek s fotkami 79; {'ok': 2, 'lide': 0, 'jine': 2, 'sablona': 0}
+[12:54:30] Část 1/20: webů 167, hotovo 221, zbývá 0
+[12:54:30] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
