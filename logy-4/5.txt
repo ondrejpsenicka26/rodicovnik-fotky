@@ -1,7 +1,2 @@
-[10:15:28] Část 6/20: webů 149, hotovo 192, zbývá 3
-[10:15:39] https://obecstrazisko.cz/obec/sluzby-v-obci/materska-skola-strazisko-19cs.html: nedostupné nebo zakázané
-[10:15:42] https://zspisarov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
-[10:19:13] https://zsmsbratrusov.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 156 obrázků, 24 fotek ke kontrole
-[10:19:29] tříděno 0/24
-[10:19:30] Dávka 1: hotovo 195/149, se fotkami 67; {'ok': 3, 'lide': 2, 'jine': 19, 'sablona': 0}
-[10:19:30] Konec: školek s fotkami 67; {'ok': 3, 'lide': 2, 'jine': 19, 'sablona': 0}
+[10:41:07] Část 6/20: webů 147, hotovo 195, zbývá 0
+[10:41:07] Konec: školek s fotkami 67; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
