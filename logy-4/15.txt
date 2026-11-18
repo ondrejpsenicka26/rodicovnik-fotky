@@ -1,2 +1,8 @@
-[12:37:24] Část 16/20: webů 171, hotovo 217, zbývá 0
-[12:37:24] Konec: školek s fotkami 69; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:15] Část 16/20: webů 175, hotovo 217, zbývá 4
+[12:43:30] https://ms33.plzen.eu: 9 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 2 fotek ke kontrole
+[12:43:34] https://1-ms-pomezi.webnode.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 7 fotek ke kontrole
+[12:43:52] https://duhovaskola.plzen-edu.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 6 fotek ke kontrole
+[12:47:25] https://zsmsbrandysno.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 1038 obrázků, 40 fotek ke kontrole
+[12:47:44] tříděno 0/55
+[12:47:46] Dávka 1: hotovo 221/175, se fotkami 71; {'ok': 5, 'lide': 3, 'jine': 45, 'sablona': 0}
+[12:47:46] Konec: školek s fotkami 71; {'ok': 5, 'lide': 3, 'jine': 45, 'sablona': 0}

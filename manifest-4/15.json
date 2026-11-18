@@ -1,4 +1,34 @@
 {
+"33-materska-skola-plzen-543281": [
+{
+"alt": "",
+"barva": "#797b7c",
+"dh": "ffffef47c93131c9",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFA//EACMQAAIBAgQHAAAAAAAAAAAAAAECABESAwQFMSEyQXGBkuH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDEhP/2gAMAwEAAhEDEQA/AN8bUMq+2XxR3IjNk0cIwIW8VAJ4yCislEuuruWFYy4QQ0uc+YK2LxosnTyD0hIrkXHn9vkJe9GfNH//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms33.plzen.eu/fotogalerie-ms/",
+"typ": "budova",
+"url": "https://ms33.plzen.eu/img/ms33/MS33-budova.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b6d65",
+"dh": "01033b3845577126",
+"h": 801,
+"jistota": 0.91,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms33.plzen.eu/fotogalerie-ms/",
+"typ": "zahrada",
+"url": "https://ms33.plzen.eu/img/ms33/MS33-hriste.webp",
+"w": 1200
+}
+],
 "ama-school-zs-a-ms-montessori-047870": [
 {
 "alt": "Elementary I classroom",
@@ -594,6 +624,49 @@
 "typ": "hygiena",
 "url": "https://www.dssnilkov.cz/UserFiles/50/Image/1707417904426202263-928882245475167-8804928478865648928-n.jpg",
 "w": 897
+}
+],
+"i-materska-skola-pomezi-283-587201": [
+{
+"alt": "",
+"barva": "#7c8173",
+"dh": "87f0f1d3f68e83c3",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABAABAwX/xAAlEAACAgEEAQMFAAAAAAAAAAABAgADEQQSIVETBSMxQWFxodH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBP/EABsRAAIDAAMAAAAAAAAAAAAAAAABAhESITFB/9oADAMBAAIRAxEAPwB12gashlKgno5/UMrMSVxyOviYu9Sra0F3BXcTnHxnMNotejNc9g9pSdrAdRVh16MFbH6yhE19d48i1HB++ZSWXkDp7LvLss2hCACAMZ57nUtorvrAVF5H4gbQFv4GIzTsxGSTwP7HpGOUuTRVpWoUrUE2k55yZRTHBlBaiNW67P/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://1-ms-pomezi.webnode.cz/",
+"typ": "interier",
+"url": "https://d3a57b7970.cbaul-cdnwnd.com/730d41bd78ffc25f3b7b3ab85604df57/200003958-08d1708d18/IMG_2473.jpeg?ph=d3a57b7970",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#868c79",
+"dh": "00206ae6e998de43",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://1-ms-pomezi.webnode.cz/",
+"typ": "interier",
+"url": "https://d3a57b7970.cbaul-cdnwnd.com/730d41bd78ffc25f3b7b3ab85604df57/200003966-52dd352dd5/IMG_2474-7.jpeg?ph=d3a57b7970",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#70645d",
+"dh": "373e3691fd6e3f3f",
+"h": 720,
+"jistota": 0.872,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://1-ms-pomezi.webnode.cz/",
+"typ": "hygiena",
+"url": "https://d3a57b7970.cbaul-cdnwnd.com/730d41bd78ffc25f3b7b3ab85604df57/200000752-e408be408e/241641424_2711663395801521_6004838798739397964_n.jpg?ph=d3a57b7970",
+"w": 960
 }
 ],
 "materska-skola-akimova-skolicka-006693": [
