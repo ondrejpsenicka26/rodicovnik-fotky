@@ -634,6 +634,62 @@
 "w": 1200
 }
 ],
+"materska-skola-litvinovska-490-503671": [
+{
+"alt": "",
+"barva": "#767b67",
+"dh": "13233212722064b6",
+"h": 750,
+"jistota": 0.656,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIAAwQRBTFBEiFSkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAhEBMf/aAAwDAQACEQMRAD8AHh4osRXVHXfRXyYrAWusME37DR35IJjEF1HGtjVGtm7DEaImO1uTiVLY4HqDFWU60fqCrYUvDUbFruIZlBPUoPG5VjSpZHBPx0R+yjQyf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mslitvinovska.cz/fotogalerie-ms/",
+"typ": "budova",
+"url": "https://www.mslitvinovska.cz/wp-content/uploads/2026/08/DSC01561-1.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#7c6c5e",
+"dh": "ceccccd1f1382e5e",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mslitvinovska.cz/trida-kotatek/",
+"typ": "interier",
+"url": "https://www.mslitvinovska.cz/wp-content/uploads/2025/08/IMG_2871-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8a8079",
+"dh": "65f4dce4feb69d9e",
+"h": 1200,
+"jistota": 0.992,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mslitvinovska.cz/fotogalerie-ms/",
+"typ": "zahrada",
+"url": "https://www.mslitvinovska.cz/wp-content/uploads/2026/08/IMG_20220413_162536-1.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#877769",
+"dh": "27064561ab84340c",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mslitvinovska.cz/trida-kotatek/",
+"typ": "interier",
+"url": "https://www.mslitvinovska.cz/wp-content/uploads/2025/08/IMG_2866-scaled.jpeg",
+"w": 1200
+}
+],
 "materska-skola-morasice-587520": [
 {
 "alt": "",
@@ -649,6 +705,23 @@
 "typ": "les",
 "url": "http://www.msmorasice.cz/soubory-minigalerie/fotky/20250820-080537.jpg",
 "w": 800
+}
+],
+"materska-skola-nestemice-568837": [
+{
+"alt": "",
+"barva": "#b1c0c9",
+"dh": "f4fcbabcdcc8dcf0",
+"h": 763,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAjEAABBAEDBAMAAAAAAAAAAAABAAIDEQQFEiEiMUFScXLR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECE//aAAwDAQACEQMRAD8A6qeJkryHPIo+1KNmh8coEUrg083d8/Cez4Zjkl7XGvABCVLJHuPST9q/U1tpQnzVpS0uR5xBvonce5QtdPiLcYbhRJJoIQKH/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnestemice.cz/",
+"typ": "budova",
+"url": "https://46602d307f.clvaw-cdnwnd.com/fa907cac5bb41324febf0f91c32f33d6/200000410-5be2e5cd31/web%201.jpg?ph=46602d307f",
+"w": 1024
 }
 ],
 "materska-skola-palanek-614057": [
@@ -979,6 +1052,62 @@
 "typ": "interier",
 "url": "https://www.msletenska.cz/wp-content/gallery/interiery/1-1.jpg",
 "w": 900
+}
+],
+"ms-pistalka-385181": [
+{
+"alt": "",
+"barva": "#86726e",
+"dh": "6d5b5b1a5c1a3b07",
+"h": 685,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCBf/EACIQAAIBAwQCAwAAAAAAAAAAAAECAwAEEQUSEyEiMTJRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIDBBH/2gAMAwEAAhEDEQA/AKtN1m6v7eHnmTyOCDhS3WegKg1a5Jv5BcS7kAAVWJOOq1acUQTigjUp8WIJI/aXNtHO7ySgO5HeQKKhscXKOc4V23ADB9YGKUZAh2phV+gKVF436a56M0kmf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-pistalka.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://ms-pistalka.cz/wp-content/uploads/2022/12/9c.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#87786d",
+"dh": "210185a52f0b0b0f",
+"h": 685,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-pistalka.cz/o-nas/kapacita-a-vybaveni/",
+"typ": "interier",
+"url": "https://ms-pistalka.cz/wp-content/uploads/2022/12/1h.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7e795d",
+"dh": "0f2b36b287999967",
+"h": 487,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms-pistalka.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://ms-pistalka.cz/wp-content/uploads/2022/12/12.jpg",
+"w": 727
+},
+{
+"alt": "",
+"barva": "#898d8f",
+"dh": "3f2f0f0f3333a30a",
+"h": 685,
+"jistota": 0.997,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://ms-pistalka.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://ms-pistalka.cz/wp-content/uploads/2022/12/1b.jpg",
+"w": 1024
 }
 ],
 "ms-uhy-101840": [
