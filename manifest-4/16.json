@@ -55,6 +55,23 @@
 "w": 920
 }
 ],
+"detska-skupina-agata-ds01265": [
+{
+"alt": "og",
+"barva": "#67685d",
+"dh": "4d8b0bc63766070f",
+"h": 525,
+"jistota": 0.976,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAEBv/EACMQAAICAgEDBQEAAAAAAAAAAAECAxEABDESIUETFCIyUaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIREhNB/9oADAMBAAIRAxEAPwAGOEg1RBFkBe5sVV/3Ooj1YptRdn5iMqTY+1+K/MF0NCSSFZHIhjcWhTuTiHtY4NJoo26S5sOwuzxg24ponHrB5dSXYkMjt6d8KAOPHnLMrOYZHQOx6WokHnLFZln/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsagata.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://0100224a34.clvaw-cdnwnd.com/f61df0ee374e84ed18c60d081260da12/200000633-8938e8938f/700/S%C3%ADdlo.png?ph=0100224a34",
+"w": 700
+}
+],
 "detska-skupina-aktivacek-otrokovice-ds02321": [
 {
 "alt": "og",
@@ -2024,6 +2041,36 @@
 "stranka": "https://www.schaferschool.cz/pronajem-prostor/",
 "typ": "interier",
 "url": "https://www.schaferschool.cz/wp-content/uploads/2026/07/img-3079.jpeg",
+"w": 1200
+}
+],
+"spravna-skolka-detska-skupina-1-ds10334": [
+{
+"alt": "",
+"barva": "#9b918c",
+"dh": "0b07c7c3cf8f0707",
+"h": 801,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA5T3B0aW1pemVkIGJ5IEpQRUdtaW5pIDMuMTguMjUuMjQyOTU2NDYwLVlFViAweDJjNWRmMjgyAP/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIAA0AFAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAABAIFBv/EACAQAAIBBAIDAQAAAAAAAAAAAAECAwAEESESQQUiYST/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AJy300Usaw8JFc49iRinDcXrQL+aFCSBzLt38pXxkUbcJpUEshUbbrVXM6JcQcXXWjrv5RhVl5vJTrM6uz5U49DgUU89hEJGIA2c7GaKXUTK/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.spravnaskolka.com/fotogalerie/",
+"typ": "interier",
+"url": "https://7f9f4f98e0.clvaw-cdnwnd.com/9c85489798f6c2c5f68d2bdff8eefcde/200000248-4cd144cd16/SS%C3%8C--2_websize-1.jpeg?ph=7f9f4f98e0",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9d9186",
+"dh": "7cf1b0a4e6fe6e8f",
+"h": 801,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.spravnaskolka.com/fotogalerie/",
+"typ": "interier",
+"url": "https://7f9f4f98e0.clvaw-cdnwnd.com/9c85489798f6c2c5f68d2bdff8eefcde/200000257-6205c6205e/SS%C3%8C--8_websize-4.jpeg?ph=7f9f4f98e0",
 "w": 1200
 }
 ],
