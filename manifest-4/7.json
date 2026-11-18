@@ -1537,6 +1537,62 @@
 "w": 1024
 }
 ],
+"materska-skola-stary-smolivec-544393": [
+{
+"alt": "",
+"barva": "#697b88",
+"dh": "d16db7b7a72fdb37",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIRAAMSBCEiUQUxMkFC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAZEQEAAwEBAAAAAAAAAAAAAAACAAEhEVH/2gAMAwEAAhEDEQA/AHripbuFbnGFyJPVLpcyXLELDBSWHueqkjVuFxDMREfLcDqay+tZzj+SZgbGYj3StuzyshACr3Z01/krqapltlUVdgCs0VPvFWuksbk/fKiitL2Xw+T/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mladysmolivec.cz/obec/materska-skola/fotogalerie/rok-2008/den-otevrenych-dveri-v-ms-stary-smolivec-1591cs.html",
+"typ": "budova",
+"url": "https://www.mladysmolivec.cz/data/headerfooter/header_images/20250502062807.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#878c80",
+"dh": "3030131d1c26030a",
+"h": 675,
+"jistota": 0.966,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mladysmolivec.cz/obec/materska-skola/fotogalerie/rok-2008/den-otevrenych-dveri-v-ms-stary-smolivec-1591cs.html",
+"typ": "zahrada",
+"url": "https://www.mladysmolivec.cz/data/headerfooter/header_images/img7274.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#838f8a",
+"dh": "1e162fe6e61cb515",
+"h": 900,
+"jistota": 0.974,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mladysmolivec.cz/obec/materska-skola/fotogalerie/rok-2008/den-otevrenych-dveri-v-ms-stary-smolivec-1591cs.html",
+"typ": "les",
+"url": "https://www.mladysmolivec.cz/data/headerfooter/header_images/20250711073132.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f7772",
+"dh": "8420a383839383e1",
+"h": 903,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mladysmolivec.cz/obec/materska-skola/fotogalerie/rok-2008/den-otevrenych-dveri-v-ms-stary-smolivec-1591cs.html",
+"typ": "budova",
+"url": "https://www.mladysmolivec.cz/data/headerfooter/header_images/img-20250501-wa0072.jpg",
+"w": 1200
+}
+],
 "materska-skola-svetla-hora-501759": [
 {
 "alt": "",
