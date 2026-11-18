@@ -1,14 +1,7 @@
-[00:41:47] Část 5/20: webů 118, hotovo 127, zbývá 10
-[00:41:51] https://spunticids.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[00:42:06] https://montessorimyslenka.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 9 fotek ke kontrole
-[00:42:08] https://g-playschool3.webnode.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 11 fotek ke kontrole
-[00:42:46] https://zstroskotovice.cz/detska-skupina: 16 stránek (galerie mimo web: 1 ['troskotovice.rajce.idnes.cz'], alb: 0), 168 obrázků, 18 fotek ke kontrole
-[00:43:00] https://dsnitka.cz/detska-skupina-nitka-zbraslav: 6 stránek (galerie mimo web: 0 [], alb: 0), 73 obrázků, 31 fotek ke kontrole
-[00:43:16] https://nudz.cz/o-nas/detska-skupina-neuronek: 26 stránek (galerie mimo web: 0 [], alb: 0), 49 obrázků, 13 fotek ke kontrole
-[00:43:24] https://mnisek.edupage.org: nedostupné nebo zakázané
-[00:43:26] http://www.zsbelotin.cz: nedostupné nebo zakázané
-[00:44:08] https://veselypanacek.cz: nedostupné nebo zakázané
-[00:44:33] http://ctyrlistekms.eu: 34 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[00:44:51] tříděno 0/84
-[00:45:02] Dávka 1: hotovo 137/118, se fotkami 34; {'ok': 13, 'lide': 6, 'jine': 28, 'sablona': 0}
-[00:45:02] Konec: školek s fotkami 34; {'ok': 13, 'lide': 6, 'jine': 28, 'sablona': 0}
+[02:14:04] Část 5/20: webů 116, hotovo 137, zbývá 3
+[02:14:40] https://soschomutov.cz/sluzby/detske-skupiny/detska-skupina-vilik: 6 stránek (galerie mimo web: 54 ['www.zonerama.com'], alb: 1), 28 obrázků, 15 fotek ke kontrole
+[02:14:59] https://pribor.eu/organizace-a-skolstvi/detske-skupiny/elanek-pribor: 34 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 29 obrázků, 8 fotek ke kontrole
+[02:16:28] https://skolkasvetluska.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 8 fotek ke kontrole
+[02:16:44] tříděno 0/31
+[02:16:45] Dávka 1: hotovo 140/116, se fotkami 36; {'ok': 5, 'lide': 1, 'jine': 21, 'sablona': 0}
+[02:16:45] Konec: školek s fotkami 36; {'ok': 5, 'lide': 1, 'jine': 21, 'sablona': 0}

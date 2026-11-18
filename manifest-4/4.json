@@ -33,6 +33,23 @@
 "w": 1200
 }
 ],
+"detska-skupina-elanek-pribor-ds01915": [
+{
+"alt": "",
+"barva": "#777b53",
+"dh": "9fcde2f2c283250d",
+"h": 768,
+"jistota": 0.872,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAFAgMEBv/EACMQAAICAgEEAgMAAAAAAAAAAAECAwQAEQUSEyExItFBYcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAaEQADAQADAAAAAAAAAAAAAAAAAhEBAxIx/9oADAMBAAIRAxEAPwDTyvI2Yrncq2lETKD25F6h9jI1uQmvo3VIkbAeol35/Wc+jsza22/wN4yMlipEmmUMylfAHr7wG5mkIs9hcaQuEymGwDvXxRf6cMVT8jZgcIksiKANDr3hh5mm+yn/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.pribor.eu/dalsi-temata/vysadba-a-kaceni/piaristicke-zahrady-podzim-2026/",
+"typ": "zahrada",
+"url": "https://www.pribor.eu/data/editor/1770cs_1_big.jpg?gcm_date=1785768144",
+"w": 1024
+}
+],
 "detska-skupina-foxik-cimice-ds01233": [
 {
 "alt": "",
@@ -305,6 +322,62 @@
 "stranka": "https://www.zstroskotovice.cz/jidelna/nasi-dodavatele/",
 "typ": "interier",
 "url": "https://www.zstroskotovice.cz/data/headerfooter/header_images/img9026.jpg",
+"w": 1200
+}
+],
+"detska-skupina-vilik-ds00798": [
+{
+"alt": "",
+"barva": "#86938d",
+"dh": "b7efffbfbf3e777f",
+"h": 710,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADAAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAUABP/EACIQAAICAgAGAwAAAAAAAAAAAAECAAMEEQUiMUFhgRITsf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARAjH/2gAMAwEAAhEDEQA/AHbOINltbXU5QBAN6799QXMz78NfqrCqp6sOreYm9YOHTrl0gA+PL+QvJpVwQxYjyY5FNpfYezJsdyx3s+5TQ1Cg6DOPcoxl/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.soschomutov.cz/sluzby/sos-doprava/",
+"typ": "budova",
+"url": "https://www.soschomutov.cz/data/headerfooter/header_images/nove-merkur-ceduel.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b1886b",
+"dh": "40908260205c6460",
+"h": 800,
+"jistota": 0.997,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.soschomutov.cz/sluzby/sos-doprava/",
+"typ": "interier",
+"url": "https://www.soschomutov.cz/data/headerfooter/header_images/spolecenska1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7d894f",
+"dh": "0e0e0a19373c2441",
+"h": 800,
+"jistota": 0.993,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.soschomutov.cz/sluzby/sos-doprava/",
+"typ": "zahrada",
+"url": "https://www.soschomutov.cz/data/headerfooter/header_images/zahrada2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7c776d",
+"dh": "c7c3494b434fda52",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.soschomutov.cz/sluzby/sos-doprava/",
+"typ": "budova",
+"url": "https://www.soschomutov.cz/data/headerfooter/header_images/img1379.JPG",
 "w": 1200
 }
 ],
