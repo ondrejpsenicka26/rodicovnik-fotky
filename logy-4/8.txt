@@ -1,12 +1,2 @@
-[11:04:38] Část 9/20: webů 158, hotovo 206, zbývá 8
-[11:04:47] https://skolka.malezernoseky.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
-[11:04:57] https://msumyslovice.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 3 fotek ke kontrole
-[11:05:04] https://www.ms-bilina.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 0 fotek ke kontrole
-[11:05:04] https://mshorniberkovice.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 2 fotek ke kontrole
-[11:05:32] https://www.zsamspravcice.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 40 obrázků, 0 fotek ke kontrole
-[11:05:58] https://mspozden.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 1212 obrázků, 24 fotek ke kontrole
-[11:06:15] https://www.zsmsvir.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 239 obrázků, 24 fotek ke kontrole
-[11:06:23] https://ms.biskupice.cz: 28 stránek (galerie mimo web: 4 ['eu.zonerama.com', 'www.zonerama.com'], alb: 0), 64 obrázků, 26 fotek ke kontrole
-[11:06:33] tříděno 0/80
-[11:06:39] Dávka 1: hotovo 214/158, se fotkami 76; {'ok': 7, 'lide': 4, 'jine': 61, 'sablona': 0}
-[11:06:39] Konec: školek s fotkami 76; {'ok': 7, 'lide': 4, 'jine': 61, 'sablona': 0}
+[11:38:36] Část 9/20: webů 156, hotovo 214, zbývá 0
+[11:38:36] Konec: školek s fotkami 76; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
