@@ -1,5 +1,2 @@
-[10:15:28] Část 18/20: webů 150, hotovo 191, zbývá 1
-[10:16:16] https://msklenovicenahane.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 49 obrázků, 26 fotek ke kontrole
-[10:16:34] tříděno 0/26
-[10:16:35] Dávka 1: hotovo 192/150, se fotkami 57; {'ok': 4, 'lide': 3, 'jine': 6, 'sablona': 0}
-[10:16:35] Konec: školek s fotkami 57; {'ok': 4, 'lide': 3, 'jine': 6, 'sablona': 0}
+[10:40:16] Část 18/20: webů 149, hotovo 192, zbývá 0
+[10:40:16] Konec: školek s fotkami 57; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
