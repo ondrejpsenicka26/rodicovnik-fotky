@@ -1,6 +1,2 @@
-[11:45:30] Část 12/20: webů 182, hotovo 219, zbývá 2
-[11:45:45] https://dsminisvet.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
-[11:45:46] https://www.miniskolkatygrici.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 9 fotek ke kontrole
-[11:45:59] tříděno 0/10
-[11:45:59] Dávka 1: hotovo 221/182, se fotkami 59; {'ok': 1, 'lide': 0, 'jine': 9, 'sablona': 0}
-[11:45:59] Konec: školek s fotkami 59; {'ok': 1, 'lide': 0, 'jine': 9, 'sablona': 0}
+[12:06:17] Část 12/20: webů 182, hotovo 221, zbývá 0
+[12:06:17] Konec: školek s fotkami 59; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
