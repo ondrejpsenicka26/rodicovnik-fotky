@@ -1,5 +1,2 @@
-[12:43:15] Část 7/20: webů 171, hotovo 220, zbývá 1
-[12:44:18] https://msmanetin.cz: 19 stránek (galerie mimo web: 1 ['msmanetin.rajce.idnes.cz'], alb: 0), 13 obrázků, 8 fotek ke kontrole
-[12:44:32] tříděno 0/8
-[12:44:34] Dávka 1: hotovo 221/171, se fotkami 72; {'ok': 4, 'lide': 0, 'jine': 1, 'sablona': 0}
-[12:44:34] Konec: školek s fotkami 72; {'ok': 4, 'lide': 0, 'jine': 1, 'sablona': 0}
+[12:54:25] Část 7/20: webů 171, hotovo 221, zbývá 0
+[12:54:25] Konec: školek s fotkami 72; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
