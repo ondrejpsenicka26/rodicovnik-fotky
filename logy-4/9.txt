@@ -1,2 +1,12 @@
-[09:44:25] Část 10/20: webů 157, hotovo 188, zbývá 0
-[09:44:25] Konec: školek s fotkami 47; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:54:06] Část 10/20: webů 165, hotovo 188, zbývá 8
+[09:54:22] https://skolkabartosovice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 1 fotek ke kontrole
+[09:55:06] https://mshnojice.cz: 13 stránek (galerie mimo web: 1 ['mshnojice.rajce.idnes.cz'], alb: 0), 24 obrázků, 22 fotek ke kontrole
+[09:55:08] https://skolaskrben.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 0 fotek ke kontrole
+[09:55:11] https://zshornikalna.webnode.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 46 obrázků, 0 fotek ke kontrole
+[09:55:13] https://zsrychnov.cz: 26 stránek (galerie mimo web: 295 ['exkurzevp.rajce.idnes.cz', 'photos.app.goo.gl', 'photos.google.com'], alb: 9), 1 obrázků, 0 fotek ke kontrole
+[09:55:27] https://msmalamoravka.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 836 obrázků, 12 fotek ke kontrole
+[09:55:38] https://skola.bystrovany.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 541 obrázků, 9 fotek ke kontrole
+[09:56:10] https://zsmoravka.cz: 30 stránek (galerie mimo web: 2 ['ms-moravka-broucci.rajce.idnes.cz', 'ms-moravka-skritci.rajce.idnes.cz'], alb: 0), 359 obrázků, 6 fotek ke kontrole
+[09:56:26] tříděno 0/50
+[09:56:29] Dávka 1: hotovo 196/165, se fotkami 50; {'ok': 4, 'lide': 0, 'jine': 46, 'sablona': 0}
+[09:56:29] Konec: školek s fotkami 50; {'ok': 4, 'lide': 0, 'jine': 46, 'sablona': 0}

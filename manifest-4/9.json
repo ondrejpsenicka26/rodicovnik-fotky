@@ -889,6 +889,36 @@
 "w": 1024
 }
 ],
+"materska-skola-mala-moravka-620570": [
+{
+"alt": "og",
+"barva": "#a69e91",
+"dh": "c04163703074173f",
+"h": 801,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EACQQAAICAgECBwEAAAAAAAAAAAECAxEABCEFMSIjMkFRUnGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERMEEv/aAAwDAQACEQMRAD8AW+5C8UbK7NJfK/F/ys3rdX1apzRAHq4xK6ol1lSd3lA+xq/bDydM1KPkryczHnSdot41TOiuwZASgFdu2WBE0sPhR6H4MsTywtEf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msmalamoravka.cz/fotogalerie/beseda-povesti-jeseniku-navsteva-muzea-2025",
+"typ": "interier",
+"url": "http://www.msmalamoravka.cz/image.php?oid=12354676",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#a3a789",
+"dh": "3229fcd8988c0101",
+"h": 801,
+"jistota": 0.812,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msmalamoravka.cz/fotogalerie/vitani-obcanku-cerven-2025",
+"typ": "interier",
+"url": "http://www.msmalamoravka.cz/image.php?oid=12401967",
+"w": 1200
+}
+],
 "materska-skola-nadrazni-607867": [
 {
 "alt": "",
@@ -1529,6 +1559,23 @@
 "w": 1200
 }
 ],
+"zakladni-skola-a-materska-skola-bystrovany-626888": [
+{
+"alt": " buda mateřské školy",
+"barva": "#6a736f",
+"dh": "4b1b1d04573bb668",
+"h": 600,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAJRAAAgEEAQIHAQAAAAAAAAAAAQIDAAQRIRIFsRMWMUFRYXGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREBAQEAAwAAAAAAAAAAAAAAAQARAhIh/9oADAMBAAIRAxEAPwAVhbx84zdIrrw5gNIV5bx8fRps8UZczJBGATvhJrt+UBOuy2kaqqq6AYXki5UH2zj0rPme4ByI0P8AO1RyTyzhav7SLxUMZjKlM5c7OzVQbjqj3cplkiRmOt1Ud2ML/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skola.bystrovany.cz/materska-skola",
+"typ": "budova",
+"url": "https://skola.bystrovany.cz/file.php?nid=12282&oid=7595514",
+"w": 800
+}
+],
 "zakladni-skola-a-materska-skola-hladke-zivotice-624915": [
 {
 "alt": "Základní škola Hladké Životice",
@@ -1706,6 +1753,23 @@
 "stranka": "https://www.skolalb.cz/l/zaci-tridy-1-a-a-1-b-zahajeni-2026/",
 "typ": "interier",
 "url": "https://425080a9ec.clvaw-cdnwnd.com/bbfe23cde48240f174e90371c596cea8/200001510-c7fcfc7fd1/IMG_0057.jpeg?ph=425080a9ec",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-moravka-622009": [
+{
+"alt": "og",
+"barva": "#556e77",
+"dh": "00b2d6406460c187",
+"h": 900,
+"jistota": 0.808,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEERIFISIxgUFRYf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABwRAAIBBQEAAAAAAAAAAAAAAAABAhESExQhUf/aAAwDAQACEQMRAD8Ale/hR48o2kgyG+qbFeDViGQnPaAD0H7mkS8RdyxLEMKoHnbzWk4x7ePd549AclSpOfYp7Ta7Ixxx8LVuZCvRj6oqKaZbeQxozMF+RRVVitR//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsmoravka.cz/fotogalerie-zs/tridni-den",
+"typ": "budova",
+"url": "http://www.zsmoravka.cz/image.php?oid=10449785",
 "w": 1200
 }
 ],
