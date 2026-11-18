@@ -884,6 +884,62 @@
 "w": 1200
 }
 ],
+"materska-skola-chodsky-ujezd-546299": [
+{
+"alt": "",
+"barva": "#68818d",
+"dh": "e0f8e4de9e064691",
+"h": 759,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAhEAACAgIBBAMAAAAAAAAAAAABAgMRAAQSBRMhYRQxcf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABsRAAIDAAMAAAAAAAAAAAAAAAABAgMEEROR/9oADAMBAAIRAxEAPwDA1fkTRwxDkXWwb8AeznV+jPCTzZSVolVBo37r7yDHstGyheQ8A2GIynpdWmnPYmAYN4LWbyvZZ4AowG11dfiD346/cMS3dmTTn7aCNgRdlBeGKtdjXJvpR//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mschodskyujezd.cz",
+"typ": "budova",
+"url": "https://static.wixstatic.com/media/654c64_68b7faaaf42148b09ea241c1c2669a40~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#d9cabb",
+"dh": "0341118d2d331205",
+"h": 747,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mschodskyujezd.cz",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/654c64_6f7b1182ee3047e4a2a2b778e670f821~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6c8c51",
+"dh": "a3d3a1a54635a772",
+"h": 760,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mschodskyujezd.cz",
+"typ": "zahrada",
+"url": "https://static.wixstatic.com/media/654c64_e8257bb88fb546f8afce1c23d18e2a68~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "MS_Chodsky_Ujezd_skolka_dron_05-2024_005.jpg",
+"barva": "#7f8561",
+"dh": "c8d39396d4496952",
+"h": 843,
+"jistota": 0.957,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mschodskyujezd.cz/pro-rodice",
+"typ": "budova",
+"url": "https://static.wixstatic.com/media/654c64_2abfb18370174b3e9b45032aa9641059~mv2.jpg",
+"w": 1200
+}
+],
 "materska-skola-dobromilice-609983": [
 {
 "alt": "",
@@ -1615,6 +1671,62 @@
 "stranka": "https://www.ms-safov.cz/fotogalerie",
 "typ": "budova",
 "url": "https://www.ms-safov.cz/pictures/galleries/8/5f8dffd1eeeda.jpg",
+"w": 1200
+}
+],
+"materska-skola-slavetin-566664": [
+{
+"alt": "",
+"barva": "#8d8b88",
+"dh": "75cfe15bccec0112",
+"h": 966,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACYQAAIBBAADCQAAAAAAAAAAAAECAwAEERITMVEhIzJBYXGBscH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AKUl/Kqrw7ddQde8Y5J9vKtx3Ww1eMxPjODy+DUeYi4IMrOdeWHI+qWmsYJ0Cs0oA7fED16j1oVRjMuqX0SXFxscvgAZAP5RS9q4tbdIYyxVOWQM0VLT3WcDm//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-slavetin.cz/",
+"typ": "budova",
+"url": "https://9a2be5bb15.clvaw-cdnwnd.com/30ee93ca0d8a90b283b6b19b5a1d3b99/200000024-6b4b56b4b7/IMG_3590-6.jpeg?ph=9a2be5bb15",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#98806e",
+"dh": "cccc4ccce01a3c86",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-slavetin.cz/",
+"typ": "interier",
+"url": "https://9a2be5bb15.clvaw-cdnwnd.com/30ee93ca0d8a90b283b6b19b5a1d3b99/200000032-5ea105ea13/IMG_3620.jpeg?ph=9a2be5bb15",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c8c71",
+"dh": "6f2b330f37092e1e",
+"h": 900,
+"jistota": 0.994,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-slavetin.cz/",
+"typ": "zahrada",
+"url": "https://9a2be5bb15.clvaw-cdnwnd.com/30ee93ca0d8a90b283b6b19b5a1d3b99/200000026-2f6d92f6db/IMG_3598.jpeg?ph=9a2be5bb15",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9d7f45",
+"dh": "66cc43191939798b",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.ms-slavetin.cz/",
+"typ": "interier",
+"url": "https://9a2be5bb15.clvaw-cdnwnd.com/30ee93ca0d8a90b283b6b19b5a1d3b99/200000034-76b2b76b2d/IMG_3621.jpeg?ph=9a2be5bb15",
 "w": 1200
 }
 ],
