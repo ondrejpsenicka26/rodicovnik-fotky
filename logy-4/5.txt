@@ -1,6 +1,2 @@
-[11:45:29] Část 6/20: webů 161, hotovo 213, zbývá 2
-[11:45:38] https://www.dszvidalek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 2 fotek ke kontrole
-[11:45:39] https://www.skolickasedlec.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 5 fotek ke kontrole
-[11:45:52] tříděno 0/7
-[11:45:52] Dávka 1: hotovo 215/161, se fotkami 77; {'ok': 2, 'lide': 0, 'jine': 5, 'sablona': 0}
-[11:45:52] Konec: školek s fotkami 77; {'ok': 2, 'lide': 0, 'jine': 5, 'sablona': 0}
+[12:06:11] Část 6/20: webů 161, hotovo 215, zbývá 0
+[12:06:11] Konec: školek s fotkami 77; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
