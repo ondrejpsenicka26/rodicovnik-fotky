@@ -1,0 +1,24 @@
+[08:15:35] Část 2/8: webů 20, hotovo 0, zbývá 20
+[08:15:59] https://www.happychild.cz: 7 stránek (galerie mimo web: 1 ['mshappychild.rajce.idnes.cz'], alb: 5), 9 obrázků, 2 fotek ke kontrole
+[08:16:03] https://www.skolapozdechov.cz: 18 stránek (galerie mimo web: 8 ['eu.zonerama.com', 'skolapozdechov.rajce.idnes.cz', 'www.zonerama.com'], alb: 12), 9 obrázků, 5 fotek ke kontrole
+[08:16:06] http://www.mskohoutova.cz: 7 stránek (galerie mimo web: 1 ['mskohoutova.rajce.idnes.cz'], alb: 5), 7 obrázků, 3 fotek ke kontrole
+[08:16:19] https://www.mszitenice.cz: 9 stránek (galerie mimo web: 5 ['photos.app.goo.gl'], alb: 5), 385 obrázků, 40 fotek ke kontrole
+[08:16:21] https://www.skolabezverov.cz: 22 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 1), 21 obrázků, 4 fotek ke kontrole
+[08:16:24] https://www.msbrezova.cz: 10 stránek (galerie mimo web: 1 ['ms-brezovaa.rajce.idnes.cz'], alb: 5), 20 obrázků, 9 fotek ke kontrole
+[08:16:24] https://www.zsklucenice.cz: 6 stránek (galerie mimo web: 1 ['skola1.rajce.idnes.cz'], alb: 5), 0 obrázků, 0 fotek ke kontrole
+[08:16:39] https://www.msblatno.cz: 17 stránek (galerie mimo web: 50 ['alba.rajce.idnes.cz', 'coppiafelice85.rajce.idnes.cz', 'fotograf2026.rajce.idnes.cz'], alb: 33), 28 obrázků, 7 fotek ke kontrole
+[08:16:40] https://www.zsms-cernikovice.cz: 5 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 1), 10 obrázků, 1 fotek ke kontrole
+[08:16:42] https://skoladesenice.cz: 15 stránek (galerie mimo web: 1 ['zsamsdesenice.rajce.idnes.cz'], alb: 5), 625 obrázků, 32 fotek ke kontrole
+[08:16:44] https://detskaskupinakrtecek.cz: 11 stránek (galerie mimo web: 1 ['detskaskupinakrtecek.rajce.idnes.cz'], alb: 5), 76 obrázků, 7 fotek ke kontrole
+[08:16:49] https://www.skolalipno.cz: 19 stránek (galerie mimo web: 1 ['www.skolalipno.rajce.idnes.cz'], alb: 0), 346 obrázků, 6 fotek ke kontrole
+[08:16:52] https://www.zsmssendrazice.cz: 8 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'us.zonerama.com'], alb: 2), 14 obrázků, 9 fotek ke kontrole
+[08:16:53] https://www.zsvelkajesenice.cz: 17 stránek (galerie mimo web: 1 ['velkajesenice.zonerama.com'], alb: 6), 1 obrázků, 0 fotek ke kontrole
+[08:17:00] http://www.zsdrevcice.cz: 15 stránek (galerie mimo web: 2 ['drevcice.rajce.idnes.cz', 'drevcicemsmotylci.rajce.idnes.cz'], alb: 0), 39 obrázků, 19 fotek ke kontrole
+[08:17:09] https://www.msklanovice.cz: 10 stránek (galerie mimo web: 24 ['photos.app.goo.gl', 'photos.google.com'], alb: 20), 637 obrázků, 43 fotek ke kontrole
+[08:17:11] https://www.zsdetmarovice.cz: 17 stránek (galerie mimo web: 27 ['photos.app.goo.gl', 'photos.google.com'], alb: 23), 25 obrázků, 11 fotek ke kontrole
+[08:17:15] https://www.zsamsolovi.cz: 18 stránek (galerie mimo web: 1 ['olovizs.rajce.idnes.cz'], alb: 5), 153 obrázků, 7 fotek ke kontrole
+[08:17:30] https://www.zskosor.eu: 21 stránek (galerie mimo web: 1 ['www.zskosor.rajce.net'], alb: 0), 62 obrázků, 37 fotek ke kontrole
+[08:17:46] https://www.zsvelkapolom.cz: 20 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'msrakosnicekvelkapolom.rajce.idnes.cz'], alb: 6), 47 obrázků, 6 fotek ke kontrole
+[08:18:03] tříděno 0/248
+[08:18:28] Dávka 1: hotovo 20/20, se fotkami 3; {'ok': 5, 'lide': 11, 'jine': 229, 'sablona': 0}
+[08:18:29] Konec: školek s fotkami 3; {'ok': 5, 'lide': 11, 'jine': 229, 'sablona': 0}
