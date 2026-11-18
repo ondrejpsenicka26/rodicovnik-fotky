@@ -1,6 +1,2 @@
-[12:54:27] Část 16/20: webů 177, hotovo 221, zbývá 2
-[12:55:25] https://zskrivoklat.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 592 obrázků, 45 fotek ke kontrole
-[12:55:34] https://skolka-mnisek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 29 fotek ke kontrole
-[12:55:47] tříděno 0/74
-[12:55:52] Dávka 1: hotovo 223/177, se fotkami 72; {'ok': 1, 'lide': 5, 'jine': 68, 'sablona': 0}
-[12:55:52] Konec: školek s fotkami 72; {'ok': 1, 'lide': 5, 'jine': 68, 'sablona': 0}
+[13:31:15] Část 16/20: webů 175, hotovo 223, zbývá 0
+[13:31:15] Konec: školek s fotkami 72; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
