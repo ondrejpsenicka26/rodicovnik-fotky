@@ -175,6 +175,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-hartalek-i-ds11223": [
+{
+"alt": "og",
+"barva": "#85796b",
+"dh": "7991989c9810a069",
+"h": 675,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUG/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQAEBSExEhMiUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAIDAQEAAAAAAAAAAAAAAAABAhETITH/2gAMAwEAAhEDEQA/AIn3Sd9S/qmPp6RaoH64OWbcmXUOyOHjBseQHX5i0sSCByEANE2BWLLYaOifnHZN9nI6N9Q6XlHSLr9GVBdyrEcjxJo4ZkSSOHIDtQ4HOGPWaDnA/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.hartvikovice.cz/fotogalerie/oprava-strechy-budovy-zs",
+"typ": "budova",
+"url": "http://www.hartvikovice.cz/image.php?oid=7702601",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#897a71",
+"dh": "3ff8e20a8283253d",
+"h": 675,
+"jistota": 0.978,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.hartvikovice.cz/fotogalerie/oprava-strechy-budovy-kd",
+"typ": "budova",
+"url": "http://www.hartvikovice.cz/image.php?oid=7702611",
+"w": 1200
+}
+],
 "detska-skupina-mimiskolka-kuzlatka-ds02006": [
 {
 "alt": "",
@@ -229,6 +259,135 @@
 "typ": "interier",
 "url": "https://mskuzlatka.cz/wp-content/uploads/2025/10/Mimiskolka_Strelice_u_Brna-02.jpg",
 "w": 1200
+}
+],
+"detska-skupina-miniskolicka-zabicka-ds00598": [
+{
+"alt": "",
+"barva": "#7793a2",
+"dh": "0c60ca6868c8c834",
+"h": 1200,
+"jistota": 0.93,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQFAQP/xAAkEAACAgIBAgcBAAAAAAAAAAABAgMRAAQhBTESEyIyQVFxk//EABcBAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIREiEx/9oADAMBAAIRAxEAPwC9tx098iDkj2E4HUPgzp/Ns8t6Y62tJKvHhdbPgDEC+aB4vJX3dg7upGFj8uWFWdvKAJu/muOwyqVHMkBs+7NWPZZwfUDRqwmMRL6T+4w1qOZMGyfZi9UefaZI4QRGWtiwsD6vErSx7moXmjKpEquAnJbnsa/MoLHjOjkHOOtdleQMlkW2irTK13jIx2xhtrsFQn//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://miniskolickazabicka.cz/",
+"typ": "budova",
+"url": "https://miniskolickazabicka.cz/images/fotogalerie/fotky/IMG_4675.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#8d785d",
+"dh": "f0e0eae2e48fb3fc",
+"h": 900,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://miniskolickazabicka.cz/",
+"typ": "interier",
+"url": "https://miniskolickazabicka.cz/images/fotogalerie/fotky/IMG_4667.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#668165",
+"dh": "3f764666e6272d59",
+"h": 900,
+"jistota": 0.999,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://miniskolickazabicka.cz/",
+"typ": "zahrada",
+"url": "https://miniskolickazabicka.cz/images/fotogalerie/fotky/IMG_4673.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#848454",
+"dh": "ce5c58d48c1e6766",
+"h": 900,
+"jistota": 0.995,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://miniskolickazabicka.cz/",
+"typ": "interier",
+"url": "https://miniskolickazabicka.cz/images/fotogalerie/fotky/IMG_4669.jpg",
+"w": 1200
+}
+],
+"detska-skupina-pastelka-ii-ds01995": [
+{
+"alt": "",
+"barva": "#8e887a",
+"dh": "0383b3330959df8f",
+"h": 900,
+"jistota": 0.969,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACMQAAICAgECBwAAAAAAAAAAAAECAxEABBITIQUxMmGBkdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/AKI31mLFdiFlsHiHGP1J+cjCSPpnsO1G++ZDa+gdpU14X6cZp2Lmy3z742VzFIGiZuKmwHo1gjmiqKZpyszAQu1HzBwyF/FJw3pj+j+4YIyH/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.pastelkapardubice.cz/kopie-z-detska-skupina-pastelka2/",
+"typ": "interier",
+"url": "https://bf7bbb4e83.clvaw-cdnwnd.com/48603c397ad95adbda655dfb2f94f2ec/200000173-cf50ecf510/IMG_6151.jpeg?ph=bf7bbb4e83",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#898a66",
+"dh": "a4a4a4ecece4f0e8",
+"h": 675,
+"jistota": 0.963,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.pastelkapardubice.cz/kopie-z-detska-skupina-pastelka2/",
+"typ": "interier",
+"url": "https://bf7bbb4e83.clvaw-cdnwnd.com/48603c397ad95adbda655dfb2f94f2ec/200000185-1682e16832/42316BCA-AD4A-4547-9D01-9ECBA641B201.jpeg?ph=bf7bbb4e83",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#979387",
+"dh": "1c1c9c9c7b9d1c1e",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.pastelkapardubice.cz/kopie-z-detska-skupina-pastelka2/",
+"typ": "hygiena",
+"url": "https://bf7bbb4e83.clvaw-cdnwnd.com/48603c397ad95adbda655dfb2f94f2ec/200000203-aefe8aefea/PHOTO-2025-03-29-15-45-58-3.jpeg?ph=bf7bbb4e83",
+"w": 1200
+}
+],
+"detska-skupina-portusacek-ds00218": [
+{
+"alt": "",
+"barva": "#7d6a66",
+"dh": "676b4b6361480c2e",
+"h": 800,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYDBAX/xAAiEAACAQQBBQEBAAAAAAAAAAABAgMABBESIQUTIjFBYXH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwCpPemSz7YY6MACoPJ/AK1rKcTQRFXGpXGGIByKWenxmeFXlkkJxxqcfam6mw7avGiRlAu2o4f7yP7R7aAPJhZ22IJzg48VJopes72ZYPIhiST69UVdgmN//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://portusprachatice.cz/socialni-sluzby/klub-i-p/",
+"typ": "interier",
+"url": "https://portusprachatice.cz/wp-content/uploads/2024/04/IMG_3828.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8b8585",
+"dh": "0e4e2cd8d9486c66",
+"h": 1200,
+"jistota": 0.814,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://portusprachatice.cz/socialni-sluzby/klub-i-p/",
+"typ": "interier",
+"url": "https://portusprachatice.cz/wp-content/uploads/2024/04/IMG_3800.jpg",
+"w": 800
 }
 ],
 "detska-skupina-slunicka-chlumec-ds00125": [

@@ -1,9 +1,11 @@
-[02:14:04] Část 4/20: webů 148, hotovo 167, zbývá 5
-[02:14:09] https://planetkauffo.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
-[02:14:15] https://ds-lucnimlyn.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[02:14:18] https://littlefamily.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 10 fotek ke kontrole
-[02:14:19] https://dseccehomo.cz/dracek: 1 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 6 fotek ke kontrole
-[02:14:23] https://dsslunicka.cz/chlumec/detska-skupina-slunicka-chlumec: 4 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 23 fotek ke kontrole
-[02:14:35] tříděno 0/39
-[02:14:37] Dávka 1: hotovo 172/148, se fotkami 43; {'ok': 5, 'lide': 2, 'jine': 27, 'sablona': 0}
-[02:14:37] Konec: školek s fotkami 43; {'ok': 5, 'lide': 2, 'jine': 27, 'sablona': 0}
+[04:00:01] Část 4/20: webů 155, hotovo 172, zbývá 7
+[04:00:18] https://pastelkapardubice.cz/kopie-z-detska-skupina-pastelka2: 2 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 19 fotek ke kontrole
+[04:00:19] https://kaminekrychnov.webnode.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 13 fotek ke kontrole
+[04:00:20] https://miniskolickazabicka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 22 obrázků, 11 fotek ke kontrole
+[04:00:45] https://hartvikovice.cz/detska-skupina-hartalek: 9 stránek (galerie mimo web: 0 [], alb: 0), 91 obrázků, 6 fotek ke kontrole
+[04:01:02] https://ulita.org: 26 stránek (galerie mimo web: 0 [], alb: 0), 2300 obrázků, 43 fotek ke kontrole
+[04:01:11] https://skolavolynka.cz/strakonice/skupina: 2 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 5 fotek ke kontrole
+[04:01:20] https://portusprachatice.cz/prorodinne-aktivity/detske-skupiny/portusacek-2: 5 stránek (galerie mimo web: 0 [], alb: 0), 71 obrázků, 31 fotek ke kontrole
+[04:01:34] tříděno 0/128
+[04:01:45] Dávka 1: hotovo 179/155, se fotkami 47; {'ok': 11, 'lide': 3, 'jine': 105, 'sablona': 0}
+[04:01:45] Konec: školek s fotkami 47; {'ok': 11, 'lide': 3, 'jine': 105, 'sablona': 0}
