@@ -86,7 +86,8 @@ def shoda(text, z):
     cisla = re.sub(r"\s", "", t)
     if z.get("ico") and z["ico"].lstrip("0") and z["ico"] in cisla:
         return "ico"
-    if z.get("psc") and re.sub(r"\D", "", z["psc"]) in cisla:
+    # PSČ samo stačí jen tam, kde ho nemá jiná školka (jinak by sedělo i na web sousední školky)
+    if z.get("psc") and z.get("psc_staci", True) and re.sub(r"\D", "", z["psc"]) in cisla:
         return "psc"
     ul = bez(z.get("ulice") or "")
     if len(ul) >= 5 and ul in t:
