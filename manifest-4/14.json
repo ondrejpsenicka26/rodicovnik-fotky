@@ -1159,6 +1159,36 @@
 "w": 753
 }
 ],
+"materska-skola-prelouc-160903": [
+{
+"alt": "",
+"barva": "#9e8a6b",
+"dh": "f39abb73e8ea2306",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAlEAABBAEDAgcAAAAAAAAAAAABAAIDEQQSITEFcRQVIjJRYeH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEBAQEBAAAAAAAAAAAAAAABABIhAv/aAAwDAQACEQMRAD8ApydRiDZJJPQxtADYk777X2XFmbjieRrJdA4sVR7fKRfi+JhJe52qqBNGgt8tiBL6LQ3gA8LPkDlVQezb5scH3vP2D+oU92C8VoczTViwhDyTRf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskladenskaprelouc.cz/2-trida-motylci/",
+"typ": "interier",
+"url": "https://mskladenskaprelouc.cz/wp-content/uploads/2026/09/IMG_4880.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#918572",
+"dh": "319bb39bc9d31f27",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskladenskaprelouc.cz/2-trida-motylci/",
+"typ": "interier",
+"url": "https://mskladenskaprelouc.cz/wp-content/uploads/2026/09/IMG_4886.jpeg",
+"w": 1200
+}
+],
 "materska-skola-stara-paka-583038": [
 {
 "alt": "10-IMG_5338",
