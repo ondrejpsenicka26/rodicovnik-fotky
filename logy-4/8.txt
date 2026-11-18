@@ -1,13 +1,15 @@
-[02:14:03] Část 9/20: webů 127, hotovo 154, zbývá 9
-[02:14:07] https://odrivousek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[02:14:07] https://skolka-amalka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[02:14:10] https://bimbonido.cz: nedostupné nebo zakázané
-[02:14:13] https://mamutikprerov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 3 fotek ke kontrole
-[02:14:16] https://duhovydum.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 5 fotek ke kontrole
-[02:14:21] https://babyresort.cz/detska-skupina-tabulovy-vrch-olomouc: 4 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 14 fotek ke kontrole
-[02:14:25] https://dsslunicka.cz/lovosice/detska-skupina-slunicka-lovosice-ii: 4 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 28 fotek ke kontrole
-[02:14:26] https://dsbabyjump.eschool.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 1 fotek ke kontrole
-[02:15:03] https://spolek-ctyrlistek.cz/detska-skupina-ctyrlitek: 20 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 20 fotek ke kontrole
-[02:15:22] tříděno 0/72
-[02:15:28] Dávka 1: hotovo 163/127, se fotkami 54; {'ok': 8, 'lide': 2, 'jine': 52, 'sablona': 0}
-[02:15:28] Konec: školek s fotkami 54; {'ok': 8, 'lide': 2, 'jine': 52, 'sablona': 0}
+[03:59:50] Část 9/20: webů 137, hotovo 163, zbývá 11
+[04:00:00] https://vceliakademie.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 2 fotek ke kontrole
+[04:00:01] https://lipova4.webnode.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 6 fotek ke kontrole
+[04:00:11] https://hermanov.info/detska-skupina-hermanek: 1 stránek (galerie mimo web: 1 ['hermanov.rajce.idnes.cz'], alb: 0), 9 obrázků, 5 fotek ke kontrole
+[04:00:13] https://centrummilisek.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 7 fotek ke kontrole
+[04:00:18] https://kaminekhorice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 39 obrázků, 5 fotek ke kontrole
+[04:00:32] https://miniaktivity.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 20 fotek ke kontrole
+[04:00:34] https://ratibor.cz/obec/p1960-detska-skupina-zvonek: 14 stránek (galerie mimo web: 0 [], alb: 0), 827 obrázků, 45 fotek ke kontrole
+[04:00:53] https://generacekk.cz/rodice/detska-skupina-pristav: 3 stránek (galerie mimo web: 0 [], alb: 0), 62 obrázků, 44 fotek ke kontrole
+[04:00:57] https://wlastovka.cz/detska-skupina-pohadka-pro-wlastovku: 21 stránek (galerie mimo web: 0 [], alb: 0), 681 obrázků, 25 fotek ke kontrole
+[04:01:00] https://obecroudna.cz/detska-skupina-koralky: 34 stránek (galerie mimo web: 0 [], alb: 0), 195 obrázků, 1 fotek ke kontrole
+[04:01:26] https://vimperk.cz/detska-skupina-kralovska-skolka/ms-16699: nedostupné nebo zakázané
+[04:01:37] tříděno 0/160
+[04:01:52] Dávka 1: hotovo 174/137, se fotkami 59; {'ok': 12, 'lide': 15, 'jine': 115, 'sablona': 0}
+[04:01:52] Konec: školek s fotkami 59; {'ok': 12, 'lide': 15, 'jine': 115, 'sablona': 0}

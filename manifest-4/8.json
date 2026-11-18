@@ -313,6 +313,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-kaminek-horice-ds11192": [
+{
+"alt": "IMG_5271.jpg",
+"barva": "#d5b08e",
+"dh": "1d654de4ccf2e696",
+"h": 804,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAhEAACAQMEAwEAAAAAAAAAAAABAgADBBESITFBBSJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQADAiH/2gAMAwEAAhEDEQA/AOgqeQt6LaXZgx4Gk7zTX1uACWPw8/kQrqK+VfsY2i4t6dtasKY65JyRJXVqTMqda4RnBRlIxCTVPqIQXRfZDgL/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kaminekhorice.cz/inpage/prostory-detske-skupiny-702/",
+"typ": "interier",
+"url": "https://www.kaminekhorice.cz/obrazek/3/img-5271-jpg/",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c7a788",
+"dh": "313032331b1745c9",
+"h": 800,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.kaminekhorice.cz/inpage/prostory-detske-skupiny-702/",
+"typ": "interier",
+"url": "https://www.kaminekhorice.cz/obrazek/3/img-5313-jpg/",
+"w": 1200
+}
+],
 "detska-skupina-kotata-ds02370": [
 {
 "alt": "",
@@ -354,6 +384,109 @@
 "typ": "hygiena",
 "url": "https://detskaskupinakotata.cz/wp-content/uploads/2026/03/PXL_20260223_095306432.jpg",
 "w": 903
+}
+],
+"detska-skupina-lipova-chaloupka-ds01949": [
+{
+"alt": "",
+"barva": "#887669",
+"dh": "b3d639b9b9b6f0cd",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDAAQRIRJxMRMiQYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECURIT/9oADAMBAAIRAxEAPwBCKru4Gip3yUb6rNWXkqqrZfwSo1Qbi9a2ucRK8jvny3EflHW5miKie3GWb2ur7H1RuhZltD5Z44X4lVPZqrP1D8rnqqr0jDPFaf/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://lipova4.webnode.cz/",
+"typ": "interier",
+"url": "https://e9db42f599.clvaw-cdnwnd.com/97fc807281fc1570e9e1320cb6cc126b/200000004-38bf838bfa/20231126_095652.jpeg?ph=e9db42f599",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8b7d72",
+"dh": "f37769d993b2945b",
+"h": 900,
+"jistota": 0.998,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://lipova4.webnode.cz/",
+"typ": "interier",
+"url": "https://e9db42f599.clvaw-cdnwnd.com/97fc807281fc1570e9e1320cb6cc126b/200000006-c2f8ec2f90/20231126_095742.jpeg?ph=e9db42f599",
+"w": 1200
+}
+],
+"detska-skupina-pohadka-pro-wlastovku-ds00356": [
+{
+"alt": "",
+"barva": "#7c8368",
+"dh": "a534444647430c06",
+"h": 900,
+"jistota": 0.898,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQD/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDEQAEEiExIlEFYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADAP/EAB0RAAEDBQEAAAAAAAAAAAAAAAABAkEDERITFFH/2gAMAwEAAhEDEQA/AMI9dIyKGuR28TVn8yuQ6mLRzOp27RuFmyOea7yNIt6jcarquMtVyqkAA34m/XrBR+JRYzf5KMNzG7HsknGBDARZgFn7OMTqqJIetvh//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://wlastovka.cz/materska-skola/promena-skolkove-zahrady/",
+"typ": "budova",
+"url": "https://wlastovka.cz/wp-content/uploads/2023/04/IMG_0124.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#736b5a",
+"dh": "5e0c1672cb89aed9",
+"h": 901,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://wlastovka.cz/materska-skola/promena-skolkove-zahrady/",
+"typ": "zahrada",
+"url": "https://wlastovka.cz/wp-content/uploads/2023/10/IMG_20230619_133019.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#81755b",
+"dh": "5fcf69393b9f8f8f",
+"h": 901,
+"jistota": 0.959,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://wlastovka.cz/materska-skola/promena-skolkove-zahrady/",
+"typ": "les",
+"url": "https://wlastovka.cz/wp-content/uploads/2023/10/IMG_20230619_134029.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#778060",
+"dh": "133274c44416c059",
+"h": 901,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://wlastovka.cz/materska-skola/promena-skolkove-zahrady/",
+"typ": "zahrada",
+"url": "https://wlastovka.cz/wp-content/uploads/2023/10/IMG_20230804_113315.jpg",
+"w": 1200
+}
+],
+"detska-skupina-pristav-ds01634": [
+{
+"alt": "",
+"barva": "#876b56",
+"dh": "31313135951f0d0d",
+"h": 900,
+"jistota": 0.945,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIxAAAgICAQIHAAAAAAAAAAAAAQIDEQAEITGBBRIiQVFx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECEQMS/9oADAMBAAIRAxEAPwBFsRNqOlpZFd6GT1WTWlDq4FGgR80czauqkh88q+q746HtlZtHUq42YMx561kXT1F5mfLRWaeJ5mDOLWl++BjMMnh4LsVckX7k/mML6rQqFh//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://generacekk.cz/rodice/detska-skupina-pristav/",
+"typ": "interier",
+"url": "https://generacekk.cz/wp-content/uploads/2026/05/1776841836641.jpg",
+"w": 1200
 }
 ],
 "detska-skupina-sedmikraska-ds01869": [
@@ -1378,6 +1511,49 @@
 "stranka": "https://www.zdravaskolka.cz/fotogalerie/interier-skolky",
 "typ": "interier",
 "url": "http://www.zdravaskolka.cz/image.php?oid=8926558",
+"w": 1200
+}
+],
+"miniaktivity-detska-skupina-ds00406": [
+{
+"alt": "",
+"barva": "#91877c",
+"dh": "713161f1d97d051d",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACMQAAEEAQMEAwAAAAAAAAAAAAECAwQRABITIQUiMUEUcfH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8AqQhqBB2PlGU7q7Vq58+rxTEuGhTwdIKiUhNi6N85JGFkNE9oWPQ9/uVvQWG39kp1cpF/eAFZcnSJ8ESXCCnSpVpCUjgVhmT1CIwzJKdsHi78YY8Y6X//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://miniaktivity.cz/fotogalerie.html",
+"typ": "interier",
+"url": "https://miniaktivity.cz/images/uploads/11541/67d9170419e4c_herna-detske-skupiny.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#867f74",
+"dh": "27e6e6de7a4ae35f",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://miniaktivity.cz/fotogalerie.html",
+"typ": "interier",
+"url": "https://miniaktivity.cz/images/uploads/11541/67d9176711b9f_Vybaveni-herny-detske-skupiny.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7e776c",
+"dh": "cddf97971f61614f",
+"h": 800,
+"jistota": 0.998,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://miniaktivity.cz/fotogalerie.html",
+"typ": "hygiena",
+"url": "https://miniaktivity.cz/images/uploads/11541/67d918f8c7ace_Satna-pro-deti.JPG",
 "w": 1200
 }
 ],
