@@ -810,6 +810,36 @@
 "w": 900
 }
 ],
+"materska-skola-plumlov-610311": [
+{
+"alt": "",
+"barva": "#8b8f74",
+"dh": "202d39913d2686c8",
+"h": 890,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACA//EACcQAAIBAgUBCQAAAAAAAAAAAAECAwARBAUSITEGExQiQUJRcaHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECERMxQVH/2gAMAwEAAhEDEQA/ANdO5gDCcKY9RTxKQfc+dKd6Zm0rGq72uxoNclxeDQhJpNJPocc/Vdjl7tGYhLeQiweVm3J+L7isnd8JklPaGMXJJHIqpKiDSDueaqGXprGuoYtG9+D2h/aqWyvA4R//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msplumlov.cz/o-nas/",
+"typ": "budova",
+"url": "https://msplumlov.cz/wp-content/uploads/2024/04/msp011.jpg",
+"w": 1186
+},
+{
+"alt": "",
+"barva": "#6e7763",
+"dh": "9296960e491bf1e3",
+"h": 890,
+"jistota": 0.986,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msplumlov.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://msplumlov.cz/wp-content/uploads/2024/04/msp008.jpg",
+"w": 1186
+}
+],
 "materska-skola-przedszkole-622572": [
 {
 "alt": "",
