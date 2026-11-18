@@ -1,7 +1,2 @@
-[11:45:29] Část 18/20: webů 160, hotovo 201, zbývá 3
-[11:46:29] http://detska-skupina-kacenka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 48 obrázků, 24 fotek ke kontrole
-[11:47:25] https://ds-montik.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 537 obrázků, 32 fotek ke kontrole
-[11:47:52] https://www.skolickakrasna.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 51 obrázků, 25 fotek ke kontrole
-[11:48:13] tříděno 0/81
-[11:48:30] Dávka 1: hotovo 204/160, se fotkami 65; {'ok': 11, 'lide': 11, 'jine': 33, 'sablona': 0}
-[11:48:30] Konec: školek s fotkami 65; {'ok': 11, 'lide': 11, 'jine': 33, 'sablona': 0}
+[12:06:16] Část 18/20: webů 160, hotovo 204, zbývá 0
+[12:06:16] Konec: školek s fotkami 65; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
