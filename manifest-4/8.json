@@ -55,6 +55,23 @@
 "w": 1200
 }
 ],
+"c-i-e-l-materska-skola-055911": [
+{
+"alt": "",
+"barva": "#7d98ba",
+"dh": "7f7f9f9f8feb3464",
+"h": 702,
+"jistota": 0.973,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACIQAAICAQMEAwAAAAAAAAAAAAECAAMRBBMhBRJBUTHB8P/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDEUH/2gAMAwEAAhEDEQA/AKK9R3NUunCHtIIDe8fULjJ11YtostZmFm4AGU4I8xQv1dagm/cxxhxwf3uNG1dBcWbj8wjaVF9KWrwHUMAfEI+h4f/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolavsenory.cz/category/skolka-jezecci/",
+"typ": "budova",
+"url": "https://www.skolavsenory.cz/wp-content/uploads/2026/05/img-20260527-112458.jpg",
+"w": 1000
+}
+],
 "detska-skupina-bona-ds00427": [
 {
 "alt": "",
@@ -734,6 +751,23 @@
 "w": 1200
 }
 ],
+"lesni-materska-skola-cilek-087766": [
+{
+"alt": "",
+"barva": "#6f7e4b",
+"dh": "d28029c45422a121",
+"h": 721,
+"jistota": 0.752,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACEQAAICAgIBBQAAAAAAAAAAAAECAxEABBIhBTFBUWHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECAxESEyEi/9oADAMBAAIRAxEAPwCYeRlMwZ2JZmLUgod4/V3inF3iBTj89g9nIzsDg7RMGVTQaq/e2O1p7KB1I5Gqv1zLskuhyRqpvKgpISoJJ6Ng/eGZz+XEEjRhuQU0CVwyiqSsLyf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkacilek.cz/o-nas",
+"typ": "zahrada",
+"url": "https://www.skolkacilek.cz/files/responsive/980/0/183074924-1840907849425330-2686072754657048937-n.jpg",
+"w": 960
+}
+],
 "lesni-materska-skola-remizek-085895": [
 {
 "alt": "",
@@ -1041,6 +1075,23 @@
 "typ": "interier",
 "url": "https://b2ffc0bee7.clvaw-cdnwnd.com/c2320cefa7804acab8199b2b7e0c1e72/200000647-46ae046ae1/700/HERNA%201-7.jpeg?ph=b2ffc0bee7",
 "w": 700
+}
+],
+"materska-skola-hlizov-101-512874": [
+{
+"alt": "",
+"barva": "#6a6a4f",
+"dh": "6ce7c3849b96fddf",
+"h": 1200,
+"jistota": 0.885,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA8Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gMTAwCv/bAEMAEgwNEA0LEhAOEBQTEhUbLB0bGBgbNicpICxAOURDPzk+PUdQZldHS2FNPT5ZeVphaW1yc3JFVX2GfG+FZnBybv/bAEMBExQUGxcbNB0dNG5JPklubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubv/AABEIAB0AFAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAAAwECBAX/xAAjEAACAgEDBAMBAAAAAAAAAAABAgARAwQhMRITQVFigZLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EAB8RAAIBAwUBAAAAAAAAAAAAAAABIQIDEQQSEyIxUf/aAAwDAQACEQMRAD8AXrci6QqCpLMLHqpOBO/hVwNzzOa2DVtmFkZFqlPVvXPmbMGp1GmU4l7fVdlTyJq1HafAccQW7uIbOrq3kbbQi2JY3Rs817hA7tX0oqUQm2tXI9NiVCK+ViMyvpWthjvJVK3TxM7Ob+6lWJ/s5ds5GrjSwSaJs3+oRDObhHgmf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms.obec-hlizov.cz/galerie/zahonky-pro-male-zahradniky-podekovani-rodicum",
+"typ": "zahrada",
+"url": "https://ms.obec-hlizov.cz/www/files/galerie/269/20260417-102027.jpg",
+"w": 822
 }
 ],
 "materska-skola-hrusovany-nad-jevisovkou-615169": [
