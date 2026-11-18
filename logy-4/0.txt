@@ -1,5 +1,5 @@
-[10:15:30] Část 1/20: webů 149, hotovo 193, zbývá 1
-[10:16:34] https://zsolsovec.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 9 fotek ke kontrole
-[10:18:10] tříděno 0/9
-[10:18:11] Dávka 1: hotovo 194/149, se fotkami 70; {'ok': 4, 'lide': 0, 'jine': 3, 'sablona': 0}
-[10:18:11] Konec: školek s fotkami 70; {'ok': 4, 'lide': 0, 'jine': 3, 'sablona': 0}
+[10:40:13] Část 1/20: webů 148, hotovo 194, zbývá 1
+[10:40:50] https://zsamsolesnice.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 40 obrázků, 2 fotek ke kontrole
+[10:40:58] tříděno 0/2
+[10:40:58] Dávka 1: hotovo 195/148, se fotkami 70; {'ok': 0, 'lide': 0, 'jine': 2, 'sablona': 0}
+[10:40:58] Konec: školek s fotkami 70; {'ok': 0, 'lide': 0, 'jine': 2, 'sablona': 0}
