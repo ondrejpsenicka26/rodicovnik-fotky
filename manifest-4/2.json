@@ -115,6 +115,49 @@
 "w": 800
 }
 ],
+"detska-skupina-pohoda-horomerice-ds00405": [
+{
+"alt": "IMG_6065",
+"barva": "#857364",
+"dh": "5f1cf3ebe9e8ce3e",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EACUQAAIBBAAEBwAAAAAAAAAAAAECAwAEESEFEjEyIzNBUYGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMRYVH/2gAMAwEAAhEDEQA/AEuITZoGZwVG9jONVjllfl8RVDduPX7oLuSe6GEJRQerMSce2KHEiGMjZi6boPg56dAYEnzdEjtqpOGPNLbsxVAec5yfn9qrLWTKnpSUcz6f/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.pohodahoromerice.cz/fotoalbum/co-se-deje-v-detske-skupine/karnevalovy-tyden-2025/",
+"typ": "interier",
+"url": "https://www.pohodahoromerice.cz/img/original/262/img_6065.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_8079",
+"barva": "#746b5a",
+"dh": "0f31313c7c6e9313",
+"h": 864,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.pohodahoromerice.cz/fotoalbum/co-se-deje-v-detske-skupine/prostory-ds/",
+"typ": "interier",
+"url": "https://www.pohodahoromerice.cz/img/original/417/img_8079.jpg",
+"w": 1179
+},
+{
+"alt": "IMG_8083",
+"barva": "#827866",
+"dh": "1173577676662c6c",
+"h": 874,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.pohodahoromerice.cz/fotoalbum/co-se-deje-v-detske-skupine/prostory-ds/",
+"typ": "hygiena",
+"url": "https://www.pohodahoromerice.cz/img/original/411/img_8083.jpg",
+"w": 1179
+}
+],
 "lesni-materska-skola-stromecek-088584": [
 {
 "alt": "Zámek Měšice",
@@ -405,6 +448,23 @@
 "typ": "hygiena",
 "url": "https://www.mskrivsoudov.cz/data/headerfooter/header_images/img5299.JPEG",
 "w": 1200
+}
+],
+"materska-skola-morasice-587520": [
+{
+"alt": "",
+"barva": "#788166",
+"dh": "7b7c2707db13979b",
+"h": 600,
+"jistota": 0.607,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMEBQb/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBEFEiETQbEiMVFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIEIQMSFP/aAAwDAQACEQMRAD8AZaajbC1SNEMQUcLvXgeac11GI2d3AK+4BJPiq+PR445kZnDhBgEqOPypC2ce+SSX1yvnB7L9D5oKlOT1AdnjSzREmu2aOVHXbHcR0VnpF2SMsnDKSDjmih54j7H/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://www.msmorasice.cz/fotogalerie/",
+"typ": "les",
+"url": "http://www.msmorasice.cz/soubory-minigalerie/fotky/20250820-080537.jpg",
+"w": 800
 }
 ],
 "materska-skola-slunicko-569043": [
