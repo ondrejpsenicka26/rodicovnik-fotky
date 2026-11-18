@@ -249,6 +249,14 @@
 "titulek": "Dětská skupina adaptační Malinka | Prostor Pro Rodinu",
 "web": "https://prostorprorodinu.cz/detska-skupina-adaptacni-malinka"
 },
+"detska-skupina-agata-ds01265": {
+"duvod": "",
+"final": "https://www.dsagata.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Agáta",
+"web": "https://www.dsagata.cz"
+},
 "detska-skupina-aktivacci-ds00259": {
 "duvod": "",
 "final": "https://aktivsenice.cz/aktivacci/",
@@ -296,6 +304,22 @@
 "shoda": "ico",
 "titulek": "Mateřská školka Andělská - Újezd nad Lesy",
 "web": "https://skolka-andelska.cz"
+},
+"detska-skupina-andilci-ds00690": {
+"duvod": "",
+"final": "https://www.dsandilci.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dsandilci-cz",
+"web": "https://www.dsandilci.cz"
+},
+"detska-skupina-andilci-ii-ds01056": {
+"duvod": "",
+"final": "https://www.dsandilci.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Dsandilci-cz",
+"web": "https://www.dsandilci.cz"
 },
 "detska-skupina-andilek-ds01620": {
 "duvod": "cizi",
@@ -417,6 +441,22 @@
 "titulek": "Dětská skupina Baby JUMP Teplice",
 "web": "https://dsbabyjump.eschool.cz"
 },
+"detska-skupina-babyland-ds01682": {
+"duvod": "",
+"final": "https://www.dsbabyland.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Úvod - Dětské skupiny Plzeň - Babyland, z.s.",
+"web": "https://www.dsbabyland.cz"
+},
+"detska-skupina-babyland-ii-ds01784": {
+"duvod": "",
+"final": "https://www.dsbabyland.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Úvod - Dětské skupiny Plzeň - Babyland, z.s.",
+"web": "https://www.dsbabyland.cz"
+},
 "detska-skupina-bambilin-revnice-ds00358": {
 "duvod": "",
 "final": "https://www.bambilin-revnice.cz/",
@@ -505,6 +545,14 @@
 "titulek": "DS Bělásek",
 "web": "https://dsbelasek.webnode.cz"
 },
+"detska-skupina-benjaminek-ds00654": {
+"duvod": "",
+"final": "https://www.detskaskupinabenjaminek.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Detskaskupinabenjaminek-cz",
+"web": "https://www.detskaskupinabenjaminek.cz"
+},
 "detska-skupina-benjaminek-stod-ds02381": {
 "duvod": "",
 "final": "https://www.benjaminekstod.cz/",
@@ -592,6 +640,22 @@
 "shoda": "psc",
 "titulek": "DS Berušky Palonín",
 "web": "https://berusky.palonin.cz"
+},
+"detska-skupina-bibouch-ds02048": {
+"duvod": "",
+"final": "https://bibouch.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina BiBouch",
+"web": "https://bibouch.cz"
+},
+"detska-skupina-bobanek-ds10584": {
+"duvod": "",
+"final": "https://dsbobanek.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Bobánek",
+"web": "https://dsbobanek.cz"
 },
 "detska-skupina-bobrici-ds01721": {
 "duvod": "",
@@ -689,6 +753,14 @@
 "titulek": "Úvod | MOJE ŠKOLIČKA",
 "web": "https://mojeskolicka.cz"
 },
+"detska-skupina-broucci-ds01419": {
+"duvod": "",
+"final": "https://ds-broucci.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Broučci",
+"web": "https://ds-broucci.cz"
+},
 "detska-skupina-broucek-ds01637": {
 "duvod": "",
 "final": "https://dshangarek.cz/broucek-zlin/",
@@ -696,6 +768,22 @@
 "shoda": "psc",
 "titulek": "Dětská skupina Brouček Zlín | DS Hangárek",
 "web": "https://dshangarek.cz/broucek-zlin"
+},
+"detska-skupina-bublihafik-1-ds01645": {
+"duvod": "",
+"final": "https://bublihafik.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Bublihafík | Rodinná dětská skupina v Sokolnicích a Žabčicích",
+"web": "https://bublihafik.cz"
+},
+"detska-skupina-bublihafik-sokolnice-ds02183": {
+"duvod": "",
+"final": "https://bublihafik.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Bublihafík | Rodinná dětská skupina v Sokolnicích a Žabčicích",
+"web": "https://bublihafik.cz"
 },
 "detska-skupina-bublinka-2-ds01012": {
 "duvod": "bez-shody",
@@ -745,6 +833,22 @@
 "titulek": "DS Bystré hlavičky",
 "web": "https://dsbystrehlavicky.cz"
 },
+"detska-skupina-bystrouska-ds01803": {
+"duvod": "",
+"final": "https://dsbystrouska.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Bystrouška",
+"web": "https://dsbystrouska.cz"
+},
+"detska-skupina-campana-ds01613": {
+"duvod": "",
+"final": "https://www.dscampana.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Campana",
+"web": "https://www.dscampana.cz"
+},
 "detska-skupina-centrum-kvetinka-2-ds00655": {
 "duvod": "",
 "final": "https://centrumkvetinka.cz",
@@ -768,6 +872,14 @@
 "shoda": "psc",
 "titulek": "Školka Čertík – dětské skupiny v Sokolově a Královském Poříčí",
 "web": "https://skolkacertik.cz"
+},
+"detska-skupina-cesticka-ds01777": {
+"duvod": "",
+"final": "https://dscesticka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Úvodní stránka | Dětská skupina Cestička",
+"web": "https://dscesticka.cz"
 },
 "detska-skupina-chaloupka-ds01049": {
 "duvod": "",
@@ -881,6 +993,14 @@
 "shoda": "",
 "titulek": "Ověření",
 "web": "https://slunicka.com"
+},
+"detska-skupina-ctyrlistek-ds01764": {
+"duvod": "",
+"final": "https://www.dsctyrlistek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Čtyřlístek",
+"web": "https://www.dsctyrlistek.cz"
 },
 "detska-skupina-ctyrlistek-ds01805": {
 "duvod": "",
@@ -1018,6 +1138,14 @@
 "titulek": "Dětská skupina Devítka - Praha 9-Prosek",
 "web": "https://skolka-jesle.cz/detske-skupiny/devitka"
 },
+"detska-skupina-dino-ds01650": {
+"duvod": "",
+"final": "https://dsdino.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina DS DINO na Kladně",
+"web": "https://dsdino.cz"
+},
 "detska-skupina-do-maleho-sveta-ds01472": {
 "duvod": "",
 "final": "https://www.prostorprorodinu.cz/do-maleho-sveta",
@@ -1034,6 +1162,14 @@
 "shoda": "psc",
 "titulek": "Obec Dobrá Voda u Hořic | Dětská skupina",
 "web": "https://dobravodauhoric.cz/detska-skupina"
+},
+"detska-skupina-dobromysl-ds01457": {
+"duvod": "",
+"final": "https://www.ds-dobromysl.cz/uvod/",
+"ok": true,
+"shoda": "psc",
+"titulek": "uvod - Dětská skupina Dobromysl",
+"web": "https://www.ds-dobromysl.cz"
 },
 "detska-skupina-dobroskritek-ds02098": {
 "duvod": "",
@@ -1084,6 +1220,14 @@
 "shoda": "ulice",
 "titulek": "Úvod - Dětská skupina DOMINO Liberec z.s.",
 "web": "https://dominoliberec.eu"
+},
+"detska-skupina-doupatko-ds01221": {
+"duvod": "",
+"final": "https://dsdoupatko.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "ÚVOD -",
+"web": "https://dsdoupatko.cz"
 },
 "detska-skupina-dracci-domazlice-i-ds02077": {
 "duvod": "",
@@ -1397,6 +1541,14 @@
 "titulek": "www.elvicek.cz",
 "web": "https://elvicek.cz"
 },
+"detska-skupina-emily4life-ds00766": {
+"duvod": "",
+"final": "https://emily4life.webnode.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Emily4life",
+"web": "https://emily4life.webnode.cz"
+},
 "detska-skupina-ententyky-ds10243": {
 "duvod": "",
 "final": "https://miniskolka-ententyky.cz/detska-skupina-brno-bystrc",
@@ -1461,6 +1613,14 @@
 "titulek": "Fialový ČÁP v Dobříši (věk dětí 2-3 roky) | Dětské skupiny ČÁP",
 "web": "https://dccap.cz/detske-skupiny/fialovy-cap"
 },
+"detska-skupina-filianek-ds00106": {
+"duvod": "",
+"final": "https://filianek.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Volnočasové a vzdělávací aktivity pro děti i dospělé | Filianek.cz",
+"web": "https://filianek.cz"
+},
 "detska-skupina-flupik-i-ds00444": {
 "duvod": "",
 "final": "https://flupikrudna.cz",
@@ -1484,6 +1644,14 @@
 "shoda": "ico",
 "titulek": "Dětská skupina Flupík – Česko-anglická školička Flupík Rudná",
 "web": "https://flupikrudna.cz"
+},
+"detska-skupina-formelo-ds01789": {
+"duvod": "",
+"final": "https://formelo.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina FORMELO",
+"web": "https://formelo.cz"
 },
 "detska-skupina-foxik-budysinska-ds00482": {
 "duvod": "",
@@ -1645,6 +1813,22 @@
 "titulek": "Dětská skupina Hlaveneček",
 "web": "https://detska-skupina-hlavenecek.webnode.cz"
 },
+"detska-skupina-hnizdecko-2-ds01556": {
+"duvod": "",
+"final": "https://www.dshnizdecko.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "DS Hnízdečko",
+"web": "https://www.dshnizdecko.cz"
+},
+"detska-skupina-hnizdecko-ds01555": {
+"duvod": "",
+"final": "https://www.dshnizdecko.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "DS Hnízdečko",
+"web": "https://www.dshnizdecko.cz"
+},
 "detska-skupina-hnizdo-ds02113": {
 "duvod": "",
 "final": "https://dshnizdo.cz",
@@ -1660,6 +1844,14 @@
 "shoda": "psc",
 "titulek": "Hola-Hej: Zábava pro děti",
 "web": "https://detskaskupinaholahej.cz"
+},
+"detska-skupina-holoubek-ds10609": {
+"duvod": "",
+"final": "https://dsholoubek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "DS Holoubek - Dětská skupina pro moderní rodiče v Liberci",
+"web": "https://dsholoubek.cz"
 },
 "detska-skupina-holubnicek-grand-ds01656": {
 "duvod": "",
@@ -1716,6 +1908,14 @@
 "shoda": "ico",
 "titulek": "Představení dětských skupin | Dětské skupiny HOROMĚŘICE",
 "web": "https://dshoromerice.cz"
+},
+"detska-skupina-housenky-ds02357": {
+"duvod": "",
+"final": "https://dshousenky.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Děstská skupina Housenky",
+"web": "https://dshousenky.cz"
 },
 "detska-skupina-hradcany-ds00301": {
 "duvod": "",
@@ -1942,6 +2142,14 @@
 "titulek": "Dětská skupina a jesle JÁJA | Miniškolka Jája Liberec Rodinné a školící dětské centrum jesle školka",
 "web": "https://miniskolkajaja.cz/cs/detska-skupina-a-jesle-montik-liberec"
 },
+"detska-skupina-jasminka-ds02032": {
+"duvod": "",
+"final": "https://skolkajasminka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "",
+"web": "https://skolkajasminka.cz"
+},
 "detska-skupina-jdeme-do-sveta-ii-ds01888": {
 "duvod": "",
 "final": "https://www.jdemedosveta.cz/",
@@ -2149,6 +2357,14 @@
 "titulek": "Junikorn - více než školka v Plzni",
 "web": "https://junikorn.cz"
 },
+"detska-skupina-kacenka-ds00982": {
+"duvod": "",
+"final": "http://detska-skupina-kacenka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Kačenka",
+"web": "http://detska-skupina-kacenka.cz"
+},
 "detska-skupina-kamaradi-od-berounky-2-ds02005": {
 "duvod": "",
 "final": "https://www.kamaradiodberounky.cz/",
@@ -2213,6 +2429,22 @@
 "titulek": "DS KAPRADINKA – Obec Salaš",
 "web": "https://salasuh.cz/default/default/21221_ds-kapradinka"
 },
+"detska-skupina-karamelka-1-ds01780": {
+"duvod": "",
+"final": "https://www.detska-skupina-karamelka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Karamelka",
+"web": "https://www.detska-skupina-karamelka.cz"
+},
+"detska-skupina-karamelka-2-ds01781": {
+"duvod": "",
+"final": "https://www.detska-skupina-karamelka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Karamelka",
+"web": "https://www.detska-skupina-karamelka.cz"
+},
 "detska-skupina-kastankov-ds10443": {
 "duvod": "",
 "final": "https://kastankov.cuni.cz/DS-1.html",
@@ -2221,12 +2453,28 @@
 "titulek": "Dětská skupina na RUK",
 "web": "https://kastankov.cuni.cz"
 },
+"detska-skupina-kids-academy-ds00640": {
+"duvod": "",
+"final": "https://kidsacademy.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "KidsAcademy.cz",
+"web": "https://kidsacademy.cz"
+},
 "detska-skupina-klicek-ds00650": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
 "opak": 1,
 "shoda": "",
 "web": "https://muunhost.cz/rodinne-centrum-klicek-a-skolka-klicek/ds-4146"
+},
+"detska-skupina-klokajda-ds11362": {
+"duvod": "",
+"final": "https://klokajda.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Klokajda – Bezpečné a inspirativní prostředí pro Vaše nejmenší v nových prostorách na Klokočné.",
+"web": "https://klokajda.cz"
 },
 "detska-skupina-klub-hrosik-ds01190": {
 "duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
@@ -2330,6 +2578,14 @@
 "shoda": "psc",
 "titulek": "KLUBÍK Břeclav z.s.",
 "web": "https://klubikbreclav.webnode.cz"
+},
+"detska-skupina-klubik-svinov-ds01395": {
+"duvod": "",
+"final": "https://dsklubiksvinov.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Klubík",
+"web": "https://dsklubiksvinov.cz"
 },
 "detska-skupina-klubik-u-mlyna-ds11193": {
 "duvod": "",
@@ -2494,6 +2750,14 @@
 "shoda": "",
 "web": "https://kostelecncl.cz/detska-skupina-kostelacek/ds-1388"
 },
+"detska-skupina-kostelicek-ds11146": {
+"duvod": "",
+"final": "https://www.dskostelicek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Kostelíček - Oficiální stránky Dětské skupiny Kostelíček z.s. Svárov",
+"web": "https://www.dskostelicek.cz"
+},
 "detska-skupina-kotata-ds02370": {
 "duvod": "",
 "final": "https://detskaskupinakotata.cz",
@@ -2579,6 +2843,12 @@
 "shoda": "psc",
 "titulek": "Dětská skupina - Oficiální stránky obce Kubšice",
 "web": "https://kubsice.eu/kubsicka-skolicka/detska-skupina"
+},
+"detska-skupina-kulicek-ds01231": {
+"duvod": "chyba: HTTP Error 403: Forbidden",
+"ok": false,
+"shoda": "",
+"web": "https://kulicek.cz"
 },
 "detska-skupina-kulicka-ds01473": {
 "duvod": "",
@@ -2710,6 +2980,14 @@
 "titulek": "Školka LADA Praha | Mateřská škola a Dětské skupiny LADA",
 "web": "https://skolkalada.cz"
 },
+"detska-skupina-lamicka-ds02192": {
+"duvod": "",
+"final": "https://lamicka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Lamička | dětská skupina Ludíkov",
+"web": "https://lamicka.cz"
+},
 "detska-skupina-landie-ricany-berusky-ds00139": {
 "duvod": "",
 "final": "https://landie.cz",
@@ -2773,6 +3051,14 @@
 "shoda": "ulice",
 "titulek": "Letnice | dětský klub a mateřské centrum",
 "web": "https://klubletnice.cz"
+},
+"detska-skupina-linden-kids-ds11308": {
+"duvod": "",
+"final": "https://lindenkids.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Soukromá školka v Brně na Křenové | Linden Kids",
+"web": "https://lindenkids.cz"
 },
 "detska-skupina-lipisek-ds02278": {
 "duvod": "",
@@ -2988,6 +3274,14 @@
 "titulek": "Dětské skupiny Loučka | DS Brno-střed",
 "web": "https://louckavbrne.com"
 },
+"detska-skupina-louka-ds02274": {
+"duvod": "",
+"final": "https://dslouka.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Louka - Úvod",
+"web": "https://dslouka.cz"
+},
 "detska-skupina-lucni-mlyn-ds01998": {
 "duvod": "bez-shody",
 "final": "https://ds-lucnimlyn.cz",
@@ -3026,6 +3320,14 @@
 "opak": 1,
 "shoda": "",
 "web": "https://luzecnadcidlinou-luzacci.cz"
+},
+"detska-skupina-lvicata-ds01186": {
+"duvod": "",
+"final": "https://www.dslvicata.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "HOME | Lvíčata",
+"web": "https://www.dslvicata.cz"
 },
 "detska-skupina-lvicek-ds01263": {
 "duvod": "",
@@ -3066,6 +3368,12 @@
 "shoda": "ico",
 "titulek": "DS Majdalenka Orlová a Bohumín – Dětské skupiny pro děti od 1 roku do 3 let s celoročním provozem v Orlové a Bohumíně.",
 "web": "https://jeslemajdalenka.cz"
+},
+"detska-skupina-makovicka-ds02238": {
+"duvod": "chyba: <urlopen error _ssl.c:994: The handshake operation timed out>",
+"ok": false,
+"shoda": "",
+"web": "https://dsmakovicka.cz"
 },
 "detska-skupina-mali-andilci-ds10909": {
 "duvod": "",
@@ -3322,6 +3630,14 @@
 "titulek": "Dětská skupina Medvíďata - Oficiální stránky MŠ Bystřice",
 "web": "https://msbystrice.cz/detske-skupiny/detska-skupina-medvidata"
 },
+"detska-skupina-medvidek-ds10138": {
+"duvod": "",
+"final": "https://dsmedvidek.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Medvídek | Choceň",
+"web": "https://dsmedvidek.cz"
+},
 "detska-skupina-medvidek-v-beroune-ds00366": {
 "duvod": "",
 "final": "https://www.prostorprorodinu.cz/detska-skupina-medvidek-v-beroune",
@@ -3338,6 +3654,22 @@
 "shoda": "ico",
 "titulek": "Dětská skupina města Kroměříže :: Mateřská škola Mánesova,Kroměříž",
 "web": "https://msmanesovakromeriz.cz/detska-skupina-mesta-kromerize"
+},
+"detska-skupina-mexiko-ds01368": {
+"duvod": "",
+"final": "https://www.skolkamexiko.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školka Mexiko | Moderní soukromá školka a jesle pro děti ve věku od 1,5 do 6 let, školka v pohybu, výuka angličtiny aj.",
+"web": "https://www.skolkamexiko.cz"
+},
+"detska-skupina-mexiko-ii-ds01500": {
+"duvod": "",
+"final": "https://www.skolkamexiko.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školka Mexiko | Moderní soukromá školka a jesle pro děti ve věku od 1,5 do 6 let, školka v pohybu, výuka angličtiny aj.",
+"web": "https://www.skolkamexiko.cz"
 },
 "detska-skupina-mezi-kamarady-ds01943": {
 "duvod": "",
@@ -3410,6 +3742,22 @@
 "shoda": "psc",
 "titulek": "Dětské skupiny Mikroregionu Mohelnicko",
 "web": "https://dsmohelnicko.cz"
+},
+"detska-skupina-miksicek-ds02244": {
+"duvod": "",
+"final": "https://www.miksicek.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Mikšíček",
+"web": "https://www.miksicek.cz"
+},
+"detska-skupina-miksicek-ii-ds02245": {
+"duvod": "",
+"final": "https://www.miksicek.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Mikšíček",
+"web": "https://www.miksicek.cz"
 },
 "detska-skupina-milu-care-jirny-ds01811": {
 "duvod": "",
@@ -3499,6 +3847,14 @@
 "titulek": "Sluníčko - Centrum pro rodinu, zs",
 "web": "https://slunickopardubice.cz"
 },
+"detska-skupina-miniskolka-tygrici-ds01006": {
+"duvod": "",
+"final": "https://www.miniskolkatygrici.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Úvod | DSMT",
+"web": "https://www.miniskolkatygrici.cz"
+},
 "detska-skupina-miniskolka-vlastovicky-ds00801": {
 "duvod": "",
 "final": "https://vlastovickyzs.webnode.cz",
@@ -3538,6 +3894,14 @@
 "shoda": "ico",
 "titulek": "Dětské skupinky MiniSovičky",
 "web": "https://minisovicky.cz"
+},
+"detska-skupina-minisvet-ds10593": {
+"duvod": "",
+"final": "https://dsminisvet.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina MiniSvět – péče, radost a rozvoj dětí",
+"web": "https://dsminisvet.cz"
 },
 "detska-skupina-misa-skolka-petrvald-ds10336": {
 "duvod": "",
@@ -3749,6 +4113,30 @@
 "titulek": "dsmontessorislany.cz",
 "web": "https://dsmontessorislany.cz"
 },
+"detska-skupina-montik-ds01209": {
+"duvod": "",
+"final": "https://ds-montik.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "DS Montík",
+"web": "https://ds-montik.cz"
+},
+"detska-skupina-monty-1-ds02317": {
+"duvod": "",
+"final": "https://dsmonty.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Monty z.s - skolka jesle deti hlidani",
+"web": "https://dsmonty.cz"
+},
+"detska-skupina-monty-2-ds02318": {
+"duvod": "",
+"final": "https://dsmonty.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Monty z.s - skolka jesle deti hlidani",
+"web": "https://dsmonty.cz"
+},
 "detska-skupina-monty-ds00565": {
 "duvod": "",
 "final": "https://montyskola.cz",
@@ -3764,6 +4152,14 @@
 "shoda": "ico",
 "titulek": "Monty klub Slavkov | Montessori dětská skupina",
 "web": "https://montyklub.cz"
+},
+"detska-skupina-montysek-ds02013": {
+"duvod": "",
+"final": "https://www.montysek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Montýsek",
+"web": "https://www.montysek.cz"
 },
 "detska-skupina-moonimals-ds02198": {
 "duvod": "",
@@ -3803,6 +4199,22 @@
 "opak": 1,
 "shoda": "",
 "web": "https://novavesnm.cz/detska-skupina-motylek/ms-5022"
+},
+"detska-skupina-mozaika-i-ds01462": {
+"duvod": "",
+"final": "https://www.dsmozaika.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mozaika",
+"web": "https://www.dsmozaika.cz"
+},
+"detska-skupina-mozaika-ii-ds01463": {
+"duvod": "",
+"final": "https://www.dsmozaika.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mozaika",
+"web": "https://www.dsmozaika.cz"
 },
 "detska-skupina-mracek-ds11342": {
 "duvod": "",
@@ -3995,6 +4407,14 @@
 "titulek": "Napajedláček - Homepage",
 "web": "https://napajedlacek.cz"
 },
+"detska-skupina-nase-skolicka-ds00163": {
+"duvod": "",
+"final": "https://www.nase-skolicka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Naše školička",
+"web": "https://www.nase-skolicka.cz"
+},
 "detska-skupina-nejkrasnejsi-svet-1-ds00870": {
 "duvod": "bez-shody",
 "final": "https://www.nejkrasnejsisvet.eu/",
@@ -4051,6 +4471,14 @@
 "titulek": "Dětská skupina Neuronek — Národní ústav duševního zdraví",
 "web": "https://nudz.cz/o-nas/detska-skupina-neuronek"
 },
+"detska-skupina-nuslicky-ds10122": {
+"duvod": "",
+"final": "https://nuslicky.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školička Nusličky",
+"web": "https://nuslicky.cz"
+},
 "detska-skupina-o-deti-postarano-oslavany-ds10287": {
 "duvod": "",
 "final": "https://www.odetipostarano.cz/detska-skupina-oslavany/",
@@ -4106,6 +4534,14 @@
 "shoda": "psc",
 "titulek": "Jesličky Orangery - Orangery Park - Stromáček",
 "web": "https://orangerypark.cz"
+},
+"detska-skupina-osecanek-ds01017": {
+"duvod": "",
+"final": "https://www.osecanek.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Home | OSEČÁNEK z.s. miniškolka, kroužky pro děti, Osek nad Bečvou",
+"web": "https://www.osecanek.cz"
 },
 "detska-skupina-oskar-ds01679": {
 "duvod": "",
@@ -4170,6 +4606,22 @@
 "shoda": "psc",
 "titulek": "Dětská skupina PALOUČEK - Oficiální stránky MŠ DUHA, Soběslav",
 "web": "https://msduhasobeslav.cz/detska-skupina-paloucek"
+},
+"detska-skupina-pampeliska-i-ds10464": {
+"duvod": "",
+"final": "https://www.dspampeliska.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "DS Pampeliška z.s.",
+"web": "https://www.dspampeliska.cz"
+},
+"detska-skupina-pampeliska-ii-ds10465": {
+"duvod": "",
+"final": "https://www.dspampeliska.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "DS Pampeliška z.s.",
+"web": "https://www.dspampeliska.cz"
 },
 "detska-skupina-panacci-1-ds00447": {
 "duvod": "",
@@ -4315,6 +4767,14 @@
 "titulek": "Školička Paví očko České Budějovice | Domů",
 "web": "https://detskaskupinapaviocko.cz"
 },
+"detska-skupina-pavucinka-ds11148": {
+"duvod": "",
+"final": "https://dspavucinka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "školka jesle děti hlídání - Dětská skupina Pavučinka",
+"web": "https://dspavucinka.cz"
+},
 "detska-skupina-pejsci-ds02125": {
 "duvod": "",
 "final": "https://ds-pejsci-a-kocicky.cz",
@@ -4338,6 +4798,14 @@
 "shoda": "",
 "web": "https://dsperinka.cz"
 },
+"detska-skupina-permonicci-ds00214": {
+"duvod": "",
+"final": "https://permonicci.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "permonicci.cz | Dětská skupina (jesličky) - Kutná Hora",
+"web": "https://permonicci.cz"
+},
 "detska-skupina-permonicek-ds00216": {
 "duvod": "chyba: <urlopen error [Errno -2] Name or service not known>",
 "ok": false,
@@ -4359,6 +4827,14 @@
 "shoda": "",
 "titulek": "Rozcestník - Petrželka | Dětská skupina",
 "web": "https://petrzelka-ds.cz"
+},
+"detska-skupina-pexeso-ds10547": {
+"duvod": "",
+"final": "https://www.ds-pexeso.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Pexeso - Vratislavice nad Nisou",
+"web": "https://www.ds-pexeso.cz"
 },
 "detska-skupina-pidi-midi-treboradice-ds01994": {
 "duvod": "",
@@ -4424,6 +4900,14 @@
 "titulek": "Pilné včelky - Rodinné centrum a školka pro děti od 1 roku - Háje, Praha 4",
 "web": "https://rcpilnevcelky.cz"
 },
+"detska-skupina-piskle-ds02298": {
+"duvod": "",
+"final": "https://dspiskle.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Pískle - školka jesle děti hlídání",
+"web": "https://dspiskle.cz"
+},
 "detska-skupina-plaminek-repy-ds02187": {
 "duvod": "",
 "final": "https://dsrepy.cz",
@@ -4472,6 +4956,22 @@
 "titulek": "PLUMLOVÁČEK – Dětská skupina při MŠ Plumlov",
 "web": "https://plumlovacek.msplumlov.cz"
 },
+"detska-skupina-pod-duhou-2-ds02170": {
+"duvod": "",
+"final": "https://www.podduhou.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školička Pod duhou",
+"web": "https://www.podduhou.cz"
+},
+"detska-skupina-pod-duhou-ds02169": {
+"duvod": "",
+"final": "https://www.podduhou.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školička Pod duhou",
+"web": "https://www.podduhou.cz"
+},
 "detska-skupina-pohadka-berusky-ds11023": {
 "duvod": "",
 "final": "https://www.mspohadka-melnik.cz/",
@@ -4479,6 +4979,14 @@
 "shoda": "psc",
 "titulek": "MŠ Pohádka Mělník",
 "web": "https://mspohadka-melnik.cz"
+},
+"detska-skupina-pohadka-ds02034": {
+"duvod": "",
+"final": "https://www.dspohadka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina pro děti od 1,5 roku do 4 let",
+"web": "https://www.dspohadka.cz"
 },
 "detska-skupina-pohadka-pro-wlastovku-ds00356": {
 "duvod": "cizi",
@@ -4532,6 +5040,14 @@
 "shoda": "ico",
 "titulek": "Dětská skupina Potůček - Rodinné centrum Studánka, z.s.",
 "web": "https://studanka-tisnov.cz/pece-o-deti/detska-skupina-potucek"
+},
+"detska-skupina-poupatka-ds01552": {
+"duvod": "",
+"final": "https://www.poupatka.com",
+"ok": true,
+"shoda": "psc",
+"titulek": "www.poupatka.cz",
+"web": "https://www.poupatka.com"
 },
 "detska-skupina-poupatka-ds02331": {
 "duvod": "",
@@ -4707,6 +5223,22 @@
 "shoda": "ico",
 "titulek": "Dětská skupina \"První slova\" | Prostor Pro Rodinu",
 "web": "https://prostorprorodinu.cz/detska-skupina-prvni-slova"
+},
+"detska-skupina-puntik-ds00551": {
+"duvod": "",
+"final": "https://skolkapuntik.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "skolkapuntik.cz | Oficiální web Školky Špuntík, která provozuje dvě dětské skupiny – Puntík a Trempík v Blatné. Dozvíte ",
+"web": "https://skolkapuntik.cz"
+},
+"detska-skupina-pupalek-ds00261": {
+"duvod": "",
+"final": "https://pupalek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Pupálek | V naší miniškolce podporujeme děti v poznávání světa všemi smysly. Ke každému dítěti přistupuje",
+"web": "https://pupalek.cz"
 },
 "detska-skupina-pytel-blech-v-mesicke-i-ds01746": {
 "duvod": "bez-shody",
@@ -4902,6 +5434,14 @@
 "titulek": "ROSY – Miniškolka – dětská skupina Ostrava, Karviná",
 "web": "https://rosyostrava.cz"
 },
+"detska-skupina-rozarka-ds10751": {
+"duvod": "",
+"final": "https://dsrozarka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Domu",
+"web": "https://dsrozarka.cz"
+},
 "detska-skupina-rozesmate-decko-ds00559": {
 "duvod": "",
 "final": "https://www.rozesmatedecko.cz/",
@@ -4925,6 +5465,14 @@
 "shoda": "psc",
 "titulek": "dsrybickastraznice",
 "web": "https://dsrybickastraznice.webnode.cz"
+},
+"detska-skupina-rybicky-ds00597": {
+"duvod": "",
+"final": "https://www.dsrybicky.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "dsrybicky.cz",
+"web": "https://www.dsrybicky.cz"
 },
 "detska-skupina-rybicky-ds11201": {
 "duvod": "chyba: <urlopen error timed out>",
@@ -4981,6 +5529,14 @@
 "titulek": "O sovičkách - Senohrabské sovičky",
 "web": "https://senohrabskesovicky.cz"
 },
+"detska-skupina-severacci-ds10990": {
+"duvod": "",
+"final": "https://ds-severacci.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "DS Severáčci - Dětská skupina ve Varnsdorfu",
+"web": "https://ds-severacci.cz"
+},
 "detska-skupina-shining-smile-dobrejovice-ds10963": {
 "duvod": "",
 "final": "https://shiningsmile.cz/cs/",
@@ -5029,6 +5585,30 @@
 "titulek": "Mateřská škola a Základní škola ŠKOLAMYŠL, š.p.o.",
 "web": "https://skolamysl.cz"
 },
+"detska-skupina-skolicka-keltickova-ds02088": {
+"duvod": "",
+"final": "https://www.skolickakeltickova.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školička Keltičkova",
+"web": "https://www.skolickakeltickova.cz"
+},
+"detska-skupina-skolicka-krasna-i-ds00306": {
+"duvod": "",
+"final": "https://www.skolickakrasna.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Školička Krásná – Dětská skupina v Košířích",
+"web": "https://www.skolickakrasna.cz"
+},
+"detska-skupina-skolicka-krasna-ii-ds00882": {
+"duvod": "",
+"final": "https://www.skolickakrasna.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Školička Krásná – Dětská skupina v Košířích",
+"web": "https://www.skolickakrasna.cz"
+},
 "detska-skupina-skolicka-na-farme-bohumin-ds02355": {
 "duvod": "",
 "final": "https://skolickanafarme-bohumin.cz",
@@ -5076,6 +5656,30 @@
 "shoda": "ulice",
 "titulek": "Školička Pod Vyšehradem",
 "web": "https://skolickapodvysehradem.cz"
+},
+"detska-skupina-skolicka-sedlec-ds01711": {
+"duvod": "",
+"final": "https://www.skolickasedlec.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Školička Sedlec",
+"web": "https://www.skolickasedlec.cz"
+},
+"detska-skupina-skolicka-zahrada-ds01271": {
+"duvod": "",
+"final": "https://skolickazahrada.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Skolicka Zahrada",
+"web": "https://skolickazahrada.cz"
+},
+"detska-skupina-skolka-kostik-ds10298": {
+"duvod": "",
+"final": "https://skolkakostik.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Školka kostík - Školka Kostík",
+"web": "https://skolkakostik.cz"
 },
 "detska-skupina-skolka-na-hrazi-ds00588": {
 "duvod": "",
@@ -5139,6 +5743,30 @@
 "shoda": "ico",
 "titulek": "Dětská skupina Skřítkové Žebrák",
 "web": "https://skritkove.cz"
+},
+"detska-skupina-slonik-i-ds01991": {
+"duvod": "",
+"final": "https://www.ds-slonik.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "DS Sloník – hlavní stránka 2026 - ds-slonik.cz",
+"web": "https://www.ds-slonik.cz"
+},
+"detska-skupina-slonik-ii-ds01992": {
+"duvod": "",
+"final": "https://www.ds-slonik.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "DS Sloník – hlavní stránka 2026 - ds-slonik.cz",
+"web": "https://www.ds-slonik.cz"
+},
+"detska-skupina-slovanka-ds10283": {
+"duvod": "",
+"final": "https://www.skolkaslovanka.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Školka Slovanka - dětská skupina Slovanka, Stochov",
+"web": "https://www.skolkaslovanka.cz"
 },
 "detska-skupina-slunecnice-ds00428": {
 "duvod": "",
@@ -5314,6 +5942,22 @@
 "shoda": "psc",
 "titulek": "Dětská skupina Sluníčko Nepomuk – Mateřská škola Nepomuk",
 "web": "https://msnepomuk.cz/detska-skupina-slunicko-nepomuk"
+},
+"detska-skupina-slunickov-ds00914": {
+"duvod": "",
+"final": "https://slunickov.com",
+"ok": true,
+"shoda": "psc",
+"titulek": "Hlavní stránka · Dětská skupina Sluníčkov",
+"web": "https://slunickov.com"
+},
+"detska-skupina-slunickova-ds02094": {
+"duvod": "",
+"final": "https://www.slunickova.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Sluníčková školička",
+"web": "https://www.slunickova.cz"
 },
 "detska-skupina-smaragdovy-cap-ds10487": {
 "duvod": "",
@@ -5602,6 +6246,14 @@
 "shoda": "",
 "web": "https://kc12.cz/snehurka"
 },
+"detska-skupina-snilkov-ds01532": {
+"duvod": "",
+"final": "https://www.dssnilkov.cz/cs/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Snílkov - MŠ Repinova, Ostrava | Dětská skupina Snílkov - MŠ Repinova, Ostrava",
+"web": "https://www.dssnilkov.cz"
+},
 "detska-skupina-sokolik-ds00628": {
 "duvod": "bez-shody",
 "final": "https://www.sokolikberoun.cz/",
@@ -5616,6 +6268,14 @@
 "opak": 1,
 "shoda": "",
 "web": "https://obec-okrouhlice.cz/detska-skupina-soptik/ds-2957"
+},
+"detska-skupina-souhvezdi-ds02255": {
+"duvod": "",
+"final": "https://www.dssouhvezdi.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "DS Souhvězdí",
+"web": "https://www.dssouhvezdi.cz"
 },
 "detska-skupina-sovicka-ds00699": {
 "duvod": "bez-shody",
@@ -5640,6 +6300,14 @@
 "shoda": "ulice",
 "titulek": "Dětská skupina Sovička",
 "web": "https://sovickamost.cz"
+},
+"detska-skupina-sovicka-ds01143": {
+"duvod": "",
+"final": "http://dssovicka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Sovička – Dopravní vzdělávací institut, a.s.",
+"web": "http://dssovicka.cz"
 },
 "detska-skupina-sovicka-ds01659": {
 "duvod": "",
@@ -5679,6 +6347,22 @@
 "opak": 1,
 "shoda": "",
 "web": "https://obeclovcice.cz/fotogalerie-detske-skupiny-sovicky/ms-12724/p1_12724"
+},
+"detska-skupina-spalicek-24-ds01571": {
+"duvod": "",
+"final": "https://www.dsspalicek.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětské skupiny Špalíček – Nový web - Dětské skupiny Špalíček",
+"web": "https://www.dsspalicek.cz"
+},
+"detska-skupina-spalicek-ds00360": {
+"duvod": "",
+"final": "https://www.dsspalicek.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětské skupiny Špalíček – Nový web - Dětské skupiny Špalíček",
+"web": "https://www.dsspalicek.cz"
 },
 "detska-skupina-speak-n-play-ds02256": {
 "duvod": "bez-shody",
@@ -5727,6 +6411,14 @@
 "shoda": "ico",
 "titulek": "Sporťáček - Mateřské centrum Karlovy Vary",
 "web": "https://materske-centrum.cz/sportacek"
+},
+"detska-skupina-spunti-ds01680": {
+"duvod": "",
+"final": "https://www.ds-spunti.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Špunti v Černíně u Zdic",
+"web": "https://www.ds-spunti.cz"
 },
 "detska-skupina-spuntici-ds01761": {
 "duvod": "",
@@ -5808,6 +6500,14 @@
 "titulek": "Školka pro štěňátka Praha",
 "web": "https://pandicky.cz/skolka-pro-stenatka-praha"
 },
+"detska-skupina-stepanek-ds01983": {
+"duvod": "",
+"final": "https://dsstepanek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Štěpánek",
+"web": "https://dsstepanek.cz"
+},
 "detska-skupina-strapata-smecka-ds02350": {
 "duvod": "",
 "final": "https://strapatasmecka.cz",
@@ -5880,6 +6580,22 @@
 "titulek": "Základní škola a mateřská škola Stěžery",
 "web": "https://zsmsstezery.cz/detska-skupina.htm"
 },
+"detska-skupina-sykorky-ds00197": {
+"duvod": "",
+"final": "https://dssykorky.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Dětská skupina Sýkorky | Další web používající WordPress",
+"web": "https://dssykorky.cz"
+},
+"detska-skupina-sympatie-ds02299": {
+"duvod": "",
+"final": "https://ds-sympatie.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupinka Sympatie | Skupinka pro děti ve Šternberku",
+"web": "https://ds-sympatie.cz"
+},
 "detska-skupina-targevacek-kladno-ds10804": {
 "duvod": "",
 "final": "https://www.targevacek.cz/detska-skupina-kladno/",
@@ -5943,6 +6659,22 @@
 "shoda": "psc",
 "titulek": "Dětská skupina Tlapička – YMCA Starý Plzenec",
 "web": "https://ymcastaryplzenec.cz/detska-skupina-tlapicka"
+},
+"detska-skupina-tomik-ds01257": {
+"duvod": "",
+"final": "https://detskaskupinatomik.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Tomík - jesle pro děti od 1 do 3 let, Týniště nad Orlicí",
+"web": "https://detskaskupinatomik.cz"
+},
+"detska-skupina-trebesacek-ds10763": {
+"duvod": "",
+"final": "https://www.trebesacek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "DS Třebešáček - Oficiální stránky Dětská skupina Třebešáček",
+"web": "https://www.trebesacek.cz"
 },
 "detska-skupina-tree-of-life-ds00935": {
 "duvod": "",
@@ -6096,6 +6828,14 @@
 "titulek": "Dětská skupina Úžasňákov – v Hlučíně",
 "web": "https://uzasnakov.family"
 },
+"detska-skupina-uzasnakov-ds01467": {
+"duvod": "",
+"final": "https://www.uzasnakov.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Úžasňákov – v Ostravě-Porubě",
+"web": "https://www.uzasnakov.cz"
+},
 "detska-skupina-v-chaloupce-1-ds11029": {
 "duvod": "",
 "final": "https://www.obecvraclav.cz/detske-skupiny-v-chaloupce-vraclav",
@@ -6201,6 +6941,14 @@
 "shoda": "psc",
 "titulek": "Daycare center in Prague 6 - Dragon Kindergartens",
 "web": "https://dragon-kindergartens.com/detska-skupina-velci-dracci"
+},
+"detska-skupina-velisek-ds01961": {
+"duvod": "",
+"final": "http://dsvelisek.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Domu",
+"web": "http://dsvelisek.cz"
 },
 "detska-skupina-vesela-skolicka-zuzanka-kobylnice-ds01655": {
 "duvod": "",
@@ -6354,6 +7102,14 @@
 "titulek": "Dětská skupina Vilík - Oficiální stránky Sociálních služeb Chomutov",
 "web": "https://soschomutov.cz/sluzby/detske-skupiny/detska-skupina-vilik"
 },
+"detska-skupina-vlcaci-ds02335": {
+"duvod": "",
+"final": "https://www.detskaskupinavlcaci.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "detskaskupinavlcaci",
+"web": "https://www.detskaskupinavlcaci.cz"
+},
 "detska-skupina-vlnka-2-ds01220": {
 "duvod": "",
 "final": "https://dcvlnka.cz",
@@ -6494,6 +7250,14 @@
 "titulek": "DS Waldík",
 "web": "https://dswaldik.cz"
 },
+"detska-skupina-wantici-ds02338": {
+"duvod": "",
+"final": "https://dswantici.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "úvod - DsWantici",
+"web": "https://dswantici.cz"
+},
 "detska-skupina-wonderspace-ds10592": {
 "duvod": "bez-shody",
 "final": "https://www.wonderspaceprague.com/",
@@ -6519,6 +7283,14 @@
 "shoda": "ico",
 "titulek": "Skupina Sluníčko – Tlučná – YMCA Plzeň z.s.",
 "web": "https://ymcaplzen.cz/skupina-slunicko"
+},
+"detska-skupina-za-potokem-ds01936": {
+"duvod": "",
+"final": "https://www.zapotokem.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Lesní mateřská škola Za potokem",
+"web": "https://www.zapotokem.cz"
 },
 "detska-skupina-zabicky-ds01681": {
 "duvod": "",
@@ -6686,6 +7458,14 @@
 "titulek": "Želvičky , Mateřská škola Měšice",
 "web": "https://msmesice.cz/zelvicky-a1576"
 },
+"detska-skupina-zemekoule-ds01842": {
+"duvod": "",
+"final": "https://www.dszemekoule.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "dszemekoule.cz",
+"web": "https://www.dszemekoule.cz"
+},
 "detska-skupina-zenklovka-ds10680": {
 "duvod": "",
 "final": "https://www.mszenklovka.cz/",
@@ -6693,6 +7473,14 @@
 "shoda": "psc",
 "titulek": "Úvod - Mateřská škola Zenklovka",
 "web": "https://mszenklovka.cz"
+},
+"detska-skupina-zizala-ds10051": {
+"duvod": "",
+"final": "https://www.ds-zizala.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Dětská skupina Žížala – Místo, kde se děti cítí bezpečně",
+"web": "https://www.ds-zizala.cz"
 },
 "detska-skupina-zizalky-ds01791": {
 "duvod": "",
@@ -6719,6 +7507,22 @@
 "titulek": "DS Seifertova",
 "web": "https://cimburacka.cz/detska-skupina-zizkovska-skolicka-iii-seifertova-51"
 },
+"detska-skupina-zlaticka-ds00910": {
+"duvod": "",
+"final": "https://dszlaticka.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Zlatíčka – dětská skupina",
+"web": "https://dszlaticka.cz"
+},
+"detska-skupina-zs-masarykova-2-ds01985": {
+"duvod": "",
+"final": "https://zsmasarykova.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "ZŠ Masarykova Valašské Meziříčí – Základní škola s prvky Montessori",
+"web": "https://zsmasarykova.cz"
+},
 "detska-skupina-zvidalek-ds02002": {
 "duvod": "",
 "final": "https://www.zvidaleksardice.cz/",
@@ -6726,6 +7530,14 @@
 "shoda": "ulice",
 "titulek": "www.zvidaleksardice.cz",
 "web": "https://zvidaleksardice.cz"
+},
+"detska-skupina-zvidalek-ds10047": {
+"duvod": "",
+"final": "https://www.dszvidalek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "dszvidalek",
+"web": "https://www.dszvidalek.cz"
 },
 "detska-skupina-zvidavy-skolacek-i-ds02167": {
 "duvod": "",
@@ -6895,6 +7707,14 @@
 "titulek": "Jesličky Pianko",
 "web": "https://jeslickypianko.cz"
 },
+"kids-garden-detska-skupina-ds10783": {
+"duvod": "",
+"final": "https://kidsgarden.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Anglická soukromá školka Brno | Kids Garden",
+"web": "https://kidsgarden.cz"
+},
 "klicek-detska-skupina-ds00624": {
 "duvod": "",
 "final": "https://www.klicekds.cz/",
@@ -6934,6 +7754,14 @@
 "shoda": "psc",
 "titulek": "Dětská skupina Kopretina :: dětská skupina jemnice",
 "web": "https://detska-skupina-jemnice.webnode.cz/detska-skupina-kopretina"
+},
+"kosticka-detska-skupina-ds01047": {
+"duvod": "",
+"final": "https://www.dskosticka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "ÚVOD | DS KOSTICKA",
+"web": "https://www.dskosticka.cz"
 },
 "kouzelna-montessori-skolicka-detska-skupina-ds00619": {
 "duvod": "",
@@ -12685,6 +13513,14 @@
 "titulek": "Montessori školka a miniškolka Jonáš v Praze",
 "web": "https://montessori-skolka-praha.cz"
 },
+"montysek-detska-skupina-z-s-ds01107": {
+"duvod": "",
+"final": "https://www.montysek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Montýsek",
+"web": "https://www.montysek.cz"
+},
 "moudrohrani-detska-skupina-ds01245": {
 "duvod": "",
 "final": "https://www.moudrohrani.cz/",
@@ -13042,6 +13878,22 @@
 "shoda": "ico",
 "titulek": "montessorivlasim.cz – Montessori Vlašim",
 "web": "https://montessorivlasim.cz"
+},
+"spravna-skolka-detska-skupina-1-ds10334": {
+"duvod": "",
+"final": "https://www.spravnaskolka.com",
+"ok": true,
+"shoda": "psc",
+"titulek": "www.spravnaskolka.com",
+"web": "https://www.spravnaskolka.com"
+},
+"spravna-skolka-detska-skupina-2-ds10581": {
+"duvod": "",
+"final": "https://www.spravnaskolka.com",
+"ok": true,
+"shoda": "psc",
+"titulek": "www.spravnaskolka.com",
+"web": "https://www.spravnaskolka.com"
 },
 "sqs-vzdelavaci-centrum-detska-skupina-saurus-ds01170": {
 "duvod": "",
