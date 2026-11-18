@@ -1,4 +1,47 @@
 {
+"detska-skupina-bambulky-ds02236": [
+{
+"alt": "gallery",
+"barva": "#aaa89a",
+"dh": "9fc3c7d4f48e0fcf",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EACIQAAICAgIABwAAAAAAAAAAAAECAxEABBIhEyIxUXGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AO3Ogin4xOaq7BzMbUJB5zi+RHbZJNpbCup3JVf2CdAfWPAjApAB8DMKpWJ5bZGjVbrzAn9xkyCRFCpIwUegBxgf/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsbambulky.cz/galerie.php",
+"typ": "interier",
+"url": "https://dsbambulky.cz/assets/images/gallery/b5.jfif",
+"w": 1200
+},
+{
+"alt": "gallery",
+"barva": "#adab9e",
+"dh": "1038307244283446",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsbambulky.cz/galerie.php",
+"typ": "interier",
+"url": "https://dsbambulky.cz/assets/images/gallery/b6.jfif",
+"w": 1200
+},
+{
+"alt": "gallery",
+"barva": "#978a77",
+"dh": "cec9c9b7cb4945ad",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dsbambulky.cz/galerie.php",
+"typ": "hygiena",
+"url": "https://dsbambulky.cz/assets/images/gallery/a_wc2.jfif",
+"w": 1200
+}
+],
 "detska-skupina-elanek-horovice-zelena-ds01340": [
 {
 "alt": "",
@@ -40,6 +83,23 @@
 "typ": "interier",
 "url": "https://elanek.cz/uploads/fotky-skolky/1793707780.jpeg",
 "w": 900
+}
+],
+"detska-skupina-klubicek-rosice-2-ds01853": [
+{
+"alt": "",
+"barva": "#94827a",
+"dh": "72b12c4a49991371",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAkEAACAQMCBgMAAAAAAAAAAAABAgMABBEhQQUSExRRYSQyQv/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAACAQMRIf/aAAwDAQACEQMRAD8A1vx63MbdzbmMH6gEEnzUJdQxtmGF5i2pwOXTYa0st4JYmDz9MAfmMYA9+6sS965Lq7MuxahDaazUyLrcGq3kPKPiNGd1IzRS3uG8miqDD//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.klubicek.cz/",
+"typ": "interier",
+"url": "https://www.klubicek.cz/assets/branches/rosice/images/IMG_0093.webp",
+"w": 1200
 }
 ],
 "detska-skupina-mravenecek-ds00804": [
@@ -95,6 +155,113 @@
 "stranka": "https://www.skolka-mravenecek.cz/galerie/",
 "typ": "zahrada",
 "url": "https://www.skolka-mravenecek.cz/wp-content/uploads/2026/01/277ee71b-b3da-4172-ab74-f586bcda8e2b.jpeg",
+"w": 1200
+}
+],
+"detska-skupina-nejkrasnejsi-svet-1-ds00870": [
+{
+"alt": "",
+"barva": "#81776a",
+"dh": "24b4b4e1c9392c0c",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMFAQIE/8QAIhAAAgEEAgIDAQAAAAAAAAAAAQIDAAQRIRIxQVEFEyIj/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBMf/aAAwDAQACEQMRAD8AdBZcbq6hwP5ryGa0ePlbOxUKAPXe6nXnyN0LmWSAwyrMoBYA5x3TbFrwSIs7/ZG6YAXJxvXdTTNUmtcY4469UVi5gmSYh7qRD6CiirgmpNvwAYgDloDVOjlaGZGAbHLBx6rgjdlnjAYgFhkZqg/64Zz3415rHM1rc4oylpHLNs0UJsbopqY//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.nejkrasnejsisvet.eu/kopie-z-denni-harmonogram/",
+"typ": "interier",
+"url": "https://be2570a95d.clvaw-cdnwnd.com/9efa62e2fea417a0e3deab2a51960140/200000052-bfe27bfe28/340440955_1415899159213191_5834813415743522700_n.jpeg?ph=be2570a95d",
+"w": 900
+}
+],
+"detska-skupina-smilovice-havranik-ds10980": [
+{
+"alt": "",
+"barva": "#577192",
+"dh": "1f3fd9d9e70c0a0e",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EACIQAAICAQQBBQAAAAAAAAAAAAECAxEABBITUSEiMmKBkv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABkRAAIDAQAAAAAAAAAAAAAAAAASAQJBE//aAAwDAQACEQMRAD8A6yCDTTLHqAy2LLAXt6sYbUSaYTbIw7i65AvpH3gI5VnBJdz2GObMabfCuB8WzS9sILGiGWEGuaP9ZYMmA+42ezd5Y9LAkH//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkasmilovice.cz/galerie/",
+"typ": "budova",
+"url": "https://skolkasmilovice.cz/wp-content/uploads/2026/05/budova.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#857d72",
+"dh": "0b07130903078303",
+"h": 900,
+"jistota": 0.994,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkasmilovice.cz/galerie/",
+"typ": "interier",
+"url": "https://skolkasmilovice.cz/wp-content/uploads/2026/05/kuchyn.jpeg",
+"w": 1200
+}
+],
+"detska-skupina-spectrum-care-ds02007": [
+{
+"alt": "child",
+"barva": "#aaacaa",
+"dh": "783a5b4ae6aebcf4",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAgEAABBAICAwEAAAAAAAAAAAABAAIDEQQhEkEFIjHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8AfvZE1nuW1fYUJx4SQ4BnE7BBpLcrPmikka0ggV9G/hP4lj/K5E8Ie46PL110Fi41to4w0ttpNX2hUMSCKbEhe9gJ4ir3SEwcj2//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.spectrumcare.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/6662fab318a142234608801f/666af8289220c39611f1fd15_skolka20230904-01587.jpg",
+"w": 1200
+},
+{
+"alt": "kids",
+"barva": "#a9a299",
+"dh": "626272327260b123",
+"h": 533,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.spectrumcare.cz/",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/6662fab318a142234608801f/666ef44fe0eb36884db2b0af_6669bc966f12beac8b7327cb_skolka20230904-01604-p-800.jpg",
+"w": 800
+}
+],
+"detska-skupina-teddy-iv-ds01326": [
+{
+"alt": "",
+"barva": "#745f56",
+"dh": "0f89a9a9480e0309",
+"h": 797,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAG/8QAIhAAAgICAgAHAAAAAAAAAAAAAQIDEQAEEyEFFCJBUbHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAAxAQIRYf/aAAwDAQACEQMRAD8AG5XjPoF9dCrvE9SbWmk1lnkKBq5CQVo12PrDdcXRJuvbFNKNNvZh15Y0KvS2V7Aw6sa8iHlPDpO0ERHyZP3LM9v6CJuSJG7qqmgLvLF3gUJn/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.teddy-ricany.cz/",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/f8abd9_acdf071a47074e4da5641aa585e55cea.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#94846d",
+"dh": "1c3aa30e38a8e9f3",
+"h": 797,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.teddy-ricany.cz/",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/f8abd9_c6c5e0e274c645cfaf83fec017225f14.jpg",
 "w": 1200
 }
 ],
