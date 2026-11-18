@@ -1,9 +1,2 @@
-[11:45:22] Část 7/20: webů 173, hotovo 214, zbývá 5
-[11:45:27] https://emily4life.webnode.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
-[11:45:30] https://www.miksicek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
-[11:45:36] https://klokajda.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 6 fotek ke kontrole
-[11:45:55] https://dspavucinka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 44 obrázků, 20 fotek ke kontrole
-[11:47:15] https://dsmakovicka.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 56 obrázků, 35 fotek ke kontrole
-[11:47:28] tříděno 0/66
-[11:47:35] Dávka 1: hotovo 219/173, se fotkami 70; {'ok': 10, 'lide': 6, 'jine': 31, 'sablona': 0}
-[11:47:35] Konec: školek s fotkami 70; {'ok': 10, 'lide': 6, 'jine': 31, 'sablona': 0}
+[12:06:53] Část 7/20: webů 173, hotovo 219, zbývá 0
+[12:06:53] Konec: školek s fotkami 70; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
