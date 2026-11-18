@@ -940,6 +940,36 @@
 "w": 700
 }
 ],
+"materska-skola-kamenacek-kamenny-ujezd-089548": [
+{
+"alt": "foto",
+"barva": "#747f85",
+"dh": "7a58ff9c9d1d13e0",
+"h": 900,
+"jistota": 0.983,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACIQAAMAAQQCAgMAAAAAAAAAAAECAwAEBREhEhYyRGGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMREv/aAAwDAQACEQMRAD8A0tZusIXppwL0ZG4PhPnvM228aWVSTG6kj4sgH9yOLx07lmFWJbz6IGVttC7my2c0ivHXBBJxK2SYXWhfY4r0unYj8kYY3qsT9mv6GGY56XJ//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kamennyujezd.cz/materska-skola-detske-skupiny/ms-kamenacek/dokumenty-ms/",
+"typ": "budova",
+"url": "https://www.kamennyujezd.cz/data/template_custom_fields/28_cs_fb-img-1775627270372.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7b8284",
+"dh": "230202e0b0980c56",
+"h": 900,
+"jistota": 0.992,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.kamennyujezd.cz/materska-skola-detske-skupiny/ds-kamenacek/fotogalerie-ds/ds-budova-167cs.html",
+"typ": "budova",
+"url": "https://www.kamennyujezd.cz/evt_image.php?img=5124",
+"w": 1200
+}
+],
 "materska-skola-kralupy-nad-vltavou-513498": [
 {
 "alt": "Nové šatničky Žlutá třída ",
@@ -1667,6 +1697,36 @@
 "typ": "interier",
 "url": "https://bc6a6b959a.clvaw-cdnwnd.com/6beb96bf56388433a89665467a917b92/200003268-911c8911c9/700/20240826_165120.jpeg?ph=bc6a6b959a",
 "w": 700
+}
+],
+"ms-bitovcice-094177": [
+{
+"alt": "",
+"barva": "#85898b",
+"dh": "0fd9374e9a1b374a",
+"h": 597,
+"jistota": 0.991,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACgAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAgEAACAQMFAQEAAAAAAAAAAAABAgADESEEBRJRUpGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESAv/aAAwDAQACEQMRAD8Aoo7uKrELQYEC+WsPyZV3dwxVEzxLAu9xfrE4829H7AdvR+xroRErb9rL501AHq5iV3PcRpkiP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.bitovcice.cz/obec/materska-skola/fotogalerie/skolka-23cs.html",
+"typ": "budova",
+"url": "https://www.bitovcice.cz/data/headerfooter/header_images/img20220912144901o.jpg",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#707047",
+"dh": "6a83c6c6d677efcc",
+"h": 1000,
+"jistota": 0.981,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.bitovcice.cz/obec/materska-skola/fotogalerie/skolka-23cs.html",
+"typ": "budova",
+"url": "https://www.bitovcice.cz/evt_image.php?img=692",
+"w": 750
 }
 ],
 "ms-duhovka-006286": [
