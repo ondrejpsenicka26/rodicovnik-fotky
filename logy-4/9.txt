@@ -1,2 +1,19 @@
-[08:51:31] Část 10/20: webů 146, hotovo 173, zbývá 0
-[08:51:31] Konec: školek s fotkami 42; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[09:22:17] Část 10/20: webů 161, hotovo 173, zbývá 15
+[09:22:32] https://mssilhova.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 4 fotek ke kontrole
+[09:22:41] https://mslysovice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[09:22:46] https://mskrasno.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 12 fotek ke kontrole
+[09:22:55] https://mstvorihraz.webnode.cz: 19 stránek (galerie mimo web: 1 ['mstvorihraz.rajce.idnes.cz'], alb: 0), 36 obrázků, 6 fotek ke kontrole
+[09:23:06] https://ms-zdislava.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 3 fotek ke kontrole
+[09:23:07] https://msmedloviceuh.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 10 fotek ke kontrole
+[09:23:07] https://skolka-vazany.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 398 obrázků, 5 fotek ke kontrole
+[09:23:10] https://zsmsjavornik.cz: 23 stránek (galerie mimo web: 33 ['ms-javornik.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 5), 17 obrázků, 8 fotek ke kontrole
+[09:23:10] https://zsmsvanovice.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 2 fotek ke kontrole
+[09:23:14] https://msholandskazn.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 49 obrázků, 3 fotek ke kontrole
+[09:23:23] https://msvora.cz: 18 stránek (galerie mimo web: 3 ['msvora.rajce.idnes.cz', 'vora.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 2), 106 obrázků, 20 fotek ke kontrole
+[09:23:28] https://skolkakyjov.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 170 obrázků, 32 fotek ke kontrole
+[09:23:32] https://ms.cucice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 1 fotek ke kontrole
+[09:23:38] https://zsmskostelec.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 360 obrázků, 0 fotek ke kontrole
+[09:24:02] https://mssvetluska.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 10 fotek ke kontrole
+[09:24:19] tříděno 0/116
+[09:24:36] Dávka 1: hotovo 188/161, se fotkami 47; {'ok': 9, 'lide': 6, 'jine': 82, 'sablona': 0}
+[09:24:36] Konec: školek s fotkami 47; {'ok': 9, 'lide': 6, 'jine': 82, 'sablona': 0}
