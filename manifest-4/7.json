@@ -1146,6 +1146,49 @@
 "w": 1000
 }
 ],
+"materska-skola-na-paloucku-015315": [
+{
+"alt": "",
+"barva": "#90765e",
+"dh": "3cf0b6ba596d251e",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACMQAAICAgAFBQAAAAAAAAAAAAECAxEABAUTISIxEjRBgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8AskdFmlSNQBG3pJuwTV9MzZuIRhjG8VzX0RjQv4vKdWNp9JHDMkjMeUWUH6/MRs8JWw+w1uT3Mo85Byp9LJKhmtv6pj9rRvqFXxhkUuhHJIz81+43hi2HB//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mshorova.cz/tridy",
+"typ": "interier",
+"url": "https://www.mshorova.cz/uploads/classes/classes_20260916_27b5790677f8.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9e7967",
+"dh": "820c34342648c900",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mshorova.cz/tridy",
+"typ": "interier",
+"url": "https://www.mshorova.cz/uploads/classes/classes_20260916_0c1e4d84475e.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#79718c",
+"dh": "162d25010797ba4d",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mshorova.cz/tridy",
+"typ": "hygiena",
+"url": "https://www.mshorova.cz/uploads/classes/classes_20260916_cf795996769b.jpg",
+"w": 1200
+}
+],
 "materska-skola-namest-nad-oslavou-husova-611414": [
 {
 "alt": "",
@@ -1320,6 +1363,62 @@
 "typ": "zahrada",
 "url": "https://msradomysl.cz/wp-content/uploads/radomysl-2.jpeg",
 "w": 1124
+}
+],
+"materska-skola-srdicko-opava-628821": [
+{
+"alt": "",
+"barva": "#8c8088",
+"dh": "dbddfbf373777f7f",
+"h": 768,
+"jistota": 0.617,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABBEhBRIjMWFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAMAAwAAAAAAAAAAAAAAAAABAhESQf/aAAwDAQACEQMRAD8AxztrIt2XiiJRmyvXY+RScLM7Zjjc+9iuiiAC3WNt6390tfjYIgRGmATn3mtqxJ8IV4bjufE35RVg9kvbVFDdlk//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-zborovska.cz/tax-stitek-fotogalerie/prirodni-zahrada/",
+"typ": "interier",
+"url": "https://www.ms-zborovska.cz/wp-content/uploads/2021/09/2021-09-22-16.02.59.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#6f7362",
+"dh": "46170e4e6c7462c8",
+"h": 768,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-zborovska.cz/tax-stitek-fotogalerie/prirodni-zahrada/",
+"typ": "zahrada",
+"url": "https://www.ms-zborovska.cz/wp-content/uploads/2021/09/2021-09-22-16.01.52.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#7d7c6f",
+"dh": "1c4c4cc1d3323480",
+"h": 768,
+"jistota": 0.848,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.ms-zborovska.cz/tax-stitek-fotogalerie/prirodni-zahrada/",
+"typ": "les",
+"url": "https://www.ms-zborovska.cz/wp-content/uploads/2021/09/2021-09-22-15.58.31.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#677e75",
+"dh": "169cc94b73315ac6",
+"h": 768,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.ms-zborovska.cz/tax-stitek-fotogalerie/prirodni-zahrada/",
+"typ": "zahrada",
+"url": "https://www.ms-zborovska.cz/wp-content/uploads/2021/09/2021-09-22-15.59.40.jpg",
+"w": 1024
 }
 ],
 "materska-skola-stankov-540487": [
@@ -1775,6 +1874,62 @@
 "stranka": "https://www.ms-vseruby.cz/fotogalerie/",
 "typ": "interier",
 "url": "https://2081ade725.clvaw-cdnwnd.com/5f8f512c262d4d48916fae086e460b27/200000043-0e3690e36b/ce3f7cf9-a066-4810-a2ff-f1eea5fc2239.jpeg?ph=2081ade725",
+"w": 1200
+}
+],
+"ms-za-branou-pacov-533227": [
+{
+"alt": "",
+"barva": "#aaadac",
+"dh": "c0c08419213e9ace",
+"h": 800,
+"jistota": 0.988,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTcK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBQIG/8QAJBAAAgEEAQIHAAAAAAAAAAAAAQIDAAQREgUxcSFBQlFygcH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAQADAQAAAAAAAAAAAAAAAAACERIB/9oADAMBAAIRAxEAPwCy17Yz4ZrpdB7nGK3FyPH7hUnUgjOfSPuuba6aCR1CqVUjw1HTvV2Tj4HtBdAEBxtpnp2NNSM8Pnk7AHBuIc/OikLbiYZ4FkU6g+RGT+UVLkU//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mszabranou.cz/zahrada-ms/",
+"typ": "budova",
+"url": "https://www.mszabranou.cz/wp-content/gallery/zahrada-ms/IMG_20190618_095233_1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#bcbab7",
+"dh": "3a136c399371370f",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mszabranou.cz/budova-ms/",
+"typ": "interier",
+"url": "https://www.mszabranou.cz/wp-content/gallery/budova-ms/DSC_0958.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#859170",
+"dh": "87dfdcc18e180226",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mszabranou.cz/zahrada-ms/",
+"typ": "zahrada",
+"url": "https://www.mszabranou.cz/wp-content/gallery/zahrada-ms/bazen-a-zahrada.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b6f66",
+"dh": "2323424b488c9c61",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mszabranou.cz/zahrada-ms/",
+"typ": "les",
+"url": "https://www.mszabranou.cz/wp-content/gallery/zahrada-ms/IMG_20190618_093158_1.jpg",
 "w": 1200
 }
 ],
