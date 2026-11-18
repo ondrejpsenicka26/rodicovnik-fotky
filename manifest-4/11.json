@@ -111,6 +111,62 @@
 "w": 1024
 }
 ],
+"detska-skupina-hrave-svetem-ds10965": [
+{
+"alt": "",
+"barva": "#a1835a",
+"dh": "c9c84a92125acb4b",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAiEAACAQQBBAMAAAAAAAAAAAABAgADBBESIQUTMVEiQXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAbEQACAwADAAAAAAAAAAAAAAABAwACESIxUf/aAAwDAQACEQMRAD8AXa6q3FVCz/EMDqvA8zTF6XeszBtqSFirLr9HEWTpoIDrVIwfBGY3bp27zuqTs64PrgGFdcnkDEVpXMyRW/bUbW+D6MJY1WqpwH4/ISh787mCpfk//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://hravesvetem.cz/",
+"typ": "budova",
+"url": "https://hravesvetem.cz/wp-content/uploads/2026/04/retus.png",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a09173",
+"dh": "07475d4d4409c7e7",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://hravesvetem.cz/",
+"typ": "interier",
+"url": "https://hravesvetem.cz/wp-content/uploads/2026/05/1-4.webp",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9d9179",
+"dh": "3cbbcbcade526330",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://hravesvetem.cz/",
+"typ": "interier",
+"url": "https://hravesvetem.cz/wp-content/uploads/2026/05/4-6.webp",
+"w": 1200
+},
+{
+"alt": "Zázemí dětské skupiny",
+"barva": "#a39b8d",
+"dh": "81d3571b9f9f2b2b",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://hravesvetem.cz/index.php/fotogalerie/",
+"typ": "hygiena",
+"url": "https://hravesvetem.cz/wp-content/uploads/2026/05/10-0.webp",
+"w": 1200
+}
+],
 "detska-skupina-jiricky-ds10240": [
 {
 "alt": "",
@@ -296,6 +352,148 @@
 "w": 1200
 }
 ],
+"detska-skupina-pidiskolka-1-ds01396": [
+{
+"alt": "",
+"barva": "#949191",
+"dh": "260a2a2abaf6cd8c",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACYQAAIBAwIEBwAAAAAAAAAAAAECAwAEMRESBSEiQRMUMlFSYZH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AdtrPYpxqTqefet8zA0iLG6AGIs4yQR91FuuITSTso2KqsQOnU02yxyW0SmJR6iT765qjVe28OSIMZc46u1FKWtghgGyWWNfiDyH7RSg1/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://pidiskolka.cz/detska-skupina/",
+"typ": "interier",
+"url": "https://pidiskolka.cz/wp-content/uploads/2025/09/PIdiskolka2025-52-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9f9578",
+"dh": "33b3392b1a30a1b7",
+"h": 576,
+"jistota": 0.98,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://pidiskolka.cz/detska-skupina/",
+"typ": "zahrada",
+"url": "https://pidiskolka.cz/wp-content/uploads/2025/09/PHOTO-2025-09-29-12-36-51.jpg",
+"w": 1024
+},
+{
+"alt": "",
+"barva": "#989290",
+"dh": "989111188ca3a1b3",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://pidiskolka.cz/detska-skupina/",
+"typ": "interier",
+"url": "https://pidiskolka.cz/wp-content/uploads/2025/09/PIdiskolka2025-48-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a6936f",
+"dh": "37f365676d2d65d5",
+"h": 576,
+"jistota": 0.974,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://pidiskolka.cz/detska-skupina/",
+"typ": "zahrada",
+"url": "https://pidiskolka.cz/wp-content/uploads/2025/09/PHOTO-2025-09-29-12-37-19.jpg",
+"w": 1024
+}
+],
+"detska-skupina-sokolik-ds00628": [
+{
+"alt": "",
+"barva": "#bba685",
+"dh": "0f0f93c3ceac8c87",
+"h": 750,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEERITITEFIkFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAGREBAQADAQAAAAAAAAAAAAAAAQAREiEx/9oADAMBAAIRAxEAPwCuLuC0kWMhus+q5rUtysqHUqpz9YdVEhffnIVFAOQGOTz+U+58fNIyGKYKAMMGHdZzxydqhMnJ3W0sNPzABopaxR2o2zluc5LGijUm/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.sokolikberoun.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.sokolikberoun.cz/wp-content/uploads/2024/01/P1160697.JPG.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#b1a47f",
+"dh": "3351338309961b73",
+"h": 750,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.sokolikberoun.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.sokolikberoun.cz/wp-content/uploads/2024/01/P1160701.JPG.jpg",
+"w": 1000
+}
+],
+"detska-skupina-spuntici-ds01761": [
+{
+"alt": "4.jpg",
+"barva": "#e1d6ca",
+"dh": "0040a0909499dc8e",
+"h": 720,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAfEAABAwQDAQAAAAAAAAAAAAABAAIDBBExURIhcUH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARICE2H/2gAMAwEAAhEDEQA/AOmhrY5ap8ABBZ9vnaa5DYUtsDA8PHThftacbnJHhRRmSqiHDYQkRcDJPqFbOMq//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsspuntici.cz/o-nas",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/fd952f_0318104f6d7a4f989eb8eba1744d7b44~mv2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7e826a",
+"dh": "c62c0349691b5be3",
+"h": 900,
+"jistota": 0.989,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dsspuntici.cz/o-nas",
+"typ": "zahrada",
+"url": "https://static.wixstatic.com/media/5670fd_47961ab472cf41eba63dc0d6d29a8fea~mv2.jpeg",
+"w": 1200
+},
+{
+"alt": "vnitřní, o, dětský pokoj",
+"barva": "#d4cfcc",
+"dh": "c5e5d352b4b1bc9c",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dsspuntici.cz/o-nas",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/11062b_b23c7ca28276413bb0e722e2e1500d48~mv2.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7f7e6a",
+"dh": "b999bcd2b2266163",
+"h": 900,
+"jistota": 0.782,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dsspuntici.cz/o-nas",
+"typ": "zahrada",
+"url": "https://static.wixstatic.com/media/5670fd_b38d8334cee5422e93771dead8d03595~mv2.jpeg",
+"w": 1200
+}
+],
 "little-lynx-detska-skupina-ds10150": [
 {
 "alt": "",
@@ -371,6 +569,79 @@
 "typ": "zahrada",
 "url": "https://www.ms-bila.cz/image.php?oid=11213271&nid=21171",
 "w": 1200
+}
+],
+"materska-skola-ceska-trebova-590069": [
+{
+"alt": "",
+"barva": "#9d9998",
+"dh": "2f3f1f17172fd072",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAgEAACAQQCAwEAAAAAAAAAAAABAgMAESExBAUSQWGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQISIUH/2gAMAwEAAhEDEQA/AKHU9kiBldSwY3GbDVNzdrG6OEVxi2Dr1UpI0jt4KMa+Vq4O1GflCngpR6IT8jxkOwDkA7AortL1nEnYM8NyAFFmIx+UU2Jqf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msustadionu.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://www.msustadionu.cz/wp-content/uploads/2026/08/IMG_20260819_143837-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f6353",
+"dh": "79dada78993d1f83",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msustadionu.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.msustadionu.cz/wp-content/uploads/2026/09/IMG_20260831_112546-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c906f",
+"dh": "26a23e2368b86148",
+"h": 900,
+"jistota": 0.939,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msustadionu.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.msustadionu.cz/wp-content/uploads/2026/08/IMG_20260813_112541-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#767057",
+"dh": "21c3c387dedea083",
+"h": 547,
+"jistota": 0.71,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msustadionu.cz/fotogalerie/",
+"typ": "les",
+"url": "https://www.msustadionu.cz/wp-content/uploads/2026/08/IMG_20260826_190028.png",
+"w": 1099
+}
+],
+"materska-skola-helvikovice-589869": [
+{
+"alt": "",
+"barva": "#8a8f6f",
+"dh": "3515c6d1e5e764e4",
+"h": 701,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EACcQAAICAgECBAcAAAAAAAAAAAECAxEABAUSIhMhMTJBUWFxobHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAAMAAwAAAAAAAAAAAAAAAAABAhEiQf/aAAwDAQACEQMRAD8AazT8XENfxi0TmlBPSfxmdfaQ6jxpshO61jDWLFV9Th+ck2BCgZkdy3tUUAPuc4RR8g2tUEaEt5kGvlXqcx2DKHS8w2rIVJRS3dVn++GWFbhtjY6XniBeq94H6yylVdQmz//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "http://mshelvikovice.cz/skolka/",
+"typ": "budova",
+"url": "http://mshelvikovice.cz/wp-content/uploads/2018/11/skolka-e1550486570922.jpg",
+"w": 936
 }
 ],
 "materska-skola-horni-ujezd-586892": [
