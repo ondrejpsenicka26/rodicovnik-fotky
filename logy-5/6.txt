@@ -1,0 +1,23 @@
+[08:15:33] Část 7/8: webů 19, hotovo 0, zbývá 19
+[08:15:38] https://www.velenov.cz: 4 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 1), 0 obrázků, 0 fotek ke kontrole
+[08:15:53] https://www.msvchynice.cz: 7 stránek (galerie mimo web: 1 ['msvchynice.rajce.idnes.cz'], alb: 0), 18 obrázků, 14 fotek ke kontrole
+[08:15:55] https://www.skolaprisnotice.cz: 7 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 1), 1 obrázků, 0 fotek ke kontrole
+[08:15:58] https://materska-skola-pitin.webnode.cz: 5 stránek (galerie mimo web: 1 ['skolkapitin.rajce.idnes.cz'], alb: 5), 5 obrázků, 0 fotek ke kontrole
+[08:16:00] https://www.slunicko-krnov.cz: 3 stránek (galerie mimo web: 1 ['mskcapka.rajce.idnes.cz'], alb: 0), 14 obrázků, 9 fotek ke kontrole
+[08:16:06] https://www.zs.darkovice.cz: 13 stránek (galerie mimo web: 3 ['eu.zonerama.com', 'msdarkovice.rajce.idnes.cz', 'zsdarkovice1.rajce.net'], alb: 1), 4 obrázků, 0 fotek ke kontrole
+[08:16:07] https://mraveniste-prirodni-klub.webnode.cz: 7 stránek (galerie mimo web: 1 ['mravenisteklub.rajce.idnes.cz'], alb: 5), 11 obrázků, 3 fotek ke kontrole
+[08:16:09] https://www.cotkytle.cz: 15 stránek (galerie mimo web: 1 ['cotkytle.rajce.idnes.cz'], alb: 5), 0 obrázků, 0 fotek ke kontrole
+[08:16:11] https://www.cizova.cz: 29 stránek (galerie mimo web: 179 ['eu.zonerama.com', 'infocizova.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 128), 6 obrázků, 4 fotek ke kontrole
+[08:16:17] https://www.msrb.cz: 14 stránek (galerie mimo web: 1 ['msrb.rajce.idnes.cz'], alb: 0), 132 obrázků, 0 fotek ke kontrole
+[08:16:33] https://www.zspodomi.cz: 8 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 2), 27 obrázků, 2 fotek ke kontrole
+[08:16:34] https://www.zszahorovice.cz: 4 stránek (galerie mimo web: 1 ['zszahorovice.rajce.idnes.cz'], alb: 5), 0 obrázků, 0 fotek ke kontrole
+[08:16:40] https://www.zsvsetaty.cz: 24 stránek (galerie mimo web: 8 ['eu.zonerama.com'], alb: 8), 6 obrázků, 1 fotek ke kontrole
+[08:16:42] https://www.skolakraslice.cz: 14 stránek (galerie mimo web: 5 ['eu.zonerama.com', 'www.zonerama.com'], alb: 5), 55 obrázků, 3 fotek ke kontrole
+[08:16:45] https://www.krecovice.cz: 23 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 2), 320 obrázků, 0 fotek ke kontrole
+[08:16:47] https://www.zsmitusova16.cz: 13 stránek (galerie mimo web: 3 ['mitusova16.rajce.idnes.cz', 'smoulove16.rajce.idnes.cz', 'zsmitusova.rajce.idnes.cz'], alb: 0), 17 obrázků, 9 fotek ke kontrole
+[08:17:01] https://www.zslitencice.cz: 25 stránek (galerie mimo web: 1 ['ms-litencice.rajce.idnes.cz'], alb: 5), 646 obrázků, 0 fotek ke kontrole
+[08:17:19] https://www.zschrastice.cz: 29 stránek (galerie mimo web: 33 ['chrastice0910.rajce.idnes.cz', 'chrastice2003.rajce.idnes.cz', 'chrastice2006.rajce.idnes.cz'], alb: 10), 29 obrázků, 8 fotek ke kontrole
+[08:17:31] https://obecvraclav.cz/detske-skupiny-v-chaloupce-vraclav: 24 stránek (galerie mimo web: 3 ['photos.app.goo.gl', 'photos.google.com'], alb: 3), 560 obrázků, 45 fotek ke kontrole
+[08:17:44] tříděno 0/98
+[08:17:49] Dávka 1: hotovo 19/19, se fotkami 3; {'ok': 5, 'lide': 7, 'jine': 84, 'sablona': 0}
+[08:17:49] Konec: školek s fotkami 3; {'ok': 5, 'lide': 7, 'jine': 84, 'sablona': 0}
