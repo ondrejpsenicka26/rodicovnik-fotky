@@ -1,12 +1,7 @@
-[09:54:09] Část 17/20: webů 173, hotovo 197, zbývá 8
-[09:54:35] https://mspohadka.webnode.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 28 obrázků, 0 fotek ke kontrole
-[09:54:55] https://obeckruh.cz/skolka: 4 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 1 fotek ke kontrole
-[09:55:06] https://msgemerska.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 0 fotek ke kontrole
-[09:55:09] https://ms-zacler.cz: 5 stránek (galerie mimo web: 4 ['napiliri.rajce.idnes.cz', 'pohadkams.rajce.idnes.cz'], alb: 1), 80 obrázků, 23 fotek ke kontrole
-[09:55:22] https://skola.obecbuk.eu: 17 stránek (galerie mimo web: 0 [], alb: 0), 161 obrázků, 6 fotek ke kontrole
-[09:55:43] https://mshlusovice.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 303 obrázků, 42 fotek ke kontrole
-[09:55:49] https://zszavisice.cz: 26 stránek (galerie mimo web: 2 ['ms-zavisice.rajce.idnes.cz', 'zszavisice.rajce.idnes.cz'], alb: 1), 65 obrázků, 19 fotek ke kontrole
-[09:55:58] https://skolka.troubelice.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 419 obrázků, 45 fotek ke kontrole
-[09:56:13] tříděno 0/136
-[09:56:32] Dávka 1: hotovo 205/173, se fotkami 52; {'ok': 3, 'lide': 23, 'jine': 110, 'sablona': 0}
-[09:56:32] Konec: školek s fotkami 52; {'ok': 3, 'lide': 23, 'jine': 110, 'sablona': 0}
+[10:15:28] Část 17/20: webů 175, hotovo 205, zbývá 3
+[10:15:37] https://msbudulinek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 3 fotek ke kontrole
+[10:16:07] https://celcice.eu/materska-skola-celcice: 8 stránek (galerie mimo web: 0 [], alb: 0), 245 obrázků, 0 fotek ke kontrole
+[10:16:28] https://skola-velke-losiny.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 386 obrázků, 3 fotek ke kontrole
+[10:16:39] tříděno 0/6
+[10:16:39] Dávka 1: hotovo 208/175, se fotkami 53; {'ok': 1, 'lide': 0, 'jine': 5, 'sablona': 0}
+[10:16:39] Konec: školek s fotkami 53; {'ok': 1, 'lide': 0, 'jine': 5, 'sablona': 0}
