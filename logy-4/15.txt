@@ -1,9 +1,6 @@
-[10:15:29] Část 16/20: webů 163, hotovo 190, zbývá 5
-[10:16:41] https://msslatinky.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 41 obrázků, 10 fotek ke kontrole
-[10:16:46] https://msbylany.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 284 obrázků, 45 fotek ke kontrole
-[10:17:03] https://postrelmuvek.cz/obec/materska-skola-postrelmuvek/informace-o-skole-1: 34 stránek (galerie mimo web: 0 [], alb: 0), 363 obrázků, 1 fotek ke kontrole
-[10:17:07] https://msmoravicany.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 313 obrázků, 4 fotek ke kontrole
-[10:17:28] https://zs-ms-lipova.cz: 21 stránek (galerie mimo web: 0 [], alb: 0), 148 obrázků, 43 fotek ke kontrole
-[10:17:41] tříděno 0/103
-[10:17:51] Dávka 1: hotovo 195/163, se fotkami 57; {'ok': 5, 'lide': 8, 'jine': 89, 'sablona': 0}
-[10:17:51] Konec: školek s fotkami 57; {'ok': 5, 'lide': 8, 'jine': 89, 'sablona': 0}
+[10:40:14] Část 16/20: webů 162, hotovo 195, zbývá 2
+[10:40:33] http://mshornicka.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 1 fotek ke kontrole
+[10:41:32] https://msdrahonice.blogspot.com: 31 stránek (galerie mimo web: 0 [], alb: 0), 447 obrázků, 29 fotek ke kontrole
+[10:41:42] tříděno 0/30
+[10:41:43] Dávka 1: hotovo 197/162, se fotkami 58; {'ok': 3, 'lide': 2, 'jine': 23, 'sablona': 0}
+[10:41:43] Konec: školek s fotkami 58; {'ok': 3, 'lide': 2, 'jine': 23, 'sablona': 0}
