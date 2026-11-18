@@ -535,6 +535,62 @@
 "w": 1200
 }
 ],
+"materska-skola-cernuc-511860": [
+{
+"alt": "Budova Mateřské školy Černuc ",
+"barva": "#a49c7f",
+"dh": "cc8d18396d1c8c9a",
+"h": 546,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADgAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAJxAAAQMDAQcFAAAAAAAAAAAAAQIDEQAEEhMFFCEiMUHBI1FhcdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwClbad2UXS1BoKEtpPUD9PvXHaLbDhZxfbbYaQVZKkzzR5qbs26vWbohxTbjcYwe31wp68BumlNpQ2gKTjIB4c01i6utZNhTbXp720jEAYpZEAQI6/EUVuzbtr1nW0uaSlU9ynh4opbF//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mscernuc.cz/fotogalerie/prostory-ms-cernuc/",
+"typ": "budova",
+"url": "https://www.mscernuc.cz/data/editor/125cs_13.jpg?gcm_date=1705406632",
+"w": 765
+},
+{
+"alt": "Horní třída Broučci - starší děti",
+"barva": "#91624e",
+"dh": "136f1e9f2dfc9ece",
+"h": 573,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mscernuc.cz/fotogalerie/prostory-ms-cernuc/",
+"typ": "interier",
+"url": "https://www.mscernuc.cz/data/editor/125cs_11.jpg?gcm_date=1705359704",
+"w": 765
+},
+{
+"alt": "Zahrada MŠ Černuc ",
+"barva": "#897969",
+"dh": "7362e27a7af3f38c",
+"h": 573,
+"jistota": 0.99,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.mscernuc.cz/fotogalerie/prostory-ms-cernuc/",
+"typ": "zahrada",
+"url": "https://www.mscernuc.cz/data/editor/125cs_7.jpg?gcm_date=1705358297",
+"w": 765
+},
+{
+"alt": "Nové schodiště na zahradu ",
+"barva": "#7d7c71",
+"dh": "5edab73a31206170",
+"h": 1008,
+"jistota": 0.582,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.mscernuc.cz/fotogalerie/prostory-ms-cernuc/",
+"typ": "budova",
+"url": "https://www.mscernuc.cz/data/editor/125cs_6.jpg?gcm_date=1705406562",
+"w": 765
+}
+],
 "materska-skola-ctyrlistek-590271": [
 {
 "alt": "",
@@ -1039,6 +1095,62 @@
 "typ": "zahrada",
 "url": "http://www.mstreben.cz/image.php?oid=9651235",
 "w": 900
+}
+],
+"materska-skola-vedomice-565773": [
+{
+"alt": "",
+"barva": "#87907c",
+"dh": "3f1cc8c3dbcfffbf",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGAv/EACQQAAEEAQMDBQAAAAAAAAAAAAEAAgMEERIhgQUTMSIyUWFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAERAgMTMVH/2gAMAwEAAhEDEQA/AHW9XmjcA6TXkZ9XnH6npLY7j2G1EHR7OBfgjhTMt6MnLIvGwJ+Fm31PvymQ14WyE51AHOeUVNxrZkdKM3qo91lhP0UKJe9uo7EcoSZShH//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msvedomice.cz/o-nas/",
+"typ": "budova",
+"url": "https://940257e7bd.clvaw-cdnwnd.com/60618b7b0d03447a4ba11b9856daa3bf/200003265-8d6428d645/318524696_517487067079960_2053840225519486425_n-97.jpg?ph=940257e7bd",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a28a69",
+"dh": "314864edac3d2f1f",
+"h": 1000,
+"jistota": 0.979,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msvedomice.cz/provoz-ms/",
+"typ": "interier",
+"url": "https://940257e7bd.clvaw-cdnwnd.com/60618b7b0d03447a4ba11b9856daa3bf/200000006-29f7929f7b/E641FE04-5749-40C7-96A9-15D9A9A0E246.jpeg?ph=940257e7bd",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#8c7558",
+"dh": "3f302a3a1d108ee2",
+"h": 1000,
+"jistota": 0.667,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msvedomice.cz/",
+"typ": "zahrada",
+"url": "https://940257e7bd.clvaw-cdnwnd.com/60618b7b0d03447a4ba11b9856daa3bf/200003934-75cd675cda/58AADA6D-CD1D-47BC-9981-4133B6462DC3.jpeg?ph=940257e7bd",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#8c8f93",
+"dh": "786995822021b851",
+"h": 900,
+"jistota": 0.99,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msvedomice.cz/o-nas/",
+"typ": "budova",
+"url": "https://940257e7bd.clvaw-cdnwnd.com/60618b7b0d03447a4ba11b9856daa3bf/200003267-4d87f4d882/318816574_517487207079946_5840125485038337443_n-4.jpg?ph=940257e7bd",
+"w": 1200
 }
 ],
 "materska-skola-vrchlabi-588625": [
