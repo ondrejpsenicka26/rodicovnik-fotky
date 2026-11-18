@@ -1,0 +1,21 @@
+[08:29:34] Část 4/8: webů 17, hotovo 0, zbývá 17
+[08:30:06] https://www.msrajhrad.cz: 21 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 1), 27 obrázků, 1 fotek ke kontrole
+[08:30:14] http://www.valchov.cz: 8 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 1), 23 obrázků, 2 fotek ke kontrole
+[08:30:25] https://www.zskamennajbc.cz: 6 stránek (galerie mimo web: 74 ['www.x-ray9.rajce.net', 'x-ray9.rajce.idnes.cz'], alb: 40), 7 obrázků, 0 fotek ke kontrole
+[08:30:26] https://www.zsmorkov.cz: 10 stránek (galerie mimo web: 129 ['photos.app.goo.gl'], alb: 129), 0 obrázků, 0 fotek ke kontrole
+[08:30:33] https://www.zsprosec.cz: 7 stránek (galerie mimo web: 1 ['zsprosec.rajce.idnes.cz'], alb: 0), 9 obrázků, 1 fotek ke kontrole
+[08:30:34] https://www.mschoustnikovohradiste.cz: 6 stránek (galerie mimo web: 1 ['andyhh.rajce.idnes.cz'], alb: 5), 149 obrázků, 16 fotek ke kontrole
+[08:30:37] https://www.skolaprerovnl.cz: 29 stránek (galerie mimo web: 113 ['photos.app.goo.gl', 'photos.google.com'], alb: 66), 209 obrázků, 28 fotek ke kontrole
+[08:30:39] https://hermanov.info/uvod/detska-skupina-hermanek: 3 stránek (galerie mimo web: 1 ['hermanov.rajce.idnes.cz'], alb: 5), 94 obrázků, 22 fotek ke kontrole
+[08:30:41] https://rckulihrasek.cz/detska-skupina-kulicka-prelouc-2: 12 stránek (galerie mimo web: 1 ['kulihrasek-pce.rajce.idnes.cz'], alb: 5), 166 obrázků, 16 fotek ke kontrole
+[08:30:41] https://www.zsjes.cz: 7 stránek (galerie mimo web: 1 ['fucikova312.rajce.idnes.cz'], alb: 5), 38 obrázků, 9 fotek ke kontrole
+[08:30:52] https://www.zsluka.net: 18 stránek (galerie mimo web: 5 ['mskuratka2017.rajce.idnes.cz', 'mslukanjberusky.rajce.idnes.cz', 'mslukanjkotatka.rajce.idnes.cz'], alb: 5), 158 obrázků, 10 fotek ke kontrole
+[08:31:01] https://www.specialni-skola.cz: 19 stránek (galerie mimo web: 1759 ['palachovachomutov.rajce.idnes.cz', 'secy.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 1407), 50 obrázků, 1 fotek ke kontrole
+[08:31:08] https://www.zsstritez.cz: 16 stránek (galerie mimo web: 1130 ['photos.app.goo.gl', 'photos.google.com'], alb: 902), 1743 obrázků, 44 fotek ke kontrole
+[08:31:13] https://www.zschuchelna.cz: 17 stránek (galerie mimo web: 1 ['mschuchelna.rajce.idnes.cz'], alb: 5), 350 obrázků, 24 fotek ke kontrole
+[08:31:22] https://msvcelkakrnov.cz: 10 stránek (galerie mimo web: 1 ['www.rajce.idnes.cz'], alb: 1), 169 obrázků, 25 fotek ke kontrole
+[08:31:23] https://zsmshalze.cz: 17 stránek (galerie mimo web: 1 ['zsmshalze.rajce.idnes.cz'], alb: 5), 10 obrázků, 3 fotek ke kontrole
+[08:31:25] https://www.zszator.com: 22 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 2), 40 obrázků, 7 fotek ke kontrole
+[08:31:37] tříděno 0/209
+[08:31:47] Dávka 1: hotovo 17/17, se fotkami 0; {'ok': 0, 'lide': 8, 'jine': 201, 'sablona': 0}
+[08:31:47] Konec: školek s fotkami 0; {'ok': 0, 'lide': 8, 'jine': 201, 'sablona': 0}
