@@ -2333,6 +2333,36 @@
 "w": 1200
 }
 ],
+"ms-rozvadov-546370": [
+{
+"alt": "",
+"barva": "#999479",
+"dh": "13d5bb8e17870f8b",
+"h": 540,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACQAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQEE/8QAIBAAAQMDBQEAAAAAAAAAAAAAAgABEQMEIRIxMkFx4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDURIhMf/aAAwDAQACEQMRAD8A6QfUeLaoPWGhaVIgGRA2fuU5uZepzbN4hHFxdpsnK/UQTK8MpINMYgfqFcfdC1t7D1o//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msrozvadov.cz/o-skolce/jidelnicek/",
+"typ": "budova",
+"url": "https://www.msrozvadov.cz/data/headerfooter/header_images/ms-rozvadovheaderpic-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7e6e59",
+"dh": "09198c62071c7851",
+"h": 800,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msrozvadov.cz/o-skolce/jidelnicek/",
+"typ": "budova",
+"url": "https://www.msrozvadov.cz/data/headerfooter/header_images/dji0035.JPG",
+"w": 1200
+}
+],
 "ms-up-v-olomouci-033194": [
 {
 "alt": "",

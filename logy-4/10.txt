@@ -1,2 +1,7 @@
-[12:37:24] Část 11/20: webů 178, hotovo 232, zbývá 0
-[12:37:24] Konec: školek s fotkami 73; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:43:17] Část 11/20: webů 181, hotovo 232, zbývá 3
+[12:44:02] https://ms21.plzen.eu: 15 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[12:44:24] https://msrozvadov.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 452 obrázků, 5 fotek ke kontrole
+[12:44:27] https://zs7.plzen.eu: 32 stránek (galerie mimo web: 0 [], alb: 0), 74 obrázků, 1 fotek ke kontrole
+[12:44:41] tříděno 0/6
+[12:44:41] Dávka 1: hotovo 235/181, se fotkami 74; {'ok': 2, 'lide': 0, 'jine': 2, 'sablona': 0}
+[12:44:41] Konec: školek s fotkami 74; {'ok': 2, 'lide': 0, 'jine': 2, 'sablona': 0}
