@@ -1,4 +1,60 @@
 {
+"detska-skupina-doupatko-ds01221": [
+{
+"alt": "",
+"barva": "#938174",
+"dh": "0e62490c0c0bb30d",
+"h": 540,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACwAUAwEiAAIRAQMRAf/EABkAAAIDAQAAAAAAAAAAAAAAAAAFAgMEBv/EACIQAAIBBAEEAwAAAAAAAAAAAAECBAADESFRBRITIjFBgf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEBAQADAAAAAAAAAAAAAAAAABIBAiH/2gAMAwEAAhEDEQA/ANcPqF6VCtAyPC/d7MzDuxxuq5cidbe2BItyLTA+RHAOuMikqnJ3UjojFSpXGvDwL0xVX3tjWwykkHj4orn2UE/f4aKbEP/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://dsdoupatko.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://dsdoupatko.cz/wp-content/uploads/photo-gallery/132093855_153461956539582_1226644791738503756_n.jpg?bwg=1620735764",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#8e8168",
+"dh": "ececcfcecdcdefce",
+"h": 540,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://dsdoupatko.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://dsdoupatko.cz/wp-content/uploads/photo-gallery/132201646_153462133206231_8222152837693257903_n.jpg?bwg=1620735764",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#71695e",
+"dh": "1c1c3e7c222af84f",
+"h": 540,
+"jistota": 0.97,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://dsdoupatko.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://dsdoupatko.cz/wp-content/uploads/photo-gallery/132055282_153462039872907_4902035343426631711_n.jpg?bwg=1620735764",
+"w": 960
+},
+{
+"alt": "",
+"barva": "#938b73",
+"dh": "80a4a5a1f1010f8f",
+"h": 540,
+"jistota": 0.999,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://dsdoupatko.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://dsdoupatko.cz/wp-content/uploads/photo-gallery/132064301_153461963206248_1272283558120407347_n.jpg?bwg=1620735764",
+"w": 960
+}
+],
 "detska-skupina-elvicek-ds01792": [
 {
 "alt": "og",
@@ -87,6 +143,62 @@
 "typ": "hygiena",
 "url": "https://jahoda.cz/wp-content/uploads/2019/08/IMG_0683-scaled.jpg",
 "w": 1200
+}
+],
+"detska-skupina-mexiko-ds01368": [
+{
+"alt": "",
+"barva": "#929480",
+"dh": "b26367eefba949c9",
+"h": 1200,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFBv/EACQQAAIBAwQBBQEAAAAAAAAAAAECAwAEEQUSIUExEyJRUmHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAZEQEAAwEBAAAAAAAAAAAAAAAAAQIRAyH/2gAMAwEAAhEDEQA/ANzUJWtrYsmA7cDPX7U1lEkVut1Mw3OucseEH1H9zUmpXUd1cbjLkLkLt8Hniow80l1a20kgUNGpRs5wCOhS9LTdkVyGlJq0auRHEzgd5xSo20K5z7L7C/HpilR2hvGVe3DW1xAqBSGhDncOzVE7k6hpzZwVSLx3xSlUDpQTilKVyh//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkamexiko.cz/zazemi-stravovani/",
+"typ": "budova",
+"url": "https://www.skolkamexiko.cz/wp-content/uploads/2019/05/xdi7iH0o.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#877b68",
+"dh": "3c3e3e3731727363",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkamexiko.cz/zazemi-stravovani/",
+"typ": "interier",
+"url": "https://www.skolkamexiko.cz/wp-content/uploads/2019/04/8Wv5xwMA.jpeg.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#867062",
+"dh": "0f6dccce2b0d6d92",
+"h": 1200,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkamexiko.cz/zazemi-stravovani/",
+"typ": "zahrada",
+"url": "https://www.skolkamexiko.cz/wp-content/uploads/2019/04/m3gySUM-1.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#687680",
+"dh": "d0a435342038500d",
+"h": 639,
+"jistota": 0.821,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.skolkamexiko.cz/zazemi-stravovani/",
+"typ": "budova",
+"url": "https://www.skolkamexiko.cz/wp-content/uploads/2024/11/247227674_995017974409200_1138561160036271423_n.jpeg",
+"w": 960
 }
 ],
 "detska-skupina-moonimals-ds02198": [
@@ -271,6 +383,92 @@
 "stranka": "https://predskolkou.cz/skolka/pred-skolkou-udolni/",
 "typ": "zahrada",
 "url": "https://predskolkou.cz/wp-content/uploads/2024/08/foto-compressed-35.jpg",
+"w": 1200
+}
+],
+"detska-skupina-skolicka-keltickova-ds02088": [
+{
+"alt": "",
+"barva": "#919485",
+"dh": "5f4e4f6da7073c6b",
+"h": 1080,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAJBAAAgEDBAICAwAAAAAAAAAAAQIAAwQREiExQRNhBSJRYoH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEAAgMAAwAAAAAAAAAAAAAAAAECERIDMTL/2gAMAwEAAhEDEQA/ANJrYU7ShcJqXUoJPvuT3No9I4zqyPzmYNGp8hcFPEn1I2DkDA756ll7e6aiq1bxA42yhJB32/vv1IjmSsG5J1RM50thuRzEzathctUJ89Nv21HeIsjLL1GpoqqcBuT2Z41k9xEXF5Kl2c1GIibEH//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolickakeltickova.cz/fotogalerie",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/6672e68e6d40a37d71a17782/6ad7583c547484a986f852ef_foto-s%CC%8Ckolic%CC%8Cky-keltic%CC%8Ckova-9.webp",
+"w": 1080
+},
+{
+"alt": "",
+"barva": "#bdb090",
+"dh": "67272b60635c0e00",
+"h": 1080,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolickakeltickova.cz/fotogalerie",
+"typ": "interier",
+"url": "https://cdn.prod.website-files.com/6672e68e6d40a37d71a17782/6ad7583c6206b5b3c35a201e_foto-s%CC%8Ckolic%CC%8Cky-keltic%CC%8Ckova-10.webp",
+"w": 1080
+}
+],
+"detska-skupina-slonik-i-ds01991": [
+{
+"alt": "",
+"barva": "#7e7d6b",
+"dh": "0b43110d0d0fc301",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAiEAACAQQCAQUAAAAAAAAAAAABAgMABBIhBRExBhUyQVH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAbEQACAQUAAAAAAAAAAAAAAAAAAVECAxIhMf/aAAwDAQACEQMRAD8AScS5FzC+AUI6nsfe6s4+bkijzkgzLbXA1O2XHxyvkjNGVPY33umPtglCiWZnA8AjxR7XCpKDW65yIzdiylckDLJW0fyiuSX0/bSMCZJtDr50VvO4G6FB/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ds-slonik.cz/",
+"typ": "budova",
+"url": "https://www.ds-slonik.cz/wp-content/uploads/2026/10/DOM_5365.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#817f7c",
+"dh": "0e2cb05052cd9c0f",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.ds-slonik.cz/",
+"typ": "interier",
+"url": "https://www.ds-slonik.cz/wp-content/uploads/2026/10/DOM_5287-2.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6e703a",
+"dh": "676e6c1103050e07",
+"h": 800,
+"jistota": 0.998,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.ds-slonik.cz/",
+"typ": "zahrada",
+"url": "https://www.ds-slonik.cz/wp-content/uploads/2026/10/DOM_5384.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#837c78",
+"dh": "0ec869e9e9c84c1e",
+"h": 800,
+"jistota": 1.0,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.ds-slonik.cz/",
+"typ": "interier",
+"url": "https://www.ds-slonik.cz/wp-content/uploads/2026/10/DOM_5282-2.jpg",
 "w": 1200
 }
 ],

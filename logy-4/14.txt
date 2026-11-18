@@ -1,9 +1,9 @@
-[11:38:41] Část 15/20: webů 171, hotovo 215, zbývá 5
-[11:39:19] https://www.msstefanikova.cz: 9 stránek (galerie mimo web: 3 ['www.kocky31.zonerama.com', 'www.motylci4.zonerama.com', 'www.ptaci2.zonerama.com'], alb: 1), 17 obrázků, 12 fotek ke kontrole
-[11:39:52] https://www.ms-komenskeho.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 87 obrázků, 37 fotek ke kontrole
-[11:40:24] https://skolkanavysluni.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 71 obrázků, 27 fotek ke kontrole
-[11:40:25] https://msbudovatelska.cz: 30 stránek (galerie mimo web: 15 ['beruskyzlin.rajce.idnes.cz', 'budov.rajce.idnes.cz', 'jezecci-budovatelska.rajce.idnes.cz'], alb: 1), 408 obrázků, 42 fotek ke kontrole
-[11:40:40] https://www.mslentilka.cz: 24 stránek (galerie mimo web: 6 ['mslentilka.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 0), 52 obrázků, 29 fotek ke kontrole
-[11:40:59] tříděno 0/147
-[11:41:21] Dávka 1: hotovo 220/171, se fotkami 75; {'ok': 11, 'lide': 4, 'jine': 99, 'sablona': 0}
-[11:41:21] Konec: školek s fotkami 75; {'ok': 11, 'lide': 4, 'jine': 99, 'sablona': 0}
+[11:45:24] Část 15/20: webů 176, hotovo 220, zbývá 5
+[11:45:33] https://dsbystrouska.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 2 fotek ke kontrole
+[11:45:35] https://www.skolickakeltickova.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 13 fotek ke kontrole
+[11:46:00] https://dsdoupatko.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 25 fotek ke kontrole
+[11:46:06] https://www.ds-slonik.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 18 fotek ke kontrole
+[11:47:29] https://www.skolkamexiko.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 88 obrázků, 34 fotek ke kontrole
+[11:47:47] tříděno 0/92
+[11:48:07] Dávka 1: hotovo 225/176, se fotkami 79; {'ok': 14, 'lide': 6, 'jine': 29, 'sablona': 0}
+[11:48:07] Konec: školek s fotkami 79; {'ok': 14, 'lide': 6, 'jine': 29, 'sablona': 0}
