@@ -1,11 +1,12 @@
-[11:04:00] Část 17/20: webů 181, hotovo 208, zbývá 7
-[11:04:15] https://www.mspravonin.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
-[11:04:48] https://www.mskostelec.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 76 obrázků, 1 fotek ke kontrole
-[11:05:02] https://www.zspocinovice.cz: 12 stránek (galerie mimo web: 2 ['rajce.net', 'zspocinovice.rajce.idnes.cz'], alb: 1), 68 obrázků, 25 fotek ke kontrole
-[11:05:04] https://mstrnava.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 56 obrázků, 25 fotek ke kontrole
-[11:05:08] https://www.ms-chuderov.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 6 fotek ke kontrole
-[11:05:35] https://www.zsmsvycapy.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 697 obrázků, 39 fotek ke kontrole
-[11:06:10] https://www.mszbuzany.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 14 fotek ke kontrole
-[11:06:25] tříděno 0/110
-[11:06:34] Dávka 1: hotovo 215/181, se fotkami 57; {'ok': 11, 'lide': 10, 'jine': 73, 'sablona': 0}
-[11:06:34] Konec: školek s fotkami 57; {'ok': 11, 'lide': 10, 'jine': 73, 'sablona': 0}
+[11:38:36] Část 17/20: webů 185, hotovo 215, zbývá 8
+[11:38:40] https://www.ms-rosnicka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[11:38:58] https://msdolnilukavice.webnode.cz: 16 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 1 fotek ke kontrole
+[11:39:21] https://msslunecni.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 27 obrázků, 12 fotek ke kontrole
+[11:39:46] https://msbernartice.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 5 fotek ke kontrole
+[11:39:48] https://mskudlov.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 48 obrázků, 18 fotek ke kontrole
+[11:40:23] https://skolkakrtecek.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 72 obrázků, 40 fotek ke kontrole
+[11:40:35] https://msdetska.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 230 obrázků, 40 fotek ke kontrole
+[11:40:37] https://www.zsmsdalovice.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 518 obrázků, 45 fotek ke kontrole
+[11:40:48] tříděno 0/161
+[11:41:02] Dávka 1: hotovo 223/185, se fotkami 62; {'ok': 10, 'lide': 9, 'jine': 126, 'sablona': 0}
+[11:41:02] Konec: školek s fotkami 62; {'ok': 10, 'lide': 9, 'jine': 126, 'sablona': 0}

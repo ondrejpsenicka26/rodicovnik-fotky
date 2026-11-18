@@ -1224,6 +1224,62 @@
 "w": 1000
 }
 ],
+"materska-skola-krtecek-568438": [
+{
+"alt": "",
+"barva": "#9c8e7a",
+"dh": "b9f93c3c3476bdf1",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBP/EACUQAAICAgEDAwUAAAAAAAAAAAECAwQAEQUSISITMYEUUWHh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECURESIf/aAAwDAQACEQMRAD8AarTRXI/qIo5FDDXmpG/g4HepTLajasAwLa9vEbJ/vjOyW9XpRdLqY4l2Nrska7YUnL27UPTWSMhWJBJIYbPb37YWrEU1JCKcVybL1euBv7t+ssynIWqG67zLKFPi8i7YjX4yyu0g8Kz/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolkakrtecek.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://skolkakrtecek.cz/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-12.53.52.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#876c64",
+"dh": "61d3931e09092677",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolkakrtecek.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://skolkakrtecek.cz/wp-content/uploads/2026/02/MS-Krtecek-5.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6b7259",
+"dh": "92db4b23c5c9cdcd",
+"h": 900,
+"jistota": 0.982,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolkakrtecek.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://skolkakrtecek.cz/wp-content/uploads/2026/02/MS-Krtecek-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#5f6b70",
+"dh": "8c0e147063f3e47f",
+"h": 900,
+"jistota": 0.749,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolkakrtecek.cz/fotogalerie/",
+"typ": "les",
+"url": "https://skolkakrtecek.cz/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-12.53.54-2.jpeg",
+"w": 1200
+}
+],
 "materska-skola-kynsperk-545641": [
 {
 "alt": "skolka3",
@@ -1337,6 +1393,23 @@
 "stranka": "https://ms.obecpravice.cz/",
 "typ": "interier",
 "url": "https://ms.obecpravice.cz/images/cwgallery/1_a0ae33eefbf95005b4d67597df190fd2.jpg",
+"w": 1200
+}
+],
+"materska-skola-slunecni-040786": [
+{
+"alt": "",
+"barva": "#757e69",
+"dh": "08c0a8b993ae9c1f",
+"h": 900,
+"jistota": 0.901,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBAX/xAAkEAABAwQBAwUAAAAAAAAAAAABAgMRAAQSIRMFMVEUQWFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAMB/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECAxEhExRR/9oADAMBAAIRAxEAPwBw6TaMLcbaucCCNZgjzHefinoZtS4Ec8mCZxga+65HCnlJzwQTOk9qx3lsoR6W5gRCpSRP6aKNzTytEdcGtlM4OnMqwcv2UqHsSKKjRYkDbipPiKKTsP0Pjif/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msslunecni.cz/",
+"typ": "zahrada",
+"url": "https://msslunecni.cz/wp-content/uploads/2023/10/20200710_094601.jpg",
 "w": 1200
 }
 ],
@@ -1761,6 +1834,36 @@
 "w": 1200
 }
 ],
+"materska-skola-zlin-kudlov-605503": [
+{
+"alt": "Dětská tělocvična s žebřinami, šplhacími lany, tunelem a barevnou balanční dráhou uspořádanou do kruhu na parketách.",
+"barva": "#a1846f",
+"dh": "a4353535361bb484",
+"h": 801,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EACIQAAICAgIABwAAAAAAAAAAAAECAxEABBIxBRQhIjJBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGhEBAAMAAwAAAAAAAAAAAAAAAgABERIhMf/aAAwDAQACEQMRAD8AfVCSajzySPak9Duji6m7D5RubmwW+fofqseHkoJHGr6I6ylNRJ1axHyN+5kDHrJyuXVShHPZnLuxSPcb2tAYZS/hWmpAOvGxoWaq/wAwxWVsNI5P/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskudlov.cz/nase-ms",
+"typ": "interier",
+"url": "https://framerusercontent.com/images/P4LHjZeLxpiHsXBX9ZBfMafgu0.webp?width=7952&height=5304",
+"w": 1200
+},
+{
+"alt": "Hrací kout v mateřské škole s dětskou dřevěnou kuchyňkou, kočárky pro panenky, stolkem se židličkami a oranžovou sedačko",
+"barva": "#998781",
+"dh": "3111515e9e2d65cc",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskudlov.cz/nase-ms",
+"typ": "interier",
+"url": "https://framerusercontent.com/images/KuDMjP3oNxfC6eOYCZi4lzpRZQ.webp?width=7952&height=5304",
+"w": 1200
+}
+],
 "ms-budulinek-pavlov-000571": [
 {
 "alt": "",
@@ -1980,6 +2083,36 @@
 "w": 900
 }
 ],
+"zakladni-skola-a-materska-skola-bernartice-589028": [
+{
+"alt": "",
+"barva": "#c0b2a4",
+"dh": "1bfbcbe3b3aca080",
+"h": 849,
+"jistota": 0.989,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAiEAABBAICAgMBAAAAAAAAAAABAgMEEQAhBTESEyIyQfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEQL/2gAMAwEAAhEDEQA/ANZLlONEhsJoDaj+ZA3JedUVNvhQqq8df28Qck1KMx8+4i1Efc9X11hF4uU8963ZJqrPio7yb07MwJ4Ja0rcC1qvy1SuhQwyzC49tmOEK+VHs7wx4wv/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msbernartice.cz/casino-narodni-trida/",
+"typ": "budova",
+"url": "https://msbernartice.cz/wp-content/uploads/2022/09/Untitled_Artwork-8-1.png",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c4b8a8",
+"dh": "f2facfe3b3a4a8c8",
+"h": 724,
+"jistota": 0.964,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msbernartice.cz/historie-a-soucasna-materska-skola/",
+"typ": "budova",
+"url": "https://msbernartice.cz/wp-content/uploads/2022/12/858F5B50-02C5-43AA-AE81-9616BF54CAAB-1024x724.png",
+"w": 1024
+}
+],
 "zakladni-skola-a-materska-skola-chotevice-587912": [
 {
 "alt": "",
@@ -2008,6 +2141,23 @@
 "typ": "hygiena",
 "url": "https://zschotevice.cz/wp-content/uploads/photo-gallery/Rekonstrukce_pudnich_prostor/WhatsApp-Image-2026-08-06-at-09.45.15.jpeg",
 "w": 900
+}
+],
+"zakladni-skola-a-materska-skola-dolni-lukavice-544105": [
+{
+"alt": "",
+"barva": "#888776",
+"dh": "0422323666e0011b",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EACIQAAEEAQQCAwAAAAAAAAAAAAECAwQRAAUGEiExQSKBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwCjHkMtx1ONr4oST8j1RGNb3M0ILr3ILCEmiejy9D7yDIakzWw2+tIRd8avvFM6e3HtBJVfkePzDmWit6afRNwom6elyW42h4KKVACsMzaSy0OLaQkXdAe8MXpnEf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msdolnilukavice.webnode.cz/",
+"typ": "budova",
+"url": "https://b06dca2d32.cbaul-cdnwnd.com/88aa48bb2533444086679d2c8cae9a68/200000052-41231421c4/P1200599.JPG",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-ovcary-002977": [
