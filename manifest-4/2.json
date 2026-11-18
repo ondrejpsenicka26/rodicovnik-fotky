@@ -312,6 +312,36 @@
 "w": 1200
 }
 ],
+"materska-skola-brno-555432": [
+{
+"alt": "",
+"barva": "#6b6863",
+"dh": "c783736926677232",
+"h": 849,
+"jistota": 0.975,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwb/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMAERIEBSFRIjFBYeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8AqaCTJZspSU4SxvYHnj1bmmu27my5R62QkW8Xfxt9HusgN3lCMEd1Od+D8dVDbrNJGySvknTC9G09Od13rWwa51gxWP2uABBHd6KRLKXGWFgfWI/aKNof/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-letni.webnode.cz/",
+"typ": "budova",
+"url": "https://76bad7dd47.cbaul-cdnwnd.com/051607264c9283c6911ec54071f9565a/200000004-2530126261/IMG_20180608_081334.jpg?ph=76bad7dd47",
+"w": 1132
+},
+{
+"alt": "",
+"barva": "#716829",
+"dh": "4bcbcb4949c9f139",
+"h": 849,
+"jistota": 0.918,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-letni.webnode.cz/neco-o-mne/",
+"typ": "hygiena",
+"url": "https://76bad7dd47.cbaul-cdnwnd.com/051607264c9283c6911ec54071f9565a/200000001-48bb349b8a/IMG_20180608_081248.jpg?ph=76bad7dd47",
+"w": 1132
+}
+],
 "materska-skola-brno-603071": [
 {
 "alt": "",
@@ -587,6 +617,53 @@
 "w": 800
 }
 ],
+"materska-skola-palanek-614057": [
+{
+"alt": "",
+"barva": "#827e64",
+"dh": "04dc5c5e2428999c",
+"h": 651,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECBAb/xAAmEAACAQQBAgYDAAAAAAAAAAABAwIAERIhBgQFFBYiIzFBUnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhAhH/2gAMAwEAAhEDEQA/AJeZu4NwZ7ahCRMxEaIt93/VJ/Ketko2crf4w3T48pbO5szgDgvKItq+t2p8l6NEE+LhDF51mCQbVlWLsLaeVSghcXrZNmO5RxAP9orMSey0fV8jehRUT0A//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mspalanek.cz/co-si-obleknout-do-ms",
+"typ": "budova",
+"url": "https://mspalanek.cz/theme/img/header-1-1.jpg",
+"w": 1200
+}
+],
+"materska-skola-pod-dubovym-kopcem-099101": [
+{
+"alt": "",
+"barva": "#70806f",
+"dh": "0001890d6d4f1733",
+"h": 900,
+"jistota": 0.948,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAFEQQSIUETFHGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAbEQABBAMAAAAAAAAAAAAAAAAAAQIREwQSYv/aAAwDAQACEQMRAD8AxpriDJiSIhSeGBp57ppoJEUBpA3a9VM9SKSMAlgBwSDyaJtI0p5GABhdzHGPgoNynRCqCto1crvLHqvHAzoFUBhjuipElqmdt2+I/ooqX9C0Q//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mssvinosice.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.mssvinosice.cz/wp-content/uploads/2021/01/DSC02955-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#80905a",
+"dh": "7d5c5a94152a359b",
+"h": 1200,
+"jistota": 0.995,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.mssvinosice.cz/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.mssvinosice.cz/wp-content/uploads/2021/01/DSC02938-scaled.jpg",
+"w": 900
+}
+],
 "materska-skola-slunicko-569043": [
 {
 "alt": "",
@@ -674,6 +751,36 @@
 "stranka": "https://www.msstrasice.cz/materska-skola/projekty-ms/",
 "typ": "interier",
 "url": "https://www.msstrasice.cz/data/headerfooter/header_images/image-4.png",
+"w": 1200
+}
+],
+"materska-skola-sviny-535629": [
+{
+"alt": "",
+"barva": "#83807c",
+"dh": "5061639b9303271e",
+"h": 899,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAkEAACAgIABAcAAAAAAAAAAAABAgMRAAQFEiFRExQiMUJSYf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABwRAAICAgMAAAAAAAAAAAAAAAACAQMREyFBUf/aAAwDAQACEQMRAD8AXHsRTEJFGzSXRXsO+OVPUVMDFgPZQTZzk4Nr+GGlNc7Dp+DKw2TGrFVtiKFnplNtnorWmOYJj7gU0kBIr5WMMxfPkEryUT9qww2vPZnWp//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.obec-sviny.cz/materska-skola/",
+"typ": "budova",
+"url": "https://www.obec-sviny.cz/wp-content/uploads/2025/10/budova-MS.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#616f41",
+"dh": "6b4f36365652d02c",
+"h": 900,
+"jistota": 0.826,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.obec-sviny.cz/category/fotogalerie/",
+"typ": "les",
+"url": "https://www.obec-sviny.cz/wp-content/uploads/2015/06/IMG_0304.jpg",
 "w": 1200
 }
 ],
