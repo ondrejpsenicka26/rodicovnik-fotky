@@ -1,12 +1,11 @@
-[00:41:47] Část 3/20: webů 152, hotovo 162, zbývá 8
-[00:41:53] https://bekid-brno.com: 5 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 4 fotek ke kontrole
-[00:41:55] https://kasparek-melnik.cz/rolnicka: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 1 fotek ke kontrole
-[00:42:02] https://agentura-beranek.cz/detskaskupina-brno: 3 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[00:42:03] http://www.msmorasice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 3 fotek ke kontrole
-[00:42:22] https://koupak-mb.cz/detska-skupina-2: 1 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 0 fotek ke kontrole
-[00:42:53] http://www.mszelmost.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 706 obrázků, 2 fotek ke kontrole
-[00:43:08] https://mszbraslavice.cz/materska-skola/spuntici: 31 stránek (galerie mimo web: 0 [], alb: 0), 211 obrázků, 45 fotek ke kontrole
-[00:43:50] https://pohodahoromerice.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 42 obrázků, 20 fotek ke kontrole
-[00:44:04] tříděno 0/75
-[00:44:10] Dávka 1: hotovo 170/152, se fotkami 37; {'ok': 4, 'lide': 1, 'jine': 66, 'sablona': 0}
-[00:44:10] Konec: školek s fotkami 37; {'ok': 4, 'lide': 1, 'jine': 66, 'sablona': 0}
+[02:14:08] Část 3/20: webů 158, hotovo 170, zbývá 7
+[02:14:16] https://jeslekulisek.cz: nedostupné nebo zakázané
+[02:14:21] https://romodrom.cz/detska-skupina-hradcany-prostejov: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 6 fotek ke kontrole
+[02:14:23] https://umominky.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[02:14:29] https://subirov.cz/obec/detska-skupina-sovicky: 6 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 9 fotek ke kontrole
+[02:14:30] https://dsslunicka.cz/usti-nad-labem/detska-skupina-slunicka-na-terase: 4 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 24 fotek ke kontrole
+[02:14:33] https://centrumlupinek.cz/ds-ponny-brno: 1 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 16 fotek ke kontrole
+[02:15:13] https://montessori-brno.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 114 obrázků, 32 fotek ke kontrole
+[02:15:33] tříděno 0/87
+[02:15:42] Dávka 1: hotovo 177/158, se fotkami 41; {'ok': 9, 'lide': 7, 'jine': 62, 'sablona': 0}
+[02:15:42] Konec: školek s fotkami 41; {'ok': 9, 'lide': 7, 'jine': 62, 'sablona': 0}

@@ -158,6 +158,53 @@
 "w": 1179
 }
 ],
+"detska-skupina-slunicka-na-terase-ds01466": [
+{
+"alt": "",
+"barva": "#888071",
+"dh": "3092515a513507df",
+"h": 900,
+"jistota": 0.978,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAFBv/EACAQAAICAQQDAQAAAAAAAAAAAAECAxEABAUSIQZBgVH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8AIaNy6ryUBjXWPpdtqV1mCORXux8wU3NwwLxqaN9dYY3OOFa4MT7JAN5mpE6NYbUhFrGhHzLOfm8jcSnhEjD9NjLFyiZR/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dsslunicka.cz/usti-nad-labem/detska-skupina-slunicka-na-terase/",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/78/conversions/01KE6KCWZ8V5VERVTZ1EKJD8FM-full.webp?v=1783070778",
+"w": 1200
+},
+{
+"alt": "Louny",
+"barva": "#787769",
+"dh": "e7e2eb5913230110",
+"h": 683,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.dsslunicka.cz/o-nas",
+"typ": "budova",
+"url": "https://fls-a22b4e58-8b52-40c5-8a2c-0784b323d1f8.laravel.cloud/20/conversions/01KD2QJZDZZ4Z5WEVJKG8CA5XY-medium.webp?v=1766389962",
+"w": 1024
+}
+],
+"detska-skupina-sovicky-ds01158": [
+{
+"alt": "Sovičky",
+"barva": "#8e8e7f",
+"dh": "1ce633aba3b6360e",
+"h": 573,
+"jistota": 0.98,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAMABP/EACAQAAICAgEFAQAAAAAAAAAAAAECAxEABBITITFBUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8A1auyw5rEWgKVYDGv3tiCJd0tzcOzAMj+Pvn5gpBESWKA35v3gCLZ14pAswZiB0+1VXrIw7RsvBipWiMsOMbbKTKVLE5YxNf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.subirov.cz/obec/detska-skupina-sovicky/",
+"typ": "interier",
+"url": "https://www.subirov.cz/data/multipage/editor/editor-18-124-cs_1.jpg?gcm_date=1706118785",
+"w": 765
+}
+],
 "lesni-materska-skola-stromecek-088584": [
 {
 "alt": "Zámek Měšice",
@@ -604,6 +651,36 @@
 "w": 700
 }
 ],
+"montessori-detska-skupina-kvitek-ds00205": [
+{
+"alt": "",
+"barva": "#918d86",
+"dh": "e5c786e6b0b46d0c",
+"h": 900,
+"jistota": 0.904,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EACAQAQABAwQDAQAAAAAAAAAAAAECAAMRBBIhQRMxMiL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQJBERJR/9oADAMBAAIRAxEAPwChelAis/zE7a1DUaW5a3QSWOfqo5rNR5WZcwp8hxSkQgyll3CyTPfujZNqi1GcXKxxl9KUUguMTEYxY9dcUU9JG5j0/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.montessori-brno.cz/o-nas/vybaveni-centra/",
+"typ": "interier",
+"url": "https://www.montessori-brno.cz/wp-content/uploads/2026/08/20260811_130158.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#88837d",
+"dh": "6a7acc3426deaf8f",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.montessori-brno.cz/o-nas/vybaveni-centra/",
+"typ": "hygiena",
+"url": "https://www.montessori-brno.cz/wp-content/uploads/2026/08/20260811_131537.jpg",
+"w": 1200
+}
+],
 "ms-letenska-500078": [
 {
 "alt": "",
@@ -718,6 +795,62 @@
 "typ": "interier",
 "url": "https://msveliny.cz/wp-content/uploads/2025/08/1756497658993-scaled.jpg",
 "w": 1200
+}
+],
+"ponny-detska-skupina-ds00593": [
+{
+"alt": "relaxační část",
+"barva": "#c2945f",
+"dh": "1859b9a91b316046",
+"h": 1006,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAdABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwYF/8QAJxAAAgIBAgUDBQAAAAAAAAAAAQIDEQAEIQUTMUFhEiJRMjNCgZH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAGREBAQEAAwAAAAAAAAAAAAAAAAEREiFB/9oADAMBAAIRAxEAPwDtxtarYUHveQYkacXRFdOvzisXFoNRYjglo1+O4/WWaaYy6uNSvoc3aE9OuQZ4sh0UopIGI8UMMpZ4L6yr4U0MMbKXpm+HPJoQVVBGDdsDuSO/nGeDPLNr+ZzGLt9TED2jFNUC8AJNBTZHzlY1TwaduX7du2Ehq1xiTukDeSSp/mGZeHiGrZPvtQ2F74Yazi//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://centrumlupinek.cz/ds-ponny-brno",
+"typ": "interier",
+"url": "https://centrumlupinek.cz/wp-content/uploads/2026/07/relaxacni-cast.jpg",
+"w": 700
+},
+{
+"alt": "zahrádka",
+"barva": "#736b3b",
+"dh": "73722e963b3f3b0d",
+"h": 1006,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://centrumlupinek.cz/ds-ponny-brno",
+"typ": "zahrada",
+"url": "https://centrumlupinek.cz/wp-content/uploads/2026/07/zahradka.jpg",
+"w": 700
+},
+{
+"alt": "herní část",
+"barva": "#ab7951",
+"dh": "97b2b6b1b9206872",
+"h": 1006,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://centrumlupinek.cz/ds-ponny-brno",
+"typ": "interier",
+"url": "https://centrumlupinek.cz/wp-content/uploads/2026/07/herni-cast.jpg",
+"w": 700
+},
+{
+"alt": "venkovní hračky",
+"barva": "#9a794f",
+"dh": "2c6c4cac37eb9917",
+"h": 1006,
+"jistota": 0.972,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://centrumlupinek.cz/ds-ponny-brno",
+"typ": "zahrada",
+"url": "https://centrumlupinek.cz/wp-content/uploads/2026/07/venkovni-hracky.jpg",
+"w": 700
 }
 ],
 "zakl-skola-prakt-skola-a-mater-skola-560135": [
