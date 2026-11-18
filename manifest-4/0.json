@@ -1920,6 +1920,62 @@
 "w": 1057
 }
 ],
+"zakladni-skola-a-materska-skola-olsovec-631105": [
+{
+"alt": "",
+"barva": "#877f7b",
+"dh": "6b63436767450c60",
+"h": 900,
+"jistota": 0.993,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQL/xAAmEAACAQMCBAcAAAAAAAAAAAABAhEAAwUEYRITITEUIjNBUaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AYXMai1idKbvqNPGzCT3P5Wpnyol7at09lg0pAKKrOxVewgdPqu7dgOPKhO5NGlVThLbO6/mOVvABmJjhmNqKseDHwg2E0U1kRH//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsolsovec.cz/zapis-do-ms-olsovec/",
+"typ": "budova",
+"url": "https://zsolsovec.cz/wp-content/uploads/2023/03/Fasada-na-skolni-budove-byla-provedena-tak-aby-odpovidala-co-nejvice-vzhledu-skolni-budovy-z-roku-1885.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#88786e",
+"dh": "49464a1892900403",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsolsovec.cz/zakladni-skola/",
+"typ": "interier",
+"url": "https://zsolsovec.cz/wp-content/uploads/2023/03/1680187755227-scaled.jpg",
+"w": 900
+},
+{
+"alt": "Mš-Olšovec_Prostory-2",
+"barva": "#8b8f69",
+"dh": "18296be909160e1b",
+"h": 675,
+"jistota": 0.889,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsolsovec.cz/prostory-ms/",
+"typ": "zahrada",
+"url": "https://zsolsovec.cz/wp-content/uploads/2023/01/Ms-Olsovec_Prostory-2.jpg",
+"w": 1200
+},
+{
+"alt": "Mš-Olšovec_Prostory-1",
+"barva": "#929b6b",
+"dh": "985094d47102984c",
+"h": 675,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zsolsovec.cz/prostory-ms/",
+"typ": "budova",
+"url": "https://zsolsovec.cz/wp-content/uploads/2023/01/Ms-Olsovec_Prostory-1.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-opatovec-119-587538": [
 {
 "alt": "",
