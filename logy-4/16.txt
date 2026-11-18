@@ -1,2 +1,6 @@
-[12:06:09] Část 17/20: webů 190, hotovo 228, zbývá 0
-[12:06:09] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:12:56] Část 17/20: webů 188, hotovo 228, zbývá 2
+[12:14:06] https://zsams.cejle.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 366 obrázků, 0 fotek ke kontrole
+[12:15:20] https://www.pasovice.cz/materska-skolka: 19 stránek (galerie mimo web: 0 [], alb: 0), 118 obrázků, 3 fotek ke kontrole
+[12:15:32] tříděno 0/3
+[12:15:32] Dávka 1: hotovo 230/188, se fotkami 64; {'ok': 0, 'lide': 1, 'jine': 2, 'sablona': 0}
+[12:15:32] Konec: školek s fotkami 64; {'ok': 0, 'lide': 1, 'jine': 2, 'sablona': 0}
