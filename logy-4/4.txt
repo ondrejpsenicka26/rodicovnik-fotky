@@ -1,7 +1,13 @@
-[02:14:04] Část 5/20: webů 116, hotovo 137, zbývá 3
-[02:14:40] https://soschomutov.cz/sluzby/detske-skupiny/detska-skupina-vilik: 6 stránek (galerie mimo web: 54 ['www.zonerama.com'], alb: 1), 28 obrázků, 15 fotek ke kontrole
-[02:14:59] https://pribor.eu/organizace-a-skolstvi/detske-skupiny/elanek-pribor: 34 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 29 obrázků, 8 fotek ke kontrole
-[02:16:28] https://skolkasvetluska.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 8 fotek ke kontrole
-[02:16:44] tříděno 0/31
-[02:16:45] Dávka 1: hotovo 140/116, se fotkami 36; {'ok': 5, 'lide': 1, 'jine': 21, 'sablona': 0}
-[02:16:45] Konec: školek s fotkami 36; {'ok': 5, 'lide': 1, 'jine': 21, 'sablona': 0}
+[03:59:57] Část 5/20: webů 125, hotovo 140, zbývá 9
+[04:00:05] https://detskaskupinabublinka.cz/programs/detska-skupina-na-paloucku-pardubice: nedostupné nebo zakázané
+[04:00:08] https://zsmsstezery.cz/detska-skupina.htm: nedostupné nebo zakázané
+[04:00:10] https://holesov.cz/4587-detska-skupina-grohova.html: nedostupné nebo zakázané
+[04:00:19] https://plzen.eu/socialni-sluzby/detska-skupina-malicek: 12 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
+[04:00:27] https://centrumrozvojefenix.cz/sluzba/detska-skupina: 2 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 8 fotek ke kontrole
+[04:00:29] https://obec-jankovice.cz/volny-cas/detska-skupina-beruska-kozasice: 8 stránek (galerie mimo web: 1 ['jankoavice.rajce.idnes.cz'], alb: 0), 12 obrázků, 3 fotek ke kontrole
+[04:00:41] https://detskaskupinaddmblovice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 16 fotek ke kontrole
+[04:01:08] https://pansofie.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 77 obrázků, 43 fotek ke kontrole
+[04:01:33] https://luzecnadcidlinou-luzacci.cz: nedostupné nebo zakázané
+[04:01:45] tříděno 0/70
+[04:01:48] Dávka 1: hotovo 149/125, se fotkami 39; {'ok': 4, 'lide': 4, 'jine': 59, 'sablona': 0}
+[04:01:48] Konec: školek s fotkami 39; {'ok': 4, 'lide': 4, 'jine': 59, 'sablona': 0}

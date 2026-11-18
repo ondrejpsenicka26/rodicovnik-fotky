@@ -33,6 +33,36 @@
 "w": 1200
 }
 ],
+"detska-skupina-ddm-blovice-tygrici-ds10341": [
+{
+"alt": "",
+"barva": "#70635c",
+"dh": "1d393bdfc7030133",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAQMF/8QAIhAAAgICAQMFAAAAAAAAAAAAAQIEEQADEgUGIRMyQWGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREkL/2gAMAwEAAhEDEQA/AL4vcEGO9u/I8StV84ru6rGG0szGg3kV+Zia4SkAkknH4jwWXidK2vuDAm/u8hyLcFyRN6zokby4DqAKHjDEZGvQd7eitJfjDG2wzR//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.detskaskupinaddmblovice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.detskaskupinaddmblovice.cz/wp-content/gallery/foto18-09-2025/IMG_20250918_130027.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#78746e",
+"dh": "99999975f0a6f289",
+"h": 900,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.detskaskupinaddmblovice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://www.detskaskupinaddmblovice.cz/wp-content/gallery/foto18-09-2025/IMG_20250918_130034.jpg",
+"w": 1200
+}
+],
 "detska-skupina-elanek-pribor-ds01915": [
 {
 "alt": "",
@@ -48,6 +78,23 @@
 "typ": "zahrada",
 "url": "https://www.pribor.eu/data/editor/1770cs_1_big.jpg?gcm_date=1785768144",
 "w": 1024
+}
+],
+"detska-skupina-fenix-klenovice-ds11275": [
+{
+"alt": "",
+"barva": "#69869d",
+"dh": "e8d849d4d46cec03",
+"h": 675,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAiEAACAQMEAgMAAAAAAAAAAAABAhEAAwQSEyExIkFRcYL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAEFAQAAAAAAAAAAAAAAAAABAgQUUQP/2gAMAwEAAhEDEQA/AJvZeMtyEO4vHkDxJ9UpsyyFDaDBmDqHMfFaxbRu0Q/kVfZtEAG0kDoaRxSs3oCQ2C0fEdA29bWR0xgiinC2gAAUAfVFVefhNFmn/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://centrumrozvojefenix.cz/sluzba/detska-skupina/",
+"typ": "budova",
+"url": "https://centrumrozvojefenix.cz/wp-content/uploads/DS_Klenovice.webp",
+"w": 1200
 }
 ],
 "detska-skupina-foxik-cimice-ds01233": [
@@ -249,6 +296,23 @@
 "stranka": "https://www.nudz.cz/o-nas/zakladni-informace-o-pristupnosti-budovy",
 "typ": "budova",
 "url": "https://www.nudz.cz/fileadmin/_processed_/3/a/csm_O_nas_eae68d194b.jpg",
+"w": 1200
+}
+],
+"detska-skupina-pansofie-i-ds10145": [
+{
+"alt": "",
+"barva": "#83827e",
+"dh": "337acceded3939f0",
+"h": 675,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAREgQFIRMUMRUiYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhEDEQA/AKO4bgmkhHpkoUm4ayAkfPPikm3OeFiNNqjlgMo2GYb9+6masmFGEZxFzSUcr9YPkcmNib+aOativqt57WXpiAH2qSSbX4orPtYdQiSTJk5Uc3Iopg//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://pansofie.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://pansofie.cz/wp-content/uploads/2026/05/vila_pansofie-1.png",
 "w": 1200
 }
 ],
