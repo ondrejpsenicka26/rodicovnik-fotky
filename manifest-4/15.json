@@ -853,6 +853,36 @@
 "w": 900
 }
 ],
+"materska-skola-moravicany-632705": [
+{
+"alt": "og",
+"barva": "#958c71",
+"dh": "ef6d65662725293b",
+"h": 801,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMABBEFEwYSITFhIkFRcrH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQEBAAMBAAAAAAAAAAAAAAABAAIREiH/2gAMAwEAAhEDEQA/AJH4hvZ9Kd9kO+5gsHChcj470yWZpdPjlkTDEKSob38GspZTgxyKUB9Wcn8q4t9cJGArgRqMBMdO+axyN+1CBNZIrZ3JeM5+tFI5NRuHYtzKvgLRRHRf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msmoravicany.cz/fotogalerie/materska-skola-5581240-15938.5581240.1",
+"typ": "budova",
+"url": "http://www.msmoravicany.cz/image.php?oid=5829817",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#96886e",
+"dh": "d84840d2163e1e5e",
+"h": 675,
+"jistota": 0.944,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msmoravicany.cz/fotogalerie/podzimni-skolka-a-nas-halloweensky-den-2026",
+"typ": "budova",
+"url": "http://www.msmoravicany.cz/image.php?oid=13989205",
+"w": 1200
+}
+],
 "materska-skola-nevojice-613239": [
 {
 "alt": "",
@@ -1009,6 +1039,36 @@
 "stranka": "https://www.msrozmital.cz/fotogalerie-ms/",
 "typ": "interier",
 "url": "https://www.msrozmital.cz/w/modular/msrozmital/cache/de20b8a4-6598-42c9-9f6e-d1c95fc0c6e3_1600x900ms-jpg.webp",
+"w": 1200
+}
+],
+"materska-skola-slatinky-610540": [
+{
+"alt": "",
+"barva": "#8b6755",
+"dh": "ef1da6b4a5218e1f",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAhEAACAgICAQUAAAAAAAAAAAABAgADERIEIVExMmFx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMRElH/2gAMAwEAAhEDEQA/ABYjpyHrW1bQoBUscFh8QhHesvqwCkg5HiYKO2OSdvXJzFsFBAUdjB+pDKZpVU+jellPsY9Z6x+ynJyAvItNlhbY+GMohpI//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msslatinky.cz/jidelnicek/",
+"typ": "interier",
+"url": "https://www.msslatinky.cz/data/headerfooter/header_images/img9533.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e765b",
+"dh": "9396f45429e69399",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msslatinky.cz/jidelnicek/",
+"typ": "interier",
+"url": "https://www.msslatinky.cz/data/headerfooter/header_images/img9542.jpg",
 "w": 1200
 }
 ],
@@ -1421,6 +1481,23 @@
 "stranka": "https://www.zskrizanky.cz/ms",
 "typ": "hygiena",
 "url": "https://www.zskrizanky.cz/storage/galleries/7/o/013.webp",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-lipova-610671": [
+{
+"alt": "og",
+"barva": "#a09987",
+"dh": "c0d5d59d2720606c",
+"h": 630,
+"jistota": 0.976,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEERIhMQVRMkGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREkL/2gAMAwEAAhEDEQA/ANmuGmZGKtEFXXIPJGabgheZC0d1rnoFiCPyogGYlzzx90zcgJBGUAU4HXFZ86Yk6ilfWHlriVGtLxYI1QLrsTk+6KVidtfke/dFIkP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zs-ms-lipova.cz/fotky/dopravni-hriste-2023-prostejov-3-5-trida/",
+"typ": "budova",
+"url": "https://www.zs-ms-lipova.cz/wp-content/uploads/2023/03/zs-ms-lipova-social-media-share-thumbnail.webp",
 "w": 1200
 }
 ],
