@@ -1322,6 +1322,49 @@
 "w": 760
 }
 ],
+"materska-skola-starechovice-610892": [
+{
+"alt": "",
+"barva": "#858578",
+"dh": "90c86e2f25c4c32d",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAAEBQP/xAAgEAACAgICAgMAAAAAAAAAAAABAgMEABESQWFxBSHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECERITITH/2gAMAwEAAhEDEQA/AMAjWEku1rFiKQOBIpPJSD46ymkUiRxNC8hDKCQw5L7HeQYkWWFHgMiRt9Hk2yT4GVKV1KlcK5Yh22hJJHrxgUmlwqv0ca5KmgYeJ10f3DF5fkgH08HIjve8MeyRmMT/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msstarechovice.cz/o-skole/fotogalerie/",
+"typ": "budova",
+"url": "https://www.msstarechovice.cz/data/headerfooter/header_images/skolka-z-venku.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#98604d",
+"dh": "206024b7f6d35b77",
+"h": 530,
+"jistota": 0.992,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msstarechovice.cz/o-skole/fotogalerie/",
+"typ": "interier",
+"url": "https://www.msstarechovice.cz/data/headerfooter/header_images/herna1.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#748674",
+"dh": "f9d9f979b3326363",
+"h": 900,
+"jistota": 0.996,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msstarechovice.cz/o-skole/fotogalerie/",
+"typ": "zahrada",
+"url": "https://www.msstarechovice.cz/data/headerfooter/header_images/skolni-zahrada.jpeg",
+"w": 1200
+}
+],
 "materska-skola-stepanov-627396": [
 {
 "alt": "og",
