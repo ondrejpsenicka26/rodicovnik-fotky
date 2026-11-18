@@ -1361,6 +1361,23 @@
 "w": 900
 }
 ],
+"materska-skola-ostrava-630541": [
+{
+"alt": "IMG_20200103_092625",
+"barva": "#76736d",
+"dh": "9b7b1e16322233c7",
+"h": 900,
+"jistota": 0.895,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EACEQAAICAgIBBQAAAAAAAAAAAAECAxEABAUSIRNBYZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBIf/aAAwDAQACEQMRAD8ApoR6nIR+pFGyOjdSSb8/FZz8hozI8rwASxxr5WQ2R9ViLjjpa7RiQsZD2BsjqczracsStcxtlZSRdm8zFQ0uCm3NYbAWFBISQrORVGvzGSl0txG6pP2X2JNHGJpx/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://sokolovskams.cz/skolni-jidelna/",
+"typ": "hygiena",
+"url": "https://sokolovskams.cz/wp-content/uploads/2020/01/IMG_20200103_092625-scaled-1.jpg",
+"w": 1200
+}
+],
 "materska-skola-ostrozska-nova-ves-612526": [
 {
 "alt": "Ostrožská Nová Ves - obecní úřad",
@@ -1601,6 +1618,49 @@
 "w": 1200
 }
 ],
+"materska-skola-velka-stahle-620057": [
+{
+"alt": "Márnice 1",
+"barva": "#5e6971",
+"dh": "c4d0626f9313030c",
+"h": 573,
+"jistota": 0.944,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAFAQME/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDAAQRBRITISIxUXEUQdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQADAQAAAAAAAAAAAAAAAAABEhMU/9oADAMBAAIRAxEAPwDPPFHIOMbtHdjgKT1HwABVjaZcwwmSdG24yRH1FfY/M0ms5/j3Ec6RpvQ5BxTO31fhSNI0RkLHOC5wuVCn32pdEhSEyaxbw7Ud2J2ggq3LH1RSpreEnnIufBj7UUdVq//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.velkastahle.cz/obec/realizovane-projekty/oprava-marnice/",
+"typ": "budova",
+"url": "https://www.velkastahle.cz/data/editor/217cs_1.jpg?gcm_date=1635186877",
+"w": 765
+},
+{
+"alt": "Zadní pohled",
+"barva": "#565645",
+"dh": "e656521c1c9c9c1c",
+"h": 573,
+"jistota": 0.965,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.velkastahle.cz/obec/realizovane-projekty/oprava-kaple-boziho-tela-2/",
+"typ": "les",
+"url": "https://www.velkastahle.cz/data/editor/214cs_3.jpg?gcm_date=1600160580",
+"w": 765
+},
+{
+"alt": "Kaple  po opravě",
+"barva": "#5d5e4a",
+"dh": "d90f8f9454951499",
+"h": 573,
+"jistota": 0.79,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.velkastahle.cz/obec/realizovane-projekty/oprava-kaple-boziho-tela-2/",
+"typ": "les",
+"url": "https://www.velkastahle.cz/data/editor/214cs_1.jpg?gcm_date=1600160514",
+"w": 765
+}
+],
 "materska-skola-vinicna-500388": [
 {
 "alt": "Na Rybníčku 8 foto budovy",
@@ -1768,6 +1828,23 @@
 "w": 800
 }
 ],
+"zakladni-skola-a-materska-skola-bozkov-586100": [
+{
+"alt": "",
+"barva": "#767f90",
+"dh": "000030080ccbf2ba",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAGAwQF/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIAAwQRIQVBEiJRMf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAYEQEBAAMAAAAAAAAAAAAAAAAAEwECEv/aAAwDAQACEQMRAD8Ajt+St2R2YMAGIGOx9mza5yA6FCdgH51uL1WxpjJosyt2CSQZXq3921Xweq4KqAMHoTS+yZYPS0z4wiCvJ3gGryvv994RWHD/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsamsbozkov.cz/materska-skola/aktuality-ms/",
+"typ": "budova",
+"url": "https://www.zsamsbozkov.cz/data/headerfooter/header_images/img20220325121413.jpg",
+"w": 1200
+}
+],
 "zakladni-skola-a-materska-skola-cervenka-000938": [
 {
 "alt": "1729758189555",
@@ -1851,6 +1928,62 @@
 "stranka": "https://www.zsmshabartice.cz/materska-skola/",
 "typ": "interier",
 "url": "https://www.zsmshabartice.cz/data/headerfooter/header_images/p1140933-2.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-jakubcovice-nad-odrou-625962": [
+{
+"alt": "Budova základní školy ve Školní ulici",
+"barva": "#67788d",
+"dh": "2090000f0706361d",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAiEAABBAIBBAMAAAAAAAAAAAABAgMEEQASIRMxQZFygaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAeEQACAQMFAAAAAAAAAAAAAAAAAQIDBDEREyGR8P/aAAwDAQACEQMRAD8ARbfQtXbxdVzmiuGqOnZ4dNN1srt7xRmHGQQU78G/AHrL5L0hbRbVakkgiiB+ViwryWQ5Uk8EmRFRwXQfiCRhiLkbq6l+OVqSNQd64+sMncT14XuzNlH/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolajakubcovice.cz/zakladni-skola",
+"typ": "budova",
+"url": "https://skolajakubcovice.cz/fotky/hlava-zs-budova-velka.webp?v=6ac53279",
+"w": 1200
+},
+{
+"alt": "Herna ve třídě Modrásků",
+"barva": "#a5947e",
+"dh": "7fb8fc3cbd8d1f44",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolajakubcovice.cz/materska-skola",
+"typ": "interier",
+"url": "https://skolajakubcovice.cz/fotky/ms-ms-herna-velka.webp?v=6ad1010d",
+"w": 1200
+},
+{
+"alt": "Školní zahrada — posezení pod stromy",
+"barva": "#6e7762",
+"dh": "0342868d1dccc098",
+"h": 900,
+"jistota": 0.979,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolajakubcovice.cz/zakladni-skola",
+"typ": "zahrada",
+"url": "https://skolajakubcovice.cz/fotky/zs-zs-zahrada-velka.webp?v=6ac50f75",
+"w": 1200
+},
+{
+"alt": "Škola v zimě",
+"barva": "#757d84",
+"dh": "aa12366bdbbbef3c",
+"h": 675,
+"jistota": 0.998,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolajakubcovice.cz/zakladni-skola",
+"typ": "budova",
+"url": "https://skolajakubcovice.cz/fotky/zs-zs-zima-velka.webp?v=6ac50f75",
 "w": 1200
 }
 ],
@@ -2027,6 +2160,23 @@
 "stranka": "https://www.skolanovapec.cz/",
 "typ": "zahrada",
 "url": "https://d04fa83210.clvaw-cdnwnd.com/15a5c4805660be8f7161d3bf2a1f26bb/200000119-91b0391b05/IMG_5886or-2.jpeg?ph=d04fa83210",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-roztoky-u-jilemnice-586282": [
+{
+"alt": "",
+"barva": "#907f6c",
+"dh": "288d4d1d3f61213d",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAD/8QAIBAAAgICAgIDAAAAAAAAAAAAAQMCEQAEITESIiNBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgERUQP/2gAMAwEAAhEDEQA/AGgoePi2IzN+0KIr95w7BXCS/BoBlLx74Iq8KlAKmF1GXdgYlhMaD1RaL5B66wF6RYzJIG7bYyAjJfXOWYbWtqycSpAhH6Ayx7XQqbD/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolaroztoky.cz/2026/09/06/nase-nova-trida/",
+"typ": "interier",
+"url": "https://www.skolaroztoky.cz/wp-content/uploads/2026/09/IMG_20260831_143116.jpg",
 "w": 1200
 }
 ],
