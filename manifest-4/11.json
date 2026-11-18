@@ -55,6 +55,36 @@
 "w": 1094
 }
 ],
+"detska-skupina-dracci-domazlice-i-ds02077": [
+{
+"alt": "Třída v Dětské skupině Dráčci",
+"barva": "#a09386",
+"dh": "2000e0e84dc10323",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAgEAACAQQCAwEAAAAAAAAAAAABAgMABBESBSExUWHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGREBAQEAAwAAAAAAAAAAAAAAAQASETFR/9oADAMBAAIRAxEAPwDcks1upLrsB6pqyvdmREjILAdEEef2pb2sc+plGuhyNOsVf4ewivLdZWZmjUkAEnOR1RnPsiB3MrIQo3eGI+nYAn7RXNc9aonKypHIyBQBgAecUVdNnN//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dracci-domazlice.cz/",
+"typ": "interier",
+"url": "https://www.dracci-domazlice.cz/image.php?oid=13244593&nid=21868",
+"w": 1200
+},
+{
+"alt": "Třída v Dětské skupině Dráčci",
+"barva": "#9c8d82",
+"dh": "3b7b63eaca383647",
+"h": 900,
+"jistota": 0.992,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dracci-domazlice.cz/",
+"typ": "interier",
+"url": "https://www.dracci-domazlice.cz/image.php?oid=13244594&nid=21868",
+"w": 1200
+}
+],
 "detska-skupina-foxik-krc-ds01377": [
 {
 "alt": "",
@@ -464,6 +494,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-skolicka-pipi-ds01826": [
+{
+"alt": "",
+"barva": "#b28967",
+"dh": "9edee7376f4d0613",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEBQb/xAAjEAACAQQBAwUAAAAAAAAAAAABAgMABBExIRJRYRMiQVJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQADAAMAAAAAAAAAAAAAAAAAASERUYH/2gAMAwEAAhEDEQA/AKAIAGkglThukgA4JGx+0ii2mjZ3nRDk+3pz8d6a1j9ZYwxJCcsxO+caq1oLaVRiIBl1gb7+KlWGVOHPS3BR+lI1dftgHNFaM1pYLIVmijVxvKE588Gil0On/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolickapipi.cz/",
+"typ": "interier",
+"url": "https://www.skolickapipi.cz/galerie/pipi-1.webp",
+"w": 1200
+},
+{
+"alt": "Herna se stolečky, kobercem a hračkami",
+"barva": "#ad8460",
+"dh": "aa878f8eacb6be80",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolickapipi.cz/",
+"typ": "interier",
+"url": "https://www.skolickapipi.cz/galerie/pipi-2.webp",
+"w": 1200
+},
+{
+"alt": "Dětské toalety a umyvadlo",
+"barva": "#a77b53",
+"dh": "37333335bdeccd87",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolickapipi.cz/",
+"typ": "hygiena",
+"url": "https://www.skolickapipi.cz/galerie/pipi-7.webp",
+"w": 900
+}
+],
 "detska-skupina-sokolik-ds00628": [
 {
 "alt": "",
@@ -547,6 +620,53 @@
 "stranka": "https://www.dsspuntici.cz/o-nas",
 "typ": "zahrada",
 "url": "https://static.wixstatic.com/media/5670fd_b38d8334cee5422e93771dead8d03595~mv2.jpeg",
+"w": 1200
+}
+],
+"hrave-pacicky-detska-skupina-ds00478": [
+{
+"alt": "",
+"barva": "#9f968d",
+"dh": "3f3f19181c1c0c99",
+"h": 797,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQABRESEyExIlFBwdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREAAgEEAwAAAAAAAAAAAAAAAAECEiFB8FGRof/aAAwDAQACEQMRAD8AettyjOJdS2SRukZxijbrdNEl5nT4jIBHz1+muZiIlghLa1jn3WE6IXpUZouqAUrST32aUk1ZhGcU7iT7A3TxVQ8+YqM+GkhRCRjlXokfVVTQs76aUvnej//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://hravepacicky.cz/galerie/",
+"typ": "interier",
+"url": "https://hravepacicky.cz/wp-content/uploads/2022/12/21367058_1950315198542482_3908006203031982328_o.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a29883",
+"dh": "96266e4f97578bc6",
+"h": 540,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://hravepacicky.cz/galerie/",
+"typ": "interier",
+"url": "https://hravepacicky.cz/wp-content/uploads/2022/12/Obrazek-WhatsApp-2022-11-15-v-16.55.18.jpg",
+"w": 1200
+}
+],
+"klicek-detska-skupina-ds00624": [
+{
+"alt": "",
+"barva": "#969397",
+"dh": "064b4bcb9e6e6be1",
+"h": 800,
+"jistota": 0.796,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCBQb/xAAjEAACAQQCAQUBAAAAAAAAAAABAgMABBIhEUETIiMxccHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAHBEAAQUBAQEAAAAAAAAAAAAAAQACAwQRIWES/9oADAMBAAIRAxEAPwB2KeFbiFBIgBJz9OWuNb6py5ubZJlTyJ48CWOPfW6zt7dyrCIkIUFhv++qlHjKPeyYDZAPHJp5Kz27nQEMFmN+GQ/O+an5XLvzbTqI+vndFV78wSNHE7KgOho/lFRlSZ7Q4Ad9WTciB5uL/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.klicekds.cz/",
+"typ": "interier",
+"url": "https://www.klicekds.cz/wp-content/uploads/2020/10/20090831-IMG_1254.jpg",
 "w": 1200
 }
 ],
