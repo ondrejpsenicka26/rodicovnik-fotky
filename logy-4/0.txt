@@ -1,10 +1,2 @@
-[11:45:32] Část 1/20: webů 168, hotovo 213, zbývá 6
-[11:45:36] https://www.dssouhvezdi.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 1 fotek ke kontrole
-[11:45:54] https://www.detskaskupinavlcaci.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 9 fotek ke kontrole
-[11:45:58] https://lindenkids.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 68 obrázků, 27 fotek ke kontrole
-[11:46:08] https://dszlaticka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
-[11:46:37] https://www.dsbabyland.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 68 obrázků, 31 fotek ke kontrole
-[11:46:43] https://dssykorky.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 50 obrázků, 13 fotek ke kontrole
-[11:47:09] tříděno 0/81
-[11:47:20] Dávka 1: hotovo 219/168, se fotkami 78; {'ok': 11, 'lide': 5, 'jine': 27, 'sablona': 0}
-[11:47:20] Konec: školek s fotkami 78; {'ok': 11, 'lide': 5, 'jine': 27, 'sablona': 0}
+[12:06:12] Část 1/20: webů 168, hotovo 219, zbývá 0
+[12:06:12] Konec: školek s fotkami 78; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
