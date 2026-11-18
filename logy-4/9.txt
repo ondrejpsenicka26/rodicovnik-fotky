@@ -1,15 +1,8 @@
-[11:04:13] Část 10/20: webů 180, hotovo 203, zbývá 11
-[11:04:22] https://www.mshornicerekev.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 1 fotek ke kontrole
-[11:04:23] https://www.msstribrnice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 6 fotek ke kontrole
-[11:04:29] https://www.skolkasusice.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 3 fotek ke kontrole
-[11:04:39] https://www.mszachotin.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 5 fotek ke kontrole
-[11:04:41] https://www.mslubenec.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 2 fotek ke kontrole
-[11:04:48] https://msloveckovice.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 442 obrázků, 0 fotek ke kontrole
-[11:04:53] https://www.ms-valy.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 198 obrázků, 0 fotek ke kontrole
-[11:04:57] https://mszlobice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 18 fotek ke kontrole
-[11:05:17] https://www.zskorouhev.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 88 obrázků, 24 fotek ke kontrole
-[11:05:31] https://www.msvojnuvmestec.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 11 fotek ke kontrole
-[11:07:59] https://mschudenice.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 43 obrázků, 1 fotek ke kontrole
-[11:08:14] tříděno 0/71
-[11:08:21] Dávka 1: hotovo 214/180, se fotkami 58; {'ok': 7, 'lide': 6, 'jine': 56, 'sablona': 0}
-[11:08:21] Konec: školek s fotkami 58; {'ok': 7, 'lide': 6, 'jine': 56, 'sablona': 0}
+[11:38:39] Část 10/20: webů 182, hotovo 214, zbývá 4
+[11:38:45] https://msotinoves.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[11:38:56] https://mspostoloprty.webnode.cz: 7 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 0 fotek ke kontrole
+[11:39:22] https://www.kinder-city.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 0 fotek ke kontrole
+[11:39:40] https://zskatov.webnode.cz: 10 stránek (galerie mimo web: 61 ['zskatov.rajce.idnes.cz'], alb: 1), 21 obrázků, 2 fotek ke kontrole
+[11:39:52] tříděno 0/2
+[11:39:52] Dávka 1: hotovo 218/182, se fotkami 58; {'ok': 0, 'lide': 0, 'jine': 2, 'sablona': 0}
+[11:39:52] Konec: školek s fotkami 58; {'ok': 0, 'lide': 0, 'jine': 2, 'sablona': 0}
