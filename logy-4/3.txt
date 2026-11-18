@@ -1,6 +1,2 @@
-[12:43:12] Část 4/20: webů 180, hotovo 224, zbývá 2
-[12:43:23] https://mstcsadova.estranky.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 1 fotek ke kontrole
-[12:43:57] https://litohlavy.cz/materska-skola: 14 stránek (galerie mimo web: 0 [], alb: 0), 62 obrázků, 5 fotek ke kontrole
-[12:44:05] tříděno 0/6
-[12:44:06] Dávka 1: hotovo 226/180, se fotkami 68; {'ok': 2, 'lide': 1, 'jine': 1, 'sablona': 0}
-[12:44:06] Konec: školek s fotkami 68; {'ok': 2, 'lide': 1, 'jine': 1, 'sablona': 0}
+[12:54:27] Část 4/20: webů 180, hotovo 226, zbývá 0
+[12:54:27] Konec: školek s fotkami 68; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
