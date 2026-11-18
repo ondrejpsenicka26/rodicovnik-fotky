@@ -46,6 +46,49 @@
 "w": 1200
 }
 ],
+"detska-skupina-bambini-ds00310": [
+{
+"alt": "",
+"barva": "#897e6f",
+"dh": "f1d0f4a8a91b8a99",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EACQQAAICAgEBCQAAAAAAAAAAAAECAxEABBITISIjUXFykbHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8AJNYbEjCFwDExV1c8fjzzBNKdGVfB5OewGVbOU6alZW7wPMgkvZs+uNMUXdWKSOpkU0QbC2uZ4vaVdAMLLx371/cMleOCR26my6uDRCswH1hhSf/Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://bambinivyskov.cz/",
+"typ": "interier",
+"url": "https://bambinivyskov.cz/assets/images/gallery/img1.jpg?v=1",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#917d5e",
+"dh": "81b133b331321a1e",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://bambinivyskov.cz/",
+"typ": "interier",
+"url": "https://bambinivyskov.cz/assets/images/gallery/img6.jpg?v=1",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#99958a",
+"dh": "da46adb632a9e9ad",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://bambinivyskov.cz/",
+"typ": "hygiena",
+"url": "https://bambinivyskov.cz/assets/images/gallery/img5.jpg?v=1",
+"w": 1200
+}
+],
 "detska-skupina-bublinka-ds10690": [
 {
 "alt": "",
@@ -306,6 +349,62 @@
 "typ": "hygiena",
 "url": "https://www.mskostelni.cz/data/multipage/editor/editor-11-111-cs_4_big.jpg?gcm_date=1737373423",
 "w": 1024
+}
+],
+"detska-skupina-medvidata-ds11052": [
+{
+"alt": "",
+"barva": "#949680",
+"dh": "cfc713191130304f",
+"h": 836,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACIQAQACAgAFBQAAAAAAAAAAAAECAwARBAUSEyEVIjEykf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABkRAQEBAAMAAAAAAAAAAAAAAAEAEQIUUf/aAAwDAQACEQMRAD8ARjzu3jbCUHtMDYQlsTNqOeXT4iyiyI9KBI8b3gNPLqe1Fb7tSHSAJnR6FCmpkW2Wb+3VJjv8wtR0q4zzxFnUnh05YEhv3G342q5Zrs+kTxv/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msbystrice.cz/pro-rodice/dopravni-hriste/",
+"typ": "budova",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9800.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#86817b",
+"dh": "7c774f69d91d7ebc",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msbystrice.cz/pro-rodice/dopravni-hriste/",
+"typ": "interier",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9756.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#828e74",
+"dh": "1998b439396972e6",
+"h": 801,
+"jistota": 0.987,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msbystrice.cz/pro-rodice/dopravni-hriste/",
+"typ": "zahrada",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9805.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c937b",
+"dh": "3071747737d1e3de",
+"h": 801,
+"jistota": 0.553,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msbystrice.cz/pro-rodice/dopravni-hriste/",
+"typ": "budova",
+"url": "https://www.msbystrice.cz/data/headerfooter/header_images/dsc9817.jpg",
+"w": 1200
 }
 ],
 "materska-skola-akimova-skolicka-006693": [
