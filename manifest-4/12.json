@@ -111,6 +111,36 @@
 "w": 843
 }
 ],
+"detska-skupina-boruvka-ds00936": [
+{
+"alt": "",
+"barva": "#86887b",
+"dh": "8fcf1b213939193f",
+"h": 679,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACAQAAEEAwACAwAAAAAAAAAAAAECAwQRABIhBTETQeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAT/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQISIQMR/9oADAMBAAIRAxEAPwBWERpXyFtJSetqNV9/maXIyJB5rR9VkfGsOx21h4p6sqFX6xlLZakhy9tU6ga9GCMKv1MnpldglCykjDI+QkOPSdmXVNpoCim8M0Lrmgof/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://safariclub.cz/ms-hradec-kralove/",
+"typ": "budova",
+"url": "https://safariclub.cz/wp-content/uploads/2023/12/mshk.jpg",
+"w": 922
+},
+{
+"alt": "",
+"barva": "#928d82",
+"dh": "cd98672f961f1dff",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://safariclub.cz/ms-pardubice/",
+"typ": "interier",
+"url": "https://safariclub.cz/wp-content/uploads/2023/12/431664142_3829899807274380_6020472967481768009_n-1.jpg",
+"w": 1200
+}
+],
 "detska-skupina-dracek-nehvizdy-ds02105": [
 {
 "alt": "",
@@ -436,6 +466,62 @@
 "typ": "interier",
 "url": "https://ovcary.cz/formular/IMG_20260227_121809059_HDR_69a18a40834a7.jpg",
 "w": 900
+}
+],
+"detska-skupina-paloucek-ds11020": [
+{
+"alt": "",
+"barva": "#8b896f",
+"dh": "183aebff9e4209cc",
+"h": 951,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgAEAAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQQG/8QAIxAAAgIBBAEFAQAAAAAAAAAAAQIDEQAEBRIhMRQWUmGx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABwRAAICAgMAAAAAAAAAAAAAAAACAREDYRITMf/aAAwDAQACEQMRAD8AqMTAaoWK84s6xS7NNMCFXs3ZH8znfcerRhzVQftfONXe0lnHrIYijDtuNkE5lklnuWKtL4WG3XTKxBa6+IJ/MMzNMIjxXb5GWgQY26PWGHq0Lls//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msduhasobeslav.cz/zahrada/",
+"typ": "budova",
+"url": "https://www.msduhasobeslav.cz/data/headerfooter/header_images/img1381.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#676a68",
+"dh": "cccccccc4c278880",
+"h": 900,
+"jistota": 0.756,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msduhasobeslav.cz/zahrada/",
+"typ": "zahrada",
+"url": "https://www.msduhasobeslav.cz/data/headerfooter/header_images/img8536.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8f8e75",
+"dh": "f6ddf9bd5dc8ba52",
+"h": 675,
+"jistota": 0.927,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msduhasobeslav.cz/zahrada/",
+"typ": "budova",
+"url": "https://www.msduhasobeslav.cz/data/headerfooter/header_images/img3993.JPG",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7c7c6f",
+"dh": "86b636b6373396f0",
+"h": 900,
+"jistota": 0.683,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msduhasobeslav.cz/zahrada/",
+"typ": "zahrada",
+"url": "https://www.msduhasobeslav.cz/data/headerfooter/header_images/img3991_1.jpg",
+"w": 1200
 }
 ],
 "detska-skupina-panacci-2-ds00187": [
@@ -1672,6 +1758,62 @@
 "typ": "interier",
 "url": "https://edu-kids.cz/wp-content/uploads/2025/01/1000054213.jpg",
 "w": 1000
+}
+],
+"zivy-klubik-v-bozkove-detska-skupina-datlici-ds00512": [
+{
+"alt": "",
+"barva": "#6e8290",
+"dh": "a46fe5e42caddb4f",
+"h": 675,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAIRAAAQMDBQEBAAAAAAAAAAAAAQACAwQREhMhIkFRcTH/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhMDFP/aAAwDAQACEQMRAD8AVJUwTRu0OOJs7UFr/B2j1M0UVHHI4tLiAcQe7ojnE/pv93WJ2NIyxF/VemmwTzlmn1oDuD7DwkqQnbHZSWlDyR//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-na-borech-ceske-udoli",
+"typ": "budova",
+"url": "https://www.spolekzivo.cz/files/img20250109103723.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#988a73",
+"dh": "6f694b2c2c6ecf8f",
+"h": 865,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-na-borech-skodaland",
+"typ": "interier",
+"url": "https://www.spolekzivo.cz/files/img-8716-kopie.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#556041",
+"dh": "26c606160743121b",
+"h": 1200,
+"jistota": 0.992,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-na-borech-ceske-udoli",
+"typ": "zahrada",
+"url": "https://www.spolekzivo.cz/files/img-6598.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#929395",
+"dh": "0b1dccdd5d0b810f",
+"h": 1141,
+"jistota": 0.999,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.spolekzivo.cz/skolka-v-cernicich",
+"typ": "budova",
+"url": "https://www.spolekzivo.cz/files/skolka-v-cernicich-galerie-01.jpg",
+"w": 1200
 }
 ]
 }

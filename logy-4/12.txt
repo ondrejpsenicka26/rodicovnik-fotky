@@ -1,15 +1,16 @@
-[02:14:08] Část 13/20: webů 154, hotovo 172, zbývá 11
-[02:14:15] https://aktivsenice.cz/aktivacci: 2 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
-[02:14:16] https://sovickamost.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 3 fotek ke kontrole
-[02:14:17] https://dsjilovedc.cz/DS_Kulisek.html: nedostupné nebo zakázané
-[02:14:21] https://heroldynek.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 16 fotek ke kontrole
-[02:14:26] https://veselenoticky.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 18 fotek ke kontrole
-[02:14:28] https://montessori-ceskytesin.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 3 fotek ke kontrole
-[02:14:33] https://kouzelnaskolicka.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 11 fotek ke kontrole
-[02:14:35] https://dsklubicko.eschool.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 1 fotek ke kontrole
-[02:14:37] https://dsslunicka.cz/teplice/detska-skupina-slunicka-teplice: 4 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 36 fotek ke kontrole
-[02:14:48] https://brno-lisen.cz/lesni-skolka-zemekvitek/t6040: 16 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 4 fotek ke kontrole
-[02:14:52] https://charitausti.cz/jak-pomahame/centrum-pro-rodinu-ovecka/detska-skupina-ovecka: 17 stránek (galerie mimo web: 0 [], alb: 0), 135 obrázků, 10 fotek ke kontrole
-[02:15:09] tříděno 0/102
-[02:15:26] Dávka 1: hotovo 183/154, se fotkami 45; {'ok': 9, 'lide': 17, 'jine': 63, 'sablona': 0}
-[02:15:26] Konec: školek s fotkami 45; {'ok': 9, 'lide': 17, 'jine': 63, 'sablona': 0}
+[04:00:02] Část 13/20: webů 164, hotovo 183, zbývá 12
+[04:00:03] https://dasice.cz/detska-skupina-kolousek-zminny: nedostupné nebo zakázané
+[04:00:10] https://detskaskupinabublinka.cz/programs/holice: nedostupné nebo zakázané
+[04:00:10] https://vzahradce.cz: nedostupné nebo zakázané
+[04:00:12] https://narodka.cz/montessori.html: nedostupné nebo zakázané
+[04:00:14] https://slunickopardubice.cz/centrum/stranka/duha/66: nedostupné nebo zakázané
+[04:00:39] https://safariclub.cz/ds-chocen-boruvka: 7 stránek (galerie mimo web: 0 [], alb: 0), 173 obrázků, 37 fotek ke kontrole
+[04:00:49] https://mimitabor.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 17 fotek ke kontrole
+[04:01:04] https://spolekzivo.cz/datlici: 7 stránek (galerie mimo web: 0 [], alb: 0), 186 obrázků, 41 fotek ke kontrole
+[04:01:14] https://msduhasobeslav.cz/detska-skupina-paloucek: 34 stránek (galerie mimo web: 0 [], alb: 0), 64 obrázků, 10 fotek ke kontrole
+[04:01:22] https://klubicko.zlin.eu: 6 stránek (galerie mimo web: 3 ['www.rajce.idnes.cz'], alb: 0), 18 obrázků, 12 fotek ke kontrole
+[04:01:32] https://dckvary.cz/nase-sluzby/detska-skupina-beruska: 16 stránek (galerie mimo web: 0 [], alb: 0), 14894 obrázků, 43 fotek ke kontrole
+[04:02:30] https://centrum-andilek.cz: 3 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'www.zonerama.com'], alb: 0), 49 obrázků, 7 fotek ke kontrole
+[04:02:44] tříděno 0/167
+[04:03:12] Dávka 1: hotovo 195/164, se fotkami 48; {'ok': 10, 'lide': 8, 'jine': 124, 'sablona': 0}
+[04:03:12] Konec: školek s fotkami 48; {'ok': 10, 'lide': 8, 'jine': 124, 'sablona': 0}
