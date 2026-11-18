@@ -1,5 +1,4 @@
-[10:15:31] Část 4/20: webů 167, hotovo 202, zbývá 1
-[10:15:48] https://msstarechovice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 3 fotek ke kontrole
-[10:15:59] tříděno 0/3
-[10:16:00] Dávka 1: hotovo 203/167, se fotkami 56; {'ok': 3, 'lide': 0, 'jine': 0, 'sablona': 0}
-[10:16:00] Konec: školek s fotkami 56; {'ok': 3, 'lide': 0, 'jine': 0, 'sablona': 0}
+[10:40:18] Část 4/20: webů 167, hotovo 203, zbývá 1
+[10:40:35] http://mskosmonautu.info: 11 stránek (galerie mimo web: 1 ['mskosmonautuinfo.rajce.idnes.cz'], alb: 0), 6 obrázků, 0 fotek ke kontrole
+[10:40:35] Dávka 1: hotovo 204/167, se fotkami 56; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[10:40:35] Konec: školek s fotkami 56; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
