@@ -1,6 +1,2 @@
-[10:16:06] Část 15/20: webů 161, hotovo 204, zbývá 2
-[10:17:41] https://mskladenskaprelouc.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 246 obrázků, 45 fotek ke kontrole
-[10:19:40] https://msdolniroven.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 19 fotek ke kontrole
-[10:19:56] tříděno 0/64
-[10:20:08] Dávka 1: hotovo 206/161, se fotkami 64; {'ok': 2, 'lide': 7, 'jine': 26, 'sablona': 0}
-[10:20:08] Konec: školek s fotkami 64; {'ok': 2, 'lide': 7, 'jine': 26, 'sablona': 0}
+[10:40:16] Část 15/20: webů 160, hotovo 206, zbývá 0
+[10:40:16] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
