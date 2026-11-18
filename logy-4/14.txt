@@ -1,6 +1,2 @@
-[12:54:24] Část 15/20: webů 174, hotovo 228, zbývá 2
-[12:54:40] https://skolkaelephant.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 9 obrázků, 9 fotek ke kontrole
-[12:54:49] https://ms-svata.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 6 fotek ke kontrole
-[12:55:02] tříděno 0/15
-[12:55:03] Dávka 1: hotovo 230/174, se fotkami 80; {'ok': 3, 'lide': 2, 'jine': 9, 'sablona': 0}
-[12:55:03] Konec: školek s fotkami 80; {'ok': 3, 'lide': 2, 'jine': 9, 'sablona': 0}
+[13:31:05] Část 15/20: webů 174, hotovo 230, zbývá 0
+[13:31:05] Konec: školek s fotkami 80; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
