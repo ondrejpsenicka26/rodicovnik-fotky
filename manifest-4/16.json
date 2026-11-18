@@ -1,4 +1,47 @@
 {
+"detska-skupina-aktivacek-otrokovice-ds02321": [
+{
+"alt": "og",
+"barva": "#8e8c74",
+"dh": "203ebf813c1fc081",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAsEAACAQIFAQUJAAAAAAAAAAABAgMAEQQFEiExQhMUImGxFUFRUnGCocHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AKBhkA2Zb+RpTFIvUhHmhHpWntKSWV9C3At03A23/NZnMYQ1sSQnAvosL1lFc1zRJ8iH7j/KKWR4XkZlkTST4SPeKKeEXCzx5evZIpYAdTEelPJiknDAwIQwtbc/uphzfa/0pwx+NTKOUxy7USQ8ygnhVFFS5hfvJ8TC4HDGijV5X//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.aktivnezivotem.cz/detska-skupina-aktivacek/detska-skupina-aktivacek-otrokovice/",
+"typ": "interier",
+"url": "https://www.aktivnezivotem.cz/wp-content/uploads/2025/07/Herna-Otrokovice-aktual-1.jpg",
+"w": 900
+},
+{
+"alt": "og",
+"barva": "#8a7f76",
+"dh": "63cc0c2c463e4e03",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.aktivnezivotem.cz/detska-skupina-aktivacek/detska-skupina-aktivacek-otrokovice/",
+"typ": "interier",
+"url": "https://www.aktivnezivotem.cz/wp-content/uploads/2025/07/Herna-Otrokovice-aktual-3.jpg",
+"w": 900
+},
+{
+"alt": "og",
+"barva": "#9e9b92",
+"dh": "763e2c3c9eb28280",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.aktivnezivotem.cz/detska-skupina-aktivacek/detska-skupina-aktivacek-otrokovice/",
+"typ": "hygiena",
+"url": "https://www.aktivnezivotem.cz/wp-content/uploads/2025/07/Koupelna-Otrokovice-1.jpg",
+"w": 900
+}
+],
 "detska-skupina-beranek-v-zahrade-ds00948": [
 {
 "alt": "",
@@ -52,6 +95,62 @@
 "stranka": "https://beranek.orangery.cz/fotogalerie/",
 "typ": "interier",
 "url": "https://beranek.orangery.cz/wp-content/uploads/2025/08/Beranek-kuratka-trida-3.webp",
+"w": 1200
+}
+],
+"detska-skupina-brodsti-broucci-ds01153": [
+{
+"alt": "",
+"barva": "#767b77",
+"dh": "2070d8d05c343205",
+"h": 801,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwYH/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDEQAEIUEFEhMiMVFxsdH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAMBAAMAAAAAAAAAAAAAAAABAhEDEhP/2gAMAwEAAhEDEQA/AI1mrUwosDWJLtl9garKtD1SfQyqBKfC7qKSCwBfB4xDSKI1Cize+/GMiJGiUsCQx9L+fzJrmbrQULMOhKPKK3GGYPs4JZq2t3Yn7ww9ZHof/9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://hb.charita.cz/dum-panny-marie/rekonstrukce-budovy-pro-socialni-sluzby/",
+"typ": "budova",
+"url": "https://hb.charita.cz/res/archive/007/003324.jpg?seek=1766133409",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#897c70",
+"dh": "0e1a0a92808580c0",
+"h": 801,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://hb.charita.cz/dum-panny-marie/rekonstrukce-budovy-pro-socialni-sluzby/",
+"typ": "interier",
+"url": "https://hb.charita.cz/res/archive/002/003327.jpg?seek=1766133435",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7c7a74",
+"dh": "0f4fcec28ed28385",
+"h": 801,
+"jistota": 0.997,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://hb.charita.cz/dum-panny-marie/rekonstrukce-budovy-pro-socialni-sluzby/",
+"typ": "budova",
+"url": "https://hb.charita.cz/res/archive/010/003325.jpg?seek=1766133417",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#948f89",
+"dh": "d0a88c8888f2e8cc",
+"h": 801,
+"jistota": 0.968,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://hb.charita.cz/dum-panny-marie/rekonstrukce-budovy-pro-preventivni-sluzby/",
+"typ": "interier",
+"url": "https://hb.charita.cz/res/archive/024/003100.jpg?seek=1756189613",
 "w": 1200
 }
 ],
@@ -373,6 +472,36 @@
 "w": 900
 }
 ],
+"detska-skupina-miniskolka-slunicko-ds00238": [
+{
+"alt": "",
+"barva": "#a89b89",
+"dh": "d0471f9ba3abbf84",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAJBAAAQQCAgIBBQAAAAAAAAAAAQACAxEEEiExUWETIiNBkfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAXEQADAQAAAAAAAAAAAAAAAAAAARIR/9oADAMBAAIRAxEAPwDpHM3rmq9KPwAG7tYsGbmxzWaMQFu2eD/EybOyHykiVkbePpBJ8qOopjL2TnCCXQgnhCw8jIc6T7he5wFWG8H9lCaJHFrQ6W6p7dR24j2lyuJNtBAIHrrrpS8pmo8KsIxRRczY2ULQ1A/CEhCmf//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.slunickopardubice.cz/centrum/stranka/vse-o-volne-herne/92",
+"typ": "interier",
+"url": "https://www.slunickopardubice.cz/centrum/public/galerie/2025/HERNICKA/image5_%289%29.jpeg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#958068",
+"dh": "e12d2cac4c2c6c49",
+"h": 1200,
+"jistota": 0.769,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.slunickopardubice.cz/centrum/stranka/vse-o-volne-herne/92",
+"typ": "interier",
+"url": "https://www.slunickopardubice.cz/centrum/public/galerie/2025/HERNICKA/image4_%2815%29.jpeg",
+"w": 900
+}
+],
 "detska-skupina-mlynek-ds00717": [
 {
 "alt": "",
@@ -625,6 +754,49 @@
 "typ": "interier",
 "url": "https://0bd3c1911d.clvaw-cdnwnd.com/752eb16dedaa2991328c4b9ba8e24201/200000225-de038de03a/700/BAB_2922-6.jpeg?ph=0bd3c1911d",
 "w": 700
+}
+],
+"detska-skupina-zelenka-ds10461": [
+{
+"alt": "Denní místnost",
+"barva": "#bfa17f",
+"dh": "3cd97b3935bc335e",
+"h": 1200,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAUABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAQBAgUD/8QAIhAAAgICAgEFAQAAAAAAAAAAAQIDEQAEEiExFCJBUWHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAEREv/aAAwDAQACEQMRAD8A7SahESlaKlQx/LGTmBGauaC+xR7OUa26JIHjRo2AXhzvrq/vznJpjID7ZCv0vx81Xj+5mvK86U7M3pZBGsSVV9izjNtqOPbdHLyIQgFcQcY4NeGqiproqqAAKrMO7RG09pHgjGMnVYn9TIOusYxiH//Z",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dszelenka.cz/",
+"typ": "interier",
+"url": "https://www.dszelenka.cz/storage/app/resources/resize/1400_1400_crop/img_45223a5a4d6d5d66098ef772b339e74b.webp",
+"w": 1200
+},
+{
+"alt": "Místnost pro odpočinek dětí",
+"barva": "#c68973",
+"dh": "9c106399cff6f8e0",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dszelenka.cz/",
+"typ": "interier",
+"url": "https://www.dszelenka.cz/storage/app/resources/resize/1400_1400_crop/img_648d6e095cb65fb11160af47e6ef3884.webp",
+"w": 1200
+},
+{
+"alt": "Toalety",
+"barva": "#955538",
+"dh": "8383832dad6d4933",
+"h": 1200,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dszelenka.cz/",
+"typ": "hygiena",
+"url": "https://www.dszelenka.cz/storage/app/resources/resize/1400_1400_crop/img_c63bd3fd2fb467a75ca61b7192783947.webp",
+"w": 1200
 }
 ],
 "lesni-materska-skola-andelska-zahradka-000679": [

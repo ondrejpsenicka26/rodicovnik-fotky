@@ -1,9 +1,14 @@
-[02:14:34] Část 17/20: webů 147, hotovo 163, zbývá 5
-[02:14:40] https://ludensolomouc.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
-[02:14:45] https://resort-stesti.cz/baby-park-velka-bystrice-detska-skupina: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 4 fotek ke kontrole
-[02:15:08] https://tvojeliduska.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 22 fotek ke kontrole
-[02:15:36] https://schaferschool.cz/detska-skupina: 5 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 13 fotek ke kontrole
-[02:16:11] https://petrzelka-ds.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 84 obrázků, 41 fotek ke kontrole
-[02:16:25] tříděno 0/80
-[02:16:31] Dávka 1: hotovo 168/147, se fotkami 37; {'ok': 7, 'lide': 4, 'jine': 51, 'sablona': 0}
-[02:16:31] Konec: školek s fotkami 37; {'ok': 7, 'lide': 4, 'jine': 51, 'sablona': 0}
+[03:59:53] Část 17/20: webů 156, hotovo 168, zbývá 10
+[04:00:11] https://dshangarek.cz/broucek-zlin: 2 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 5 fotek ke kontrole
+[04:00:23] https://oznicanek.oznice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 3 fotek ke kontrole
+[04:00:33] https://aktivnezivotem.cz/detska-skupina-aktivacek/detska-skupina-aktivacek-otrokovice: 2 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 7 fotek ke kontrole
+[04:00:36] https://dszelenka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 36 obrázků, 29 fotek ke kontrole
+[04:00:40] https://akropolis-uh.cz/miniskolka-uherske-hradiste: 5 stránek (galerie mimo web: 1 ['akropolisuh.rajce.idnes.cz'], alb: 0), 68 obrázků, 4 fotek ke kontrole
+[04:00:41] https://hb.charita.cz/jak-pomahame/detska-skupina-brodsti-broucci: 9 stránek (galerie mimo web: 0 [], alb: 0), 95 obrázků, 34 fotek ke kontrole
+[04:00:41] https://vsestary-obec.cz/obec/detska-skupina-vseslicky: 13 stránek (galerie mimo web: 0 [], alb: 0), 212 obrázků, 0 fotek ke kontrole
+[04:00:52] https://rckulihrasek.cz/locations/detska-skupina-kuliklubicko-rc-kulihrasek: 9 stránek (galerie mimo web: 1 ['kulihrasek-pce.rajce.idnes.cz'], alb: 0), 62 obrázků, 23 fotek ke kontrole
+[04:01:30] https://namestnosl.cz/detska-skupina-pri-ms-husova/ds-1187: nedostupné nebo zakázané
+[04:02:38] https://slunickopardubice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 21 fotek ke kontrole
+[04:02:53] tříděno 0/126
+[04:03:08] Dávka 1: hotovo 178/156, se fotkami 41; {'ok': 12, 'lide': 5, 'jine': 69, 'sablona': 0}
+[04:03:08] Konec: školek s fotkami 41; {'ok': 12, 'lide': 5, 'jine': 69, 'sablona': 0}
