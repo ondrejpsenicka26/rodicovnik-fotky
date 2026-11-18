@@ -106,6 +106,23 @@
 "w": 700
 }
 ],
+"detska-skupina-o-deti-postarano-senorady-ds11400": [
+{
+"alt": "",
+"barva": "#7a8998",
+"dh": "fdbeac2b2c2e0c41",
+"h": 750,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAkEAACAQQBAwUBAAAAAAAAAAABAgMABBESMRMhYQUUIkFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAREAAgMh/9oADAMBAAIRAxEAPwBm39QjvZ5QF+AfVRnvjXJ4571ud7ZBBu4TqqWBySOcc4qKtqltGOi8ibd2w3NdooReSolw7uMfZp12uC3Ac6kJS1Z+xmh2wXwSNtsA/niikmsVtQqW800aMNtQwIB/o8UVI7WJbMYzA4p//9k=",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.odetipostarano.cz/detska-skupina-senorady/",
+"typ": "budova",
+"url": "https://www.odetipostarano.cz/wp-content/uploads/2025/12/20260727_191938.jpg",
+"w": 1200
+}
+],
 "detska-skupina-targevacek-kobylisy-ds10422": [
 {
 "alt": "Dětská skupina Targeváček Kobylisy",
@@ -121,6 +138,62 @@
 "typ": "interier",
 "url": "https://www.targevacek.cz/wp-content/uploads/2025/10/DS_Kobylisy.jpeg",
 "w": 900
+}
+],
+"detska-skupina-zeleny-cap-ds11149": [
+{
+"alt": "Rozkvétající předzahrádka v Budínku",
+"barva": "#828782",
+"dh": "132332ce4fcfe2cc",
+"h": 1000,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAABAgUD/8QAKBAAAgICAQIDCQAAAAAAAAAAAQIDEQAEIRITBUFRBiMxMnGBofDx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIREhNB/9oADAMBAAIRAxEAPwDbX0U14mkcdTgXzzjvCj3UcEU3zEfX9GDlZYVUM7hWNUOcy+w2pZhk7bAiz0+v8wxll2cyWlR2uxfllnM1/aRYYQk0Y2H5t+sL+KyxvZCuTA7kiHoViQQQQL5zzmmWey0TdphZtfTCp77bYyUxVLBPkbxW1wEUcA0CBkknbKlD1gG1jMxaKOVF+HSAAAfvljOoqzAGucsyBk//2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.dccap.cz/category/zahrada-u-capa/",
+"typ": "budova",
+"url": "https://www.dccap.cz/2020_06_zahrada_ucapa/01Rozkv%C3%A9taj%C3%ADc%C3%AD-p%C5%99edzahr%C3%A1dka.jpg",
+"w": 750
+},
+{
+"alt": "",
+"barva": "#939b80",
+"dh": "0f973737657fb93f",
+"h": 668,
+"jistota": 0.965,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.dccap.cz/category/prirodni-zahrada-bestin/",
+"typ": "zahrada",
+"url": "https://www.dccap.cz/2020_04_pzb/2020_04_BB_zahrada2.JPG",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#837d72",
+"dh": "e3eb71d90137cc35",
+"h": 960,
+"jistota": 0.969,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.dccap.cz/category/zahrada-u-capa/",
+"typ": "les",
+"url": "https://www.dccap.cz/2019_07_zahrada/2019_07_Zahrada04a.jpg",
+"w": 720
+},
+{
+"alt": "Pohled na dvorek z bylinkové spirály",
+"barva": "#717f7b",
+"dh": "77eeb0610c931e14",
+"h": 656,
+"jistota": 0.735,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://www.dccap.cz/category/zahrada-u-capa/",
+"typ": "budova",
+"url": "https://www.dccap.cz/2020_06_zahrada_ucapa/02Pohled-z-bylinkov%C3%A9-spir%C3%A1ly.jpg",
+"w": 922
 }
 ],
 "happy-point-materska-skola-089831": [
