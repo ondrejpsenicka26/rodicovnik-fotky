@@ -1547,6 +1547,62 @@
 "w": 1071
 }
 ],
+"materska-skola-satalice-503743": [
+{
+"alt": "",
+"barva": "#687b79",
+"dh": "fffbf36f1f0f4353",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACAQAAIBBAIDAQAAAAAAAAAAAAECEQADBCESQQUTYeH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAbEQACAwADAAAAAAAAAAAAAAAAAgEDIRIxQf/aAAwDAQACEQMRAD8AoXrKsDxIMGDG4NKXMQCS7QPgqNh3rmEzOjcmbtuqdfyBySfYW2sSD+VTXvPWBLQvukc5BJmSJ3RWbh+RnrQorPxgU//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://ms-satalice.cz/fotogalerie/budova-tridy-a-zahrada-foto/",
+"typ": "budova",
+"url": "https://ms-satalice.cz/wp-content/uploads/2025/12/MS-Satalice-Budova_03b-2025.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#84807d",
+"dh": "0d3f2ec90f0f1f1f",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://ms-satalice.cz/fotogalerie/budova-tridy-a-zahrada-foto/",
+"typ": "interier",
+"url": "https://ms-satalice.cz/wp-content/uploads/2020/05/MS-Satalice-Tridy_21.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#74765d",
+"dh": "a968b5208e9cd999",
+"h": 675,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://ms-satalice.cz/fotogalerie/budova-tridy-a-zahrada-foto/",
+"typ": "zahrada",
+"url": "https://ms-satalice.cz/wp-content/uploads/2020/05/MS-Satalice-Hriste_03.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6c6f5a",
+"dh": "1e351970b8b03223",
+"h": 675,
+"jistota": 0.973,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://ms-satalice.cz/fotogalerie/budova-tridy-a-zahrada-foto/",
+"typ": "les",
+"url": "https://ms-satalice.cz/wp-content/uploads/2020/05/MS-Satalice-Hriste_04.jpg",
+"w": 1200
+}
+],
 "materska-skola-severacek-633221": [
 {
 "alt": "",
