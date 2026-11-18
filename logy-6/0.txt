@@ -1,0 +1,21 @@
+[08:29:36] Část 1/8: webů 17, hotovo 0, zbývá 17
+[08:29:42] https://www.skolkamasarykova.cz: 4 stránek (galerie mimo web: 1 ['www.flickr.com'], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[08:29:53] https://www.hrabyne.cz: 5 stránek (galerie mimo web: 2 ['hrabenkyzhrabyne.rajce.idnes.cz', 'sokol-hrabyne.rajce.idnes.cz'], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[08:29:55] https://skolabosonohy.cz: 7 stránek (galerie mimo web: 1 ['zsbosonohy.rajce.idnes.cz'], alb: 0), 5 obrázků, 0 fotek ke kontrole
+[08:29:56] https://www.prysk.cz: 14 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 1), 0 obrázků, 0 fotek ke kontrole
+[08:30:11] https://centrum-andilek.cz: 4 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'www.zonerama.com'], alb: 2), 72 obrázků, 9 fotek ke kontrole
+[08:30:11] https://msuplavhaly.eu: 3 stránek (galerie mimo web: 1 ['www.flickr.com'], alb: 1), 26 obrázků, 21 fotek ke kontrole
+[08:30:16] https://www.zahornice.cz: 16 stránek (galerie mimo web: 25 ['eu.zonerama.com', 'www.zonerama.com'], alb: 24), 0 obrázků, 0 fotek ke kontrole
+[08:30:20] https://www.tvrdonice.cz: 15 stránek (galerie mimo web: 1 ['tvrdoniceaktualne.rajce.idnes.cz'], alb: 0), 12 obrázků, 0 fotek ke kontrole
+[08:30:41] https://www.skolapolepy.cz: 25 stránek (galerie mimo web: 12 ['eu.zonerama.com'], alb: 12), 217 obrázků, 6 fotek ke kontrole
+[08:30:43] https://rckulihrasek.cz/locations/detska-skupina-kuliklubicko-rc-kulihrasek: 14 stránek (galerie mimo web: 1 ['kulihrasek-pce.rajce.idnes.cz'], alb: 5), 207 obrázků, 15 fotek ke kontrole
+[08:30:45] https://hermanov.info/detska-skupina-hermanek: 4 stránek (galerie mimo web: 1 ['hermanov.rajce.idnes.cz'], alb: 5), 120 obrázků, 23 fotek ke kontrole
+[08:30:46] https://obec-jankovice.cz/volny-cas/detska-skupina-beruska-kozasice: 12 stránek (galerie mimo web: 1 ['jankoavice.rajce.idnes.cz'], alb: 5), 134 obrázků, 23 fotek ke kontrole
+[08:31:05] https://skolka-ctyrlistek.cz: 18 stránek (galerie mimo web: 1 ['skolkactyrlistekbechovice.rajce.idnes.cz'], alb: 5), 591 obrázků, 36 fotek ke kontrole
+[08:31:05] https://www.zssvihov.info: 15 stránek (galerie mimo web: 3 ['mssvihov.rajce.idnes.cz', 'zssvihov-sd.rajce.idnes.cz', 'zssvihov.rajce.idnes.cz'], alb: 10), 26 obrázků, 1 fotek ke kontrole
+[08:31:14] https://www.zsmstynec.cz: 28 stránek (galerie mimo web: 8 ['photos.app.goo.gl'], alb: 8), 172 obrázků, 34 fotek ke kontrole
+[08:31:22] https://zsolesnice.cz: 17 stránek (galerie mimo web: 1 ['rajce.net'], alb: 1), 329 obrázků, 45 fotek ke kontrole
+[08:31:23] https://www.msvaly.cz: 13 stránek (galerie mimo web: 1 ['skolkavaly.rajce.idnes.cz'], alb: 5), 312 obrázků, 45 fotek ke kontrole
+[08:31:33] tříděno 0/258
+[08:31:47] Dávka 1: hotovo 17/17, se fotkami 1; {'ok': 1, 'lide': 11, 'jine': 243, 'sablona': 0}
+[08:31:47] Konec: školek s fotkami 1; {'ok': 1, 'lide': 11, 'jine': 243, 'sablona': 0}
