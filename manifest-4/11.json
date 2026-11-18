@@ -1190,6 +1190,23 @@
 "w": 900
 }
 ],
+"materska-skola-sidliste-429-755579": [
+{
+"alt": "",
+"barva": "#5f6970",
+"dh": "6f67e3a4e0e6fc18",
+"h": 615,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgACgAUAwEiAAIRAQMRAf/EABgAAAIDAAAAAAAAAAAAAAAAAAAEAQID/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQIAAxEFIQQSEzGRMkFhkrH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECExL/2gAMAwEAAhEDEQA/AKahr9tiFK0sRRsG98eNoqNWssp5biGyO7HB/PmbKSTuTJZVz6R4hpLZcQkKqeGYZ6jfUwjMJre4ZVP/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.touzim.cz/mesto/projekty/prijate-dotace-na-projekty/obnova-pamatek/",
+"typ": "budova",
+"url": "https://www.touzim.cz/data/headerfooter/header_images/20220328150934.jpg",
+"w": 1200
+}
+],
 "materska-skola-stromovka-590387": [
 {
 "alt": "",
@@ -1231,6 +1248,62 @@
 "typ": "interier",
 "url": "https://ms-stromovka.cz/wp-content/uploads/2020/10/PB082372.jpg",
 "w": 1200
+}
+],
+"materska-skola-vranov-nad-dyji-614669": [
+{
+"alt": "",
+"barva": "#7e816b",
+"dh": "f8e44b0f873f8f86",
+"h": 733,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAIBAAAgIDAAEFAAAAAAAAAAAAAQIAEQMEIQUiMkFCcf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABwRAAEDBQAAAAAAAAAAAAAAAAABAgMEExRBUf/aAAwDAQACEQMRAD8AjHl19jIE9SE/LDgjzeP1EVWOewTRIInGshj2WItSb7+QVqJF2VsbeGybOqQaZ6Br2HsIhbH7GETJeZtIf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msvranov.cz/fotogalerie",
+"typ": "budova",
+"url": "https://msvranov.cz/upload/fotogalerie/ms-vranov-nad-dyji-27.jpg",
+"w": 1100
+},
+{
+"alt": "",
+"barva": "#aa8d6c",
+"dh": "fc3c4c238b9a6ace",
+"h": 733,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msvranov.cz/fotogalerie",
+"typ": "interier",
+"url": "https://msvranov.cz/upload/fotogalerie/9S5A9784-2.jpg",
+"w": 1100
+},
+{
+"alt": "",
+"barva": "#ae987f",
+"dh": "dbc624c2c48b1c0c",
+"h": 733,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msvranov.cz/fotogalerie",
+"typ": "interier",
+"url": "https://msvranov.cz/upload/fotogalerie/9S5A9792-2.jpg",
+"w": 1100
+},
+{
+"alt": "",
+"barva": "#a69a6f",
+"dh": "1e7f3f3f32b4fcbf",
+"h": 733,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msvranov.cz/fotogalerie",
+"typ": "hygiena",
+"url": "https://msvranov.cz/upload/fotogalerie/9S5A9789-2.jpg",
+"w": 1100
 }
 ],
 "ms-beruska-350294": [
@@ -1484,6 +1557,23 @@
 "typ": "hygiena",
 "url": "https://www.zs-ns2.cz/soubory/clanky/0042_pronajmy-prostoru/fotky/zrcadlova-telocvicna-5_1696426801.jpg",
 "w": 1067
+}
+],
+"zakladni-skola-a-materska-skola-olbramovice-615011": [
+{
+"alt": "",
+"barva": "#7e8580",
+"dh": "fffcf471696101b1",
+"h": 731,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADAAUAwEiAAIRAQMRAf/EABcAAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAkEAACAQMDAwUAAAAAAAAAAAABAhEAAwQTIUEFFSKCocHR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMTEf/aAAwDAQACEQMRAD8AtyOtFgrY9kgEb6g54iDUXdsxzAW0PT+1rttsbat4gRALD6oTHWzurMePKD8VnR8CrQx+qaZCvjuzACSCoBMb80Uq4guNJ9gBRTaRMon/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsolbramovice.cz/materska-skola/fotogalerie/skolni-rok-2024-2025/lampionovy-pruvod-v-ms-6-11-2024-425cs.html",
+"typ": "budova",
+"url": "https://www.zsolbramovice.cz/data/headerfooter/header_images/dsc04311.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-pustejov-625610": [
