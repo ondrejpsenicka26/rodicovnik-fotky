@@ -1,0 +1,45 @@
+{
+"zakladni-skola-a-materska-skola-ujezd-004460": [
+{
+"alt": "",
+"barva": "#798079",
+"dh": "43011b2c033cc14f",
+"h": 900,
+"jistota": 0.874,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBgQF/8QAJxAAAgEDAgMJAAAAAAAAAAAAAQIDAAQREiEGItEFE0FRUmGRweH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABkRAQACAwAAAAAAAAAAAAAAAAABYRIhUf/aAAwDAQACEQMRAD8AZD2pcAb3smAM7sK3xcRyRsvelZU8dK83SpyO3lXAXQ+fVsR1ppiZFJlmVQuCQifdAi5d2Tidg/LZjHu35RUxLPDrOlGcebOcn4oqysa4/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsujezd.cz/materska-skola-1/",
+"typ": "budova",
+"url": "https://www.zsujezd.cz/data/headerfooter/header_images/dsc01315.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#726052",
+"dh": "373d353535353d39",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsujezd.cz/materska-skola-1/",
+"typ": "interier",
+"url": "https://www.zsujezd.cz/data/headerfooter/header_images/dscn7188a.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8b8073",
+"dh": "00c08282aea4e6c6",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsujezd.cz/materska-skola-1/",
+"typ": "interier",
+"url": "https://www.zsujezd.cz/data/headerfooter/header_images/dscn7191a.jpg",
+"w": 1200
+}
+]
+}

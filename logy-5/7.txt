@@ -1,0 +1,27 @@
+[08:15:34] Část 8/8: webů 23, hotovo 0, zbývá 23
+[08:15:43] https://www.hlubokemasuvky.cz: 8 stránek (galerie mimo web: 4 ['photos.app.goo.gl'], alb: 3), 1 obrázků, 0 fotek ke kontrole
+[08:15:51] https://www.dekanka.cz: 14 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 1), 14 obrázků, 2 fotek ke kontrole
+[08:15:55] https://skolanosislav.cz: 11 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 1), 10 obrázků, 3 fotek ke kontrole
+[08:16:00] https://skolamachov.cz: 8 stránek (galerie mimo web: 1 ['zsmachov.rajce.idnes.cz'], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[08:16:00] http://www.sumavska37.cz: 15 stránek (galerie mimo web: 1 ['skolkasumavska37.rajce.idnes.cz'], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[08:16:02] https://www.zs-brezinova.cz: 27 stránek (galerie mimo web: 7 ['photos.app.goo.gl'], alb: 7), 6 obrázků, 1 fotek ke kontrole
+[08:16:19] https://www.zsmestotouskov.cz: 1 stránek (galerie mimo web: 1 ['zsmestotouskov.rajce.net'], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[08:16:20] https://www.msmk.cz: 18 stránek (galerie mimo web: 1 ['skolkapalackeho.rajce.idnes.cz'], alb: 0), 25 obrázků, 1 fotek ke kontrole
+[08:16:24] https://www.vlachovice.cz: 4 stránek (galerie mimo web: 2 ['knihovnavlachovice.rajce.idnes.cz', 'obecvlachovice.rajce.idnes.cz'], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[08:16:26] https://www.pzskarvina.cz: 6 stránek (galerie mimo web: 1 ['www.rajce.net'], alb: 1), 394 obrázků, 16 fotek ke kontrole
+[08:16:49] https://www.zsmochtin.info: 4 stránek (galerie mimo web: 3 ['eu.zonerama.com', 'mochtin80.rajce.idnes.cz', 'zsmochtin.rajce.idnes.cz'], alb: 1), 14 obrázků, 7 fotek ke kontrole
+[08:16:58] https://www.zskolin.cz: 3 stránek (galerie mimo web: 1 ['zskolincz.rajce.idnes.cz'], alb: 0), 30 obrázků, 14 fotek ke kontrole
+[08:17:02] https://www.zsfrymburk.cz: 11 stránek (galerie mimo web: 2 ['skolkafrymburk.rajce.idnes.cz', 'zsfrymburk.rajce.idnes.cz'], alb: 0), 161 obrázků, 1 fotek ke kontrole
+[08:17:03] https://www.zspal.cz: 7 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'www.zonerama.com'], alb: 2), 10 obrázků, 3 fotek ke kontrole
+[08:17:31] https://www.zsujezd.cz: 20 stránek (galerie mimo web: 1 ['www.rajce.idnes.cz'], alb: 1), 161 obrázků, 12 fotek ke kontrole
+[08:17:33] https://www.zsmsvroutek.cz: 21 stránek (galerie mimo web: 1 ['ucitelkahanka.rajce.idnes.cz'], alb: 0), 122 obrázků, 1 fotek ke kontrole
+[08:18:01] https://zspraskacka.cz: 24 stránek (galerie mimo web: 3 ['eu.zonerama.com'], alb: 3), 242 obrázků, 10 fotek ke kontrole
+[08:18:01] https://www.zsblazkova.cz: 1 stránek (galerie mimo web: 29 ['www.rajce.idnes.cz', 'zsblazkova.rajce.idnes.cz'], alb: 26), 46 obrázků, 4 fotek ke kontrole
+[08:18:09] https://wp.skolahlavnovice.info: 4 stránek (galerie mimo web: 16 ['www.rajce.idnes.cz', 'zshlavnovice.rajce.idnes.cz'], alb: 12), 27 obrázků, 13 fotek ke kontrole
+[08:18:26] https://www.zskacov.cz: 15 stránek (galerie mimo web: 13 ['kolopetr.rajce.idnes.cz', 'www.rajce.idnes.cz', 'zsamskacov.rajce.net'], alb: 8), 32 obrázků, 12 fotek ke kontrole
+[08:18:27] https://www.zsmskrcin.cz: 21 stránek (galerie mimo web: 6 ['rajce.net', 'sdskkrcin.rajce.idnes.cz', 'terenniberuskykrcin.rajce.idnes.cz'], alb: 2), 305 obrázků, 1 fotek ke kontrole
+[08:19:09] https://msholanova.cz: 9 stránek (galerie mimo web: 1 ['msholanova.rajce.idnes.cz'], alb: 0), 140 obrázků, 36 fotek ke kontrole
+[08:19:11] https://msduha.eu: 15 stránek (galerie mimo web: 2 ['msduhapopkovice.rajce.idnes.cz', 'msduhastarecivice.rajce.idnes.cz'], alb: 0), 282 obrázků, 37 fotek ke kontrole
+[08:19:25] tříděno 0/174
+[08:19:44] Dávka 1: hotovo 23/23, se fotkami 1; {'ok': 3, 'lide': 7, 'jine': 158, 'sablona': 0}
+[08:19:44] Konec: školek s fotkami 1; {'ok': 3, 'lide': 7, 'jine': 158, 'sablona': 0}
