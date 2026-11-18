@@ -1,11 +1,6 @@
-[11:04:05] Část 11/20: webů 176, hotovo 214, zbývá 7
-[11:04:30] https://www.skolkabrnirov.cz: 14 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 9 fotek ke kontrole
-[11:04:33] https://materskaskolakysice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 14 obrázků, 6 fotek ke kontrole
-[11:04:46] https://www.mschotimer.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 195 obrázků, 4 fotek ke kontrole
-[11:04:46] https://www.skolkatrebiz.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 21 fotek ke kontrole
-[11:05:14] https://www.mstrebusin.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 405 obrázků, 17 fotek ke kontrole
-[11:05:16] https://www.zsmskostelany.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 173 obrázků, 43 fotek ke kontrole
-[11:05:33] https://www.zskozlov.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 1081 obrázků, 16 fotek ke kontrole
-[11:05:47] tříděno 0/116
-[11:05:57] Dávka 1: hotovo 221/176, se fotkami 67; {'ok': 14, 'lide': 5, 'jine': 82, 'sablona': 0}
-[11:05:57] Konec: školek s fotkami 67; {'ok': 14, 'lide': 5, 'jine': 82, 'sablona': 0}
+[11:38:42] Část 11/20: webů 174, hotovo 221, zbývá 2
+[11:38:56] https://mskosetice.webnode.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 5 fotek ke kontrole
+[11:39:43] https://msujezu.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 174 obrázků, 8 fotek ke kontrole
+[11:39:56] tříděno 0/13
+[11:39:56] Dávka 1: hotovo 223/174, se fotkami 67; {'ok': 0, 'lide': 4, 'jine': 9, 'sablona': 0}
+[11:39:56] Konec: školek s fotkami 67; {'ok': 0, 'lide': 4, 'jine': 9, 'sablona': 0}
