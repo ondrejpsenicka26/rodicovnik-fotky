@@ -1,21 +1,9 @@
-[00:41:51] Část 17/20: webů 148, hotovo 146, zbývá 17
-[00:41:53] https://mestyscechtice.cz/detska-skupina-slunicko: nedostupné nebo zakázané
-[00:42:00] https://dssunrisevyskov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 12 obrázků, 12 fotek ke kontrole
-[00:42:04] https://mcpermonicek.cz/cs/detska-skupina: nedostupné nebo zakázané
-[00:42:08] https://ms-zvidalek.cz/detska-skupina: 5 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 27 obrázků, 9 fotek ke kontrole
-[00:42:08] https://ds-svetlusky-cvrcovice.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 7 obrázků, 7 fotek ke kontrole
-[00:42:27] https://skolkacesticka.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
-[00:42:44] https://mamprostor.cz/detska-skupina-kladno: 2 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 21 fotek ke kontrole
-[00:42:54] https://centrin.cz/mlynek-unhost: 3 stránek (galerie mimo web: 0 [], alb: 0), 30 obrázků, 17 fotek ke kontrole
-[00:43:03] https://dccap.cz/detske-skupiny/modry-cap: 8 stránek (galerie mimo web: 0 [], alb: 0), 173 obrázků, 40 fotek ke kontrole
-[00:43:06] https://skolkazirafka.cz/detska-skupina-zidenice: 3 stránek (galerie mimo web: 0 [], alb: 0), 97 obrázků, 8 fotek ke kontrole
-[00:43:06] https://msdvorska-blansko.cz/mravenecci: 10 stránek (galerie mimo web: 0 [], alb: 0), 53 obrázků, 3 fotek ke kontrole
-[00:43:27] https://dsperinka.cz: nedostupné nebo zakázané
-[00:43:27] http://www.zshstropnice.cz: nedostupné nebo zakázané
-[00:43:28] http://www.msholubice.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 16 fotek ke kontrole
-[00:43:31] http://www.zsmtrnavka.cz: 33 stránek (galerie mimo web: 1 ['zstrnavka.rajce.idnes.cz'], alb: 0), 354 obrázků, 1 fotek ke kontrole
-[00:44:14] https://mspohadka-melnik.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 13 obrázků, 0 fotek ke kontrole
-[00:45:22] https://senohrabskesovicky.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 147 obrázků, 20 fotek ke kontrole
-[00:45:39] tříděno 0/154
-[00:46:03] Dávka 1: hotovo 163/148, se fotkami 35; {'ok': 21, 'lide': 12, 'jine': 91, 'sablona': 0}
-[00:46:03] Konec: školek s fotkami 35; {'ok': 21, 'lide': 12, 'jine': 91, 'sablona': 0}
+[02:14:34] Část 17/20: webů 147, hotovo 163, zbývá 5
+[02:14:40] https://ludensolomouc.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
+[02:14:45] https://resort-stesti.cz/baby-park-velka-bystrice-detska-skupina: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 4 fotek ke kontrole
+[02:15:08] https://tvojeliduska.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 22 fotek ke kontrole
+[02:15:36] https://schaferschool.cz/detska-skupina: 5 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 13 fotek ke kontrole
+[02:16:11] https://petrzelka-ds.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 84 obrázků, 41 fotek ke kontrole
+[02:16:25] tříděno 0/80
+[02:16:31] Dávka 1: hotovo 168/147, se fotkami 37; {'ok': 7, 'lide': 4, 'jine': 51, 'sablona': 0}
+[02:16:31] Konec: školek s fotkami 37; {'ok': 7, 'lide': 4, 'jine': 51, 'sablona': 0}

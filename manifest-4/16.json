@@ -485,6 +485,62 @@
 "w": 922
 }
 ],
+"detska-skupina-petrzelka-kozmice-ds10104": [
+{
+"alt": "",
+"barva": "#ab9e87",
+"dh": "e6ee6949cb808182",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAiEAACAQQCAgMBAAAAAAAAAAABAgMABBEhBTESEyJhcdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAzESIZHw/9oADAMBAAIRAxEAPwCtyV0s1tGX+KyEoRjsYrKTk7yD1W6W7aiTL42pxv8Aai2Akk5KRWHn62ZWJY9dV0Acttjk42fqibHxbc2rWNRSbmpLZhHIzu2Nk+I/lFMSW9vM3nJCjHrJAoqHHZuKGSux95P/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://petrzelka-ds.cz/benesov/fotogalerie/",
+"typ": "interier",
+"url": "https://petrzelka-ds.cz/wp-content/uploads/2024/07/Hernicka.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#747c62",
+"dh": "3090cc4660e5a69c",
+"h": 900,
+"jistota": 0.996,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://petrzelka-ds.cz/kozmice/fotogalerie/",
+"typ": "zahrada",
+"url": "https://petrzelka-ds.cz/wp-content/uploads/2025/09/IMG_2852.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a8977b",
+"dh": "2c2c8d8cced88c80",
+"h": 900,
+"jistota": 1.0,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://petrzelka-ds.cz/benesov/fotogalerie/",
+"typ": "interier",
+"url": "https://petrzelka-ds.cz/wp-content/uploads/2024/07/Tady-tvorime.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7a775d",
+"dh": "6086d0694d3cf6eb",
+"h": 1021,
+"jistota": 0.993,
+"ms": false,
+"soubor": "4.webp",
+"stranka": "https://petrzelka-ds.cz/benesov/fotogalerie/",
+"typ": "zahrada",
+"url": "https://petrzelka-ds.cz/wp-content/uploads/2024/07/Prostor-pro-venkovni-dobrodruzstvi.jpeg",
+"w": 1200
+}
+],
 "detska-skupina-sunrise-vyskov-ds10154": [
 {
 "alt": "Budova DS Vyškov zvenku",
@@ -1122,6 +1178,49 @@
 "stranka": "https://zemicka.cz/fotogalerie/",
 "typ": "budova",
 "url": "https://zemicka.cz/wp-content/uploads/2024/01/IMG-20231207-WA0051.jpg",
+"w": 1200
+}
+],
+"schafer-school-detska-skupina-ds01272": [
+{
+"alt": "",
+"barva": "#797870",
+"dh": "87d4d7d1dc1ed9ca",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACEQAAICAgICAwEAAAAAAAAAAAECAxEABBIhBVEjMUFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ANrLEduNVb4yp5DkCAQMFaIooMihj+AYl8htnx+wqCZNsgixNCOQv2wq8Vzbs0zElqF2FBNL/MylcQtn6FezWGSCbk6AhZG777OGENf/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.schaferschool.cz/pronajem-prostor/",
+"typ": "interier",
+"url": "https://www.schaferschool.cz/wp-content/uploads/2026/07/img-3078.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7d897e",
+"dh": "79374e4e8e333167",
+"h": 900,
+"jistota": 0.62,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.schaferschool.cz/pronajem-prostor/",
+"typ": "zahrada",
+"url": "https://www.schaferschool.cz/wp-content/uploads/2026/07/img-3082.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7d7c76",
+"dh": "84a69335ceecb89e",
+"h": 900,
+"jistota": 0.994,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.schaferschool.cz/pronajem-prostor/",
+"typ": "interier",
+"url": "https://www.schaferschool.cz/wp-content/uploads/2026/07/img-3079.jpeg",
 "w": 1200
 }
 ],
