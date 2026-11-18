@@ -46,7 +46,8 @@ START = time.time()
 UA = "RodicovnikBot/1.0 (+https://github.com/ondrejpsenicka26/rodicovnik-fotky; prehled skolek v CR)"
 MAX_STRANEK = int(os.environ.get("MAX_STRANEK", "8"))  # 1. úroveň webu
 MAX_ALB = 8  # alba na webu školky
-MAX_EXT_ALB = 4  # alba na Rajčeti / Zoneramě
+MAX_EXT_ALB = int(os.environ.get("MAX_EXT_ALB", "4"))  # alba na Rajčeti / Zoneramě
+EXT_VSE = os.environ.get("FOTKY_EXT", "") == "1"  # 5. kolo: i alba bez „budova/zahrada“ v názvu (lidi vyřadí kontrola)
 MAX_KANDIDATU = 45
 MAX_FOTEK = 4
 DAVKA = 24  # webů na dávku
@@ -187,6 +188,20 @@ def skore_alba(href, text):
     if any(k in h or k in t for k in ALBA_NE):
         return 0
     return sum(3 for k in ALBA_ANO if k in h or k in t)
+
+
+def je_akce(href, text):
+    h = cesta_url(href).replace("_", "-").replace(" ", "-")
+    t = bez_diakritiky(text).replace(" ", "-")
+    return any(k in h or k in t for k in ALBA_NE)
+
+
+def skore_ext_alba(href, text):
+    """Album v externí galerii školky. V 5. kole bereme i neutrální alba (např. „Září 2024“)."""
+    sk = skore_alba(href, text)
+    if sk == 0 and EXT_VSE and not je_akce(href, text):
+        return 0.5
+    return sk
 
 
 class Stranka(HTMLParser):
@@ -395,16 +410,18 @@ def projdi(origin, slug, jen_ms=False):
         if not cesta and "goo.gl" not in u:
             koreny.append(u)
             continue
-        sk = skore_alba(u, txt)
+        sk = skore_ext_alba(u, txt)
         if sk > 0:
             ext_alba[u] = max(ext_alba.get(u, 0), sk)
-    for g in koreny[:2]:
+    for g in koreny[:3 if EXT_VSE else 2]:
         r = nacti_stranku(g)
         if not r:
             continue
         gf, gp = r
         for u, txt, h2 in odkazy(gf, gp, "stejny"):
-            sk = skore_alba(u, txt)
+            if EXT_VSE and not urllib.parse.urlparse(u).path.strip("/"):
+                continue
+            sk = skore_ext_alba(u, txt)
             if sk > 0:
                 ext_alba[u] = max(ext_alba.get(u, 0), sk)
     for u, sk in sorted(ext_alba.items(), key=lambda x: -x[1])[:MAX_EXT_ALB]:
