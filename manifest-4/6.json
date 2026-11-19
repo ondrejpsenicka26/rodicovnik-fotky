@@ -1515,6 +1515,105 @@
 "w": 1200
 }
 ],
+"materska-skola-morkovice-609371": [
+{
+"alt": "",
+"barva": "#808d60",
+"dh": "fadbd5d4c8cfcfef",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADwAUAwEiAAIRAQMRAf/EABYAAQEBAAAAAAAAAAAAAAAAAAQABf/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwAEEQUhQRIxExQiI2GBof/EABYBAQEBAAAAAAAAAAAAAAAAAAQBAv/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhESITH/2gAMAwEAAhEDEQA/ANbU47bzsIk9JdT1Httx+0No7XpyiuzYbCiRSSR2H3xQtc1CWWeJvDjYINxuM75xQrif2kkS1CkK2AH4bvRYSllUyZ9sddW+oJMRZxRyQkAqW2I+KqxTq1+uyzyKBwMVUtTddM5P/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskola2016.wixsite.com/ms-morkovice",
+"typ": "budova",
+"url": "https://static.wixstatic.com/media/f80e82_5934191999cf4ca9b890870e1345312d~mv2_d_4608_3456_s_4_2.jpg",
+"w": 1200
+},
+{
+"alt": "Slunicka - herna",
+"barva": "#908874",
+"dh": "9de5354d88871339",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskola2016.wixsite.com/ms-morkovice/copy-of-fotogalerie",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/f80e82_f24344c78ee94ba7bafd4f7a12e95267~mv2.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#859175",
+"dh": "64ddfbb76d1c3cfe",
+"h": 900,
+"jistota": 0.999,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mskola2016.wixsite.com/ms-morkovice",
+"typ": "budova",
+"url": "https://static.wixstatic.com/media/f80e82_b417ebe8e98a41b5996ae0703e6d4af9~mv1.jpg",
+"w": 1200
+},
+{
+"alt": "Noticky - herna",
+"barva": "#898076",
+"dh": "c02066a6f6d39339",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mskola2016.wixsite.com/ms-morkovice/copy-2-of-fotogalerie",
+"typ": "interier",
+"url": "https://static.wixstatic.com/media/f80e82_2c997f8f7f0245e1b539e206986a043e~mv2.jpeg",
+"w": 1200
+}
+],
+"materska-skola-na-hrade-070618": [
+{
+"alt": "",
+"barva": "#c99e67",
+"dh": "6d357578b939fefb",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACEQAAICAgEEAwAAAAAAAAAAAAECAxEABCEFEjFxE0FR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRIVH/2gAMAwEAAhEDEQA/AKWR2jRixDUbIJ8YoPV4yFjtmYtwzff5ebtuYxxv2qKIJIPIyalCybPyLDDGVN2qc37OQU+6yqUkhhvPLNsF4tmKNa8Mpu8MWtPPfEt+1BOGGjs+n//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkanahrade.cz/classes/",
+"typ": "interier",
+"url": "https://www.skolkanahrade.cz/wp-content/uploads/2023/08/004-3.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b39059",
+"dh": "55496951899b9d86",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkanahrade.cz/classes/",
+"typ": "interier",
+"url": "https://www.skolkanahrade.cz/wp-content/uploads/2023/08/003-3.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#aa9747",
+"dh": "23254347673cd1c3",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolkanahrade.cz/classes/",
+"typ": "hygiena",
+"url": "https://www.skolkanahrade.cz/wp-content/uploads/2023/08/016.jpg",
+"w": 1200
+}
+],
 "materska-skola-podesin-615631": [
 {
 "alt": "",
@@ -1572,6 +1671,49 @@
 "stranka": "https://www.puclice.cz/obec/materska-skolka-puclice/fotogalerie/fotky-z-nasi-skolky-42cs.html",
 "typ": "budova",
 "url": "https://www.puclice.cz/data/headerfooter/header_images/obcepohadkove-2023foto34561-puclice28.jpg",
+"w": 1200
+}
+],
+"materska-skola-resslova-974-566150": [
+{
+"alt": "image 47",
+"barva": "#63878d",
+"dh": "000333a9b3bb691f",
+"h": 900,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAwX/xAAlEAACAAYBAgcAAAAAAAAAAAABAgADBAUREhMhMTJBUVJxksH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAaEQACAgMAAAAAAAAAAAAAAAAAAREhAlFx/9oADAMBAAIRAxEAPwBmRX11PKcJMJYdQuBgn5xGsi83Jpus3VFx4hg/kcc3NKhXWQH3ZQBt2GD3hKXcOGYWLlgVKlQT5+mYSG7AfSne9VqtjmX6iCJF7nhzqjkH3N1gioxGez//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msukonicka.cz/top-ms-u-konicka-2",
+"typ": "budova",
+"url": "https://www.msukonicka.cz/mbfile-p1070307-jpg-106.jpg",
+"w": 1200
+},
+{
+"alt": "image 53",
+"barva": "#616d4d",
+"dh": "132f2606cccd0e00",
+"h": 900,
+"jistota": 0.652,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msukonicka.cz/top-ms-u-konicka-2",
+"typ": "zahrada",
+"url": "https://www.msukonicka.cz/mbfile-p1090074-jpg-112.jpg",
+"w": 1200
+},
+{
+"alt": "image 48",
+"barva": "#a3a692",
+"dh": "4f2713c703076307",
+"h": 900,
+"jistota": 0.81,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msukonicka.cz/top-ms-u-konicka-2",
+"typ": "budova",
+"url": "https://www.msukonicka.cz/mbfile-p1080864-jpg-107.jpg",
 "w": 1200
 }
 ],

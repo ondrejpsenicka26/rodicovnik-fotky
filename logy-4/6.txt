@@ -1,2 +1,12 @@
-[13:56:32] Část 7/20: webů 171, hotovo 222, zbývá 0
-[13:56:32] Konec: školek s fotkami 73; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:20] Část 7/20: webů 179, hotovo 222, zbývá 8
+[12:32:31] https://www.vrbicany.cz/ms-sedmikraska: 3 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 1 fotek ke kontrole
+[12:32:45] https://mshvezdicka.eu: 5 stránek (galerie mimo web: 0 [], alb: 0), 18 obrázků, 6 fotek ke kontrole
+[12:32:53] https://materska-skola-mecholupy.webnode.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 38 obrázků, 0 fotek ke kontrole
+[12:33:12] https://mskola2016.wixsite.com/ms-morkovice: 21 stránek (galerie mimo web: 1 ['ms-morkovice.rajce.idnes.cz'], alb: 0), 44 obrázků, 32 fotek ke kontrole
+[12:33:20] https://www.msmorbudejovice.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 246 obrázků, 36 fotek ke kontrole
+[12:33:22] https://www.mssychrov.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 155 obrázků, 0 fotek ke kontrole
+[12:33:41] https://www.msukonicka.cz: 26 stránek (galerie mimo web: 0 [], alb: 0), 652 obrázků, 17 fotek ke kontrole
+[12:34:30] https://www.skolkanahrade.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 216 obrázků, 32 fotek ke kontrole
+[12:34:51] tříděno 0/124
+[12:35:10] Dávka 1: hotovo 230/179, se fotkami 76; {'ok': 10, 'lide': 6, 'jine': 68, 'sablona': 0}
+[12:35:10] Konec: školek s fotkami 76; {'ok': 10, 'lide': 6, 'jine': 68, 'sablona': 0}
