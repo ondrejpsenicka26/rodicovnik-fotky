@@ -7773,6 +7773,14 @@
 "titulek": "International Montessori School of Prague | Preschool | Nursery",
 "web": "https://montessori.cz"
 },
+"internatni-materska-skola-usti-nad-labem-569582": {
+"duvod": "",
+"final": "https://www.internatnims.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Internátní MŠ Ústí nad Labem",
+"web": "https://www.internatnims.cz"
+},
 "jazykova-skolicka-talk-e-1-detska-skupina-ds02276": {
 "duvod": "",
 "final": "https://talk-e.cz",
@@ -7806,6 +7814,14 @@
 "shoda": "psc",
 "titulek": "Jesličky Pianko",
 "web": "https://jeslickypianko.cz"
+},
+"jubilejni-zs-t-g-masaryka-a-ms-609011": {
+"duvod": "bez-shody",
+"final": "https://skolarusava.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Jubilejní základní škola T.G.Masaryka a Mateřská škola Rusava – Rusava 203, 768 61 Bystřice pod Hostýnem",
+"web": "https://skolarusava.cz"
 },
 "kids-garden-detska-skupina-ds10783": {
 "duvod": "",
@@ -7923,6 +7939,14 @@
 "titulek": "labutatka-pod-vysehradem",
 "web": "https://labutatka-pod-vysehradem.cz"
 },
+"lesni-materska-skola-085909": {
+"duvod": "",
+"final": "https://www.lmssamorost.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Lesní mateřská školka SAMOROST | Proboštov Teplice",
+"web": "https://www.lmssamorost.cz"
+},
 "lesni-materska-skola-cilek-087766": {
 "duvod": "",
 "final": "https://www.skolkacilek.cz/",
@@ -7954,6 +7978,12 @@
 "shoda": "psc",
 "titulek": "Lesní mateřská školka Zahrádka",
 "web": "https://lmszahradka.cz"
+},
+"lesni-ms-clavicula-093961": {
+"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
+"ok": false,
+"shoda": "",
+"web": "https://www.klicek.uh.cz"
 },
 "little-family-breclav-detska-skupina-ds02263": {
 "duvod": "",
@@ -8085,6 +8115,22 @@
 "shoda": "",
 "web": "https://zskunvald.cz"
 },
+"materska-skola-1-maje-1153-634627": {
+"duvod": "",
+"final": "https://www.ms1maje-roznov.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola 1. máje 1153, Rožnov pod Radhoštěm",
+"web": "https://www.ms1maje-roznov.cz"
+},
+"materska-skola-5-kvetna-1527-634601": {
+"duvod": "bez-shody",
+"final": "https://ms5kvetna1527-roznov.cz",
+"ok": false,
+"shoda": "",
+"titulek": "MŠ 5. května 1527 úvod",
+"web": "https://ms5kvetna1527-roznov.cz"
+},
 "materska-skola-a-sj-565382": {
 "duvod": "",
 "final": "https://obeckresin.cz/index.php?idx=186",
@@ -8181,6 +8227,14 @@
 "titulek": "Obec Benátky | Mateřská škola",
 "web": "https://www.obecbenatky.cz/materska-skola"
 },
+"materska-skola-beranek-608791": {
+"duvod": "",
+"final": "https://www.ms-beranek.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská škola Beránek Malý Beranov",
+"web": "https://www.ms-beranek.cz"
+},
 "materska-skola-bezuchov-631032": {
 "duvod": "",
 "final": "https://skolkabezuchov.cz",
@@ -8253,6 +8307,14 @@
 "titulek": "Mateřská škola Blovice",
 "web": "https://www.ms-blovice.cz"
 },
+"materska-skola-bobrova-616068": {
+"duvod": "",
+"final": "https://skolka.mestysbobrova.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Úvod - Mateřská škola Bobrová,",
+"web": "https://skolka.mestysbobrova.cz"
+},
 "materska-skola-bocanovice-19-622947": {
 "duvod": "",
 "final": "https://msbocanovice.webnode.cz",
@@ -8260,6 +8322,12 @@
 "shoda": "psc",
 "titulek": "MŠ Bocanovice",
 "web": "https://msbocanovice.webnode.cz"
+},
+"materska-skola-bojkovice-612283": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.msbojkovice.cz"
 },
 "materska-skola-borotice-000018": {
 "duvod": "robots",
@@ -8589,6 +8657,14 @@
 "titulek": "Mateřská škola - Oficiální stránky Město Budišov nad Budišovkou",
 "web": "https://budisov.eu/sluzby/skoly-a-zarizeni-pro-deti/materska-skola"
 },
+"materska-skola-budyne-nad-ohri-565188": {
+"duvod": "",
+"final": "https://www.ms-budyne-svc.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ a SVČ Budyně nad Ohří",
+"web": "https://www.ms-budyne-svc.cz"
+},
 "materska-skola-buk-631601": {
 "duvod": "",
 "final": "https://skola.obecbuk.eu",
@@ -8635,6 +8711,14 @@
 "titulek": "Mateřská škola Bystřice - Oficiální stránky MŠ Bystřice",
 "web": "https://msbystrice.cz"
 },
+"materska-skola-bystrice-pod-hostynem-609631": {
+"duvod": "",
+"final": "https://www.skolkasokolka.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MATEŘSKÁ ŠKOLA SOKOLSKÁ – Bystřice pod Hostýnem",
+"web": "https://www.skolkasokolka.cz"
+},
 "materska-skola-bystrice-pod-hostynem-609657": {
 "duvod": "",
 "final": "https://msbelidla.cz",
@@ -8642,6 +8726,14 @@
 "shoda": "psc",
 "titulek": "Úvod - Mateřská škola Bělidla",
 "web": "https://msbelidla.cz"
+},
+"materska-skola-bzany-567946": {
+"duvod": "bez-shody",
+"final": "https://www.msbzany.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola Klokánek",
+"web": "https://www.msbzany.cz"
 },
 "materska-skola-cechtice-510430": {
 "duvod": "robots",
@@ -8712,6 +8804,12 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Černuc - Oficiální stránky Mateřské školy Černuc",
 "web": "https://www.mscernuc.cz"
+},
+"materska-skola-cervena-recice-306-533553": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://www.mscervenarecice.cz"
 },
 "materska-skola-cerveny-ujezd-517027": {
 "duvod": "",
@@ -8846,6 +8944,14 @@
 "titulek": "Mateřská škola Chlumany",
 "web": "https://materska-skola-chlumany.cz"
 },
+"materska-skola-chlumcany-566265": {
+"duvod": "",
+"final": "https://www.mschlumcanyavlci.cz/",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Chlumčany - Oficiální stránky MŠ Chlumčany",
+"web": "https://mschlumcanyavlci.cz"
+},
 "materska-skola-chodsky-ujezd-546299": {
 "duvod": "",
 "final": "https://www.mschodskyujezd.cz",
@@ -8853,6 +8959,14 @@
 "shoda": "psc",
 "titulek": "Domů | MŠ Chodský Újezd",
 "web": "https://www.mschodskyujezd.cz"
+},
+"materska-skola-chomyz-608995": {
+"duvod": "bez-shody",
+"final": "https://www.skolka-chomyz.cz",
+"ok": false,
+"shoda": "",
+"titulek": "školka Chomýž",
+"web": "https://www.skolka-chomyz.cz"
 },
 "materska-skola-chotesov-544008": {
 "duvod": "",
@@ -8972,6 +9086,14 @@
 "ok": false,
 "shoda": "",
 "web": "https://www.skolkamnich.cz"
+},
+"materska-skola-ctyrlistek-568471": {
+"duvod": "",
+"final": "https://www.msctyrlistek.info",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Úvodní stránka | MŠ Čtyřlístek",
+"web": "https://www.msctyrlistek.info"
 },
 "materska-skola-ctyrlistek-585995": {
 "duvod": "chyba: <urlopen error timed out>",
@@ -9243,6 +9365,20 @@
 "titulek": "Škola Drysice",
 "web": "https://msdrysice.cz"
 },
+"materska-skola-dubovice-036339": {
+"duvod": "",
+"final": "https://montessori-dubovice.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Dubovice | Mateřská škola Dubovice montessori",
+"web": "https://montessori-dubovice.cz"
+},
+"materska-skola-duchcov-568004": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://msduchcovhusova.cz"
+},
 "materska-skola-duchcov-568012": {
 "duvod": "",
 "final": "https://msosecka.cz",
@@ -9250,6 +9386,18 @@
 "shoda": "ico",
 "titulek": "MATEŘSKÁ ŠKOLA DUCHCOV",
 "web": "https://msosecka.cz"
+},
+"materska-skola-duchcov-568039": {
+"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-",
+"ok": false,
+"shoda": "",
+"web": "https://www.tyrsovams.cz"
+},
+"materska-skola-duchcov-568560": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.msokruzni.cz"
 },
 "materska-skola-duha-013860": {
 "duvod": "",
@@ -9274,6 +9422,14 @@
 "shoda": "ulice",
 "titulek": "Úvod - MŠ Duha Oslavany",
 "web": "https://ms-duha.cz"
+},
+"materska-skola-duha-634554": {
+"duvod": "",
+"final": "https://www.msduha-zubri.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Duha - MŠ Duha",
+"web": "https://www.msduha-zubri.cz"
 },
 "materska-skola-duhova-habartov-545489": {
 "duvod": "",
@@ -9450,6 +9606,14 @@
 "titulek": "MŠ Holedeč, okres Louny",
 "web": "https://www.ms-holedec.cz"
 },
+"materska-skola-holesov-609037": {
+"duvod": "",
+"final": "https://www.ms-radost.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola Radost, Grohova 1392, Holešov",
+"web": "https://www.ms-radost.cz"
+},
 "materska-skola-holohlavy-580900": {
 "duvod": "",
 "final": "https://www.skolkaholohlavy.cz/",
@@ -9514,6 +9678,20 @@
 "titulek": "Základní škola a Mateřská škola Horní Kalná",
 "web": "https://zshornikalna.webnode.cz"
 },
+"materska-skola-horni-krupa-580063": {
+"duvod": "bez-shody",
+"final": "https://mshornikrupa.cz/",
+"ok": false,
+"shoda": "",
+"titulek": "Vítejte v naší školce · MŠ Horní Krupá",
+"web": "https://www.mshornikrupa.cz"
+},
+"materska-skola-horni-lhota-605775": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://mshornilhota.cz"
+},
 "materska-skola-horni-zivotice-620219": {
 "duvod": "",
 "final": "https://www.mshornizivotice.cz",
@@ -9555,6 +9733,14 @@
 "web": "https://ms.hostice-heroltice.cz",
 "web_pouzit": "http://ms.hostice-heroltice.cz"
 },
+"materska-skola-hostomice-568578": {
+"duvod": "bez-shody",
+"final": "https://mshostomice.cz",
+"ok": false,
+"shoda": "",
+"titulek": "",
+"web": "https://mshostomice.cz"
+},
 "materska-skola-hostoun-540207": {
 "duvod": "",
 "final": "https://www.mshostoun.cz",
@@ -9570,6 +9756,12 @@
 "shoda": "ulice",
 "titulek": "Úvod - MŠ Houdkovice",
 "web": "https://mshoudkovice.cz"
+},
+"materska-skola-hovezi-633914": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://mshovezi.cz"
 },
 "materska-skola-hrabuvka-631083": {
 "duvod": "",
@@ -9697,6 +9889,14 @@
 "titulek": "Mateřská škola Hrušky – příspěvková organizace",
 "web": "https://mshrusky.cz"
 },
+"materska-skola-hrusovany-15-562341": {
+"duvod": "",
+"final": "https://www.obec-hrusovany.cz/materska-skola/uredni-deska/",
+"ok": true,
+"shoda": "psc",
+"titulek": "ÚŘEDNÍ DESKA - Oficiální stránky obce Hrušovany",
+"web": "https://www.obec-hrusovany.cz/materska-skola"
+},
 "materska-skola-hrusovany-nad-jevisovkou-615169": {
 "duvod": "",
 "final": "https://www.ms-hrusovany.cz/",
@@ -9790,6 +9990,14 @@
 "shoda": "",
 "web": "https://msjakubov.cz"
 },
+"materska-skola-jamy-615568": {
+"duvod": "",
+"final": "https://www.obec-jamy.cz/o-obci/materska-skolka/",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská školka - Oficiální stránky obce Jámy",
+"web": "https://www.obec-jamy.cz/o-obci/materska-skolka"
+},
 "materska-skola-janova-634406": {
 "duvod": "",
 "final": "https://www.msjanova.cz",
@@ -9877,6 +10085,30 @@
 "titulek": "Mateřská škola K Roztokům, Praha 6 – Suchdol",
 "web": "https://www.mskroztokum.cz"
 },
+"materska-skola-kadan-562405": {
+"duvod": "",
+"final": "https://6mskadan.webnode.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "6mskadan",
+"web": "https://6mskadan.webnode.cz"
+},
+"materska-skola-kadan-562448": {
+"duvod": "",
+"final": "https://3mskadan.webnode.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "3MSKadan",
+"web": "https://3mskadan.webnode.cz"
+},
+"materska-skola-kadan-562910": {
+"duvod": "",
+"final": "https://mshvezdicka.eu",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Domů",
+"web": "https://mshvezdicka.eu"
+},
 "materska-skola-kaliste-533081": {
 "duvod": "",
 "final": "https://www.skolkakaliste.cz",
@@ -9946,6 +10178,14 @@
 "shoda": "ulice",
 "titulek": "Domů",
 "web": "https://kastanekteplice.cz"
+},
+"materska-skola-kastanek-612127": {
+"duvod": "",
+"final": "https://mskastanek.eu",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MŠ Kaštánek Třebíč – Školka v centru města",
+"web": "https://mskastanek.eu"
 },
 "materska-skola-kestrany-053300": {
 "duvod": "chyba: <urlopen error timed out>",
@@ -10065,6 +10305,14 @@
 "titulek": "Mateřská škola Kosice",
 "web": "https://mskosice.cz"
 },
+"materska-skola-kosiky-612666": {
+"duvod": "bez-shody",
+"final": "https://www.oukosiky.cz/hlavni-menu/obec/materska-skola/",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola - Oficiální stránky obce Košíky",
+"web": "https://www.oukosiky.cz/hlavni-menu/obec/materska-skola"
+},
 "materska-skola-kosov-014037": {
 "duvod": "",
 "final": "https://obeckosov.webnode.cz/skolka/",
@@ -10078,6 +10326,22 @@
 "ok": false,
 "shoda": "",
 "web": "https://mskostalov.cz"
+},
+"materska-skola-kostany-568063": {
+"duvod": "bez-shody",
+"final": "https://www.mskostany.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola Košťany",
+"web": "https://www.mskostany.cz"
+},
+"materska-skola-kostelany-nad-moravou-612739": {
+"duvod": "",
+"final": "https://www.mskostelany.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Kostelany – Mateřská škola Kostelany nad Moravou",
+"web": "https://www.mskostelany.cz"
 },
 "materska-skola-kostelec-546655": {
 "duvod": "",
@@ -10100,6 +10364,14 @@
 "shoda": "ulice",
 "titulek": "Mateřská škola - Oficiální stránky obce Kostelec nad Vltavou",
 "web": "https://kostelecnadvltavou.cz/zivot-v-obci/materska-skola"
+},
+"materska-skola-kostka-001756": {
+"duvod": "",
+"final": "https://www.kostka-skolka.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Kostka školka - Mateřská školka ve Vsetíně",
+"web": "https://www.kostka-skolka.cz"
 },
 "materska-skola-kourim-512350": {
 "duvod": "",
@@ -10203,6 +10475,22 @@
 "shoda": "ulice",
 "titulek": "Ms-stitneho-cz",
 "web": "https://www.ms-stitneho.cz"
+},
+"materska-skola-kromeriz-609851": {
+"duvod": "",
+"final": "https://www.skolka-palenickova.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MŠ PÁLENÍČKOVA",
+"web": "https://www.skolka-palenickova.cz"
+},
+"materska-skola-kromeriz-609878": {
+"duvod": "",
+"final": "https://www.vazanyms.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "vazanyms.cz",
+"web": "https://www.vazanyms.cz"
 },
 "materska-skola-kroupova-501759": {
 "duvod": "",
@@ -10326,6 +10614,12 @@
 "shoda": "",
 "web": "https://www.mslastuvkova.cz"
 },
+"materska-skola-lavicky-616289": {
+"duvod": "chyba: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn",
+"ok": false,
+"shoda": "",
+"web": "https://www.obec-lavicky.cz/cz/materska-skolka"
+},
 "materska-skola-laziste-534207": {
 "duvod": "",
 "final": "https://www.laziste.cz/obec/materska-skola/o-skole/",
@@ -10357,6 +10651,12 @@
 "shoda": "psc",
 "titulek": "Vaše Mateřská škola v Lednici pro Sluníčka, Koťátka, Kuřátka a Včeličky",
 "web": "https://mslednice.cz"
+},
+"materska-skola-ledvice-568152": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.ledvice.cz/materska-skola-ledvice/os-1007"
 },
 "materska-skola-lentilka-590328": {
 "duvod": "",
@@ -10458,6 +10758,14 @@
 "titulek": "Mateřská škola Libušín - Oficiální stránky MŠ Libušín",
 "web": "https://www.mslibusin.cz"
 },
+"materska-skola-lidecko-633876": {
+"duvod": "",
+"final": "https://ms.lidecko.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Lidečko | Oficiální stránky Mateřské školy Lidečko.",
+"web": "https://ms.lidecko.cz"
+},
 "materska-skola-linhartice-587121": {
 "duvod": "",
 "final": "https://mslinhartice.cz",
@@ -10536,6 +10844,12 @@
 "titulek": "MŠ Losiná - Oficiální stránky MŠ Losiná",
 "web": "https://www.mslosina.cz"
 },
+"materska-skola-loucka-606151": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://msloucka.eu"
+},
 "materska-skola-lovcicky-613590": {
 "duvod": "",
 "final": "https://mslovcicky.cz",
@@ -10552,6 +10866,14 @@
 "titulek": "O NÁS - MŠ LOVEČKOVICE",
 "web": "https://msloveckovice.cz"
 },
+"materska-skola-lovosice-566168": {
+"duvod": "",
+"final": "https://www.mssadylovo.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola sady pionýrů Lovosice",
+"web": "https://www.mssadylovo.cz"
+},
 "materska-skola-lubenec-566508": {
 "duvod": "",
 "final": "https://www.mslubenec.cz",
@@ -10560,6 +10882,14 @@
 "titulek": "MŠ Lubenec: Společně s úsměvem",
 "web": "https://www.mslubenec.cz"
 },
+"materska-skola-lubna-609177": {
+"duvod": "",
+"final": "https://skolka-lubna.webnode.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "školka Lubná",
+"web": "https://skolka-lubna.webnode.cz"
+},
 "materska-skola-lucni-587163": {
 "duvod": "",
 "final": "https://ms-lucni.cz",
@@ -10567,6 +10897,12 @@
 "shoda": "ico",
 "titulek": "MŠ Luční Polička - Úvod",
 "web": "https://ms-lucni.cz"
+},
+"materska-skola-ludslavice-609363": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://msludslavice.cz"
 },
 "materska-skola-lutopecny-609606": {
 "duvod": "",
@@ -10647,6 +10983,12 @@
 "shoda": "psc",
 "titulek": "Mateřská škola - Oficiální stránky obce Malá Veleň",
 "web": "https://www.mala-velen.cz/obec/materska-skola/"
+},
+"materska-skola-malcin-68-000320": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.msmalcin.cz"
 },
 "materska-skola-malesovice-603489": {
 "duvod": "",
@@ -10736,11 +11078,27 @@
 "titulek": "Úvod | Mateřská škola Martiněves, okres Litoměřice, příspěvková organizace",
 "web": "https://www.msmartineves.cz"
 },
+"materska-skola-maxik-bilina-567938": {
+"duvod": "bez-shody",
+"final": "https://www.msbilina.cz",
+"ok": false,
+"shoda": "",
+"titulek": "",
+"web": "https://www.msbilina.cz"
+},
 "materska-skola-mcely-515148": {
 "duvod": "chyba: HTTP Error 401: Unauthorized",
 "ok": false,
 "shoda": "",
 "web": "https://msmcely.cz"
+},
+"materska-skola-mecholupy-566524": {
+"duvod": "",
+"final": "https://materska-skola-mecholupy.webnode.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola",
+"web": "https://materska-skola-mecholupy.webnode.cz"
 },
 "materska-skola-medlovice-612453": {
 "duvod": "",
@@ -10902,6 +11260,12 @@
 "titulek": "O škole - Oficiální stránky obce Močovice",
 "web": "https://mocovice.cz/obec/materska-skola/o-skole"
 },
+"materska-skola-modlanska-rolnicka-568161": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.modlanskarolnicka.cz"
+},
 "materska-skola-mohelnice-632659": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
@@ -10965,6 +11329,14 @@
 "titulek": "MŠ Moravičany, okres Šumperk",
 "web": "https://msmoravicany.cz"
 },
+"materska-skola-moravske-budejovice-611376": {
+"duvod": "",
+"final": "https://www.msmorbudejovice.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola Moravské Budějovice",
+"web": "https://www.msmorbudejovice.cz"
+},
 "materska-skola-moravskoslezsky-kocov-046393": {
 "duvod": "",
 "final": "https://www.ms-kocov.cz/",
@@ -10987,6 +11359,22 @@
 "shoda": "",
 "titulek": "Mateřská škola Moravský Žižkov",
 "web": "https://msmzizkov.cz"
+},
+"materska-skola-morkovice-609371": {
+"duvod": "",
+"final": "https://mskola2016.wixsite.com/ms-morkovice",
+"ok": true,
+"shoda": "ico",
+"titulek": "Hlavní stránka | ms-morkovice",
+"web": "https://mskola2016.wixsite.com/ms-morkovice"
+},
+"materska-skola-motylek-kostany-strelna-568675": {
+"duvod": "",
+"final": "https://msmotylek.me.cz/novejsi/",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MŠ Motýlek – Mateřská škola Motýlek Košťany Střelná",
+"web": "https://msmotylek.me.cz"
 },
 "materska-skola-mourinov-057393": {
 "duvod": "chyba: HTTP Error 403: Forbidden",
@@ -11023,6 +11411,14 @@
 "shoda": "ico",
 "titulek": "Úvod",
 "web": "https://msnahabru.cz"
+},
+"materska-skola-na-hrade-070618": {
+"duvod": "",
+"final": "https://www.skolkanahrade.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská Škola Na Hradě - Třebíč",
+"web": "https://www.skolkanahrade.cz"
 },
 "materska-skola-na-olesce-700029": {
 "duvod": "",
@@ -11080,6 +11476,12 @@
 "titulek": "MŠ Náměšť nad Oslavou Třebíčská",
 "web": "https://www.mstrebicska.cz"
 },
+"materska-skola-navojna-605902": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://msnavojna.cz"
+},
 "materska-skola-nebovidy-603543": {
 "duvod": "",
 "final": "https://materska-skola-nebovidy.webnode.cz",
@@ -11136,6 +11538,14 @@
 "titulek": "Domů | Mateřská škola",
 "web": "https://ms-nemcice.cz"
 },
+"materska-skola-nemcice-609126": {
+"duvod": "bez-shody",
+"final": "https://www.msnemcice.cz",
+"ok": false,
+"shoda": "",
+"titulek": "msnemcice.cz/webnode",
+"web": "https://www.msnemcice.cz"
+},
 "materska-skola-nemcice-nad-hanou-610221": {
 "duvod": "",
 "final": "https://msnemcicenadhanou.cz",
@@ -11151,6 +11561,12 @@
 "shoda": "ulice",
 "titulek": "MŠ Neštěmice",
 "web": "https://www.msnestemice.cz"
+},
+"materska-skola-nevcehle-608332": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.msnevcehle.cz"
 },
 "materska-skola-nevojice-613239": {
 "duvod": "",
@@ -11294,6 +11710,12 @@
 "titulek": "MŠ Ohaře | Mateřská Škola Ohaře okres Kolín",
 "web": "https://msohare.cz"
 },
+"materska-skola-ohnic-568195": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://ms.ohnic.cz"
+},
 "materska-skola-ohrazenice-586398": {
 "duvod": "",
 "final": "https://ms-ohrazenice.cz",
@@ -11301,6 +11723,12 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Ohrazenice – motto školy: „Řekni a zapomenu, ukaž mi a budu si pamatovat, nech mě udělat a porozumím“",
 "web": "https://ms-ohrazenice.cz"
+},
+"materska-skola-okrisky-611490": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://msokrisky.cz"
 },
 "materska-skola-okrouhla-600587": {
 "duvod": "",
@@ -11545,6 +11973,14 @@
 "titulek": "Mateřská škola Otinoves – příspěvková organizace | msotinoves.cz",
 "web": "https://msotinoves.cz"
 },
+"materska-skola-pacov-533219": {
+"duvod": "",
+"final": "https://msjatecka.mestopacov.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola Pacov - Oficiální stránky MŠ Pacov",
+"web": "https://msjatecka.mestopacov.cz"
+},
 "materska-skola-palanek-614057": {
 "duvod": "",
 "final": "https://mspalanek.cz",
@@ -11637,6 +12073,12 @@
 "shoda": "",
 "web": "https://www.pastelkaustek.cz"
 },
+"materska-skola-pastelka-568250": {
+"duvod": "chyba: HTTP Error 401: Unauthorized",
+"ok": false,
+"shoda": "",
+"web": "https://www.msprobostov.cz"
+},
 "materska-skola-pastelka-620421": {
 "duvod": "",
 "final": "https://mspastelkakrnov.cz",
@@ -11684,6 +12126,14 @@
 "shoda": "ulice",
 "titulek": "Mateřská škola Praha–Petrovice, příspěvková organizace",
 "web": "https://msprahapetrovice.cz"
+},
+"materska-skola-petrovice-611503": {
+"duvod": "",
+"final": "https://skolka.petroviceutrebice.cz/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Petrovice u Třebíče",
+"web": "https://www.skolka.petroviceutrebice.cz"
 },
 "materska-skola-petrovice-614472": {
 "duvod": "",
@@ -11789,6 +12239,14 @@
 "titulek": "Mateřská škola Pod Lipou – Mateřská škola Pod Lipou",
 "web": "https://ms-podlipou.cz"
 },
+"materska-skola-podborany-566991": {
+"duvod": "",
+"final": "https://www.mshlubanska.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola Podbořany",
+"web": "https://www.mshlubanska.cz"
+},
 "materska-skola-podebrady-515369": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
@@ -11800,6 +12258,14 @@
 "ok": false,
 "shoda": "",
 "web": "https://www.podesin.cz/organizace/materska-skola/"
+},
+"materska-skola-podhradni-lhota-609444": {
+"duvod": "",
+"final": "https://materska-skola72.webnode.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "MATEŘSKÁ ŠKOLA",
+"web": "https://materska-skola72.webnode.cz"
 },
 "materska-skola-podlesi-000701": {
 "duvod": "",
@@ -11824,6 +12290,22 @@
 "shoda": "psc",
 "titulek": "Pohádka |  Vítejte",
 "web": "https://skolka-pohadka.cz"
+},
+"materska-skola-pohadka-565714": {
+"duvod": "",
+"final": "https://www.skolka-roudnice.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Úvod - MŠ Pohádka",
+"web": "https://www.skolka-roudnice.cz"
+},
+"materska-skola-pohadka-569655": {
+"duvod": "",
+"final": "https://mspohadkaul.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola POHÁDKA",
+"web": "https://mspohadkaul.cz"
 },
 "materska-skola-pohadka-sumperk-000068": {
 "duvod": "",
@@ -11911,6 +12393,14 @@
 "shoda": "psc",
 "titulek": "MŠ Práče - Oficiální stránky MŠ Práče",
 "web": "https://www.msprace.cz"
+},
+"materska-skola-praminek-634228": {
+"duvod": "",
+"final": "https://praminek-skolka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Pramínek – Valašská Bystřice",
+"web": "https://praminek-skolka.cz"
 },
 "materska-skola-praskolesy-002728": {
 "duvod": "",
@@ -12126,6 +12616,14 @@
 "titulek": "Msradosovice",
 "web": "https://msradosovice.webnode.cz"
 },
+"materska-skola-radost-634139": {
+"duvod": "bez-shody",
+"final": "https://www.msradost.com",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola Radost Rožnov pod Radhoštěm",
+"web": "https://www.msradost.com"
+},
 "materska-skola-radslavice-91-613875": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
@@ -12162,6 +12660,14 @@
 "ok": false,
 "shoda": "",
 "web": "https://www.msreporyje.cz"
+},
+"materska-skola-resslova-974-566150": {
+"duvod": "",
+"final": "https://www.msukonicka.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "NOVINKY",
+"web": "https://www.msukonicka.cz"
 },
 "materska-skola-restoky-582406": {
 "duvod": "",
@@ -12320,6 +12826,30 @@
 "shoda": "",
 "web": "https://msrudna.cz"
 },
+"materska-skola-rumburk-561531": {
+"duvod": "",
+"final": "https://mskomenskehorbk.webnode.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MŠ Komenského Rumburk",
+"web": "https://mskomenskehorbk.webnode.cz"
+},
+"materska-skola-rumburk-561581": {
+"duvod": "",
+"final": "https://msvkovare.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "msvkovare.cz",
+"web": "https://msvkovare.cz"
+},
+"materska-skola-rumburk-577731": {
+"duvod": "",
+"final": "https://msvpodhaji.estranky.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "www.msvpodhaji.estranky.cz",
+"web": "https://msvpodhaji.estranky.cz"
+},
 "materska-skola-ruprechtov-613646": {
 "duvod": "chyba: HTTP Error 429: Too Many Requests",
 "ok": false,
@@ -12397,6 +12927,14 @@
 "titulek": "ÚVOD | MŠ Praha 9 - Satalice",
 "web": "https://ms-satalice.cz"
 },
+"materska-skola-se-sj-565323": {
+"duvod": "bez-shody",
+"final": "https://www.mslibkovicepodripem.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola Libkovice pod Řípem - Oficiální stránky Mateřská škola Libkovice pod Řípem",
+"web": "https://www.mslibkovicepodripem.cz"
+},
 "materska-skola-sec-582325": {
 "duvod": "",
 "final": "http://mssec.cz",
@@ -12444,6 +12982,14 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Ohnišťany",
 "web": "https://www.ms-ohnistany.cz"
+},
+"materska-skola-sedmikraska-vrbicany-142210": {
+"duvod": "",
+"final": "https://www.vrbicany.cz/ms-sedmikraska",
+"ok": true,
+"shoda": "psc",
+"titulek": "MŠ Sedmikráska | Obec Vrbičany",
+"web": "https://www.vrbicany.cz/ms-sedmikraska"
 },
 "materska-skola-sedmikrasky-628716": {
 "duvod": "",
@@ -12536,6 +13082,22 @@
 "titulek": "Mateřská škola Skalná",
 "web": "https://msskalna.cz",
 "web_pouzit": "http://msskalna.cz"
+},
+"materska-skola-skalnicka-789274": {
+"duvod": "",
+"final": "https://msskalnicka.estranky.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MŠ SKALNIČKA Ústí nad Labem",
+"web": "https://msskalnicka.estranky.cz"
+},
+"materska-skola-skastice-609223": {
+"duvod": "bez-shody",
+"final": "https://www.ms-skastice.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola Skaštice - Oficiální stránky MŠ Skaštice",
+"web": "https://www.ms-skastice.cz"
 },
 "materska-skola-skripov-609932": {
 "duvod": "",
@@ -12685,6 +13247,22 @@
 "titulek": "Mateřská škola SLUNÍČKO - Oficiální stránky mateřské školy SLUNÍČKO",
 "web": "https://msslunickomiroslav.cz"
 },
+"materska-skola-slunicko-holesov-609711": {
+"duvod": "",
+"final": "https://slunicko.raab.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Sluníčko - Holešov",
+"web": "https://slunicko.raab.cz"
+},
+"materska-skola-slunicko-roudnice-n-l-565757": {
+"duvod": "",
+"final": "https://www.slunickoroudnicenl.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Sluníčko Roudnice nad Labem, Školní 1805",
+"web": "https://www.slunickoroudnicenl.cz"
+},
 "materska-skola-slup-614251": {
 "duvod": "",
 "final": "https://www.slup.cz/materska-skola-slup",
@@ -12769,6 +13347,14 @@
 "shoda": "ulice",
 "titulek": "Mateřská škola Šošůvka – Oficální stránky školy",
 "web": "https://ms.sosuvka.com"
+},
+"materska-skola-specialni-usti-nad-labem-150538": {
+"duvod": "",
+"final": "https://smsstefanikova.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Úvodní stránka - Mateřská škola speciální",
+"web": "https://smsstefanikova.cz"
 },
 "materska-skola-spicky-201852": {
 "duvod": "",
@@ -12928,6 +13514,20 @@
 "titulek": "Mateřská škola Stříbrnice",
 "web": "https://www.msstribrnice.cz"
 },
+"materska-skola-stritez-608421": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://ms.stritez-ji.cz"
+},
+"materska-skola-stritez-nad-becvou-634201": {
+"duvod": "",
+"final": "https://mssnb.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Střítež nad Bečvou",
+"web": "https://mssnb.cz"
+},
 "materska-skola-strizovice-609258": {
 "duvod": "",
 "final": "https://www.msstrizovice.cz",
@@ -12999,6 +13599,22 @@
 "titulek": "MŠ Suchdol",
 "web": "https://mssuchdol.cz"
 },
+"materska-skola-sudice-611538": {
+"duvod": "bez-shody",
+"final": "https://skolasudice.cz/materska-skola/",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola - Škola Sudice",
+"web": "https://skolasudice.cz/materska-skola"
+},
+"materska-skola-sukorady-se-skolni-jidelnou-565871": {
+"duvod": "bez-shody",
+"final": "https://ms-sukorady.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Mateřská škola Sukorady – Mateřská škola Sukorady se školní jídelnou",
+"web": "https://ms-sukorady.cz"
+},
 "materska-skola-sumvald-627965": {
 "duvod": "",
 "final": "https://ms.sumvald.cz",
@@ -13031,6 +13647,12 @@
 "titulek": "Mateřská škola Sušice, Smetanova ul.",
 "web": "https://mssusice.cz"
 },
+"materska-skola-sv-zdislavy-058405": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://mssvatezdislavy.cz"
+},
 "materska-skola-svata-045192": {
 "duvod": "",
 "final": "https://ms-svata.cz",
@@ -13054,6 +13676,22 @@
 "shoda": "ulice",
 "titulek": "Mateřská škola Svatoslav, p.o.",
 "web": "https://ms-svatoslav.cz"
+},
+"materska-skola-svatoslav-611104": {
+"duvod": "",
+"final": "https://www.ms-svatoslav.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Svatoslav, p.o.",
+"web": "https://www.ms-svatoslav.cz"
+},
+"materska-skola-svetla-nad-sazavou-580454": {
+"duvod": "",
+"final": "https://www.mssvetlans.cz/cs/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Světlá nad Sázavou | MŠ Světlá nad Sázavou",
+"web": "https://www.mssvetlans.cz"
 },
 "materska-skola-svetluska-071240": {
 "duvod": "",
@@ -13130,6 +13768,28 @@
 "shoda": "",
 "web": "https://www.msjaselska.cz"
 },
+"materska-skola-teplice-568357": {
+"duvod": "bez-shody",
+"final": "https://www.barevnaskolka.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Úvod - Barevná školka",
+"web": "https://www.barevnaskolka.cz"
+},
+"materska-skola-teplice-605360": {
+"duvod": "",
+"final": "https://www.resslovams.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola, Josefa Ressla 1697, Teplice",
+"web": "https://www.resslovams.cz"
+},
+"materska-skola-terezinska-ul-lovosice-565579": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://www.msterezinskalovosice.cz"
+},
 "materska-skola-tismice-512180": {
 "duvod": "",
 "final": "https://www.mstismice.cz",
@@ -13145,6 +13805,14 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Tovéř",
 "web": "https://skolkatover.cz"
+},
+"materska-skola-travcice-155-565919": {
+"duvod": "bez-shody",
+"final": "https://mstravcice.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Vítejte na stránkách MŠ Travčice – stránky mateřské školy v Travčicích",
+"web": "https://mstravcice.cz"
 },
 "materska-skola-trbousany-603241": {
 "duvod": "",
@@ -13162,6 +13830,14 @@
 "titulek": "MŠ Třebeň (okres Cheb)",
 "web": "https://mstreben.cz"
 },
+"materska-skola-trebic-611601": {
+"duvod": "",
+"final": "https://www.ms-trebic.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "ms-trebic",
+"web": "https://www.ms-trebic.cz"
+},
 "materska-skola-trebic-611627": {
 "duvod": "",
 "final": "https://www.msdemlovatrebic.cz",
@@ -13177,6 +13853,14 @@
 "shoda": "psc",
 "titulek": "Úvod | MŠ Třebíč, ul. Obránců míru",
 "web": "https://www.mstrebic.cz"
+},
+"materska-skola-trebic-612143": {
+"duvod": "",
+"final": "https://www.msuoburky.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ U Obůrky",
+"web": "https://www.msuoburky.cz"
 },
 "materska-skola-trebiz-511762": {
 "duvod": "",
@@ -13217,6 +13901,12 @@
 "shoda": "psc",
 "titulek": "O NAŠÍ ŠKOLCE",
 "web": "https://skolka.tsviny.cz"
+},
+"materska-skola-trmice-569124": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.mstrmice.cz"
 },
 "materska-skola-trnava-606127": {
 "duvod": "",
@@ -13458,6 +14148,22 @@
 "titulek": "MŠ Valašská Polanka - Oficiální stránky Mateřské školy Valašská Polanka",
 "web": "https://www.msvalasskapolanka.cz"
 },
+"materska-skola-valasska-senice-400642": {
+"duvod": "bez-shody",
+"final": "https://www.msvalasskasenice.cz",
+"ok": false,
+"shoda": "",
+"titulek": "MŠ Valašská Senice",
+"web": "https://www.msvalasskasenice.cz"
+},
+"materska-skola-valasske-klobouky-606160": {
+"duvod": "",
+"final": "https://www.skolkavk.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Valašské Klobouky - Oficiální stránky MŠ Valašské Klobouky",
+"web": "https://www.skolkavk.cz"
+},
 "materska-skola-valtice-604868": {
 "duvod": "",
 "final": "https://www.skolkavaltice.cz/",
@@ -13489,6 +14195,30 @@
 "shoda": "psc",
 "titulek": "MŠ Vamberk – Mateřská školka Vamberk",
 "web": "https://msvamberk.cz"
+},
+"materska-skola-varnsdorf-561671": {
+"duvod": "",
+"final": "https://www.msslunickovdf.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ Sluníčko, Varnsdorf",
+"web": "https://www.msslunickovdf.cz"
+},
+"materska-skola-varnsdorf-561701": {
+"duvod": "",
+"final": "https://msvarnsdorf.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MŠ Varnsdorf – mateřská škola",
+"web": "https://msvarnsdorf.cz"
+},
+"materska-skola-vatin-616521": {
+"duvod": "",
+"final": "https://vatinms.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola Vatín – Rybičky – Mateřská škola je základem pro celý budoucí život – Jan Amos Komenský",
+"web": "https://vatinms.cz"
 },
 "materska-skola-vavrinec-600498": {
 "duvod": "",
@@ -13522,6 +14252,12 @@
 "titulek": "Ujišťujeme se, že nejste robot!",
 "web": "https://msvelesin.cz"
 },
+"materska-skola-vechnov-615495": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.msvechnov.cz"
+},
 "materska-skola-vedomice-565773": {
 "duvod": "",
 "final": "https://www.msvedomice.cz",
@@ -13537,6 +14273,14 @@
 "shoda": "ico",
 "titulek": "Úvodní strana - Mateřská škola Velim",
 "web": "https://msvelim.cz"
+},
+"materska-skola-velka-bukovina-561034": {
+"duvod": "",
+"final": "https://www.msbukovina.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "MŠ Bukovina - Oficiální stránky MŠ Bukovina",
+"web": "https://www.msbukovina.cz"
 },
 "materska-skola-velka-chuchle-006357": {
 "duvod": "",
@@ -13698,6 +14442,12 @@
 "titulek": "Mateřská škola Vintířov",
 "web": "https://materska-skola-vintirov.cz"
 },
+"materska-skola-viska-580284": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://msviska.cz"
+},
 "materska-skola-vitejovice-534452": {
 "duvod": "",
 "final": "https://msvitejovice.cz",
@@ -13768,6 +14518,14 @@
 "titulek": "MŠ Vražkov, okres Litoměřice",
 "web": "https://www.msvrazkov.cz"
 },
+"materska-skola-vrbno-nad-lesy-566745": {
+"duvod": "",
+"final": "https://www.skolkavrbno.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Mateřská škola Vrbno nad Lesy – Školka Vrbno",
+"web": "https://www.skolkavrbno.cz"
+},
 "materska-skola-vrbno-pod-pradedem-620871": {
 "duvod": "",
 "final": "https://msvesvahu.cz",
@@ -13805,6 +14563,26 @@
 "shoda": "ulice",
 "titulek": "Úvodní stránka - Mateřská Škola Všejany",
 "web": "https://ms-vsejany.datonet.cz"
+},
+"materska-skola-vsetin-042362": {
+"duvod": "",
+"final": "https://www.mssychrov.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MATEŘSKÁ ŠKOLA SYCHROV",
+"web": "https://www.mssychrov.cz"
+},
+"materska-skola-vsetin-042389": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://www.skolkabenatky.cz"
+},
+"materska-skola-vsetin-132121": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.mskopecek.cz"
 },
 "materska-skola-vykleky-631709": {
 "duvod": "",
@@ -13925,6 +14703,14 @@
 "titulek": "MŠ Fügnerova Žatec – Mateřská škola Fügnerova – \"U Studánky\"",
 "web": "https://msfugnerovazatec.cz"
 },
+"materska-skola-zatec-275880": {
+"duvod": "",
+"final": "https://msbrezinyzatec.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Aktuality | Mateřská škola Otakara Březiny",
+"web": "https://msbrezinyzatec.cz"
+},
 "materska-skola-zatec-357090": {
 "duvod": "",
 "final": "https://msujezu.cz",
@@ -14017,6 +14803,14 @@
 "titulek": "MŠ Budovatelská",
 "web": "https://msbudovatelska.cz"
 },
+"materska-skola-zlin-605414": {
+"duvod": "",
+"final": "https://www.msknesla.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola M.Knesla",
+"web": "https://www.msknesla.cz"
+},
 "materska-skola-zlin-605449": {
 "duvod": "",
 "final": "http://msdetskazlin.cz",
@@ -14024,6 +14818,14 @@
 "shoda": "psc",
 "titulek": "Home",
 "web": "http://msdetskazlin.cz"
+},
+"materska-skola-zlin-605457": {
+"duvod": "",
+"final": "https://www.msdruzstevni.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Mateřská škola Zlín - Družstevní",
+"web": "https://www.msdruzstevni.cz"
 },
 "materska-skola-zlin-619348": {
 "duvod": "",
@@ -14331,6 +15133,14 @@
 "titulek": "Moudrohraní | Dětská skupina Praha 6",
 "web": "https://moudrohrani.cz"
 },
+"ms-a-zs-slunecnice-033682": {
+"duvod": "",
+"final": "https://www.mszsslunecnice.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Mateřská škola a Základní škola Slunečnice",
+"web": "https://www.mszsslunecnice.cz"
+},
 "ms-balonek-400515": {
 "duvod": "",
 "final": "https://msbalonek.cz",
@@ -14395,6 +15205,14 @@
 "titulek": "MŠ LILIOVÁ DĚČÍN II - MŠ LILIOVÁ DĚČÍN II",
 "web": "https://msliliova.cz"
 },
+"ms-decin-ii-riegrova-454-000311": {
+"duvod": "",
+"final": "https://www.msriegrovadc.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "MŠ RIEGROVA A POHRANIČNÍ DĚČÍN - MŠ RIEGROVA A POHRANIČNÍ DĚČÍN",
+"web": "https://www.msriegrovadc.cz"
+},
 "ms-dracek-569345": {
 "duvod": "",
 "final": "https://www.msdracekpovrly.cz",
@@ -14458,6 +15276,12 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Kdyně, Dělnická 35, příspěvková organizace - Oficiální stránky Mateřská škola Kdyně",
 "web": "https://www.msdelnickakdyne.cz"
+},
+"ms-klubicko-tlumacov-500636": {
+"duvod": "chyba: HTTP Error 500: Internal Server Error",
+"ok": false,
+"shoda": "",
+"web": "https://www.skolka-klubicko.cz"
 },
 "ms-kostelni-502810": {
 "duvod": "",
@@ -14553,6 +15377,14 @@
 "titulek": "Mateřská škola Rokycany, U Saské brány, příspěvková organizace - Oficiální stránky Mateřská škola Rokycany",
 "web": "https://www.skolkarokycany.cz"
 },
+"ms-roznov-pod-radhostem-634147": {
+"duvod": "",
+"final": "https://www.msnazahradach.cz/ms-tylovice",
+"ok": true,
+"shoda": "ulice",
+"titulek": "MŠ Tylovice | MŠ Na Zahradách",
+"web": "https://www.msnazahradach.cz/ms-tylovice"
+},
 "ms-rozvadov-546370": {
 "duvod": "",
 "final": "https://www.msrozvadov.cz/",
@@ -14574,6 +15406,12 @@
 "ok": false,
 "shoda": "",
 "web": "https://mssec.cz"
+},
+"ms-sedlejov-096439": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://www.sedlejov.cz/materska-skola"
 },
 "ms-sikulka-502062": {
 "duvod": "",
@@ -14781,6 +15619,22 @@
 "titulek": "Sokolík Řevnice – Dětská skupina v Letech u Dobřichovic",
 "web": "https://sokolikrevnice.cz"
 },
+"soukr-ms-materinka-791136": {
+"duvod": "bez-shody",
+"final": "https://www.msmaterinka.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Soukromá MŠ Mateřinka, s.r.o.",
+"web": "https://www.msmaterinka.cz"
+},
+"soukr-ms-stepan-585673": {
+"duvod": "",
+"final": "https://skolkastepan.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Soukromá mateřská škola Štěpán o.p.s.",
+"web": "https://skolkastepan.cz"
+},
 "soukroma-materska-skola-neratovice-883165": {
 "duvod": "",
 "final": "https://ms-neratovice.cz",
@@ -14788,6 +15642,14 @@
 "shoda": "psc",
 "titulek": "Úvod",
 "web": "https://ms-neratovice.cz"
+},
+"soukroma-materska-skola-usti-nad-labem-018109": {
+"duvod": "",
+"final": "https://www.soukromamaterskaskola.cz/cs/",
+"ok": true,
+"shoda": "ulice",
+"titulek": "Nejsme jen tak obyčejná školka. Jsme spíš takový ostrov uprostřed města, kde si děti užívají spoustu zábavy, sportu a tr",
+"web": "https://www.soukromamaterskaskola.cz"
 },
 "soukroma-zakladni-skola-a-materska-skola-ulibice-079097": {
 "duvod": "",
@@ -14978,6 +15840,14 @@
 "titulek": "Základní škola a mateřská škola Bohuslavice, okres Náchod - Oficiální stránky ZŠ a MŠ Bohuslavice nad Metují",
 "web": "https://www.skola-bohuslavice.cz"
 },
+"zakladni-skola-a-materska-skola-bohuslavice-u-zlina-606305": {
+"duvod": "",
+"final": "https://www.zsms-bohuslaviceuzlina.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Zs-bohuslavice",
+"web": "https://www.zsms-bohuslaviceuzlina.cz"
+},
 "zakladni-skola-a-materska-skola-bohutice-614391": {
 "duvod": "",
 "final": "https://www.zsamsbohutice.cz/",
@@ -14993,6 +15863,14 @@
 "shoda": "ulice",
 "titulek": "Základní škola a mateřská škola Borkovany, okres Břeclav, příspěvková organizace",
 "web": "https://skolaborkovany.cz"
+},
+"zakladni-skola-a-materska-skola-borsice-u-blatnice-612909": {
+"duvod": "",
+"final": "https://www.zsborsice.eu/cs",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní škola a Mateřská škola Boršice u Blatnice, okres Uherské Hradiště, příspěvková organizace",
+"web": "https://www.zsborsice.eu"
 },
 "zakladni-skola-a-materska-skola-bosovice-613948": {
 "duvod": "chyba: <urlopen error timed out>",
@@ -15049,6 +15927,12 @@
 "titulek": "Školy Březová - Home",
 "web": "https://zsbrezova.eu"
 },
+"zakladni-skola-a-materska-skola-brezuvky-605376": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://zsmsbrezuvky.cz"
+},
 "zakladni-skola-a-materska-skola-brnicko-632144": {
 "duvod": "",
 "final": "http://zsbrnicko.cz",
@@ -15075,6 +15959,12 @@
 "titulek": "ZŠ a MŠ Brumovice okres Opava | ZŠ a MŠ Brumovice, okres Opava",
 "web": "https://skolabrumovice.cz"
 },
+"zakladni-skola-a-materska-skola-brzkov-608901": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://skolabrzkov.cz"
+},
 "zakladni-skola-a-materska-skola-budkov-611856": {
 "duvod": "",
 "final": "https://www.zsbudkov.cz",
@@ -15090,6 +15980,14 @@
 "shoda": "ulice",
 "titulek": "Základní škola a Mateřská škola při Fakultní nemocnici Bulovka, příspěvková organizace",
 "web": "https://skolabulovka.cz"
+},
+"zakladni-skola-a-materska-skola-bystrice-pod-lopenikem-612356": {
+"duvod": "",
+"final": "https://www.skolabystrice.cz/uvod",
+"ok": true,
+"shoda": "psc",
+"titulek": "Něco málo o nás... - Základní škola a Mateřská škola Bystřice pod Lopeníkem",
+"web": "https://www.skolabystrice.cz"
 },
 "zakladni-skola-a-materska-skola-bystrocice-626284": {
 "duvod": "",
@@ -15261,6 +16159,22 @@
 "titulek": "ZŠ a MŠ Dalovice, okr. K. Vary, příspěvková organizace",
 "web": "https://www.zsmsdalovice.cz"
 },
+"zakladni-skola-a-materska-skola-decin-ix-553912": {
+"duvod": "",
+"final": "https://www.zsbynov.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZÁKLADNÍ ŠKOLA NA PĚŠINĚ, DĚČÍN IX - BYNOV",
+"web": "https://www.zsbynov.cz"
+},
+"zakladni-skola-a-materska-skola-desov-611899": {
+"duvod": "",
+"final": "https://www.zsms.desov.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "ZŠ a MŠ Dešov",
+"web": "https://www.zsms.desov.cz"
+},
 "zakladni-skola-a-materska-skola-destna-532697": {
 "duvod": "",
 "final": "https://www.zs-destna.cz",
@@ -15277,6 +16191,14 @@
 "titulek": "ZĹ a MĹ DÄtenice",
 "web": "https://zsdetenice.cz"
 },
+"zakladni-skola-a-materska-skola-dlouha-ves-580331": {
+"duvod": "",
+"final": "https://www.zsdlves.cz/cs/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní a Mateřská škola Dlouhá Ves okres Havlíčkův Brod | Základní škola a mateřská škola Dlouhá Ves",
+"web": "https://www.zsdlves.cz"
+},
 "zakladni-skola-a-materska-skola-dobratice-621444": {
 "duvod": "",
 "final": "https://www.zsdobratice.cz/",
@@ -15285,6 +16207,12 @@
 "shoda": "ulice",
 "titulek": "Základní škola Dobratice",
 "web": "https://zsdobratice.cz"
+},
+"zakladni-skola-a-materska-skola-dobronin-019855": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.skola-dobronin.cz"
 },
 "zakladni-skola-a-materska-skola-dolni-branna-587947": {
 "duvod": "",
@@ -15341,6 +16269,12 @@
 "titulek": "MŠ Dolní Lukavice",
 "web": "https://msdolnilukavice.webnode.cz"
 },
+"zakladni-skola-a-materska-skola-dolni-mesto-580071": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsdolnimesto.cz"
+},
 "zakladni-skola-a-materska-skola-dolni-olesnice-587998": {
 "duvod": "",
 "final": "https://www.zsdolniolesnice.cz/",
@@ -15362,6 +16296,14 @@
 "shoda": "ico",
 "titulek": "ZŠ a MŠ Nová škola Domažlice",
 "web": "https://novaskoladomazlice.cz"
+},
+"zakladni-skola-a-materska-skola-drnovice-011151": {
+"duvod": "",
+"final": "https://www.skolyvtandemu-d.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní škola a mateřská škola Drnovice, okres Zlín, příspěvková organizace - Oficiální stránky ZŠ a MŠ Drnovice",
+"web": "https://www.skolyvtandemu-d.cz"
 },
 "zakladni-skola-a-materska-skola-drnovice-600358": {
 "duvod": "chyba: <urlopen error timed out>",
@@ -15386,6 +16328,22 @@
 "titulek": "Hajnice - Základní a mateřská škola Hajnice",
 "web": "https://zshajnice.cz"
 },
+"zakladni-skola-a-materska-skola-hamry-nad-sazavou-615959": {
+"duvod": "",
+"final": "https://www.skolahamryns.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZŠ a MŠ Hamry nad Sázavou",
+"web": "https://www.skolahamryns.cz"
+},
+"zakladni-skola-a-materska-skola-havlickova-borova-580152": {
+"duvod": "",
+"final": "https://www.zsborova.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "ZŠ a MŠ Havlíčkova Borová - Oficiální stránky ZŠ a MŠ Havlíčkova Borová",
+"web": "https://www.zsborova.cz"
+},
 "zakladni-skola-a-materska-skola-havlovice-588072": {
 "duvod": "",
 "final": "https://www.skolahavlovice.cz/",
@@ -15393,6 +16351,14 @@
 "shoda": "psc",
 "titulek": "ZŠ a MŠ Havlovice",
 "web": "https://skolahavlovice.cz"
+},
+"zakladni-skola-a-materska-skola-heraltice-611481": {
+"duvod": "bez-shody",
+"final": "https://www.zs-heraltice.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Základní škola a mateřská škola Heraltice",
+"web": "https://www.zs-heraltice.cz"
 },
 "zakladni-skola-a-materska-skola-hlavnice-024410": {
 "duvod": "robots",
@@ -15415,6 +16381,22 @@
 "shoda": "ulice",
 "titulek": "Základní škola a Mateřská škola Hlubočany, okres Vyškov",
 "web": "https://zsmshlubocany.webnode.cz"
+},
+"zakladni-skola-a-materska-skola-hnevkovice-580560": {
+"duvod": "",
+"final": "https://zs-hnevkovice.webnode.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZÁKLADNÍ ŠKOLA HNĚVKOVICE",
+"web": "https://zs-hnevkovice.webnode.cz"
+},
+"zakladni-skola-a-materska-skola-hodice-608464": {
+"duvod": "bez-shody",
+"final": "https://zs-hodice.webnode.cz",
+"ok": false,
+"shoda": "",
+"titulek": "ZŠ a MŠ Hodice",
+"web": "https://zs-hodice.webnode.cz"
 },
 "zakladni-skola-a-materska-skola-horni-bradlo-582040": {
 "duvod": "chyba: <urlopen error timed out>",
@@ -15493,6 +16475,12 @@
 "titulek": "Home - ZŠ TGM Hrádek nad Nisou - ZŠ TGM Hrádek nad Nisou",
 "web": "https://skolahradek.cz"
 },
+"zakladni-skola-a-materska-skola-hrivinuv-ujezd-606208": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsamshrivinuvujezd.cz"
+},
 "zakladni-skola-a-materska-skola-hrusky-613379": {
 "duvod": "bez-shody",
 "final": "https://zshrusky.cz",
@@ -15500,6 +16488,12 @@
 "shoda": "",
 "titulek": "",
 "web": "https://zshrusky.cz"
+},
+"zakladni-skola-a-materska-skola-huntirov-553904": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsamshuntirov.cz"
 },
 "zakladni-skola-a-materska-skola-huntirov-563151": {
 "duvod": "bez-shody",
@@ -15641,6 +16635,12 @@
 "titulek": "Úvod | ZŠ a MŠ Karlova Studánka",
 "web": "https://zskarlovastudanka.cz"
 },
+"zakladni-skola-a-materska-skola-kasava-605759": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://kasava.edupage.org"
+},
 "zakladni-skola-a-materska-skola-katov-112949": {
 "duvod": "",
 "final": "https://zskatov.webnode.cz",
@@ -15757,6 +16757,14 @@
 "titulek": "ZŠ a MŠ Kostelec - Oficiální stránky ZŠ a MŠ Kostelec",
 "web": "https://zsmskostelec.cz"
 },
+"zakladni-skola-a-materska-skola-kostice-566311": {
+"duvod": "",
+"final": "https://zsms-kostice.webnode.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "zsms-kostice",
+"web": "https://zsms-kostice.webnode.cz"
+},
 "zakladni-skola-a-materska-skola-kozli-580586": {
 "duvod": "",
 "final": "https://www.zskozli.cz",
@@ -15796,6 +16804,14 @@
 "shoda": "psc",
 "titulek": "Mateřská škola Křenovice",
 "web": "https://www.skolkakrenovice.cz"
+},
+"zakladni-skola-a-materska-skola-kridla-615657": {
+"duvod": "",
+"final": "https://zskridla.cz/w/",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní a Mateřská škola Křídla, okres Žďár nad Sázavou, příspěvková organizace",
+"web": "https://zskridla.cz/w"
 },
 "zakladni-skola-a-materska-skola-krivoklat-518066": {
 "duvod": "",
@@ -15850,6 +16866,12 @@
 "shoda": "psc",
 "titulek": "Základní škola a mateřská škola Liběšice, okres Louny",
 "web": "https://zsmslibesice.com"
+},
+"zakladni-skola-a-materska-skola-libouchec-568802": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsmslibouchec.eu"
 },
 "zakladni-skola-a-materska-skola-lipnik-611317": {
 "duvod": "",
@@ -15983,6 +17005,12 @@
 "titulek": "Základní škola a Mateřská škola Malá Hraštice, okres Příbram - Oficiální stránky ZŠ a MŠ Malá Hraštice, okres Příbram",
 "web": "https://skolahrastice.cz"
 },
+"zakladni-skola-a-materska-skola-malec-580276": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsamsmalec.cz"
+},
 "zakladni-skola-a-materska-skola-mankovice-625385": {
 "duvod": "",
 "final": "https://www.mankovice.cz/obcan-1/zakladni-skola/",
@@ -16006,6 +17034,20 @@
 "shoda": "ico",
 "titulek": "Úvod | ZŠ a MŠ města Olešnice",
 "web": "https://zsamsolesnice.cz"
+},
+"zakladni-skola-a-materska-skola-mezibori-040450": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://zsmezibori.cz"
+},
+"zakladni-skola-a-materska-skola-mikulasovice-121573": {
+"duvod": "",
+"final": "https://www.zsmsmik.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Základní škola, kde to žije. - ZŠ Mikulášovice",
+"web": "https://www.zsmsmik.cz"
 },
 "zakladni-skola-a-materska-skola-mikuluvka-007230": {
 "duvod": "",
@@ -16093,6 +17135,12 @@
 "titulek": "Úvod",
 "web": "https://skolamoutnice.cz"
 },
+"zakladni-skola-a-materska-skola-mrakotin-014970": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://zsmsmrakotin.cz"
+},
 "zakladni-skola-a-materska-skola-mricna-036596": {
 "duvod": "",
 "final": "https://www.skolamricna.cz/",
@@ -16162,6 +17210,18 @@
 "shoda": "ico",
 "titulek": "ZŠ a MŠ Nová Pec",
 "web": "https://skolanovapec.cz"
+},
+"zakladni-skola-a-materska-skola-nova-ves-u-noveho-mesta-na-morave-055291": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://novavesnm.cz/zakladni-skola-a-materska-skola-nova-ves/ms-902"
+},
+"zakladni-skola-a-materska-skola-nove-syrovice-611473": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://novesyrovice.cz/zs-a-ms-nove-syrovice"
 },
 "zakladni-skola-a-materska-skola-novy-oldrichov-560500": {
 "duvod": "",
@@ -16255,6 +17315,12 @@
 "titulek": "ZŠ Pavlice | Základní škola a Mateřská škola",
 "web": "https://zspavlice.cz"
 },
+"zakladni-skola-a-materska-skola-pavlov-608863": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://skolapavlov.cz"
+},
 "zakladni-skola-a-materska-skola-pecka-582988": {
 "duvod": "",
 "final": "https://www.zs-pecka.cz/",
@@ -16286,6 +17352,12 @@
 "shoda": "ulice",
 "titulek": "ZŠ a MŠ Písečné, příspěvková organizace -",
 "web": "https://zsmspisecne.cz"
+},
+"zakladni-skola-a-materska-skola-ploskovice-565633": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsploskovice.cz"
 },
 "zakladni-skola-a-materska-skola-plzen-bozkov-543427": {
 "duvod": "",
@@ -16369,6 +17441,12 @@
 "titulek": "Úvod | ZŠ a MŠ Potštejn",
 "web": "https://skolapotstejn.cz"
 },
+"zakladni-skola-a-materska-skola-povrly-568853": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://www.povrly.cz/materska-skola-pri-zs-povrly"
+},
 "zakladni-skola-a-materska-skola-pozorice-603683": {
 "duvod": "",
 "final": "https://mspozorice.webnode.cz",
@@ -16441,6 +17519,12 @@
 "titulek": "Aktuality, základní informace | ZŠ a MŠ Prštice",
 "web": "https://zsamsprstice.cz"
 },
+"zakladni-skola-a-materska-skola-puklice-608383": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zspuklice.cz"
+},
 "zakladni-skola-a-materska-skola-pustimer-613611": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
@@ -16501,6 +17585,14 @@
 "shoda": "",
 "web": "https://www.zsmsrokytno.cz"
 },
+"zakladni-skola-a-materska-skola-rostin-609461": {
+"duvod": "",
+"final": "https://zs-a-ms-rostin.webnode.cz",
+"ok": true,
+"shoda": "psc",
+"titulek": "Základní škola Roštín",
+"web": "https://zs-a-ms-rostin.webnode.cz"
+},
 "zakladni-skola-a-materska-skola-rovna-003147": {
 "duvod": "",
 "final": "https://www.skolarovna.cz/",
@@ -16524,6 +17616,14 @@
 "shoda": "ico",
 "titulek": "ZŠ a MŠ Roztoky u Jilemnice | Škola pro žáky – žáci pro život.",
 "web": "https://skolaroztoky.cz"
+},
+"zakladni-skola-a-materska-skola-ruzena-608596": {
+"duvod": "bez-shody",
+"final": "https://www.skolaruzena.cz",
+"ok": false,
+"shoda": "",
+"titulek": "ZŠ a MŠ Růžená, okres Jihlava",
+"web": "https://www.skolaruzena.cz"
 },
 "zakladni-skola-a-materska-skola-rybna-nad-zdobnici-585707": {
 "duvod": "",
@@ -16666,6 +17766,14 @@
 "titulek": "ZŠ a MŠ Slaná",
 "web": "https://skolaslana.cz"
 },
+"zakladni-skola-a-materska-skola-slavkov-pod-hostynem-608979": {
+"duvod": "",
+"final": "https://zsamsslavkov.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZŠ a MŠ Slavkov pod Hostýnem",
+"web": "https://zsamsslavkov.cz"
+},
 "zakladni-skola-a-materska-skola-slopne-605783": {
 "duvod": "",
 "final": "https://www.zsmsslopne.cz",
@@ -16754,6 +17862,12 @@
 "shoda": "",
 "web": "https://zsstod.cz"
 },
+"zakladni-skola-a-materska-skola-stoky-012292": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsmsstoky.cz"
+},
 "zakladni-skola-a-materska-skola-strizov-531020": {
 "duvod": "",
 "final": "https://zsamsstrizov.cz",
@@ -16785,6 +17899,12 @@
 "shoda": "ulice",
 "titulek": "Aktuality",
 "web": "http://ms.studlov.cz"
+},
+"zakladni-skola-a-materska-skola-sucha-loz-612950": {
+"duvod": "chyba: HTTP Error 403: Forbidden",
+"ok": false,
+"shoda": "",
+"web": "https://www.suchaloz.cz/zs-a-ms-sucha-loz"
 },
 "zakladni-skola-a-materska-skola-suchohrdly-u-miroslavi-614375": {
 "duvod": "",
@@ -16856,6 +17976,12 @@
 "titulek": "ZŠ a MŠ Teplice nad Metují",
 "web": "https://zsteplicenm.cz"
 },
+"zakladni-skola-a-materska-skola-tisa-568926": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsmstisa.cz"
+},
 "zakladni-skola-a-materska-skola-tranovice-007663": {
 "duvod": "",
 "final": "https://zsamstranovice.cz",
@@ -16926,6 +18052,22 @@
 "titulek": "ZŠ a MŠ Vanovice",
 "web": "https://zsmsvanovice.cz"
 },
+"zakladni-skola-a-materska-skola-vecov-615801": {
+"duvod": "",
+"final": "https://zsmsvecov.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní škola a Mateřská škola Věcov - oficiální stránky ZŠ a MŠ",
+"web": "https://zsmsvecov.cz"
+},
+"zakladni-skola-a-materska-skola-velemin-566010": {
+"duvod": "bez-shody",
+"final": "https://zs-velemin.cz",
+"ok": false,
+"shoda": "",
+"titulek": "",
+"web": "https://zs-velemin.cz"
+},
 "zakladni-skola-a-materska-skola-velesovice-613824": {
 "duvod": "",
 "final": "https://www.skolavelesovice.cz/",
@@ -16941,6 +18083,14 @@
 "shoda": "ulice",
 "titulek": "ZŠ a MŠ Velká Dobrá - Oficiální stránky ZŠ a MŠ Velká Dobrá",
 "web": "https://www.zsamsvelkadobra.cz"
+},
+"zakladni-skola-a-materska-skola-velke-mezirici-616459": {
+"duvod": "",
+"final": "https://www.zslhotky.cz",
+"ok": true,
+"shoda": "ulice",
+"titulek": "ZŠ Lhotky",
+"web": "https://www.zslhotky.cz"
 },
 "zakladni-skola-a-materska-skola-veprova-615860": {
 "duvod": "",
@@ -16958,6 +18108,18 @@
 "titulek": "ZŠ a MŠ Věrovany, okres Olomouc",
 "web": "https://zsmsverovany.cz"
 },
+"zakladni-skola-a-materska-skola-vesela-606062": {
+"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"ok": false,
+"shoda": "",
+"web": "https://vesela.edupage.org"
+},
+"zakladni-skola-a-materska-skola-vetrny-jenikov-608502": {
+"duvod": "chyba: <urlopen error timed out>",
+"ok": false,
+"shoda": "",
+"web": "https://www.zsvj.cz"
+},
 "zakladni-skola-a-materska-skola-vidochov-582945": {
 "duvod": "",
 "final": "https://www.obecvidochov.cz/obec/materska-a-zakladni-skola",
@@ -16966,6 +18128,14 @@
 "titulek": "Mateřská a základní škola - Obec Vidochov",
 "web": "https://obecvidochov.cz/obec/materska-a-zakladni-skola"
 },
+"zakladni-skola-a-materska-skola-vilemov-580527": {
+"duvod": "bez-shody",
+"final": "https://www.skola-vilemov.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Základní škola a Mateřská škola Vilémov - Oficiální stránky ZŠ a MŠ Vilémov",
+"web": "https://www.skola-vilemov.cz"
+},
 "zakladni-skola-a-materska-skola-vir-077858": {
 "duvod": "",
 "final": "https://www.zsmsvir.cz",
@@ -16973,6 +18143,14 @@
 "shoda": "ico",
 "titulek": "ZŠ a MŠ Vír – Škola rodinného typu v okrese Žďár",
 "web": "https://www.zsmsvir.cz"
+},
+"zakladni-skola-a-materska-skola-vitonice-608961": {
+"duvod": "bez-shody",
+"final": "https://www.zsmsvitonice.cz",
+"ok": false,
+"shoda": "",
+"titulek": "Domů - ZŠ a MŠ Vítonice",
+"web": "https://www.zsmsvitonice.cz"
 },
 "zakladni-skola-a-materska-skola-vlasatice-605287": {
 "duvod": "",
@@ -17034,6 +18212,14 @@
 "titulek": "Škola - Oficiální stránky obce Vysoká Pec",
 "web": "https://www.vysokapec.cz/obec-43/skola/"
 },
+"zakladni-skola-a-materska-skola-vysoke-pole-606437": {
+"duvod": "",
+"final": "https://www.skolyvtandemu-vp.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní škola a Mateřská škola Vysoké Pole, okres Zlín, příspěvková organizace - Oficiální stránky ZŠ a MŠ Vysoké Pole",
+"web": "https://www.skolyvtandemu-vp.cz"
+},
 "zakladni-skola-a-materska-skola-vysoky-ujezd-511001": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
@@ -17047,6 +18233,12 @@
 "shoda": "",
 "titulek": "Střední škola, Základní škola, Mateřská škola a Dětský domov Zábřeh - Aktuality",
 "web": "https://zsadd-zabreh.cz"
+},
+"zakladni-skola-a-materska-skola-zadverice-rakova-606232": {
+"duvod": "chyba: <urlopen error timed out>",
+"ok": false,
+"shoda": "",
+"web": "https://skolka.zadverice-rakova.cz"
 },
 "zakladni-skola-a-materska-skola-zalsi-590361": {
 "duvod": "",
@@ -17093,6 +18285,14 @@
 "titulek": "Základní škola a Mateřská škola Zdíkov – ZŠ a MŠ Zdíkov",
 "web": "https://zszdikov.cz"
 },
+"zakladni-skola-a-materska-skola-zhor-014171": {
+"duvod": "",
+"final": "https://skola.zhor.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "ZŠ a MŠ Zhoř",
+"web": "https://skola.zhor.cz"
+},
 "zakladni-skola-a-materska-skola-zimutice-007965": {
 "duvod": "",
 "final": "https://www.zsmszimutice.cz/",
@@ -17125,6 +18325,14 @@
 "titulek": "ZŠ a MŠ Žlutava - Oficiální stránky Základní škola a Mateřská škola Žlutava, okres Zlín, příspěvková organizace",
 "web": "https://www.zszlutava.cz"
 },
+"zakladni-skola-a-materska-skola-zubri-615690": {
+"duvod": "",
+"final": "https://www.skolaobeczubri.cz",
+"ok": true,
+"shoda": "ico",
+"titulek": "Základní a mateřská škola obce Zubří – Oficiání web",
+"web": "https://www.skolaobeczubri.cz"
+},
 "zakladni-skola-a-ms-j-schrotha-632527": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
@@ -17154,6 +18362,12 @@
 "shoda": "ico",
 "titulek": "Hlavní strana | Mateřská škola Úpice",
 "web": "https://www.msupice.cz"
+},
+"zakladni-skola-lipnice-nad-sazavou-000647": {
+"duvod": "robots",
+"ok": false,
+"shoda": "",
+"web": "https://www.zslipnicens.cz/materska-skola"
 },
 "zemekvitek-detska-skupina-ds00373": {
 "duvod": "",
