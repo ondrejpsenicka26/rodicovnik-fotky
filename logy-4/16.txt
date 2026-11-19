@@ -1,2 +1,5 @@
-[13:56:16] Část 17/20: webů 190, hotovo 232, zbývá 0
-[13:56:16] Konec: školek s fotkami 66; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:10] Část 17/20: webů 191, hotovo 232, zbývá 1
+[12:33:00] https://zsamsslavkov.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 85 obrázků, 26 fotek ke kontrole
+[12:33:13] tříděno 0/26
+[12:33:14] Dávka 1: hotovo 233/191, se fotkami 67; {'ok': 1, 'lide': 1, 'jine': 24, 'sablona': 0}
+[12:33:14] Konec: školek s fotkami 67; {'ok': 1, 'lide': 1, 'jine': 24, 'sablona': 0}
