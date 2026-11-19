@@ -1,2 +1,15 @@
-[13:56:33] Část 6/20: webů 162, hotovo 221, zbývá 0
-[13:56:33] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:33:02] Část 6/20: webů 173, hotovo 221, zbývá 11
+[12:33:05] https://www.obec-hrusovany.cz/materska-skola: nedostupné nebo zakázané
+[12:33:10] https://www.obec-lavicky.cz/cz/materska-skolka: nedostupné nebo zakázané
+[12:33:38] https://www.mshornikrupa.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 14 fotek ke kontrole
+[12:33:41] https://zs-hnevkovice.webnode.cz: 10 stránek (galerie mimo web: 2 ['mshnevkovice.rajce.idnes.cz', 'www.rajce.net'], alb: 0), 9 obrázků, 4 fotek ke kontrole
+[12:33:41] https://mspohadkaul.cz: 3 stránek (galerie mimo web: 1 ['materskaskolapohadka.rajce.idnes.cz'], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[12:33:46] https://msbrezinyzatec.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 62 obrázků, 4 fotek ke kontrole
+[12:34:19] https://www.mslibkovicepodripem.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 144 obrázků, 1 fotek ke kontrole
+[12:34:36] https://www.msslunickovdf.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 80 obrázků, 2 fotek ke kontrole
+[12:34:50] https://www.skolabystrice.cz: 34 stránek (galerie mimo web: 1 ['machalikm.rajce.idnes.cz'], alb: 0), 311 obrázků, 29 fotek ke kontrole
+[12:35:57] https://ms-sukorady.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 110 obrázků, 42 fotek ke kontrole
+[12:38:06] https://www.mskostelany.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 569 obrázků, 20 fotek ke kontrole
+[12:38:21] tříděno 0/116
+[12:38:32] Dávka 1: hotovo 232/173, se fotkami 84; {'ok': 6, 'lide': 11, 'jine': 99, 'sablona': 0}
+[12:38:32] Konec: školek s fotkami 84; {'ok': 6, 'lide': 11, 'jine': 99, 'sablona': 0}

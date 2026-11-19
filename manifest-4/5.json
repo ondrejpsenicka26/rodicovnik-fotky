@@ -1126,6 +1126,23 @@
 "w": 1200
 }
 ],
+"materska-skola-horni-krupa-580063": [
+{
+"alt": "",
+"barva": "#ac9a90",
+"dh": "fef56b626478b18b",
+"h": 1000,
+"jistota": 0.919,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYB/8QAJBAAAgICAgIBBQEAAAAAAAAAAQIDEQAEEiExQVEFExQiMnH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIhERL/2gAMAwEAAhEDEQA/ANDNPz/a+mGVbLzoWKN8Qe/jrG7m0YYCTGGLMAbsBCT7xEe2Cn5DqzOV4iIUB58DBd+RzPTpBQ8VjLV5r5wx0cTSoHt4AfCGif8ATeGXWkybv6ibETQhrlZeSgkejmc19P6nsbMkLmCNYGHJi5rv2vzkHTmkM6kyNY6Bv1l3sxIdOGYqPuNAtt7PZzNXKeotLcriZO1pNbWjMcu5zYMbMgBOGZuQcSKLdgH+jhiVZgXO6f/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mshornikrupa.cz/index.php?section=gallery",
+"typ": "les",
+"url": "https://mshornikrupa.cz/download.php?id=2",
+"w": 750
+}
+],
 "materska-skola-jablonec-nad-nisou-032741": [
 {
 "alt": "Třída Koťátek ...",
@@ -1279,6 +1296,23 @@
 "typ": "interier",
 "url": "https://skolkajenikovice.cz/wp-content/uploads/2026/09/20260821_140226.jpg",
 "w": 1200
+}
+],
+"materska-skola-kostelany-nad-moravou-612739": [
+{
+"alt": "",
+"barva": "#ac8b5d",
+"dh": "1f0f4f9fa72e3c63",
+"h": 1200,
+"jistota": 0.976,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAkABQDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMEAQIFBv/EACEQAAIDAAICAgMAAAAAAAAAAAECAAMRBBIhMRRBUXGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIAA//EABwRAAMBAAMBAQAAAAAAAAAAAAABAhEDIUEiMf/aAAwDAQACEQMRAD8AugSHlV7WZYAJGA4dmLkPVgSPEBEOu0JdJfp5/kPctmV3FAAPHUGJIlBuBdr6U8+rgd/vqI+Y1LsNXJjzDqJyLCxYKSv4/Uke5moNli9CRpEzWFVOoAAlflLZyFU1hSoO4SRsHNeeCXOlH4NnJAsUkDMOHPMTq1MKalQfQiIS48I+iNzvRfpjhkqxEJJ1NLFHaIiWY//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mskostelany.cz/tridy-ms/",
+"typ": "interier",
+"url": "https://www.mskostelany.cz/wp-content/uploads/2026/10/IMG-20260924-WA0012.jpg",
+"w": 675
 }
 ],
 "materska-skola-liberec-564301": [
@@ -2000,6 +2034,23 @@
 "w": 800
 }
 ],
+"materska-skola-varnsdorf-561671": [
+{
+"alt": "og",
+"barva": "#bb9f7b",
+"dh": "d8ccec8e8e9e8ece",
+"h": 797,
+"jistota": 0.879,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EAB0QAAICAwEBAQAAAAAAAAAAAAECAAMEETFhEyH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIxIf/aAAwDAQACEQMRAD8A6eS5+xVSARrvswVtBGyvvYLIzHryQdb2QO+xl15CMQomWqejpLBNBWyva85KDxLmWnSgD9lFVohz0//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msslunickovdf.cz/fotogalerie/trida-kotatek",
+"typ": "interier",
+"url": "http://www.msslunickovdf.cz/image.php?oid=13426521",
+"w": 1200
+}
+],
 "materska-skola-vicov-102154": [
 {
 "alt": "",
@@ -2071,6 +2122,36 @@
 "typ": "les",
 "url": "https://msfugnerovazatec.cz/wp-content/uploads/2024/10/hmat.chodnicek-2.jpg",
 "w": 720
+}
+],
+"materska-skola-zatec-275880": [
+{
+"alt": "",
+"barva": "#87786f",
+"dh": "d16e4c1b4a5a312c",
+"h": 520,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADgAUAwEiAAIRAQMRAf/EABgAAAMBAQAAAAAAAAAAAAAAAAADBQIE/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDABEhMQQSExRBQlFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEBAQADAAAAAAAAAAAAAAABABECEiH/2gAMAwEAAhEDEQA/AHMyMAWKE52b/lZfxgkRsgbdsa+6mQcpp45WeFAsQ0GOaZyW9L1edQXmT4ey21ejieyOYXW5U2vY42KKnrzI2UdVYAYFFTxn2L//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msbrezinyzatec.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://msbrezinyzatec.cz/upload/galleries/1/cv8zrqxwinu761r635naywu0mqehlr.jpg",
+"w": 750
+},
+{
+"alt": "MŠ Otakara Březiny v Žatci",
+"barva": "#827867",
+"dh": "4354471d1b3b23eb",
+"h": 508,
+"jistota": 0.744,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msbrezinyzatec.cz/provoz-ms",
+"typ": "interier",
+"url": "https://msbrezinyzatec.cz/dist/img/header_small.png",
+"w": 804
 }
 ],
 "ms-klanovice-503590": [
@@ -2384,6 +2465,23 @@
 "typ": "interier",
 "url": "https://user.regiofoto.cz/foto/albums/userpics/10057/IMG_9859.JPG",
 "w": 959
+}
+],
+"zakladni-skola-a-materska-skola-hnevkovice-580560": [
+{
+"alt": "",
+"barva": "#988a69",
+"dh": "431696c3b6c84917",
+"h": 900,
+"jistota": 0.998,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAiEAACAgEDBQEBAAAAAAAAAAABAgMRAAQSISIxQXGRUWH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8AuyJGVD3sPIbZdez+cYxSOn2tGGJoADx/MhDpXsFJ5I7HVtrq+9sfU6d1cNFKyRgcoALPonsczZqfRG8mNGOKYE+fuGc66sRjaYzJXYyAE4Y1RFP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zs-hnevkovice.webnode.cz/ms-hnevkovice/",
+"typ": "interier",
+"url": "https://94f205c22a.clvaw-cdnwnd.com/65c67d6125047d4f36d51145d721fbe6/200003577-21a5721a59/9b5ea339-4316-4dac-8674-d6878a276adc.jpeg?ph=94f205c22a",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-kralupy-nad-vltavou-006111": [
