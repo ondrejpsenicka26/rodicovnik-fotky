@@ -1205,6 +1205,49 @@
 "w": 900
 }
 ],
+"materska-skola-kostka-001756": [
+{
+"alt": "C",
+"barva": "#788089",
+"dh": "cfc3d9c8981b194d",
+"h": 795,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gNzUK/9sAQwASDA0QDQsSEA4QFBMSFRssHRsYGBs2JykgLEA5REM/OT49R1BmV0dLYU09Pll5WmFpbXJzckVVfYZ8b4VmcHJu/9sAQwETFBQbFxs0HR00bkk+SW5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u/8AAEQgADQAUAwEiAAIRAQMRAf/EABoAAAEFAQAAAAAAAAAAAAAAAAABAgMEBQb/xAAkEAACAQQBAgcAAAAAAAAAAAABAgMABBEhBRIxEyJBcaHB4f/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAABIBETET/9oADAMBAAIRAxEAPwB19zczXKi2uW6QgyyHudn7+KlseXuJrmOKaVXRjg5UA1R46FbaEMpLM7bLHPYftJelY3jdUHmyCMn0qnqMBbnTaVPFUN1ovuw3RXMPdLnUK0VPQUP/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.kostka-skolka.cz/prostory-ms",
+"typ": "budova",
+"url": "https://www.kostka-skolka.cz/files/files/texty/1784634469_C_potok.jpg",
+"w": 1200
+},
+{
+"alt": "Ložnice Kostičky",
+"barva": "#72764d",
+"dh": "f08083a7849bb8da",
+"h": 800,
+"jistota": 0.926,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.kostka-skolka.cz/prostory-ms",
+"typ": "interier",
+"url": "https://www.kostka-skolka.cz/files/files/texty/img_0361_1534308720.jpg",
+"w": 1067
+},
+{
+"alt": "og",
+"barva": "#87a3b7",
+"dh": "f6dcb8f5f9a50f31",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.kostka-skolka.cz/prostory-ms",
+"typ": "budova",
+"url": "https://www.kostka-skolka.cz/files/files/texty/1784634424_CSmetanka.jpg",
+"w": 1074
+}
+],
 "materska-skola-kromeriz-609231": [
 {
 "alt": "",
@@ -1877,6 +1920,62 @@
 "stranka": "https://www.mspstrossova.cz/aktuality/den-otevrenych-dveri-3/",
 "typ": "zahrada",
 "url": "https://www.mspstrossova.cz/wp-content/uploads/hriste-12..jpg",
+"w": 1200
+}
+],
+"soukroma-materska-skola-usti-nad-labem-018109": [
+{
+"alt": "Veleslavínova 3",
+"barva": "#8d9578",
+"dh": "1559cf860e0e4593",
+"h": 800,
+"jistota": 0.995,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBv/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEESEFMRNBIoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAAIDAQEAAAAAAAAAAAAAAAABAiExEUH/2gAMAwEAAhEDEQA/AGR3jvcRpaSMQRtmUZ63WuRW5sbY3MkpEa7YEDOM0aOLDgqSCuSCPzFKBNyRDIcjoZ2Pse6xU5a/RNLmHOvyxkYtJKQx9AVUyLjYLoytEvhVJGQKPl0e91UONlKFaf/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.soukromamaterskaskola.cz/cs/vsechny-budovy-ms/a-420/",
+"typ": "budova",
+"url": "https://www.soukromamaterskaskola.cz/UserFiles/55/Image/1683271864zabky.jpg",
+"w": 1200
+},
+{
+"alt": "Rekonstrukce",
+"barva": "#c4b288",
+"dh": "71b0909283a75d1c",
+"h": 927,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.soukromamaterskaskola.cz/cs/fotogalerie/27/",
+"typ": "interier",
+"url": "https://www.soukromamaterskaskola.cz/UserFiles/55/Image/1726224887t-da.jpg",
+"w": 1200
+},
+{
+"alt": "Rekonstrukce",
+"barva": "#776e5e",
+"dh": "4f2719095a6c3ca7",
+"h": 1200,
+"jistota": 0.991,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.soukromamaterskaskola.cz/cs/fotogalerie/27/",
+"typ": "zahrada",
+"url": "https://www.soukromamaterskaskola.cz/UserFiles/55/Image/1726224943TBMXE5889.JPG",
+"w": 900
+},
+{
+"alt": "Stará",
+"barva": "#677250",
+"dh": "3911c40f626579c9",
+"h": 800,
+"jistota": 0.959,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.soukromamaterskaskola.cz/cs/vsechny-budovy-ms/a-420/",
+"typ": "budova",
+"url": "https://www.soukromamaterskaskola.cz/UserFiles/55/Image/1678280951star-zmen-en-.jpg",
 "w": 1200
 }
 ],

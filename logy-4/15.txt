@@ -1,2 +1,8 @@
-[13:56:35] Část 16/20: webů 174, hotovo 223, zbývá 0
-[13:56:35] Konec: školek s fotkami 72; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:19] Část 16/20: webů 178, hotovo 223, zbývá 4
+[12:33:10] https://mschlumcanyavlci.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 457 obrázků, 2 fotek ke kontrole
+[12:33:22] https://www.kostka-skolka.cz: 17 stránek (galerie mimo web: 0 [], alb: 0), 520 obrázků, 15 fotek ke kontrole
+[12:33:28] https://www.zsbynov.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 679 obrázků, 0 fotek ke kontrole
+[12:33:52] https://www.soukromamaterskaskola.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 92 obrázků, 33 fotek ke kontrole
+[12:34:10] tříděno 0/50
+[12:34:17] Dávka 1: hotovo 227/178, se fotkami 74; {'ok': 7, 'lide': 8, 'jine': 13, 'sablona': 0}
+[12:34:17] Konec: školek s fotkami 74; {'ok': 7, 'lide': 8, 'jine': 13, 'sablona': 0}
