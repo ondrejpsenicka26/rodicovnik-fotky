@@ -9426,8 +9426,9 @@
 "web_pouzit": "http://www.tyrsovams.cz"
 },
 "materska-skola-duchcov-568560": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.msokruzni.cz"
 },
@@ -9791,8 +9792,9 @@
 "web": "https://mshoudkovice.cz"
 },
 "materska-skola-hovezi-633914": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://mshovezi.cz"
 },
@@ -10701,8 +10703,9 @@
 "web": "https://mslednice.cz"
 },
 "materska-skola-ledvice-568152": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.ledvice.cz/materska-skola-ledvice/os-1007"
 },
@@ -10953,8 +10956,9 @@
 "web": "https://ms-lucni.cz"
 },
 "materska-skola-ludslavice-609363": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://msludslavice.cz"
 },
@@ -11039,8 +11043,9 @@
 "web": "https://www.mala-velen.cz/obec/materska-skola/"
 },
 "materska-skola-malcin-68-000320": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.msmalcin.cz"
 },
@@ -11315,8 +11320,9 @@
 "web": "https://mocovice.cz/obec/materska-skola/o-skole"
 },
 "materska-skola-modlanska-rolnicka-568161": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.modlanskarolnicka.cz"
 },
@@ -11531,8 +11537,9 @@
 "web": "https://www.mstrebicska.cz"
 },
 "materska-skola-navojna-605902": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://msnavojna.cz"
 },
@@ -11617,8 +11624,9 @@
 "web": "https://www.msnestemice.cz"
 },
 "materska-skola-nevcehle-608332": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.msnevcehle.cz"
 },
@@ -11765,8 +11773,9 @@
 "web": "https://msohare.cz"
 },
 "materska-skola-ohnic-568195": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://ms.ohnic.cz"
 },
@@ -11779,8 +11788,9 @@
 "web": "https://ms-ohrazenice.cz"
 },
 "materska-skola-okrisky-611490": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://msokrisky.cz"
 },
@@ -13586,8 +13596,9 @@
 "web": "https://www.msstribrnice.cz"
 },
 "materska-skola-stritez-608421": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://ms.stritez-ji.cz"
 },
@@ -13980,8 +13991,9 @@
 "web": "https://skolka.tsviny.cz"
 },
 "materska-skola-trmice-569124": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.mstrmice.cz"
 },
@@ -14330,8 +14342,9 @@
 "web": "https://msvelesin.cz"
 },
 "materska-skola-vechnov-615495": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.msvechnov.cz"
 },
@@ -14520,8 +14533,9 @@
 "web": "https://materska-skola-vintirov.cz"
 },
 "materska-skola-viska-580284": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://msviska.cz"
 },
@@ -14661,8 +14675,9 @@
 "web": "https://www.skolkabenatky.cz"
 },
 "materska-skola-vsetin-132121": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.mskopecek.cz"
 },
@@ -15363,6 +15378,7 @@
 "ms-klubicko-tlumacov-500636": {
 "duvod": "chyba: HTTP Error 500: Internal Server Error",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.skolka-klubicko.cz"
 },
@@ -16016,8 +16032,9 @@
 "web": "https://zsbrezova.eu"
 },
 "zakladni-skola-a-materska-skola-brezuvky-605376": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://zsmsbrezuvky.cz"
 },
@@ -16297,8 +16314,9 @@
 "web": "https://zsdobratice.cz"
 },
 "zakladni-skola-a-materska-skola-dobronin-019855": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.skola-dobronin.cz"
 },
@@ -16358,8 +16376,9 @@
 "web": "https://msdolnilukavice.webnode.cz"
 },
 "zakladni-skola-a-materska-skola-dolni-mesto-580071": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zsdolnimesto.cz"
 },
@@ -16567,8 +16586,9 @@
 "web": "https://skolahradek.cz"
 },
 "zakladni-skola-a-materska-skola-hrivinuv-ujezd-606208": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zsamshrivinuvujezd.cz"
 },
@@ -16965,8 +16985,9 @@
 "web": "https://zsmslibesice.com"
 },
 "zakladni-skola-a-materska-skola-libouchec-568802": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zsmslibouchec.eu"
 },
@@ -17104,8 +17125,9 @@
 "web": "https://skolahrastice.cz"
 },
 "zakladni-skola-a-materska-skola-malec-580276": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zsamsmalec.cz"
 },
@@ -17621,8 +17643,9 @@
 "web": "https://zsamsprstice.cz"
 },
 "zakladni-skola-a-materska-skola-puklice-608383": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zspuklice.cz"
 },
@@ -17974,8 +17997,9 @@
 "web": "https://zsstod.cz"
 },
 "zakladni-skola-a-materska-skola-stoky-012292": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zsmsstoky.cz"
 },
@@ -18088,8 +18112,9 @@
 "web": "https://zsteplicenm.cz"
 },
 "zakladni-skola-a-materska-skola-tisa-568926": {
-"duvod": "chyba: <urlopen error [Errno 101] Network is unreachable>",
+"duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zsmstisa.cz"
 },
@@ -18232,6 +18257,7 @@
 "zakladni-skola-a-materska-skola-vetrny-jenikov-608502": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://www.zsvj.cz"
 },
@@ -18357,6 +18383,7 @@
 "zakladni-skola-a-materska-skola-zadverice-rakova-606232": {
 "duvod": "chyba: <urlopen error timed out>",
 "ok": false,
+"opak": 1,
 "shoda": "",
 "web": "http://skolka.zadverice-rakova.cz"
 },
