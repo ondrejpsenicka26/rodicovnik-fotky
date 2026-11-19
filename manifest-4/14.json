@@ -668,6 +668,36 @@
 "w": 720
 }
 ],
+"materska-skola-budyne-nad-ohri-565188": [
+{
+"alt": "",
+"barva": "#787a72",
+"dh": "fceb7a3f95dbdbd9",
+"h": 964,
+"jistota": 0.943,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAQABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAmEAABAwMCBQUAAAAAAAAAAAABAAIDBBEhEjEFFBVBYSIyYqGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAZEQACAwEAAAAAAAAAAAAAAAAAUQECIhL/2gAMAwEAAhEDEQA/AG+ptqGao4CD5Nx+Kp1YO8WDgevf6WfUPvW3F/cBjbsoOmkGohxw0m/m6ItdllDL+IjUbPZH8XA3QlTJWPkkPOgDVgE7BCerMMo//9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-budyne-svc.cz/",
+"typ": "budova",
+"url": "https://0ab2ee460e.clvaw-cdnwnd.com/87b48a973df79de55f45146ff4a4f7f5/200000242-0dd470dd49/profilovka.jpeg?ph=0ab2ee460e",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7b756d",
+"dh": "8ccbdb448d1f1f0b",
+"h": 525,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-budyne-svc.cz/ms-a-svc-dracek/",
+"typ": "interier",
+"url": "https://0ab2ee460e.clvaw-cdnwnd.com/87b48a973df79de55f45146ff4a4f7f5/200000210-0776507769/700/Obr%C3%A1zek%20WhatsApp%2C%202025-02-28%20v%2019.10.40_05bc0639.jpeg?ph=0ab2ee460e",
+"w": 700
+}
+],
 "materska-skola-chric-544881": [
 {
 "alt": "87619184-03E4-4462-8D55-D1C4A09E6771",

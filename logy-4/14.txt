@@ -1,2 +1,7 @@
-[13:56:24] Část 15/20: webů 174, hotovo 230, zbývá 0
-[13:56:24] Konec: školek s fotkami 80; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:16] Část 15/20: webů 177, hotovo 230, zbývá 3
+[12:33:04] https://www.skolyvtandemu-d.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 182 obrázků, 5 fotek ke kontrole
+[12:33:05] https://msjatecka.mestopacov.cz: 30 stránek (galerie mimo web: 0 [], alb: 0), 147 obrázků, 0 fotek ke kontrole
+[12:33:34] https://www.ms-budyne-svc.cz: 28 stránek (galerie mimo web: 2 ['skolkabudyne1.rajce.idnes.cz', 'svcbudyne.rajce.idnes.cz'], alb: 0), 47 obrázků, 24 fotek ke kontrole
+[12:33:48] tříděno 0/29
+[12:33:49] Dávka 1: hotovo 233/177, se fotkami 81; {'ok': 2, 'lide': 0, 'jine': 26, 'sablona': 0}
+[12:33:49] Konec: školek s fotkami 81; {'ok': 2, 'lide': 0, 'jine': 26, 'sablona': 0}
