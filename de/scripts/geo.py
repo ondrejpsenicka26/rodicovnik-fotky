@@ -140,6 +140,30 @@ def main():
     print("mapa", round(vyska), "px vysoka,", sum(len(x["d"]) for x in mapa["kreise"]) // 1000, "kB kreise",
           flush=True)
 
+    # --- GeoJSON hranic Kreise po zemích (živá mapa země na webu) ---
+    os.makedirs(os.path.join(GEO, "kreise-geo"), exist_ok=True)
+    kg = krs.copy()
+    kg["geometry"] = kg.simplify(150, preserve_topology=True)
+    kg = kg.to_crs(4326)
+    for land, df in kg.groupby(kg["AGS"].str[:2]):
+        feats = []
+        for _, r in df.iterrows():
+            g = r.geometry
+            gj = json.loads(gpd.GeoSeries([g], crs=4326).to_json())["features"][0]["geometry"]
+
+            def zaokrouhli(c):
+                return [round(c[0], 4), round(c[1], 4)] if isinstance(c[0], float) else [zaokrouhli(x) for x in c]
+
+            gj["coordinates"] = zaokrouhli(gj["coordinates"])
+            feats.append({"type": "Feature", "properties": {"ags": r["AGS"], "name": r["GEN"], "bez": r["BEZ"]},
+                          "geometry": gj})
+        x0, y0, x1, y1 = df.total_bounds
+        json.dump({"bbox": [round(x0, 4), round(y0, 4), round(x1, 4), round(y1, 4)],
+                   "oblasti": {"type": "FeatureCollection", "features": feats}},
+                  open(os.path.join(GEO, "kreise-geo", f"{land}.json"), "w"), ensure_ascii=False,
+                  separators=(",", ":"))
+    print("kreise-geo hotovo", flush=True)
+
     # --- čtvrti velkých měst (OSM admin_level 9 a 10) ---
     kity_soubor = os.path.join(OUT, "kitas-osm.json")
     if not os.path.exists(kity_soubor):
@@ -186,6 +210,15 @@ out geom;"""
                 jm = next((n for n, g in oblasti[lvl] if g.contains(p)), None)
                 hit.append(jm)
             prirazeni[k["id"]] = hit
+        # hranice obvodů (pro živou mapu Berlína a Hamburku)
+        feats = []
+        for jm, g in oblasti["9"]:
+            gs = gpd.GeoSeries([g], crs=4326).to_crs(25832).simplify(80).to_crs(4326)
+            gj = json.loads(gs.to_json())["features"][0]["geometry"]
+            feats.append({"type": "Feature", "properties": {"name": jm}, "geometry": gj})
+        if feats:
+            json.dump({"type": "FeatureCollection", "features": feats},
+                      open(os.path.join(GEO, f"bezirke-{ags}.json"), "w"), ensure_ascii=False, separators=(",", ":"))
         vysledek[ags] = {"name": nazev, "bezirke": sorted({n for n, _ in oblasti["9"]}),
                          "stadtteile": sorted({n for n, _ in oblasti["10"]}), "kity": prirazeni}
         print(nazev, len(moje), "Kit,", len(oblasti["9"]), "obvodů,", len(oblasti["10"]), "čtvrtí", flush=True)
