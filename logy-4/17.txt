@@ -1,2 +1,9 @@
-[13:56:36] Část 18/20: webů 159, hotovo 210, zbývá 0
-[13:56:36] Konec: školek s fotkami 68; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:20] Část 18/20: webů 164, hotovo 210, zbývá 5
+[12:32:33] https://www.mszsslunecnice.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 6 fotek ke kontrole
+[12:32:42] https://www.lmssamorost.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 1 fotek ke kontrole
+[12:32:55] https://www.zsms-bohuslaviceuzlina.cz: 10 stránek (galerie mimo web: 2 ['eu.zonerama.com', 'zsbohuslaviceuzlina.rajce.idnes.cz'], alb: 0), 10 obrázků, 8 fotek ke kontrole
+[12:33:19] https://msmotylek.me.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 60 obrázků, 32 fotek ke kontrole
+[12:33:41] https://www.ms-skastice.cz: 22 stránek (galerie mimo web: 0 [], alb: 0), 102 obrázků, 3 fotek ke kontrole
+[12:34:06] tříděno 0/50
+[12:34:12] Dávka 1: hotovo 215/164, se fotkami 70; {'ok': 7, 'lide': 3, 'jine': 13, 'sablona': 0}
+[12:34:12] Konec: školek s fotkami 70; {'ok': 7, 'lide': 3, 'jine': 13, 'sablona': 0}

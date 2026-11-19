@@ -1238,6 +1238,62 @@
 "w": 1200
 }
 ],
+"materska-skola-motylek-kostany-strelna-568675": [
+{
+"alt": "",
+"barva": "#6b6f42",
+"dh": "0133b969f9ff77ec",
+"h": 900,
+"jistota": 0.994,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABBf/EACIQAAEDAwQDAQAAAAAAAAAAAAEAAgMEBRETISJBBlGCwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAwQSMVH/2gAMAwEAAhEDEQA/AA0d0ZSxP1AJQDxOfxOb5PJqCJsDfYz0FtTG2U5ka0/IQpKGndhxYAT2NllWw6qwTjHuJzrxcaqpuMkvJucZAOykt1nie4nmPpSpZ4i5Lw//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msmotylek.me.cz/novejsi/fotogalerie-2/budova-skoly/",
+"typ": "budova",
+"url": "https://msmotylek.me.cz/novejsi/wp-content/uploads/2025/04/IMG_20240510_142526.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8e9386",
+"dh": "38783ce34b7b6c86",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msmotylek.me.cz/novejsi/",
+"typ": "interier",
+"url": "https://msmotylek.me.cz/novejsi/wp-content/uploads/2026/10/20260831_140846.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#6f7462",
+"dh": "fec153f32413860a",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msmotylek.me.cz/novejsi/fotogalerie-2/budova-skoly/",
+"typ": "zahrada",
+"url": "https://msmotylek.me.cz/novejsi/wp-content/uploads/2025/05/IMG-20250506-WA0063.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#757168",
+"dh": "242c39357cf4dc3f",
+"h": 900,
+"jistota": 0.994,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://msmotylek.me.cz/novejsi/fotogalerie-2/budova-skoly/",
+"typ": "budova",
+"url": "https://msmotylek.me.cz/novejsi/wp-content/uploads/2025/04/IMG_20240510_143034.jpg",
+"w": 1200
+}
+],
 "materska-skola-nebahovy-534649": [
 {
 "alt": "",
@@ -1929,6 +1985,49 @@
 "stranka": "https://www.zsblizkovice.cz/ms-80/zabezpeceni-budovy-materske-skoly/",
 "typ": "les",
 "url": "https://www.zsblizkovice.cz/data/headerfooter/header_images/altan-zahradni-ucebna.jpg",
+"w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-bohuslavice-u-zlina-606305": [
+{
+"alt": "",
+"barva": "#87a2ad",
+"dh": "01010da7b1b33304",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAEDBAX/xAAlEAACAQMDAwUBAAAAAAAAAAABAgQAAxEFBiEiMWETFHGhwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAbEQACAgMBAAAAAAAAAAAAAAAAARJRAgMRMf/aAAwDAQACEQMRAD8A2G1k23KvJ6lGSAoP5TGuqRlbzP8AC1Ss7Uks91pMjBfsUfPPninH2fcssWaWW4AwvGT5JzSPZ3xArB2RztfmiQfb3G9PAx0j+UUXdpzXuMxvR2ye7Ag/QorM1RYuz//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.zsms-bohuslaviceuzlina.cz/materska-skolka/",
+"typ": "budova",
+"url": "https://e1fe8922ae.clvaw-cdnwnd.com/22af0972fc8c99ad97cc4741d2b99245/200039205-b3dfcb3dfe/Untitled%20design.png?ph=e1fe8922ae",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8c7b6c",
+"dh": "16160b73b5930b0f",
+"h": 667,
+"jistota": 0.99,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.zsms-bohuslaviceuzlina.cz/zakladni-informace/",
+"typ": "interier",
+"url": "https://e1fe8922ae.clvaw-cdnwnd.com/22af0972fc8c99ad97cc4741d2b99245/200004229-15b9d16b1e/IMG_5675.JPG?ph=e1fe8922ae",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#728181",
+"dh": "03039bb3b3f67c76",
+"h": 800,
+"jistota": 0.994,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.zsms-bohuslaviceuzlina.cz/zakladni-informace/",
+"typ": "budova",
+"url": "https://e1fe8922ae.clvaw-cdnwnd.com/22af0972fc8c99ad97cc4741d2b99245/200006591-91be291be6/IMG_7668.JPG?ph=e1fe8922ae",
 "w": 1200
 }
 ],
