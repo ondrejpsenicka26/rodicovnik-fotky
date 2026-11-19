@@ -1009,6 +1009,23 @@
 "w": 1200
 }
 ],
+"internatni-materska-skola-usti-nad-labem-569582": [
+{
+"alt": "og",
+"barva": "#707369",
+"dh": "676c6c266e68f3f3",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCAwT/xAAkEAACAgECBgMBAAAAAAAAAAABAgMEABExBRITISJBFDJh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EABsRAAIDAAMAAAAAAAAAAAAAAAABAgMxBBEh/9oADAMBAAIRAxEAPwCNvikt7hgjhEsMw0YMjDyG2n5/MIfmQ1dILLojKGAkHMQe2xO2p1zJfkmrU3VFCKrIgYHuAMrozTWWk6k7kKNAPRHf1mZ2teso1rBkitRvErOyK5HkObY4YsWOJJXk6XL9R6wxo8ltYG6F3p//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.internatnims.cz/fotogalerie/nase-prostory",
+"typ": "budova",
+"url": "http://www.internatnims.cz/image.php?oid=11857666",
+"w": 1200
+}
+],
 "materska-skola-a-skolni-jidelna-bubovice-cp-26-000042": [
 {
 "alt": "",
@@ -1853,6 +1870,23 @@
 "w": 800
 }
 ],
+"materska-skola-praminek-634228": [
+{
+"alt": "",
+"barva": "#9b8d78",
+"dh": "e76d6dce8f4e0f3f",
+"h": 618,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EACIQAAEDAwMFAAAAAAAAAAAAAAEAAhEDEiEEBTEUMlFxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACAyFBYf/aAAwDAQACEQMRAD8ATV3Rmoimxo5tvOJW90oNZpqZvY2S4GDgjEcJFEDp5gT5Q6oBmQCoX1WvMQFWcWtY5wLgQc8eypOcxs9o+KRNfImz0z//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://praminek-skolka.cz/featured-content/moderni-zazemi/",
+"typ": "budova",
+"url": "https://praminek-skolka.cz/wp-content/uploads/2023/07/praminek.jpeg",
+"w": 1200
+}
+],
 "materska-skola-radvanice-513021": [
 {
 "alt": "",
@@ -2164,6 +2198,36 @@
 "typ": "budova",
 "url": "https://www.msostra.cz/data/template_custom_fields/47_skolka_foto.jpg",
 "w": 700
+}
+],
+"ms-roznov-pod-radhostem-634147": [
+{
+"alt": "",
+"barva": "#927565",
+"dh": "d9c4cccccd4364e7",
+"h": 923,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAwf/xAAiEAACAgIBAwUAAAAAAAAAAAABAgMRAAQSBRMhIkFhcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABEQIhEv/aAAwDAQACEQMRAD8Ad6nv7D73plaMI3FRGxA+8xZnEqTJIe8rclcmzdfPtk9PLtPQk4sQ12DV40vUdgxKSgYgeRgtatH9ZkLzW3Un10kJVCw8qWHg4ZzuTegaRmm7quTZCqKH7hjp8Jmun//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msnazahradach.cz/",
+"typ": "budova",
+"url": "https://www.msnazahradach.cz/image.php?oid=8706540&nid=19450&width=2000",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9c8f6d",
+"dh": "699976cb9f9bbabe",
+"h": 625,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msnazahradach.cz/",
+"typ": "budova",
+"url": "https://www.msnazahradach.cz/image.php?oid=8654154&nid=19450&width=2000",
+"w": 1000
 }
 ],
 "ss-zs-a-ms-pro-sluchove-postizene-022602": [

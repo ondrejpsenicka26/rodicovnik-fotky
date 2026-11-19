@@ -1,2 +1,12 @@
-[13:56:25] Část 20/20: webů 173, hotovo 225, zbývá 0
-[13:56:25] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:21] Část 20/20: webů 181, hotovo 225, zbývá 8
+[12:32:25] https://www.zs-heraltice.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[12:32:29] https://www.barevnaskolka.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 5 obrázků, 0 fotek ke kontrole
+[12:32:56] https://praminek-skolka.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 26 obrázků, 12 fotek ke kontrole
+[12:33:23] https://www.mssadylovo.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 66 obrázků, 18 fotek ke kontrole
+[12:33:26] https://www.msnazahradach.cz/ms-tylovice: 14 stránek (galerie mimo web: 0 [], alb: 0), 254 obrázků, 3 fotek ke kontrole
+[12:33:48] https://www.internatnims.cz: 20 stránek (galerie mimo web: 0 [], alb: 0), 180 obrázků, 10 fotek ke kontrole
+[12:34:07] https://msvpodhaji.estranky.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 50 obrázků, 10 fotek ke kontrole
+[12:34:35] https://www.zsms.desov.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 1441 obrázků, 1 fotek ke kontrole
+[12:34:46] tříděno 0/54
+[12:34:48] Dávka 1: hotovo 233/181, se fotkami 82; {'ok': 4, 'lide': 3, 'jine': 47, 'sablona': 0}
+[12:34:48] Konec: školek s fotkami 82; {'ok': 4, 'lide': 3, 'jine': 47, 'sablona': 0}
