@@ -1238,6 +1238,49 @@
 "w": 900
 }
 ],
+"materska-skola-dubovice-036339": [
+{
+"alt": "",
+"barva": "#6c6c5a",
+"dh": "43f187870f0f0f1d",
+"h": 801,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUG/8QAJRAAAQQBAwIHAAAAAAAAAAAAAQIDBBEAEiFBBSITFEJxgZHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECERIxUf/aAAwDAQACEQMRAD8Agz1EyHghokI4OwNfOPSHhCaU49LUAPTSVE/WcjDkLbV2k78fvfL58551Phq01d3Qu8N1eeklOODE/rrhkny2lKAAO5G5POGYym9SiSdzhibV6Zqj/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://montessori-dubovice.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://montessori-dubovice.cz/wp-content/uploads/2024/12/DSC_0073-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9a7e68",
+"dh": "1d9515159b91f1f1",
+"h": 801,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://montessori-dubovice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://montessori-dubovice.cz/wp-content/uploads/2024/12/DSC_0020-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "montessori Dubovice třída",
+"barva": "#7f6d60",
+"dh": "05079b9333734203",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://montessori-dubovice.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://montessori-dubovice.cz/wp-content/uploads/2024/12/DSC_0065.jpg",
+"w": 1200
+}
+],
 "materska-skola-frydlant-nad-ostravici-622769": [
 {
 "alt": "",
@@ -1404,6 +1447,23 @@
 "typ": "zahrada",
 "url": "https://www.msjitrni.cz/wp-content/gallery/budova-se-zahradou/3.jpg",
 "w": 800
+}
+],
+"materska-skola-kadan-562405": [
+{
+"alt": "",
+"barva": "#876644",
+"dh": "53c75ee42e131329",
+"h": 800,
+"jistota": 0.929,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACEQAAIBBAICAwAAAAAAAAAAAAECAwAEERIhMSJhM0GB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAxETIUH/2gAMAwEAAhEDEQA/AMaTRs8bkMY1+QINj+D7NXlu7eGHZEmDE4y0XQxS2MSxRBhznnmqRowm2MjMsm3ielweMUOMinpCKlJ6MhurWRVZ5pEOOgcZ90Ut5ZgznWV19DFFVyybLFXh/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://6mskadan.webnode.cz/o-nas/",
+"typ": "interier",
+"url": "https://01c661dace.clvaw-cdnwnd.com/bb62b43787c2a0828870b96b1c8e8041/200000219-0226f02273/Ko%C5%A5%C3%A1tka.jpeg?ph=01c661dace",
+"w": 1200
 }
 ],
 "materska-skola-klicek-564581": [
@@ -2863,6 +2923,23 @@
 "typ": "les",
 "url": "https://skolazelesice.cz/wp-content/uploads/2026/10/Hledame-ucitelku-do-materske-skoly.png",
 "w": 800
+}
+],
+"zakladni-skola-a-materska-skola-zhor-014171": [
+{
+"alt": "",
+"barva": "#6b6c6c",
+"dh": "2d4997716553df4f",
+"h": 744,
+"jistota": 0.992,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCBf/EACMQAAECBgICAwAAAAAAAAAAAAECEQADBAUSMSFBExUiI0L/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAARASH/2gAMAwEAAhEDEQA/AJEVvxClUNAlBZOXjJ3BNwStLmhoASSABKPLbi026Vhj+XBbnY1GPWy0sEgMHYc977hcOuXUXjxTSk2238sR9UIpqLPLmzclL6AYjUIlH//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skola.zhor.cz/dokumenty-jidelna",
+"typ": "budova",
+"url": "https://skola.zhor.cz/templates/leclavera.cz/assets/images/footer.jpg",
+"w": 994
 }
 ]
 }

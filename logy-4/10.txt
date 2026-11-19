@@ -1,2 +1,10 @@
-[13:56:26] Část 11/20: webů 182, hotovo 237, zbývá 0
-[13:56:26] Konec: školek s fotkami 74; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:19] Část 11/20: webů 188, hotovo 237, zbývá 6
+[12:32:36] https://skola.zhor.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 8 obrázků, 5 fotek ke kontrole
+[12:33:12] https://6mskadan.webnode.cz: 11 stránek (galerie mimo web: 0 [], alb: 0), 37 obrázků, 24 fotek ke kontrole
+[12:33:19] https://www.skolaruzena.cz: 19 stránek (galerie mimo web: 0 [], alb: 0), 243 obrázků, 7 fotek ke kontrole
+[12:33:26] https://www.obec-jamy.cz/o-obci/materska-skolka: 33 stránek (galerie mimo web: 1 ['www.zonerama.com'], alb: 0), 262 obrázků, 14 fotek ke kontrole
+[12:34:06] https://montessori-dubovice.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 15 obrázků, 13 fotek ke kontrole
+[12:34:41] https://mstravcice.cz: 33 stránek (galerie mimo web: 0 [], alb: 0), 1589 obrázků, 39 fotek ke kontrole
+[12:34:58] tříděno 0/102
+[12:35:08] Dávka 1: hotovo 243/188, se fotkami 77; {'ok': 5, 'lide': 7, 'jine': 81, 'sablona': 0}
+[12:35:08] Konec: školek s fotkami 77; {'ok': 5, 'lide': 7, 'jine': 81, 'sablona': 0}
