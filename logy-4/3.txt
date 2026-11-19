@@ -1,2 +1,8 @@
-[13:56:23] Část 4/20: webů 180, hotovo 226, zbývá 0
-[13:56:23] Konec: školek s fotkami 68; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:28] Část 4/20: webů 184, hotovo 226, zbývá 4
+[12:32:31] https://mshostomice.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[12:33:20] https://www.mskostany.cz: 28 stránek (galerie mimo web: 0 [], alb: 0), 561 obrázků, 0 fotek ke kontrole
+[12:33:38] https://www.skolyvtandemu-vp.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 218 obrázků, 1 fotek ke kontrole
+[12:33:41] https://www.zslhotky.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 23 obrázků, 8 fotek ke kontrole
+[12:33:54] tříděno 0/9
+[12:33:54] Dávka 1: hotovo 230/184, se fotkami 68; {'ok': 0, 'lide': 0, 'jine': 9, 'sablona': 0}
+[12:33:54] Konec: školek s fotkami 68; {'ok': 0, 'lide': 0, 'jine': 9, 'sablona': 0}
