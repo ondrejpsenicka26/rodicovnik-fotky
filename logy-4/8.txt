@@ -1,2 +1,11 @@
-[13:56:38] Část 9/20: webů 167, hotovo 229, zbývá 0
-[13:56:38] Konec: školek s fotkami 81; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:22] Část 9/20: webů 174, hotovo 229, zbývá 7
+[12:32:30] https://www.skolka-chomyz.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 6 fotek ke kontrole
+[12:33:00] https://www.msuoburky.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 47 obrázků, 17 fotek ke kontrole
+[12:33:13] https://www.skolka-palenickova.cz: 34 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 13 fotek ke kontrole
+[12:33:24] https://www.ms-svatoslav.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 116 obrázků, 11 fotek ke kontrole
+[12:33:25] https://www.zsdlves.cz: 24 stránek (galerie mimo web: 0 [], alb: 0), 83 obrázků, 32 fotek ke kontrole
+[12:33:47] https://vatinms.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 17 obrázků, 2 fotek ke kontrole
+[12:33:59] https://www.msctyrlistek.info: nedostupné nebo zakázané
+[12:34:18] tříděno 0/81
+[12:34:27] Dávka 1: hotovo 236/174, se fotkami 84; {'ok': 9, 'lide': 8, 'jine': 58, 'sablona': 0}
+[12:34:27] Konec: školek s fotkami 84; {'ok': 9, 'lide': 8, 'jine': 58, 'sablona': 0}

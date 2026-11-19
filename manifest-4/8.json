@@ -1230,6 +1230,49 @@
 "w": 1200
 }
 ],
+"materska-skola-kromeriz-609851": [
+{
+"alt": "zahrada1",
+"barva": "#637261",
+"dh": "90f0616f17d0b1e2",
+"h": 900,
+"jistota": 0.953,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABBESBSIxQbEUM2H/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAHREAAgIBBQAAAAAAAAAAAAAAAAECAxETFCFBUf/aAAwDAQACEQMRAD8Avuo4kh3hVnc4wgIb1WOF3tgzXCu2w3UAdvylI5m6B+58Y8VOLmronrfcN3DDIoq21Y5C4xfQ3k5qyibQq7Y8iilq3yzdXwbZvGSCPVFLcz8Bpo//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolka-palenickova.cz/fotoalbum/nase-skolka/zahrada1.-.html",
+"typ": "budova",
+"url": "https://www.skolka-palenickova.cz/img/original/7679/zahrada1.jpg",
+"w": 1200
+},
+{
+"alt": "zahrada4",
+"barva": "#555a41",
+"dh": "72b8bc9db1e3fae4",
+"h": 900,
+"jistota": 0.985,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolka-palenickova.cz/fotoalbum/nase-skolka/zahrada4.-.html",
+"typ": "zahrada",
+"url": "https://www.skolka-palenickova.cz/img/original/7682/zahrada4.jpg",
+"w": 1200
+},
+{
+"alt": "zahrada5",
+"barva": "#5f686f",
+"dh": "e1d3c97c86013e3c",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.skolka-palenickova.cz/fotoalbum/nase-skolka/zahrada5.-.html",
+"typ": "zahrada",
+"url": "https://www.skolka-palenickova.cz/img/original/7683/zahrada5.jpg",
+"w": 1200
+}
+],
 "materska-skola-lanzhot-604663": [
 {
 "alt": "",
@@ -1927,6 +1970,36 @@
 "w": 1080
 }
 ],
+"materska-skola-svatoslav-611104": [
+{
+"alt": "og",
+"barva": "#7d7b75",
+"dh": "f90229934a2213f3",
+"h": 900,
+"jistota": 0.972,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EACUQAAEEAgAEBwAAAAAAAAAAAAEAAgMRBCEFEhMxFSIjQVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERIx/9oADAMBAAIRAxEAPwDGWZDG404VqqTEeG+XbWAgHlJLvdRbfitMUmU7yndC6/aTnC+IRiUnIHVA0yx2Hz9qKLfBY4YGAkFoJGrAQp/i7oPT5C6idtNXu+1ITEhaP//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.ms-svatoslav.cz/fotogalerie/trida-rybicky",
+"typ": "interier",
+"url": "http://www.ms-svatoslav.cz/image.php?oid=12976052",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#968e7b",
+"dh": "fff83b6c2c6c6c6c",
+"h": 900,
+"jistota": 0.966,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.ms-svatoslav.cz/fotogalerie/trida-motylci",
+"typ": "interier",
+"url": "http://www.ms-svatoslav.cz/image.php?oid=12976049",
+"w": 1200
+}
+],
 "materska-skola-svojetin-518155": [
 {
 "alt": "",
@@ -1941,6 +2014,62 @@
 "stranka": "https://mssvojetin-cz.webnode.page/",
 "typ": "budova",
 "url": "https://d7ad86af3a.cbaul-cdnwnd.com/99fbd8a172e0acb5476e60151c2ef24f/200000024-3c77c3c77f/Skolka-1.png?ph=d7ad86af3a",
+"w": 1200
+}
+],
+"materska-skola-trebic-612143": [
+{
+"alt": "studiobarak-35.jpg",
+"barva": "#839783",
+"dh": "6964625b9bc3070c",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQRBRIhMRNBkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGxEBAAICAwAAAAAAAAAAAAAAAQADAhETMVH/2gAMAwEAAhEDEQA/AGZNUnliVTGdx73Ho1aG/VJfFLGwkAHKc9/dJ22nRMqvIS2fQ4roiNbaNvGAAeDgYPzQ5WDsymCse5EWuAhhMNjBiMEk/lFZR6XbTIHCbc+sZooLLPJcZP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msuoburky.cz/fotogalerie-u-oburky/",
+"typ": "budova",
+"url": "https://www.msuoburky.cz/files/img/1725269395_studiobarak-35.jpg",
+"w": 1200
+},
+{
+"alt": "studiobarak-31.jpg",
+"barva": "#af9b84",
+"dh": "d2d2eaa655446363",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msuoburky.cz/fotogalerie-u-oburky/",
+"typ": "interier",
+"url": "https://www.msuoburky.cz/files/img/1725269393_studiobarak-31.jpg",
+"w": 1200
+},
+{
+"alt": "studiobarak-37.jpg",
+"barva": "#848668",
+"dh": "e9b3b3064b670939",
+"h": 800,
+"jistota": 0.832,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msuoburky.cz/fotogalerie-u-oburky/",
+"typ": "budova",
+"url": "https://www.msuoburky.cz/files/img/1725269399_studiobarak-37.jpg",
+"w": 1200
+},
+{
+"alt": "studiobarak-2-2.jpg",
+"barva": "#b7a48d",
+"dh": "eba5ac7cf9464e9e",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://www.msuoburky.cz/fotogalerie-u-oburky/",
+"typ": "interier",
+"url": "https://www.msuoburky.cz/files/img/1725269372_studiobarak-2-2.jpg",
 "w": 1200
 }
 ],
