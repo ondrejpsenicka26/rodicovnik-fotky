@@ -816,6 +816,36 @@
 "w": 900
 }
 ],
+"materska-skola-kadan-562448": [
+{
+"alt": "",
+"barva": "#7d808b",
+"dh": "736bcf0fa317fde3",
+"h": 554,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAhEAACAgEDBQEAAAAAAAAAAAABAgADEQQhMQUTIjNxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECElET/9oADAMBAAIRAxEAPwC4a+u4dt6WqRT4gk4kLNRpmQlMISu3JOYif37G+m+yPSehWOGRaXW5wATvzjnaEbv9rfYSbsVFH//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://3mskadan.webnode.cz/",
+"typ": "budova",
+"url": "https://62e3c41d58.cbaul-cdnwnd.com/57dd360f7d54abc34e7cd51142916a5e/200001383-1b7211b723/WhatsApp%20Image%202026-04-02%20at%2010.03.06.jpeg?ph=62e3c41d58",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#828080",
+"dh": "63c1acc20f256584",
+"h": 900,
+"jistota": 0.997,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://3mskadan.webnode.cz/historie-budovy-a-skoly/",
+"typ": "budova",
+"url": "https://62e3c41d58.cbaul-cdnwnd.com/57dd360f7d54abc34e7cd51142916a5e/200000896-1956219565/P2191666.jpeg?ph=62e3c41d58",
+"w": 1200
+}
+],
 "materska-skola-kolonka-vlasim-510545": [
 {
 "alt": "",
@@ -1205,6 +1235,49 @@
 "typ": "zahrada",
 "url": "http://www.mstreben.cz/image.php?oid=9651235",
 "w": 900
+}
+],
+"materska-skola-varnsdorf-561701": [
+{
+"alt": "",
+"barva": "#918661",
+"dh": "05294909256703c5",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACIQAAIBAwQCAwAAAAAAAAAAAAEDAgAREgQFIUEUMROBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhETQVH/2gAMAwEAAhEDEQA/ADbN28ba4LXgGAG859Drjum69wkJJxbFi5SA4iOb/tSMtOIRC8iQTfnqtadQzTqwhjje4iRwDWXJxjTjtDvcHs81nyDGxtEWj6+6KlXsYxl5ubI+uZmirdhP/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://msvarnsdorf.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://msvarnsdorf.cz/wp-content/uploads/2025/08/foto-MS-PO-REKONSTRUKCI-ve-velke-velikosti.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#756760",
+"dh": "0b1b33333a0e2170",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://msvarnsdorf.cz/tridy/",
+"typ": "interier",
+"url": "https://msvarnsdorf.cz/wp-content/uploads/2026/03/IMG_1200-scaled.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8a725d",
+"dh": "a5c1c9cde4a71b61",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://msvarnsdorf.cz/tridy/",
+"typ": "interier",
+"url": "https://msvarnsdorf.cz/wp-content/uploads/2026/03/IMG_1202-scaled.jpeg",
+"w": 1200
 }
 ],
 "materska-skola-vedomice-565773": [

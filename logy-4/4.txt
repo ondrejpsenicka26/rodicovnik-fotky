@@ -1,2 +1,13 @@
-[13:56:28] Část 5/20: webů 157, hotovo 197, zbývá 0
-[13:56:28] Konec: školek s fotkami 56; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:21] Část 5/20: webů 166, hotovo 197, zbývá 9
+[12:32:24] https://zs-velemin.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[12:32:29] https://www.tyrsovams.cz: nedostupné nebo zakázané
+[12:32:44] https://msvkovare.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 1 fotek ke kontrole
+[12:32:55] https://3mskadan.webnode.cz: 15 stránek (galerie mimo web: 6 ['klasekkadan.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 0), 24 obrázků, 15 fotek ke kontrole
+[12:32:56] https://mskomenskehorbk.webnode.cz: 18 stránek (galerie mimo web: 0 [], alb: 0), 20 obrázků, 2 fotek ke kontrole
+[12:33:07] https://skolkastepan.cz: 3 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 29 fotek ke kontrole
+[12:33:10] https://www.msbzany.cz: 12 stránek (galerie mimo web: 0 [], alb: 0), 25 obrázků, 0 fotek ke kontrole
+[12:34:09] https://msskalnicka.estranky.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 4 obrázků, 0 fotek ke kontrole
+[12:35:03] https://msvarnsdorf.cz: 5 stránek (galerie mimo web: 1 ['eu.zonerama.com'], alb: 0), 26 obrázků, 13 fotek ke kontrole
+[12:35:21] tříděno 0/60
+[12:35:24] Dávka 1: hotovo 206/166, se fotkami 58; {'ok': 5, 'lide': 1, 'jine': 43, 'sablona': 0}
+[12:35:24] Konec: školek s fotkami 58; {'ok': 5, 'lide': 1, 'jine': 43, 'sablona': 0}
