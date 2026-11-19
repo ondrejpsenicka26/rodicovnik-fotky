@@ -1,0 +1,31 @@
+name: DE – Kitas z OpenStreetMap
+# Stáhne všechna zařízení amenity=kindergarten/childcare v Německu (Overpass, po spolkových
+# zemích) a přiřadí je obcím podle VG250-EW (BKG). Výstup de/data/*.json.
+on:
+  workflow_dispatch:
+  push:
+    paths: ["de/scripts/osm_kitas.py"]
+permissions:
+  contents: write
+concurrency:
+  group: de-osm
+  cancel-in-progress: false
+jobs:
+  osm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests geopandas pyogrio shapely pandas
+      - name: Stáhnout a přiřadit
+        run: python de/scripts/osm_kitas.py
+      - name: Uložit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add de/data
+          git commit -m "DE: Kitas z OpenStreetMap $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 10; done
