@@ -1,2 +1,11 @@
-[13:56:56] Část 8/20: webů 187, hotovo 238, zbývá 0
-[13:56:56] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:21] Část 8/20: webů 194, hotovo 238, zbývá 7
+[12:32:28] https://www.ms-beranek.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
+[12:32:37] https://ms5kvetna1527-roznov.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 2 obrázků, 0 fotek ke kontrole
+[12:32:39] https://www.slunickoroudnicenl.cz: 13 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[12:32:40] https://www.mshlubanska.cz: 6 stránek (galerie mimo web: 1 ['www.rajce.net'], alb: 0), 9 obrázků, 1 fotek ke kontrole
+[12:33:07] https://www.vazanyms.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 33 obrázků, 25 fotek ke kontrole
+[12:33:58] https://mskastanek.eu: 21 stránek (galerie mimo web: 0 [], alb: 0), 45 obrázků, 19 fotek ke kontrole
+[12:34:06] https://www.skolahamryns.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 275 obrázků, 17 fotek ke kontrole
+[12:34:26] tříděno 0/62
+[12:34:32] Dávka 1: hotovo 245/194, se fotkami 68; {'ok': 10, 'lide': 1, 'jine': 43, 'sablona': 0}
+[12:34:32] Konec: školek s fotkami 68; {'ok': 10, 'lide': 1, 'jine': 43, 'sablona': 0}

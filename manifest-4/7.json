@@ -1064,6 +1064,62 @@
 "w": 800
 }
 ],
+"materska-skola-kastanek-612127": [
+{
+"alt": "",
+"barva": "#847c76",
+"dh": "19113717171f0707",
+"h": 900,
+"jistota": 0.996,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACIQAAICAgEEAwEAAAAAAAAAAAECAxEABCEFEhMxBnGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAIRES/9oADAMBAAIRAxEAPwBb45o+HmYDySqwVCLsVj8fTVXvk2ZysjPTIPQFCx+jJ2j1MI0blFtRQ9mv7jk++Jkb2Lbu4AHNVh5KYxMNTZnkkLRgE0oN8CuMMjnXhU0s0tfZwxUa/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://mskastanek.eu/skolka/historie/",
+"typ": "budova",
+"url": "https://mskastanek.eu/wp-content/uploads/2025/08/IMG_20250829_180514.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#9da59a",
+"dh": "0f3848596239cc17",
+"h": 1200,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://mskastanek.eu/skolka/trida-1/",
+"typ": "interier",
+"url": "https://mskastanek.eu/wp-content/uploads/2025/03/IMG-20250326-WA0010.jpg",
+"w": 900
+},
+{
+"alt": "",
+"barva": "#5b6434",
+"dh": "a4311f350d255e1e",
+"h": 744,
+"jistota": 0.991,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://mskastanek.eu/skolka/historie/",
+"typ": "zahrada",
+"url": "https://mskastanek.eu/wp-content/uploads/2025/03/IMG-20240426-WA0021.jpg",
+"w": 992
+},
+{
+"alt": "",
+"barva": "#6e665b",
+"dh": "18081449494d4d4f",
+"h": 900,
+"jistota": 0.972,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://mskastanek.eu/skolka/historie/",
+"typ": "budova",
+"url": "https://mskastanek.eu/wp-content/uploads/2025/08/IMG_20250829_180558.jpg",
+"w": 1200
+}
+],
 "materska-skola-kolin-ii-665151": [
 {
 "alt": "smart",
@@ -1117,6 +1173,49 @@
 "stranka": "https://msmasarykova.cz/",
 "typ": "budova",
 "url": "https://msmasarykova.cz/wp-content/uploads/elementor/thumbs/IMG_20210324_084526_u-scaled-p7uovibh6c3cbykpgiafqyqscavaz5tj8pxuc4zr9c.jpg",
+"w": 1200
+}
+],
+"materska-skola-kromeriz-609878": [
+{
+"alt": "",
+"barva": "#cd9e74",
+"dh": "01336e4c6cb49c0b",
+"h": 612,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAjEAACAgEDAwUAAAAAAAAAAAABAgADEQQSIQUUcTEyQbHR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHBEAAwABBQAAAAAAAAAAAAAAAAECAxITITFR/9oADAMBAAIRAxEAPwChVqaq02KiWWrtLbj9TWq6x2dJdKqjgqFyxJzn8i2kYk8knyY5gHk8+YOKa6GZJT4Z3p6kWQm5iGyfYOMQkcsxJyx9T8wmeuvS9uT/2Q==",
+"ms": false,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.vazanyms.cz/",
+"typ": "budova",
+"url": "https://8c3eccaf2d.clvaw-cdnwnd.com/855b8671bcd6804932916f478afd5863/200003916-3ab323ab35/Podzimn%C3%AD%20mate%C5%99sk%C3%A1%20%C5%A1kola%20v%20akvarelu%20%282%29.png?ph=8c3eccaf2d",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#828538",
+"dh": "e7f3a6a4232339bd",
+"h": 900,
+"jistota": 0.999,
+"ms": false,
+"soubor": "2.webp",
+"stranka": "https://www.vazanyms.cz/o-nas/",
+"typ": "zahrada",
+"url": "https://8c3eccaf2d.clvaw-cdnwnd.com/855b8671bcd6804932916f478afd5863/200003790-b4e8bb4e8d/1000023100.png?ph=8c3eccaf2d",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#c5c9b0",
+"dh": "a2b6cccc9c8ccccc",
+"h": 800,
+"jistota": 0.996,
+"ms": false,
+"soubor": "3.webp",
+"stranka": "https://www.vazanyms.cz/jidelnicek/",
+"typ": "budova",
+"url": "https://8c3eccaf2d.clvaw-cdnwnd.com/855b8671bcd6804932916f478afd5863/200003586-993ee993ef/file_00000000d6b472439444ac8277191a77.png?ph=8c3eccaf2d",
 "w": 1200
 }
 ],
@@ -1409,6 +1508,23 @@
 "stranka": "https://www.msprahapetrovice.cz/nase-tridy/kotatka/",
 "typ": "interier",
 "url": "https://www.msprahapetrovice.cz/wp-content/uploads/2026/09/kotatka_02.jpg",
+"w": 1200
+}
+],
+"materska-skola-podborany-566991": [
+{
+"alt": "og",
+"barva": "#887669",
+"dh": "25d1f1a80d2198f9",
+"h": 902,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwQH/8QAIxAAAQMCBgMBAAAAAAAAAAAAAQACAwQRBRIhMTJRIiQzgf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREgL/2gAMAwEAAhEDEQA/AN1XjeR/qtEjWcrjkegoUePyPqMtTC2OInR4veyXhHNCB5hzRtoqxNK2VrSAeiRup1lJydAMkd/qz9cEJIkdICNtQhOmGUf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.mshlubanska.cz/fotogalerie/exterier-skoly",
+"typ": "budova",
+"url": "http://www.mshlubanska.cz/image.php?oid=7481882",
 "w": 1200
 }
 ],
@@ -2227,6 +2343,36 @@
 "typ": "interier",
 "url": "https://www.zsdolnikralovice.cz/data/headerfooter/header_images/img20250901121417.jpg",
 "w": 1000
+}
+],
+"zakladni-skola-a-materska-skola-hamry-nad-sazavou-615959": [
+{
+"alt": "og",
+"barva": "#7c7d7f",
+"dh": "ff4b676d68e1071c",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAjEAACAQQBBAMBAAAAAAAAAAABAgMABBESIQYTIjEVUaHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACEhP/2gAMAwEAAhEDEQA/AGR1BffER3ssFuE15YsdmOeCFHqui9Q2skSsyeTDOqn+kCoxtpbqLtTyoiE51jX3itLZWNudWEkrAAYY8VptK5GoN1DEmN7G4GRkcqeKKUMkcfj240+l02/aKPsx4zf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolahamryns.cz/fotogalerie-ms/budova-ze-vsech-svetovych-stran",
+"typ": "budova",
+"url": "http://www.skolahamryns.cz/image.php?oid=8164435",
+"w": 1200
+},
+{
+"alt": "og",
+"barva": "#7d6865",
+"dh": "690b0d149e808018",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolahamryns.cz/fotogalerie-ms/trida-v-1-patre-kotatka",
+"typ": "interier",
+"url": "http://www.skolahamryns.cz/image.php?oid=8164452",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-hlusice-580896": [
