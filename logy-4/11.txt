@@ -1,2 +1,9 @@
-[13:56:32] Část 12/20: webů 184, hotovo 229, zbývá 0
-[13:56:32] Konec: školek s fotkami 64; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:15] Část 12/20: webů 189, hotovo 229, zbývá 5
+[12:32:18] https://www.msbilina.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 0 obrázků, 0 fotek ke kontrole
+[12:32:48] https://www.msdruzstevni.cz: 6 stránek (galerie mimo web: 4 ['mszlin-jezecci.rajce.idnes.cz', 'mszlin-medvidci.rajce.idnes.cz', 'mszlin-mysicky.rajce.idnes.cz'], alb: 0), 22 obrázků, 10 fotek ke kontrole
+[12:32:49] https://zskridla.cz/w: 11 stránek (galerie mimo web: 0 [], alb: 0), 24 obrázků, 8 fotek ke kontrole
+[12:33:33] https://www.msknesla.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 198 obrázků, 43 fotek ke kontrole
+[12:35:48] https://zsmsvecov.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 63 obrázků, 25 fotek ke kontrole
+[12:36:04] tříděno 0/86
+[12:36:11] Dávka 1: hotovo 234/189, se fotkami 68; {'ok': 8, 'lide': 14, 'jine': 47, 'sablona': 0}
+[12:36:11] Konec: školek s fotkami 68; {'ok': 8, 'lide': 14, 'jine': 47, 'sablona': 0}

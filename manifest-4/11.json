@@ -1693,6 +1693,53 @@
 "w": 1100
 }
 ],
+"materska-skola-zlin-605414": [
+{
+"alt": "",
+"barva": "#555c48",
+"dh": "b43cac1a13262dce",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBBAb/xAAiEAACAgEEAQUAAAAAAAAAAAABAgMRAAQSITGRFCNBYbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARESEyH/2gAMAwEAAhEDEQA/AF0c8j71jWy1gE3ya6+8VzRyEhUVma6Yd0c0Q4ugo5+BX5kMihSKALdsO8zzgcKdNBLLFatp1ANe7MEPg4Ze9LCedo8DDDYrf//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msknesla.cz/fotogalerie/revitalizace-skolni-zahrady-ii-etapa-dokoncena/",
+"typ": "zahrada",
+"url": "https://www.msknesla.cz/wp-content/uploads/2026/10/img-0251.jpeg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#70645b",
+"dh": "ffd3b3b60f37296f",
+"h": 765,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msknesla.cz/fotogalerie/revitalizace-skolni-zahrady-ii-etapa-dokoncena/",
+"typ": "zahrada",
+"url": "https://www.msknesla.cz/wp-content/uploads/2026/10/mvimg-20260821-113251.jpg",
+"w": 1020
+}
+],
+"materska-skola-zlin-605457": [
+{
+"alt": "- - -",
+"barva": "#996c4f",
+"dh": "9ec4c4c4c4e4eccc",
+"h": 900,
+"jistota": 0.992,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUG/8QAHhAAAgICAwEBAAAAAAAAAAAAAQMCEQAEBRIhQRT/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAX/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMQMh/9oADAMBAAIRAxEAPwCXMT2dLYSUyiO4qVejFHchuhAkHw7E1QHoxnlkGS1RiAKNi8z3IaVxgTGrGDFprClr3TptaB/OumsFxBNS+/cMqVspUqKzKjEAUBhmTKXdN1Y9RP/Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msdruzstevni.cz/?ukaz=3_&IdMenu=3&grafika=0",
+"typ": "budova",
+"url": "https://www.msdruzstevni.cz/pic_tiny/obrazky/img-0011.jpg",
+"w": 1200
+}
+],
 "ms-beruska-350294": [
 {
 "alt": "og",
@@ -1931,6 +1978,23 @@
 "typ": "budova",
 "url": "https://www.zsjestrebi.cz/storage/media/1149-perex-orig.2465270e-800.jpg",
 "w": 800
+}
+],
+"zakladni-skola-a-materska-skola-kridla-615657": [
+{
+"alt": "",
+"barva": "#918177",
+"dh": "3a31616135660c71",
+"h": 510,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIRAAAQQCAAcAAAAAAAAAAAAAAQACAwQREhUhIjJBodH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhID/9oADAMBAAIRAxEAPwCvELb60hjsytLz0u1yPajTu2Ynsc+Z1mQPJIzkkHxyRFHTLKUa33pnEFsUkYx27H6iIltiXOT/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zskridla.cz/w/",
+"typ": "interier",
+"url": "https://zskridla.cz/w/wp-content/uploads/2020/06/IMG_2108b.jpg",
+"w": 1200
 }
 ],
 "zakladni-skola-a-materska-skola-listany-103443": [
@@ -2233,6 +2297,62 @@
 "typ": "budova",
 "url": "https://www.zsuncin.cz/storage/galleries/5/o/IMG-1520.jpeg",
 "w": 1200
+}
+],
+"zakladni-skola-a-materska-skola-vecov-615801": [
+{
+"alt": "",
+"barva": "#8d908f",
+"dh": "79be9a9316f2e809",
+"h": 900,
+"jistota": 0.997,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAlEAACAAUDAwUAAAAAAAAAAAABAgADBBESBSExEyJRFVJxkdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAwDAQACEQMRAD8A0HrqgTSqqCtiQ2O3xzzC/UKwgnpWIUMO3k+OeYW+nVIcGVPAVQQM7n733MKGk1VrGplm64ntb9ioi2uoOBabMUN4xgiEvTnVAHqHuPYcRBGqI//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://zsmsvecov.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://zsmsvecov.cz/wp-content/uploads/2020/01/DSCN2130-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#968057",
+"dh": "8b7a18b87812c6e3",
+"h": 629,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://zsmsvecov.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://zsmsvecov.cz/wp-content/uploads/2020/10/PANO_20201020_102722_2.jpg",
+"w": 1000
+},
+{
+"alt": "",
+"barva": "#868d8f",
+"dh": "b4784adad9d7df0f",
+"h": 900,
+"jistota": 0.981,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://zsmsvecov.cz/fotogalerie/",
+"typ": "budova",
+"url": "https://zsmsvecov.cz/wp-content/uploads/2020/01/DSCN2132-scaled.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#b8aca3",
+"dh": "0904151494014976",
+"h": 525,
+"jistota": 1.0,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://zsmsvecov.cz/fotogalerie/",
+"typ": "interier",
+"url": "https://zsmsvecov.cz/wp-content/uploads/2020/10/PANO_20201020_102011_2.jpg",
+"w": 1000
 }
 ],
 "zakladni-skola-kasperske-hory-542510": [
