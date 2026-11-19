@@ -1,2 +1,12 @@
-[13:56:23] Část 1/20: webů 166, hotovo 221, zbývá 0
-[13:56:23] Konec: školek s fotkami 79; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:17] Část 1/20: webů 174, hotovo 221, zbývá 8
+[12:32:25] https://www.klicek.uh.cz: nedostupné nebo zakázané
+[12:33:00] https://www.skolka-roudnice.cz: 25 stránek (galerie mimo web: 0 [], alb: 0), 6 obrázků, 0 fotek ke kontrole
+[12:33:51] https://mssnb.cz: 27 stránek (galerie mimo web: 0 [], alb: 0), 165 obrázků, 23 fotek ke kontrole
+[12:33:58] https://www.ms-radost.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 34 obrázků, 16 fotek ke kontrole
+[12:34:10] https://www.skolkavrbno.cz: 29 stránek (galerie mimo web: 0 [], alb: 0), 460 obrázků, 45 fotek ke kontrole
+[12:34:21] https://www.oukosiky.cz/hlavni-menu/obec/materska-skola: 34 stránek (galerie mimo web: 68 ['obec-kosiky.rajce.idnes.cz'], alb: 54), 502 obrázků, 1 fotek ke kontrole
+[12:34:39] https://smsstefanikova.cz: 16 stránek (galerie mimo web: 1 ['www.smsul.rajce.net'], alb: 0), 36 obrázků, 0 fotek ke kontrole
+[12:35:20] https://www.msvalasskasenice.cz: 6 stránek (galerie mimo web: 350 ['brumendy.rajce.idnes.cz', 'msvalsenice.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 16), 719 obrázků, 39 fotek ke kontrole
+[12:35:35] tříděno 0/124
+[12:35:45] Dávka 1: hotovo 229/174, se fotkami 80; {'ok': 3, 'lide': 20, 'jine': 97, 'sablona': 0}
+[12:35:45] Konec: školek s fotkami 80; {'ok': 3, 'lide': 20, 'jine': 97, 'sablona': 0}

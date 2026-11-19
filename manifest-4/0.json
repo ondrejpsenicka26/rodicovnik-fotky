@@ -1728,6 +1728,49 @@
 "w": 900
 }
 ],
+"materska-skola-valasska-senice-400642": [
+{
+"alt": "",
+"barva": "#a5907f",
+"dh": "5f0e4e0e36652524",
+"h": 578,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAiEAABAwQCAgMAAAAAAAAAAAABAAIDBBESIRMxIkEFMnH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABIREC/9oADAMBAAIRAxEAPwAhr6h8W6sxX+r3ty/QmU9e18DTHHlyaaQQOtXWKn8IiGeIA9aUHEn4WF1zliTf3faHl7BXKhjBUua13JBxuLibdoVcO4WE7OI7QqFAW9en/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msvalasskasenice.cz/uzavreni-ms/",
+"typ": "interier",
+"url": "https://www.msvalasskasenice.cz/wp-content/uploads/2024/12/PC131296-1.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a48e84",
+"dh": "cb46e6b6a6ced173",
+"h": 729,
+"jistota": 1.0,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msvalasskasenice.cz/uzavreni-ms/",
+"typ": "interier",
+"url": "https://www.msvalasskasenice.cz/wp-content/uploads/2024/12/PC121284-2.jpg",
+"w": 1200
+},
+{
+"alt": "IMG_20160822_121145",
+"barva": "#9c6f70",
+"dh": "02000aaf8e6ea61f",
+"h": 674,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msvalasskasenice.cz/uzavreni-ms/",
+"typ": "hygiena",
+"url": "https://www.msvalasskasenice.cz/wp-content/uploads/2019/06/IMG_20160822_121145.jpg",
+"w": 1200
+}
+],
 "materska-skola-vandrovka-049724": [
 {
 "alt": "",
