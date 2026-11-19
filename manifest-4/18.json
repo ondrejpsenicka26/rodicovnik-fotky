@@ -1420,6 +1420,49 @@
 "w": 1200
 }
 ],
+"ms-decin-ii-riegrova-454-000311": [
+{
+"alt": "",
+"barva": "#837462",
+"dh": "626260b8849eb2b0",
+"h": 900,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBAX/xAAjEAACAQMDBAMAAAAAAAAAAAABAhEAAwQSEyExUXGBBSJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAZEQADAAMAAAAAAAAAAAAAAAAAERMBElH/2gAMAwEAAhEDEQA/AFs2mzsrdXcSDKnVxHT35rR8fllPrfDmWgEAQDB6keq5dhGF9yRGgQAD+UxL2RmtcTMFvamQEWOe81Kqyik+lRj5mNj49tG2w2kEl0aSe/Sip63g29PL3D5c0U0DQ//Z",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.msriegrovadc.cz/tridy/riegrova/sikulove",
+"typ": "interier",
+"url": "https://www.msriegrovadc.cz/images/2025/11/05/siku_img-20251014-001.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#978473",
+"dh": "809c9decc68d3939",
+"h": 900,
+"jistota": 0.998,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.msriegrovadc.cz/tridy/riegrova/sikulove",
+"typ": "interier",
+"url": "https://www.msriegrovadc.cz/images/2025/11/05/siku_img-20251014-002.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#8f8678",
+"dh": "33357554b4b68eb1",
+"h": 900,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://www.msriegrovadc.cz/tridy/riegrova/zelvicky",
+"typ": "hygiena",
+"url": "https://www.msriegrovadc.cz/images/2025/07/02/zelvicky_r_06.jpg",
+"w": 1200
+}
+],
 "ms-podsadacek-v-praze-12-501376": [
 {
 "alt": "",

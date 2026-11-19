@@ -1,2 +1,7 @@
-[13:56:25] Část 19/20: webů 167, hotovo 201, zbývá 0
-[13:56:25] Konec: školek s fotkami 51; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:24] Část 19/20: webů 170, hotovo 201, zbývá 3
+[12:34:04] https://www.msriegrovadc.cz: 15 stránek (galerie mimo web: 11 ['beruskyzriegrovky.rajce.idnes.cz', 'jahudkyzriegrovky.rajce.idnes.cz', 'msriegrovajablicka.rajce.idnes.cz'], alb: 0), 211 obrázků, 41 fotek ke kontrole
+[12:34:15] https://www.zsborsice.eu: 34 stránek (galerie mimo web: 1 ['msbub.rajce.idnes.cz'], alb: 0), 393 obrázků, 45 fotek ke kontrole
+[12:34:15] https://www.msbukovina.cz: 22 stránek (galerie mimo web: 4 ['skolkavelkabukovina.rajce.idnes.cz', 'www.rajce.idnes.cz'], alb: 2), 115 obrázků, 2 fotek ke kontrole
+[12:34:39] tříděno 0/88
+[12:34:48] Dávka 1: hotovo 204/170, se fotkami 52; {'ok': 3, 'lide': 4, 'jine': 48, 'sablona': 0}
+[12:34:48] Konec: školek s fotkami 52; {'ok': 3, 'lide': 4, 'jine': 48, 'sablona': 0}
