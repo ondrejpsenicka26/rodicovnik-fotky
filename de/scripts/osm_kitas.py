@@ -40,34 +40,68 @@ out center tags;"""
     raise SystemExit(f"Overpass selhal pro {kod}")
 
 
-def vg250():
-    urls = [
-        "https://daten.gdz.bkg.bund.de/produkte/vg/vg250-ew_ebenen_1231/aktuell/vg250-ew_12-31.utm32s.gpkg.ebenen.zip",
-        "https://daten.gdz.bkg.bund.de/produkte/vg/vg250-ew_ebenen_1231/aktuell/vg250-ew_12-31.utm32s.gpkg.zip",
-    ]
-    for u in urls:
+def stahni(u, cil):
+    """Stažení velkého souboru s navazováním (Range) po přerušení."""
+    for pokus in range(8):
+        hotovo = os.path.getsize(cil) if os.path.exists(cil) else 0
+        h = dict(UA, **({"Range": f"bytes={hotovo}-"} if hotovo else {}))
         try:
-            r = requests.get(u, headers=UA, timeout=600)
-            if r.status_code == 200 and r.content[:2] == b"PK":
-                z = zipfile.ZipFile(io.BytesIO(r.content))
-                gpkg = [n for n in z.namelist() if n.endswith(".gpkg")][0]
-                z.extract(gpkg, "/tmp/vg")
-                return os.path.join("/tmp/vg", gpkg)
-            print("VG250", u, r.status_code, flush=True)
+            with requests.get(u, headers=h, stream=True, timeout=120) as r:
+                if r.status_code == 416:
+                    return True
+                if r.status_code not in (200, 206):
+                    print("VG250", u, r.status_code, flush=True)
+                    return False
+                if r.status_code == 200 and hotovo:
+                    open(cil, "wb").close()
+                celkem = int(r.headers.get("Content-Length", 0)) + (hotovo if r.status_code == 206 else 0)
+                with open(cil, "ab") as f:
+                    for kus in r.iter_content(1 << 20):
+                        f.write(kus)
+                if not celkem or os.path.getsize(cil) >= celkem:
+                    return True
         except Exception as e:
-            print("VG250", u, e, flush=True)
-    raise SystemExit("VG250 se nepodařilo stáhnout")
+            print("VG250 pokus", pokus, e, flush=True)
+        time.sleep(15)
+    return False
+
+
+def vg250():
+    u = "https://daten.gdz.bkg.bund.de/produkte/vg/vg250-ew_ebenen_1231/aktuell/vg250-ew_12-31.utm32s.gpkg.ebenen.zip"
+    cil = "/tmp/vg250.zip"
+    if not stahni(u, cil):
+        raise SystemExit("VG250 se nepodařilo stáhnout")
+    z = zipfile.ZipFile(cil)
+    gpkg = [n for n in z.namelist() if n.endswith(".gpkg")][0]
+    z.extract(gpkg, "/tmp/vg")
+    return os.path.join("/tmp/vg", gpkg)
+
+
+def kompakt(e):
+    lat = e.get("lat") or (e.get("center") or {}).get("lat")
+    lon = e.get("lon") or (e.get("center") or {}).get("lon")
+    t = e.get("tags", {})
+    return {"id": f"{e['type'][0]}{e['id']}", "lat": round(lat, 6) if lat else None,
+            "lon": round(lon, 6) if lon else None, "amenity": t.get("amenity"),
+            "t": {x: t[x] for x in TAGY if x in t}}
 
 
 def main():
-    os.makedirs(OUT, exist_ok=True)
+    os.makedirs(os.path.join(OUT, "osm"), exist_ok=True)
+    # 1) syrová data po zemích (uložená hned, při dalším běhu se už nestahují)
     prvky = {}
     for kod in LAENDER:
-        el = overpass(kod)
+        soubor = os.path.join(OUT, "osm", f"{kod}.json")
+        if os.path.exists(soubor) and os.environ.get("OSM_ZNOVU") != "1":
+            el = json.load(open(soubor))
+        else:
+            el = [kompakt(e) for e in overpass(kod)]
+            el = [e for e in el if e["lat"] is not None]
+            json.dump(el, open(soubor, "w"), ensure_ascii=False, separators=(",", ":"))
+            time.sleep(20)
         for e in el:
-            prvky[f"{e['type'][0]}{e['id']}"] = e
+            prvky[e["id"]] = e
         print(kod, len(el), "celkem", len(prvky), flush=True)
-        time.sleep(20)
 
     path = vg250()
     gem = gpd.read_file(path, layer="vg250_gem")
@@ -78,15 +112,7 @@ def main():
         gem = gem[gem["GF"] == 4]
     gem = gem.to_crs(25832)
 
-    zaznamy = []
-    for k, e in prvky.items():
-        lat = e.get("lat") or (e.get("center") or {}).get("lat")
-        lon = e.get("lon") or (e.get("center") or {}).get("lon")
-        if lat is None:
-            continue
-        t = e.get("tags", {})
-        zaznamy.append({"id": k, "lat": round(lat, 6), "lon": round(lon, 6), "amenity": t.get("amenity"),
-                        "t": {x: t[x] for x in TAGY if x in t}})
+    zaznamy = list(prvky.values())
     body = gpd.GeoDataFrame(zaznamy, geometry=[Point(z["lon"], z["lat"]) for z in zaznamy], crs=4326).to_crs(25832)
     spoj = gpd.sjoin(body, gem[["AGS", "geometry"]], how="left", predicate="within")
     spoj = spoj[~spoj.index.duplicated(keep="first")]
