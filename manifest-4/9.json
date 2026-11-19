@@ -535,6 +535,62 @@
 "w": 750
 }
 ],
+"jubilejni-zs-t-g-masaryka-a-ms-609011": [
+{
+"alt": "",
+"barva": "#968558",
+"dh": "454d656527c7491b",
+"h": 800,
+"jistota": 1.0,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAkEAACAQMCBgMAAAAAAAAAAAABAgMABBESIQUTMWGhsSNRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQABBAMBAAAAAAAAAAAAAAAAAQITUQMRITH/2gAMAwEAAhEDEQA/AK5rdBac1jJIqYcqrdeg9nxTKX47eN1QbyLse5pNCzS3EGpiCh2I2JGa2JPNzIYXkLrqOQwyDhu+/ms7sS8Kab6Sl4xMJCEjt2X75hH5RSkTLcFpNLLljtlT7FFCNKGkWz//2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://skolarusava.cz/?page_id=58",
+"typ": "interier",
+"url": "https://skolarusava.cz/wp-content/uploads/2020/09/DSC00487.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#a8a07f",
+"dh": "d3d34aca8c8c5c3f",
+"h": 800,
+"jistota": 0.877,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://skolarusava.cz/?page_id=58",
+"typ": "zahrada",
+"url": "https://skolarusava.cz/wp-content/uploads/2020/09/DSC00450.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#7a7a78",
+"dh": "bdbd275a9b2343da",
+"h": 800,
+"jistota": 1.0,
+"ms": true,
+"soubor": "3.webp",
+"stranka": "https://skolarusava.cz/?page_id=58",
+"typ": "interier",
+"url": "https://skolarusava.cz/wp-content/uploads/2020/09/DSC00494.jpg",
+"w": 1200
+},
+{
+"alt": "",
+"barva": "#78844e",
+"dh": "0103a16c4fa4cc64",
+"h": 800,
+"jistota": 0.843,
+"ms": true,
+"soubor": "4.webp",
+"stranka": "https://skolarusava.cz/?page_id=58",
+"typ": "zahrada",
+"url": "https://skolarusava.cz/wp-content/uploads/2020/09/DSC00444.jpg",
+"w": 1200
+}
+],
 "lesni-materska-skola-dobrodej-091534": [
 {
 "alt": "",
@@ -748,6 +804,23 @@
 "typ": "zahrada",
 "url": "https://msbruntal.cz/wp-content/uploads/2025/12/4.jpg",
 "w": 1000
+}
+],
+"materska-skola-bystrice-pod-hostynem-609631": [
+{
+"alt": "",
+"barva": "#8f8b87",
+"dh": "61501400c461f990",
+"h": 800,
+"jistota": 0.999,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCAwUG/8QAIxAAAgICAAUFAAAAAAAAAAAAAQIDBAARBSIxQWESIUJRkf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAgEh/9oADAMBAAIRAxEAPwCyrxVljSCyXRF3sEdD5P7mtBcYANHY5CR8u2s4cWzYYoU9IY7PMT2yda/biYanJUdEIBHjCeGsM6KXcSMzAkqDvDFw3ErbHZmb37fWGIf/2Q==",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkasokolka.cz/index.php/o-nas/",
+"typ": "budova",
+"url": "http://www.skolkasokolka.cz/download/61.jpg",
+"w": 1200
 }
 ],
 "materska-skola-drozdov-633248": [
@@ -1506,6 +1579,36 @@
 "typ": "budova",
 "url": "https://msvzahradepb.cz/wp-content/uploads/2022/06/picture-4.jpg",
 "w": 816
+}
+],
+"materska-skola-valasske-klobouky-606160": [
+{
+"alt": "Virtuální prohlídka",
+"barva": "#9fa09e",
+"dh": "363e3b3739070eb6",
+"h": 497,
+"jistota": 0.982,
+"lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wAARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAlEAACAgECBQUBAAAAAAAAAAABAgMEABEhBRIUQVEiMkKBocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABwRAAEDBQAAAAAAAAAAAAAAAAABEVECAxIhIv/aAAwDAQACEQMRAD8AvcIo05uHczVoD6m3CA/zEp6lQygdMnIT7QgBb77YkZHrl9HkJG+0hAOw7ZxsXprXD5ijGFo1JJT5b/hyabj6DIY0nTMYTWrExkrq0YJ284ZFF6w41ZwT5I1Jwys1kcwf/9k=",
+"ms": true,
+"nahled": "1-nahled.webp",
+"soubor": "1.webp",
+"stranka": "https://www.skolkavk.cz/fotogalerie/virtualni-prohlidka/",
+"typ": "budova",
+"url": "https://www.skolkavk.cz/data/multipage/editor/editor-25-235-cs_1.png?gcm_date=1674717065",
+"w": 765
+},
+{
+"alt": "2",
+"barva": "#84786c",
+"dh": "3e5a46a71d2dc646",
+"h": 573,
+"jistota": 0.999,
+"ms": true,
+"soubor": "2.webp",
+"stranka": "https://www.skolkavk.cz/skola/neco-o-nas-/tridy/motylci/",
+"typ": "interier",
+"url": "https://www.skolkavk.cz/data/editor/102cs_1.jpg?gcm_date=1757522040",
+"w": 765
 }
 ],
 "materska-skola-vlnenka-015609": [

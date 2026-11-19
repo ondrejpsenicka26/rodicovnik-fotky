@@ -1,2 +1,12 @@
-[13:56:32] Část 10/20: webů 183, hotovo 223, zbývá 0
-[13:56:32] Konec: školek s fotkami 60; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:24] Část 10/20: webů 191, hotovo 223, zbývá 8
+[12:32:30] https://www.msradost.com: 1 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[12:32:39] https://slunicko.raab.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 57 obrázků, 0 fotek ke kontrole
+[12:33:00] https://skolka.mestysbobrova.cz: 8 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 2 fotek ke kontrole
+[12:33:07] https://www.resslovams.cz: 32 stránek (galerie mimo web: 0 [], alb: 0), 11 obrázků, 10 fotek ke kontrole
+[12:33:11] https://skolka-lubna.webnode.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 454 obrázků, 5 fotek ke kontrole
+[12:33:14] https://www.skolkasokolka.cz: 6 stránek (galerie mimo web: 0 [], alb: 0), 31 obrázků, 10 fotek ke kontrole
+[12:34:06] https://www.skolkavk.cz: 34 stránek (galerie mimo web: 1 ['skolickavk.rajce.idnes.cz'], alb: 0), 1051 obrázků, 2 fotek ke kontrole
+[12:35:57] https://skolarusava.cz: 10 stránek (galerie mimo web: 0 [], alb: 0), 55 obrázků, 28 fotek ke kontrole
+[12:36:17] tříděno 0/57
+[12:36:21] Dávka 1: hotovo 231/191, se fotkami 63; {'ok': 7, 'lide': 12, 'jine': 34, 'sablona': 0}
+[12:36:21] Konec: školek s fotkami 63; {'ok': 7, 'lide': 12, 'jine': 34, 'sablona': 0}
