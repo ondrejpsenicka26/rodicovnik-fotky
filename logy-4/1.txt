@@ -1,2 +1,7 @@
-[13:56:53] Část 2/20: webů 181, hotovo 224, zbývá 0
-[13:56:53] Konec: školek s fotkami 61; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:21] Část 2/20: webů 184, hotovo 224, zbývá 3
+[12:32:43] https://www.ms-trebic.cz: 15 stránek (galerie mimo web: 0 [], alb: 0), 19 obrázků, 7 fotek ke kontrole
+[12:33:14] https://mssvatezdislavy.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 271 obrázků, 45 fotek ke kontrole
+[12:36:28] https://www.msduha-zubri.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 2922 obrázků, 42 fotek ke kontrole
+[12:36:42] tříděno 0/94
+[12:36:49] Dávka 1: hotovo 227/184, se fotkami 62; {'ok': 1, 'lide': 6, 'jine': 87, 'sablona': 0}
+[12:36:49] Konec: školek s fotkami 62; {'ok': 1, 'lide': 6, 'jine': 87, 'sablona': 0}
