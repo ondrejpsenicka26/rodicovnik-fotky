@@ -1,2 +1,9 @@
-[13:56:26] Část 13/20: webů 184, hotovo 227, zbývá 0
-[13:56:26] Konec: školek s fotkami 59; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:14] Část 13/20: webů 189, hotovo 227, zbývá 5
+[12:32:27] https://materska-skola72.webnode.cz: 4 stránek (galerie mimo web: 0 [], alb: 0), 10 obrázků, 6 fotek ke kontrole
+[12:32:39] https://www.msmaterinka.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 3 fotek ke kontrole
+[12:32:53] https://zsms-kostice.webnode.cz: 23 stránek (galerie mimo web: 0 [], alb: 0), 29 obrázků, 8 fotek ke kontrole
+[12:33:10] https://www.mssvetlans.cz: 31 stránek (galerie mimo web: 2 ['eu.zonerama.com'], alb: 0), 13 obrázků, 1 fotek ke kontrole
+[12:33:33] https://www.skolaobeczubri.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 174 obrázků, 45 fotek ke kontrole
+[12:33:46] tříděno 0/63
+[12:33:48] Dávka 1: hotovo 232/189, se fotkami 59; {'ok': 0, 'lide': 3, 'jine': 60, 'sablona': 0}
+[12:33:48] Konec: školek s fotkami 59; {'ok': 0, 'lide': 3, 'jine': 60, 'sablona': 0}
