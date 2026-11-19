@@ -1,2 +1,9 @@
-[13:56:32] Část 14/20: webů 186, hotovo 234, zbývá 0
-[13:56:32] Konec: školek s fotkami 67; {'ok': 0, 'lide': 0, 'jine': 0, 'sablona': 0}
+[12:32:25] Část 14/20: webů 191, hotovo 234, zbývá 5
+[12:32:29] https://zs-hodice.webnode.cz: 1 stránek (galerie mimo web: 0 [], alb: 0), 1 obrázků, 0 fotek ke kontrole
+[12:32:39] https://www.zsmsmik.cz: 2 stránek (galerie mimo web: 0 [], alb: 0), 3 obrázků, 0 fotek ke kontrole
+[12:32:44] https://www.ms1maje-roznov.cz: 5 stránek (galerie mimo web: 0 [], alb: 0), 21 obrázků, 18 fotek ke kontrole
+[12:32:46] https://zs-a-ms-rostin.webnode.cz: 9 stránek (galerie mimo web: 0 [], alb: 0), 16 obrázků, 10 fotek ke kontrole
+[12:33:16] https://www.zsborova.cz: 31 stránek (galerie mimo web: 0 [], alb: 0), 416 obrázků, 2 fotek ke kontrole
+[12:33:31] tříděno 0/30
+[12:33:31] Dávka 1: hotovo 239/191, se fotkami 68; {'ok': 1, 'lide': 3, 'jine': 26, 'sablona': 0}
+[12:33:31] Konec: školek s fotkami 68; {'ok': 1, 'lide': 3, 'jine': 26, 'sablona': 0}
