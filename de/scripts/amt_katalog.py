@@ -139,6 +139,7 @@ def sada_info(zdroj, p):
         url = (r.get("url") or r.get("access_url") or r.get("download_url") or "").strip()
         if isinstance(r.get("url"), list):
             url = r["url"][0] if r["url"] else ""
+        url = str(url).strip().strip("[]").split(",")[0].strip().strip("'\"")
         rl = r.get("license") or r.get("license_id") or ""
         zdroje.append({"url": url, "format": text_pole(r.get("format")).strip().lower(),
                        "nazev": text_pole(r.get("name") or r.get("title"))[:200], "licence": text_pole(rl)[:120]})
@@ -364,7 +365,7 @@ def z_gml(b):
 
 # ---------- stažení zdroje ----------
 def stahni(url, params=None, limit=MAX_BAJTU):
-    r = get(url, params=params, stream=True, timeout=(15, 60))
+    r = get(url, params=params, stream=True, timeout=(45, 120) if os.environ.get("DRUHY") else (15, 60))
     if r is None or r.status_code != 200:
         return None, f"HTTP {getattr(r, 'status_code', '?')}", ""
     buf = io.BytesIO()
@@ -384,7 +385,10 @@ def wfs(url):
     """Vrátí seznam (typ, sloupce, řádky, crs) pro vrstvy WFS, které vypadají na Kity."""
     zaklad = bez_dotazu(url)
     q = {k.lower(): v[0] for k, v in parse_qs(urlparse(url).query).items()}
-    extra = {k: v for k, v in q.items() if k in ("map", "layers")}
+    orig = {k: v[0] for k, v in parse_qs(urlparse(url).query).items()}
+    extra = {k: v for k, v in orig.items() if k.lower() not in ("service", "request", "version", "typename", "typenames",
+                                                               "outputformat", "srsname", "count", "maxfeatures",
+                                                               "acceptversions", "resulttype", "startindex")}
     b, chyba, _ = stahni(zaklad, {**extra, "service": "WFS", "request": "GetCapabilities"}, 8 * 1024 * 1024)
     if not b:
         return [], f"GetCapabilities: {chyba}"
@@ -414,9 +418,13 @@ def wfs(url):
     vys = []
     for jm, tit in chtene[:6]:
         ziskano = False
-        for of in ("application/json", "application/geo+json", "geojson", "json", "application/json; subtype=geojson", None):
+        for of, srs in (("application/json", True), ("application/geo+json", True), ("geojson", True), ("json", True),
+                        ("application/json; subtype=geojson", True), (None, True), ("application/json", False),
+                        ("geojson", False), (None, False)):
             p = {**extra, "service": "WFS", "request": "GetFeature", "version": verze if verze.startswith(("1.1", "2")) else "1.1.0",
-                 ("typeNames" if verze.startswith("2") else "typeName"): jm, "srsName": "EPSG:4326"}
+                 ("typeNames" if verze.startswith("2") else "typeName"): jm}
+            if srs:
+                p["srsName"] = "EPSG:4326"
             if of:
                 p["outputFormat"] = of
             try:
@@ -436,6 +444,8 @@ def wfs(url):
                 hl, radky, crs = z_gml(b)
                 crs = crs or "EPSG:4326?"
             if radky:
+                if not srs and crs in ("EPSG:4326", "EPSG:4326?"):
+                    crs = "?"
                 vys.append((f"{jm} ({tit})" if tit and tit != jm else jm, hl, radky, crs))
                 ziskano = True
                 break
@@ -451,7 +461,26 @@ def nacti_zdroj(z):
     if not url.startswith("http"):
         return [], "bez adresy"
     try:
-        if "wfs" in fmt or "service=wfs" in low or re.search(r"/wfs\b|wfs\?|_wfs|wfs_", low):
+        m = re.match(r"(.*?/arcgis/)services/(.*?/MapServer)/WFSServer", url, re.I)
+        if m:
+            rest = f"{m.group(1)}rest/services/{m.group(2)}"
+            b, chyba, _ = stahni(rest, {"f": "json"}, 4 * 1024 * 1024)
+            vys = []
+            if b:
+                try:
+                    vrstvy = [(str(v["id"]), v.get("name", "")) for v in json.loads(b).get("layers", [])]
+                except Exception:  # noqa: BLE001
+                    vrstvy = []
+                for vid, vn in [v for v in vrstvy if R_KITA.search(v[1])][:6]:
+                    b2, _c, _ = stahni(f"{rest}/{vid}/query", {"where": "1=1", "outFields": "*", "f": "geojson",
+                                                               "outSR": "4326", "resultRecordCount": "20000"})
+                    if b2 and b2.lstrip()[:1] == b"{":
+                        hl, radky, crs = z_json(b2)
+                        if radky:
+                            vys.append((f"vrstva {vn}", hl, radky, "EPSG:4326"))
+            if vys:
+                return vys, ""
+        if "wfs" in fmt or "service=wfs" in low or re.search(r"/wfs\b|wfs\?|_wfs|wfs_|ogc\.ashx", low):
             return wfs(url)
         if "featureserver" in low or "mapserver" in low:
             m = re.match(r"(.*?/(?:FeatureServer|MapServer))(?:/(\d+))?", url, re.I)
@@ -493,7 +522,42 @@ def nacti_zdroj(z):
             if b"xl/" in b[:4000] or "xlsx" in fmt or low.endswith(".xlsx") or b"[Content_Types].xml" in b[:2000]:
                 hl, radky = z_xlsx(b)
                 return ([("xlsx", hl, radky, "")] if radky else []), "" if radky else "xlsx: prázdné"
-            return [], "zip (přeskočeno)"
+            try:
+                import shapefile, zipfile
+                zf = zipfile.ZipFile(io.BytesIO(b))
+                shp = [n for n in zf.namelist() if n.lower().endswith(".shp")]
+                vys = []
+                for n in shp[:4]:
+                    zaklad = n[:-4]
+                    cti = lambda e: io.BytesIO(zf.read(next(x for x in zf.namelist() if x.lower() == (zaklad + e).lower())))  # noqa: E731
+                    prj = ""
+                    try:
+                        prj = zf.read(next(x for x in zf.namelist() if x.lower() == (zaklad + ".prj").lower())).decode("latin-1")
+                    except StopIteration:
+                        pass
+                    for enc in ("utf-8", "cp1252"):
+                        try:
+                            rd = shapefile.Reader(shp=cti(".shp"), dbf=cti(".dbf"), shx=cti(".shx"), encoding=enc)
+                            radky = []
+                            pole = [f[0] for f in rd.fields[1:]]
+                            for sr in rd.iterShapeRecords():
+                                r = {k: str(v).strip() for k, v in zip(pole, sr.record) if v not in (None, "")}
+                                if sr.shape.points:
+                                    xs = [p[0] for p in sr.shape.points]
+                                    ys = [p[1] for p in sr.shape.points]
+                                    r["_x"], r["_y"] = repr(sum(xs) / len(xs)), repr(sum(ys) / len(ys))
+                                radky.append(r)
+                            break
+                        except UnicodeDecodeError:
+                            continue
+                    crs = "EPSG:25832" if "UTM_zone_32" in prj or "UTM zone 32" in prj else \
+                          "EPSG:25833" if "UTM_zone_33" in prj or "UTM zone 33" in prj else \
+                          "EPSG:4326" if prj.startswith("GEOGCS") else prj[:60]
+                    if radky:
+                        vys.append((f"shp {os.path.basename(n)}", pole + ["_x", "_y"], radky[:MAX_RADKU], crs))
+                return vys, "" if vys else "zip: žádný shapefile"
+            except Exception as e:  # noqa: BLE001
+                return [], f"zip: {str(e)[:80]}"
         if b[:8] == b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1":
             hl, radky = z_xls(b)
             return ([("xls", hl, radky, "")] if radky else []), "" if radky else "xls: prázdné"
@@ -534,7 +598,75 @@ def je_seznam_zarizeni(hl, radky):
     return textove >= min(len(radky), 200) * 0.5
 
 
+DRUHY = [
+    # (titul, vydavatel, licence, adresa, formát)
+    ("Kindertagesstätten in Dresden", "Landeshauptstadt Dresden", "http://dcat-ap.de/def/licenses/dl-by-de/2.0",
+     "https://kommisdd.dresden.de/net3/public/ogc.ashx?NodeId=803&Service=WFS&Request=GetCapabilities", "wfs"),
+    ("Kindergärten Saarland", "Saarland, Geodatenzentrum", "CC BY 4.0",
+     "https://geoportal.saarland.de/arcgis/services/Internet/Staatliche_Dienste/MapServer/WFSServer?VERSION=1.1.0&REQUEST=GetCapabilities&SERVICE=WFS", "wfs"),
+    ("KiTa-Einrichtungen in Bremen", "Freie Hansestadt Bremen", "http://dcat-ap.de/def/licenses/cc-by",
+     "https://www.transparenz.bremen.de/sixcms/media.php/bremen02.a.13.de/download/KiTa_Daten.xlsx", "xlsx"),
+    ("Kitastandorte Land Bremen", "Freie Hansestadt Bremen", "http://dcat-ap.de/def/licenses/cc-by",
+     "https://gdi2.geo.bremen.de/inspire/download/Kitastandorte/data/Kitastandorte_HB_BHV.zip", "zip"),
+    ("Kindertagesstätten in Essen", "Stadt Essen", "http://dcat-ap.de/def/licenses/dl-by-de/2.0",
+     "https://opendata.essen.de/sites/default/files/Kitas_2026_2027.geojson", "geojson"),
+    ("Übersicht der Kindertageseinrichtungen in Duisburg", "Stadt Duisburg", "http://dcat-ap.de/def/licenses/cc-by-de/3.0",
+     "https://opendata-duisburg.de/sites/default/files/Alle%20Kitas%20Stand_Kindergartenjahr%202024_25.csv", "csv"),
+    ("Übersicht der Kindertageseinrichtungen in Duisburg (2024)", "Stadt Duisburg", "http://dcat-ap.de/def/licenses/cc-by-de/3.0",
+     "https://opendata-duisburg.de/sites/default/files/Alle%20Kitas%20Stand%20Mai%202024.xlsx", "xlsx"),
+    ("Points of Interest – Kindergärten Karlsruhe", "Stadt Karlsruhe", "dl-de/by-2-0",
+     "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Stadtplan_POIs_Kinder_Jugendliche/FeatureServer/0", "arcgis"),
+    ("Nürnberg: Städtische Einrichtungen – Kindergärten und Kinderkrippen", "Stadt Nürnberg", "http://dcat-ap.de/def/licenses/cc-by/4.0",
+     "https://dokumente.nuernberg.de/opendata/Daten_KoM/2026_Städtische_Einrichtungen_Kinderagarten_Kinderkrippe.csv", "csv"),
+    ("Kindertageseinrichtungen im Landkreis Regensburg", "Landkreis Regensburg", "http://dcat-ap.de/def/licenses/cc-zero",
+     "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk=true&f=json", "json"),
+    ("Kindertagesstätten Göttingen 1", "Stadt Göttingen", "http://dcat-ap.de/def/licenses/cc-zero",
+     "https://cloud.goettingen.de/index.php/s/9az5GjinN4GS5Yy/download", "?"),
+    ("Kindertagesstätten Göttingen 2", "Stadt Göttingen", "http://dcat-ap.de/def/licenses/cc-zero",
+     "https://cloud.goettingen.de/index.php/s/omd6yxjGSEpx4bM/download", "?"),
+    ("Kindertagesstätten Göttingen 3", "Stadt Göttingen", "http://dcat-ap.de/def/licenses/cc-zero",
+     "https://cloud.goettingen.de/index.php/s/Qz7RKRDcYPfGkx7/download", "?"),
+    ("Kindertagesstätten Göttingen 4", "Stadt Göttingen", "http://dcat-ap.de/def/licenses/cc-zero",
+     "https://cloud.goettingen.de/index.php/s/wJ4ftLwPa5PEaXi/download", "?"),
+    ("INSPIRE SH Staatliche Dienste Kindertagesstätten", "Land Schleswig-Holstein", "?",
+     "https://service.gdi-sh.de/WFS_SH_INSPIREDOWNLOAD_AIII_GS?service=WFS&version=2.0.0&request=GetCapabilities", "wfs"),
+]
+
+
+def druhy_pruchod():
+    """Vyjmenované zdroje, které napoprvé selhaly (pomalý server, jiný tvar adresy)."""
+    os.makedirs(RAW, exist_ok=True)
+    prehled = []
+    for tit, vyd, lic, url, fmt in DRUHY:
+        tabulky, chyba = [], ""
+        for pokus in range(3):
+            try:
+                tabulky, chyba = nacti_zdroj({"url": url, "format": fmt})
+            except Exception as e:  # noqa: BLE001
+                tabulky, chyba = [], str(e)[:120]
+            if tabulky:
+                break
+            time.sleep(10)
+        info = {"titul": tit, "url": url, "stav": "ok" if tabulky else chyba, "tabulky": []}
+        for popis, hl, radky, crs in tabulky:
+            rid = hashlib.sha1(f"{url}|{popis}".encode()).hexdigest()[:12]
+            data = json.dumps({"meta": {"zdroj": "rucne", "id": rid, "slug": "", "titul": tit, "vydavatel": vyd,
+                                        "autor": vyd, "licence": lic, "licenceUrl": "", "web": "", "upraveno": "",
+                                        "otevrena": True, "url": url, "format": fmt, "zdrojNazev": "",
+                                        "zdrojLicence": lic, "popis": popis, "crs": crs},
+                               "sloupce": hl, "radky": radky}, ensure_ascii=False, separators=(",", ":")).encode()
+            with open(os.path.join(RAW, f"{rid}.json.gz"), "wb") as fh:
+                fh.write(gzip.compress(data, 6))
+            info["tabulky"].append({"soubor": f"{rid}.json.gz", "popis": popis, "radku": len(radky), "sloupce": hl[:50],
+                                    "crs": crs, "ukazka": radky[:2]})
+        log(f"{tit}: {info['stav']} {[(t['popis'][:30], t['radku']) for t in info['tabulky']]}")
+        prehled.append(info)
+    json.dump(prehled, open(os.path.join(OUT, "katalog-2.json"), "w"), ensure_ascii=False, indent=1)
+
+
 def main():
+    if os.environ.get("DRUHY"):
+        return druhy_pruchod()
     os.makedirs(RAW, exist_ok=True)
     sady, hotove_katalogy = {}, set()
     for jmeno, api in CKAN:

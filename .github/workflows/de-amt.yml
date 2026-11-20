@@ -2,6 +2,10 @@ name: DE – úřední otevřená data o Kitách
 # Katalog (GovData a portály zemí a měst) a stažení seznamů Kit s otevřenou licencí.
 on:
   workflow_dispatch:
+    inputs:
+      druhy:
+        description: "jen vyjmenované zdroje (druhý průchod)"
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -20,8 +24,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests openpyxl xlrd
+      - run: pip install requests openpyxl xlrd pyshp
       - name: Katalog a stažení
+        env:
+          DRUHY: ${{ inputs.druhy }}
         run: python de/scripts/amt_katalog.py
       - name: Uložit
         if: always()
