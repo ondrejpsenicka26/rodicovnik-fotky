@@ -85,6 +85,12 @@ def stahni(url, s):
 def odkazy(base, html):
     out = []
     host = urlparse(base).netloc
+    # web nosiče s více Kitami (…/kitas/nase-kita/): podstránky jen pod stejnou cestou,
+    # jinak bychom četli stránky jiných Kit téhož nosiče
+    cesta = urlparse(base).path
+    if re.search(r"\.(html?|php|aspx?)$", cesta, re.I):
+        cesta = cesta.rsplit("/", 1)[0] + "/"
+    predpona = cesta if cesta.count("/") >= 2 and len(cesta.strip("/")) > 0 else "/"
     for h in re.findall(r'href="([^"#]+)"', html, re.I):
         try:
             u = urljoin(base, h)
@@ -92,6 +98,8 @@ def odkazy(base, html):
         except ValueError:
             continue
         if p.netloc != host or not p.scheme.startswith("http"):
+            continue
+        if not p.path.startswith(predpona):
             continue
         if re.search(r"\.(pdf|jpe?g|png|gif|zip|docx?)$", p.path, re.I):
             continue
@@ -186,7 +194,9 @@ def main():
         if u:
             podle[u.rstrip("/")].append(k)
     # web, který sdílí víc Kit, je portál nosiče – fakta by nepatřila jedné Kitě
-    vlastni = {u: ks[0] for u, ks in podle.items() if len(ks) == 1}
+    PORTALY = re.compile(r"little-bird\.de|(^|\.)kita\.de|kitanetz|kita-?portal|meinkitaplatz|kita-?navigator|"
+                         r"kitafinder|kinderbetreuung-|familienportal|kita-info|kitaplatz-", re.I)
+    vlastni = {u: ks[0] for u, ks in podle.items() if len(ks) == 1 and not PORTALY.search(urlparse(u).netloc)}
     print("webů:", len(podle), "vlastních:", len(vlastni), flush=True)
     # pokračování: co už máme z minulého běhu, znovu nestahujeme
     cesta = os.path.join(OUT, "weby.json")
@@ -194,7 +204,7 @@ def main():
         vystup = json.load(open(cesta))
     except Exception:  # noqa: BLE001
         vystup = {}
-    vystup = {k: v for k, v in vystup.items() if v.get("v") == 2}
+    vystup = {k: v for k, v in vystup.items() if v.get("v") == 3}
     zbyva = {u: k for u, k in vlastni.items() if k["id"] not in vystup}
     print("už hotovo:", len(vystup), "zbývá:", len(zbyva), flush=True)
     hotovo = 0
@@ -214,7 +224,7 @@ def main():
             if data:
                 k = vlastni[u]
                 data["datum"] = date.today().isoformat()
-                data["v"] = 2
+                data["v"] = 3
                 # cenu bereme jen u Kit, které si ji určují samy (ne u obecních tabulek)
                 if (k["t"].get("operator:type") or "") in ("public", "government"):
                     data.pop("cena", None)
