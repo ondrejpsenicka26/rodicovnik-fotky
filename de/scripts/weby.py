@@ -20,6 +20,7 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; KitaFinderBot/1.0; +https://github
 PODSTRANKY = re.compile(r"öffnungszeit|oeffnungszeit|zeiten|konzept|paedagog|pädagog|über-uns|ueber-uns|uber-uns|"
                         r"wir-ueber|kontakt|aufnahme|anmeldung|kosten|beitr|gebühr|gebuehr|einrichtung|kita|haus|"
                         r"tagesablauf|team|leitbild|gruppen|angebot", re.I)
+VERZE = 4  # 4: zřizovatel, adresa, telefon a e-mail i z textu; weby z úředních dat a e-mailů
 CAS = r"(\d{1,2})[:.](\d{2})"
 R_PROVOZ = re.compile(CAS + r"\s*(?:uhr)?\s*(?:-|–|—|bis)\s*" + CAS + r"\s*uhr", re.I)
 R_KLIC_PROVOZ = re.compile(r"öffnungszeit|oeffnungszeit|geöffnet|geoeffnet|betreuungszeit|öffnen|montag|mo\.?\s*-\s*fr", re.I)
@@ -62,6 +63,35 @@ R_CENA = re.compile(r"(\d{3,4}(?:[.,]\d{2})?)\s*(?:€|euro|eur)\.?\s*(?:(?:pro|
 R_CENA_KLIC = re.compile(r"beitrag|gebühr|gebuehr|kosten|elternentgelt|betreuungsentgelt|preis", re.I)
 R_CENA_NE = re.compile(r"essen|verpflegung|mittag|anmelde|kaution|aufnahme|gehalt|vergütung|verguetung|stelle|erzieher", re.I)
 R_TEL = re.compile(r'href="tel:([+\d][\d\s/()+-]{6,})"', re.I)
+R_TEL_TEXT = re.compile(r"(?:tel(?:efon)?|fon|rufnummer)\.?\s*(?:nr\.?)?\s*[:.]?\s*((?:\+49|0049|\(?0)[\d\s/()\-–]{6,18}\d)", re.I)
+R_MAIL_TEXT = re.compile(r"\b([a-z0-9][a-z0-9._%+-]{1,40}@[a-z0-9-]+(?:\.[a-z0-9-]+)*\.[a-z]{2,10})\b", re.I)
+# zřizovatel: „Träger der Einrichtung ist die Stadt X“, „Träger: AWO …“, „in Trägerschaft der …“
+R_TRAEGER = [
+    re.compile(r"Träger(?:in)?\s+(?:der|unserer|des|dieser|unseres|von)\s+(?:Einrichtung|Kita|Kindertagesstätte|"
+               r"Kindertageseinrichtung|Kindergartens?|Kinderkrippe|Krippe|Kinderhaus(?:es)?|Hauses)[^.:]{0,40}?\s*"
+               r"(?:ist|:)\s*(?:seit\s+\d{4}\s+)?(?:die|der|das)?\s*([A-ZÄÖÜ][^|•]{3,110})"),
+    re.compile(r"(?:Unser|Der)\s+Träger\s+ist\s+(?:die|der|das)?\s*([A-ZÄÖÜ][^|•]{3,110})"),
+    re.compile(r"\bTräger(?:in)?\s*:\s*(?:die|der|das)?\s*([A-ZÄÖÜ][^|•]{3,110})"),
+    re.compile(r"in\s+(?:der\s+)?Trägerschaft\s+(?:der|des|von)\s+([A-ZÄÖÜ][^|•]{3,110})"),
+    re.compile(r"(?:ist|sind)\s+eine\s+Einrichtung\s+(?:der|des)\s+([A-ZÄÖÜ][^|•]{3,110})"),
+]
+R_TRAEGER_KONEC = re.compile(r"\s(?:Tel\b|Telefon|Fax|E-?Mail|Mail\b|Anschrift|Adresse|Leitung|Leiterin|Kontakt|Öffnungszeit|"
+                             r"Impressum|Datenschutz|Ansprechpartner|Vertreten|vertreten|Vorstand|Geschäftsführ|"
+                             r"\d{5}\b|www\.|https?:|und\s+(?:wird|ist|hat|bietet|liegt)|\S*(?i:straße|strasse|str\.|weg|platz|allee|gasse|ring|damm)\s*\d)|"
+                             r"(?<!\bSt)(?<!\bst)(?<!e\.V)(?<!e\. V)(?<!\be)(?<!\bDr)(?<!\b[Ee]v)(?<!\b[Kk]ath)(?<!\b[Ee]vang)(?<!\b[Ll]uth)(?<!\bgem)(?<!\bHl)\.(?:\s|$)|[;!?](?:\s|$)|\s[–—-]\s|,\s+(?:die|der|das|welche|und\s+wird|vertreten)\b|\(")
+R_TRAEGER_ORG = re.compile(r"stadt|gemeinde|kirch|pfarr|bistum|diözese|dekanat|e\.\s?v|gmbh|\bgug\b|\bug\b|verein|verband|"
+                           r"\bawo\b|arbeiterwohlfahrt|caritas|diakon|\bdrk\b|\bbrk\b|rotes kreuz|johanniter|malteser|"
+                           r"lebenshilfe|stiftung|landkreis|\bmarkt\b|zweckverband|\bwerk\b|initiative|volkssolidarit|"
+                           r"parit|\bamt\b|\bkreis\b|genossenschaft|\beg\b|universität|studierendenwerk|studentenwerk|"
+                           r"fröbel|kinderschutzbund|\basb\b|samariter|\bkjf\b|kolping|orden|kloster|schwestern", re.I)
+# adresa: schema.org nebo „Musterstraße 12, 12345 Ort“
+R_ADR_LD = re.compile(r'"streetAddress"\s*:\s*"([^"]{4,80})"[^{}]{0,400}?"postalCode"\s*:\s*"(\d{5})"', re.S)
+R_ADR_LD2 = re.compile(r'"postalCode"\s*:\s*"(\d{5})"[^{}]{0,400}?"streetAddress"\s*:\s*"([^"]{4,80})"', re.S)
+R_ADR_TEXT = re.compile(r"((?:[A-ZÄÖÜ][\wäöüß.]*[ -]){0,4}(?:[A-ZÄÖÜa-zäöü][\wäöüß.-]*?)?(?i:straße|strasse|str\.|weg|platz|allee|gasse|"
+                        r"ring|damm|ufer|chaussee|steig|stieg|pfad|hof|berg|markt|graben|wall|garten|feld|wiese|"
+                        r"anger|grund|tal|höhe|bogen|zeile|kamp|brink|busch|bach|dorf|park|siedlung|promenade)"
+                        r"\s+\d{1,4}(?:\s?[a-zA-Z]\b)?(?:\s?[-/]\s?\d{1,4})?)\s*[,|·•]?\s*(?:D[- ])?(\d{5})\s+"
+                        r"([A-ZÄÖÜ][a-zäöüß]+(?:[ -](?:[A-ZÄÖÜ][a-zäöüß]+|am|an|der|im|in|ob|vor|bei|a\.|d\.)){0,4})")
 R_MAIL = re.compile(r'href="mailto:([^"?]+@[^"?]+)"', re.I)
 
 
@@ -143,10 +173,21 @@ def fakta(txt, htmls):
     f["vlastnosti"] = sorted(k for k, rx in VLASTNOSTI.items() if rx.search(txt))
     tel = [t.strip() for h in htmls for t in R_TEL.findall(h)]
     mail = [m.strip().lower() for h in htmls for m in R_MAIL.findall(h)]
+    if not tel:
+        tel = [re.sub(r"\s+", " ", t).strip() for t in R_TEL_TEXT.findall(txt)]
+    if not mail:
+        mail = [m.lower() for m in R_MAIL_TEXT.findall(txt)
+                if not re.search(r"\.(png|jpe?g|gif|webp|svg)$|sentry|wixpress|example|datenschutz|webmaster|noreply", m, re.I)]
     if tel:
         f["tel"] = Counter(tel).most_common(1)[0][0]
     if mail:
         f["mail"] = Counter(mail).most_common(1)[0][0]
+    tr = traeger(txt)
+    if tr:
+        f["traeger"] = tr
+    adr = adresy(txt, htmls)
+    if adr:
+        f["adr"] = adr
     ceny = []
     for m in R_CENA.finditer(txt):
         okoli = txt[max(0, m.start() - 140): m.start()]
@@ -163,6 +204,63 @@ def fakta(txt, htmls):
     return f
 
 
+def traeger(txt):
+    """Název zřizovatele, jak ho uvádí web Kity (nebo None)."""
+    kand = []
+    for rx in R_TRAEGER:
+        for m in rx.finditer(txt):
+            t = m.group(1)
+            k = R_TRAEGER_KONEC.search(t)
+            if k:
+                t = t[:k.start()]
+            # za právní formou už název končí („… gGmbH Carl-Schwemmer-Straße 9“)
+            pf = re.search(r"\b(?:g?GmbH|gUG|e\.\s?V\.?|eG|AöR|KdöR|gAG)(?=\s+[A-ZÄÖÜ0-9])", t)
+            if pf:
+                t = t[:pf.end()]
+            t = re.sub(r"\s+", " ", t).strip(" ,:-–")
+            if re.search(r"e\.\s?V$", t):
+                t += "."
+            if 4 <= len(t) <= 90 and R_TRAEGER_ORG.search(t) and len(t.split()) <= 12:
+                kand.append(t)
+        if kand:
+            break
+    return Counter(kand).most_common(1)[0][0] if kand else None
+
+
+def adresy(txt, htmls):
+    """Adresy uvedené na webu: [[ulice a číslo, PSČ, obec, kolikrát]], nejčastější první (nejvýš 3)."""
+    c, obce = Counter(), {}
+    for h in htmls:
+        for u, p in R_ADR_LD.findall(h):
+            c[(unescape(u).strip(), p)] += 3
+        for p, u in R_ADR_LD2.findall(h):
+            c[(unescape(u).strip(), p)] += 3
+    for m in R_ADR_TEXT.finditer(txt):
+        u = re.sub(r"\s+", " ", m.group(1)).strip()
+        # před ulicí občas zůstane slovo z předchozí věty („Adresse Musterstraße 1“)
+        u = re.sub(r"^(?:Adresse|Anschrift|Kontakt|Kita|Kindergarten|Kindertagesstätte|Impressum|Besucheradresse)\s+", "", u)
+        c[(u, m.group(2))] += 1
+        obce.setdefault((u, m.group(2)), m.group(3).strip())
+    return [[u, p, obce.get((u, p), ""), n] for (u, p), n in c.most_common(3)]
+
+
+def patri_kite(k, data):
+    """Odhadnutý web (podle domény e-mailu) bereme, jen když uvádí adresu nebo jméno Kity."""
+    t = k["t"]
+    plz, ulice = t.get("addr:postcode"), (t.get("addr:street") or "").lower()
+    for a in data.get("adr") or []:
+        if plz and a[1] == plz:
+            return True
+        if ulice and ulice[:8] in a[0].lower():
+            return True
+    slova = [w for w in re.findall(r"[a-zäöüß]{5,}", (t.get("name") or "").lower())
+             if w not in ("kindergarten", "kindertagesstätte", "kinderhaus", "kinderkrippe", "städtische",
+                          "städtischer", "evangelische", "evangelischer", "katholische", "katholischer",
+                          "kindertageseinrichtung", "tageseinrichtung", "kinder")]
+    titul = (data.get("titul") or "").lower()
+    return bool(slova) and all(w in titul for w in slova[:2])
+
+
 def zpracuj(url):
     s = requests.Session()
     s.headers.update(UA)
@@ -177,6 +275,9 @@ def zpracuj(url):
         time.sleep(0.2)
     txt = " ".join(text(h) for h in htmls)
     f = fakta(txt, htmls)
+    f["titul"] = re.sub(r"\s+", " ", unescape(" ".join(
+        re.findall(r"<(?:title|h1)[^>]*>(.*?)</(?:title|h1)>", htmls[0], re.I | re.S))))[:200]
+    f["titul"] = re.sub(r"<[^>]+>", " ", f["titul"]).strip()
     f["url"] = konec
     return url, f
 
@@ -188,9 +289,18 @@ def main():
         if u and not u.startswith("http"):
             u = "https://" + u
         return u
+    # weby, které OSM nemá: z úředních seznamů („amt“) a odhad podle domény e-mailu („mail“)
+    try:
+        extra = json.load(open(os.path.join(OUT, "weby-extra.json")))
+    except Exception:  # noqa: BLE001
+        extra = {}
+    puvod = {}
     podle = defaultdict(list)
     for k in kity:
         u = web(k["t"])
+        if not u and k["id"] in extra:
+            u = extra[k["id"]]["url"]
+            puvod[k["id"]] = extra[k["id"]].get("zdroj", "amt")
         if u:
             podle[u.rstrip("/")].append(k)
     # web, který sdílí víc Kit, je portál nosiče – fakta by nepatřila jedné Kitě
@@ -204,7 +314,7 @@ def main():
         vystup = json.load(open(cesta))
     except Exception:  # noqa: BLE001
         vystup = {}
-    vystup = {k: v for k, v in vystup.items() if v.get("v") == 3}
+    vystup = {k: v for k, v in vystup.items() if v.get("v") == VERZE}
     zbyva = {u: k for u, k in vlastni.items() if k["id"] not in vystup}
     print("už hotovo:", len(vystup), "zbývá:", len(zbyva), flush=True)
     hotovo = 0
@@ -223,8 +333,12 @@ def main():
             hotovo += 1
             if data:
                 k = vlastni[u]
+                if k["id"] in puvod:
+                    data["puvodWebu"] = puvod[k["id"]]
+                    if puvod[k["id"]] == "mail" and not patri_kite(k, data):
+                        data = {"url": data.get("url", u), "neovereno": True}
                 data["datum"] = date.today().isoformat()
-                data["v"] = 3
+                data["v"] = VERZE
                 # cenu bereme jen u Kit, které si ji určují samy (ne u obecních tabulek)
                 if (k["t"].get("operator:type") or "") in ("public", "government"):
                     data.pop("cena", None)
