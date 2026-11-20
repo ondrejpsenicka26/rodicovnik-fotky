@@ -1,0 +1,33 @@
+name: DE – úřední otevřená data o Kitách
+# Katalog (GovData a portály zemí a měst) a stažení seznamů Kit s otevřenou licencí.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: de-amt
+  cancel-in-progress: false
+jobs:
+  amt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            de
+            .github
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests openpyxl xlrd
+      - name: Katalog a stažení
+        run: python de/scripts/amt_katalog.py
+      - name: Uložit
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add --sparse de/data/amt 2>/dev/null || git add de/data/amt
+          git commit -q -m "DE: úřední otevřená data $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 10; done
