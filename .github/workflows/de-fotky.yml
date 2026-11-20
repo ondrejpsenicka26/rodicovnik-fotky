@@ -1,0 +1,34 @@
+name: DE – fotky Kit z Wikimedia Commons
+# Volně licencované fotky Kit (CC0, PD, CC BY, CC BY-SA) – přes OSM tagy a kategorie Commons.
+# Spouští se ručně, až existuje de/data/kitas-osm.json.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: de-fotky
+  cancel-in-progress: false
+jobs:
+  fotky:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            de
+            .github
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow
+      - name: Stáhnout fotky
+        run: python de/scripts/commons_fotky.py
+      - name: Uložit
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add --sparse de/fotky de/data/fotky.json 2>/dev/null || git add de/fotky de/data/fotky.json
+          git commit -m "DE: fotky z Wikimedia Commons $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 10; done
