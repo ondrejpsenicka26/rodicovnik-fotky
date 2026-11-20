@@ -3,6 +3,11 @@ name: DE – geografie (Kreise, mapa, čtvrti měst)
 # Spouští se ručně, až existuje de/data/kitas-osm.json (čtvrti přiřazuje Kitám).
 on:
   workflow_dispatch:
+    inputs:
+      mesta:
+        description: "AGS měst k přepočtu (čárkou), prázdné = všechna"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -20,6 +25,8 @@ jobs:
       - run: pip install requests geopandas pyogrio shapely pandas
       - name: Spočítat
         run: python de/scripts/geo.py
+        env:
+          MESTA: ${{ inputs.mesta }}
       - name: Uložit
         if: always()
         run: |

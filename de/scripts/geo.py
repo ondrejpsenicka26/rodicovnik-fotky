@@ -182,6 +182,14 @@ def main():
     gem4 = gem.to_crs(4326)
     mesta = gem4[gem4["AGS"].map(lambda a: pocty.get(a, 0) >= 120)]
     vysledek = {}
+    # MESTA=ags,ags… přepočítá jen vybraná města a zbytek převezme z minulého běhu
+    jen = [a for a in os.environ.get("MESTA", "").split(",") if a]
+    if jen:
+        try:
+            vysledek = json.load(open(os.path.join(GEO, "stadtteile.json")))
+        except Exception:  # noqa: BLE001
+            vysledek = {}
+        mesta = mesta[mesta["AGS"].isin(jen)]
     for _, m in mesta.iterrows():
         ags, nazev = m["AGS"], m["GEN"]
         x0, y0, x1, y1 = m.geometry.bounds
@@ -208,7 +216,7 @@ out geom;"""
             if g is None or g.is_empty:
                 continue
             # jen obvody uvnitř města (sousední obce mají vlastní stránky)
-            if g.intersection(mesto).area < 0.8 * g.area:
+            if g.intersection(mesto).area < 0.5 * g.area:
                 continue
             oblasti[lvl].append((jm, g))
         moje = [k for k in kity if k["ags"] == ags]
