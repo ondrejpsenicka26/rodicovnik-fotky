@@ -64,7 +64,13 @@ def polygon_relace(el):
             cary.append(LineString([(g["lon"], g["lat"]) for g in m["geometry"]]))
     if not cary:
         return None
-    polys = list(polygonize(linemerge(unary_union(cary))))
+    u = unary_union(cary)
+    cary = [u] if u.geom_type == "LineString" else list(getattr(u, "geoms", [u]))
+    try:
+        polys = list(polygonize(cary))
+    except Exception as e:  # noqa: BLE001
+        print("polygon", el.get("tags", {}).get("name"), e, flush=True)
+        return None
     if not polys:
         return None
     g = unary_union(polys)
@@ -194,7 +200,11 @@ out geom;"""
             lvl, jm = t.get("admin_level"), t.get("name")
             if lvl not in oblasti or not jm:
                 continue
-            g = polygon_relace(e)
+            try:
+                g = polygon_relace(e)
+            except Exception as ex:  # noqa: BLE001
+                print("obvod", jm, ex, flush=True)
+                continue
             if g is None or g.is_empty:
                 continue
             # jen obvody uvnitř města (sousední obce mají vlastní stránky)
@@ -222,6 +232,8 @@ out geom;"""
         vysledek[ags] = {"name": nazev, "bezirke": sorted({n for n, _ in oblasti["9"]}),
                          "stadtteile": sorted({n for n, _ in oblasti["10"]}), "kity": prirazeni}
         print(nazev, len(moje), "Kit,", len(oblasti["9"]), "obvodů,", len(oblasti["10"]), "čtvrtí", flush=True)
+        # průběžně ukládat – pád u jednoho města nesmí smazat ostatní
+        json.dump(vysledek, open(os.path.join(GEO, "stadtteile.json"), "w"), ensure_ascii=False, separators=(",", ":"))
     json.dump(vysledek, open(os.path.join(GEO, "stadtteile.json"), "w"), ensure_ascii=False, separators=(",", ":"))
 
 
