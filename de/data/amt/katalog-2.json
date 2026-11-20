@@ -1,0 +1,278 @@
+[
+ {
+  "titul": "Kindertagesstätten in Dresden",
+  "url": "https://kommisdd.dresden.de/net3/public/ogc.ashx?NodeId=803&Service=WFS&Request=GetCapabilities",
+  "stav": "ok",
+  "tabulky": [
+   {
+    "soubor": "a7143f563976.json.gz",
+    "popis": "cls:L608 (Kindertagesstätten)",
+    "radku": 286,
+    "sloupce": [
+     "aenderungsdatum",
+     "strasse",
+     "hausnummer",
+     "plz",
+     "ort",
+     "stadtbezirk",
+     "stadtteil",
+     "plaetze_hort",
+     "plaetze_integrativ",
+     "plaetze_kita",
+     "plaetze_krippe",
+     "einrichtungsart",
+     "aufnahmealter",
+     "betreuungstyp",
+     "e_mail",
+     "maximales_betreuungsalter",
+     "name",
+     "fon",
+     "url_kitaportal",
+     "traeger",
+     "traegerart",
+     "_x",
+     "_y",
+     "fax",
+     "url"
+    ],
+    "crs": "EPSG:4326",
+    "ukazka": [
+     {
+      "aenderungsdatum": "19.10.2026 15:26:14",
+      "strasse": "Vetschauer Straße",
+      "hausnummer": "39a",
+      "plz": "01237",
+      "ort": "Dresden",
+      "stadtbezirk": "Prohlis",
+      "stadtteil": "Prohlis-Nord",
+      "plaetze_hort": "0",
+      "plaetze_integrativ": "23",
+      "plaetze_kita": "60",
+      "plaetze_krippe": "24",
+      "einrichtungsart": "Kindertagesstätte",
+      "aufnahmealter": "10",
+      "betreuungstyp": "Kita",
+      "e_mail": "kita-vetschauer-strasse-39a@dresden.de",
+      "maximales_betreuungsalter": "84",
+      "name": "Kindertagesstätte \"Sonnenschein\" - Vetschauer Straße 39a",
+      "fon": "0351/488519042",
+      "url_kitaportal": "https://kitaportal.dresden.de/elternportal/de/einrichtungen/liste/ergebnisse/5186/details",
+      "traeger": "Eigenbetrieb Kindertageseinrichtungen Dresden",
+      "traegerart": "Kommunaler Träger",
+      "_x": "13.794361",
+      "_y": "51.009978"
+     },
+     {
+      "aenderungsdatum": "29.09.2023 14:29:25",
+      "strasse": "Tännichtweg",
+      "hausnummer": "14",
+      "plz": "01109",
+      "ort": "Dresden",
+      "stadtbezirk": "Klotzsche",
+      "stadtteil": "Hellerau/Wilschdorf",
+      "plaetze_hort": "0",
+      "plaetze_integrativ": "0",
+      "plaetze_kita": "42",
+      "plaetze_krippe": "6",
+      "einrichtungsart": "Kindertagesstätte",
+      "aufnahmealter": "24",
+      "betreuungstyp": "Kita",
+      "e_mail": "kita-taennichtweg-14@dresden.de",
+      "maximales_betreuungsalter": "84",
+      "name": "Kindertagesstätte \"Tännichtweg 14\"",
+      "fon": "0351/8 80 50 18",
+      "url_kitaportal": "https://kitaportal.dresden.de/elternportal/de/einrichtungen/liste/ergebnisse/5152/details",
+      "traeger": "Eigenbetrieb Kindertageseinrichtungen Dresden",
+      "traegerart": "Kommunaler Träger",
+      "_x": "13.753308",
+      "_y": "51.108984"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "titul": "Kindergärten Saarland",
+  "url": "https://geoportal.saarland.de/arcgis/services/Internet/Staatliche_Dienste/MapServer/WFSServer?VERSION=1.1.0&REQUEST=GetCapabilities&SERVICE=WFS",
+  "stav": "žádná vrstva se nenačetla",
+  "tabulky": []
+ },
+ {
+  "titul": "KiTa-Einrichtungen in Bremen",
+  "url": "https://www.transparenz.bremen.de/sixcms/media.php/bremen02.a.13.de/download/KiTa_Daten.xlsx",
+  "stav": "HTTP 403",
+  "tabulky": []
+ },
+ {
+  "titul": "Kitastandorte Land Bremen",
+  "url": "https://gdi2.geo.bremen.de/inspire/download/Kitastandorte/data/Kitastandorte_HB_BHV.zip",
+  "stav": "zip: žádný shapefile",
+  "tabulky": []
+ },
+ {
+  "titul": "Kindertagesstätten in Essen",
+  "url": "https://opendata.essen.de/sites/default/files/Kitas_2026_2027.geojson",
+  "stav": "chyba: ConnectTimeout HTTPSConnectionPool(host='opendata.essen.de', port=443): Max retries exceeded with url: /sites/default/files/Kitas_2026_",
+  "tabulky": []
+ },
+ {
+  "titul": "Übersicht der Kindertageseinrichtungen in Duisburg",
+  "url": "https://opendata-duisburg.de/sites/default/files/Alle%20Kitas%20Stand_Kindergartenjahr%202024_25.csv",
+  "stav": "chyba: ConnectTimeout HTTPSConnectionPool(host='opendata-duisburg.de', port=443): Max retries exceeded with url: /sites/default/files/Alle%20K",
+  "tabulky": []
+ },
+ {
+  "titul": "Übersicht der Kindertageseinrichtungen in Duisburg (2024)",
+  "url": "https://opendata-duisburg.de/sites/default/files/Alle%20Kitas%20Stand%20Mai%202024.xlsx",
+  "stav": "chyba: ConnectTimeout HTTPSConnectionPool(host='opendata-duisburg.de', port=443): Max retries exceeded with url: /sites/default/files/Alle%20K",
+  "tabulky": []
+ },
+ {
+  "titul": "Points of Interest – Kindergärten Karlsruhe",
+  "url": "https://geoportal.karlsruhe.de/ags04/rest/services/Hosted/Stadtplan_POIs_Kinder_Jugendliche/FeatureServer/0",
+  "stav": "chyba: ConnectTimeout HTTPSConnectionPool(host='geoportal.karlsruhe.de', port=443): Max retries exceeded with url: /ags04/rest/services/Hosted",
+  "tabulky": []
+ },
+ {
+  "titul": "Nürnberg: Städtische Einrichtungen – Kindergärten und Kinderkrippen",
+  "url": "https://dokumente.nuernberg.de/opendata/Daten_KoM/2026_Städtische_Einrichtungen_Kinderagarten_Kinderkrippe.csv",
+  "stav": "ok",
+  "tabulky": [
+   {
+    "soubor": "4552b6250e81.json.gz",
+    "popis": "csv",
+    "radku": 34,
+    "sloupce": [
+     "Name",
+     "Straße",
+     "Postleitzahl",
+     "Stadt",
+     "Homepage",
+     "Koordinate X",
+     "Koordinate Y"
+    ],
+    "crs": "",
+    "ukazka": [
+     {
+      "Name": "Geplante Kita: Waldkindergarten am Tiergarten",
+      "Straße": "Schmausenbuckstraße 95",
+      "Postleitzahl": "90482",
+      "Stadt": "Nürnberg",
+      "Homepage": "-",
+      "Koordinate X": "11.142.165.824.152",
+      "Koordinate Y": "49.453.318.615.479"
+     },
+     {
+      "Name": "Haus für Kinder Heimerichstraße - Kindergarten",
+      "Straße": "Heimerichstraße 42",
+      "Postleitzahl": "90419",
+      "Stadt": "Nürnberg",
+      "Homepage": "http://www.kita-heimerich.nuernberg.de",
+      "Koordinate X": "11.064.791.522.257",
+      "Koordinate Y": "49.464.165.348.643"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "titul": "Kindertageseinrichtungen im Landkreis Regensburg",
+  "url": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk=true&f=json",
+  "stav": "OGC API: nic",
+  "tabulky": []
+ },
+ {
+  "titul": "Kindertagesstätten Göttingen 1",
+  "url": "https://cloud.goettingen.de/index.php/s/9az5GjinN4GS5Yy/download",
+  "stav": "zip: žádný shapefile",
+  "tabulky": []
+ },
+ {
+  "titul": "Kindertagesstätten Göttingen 2",
+  "url": "https://cloud.goettingen.de/index.php/s/omd6yxjGSEpx4bM/download",
+  "stav": "zip: žádný shapefile",
+  "tabulky": []
+ },
+ {
+  "titul": "Kindertagesstätten Göttingen 3",
+  "url": "https://cloud.goettingen.de/index.php/s/Qz7RKRDcYPfGkx7/download",
+  "stav": "zip: žádný shapefile",
+  "tabulky": []
+ },
+ {
+  "titul": "Kindertagesstätten Göttingen 4",
+  "url": "https://cloud.goettingen.de/index.php/s/wJ4ftLwPa5PEaXi/download",
+  "stav": "ok",
+  "tabulky": [
+   {
+    "soubor": "bf85e901971a.json.gz",
+    "popis": "shp Kitas.shp",
+    "radku": 121,
+    "sloupce": [
+     "NAME",
+     "ADRESSE",
+     "ORTSTEIL",
+     "ORGANISATI",
+     "ORGANI_ART",
+     "KRIPPE",
+     "KRIP_INTEG",
+     "KIGA",
+     "KIGA_INTEG",
+     "JUNIORCLUB",
+     "INFO",
+     "WEB",
+     "KITAPORTAL",
+     "BILD",
+     "ID_QUELLE",
+     "ID_UNIQUE",
+     "_x",
+     "_y"
+    ],
+    "crs": "PROJCS[\"ETRS_1989_UTM_Zone_32N\",GEOGCS[\"GCS_ETRS_1989\",DATUM",
+    "ukazka": [
+     {
+      "NAME": "ASC Bonifatiusschule Junior Club",
+      "ADRESSE": "Bürgerstraße 52",
+      "ORTSTEIL": "Südstadt",
+      "ORGANISATI": "ASC-Kinderbetreuungs gGmbH",
+      "ORGANI_ART": "(ASC)",
+      "KRIPPE": "nein",
+      "KRIP_INTEG": "nein",
+      "KIGA": "nein",
+      "KIGA_INTEG": "nein",
+      "JUNIORCLUB": "ja",
+      "WEB": "https://asc46.de/sportort/bonifatiusschule-1-junior-club/",
+      "ID_QUELLE": "0339",
+      "ID_UNIQUE": "1",
+      "_x": "564904.455",
+      "_y": "5709011.691000001"
+     },
+     {
+      "NAME": "ASC ClubKita",
+      "ADRESSE": "Danziger Straße 21",
+      "ORTSTEIL": "Südstadt",
+      "ORGANISATI": "ASC-Kinderbetreuungs gGmbH",
+      "ORGANI_ART": "(ASC)",
+      "KRIPPE": "ja",
+      "KRIP_INTEG": "nein",
+      "KIGA": "ja",
+      "KIGA_INTEG": "nein",
+      "JUNIORCLUB": "nein",
+      "WEB": "https://asc46.de/sportort/asc-clubkita/",
+      "KITAPORTAL": "https://kita.goettingen.de/kitaportal2/detailseite.html?kita_id=900000043",
+      "ID_QUELLE": "0340",
+      "ID_UNIQUE": "2",
+      "_x": "565674.142",
+      "_y": "5708245.99"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "titul": "INSPIRE SH Staatliche Dienste Kindertagesstätten",
+  "url": "https://service.gdi-sh.de/WFS_SH_INSPIREDOWNLOAD_AIII_GS?service=WFS&version=2.0.0&request=GetCapabilities",
+  "stav": "žádná vrstva se nenačetla",
+  "tabulky": []
+ }
+]
