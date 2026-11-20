@@ -135,10 +135,11 @@ ZDROJE = [
          licence=DL_BY, n="bezeich", s="lage", po="ort", tr="traeger", w="homepage"),
     dict(id="dresden", soubor="a7143f563976", nazev="Kindertagesstätten in Dresden", vydavatel="Landeshauptstadt Dresden",
          licence=DL_BY, n="name", nazevBez=r"\s+-\s+[^-]*\d+\s*[a-z]?$", s="strasse", h="hausnummer", p="plz", o="ort",
-         t="fon", m="e_mail", w="url", tr="traeger", k=["plaetze_kita", "plaetze_krippe"], vekM="aufnahmealter",
+         t="fon", m="e_mail", w="url", tr="traeger", typ="traegerart", k=["plaetze_kita", "plaetze_krippe"],
+         vekM="aufnahmealter",
          filtrNe=("einrichtungsart", r"Auslagerung")),
     dict(id="goettingen", soubor="bf85e901971a", nazev="Kindertagesstätten Göttingen", vydavatel="Stadt Göttingen",
-         licence=CC0, n="NAME", s="ADRESSE", obec="Göttingen", w="WEB", tr="ORGANISATI",
+         licence=CC0, n="NAME", s="ADRESSE", obec="Göttingen", w="WEB", tr="ORGANISATI", typ="ORGANI_ART",
          filtrNe=("JUNIORCLUB", r"^ja$")),
 ]
 
