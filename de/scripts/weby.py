@@ -81,8 +81,11 @@ def odkazy(base, html):
     out = []
     host = urlparse(base).netloc
     for h in re.findall(r'href="([^"#]+)"', html, re.I):
-        u = urljoin(base, h)
-        p = urlparse(u)
+        try:
+            u = urljoin(base, h)
+            p = urlparse(u)
+        except ValueError:
+            continue
         if p.netloc != host or not p.scheme.startswith("http"):
             continue
         if re.search(r"\.(pdf|jpe?g|png|gif|zip|docx?)$", p.path, re.I):
@@ -169,10 +172,25 @@ def main():
     # web, který sdílí víc Kit, je portál nosiče – fakta by nepatřila jedné Kitě
     vlastni = {u: ks[0] for u, ks in podle.items() if len(ks) == 1}
     print("webů:", len(podle), "vlastních:", len(vlastni), flush=True)
-    vystup = {}
+    # pokračování: co už máme z minulého běhu, znovu nestahujeme
+    cesta = os.path.join(OUT, "weby.json")
+    try:
+        vystup = json.load(open(cesta))
+    except Exception:  # noqa: BLE001
+        vystup = {}
+    zbyva = {u: k for u, k in vlastni.items() if k["id"] not in vystup}
+    print("už hotovo:", len(vystup), "zbývá:", len(zbyva), flush=True)
     hotovo = 0
+
+    def bezpecne(u):
+        try:
+            return zpracuj(u)
+        except Exception as e:  # noqa: BLE001 – jeden rozbitý web nesmí shodit celý běh
+            print("chyba", u, str(e)[:120], flush=True)
+            return u, None
+
     with ThreadPoolExecutor(max_workers=32) as ex:
-        fut = {ex.submit(zpracuj, u): u for u in vlastni}
+        fut = {ex.submit(bezpecne, u): u for u in zbyva}
         for f in as_completed(fut):
             u, data = f.result()
             hotovo += 1
@@ -183,8 +201,8 @@ def main():
                 if (k["t"].get("operator:type") or "") in ("public", "government"):
                     data.pop("cena", None)
                 vystup[k["id"]] = data
-            if hotovo % 500 == 0:
-                print(hotovo, "/", len(vlastni), flush=True)
+            if hotovo % 250 == 0:
+                print(hotovo, "/", len(zbyva), flush=True)
                 json.dump(vystup, open(os.path.join(OUT, "weby.json"), "w"), ensure_ascii=False)
     json.dump(vystup, open(os.path.join(OUT, "weby.json"), "w"), ensure_ascii=False)
     pocty = Counter()
