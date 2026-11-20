@@ -8,7 +8,7 @@ Bereme jen licence CC0, Public domain, CC BY, CC BY-SA. Fotky ukládáme zmenše
 (de/fotky/<osm id>/<n>.webp, 1280 px a náhled 640 px) a metadata s autorem a licencí
 do de/data/fotky.json – web je u fotky uvádí.
 """
-import io, json, math, os, re, time
+import io, json, math, os, re, shutil, time
 from collections import defaultdict
 import requests
 from PIL import Image
@@ -16,11 +16,22 @@ from PIL import Image
 OUT = os.path.join(os.path.dirname(__file__), "..")
 API = "https://commons.wikimedia.org/w/api.php"
 UA = {"User-Agent": "kita-finder-data/1.0 (https://github.com/ondrejpsenicka26/rodicovnik-fotky; contact via repo)"}
-KOREN = ["Category:Kindergartens in Germany", "Category:Daycare centers in Germany"]
+KOREN = ["Category:Kindergartens in Germany", "Category:Kindergartens in Germany by state", "Category:Daycare centers in Germany",
+         "Category:Day care centres in Germany", "Category:Child care in Germany", "Category:Nursery schools in Germany",
+         "Category:Kindertagesstätten in Deutschland", "Category:Preschools in Germany"]
+# v názvu souboru musí být slovo, které ukazuje na Kitu (jinak jde často o vedlejší dům nebo ulici)
+KLIC = re.compile(r"kita\b|kindergarten|kindertages|krippe|kinderhaus|kinderladen|kiga\b|kinderhort|kinder- und|"
+                  r"kindertagesst|tagesstätte|tagesstaette|familienzentrum|waldkindergarten|kinderbetreuung|kinderhaus", re.I)
+OBECNA = {"kita", "kindergarten", "kindertagesstätte", "kindertagesstaette", "kinderkrippe", "krippe", "haus", "kinder",
+          "evangelische", "evangelischer", "katholische", "katholischer", "städtische", "staedtische", "städtischer",
+          "kindertageseinrichtung", "familienzentrum", "integrative", "gemeinde", "sankt", "st.", "der", "die", "das",
+          "und", "für", "fuer", "am", "an", "im", "in", "zum", "zur", "kath.", "ev.", "kiga", "awo", "drk", "johanniter",
+          "diakonie", "caritas", "kinderhaus", "kinderland", "tagesstätte", "waldkindergarten", "e.v.", "gmbh"}
+MAX_FOTEK_CELKEM = 2200
 POVOLENE = re.compile(r"^(cc0|public domain|pd|cc by(-sa)? ?\d|cc-by(-sa)?-\d)", re.I)
 VYLOUCIT = re.compile(r"kinder (spielen|beim|im)|children|kids|fest|feier|einweihung|richtfest|grundstein|spatenstich|"
                       r"interior|innen|logo|plan|karte|map|schild|sign", re.I)
-MAX_NA_KITU = 3
+MAX_NA_KITU = 2
 s = requests.Session()
 s.headers.update(UA)
 
@@ -61,12 +72,38 @@ def kategorie_strom():
     return soubory
 
 
+def geohledani(kity):
+    """Soubory na Commons do 80 m od každé Kity, jejichž název ukazuje na Kitu."""
+    from concurrent.futures import ThreadPoolExecutor
+    nalez = defaultdict(set)
+
+    def jedna(k):
+        j = api(action="query", list="geosearch", gscoord=f"{k['lat']}|{k['lon']}", gsradius="80", gsnamespace="6",
+                gslimit="50")
+        out = []
+        tokeny = {t for t in re.findall(r"[\wäöüß]{5,}", (k["t"].get("name") or "").lower()) if t not in OBECNA}
+        for g in j.get("query", {}).get("geosearch", []):
+            titul = g["title"]
+            tl = titul.lower()
+            if KLIC.search(titul) or any(t in tl for t in tokeny):
+                out.append((titul, g.get("dist", 0)))
+        return k["id"], out
+
+    with ThreadPoolExecutor(4) as ex:
+        for i, (kid, out) in enumerate(ex.map(jedna, kity)):
+            for titul, _ in out:
+                nalez[kid].add(titul)
+            if i % 2000 == 0:
+                print("geo", i, "/", len(kity), "nalezeno Kit:", len(nalez), flush=True)
+    return nalez
+
+
 def info(tituly):
     out = {}
     tituly = list(tituly)
     for i in range(0, len(tituly), 50):
         j = api(action="query", titles="|".join(tituly[i:i + 50]), prop="coordinates|imageinfo",
-                iiprop="url|size|extmetadata|mime", iiurlwidth="1280", colimit="max")
+                iiprop="url|size|extmetadata|mime", iiurlwidth="1024", colimit="max")
         for p in j.get("query", {}).get("pages", []):
             ii = (p.get("imageinfo") or [{}])[0]
             meta = ii.get("extmetadata", {})
@@ -87,12 +124,12 @@ def ulozit(url, cil):
     r = s.get(url, timeout=60)
     r.raise_for_status()
     im = Image.open(io.BytesIO(r.content)).convert("RGB")
-    im.thumbnail((1280, 1280))
+    im.thumbnail((1024, 1024))
     os.makedirs(os.path.dirname(cil), exist_ok=True)
-    im.save(cil, "WEBP", quality=78, method=5)
+    im.save(cil, "WEBP", quality=70, method=6)
     nahled = im.copy()
-    nahled.thumbnail((640, 640))
-    nahled.save(cil.replace(".webp", "-nahled.webp"), "WEBP", quality=74, method=5)
+    nahled.thumbnail((560, 560))
+    nahled.save(cil.replace(".webp", "-nahled.webp"), "WEBP", quality=68, method=6)
     barva = im.resize((1, 1)).getpixel((0, 0))
     return im.size, "#%02x%02x%02x" % barva
 
@@ -111,6 +148,12 @@ def main():
     print("přímé tagy:", len(prime), flush=True)
     # 2) kategorie
     soubory = kategorie_strom() | set(prime)
+    # 3) geohledání u každé Kity
+    geo = geohledani(kity)
+    print("geohledání: Kit", len(geo), "souborů", sum(len(v) for v in geo.values()), flush=True)
+    for kid, tituly in geo.items():
+        for t in tituly:
+            soubory.add(t)
     meta = info(soubory)
     # mřížka Kit pro hledání nejbližší
     mrizka = defaultdict(list)
@@ -127,23 +170,36 @@ def main():
                         best, bd = k, d
         return best, bd
 
+    geo_podle_souboru = defaultdict(list)
+    for kid, tituly in geo.items():
+        for t in tituly:
+            geo_podle_souboru[t].append(kid)
     prirazeni = defaultdict(list)
     for titul, m in meta.items():
         if not m.get("thumb") or not POVOLENE.search(m["lic"] or "") or VYLOUCIT.search(titul):
             continue
         if m["mime"] not in ("image/jpeg", "image/png", "image/webp", "image/tiff"):
             continue
-        cile = prime.get(titul)
+        cile = list(prime.get(titul, []))
+        cile += [kid for kid in geo_podle_souboru.get(titul, []) if kid not in cile]
         if not cile and m["lat"] is not None:
             k, d = nejblizsi(m["lat"], m["lon"])
             if k and d <= 60:
                 cile = [k["id"]]
+        if len(cile or []) > 2:
+            cile = cile[:1]
         for c in cile or []:
             prirazeni[c].append((titul, m))
     print("Kit s fotkou:", len(prirazeni), flush=True)
 
+    shutil.rmtree(os.path.join(OUT, "fotky"), ignore_errors=True)
     vystup = {}
-    for kid, seznam in prirazeni.items():
+    # nejdřív Kity s fotkou z přímého tagu, pak ostatní; celkový strop kvůli velikosti repozitáře
+    poradi = sorted(prirazeni.items(), key=lambda kv: (0 if any(t in prime for t, _ in kv[1]) else 1, kv[0]))
+    celkem = 0
+    for kid, seznam in poradi:
+        if celkem >= MAX_FOTEK_CELKEM:
+            break
         polozky = []
         for n, (titul, m) in enumerate(seznam[:MAX_NA_KITU], 1):
             cil = os.path.join(OUT, "fotky", kid, f"{n}.webp")
@@ -157,6 +213,7 @@ def main():
             time.sleep(0.3)
         if polozky:
             vystup[kid] = polozky
+            celkem += len(polozky)
     json.dump(vystup, open(os.path.join(OUT, "data", "fotky.json"), "w"), ensure_ascii=False, indent=0)
     print("hotovo:", len(vystup), "Kit,", sum(len(v) for v in vystup.values()), "fotek", flush=True)
 
