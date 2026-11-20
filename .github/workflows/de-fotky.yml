@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add --sparse de/fotky de/data/fotky.json 2>/dev/null || git add de/fotky de/data/fotky.json
+          git add --sparse de/fotky de/data/fotky.json de/data/commons-geo.json 2>/dev/null || git add de/fotky de/data/fotky.json de/data/commons-geo.json
           git commit -m "DE: fotky z Wikimedia Commons $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 10; done
