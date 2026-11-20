@@ -39,13 +39,16 @@ KAT = {
     "montessori": re.compile(r"montessori", re.I),
     "waldorf": re.compile(r"waldorf", re.I),
     "wald": re.compile(r"waldkindergarten|waldgruppe|waldkita|naturkindergarten|naturgruppe", re.I),
-    "bilingual": re.compile(r"bilingual|zweisprachig|immersion|english[- ]speaking|deutsch[- ]englisch", re.I),
+    "bilingual": re.compile(r"bilingual|zweisprachig|english[- ]speaking|deutsch[- ]englisch", re.I),
     "kneipp": re.compile(r"kneipp", re.I),
     "bewegung": re.compile(r"bewegungskita|bewegungskindergarten|anerkannter bewegungs|bewegte kita", re.I),
-    "integrativ": re.compile(r"integrativ|inklusiv|inklusion|heilpädagog|heilpaedagog", re.I),
+    # „Inklusion“ zmiňuje skoro každý web – počítáme jen konkrétní integrativní místa a skupiny
+    "integrativ": re.compile(r"integrativ(?:e|er|en)?\s+(?:kita|kindergarten|kindertages\w*|einrichtung|gruppe|krippe)|"
+                             r"integrationsplätze|integrationsplaetze|integrationskind|integrationsgruppe|"
+                             r"heilpädagogische\s+(?:gruppe|kita|tagesstätte)|inklusive\s+(?:kita|kindertages\w*|einrichtung)", re.I),
 }
 VLASTNOSTI = {
-    "zahrada": re.compile(r"garten|außengelände|aussengelaende|außenbereich", re.I),
+    "zahrada": re.compile(r"\bgarten\b|außengelände|aussengelaende|außenspielgelände|\bgartens\b", re.I),
     "vlastni-kuchyne": re.compile(r"eigene[nr]? küche|eigene[nr]? kueche|frisch gekocht|täglich frisch|selbst gekocht", re.I),
     "bio-strava": re.compile(r"\bbio[- ]?(?:essen|kost|qualität|lebensmittel|zutaten|zertifiziert)", re.I),
     "logoped": re.compile(r"logopäd|logopaed|sprachförder", re.I),
@@ -55,7 +58,9 @@ VLASTNOSTI = {
     "vylety": re.compile(r"ausflüge|ausfluege|exkursion", re.I),
     "adaptace-s-rodicem": re.compile(r"berliner (?:eingewöhnungs)?modell|münchener (?:eingewöhnungs)?modell|eingewöhnung", re.I),
 }
-R_CENA = re.compile(r"(\d{3,4}(?:[.,]\d{2})?)\s*(?:€|euro|eur)\s*(?:pro|im|/|monatlich|mtl)", re.I)
+R_CENA = re.compile(r"(\d{3,4}(?:[.,]\d{2})?)\s*(?:€|euro|eur)\.?\s*(?:(?:pro|im|/|je)\s*monat|monatlich|mtl)", re.I)
+R_CENA_KLIC = re.compile(r"beitrag|gebühr|gebuehr|kosten|elternentgelt|betreuungsentgelt|preis", re.I)
+R_CENA_NE = re.compile(r"essen|verpflegung|mittag|anmelde|kaution|aufnahme|gehalt|vergütung|verguetung|stelle|erzieher", re.I)
 R_TEL = re.compile(r'href="tel:([+\d][\d\s/()+-]{6,})"', re.I)
 R_MAIL = re.compile(r'href="mailto:([^"?]+@[^"?]+)"', re.I)
 
@@ -124,7 +129,9 @@ def fakta(txt, htmls):
         if hodnoty:
             f["kapacita"] = Counter(hodnoty).most_common(1)[0][0]
             break
-    f["kat"] = sorted(k for k, rx in KAT.items() if len(rx.findall(txt)) >= (1 if k in ("montessori", "waldorf", "kneipp") else 2))
+    titul = " ".join(re.findall(r"<(?:title|h1)[^>]*>(.*?)</(?:title|h1)>", htmls[0], re.I | re.S))
+    f["kat"] = sorted(k for k, rx in KAT.items() if len(rx.findall(txt)) >= 1)
+    f["katSila"] = {k: [len(rx.findall(txt)), bool(rx.search(titul))] for k, rx in KAT.items() if rx.search(txt)}
     f["vlastnosti"] = sorted(k for k, rx in VLASTNOSTI.items() if rx.search(txt))
     tel = [t.strip() for h in htmls for t in R_TEL.findall(h)]
     mail = [m.strip().lower() for h in htmls for m in R_MAIL.findall(h)]
@@ -132,10 +139,19 @@ def fakta(txt, htmls):
         f["tel"] = Counter(tel).most_common(1)[0][0]
     if mail:
         f["mail"] = Counter(mail).most_common(1)[0][0]
-    ceny = [float(c.replace(".", "").replace(",", ".")) if "," in c else float(c) for c in R_CENA.findall(txt)]
-    ceny = [c for c in ceny if 100 <= c <= 2500]
+    ceny = []
+    for m in R_CENA.finditer(txt):
+        okoli = txt[max(0, m.start() - 140): m.start()]
+        if not R_CENA_KLIC.search(okoli) or R_CENA_NE.search(okoli[-70:]):
+            continue
+        c = m.group(1)
+        c = float(c.replace(".", "").replace(",", ".")) if "," in c else float(c)
+        if 100 <= c <= 2500:
+            ceny.append(c)
     if ceny:
-        f["cena"] = int(min(ceny))
+        ceny.sort()
+        f["cena"] = int(ceny[len(ceny) // 2])
+        f["ceny"] = [int(c) for c in ceny[:6]]
     return f
 
 
@@ -178,6 +194,7 @@ def main():
         vystup = json.load(open(cesta))
     except Exception:  # noqa: BLE001
         vystup = {}
+    vystup = {k: v for k, v in vystup.items() if v.get("v") == 2}
     zbyva = {u: k for u, k in vlastni.items() if k["id"] not in vystup}
     print("už hotovo:", len(vystup), "zbývá:", len(zbyva), flush=True)
     hotovo = 0
@@ -197,6 +214,7 @@ def main():
             if data:
                 k = vlastni[u]
                 data["datum"] = date.today().isoformat()
+                data["v"] = 2
                 # cenu bereme jen u Kit, které si ji určují samy (ne u obecních tabulek)
                 if (k["t"].get("operator:type") or "") in ("public", "government"):
                     data.pop("cena", None)
