@@ -83,27 +83,32 @@ def get(url, **kw):
                 continue
             return r
         except Exception as e:  # noqa: BLE001
-            if pokus == 2:
+            if pokus >= 1:
                 raise
-            time.sleep(3)
+            time.sleep(2)
     return None
 
 
 # ---------- katalog ----------
 def hledej_ckan(jmeno, api):
-    nalezene, ok = {}, False
+    nalezene, ok, chyby = {}, False, 0
     for q in HLEDAT:
+        # nedostupný katalog nezkoušíme s každým výrazem znovu
+        if (not ok and (chyby >= 1 or q != HLEDAT[0])) or chyby >= 3:
+            break
         start = 0
         while start < 3000:
             try:
-                r = get(api, params={"q": q, "rows": 500, "start": start}, timeout=45)
+                r = get(api, params={"q": q, "rows": 500, "start": start}, timeout=(10, 40))
                 if r is None or r.status_code != 200:
+                    chyby += 1
                     break
                 d = r.json()
                 res = d.get("result") or {}
                 vys = res.get("results") or []
             except Exception as e:  # noqa: BLE001
                 log(f"  ! {jmeno} {q}: {str(e)[:120]}")
+                chyby += 1
                 break
             ok = True
             for p in vys:
@@ -359,7 +364,7 @@ def z_gml(b):
 
 # ---------- stažení zdroje ----------
 def stahni(url, params=None, limit=MAX_BAJTU):
-    r = get(url, params=params, stream=True, timeout=90)
+    r = get(url, params=params, stream=True, timeout=(15, 60))
     if r is None or r.status_code != 200:
         return None, f"HTTP {getattr(r, 'status_code', '?')}", ""
     buf = io.BytesIO()
@@ -581,7 +586,7 @@ def main():
         z = sady[klic]["zdroje"][i]
         return u, nacti_zdroj(z)
 
-    with ThreadPoolExecutor(8) as ex:
+    with ThreadPoolExecutor(16) as ex:
         fut = [ex.submit(prace, u) for u in ukoly]
         for n, f in enumerate(as_completed(fut), 1):
             try:
