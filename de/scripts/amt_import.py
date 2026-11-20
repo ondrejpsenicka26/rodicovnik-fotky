@@ -133,6 +133,13 @@ ZDROJE = [
          utm=("_x", "_y", 25832)),
     dict(id="norderstedt", soubor="bde0c22dcfd1", nazev="Kindertagesstätten Norderstedt", vydavatel="Stadt Norderstedt",
          licence=DL_BY, n="bezeich", s="lage", po="ort", tr="traeger", w="homepage"),
+    dict(id="dresden", soubor="a7143f563976", nazev="Kindertagesstätten in Dresden", vydavatel="Landeshauptstadt Dresden",
+         licence=DL_BY, n="name", nazevBez=r"\s+-\s+[^-]*\d+\s*[a-z]?$", s="strasse", h="hausnummer", p="plz", o="ort",
+         t="fon", m="e_mail", w="url", tr="traeger", k=["plaetze_kita", "plaetze_krippe"], vekM="aufnahmealter",
+         filtrNe=("einrichtungsart", r"Auslagerung")),
+    dict(id="goettingen", soubor="bf85e901971a", nazev="Kindertagesstätten Göttingen", vydavatel="Stadt Göttingen",
+         licence=CC0, n="NAME", s="ADRESSE", obec="Göttingen", w="WEB", tr="ORGANISATI",
+         filtrNe=("JUNIORCLUB", r"^ja$")),
 ]
 
 R_PORTAL = re.compile(r"kita-navigator|kita-online|kitaportal|kita-portal|little-bird|geoportal|geoservice|"
@@ -311,6 +318,8 @@ def nacti_zdroj(z):
                     if a:
                         z[klic] = a
         nazev = re.sub(r"\s+", " ", g("n").replace('"', "").replace("„", "").replace("“", "")).strip()
+        if z.get("nazevBez"):
+            nazev = re.sub(z["nazevBez"], "", nazev).strip()
         ulice, cd = g("s"), re.sub(r"\s+", "", g("h") + g("h2")).lower()
         if not cd:
             ulice, cd = rozdel_ulici(ulice)
