@@ -5,7 +5,8 @@ a uloží nejbližší z nich. Z toho se v build.py odvodí ulice a PSČ (čísl
 když je jednoznačné). Zdroj: © přispěvatelé OpenStreetMap (ODbL).
 Výstup: de/data/adresy-okoli.json  {osm id: [[ulice, číslo, PSČ, obec, vzdálenost m], …]}
 """
-import json, math, os, time
+import json, math, os, threading, time
+from concurrent.futures import ThreadPoolExecutor
 from collections import defaultdict
 
 import requests
@@ -14,7 +15,7 @@ OUT = os.path.join(os.path.dirname(__file__), "..", "data")
 UA = {"User-Agent": "kita-finder-data/1.0 (github.com/ondrejpsenicka26/rodicovnik-fotky)"}
 OVERPASS = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter",
             "https://overpass.private.coffee/api/interpreter"]
-DAVKA = 250
+DAVKA = 100
 CIL = os.path.join(OUT, "adresy-okoli.json")
 
 
@@ -29,23 +30,23 @@ def dotaz(ids):
     w = ",".join(i[1:] for i in ids if i[0] == "w")
     r = ",".join(i[1:] for i in ids if i[0] == "r")
     casti = "".join(f"{t}(id:{s});" for t, s in (("node", n), ("way", w), ("relation", r)) if s)
-    return f"""[out:json][timeout:240];
+    return f"""[out:json][timeout:120];
 ({casti})->.k;
 nwr(around.k:40)["addr:housenumber"]["addr:street"];
 out tags center qt;"""
 
 
-def overpass(q):
+def overpass(q, prvni=0):
     for pokus in range(8):
-        url = OVERPASS[pokus % len(OVERPASS)]
+        url = OVERPASS[(prvni + pokus) % len(OVERPASS)]
         try:
-            r = requests.post(url, data={"data": q}, headers=UA, timeout=300)
+            r = requests.post(url, data={"data": q}, headers=UA, timeout=150)
             if r.status_code == 200 and r.text.lstrip().startswith("{"):
                 return r.json()["elements"]
             print("  overpass", url, r.status_code, flush=True)
         except Exception as e:  # noqa: BLE001
             print("  overpass", url, str(e)[:100], flush=True)
-        time.sleep(15 * (pokus + 1))
+        time.sleep(5 * (pokus + 1))
     return None
 
 
@@ -57,15 +58,22 @@ def main():
     except Exception:  # noqa: BLE001
         vystup = {}
     zbyva = [k for k in chybi if k["id"] not in vystup]
+    # nejdřív Kity se jménem a bez ulice (ty se na webu ukazují a adresa jim chybí celá),
     # blízké Kity do stejné dávky: Overpass pak hledá v malém území
-    zbyva.sort(key=lambda k: (round(k["lat"], 1), round(k["lon"], 1), k["lat"]))
+    zbyva.sort(key=lambda k: (bool(k["t"].get("addr:street")) or not k["t"].get("name"),
+                              round(k["lat"], 1), round(k["lon"], 1), k["lat"]))
     print("bez adresy:", len(chybi), "zbývá:", len(zbyva), flush=True)
-    for i in range(0, len(zbyva), DAVKA):
-        davka = zbyva[i:i + DAVKA]
-        el = overpass(dotaz([k["id"] for k in davka]))
+    zamek, stav, konec = threading.Lock(), {"hotovo": 0, "chyby": 0}, time.time() + 215 * 60
+
+    def zpracuj(arg):
+        cislo, davka = arg
+        if time.time() > konec or stav["chyby"] >= 6:
+            return
+        el = overpass(dotaz([k["id"] for k in davka]), cislo)
         if el is None:
-            print("dávka selhala, končím (příště se naváže)", flush=True)
-            break
+            with zamek:
+                stav["chyby"] += 1
+            return
         adresy = []
         for e in el:
             t = e.get("tags") or {}
@@ -75,10 +83,10 @@ def main():
                 continue
             adresy.append((la, lo, t["addr:street"].strip(), t.get("addr:housenumber", "").strip(),
                            t.get("addr:postcode", "").strip(), (t.get("addr:city") or "").strip()))
-        # hrubá mřížka, ať se nepočítá každá adresa s každou Kitou
         mriz = defaultdict(list)
         for a in adresy:
             mriz[(round(a[0] * 200), round(a[1] * 200))].append(a)
+        nove = {}
         for k in davka:
             kand = []
             gx, gy = round(k["lat"] * 200), round(k["lon"] * 200)
@@ -96,11 +104,17 @@ def main():
                     continue
                 vid.add(klic)
                 out.append(x)
-            vystup[k["id"]] = out[:8]
-        if (i // DAVKA) % 4 == 0:
-            json.dump(vystup, open(CIL, "w"), ensure_ascii=False, separators=(",", ":"))
-            print(f"{i + len(davka)} / {len(zbyva)}", flush=True)
-        time.sleep(2)
+            nove[k["id"]] = out[:8]
+        with zamek:
+            vystup.update(nove)
+            stav["hotovo"] += 1
+            if stav["hotovo"] % 5 == 0:
+                json.dump(vystup, open(CIL, "w"), ensure_ascii=False, separators=(",", ":"))
+                print(f"{len(vystup)} / {len(chybi)}", flush=True)
+
+    davky = [(n, zbyva[i:i + DAVKA]) for n, i in enumerate(range(0, len(zbyva), DAVKA))]
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        list(ex.map(zpracuj, davky))
     json.dump(vystup, open(CIL, "w"), ensure_ascii=False, separators=(",", ":"))
     print("hotovo:", len(vystup), "s kandidátem:", sum(1 for v in vystup.values() if v), flush=True)
 
